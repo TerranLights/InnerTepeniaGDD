@@ -9,7 +9,7 @@
 
 | Category | Value | Citation |
 |---|---|---|
-| Census I | 0 H / 66,849 R / **66,849** combined *(a long status cell is present: an authoring note, not copied)* | `Official_Population_Census.md` L518 |
+| Census I | 0 H / 66,849 R / **66,849** combined *(a long status cell is present: an authoring note, not copied)* | `Official_Population_Census.md` L530 |
 | Census II | ⛔ **No Census II row exists in the census** — an empty slot is a result (`No Forced Fit`) | `Official_Population_Census.md` |
 | `Extent_and_Density_Per_City.md` — the city's own row in "THE TABLE — required area at the band, all 25" (**2026-09-05 snapshot; the census is live — note L631**) | Dome Fuji · Mawson · Census I 55,072 · @10k 6 · @7k 8 · Site **Dome F** *(column names as in the table header, L603)* | `Extent_and_Density_Per_City.md` L628 (table heading L601, header L603, note L631) |
 | ↳ `Extent_and_Density_Per_City.md` — other lines naming the city | *[source line is a multi-city list; not copied, line number recorded only]* | `Extent_and_Density_Per_City.md` L249 |

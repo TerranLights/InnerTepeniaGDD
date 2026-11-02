@@ -17,37 +17,51 @@
 
 | Tier | Nations |
 |------|---------|
-| Primary | USA |
-| Significant | Germany, France, UK, Canada, Brazil |
-| Notable | Poland, Netherlands, Argentina, Czech Republic, Hungary, South Africa *(founding wave)*, Slovakia, Chile, Croatia, Serbia, Slovenia |
+| Primary | Brazil, United Kingdom, CSA, France |
+| Significant | Cascadia, Appalachia, Netherlands, Serbia, Croatia, Slovenia, New England, Demilitarized Zone (s. Ontario; not a nation), Poland, Germany, Chile, Quebec, Austro-Bavaria, Argentina (without Patagonia), Prairie Federation, South Africa *(founding wave)*, Czechia, Hungary, Midwest Republic, Amazonia, Colorado |
+| Notable | Slovakia, Sonora, Araucanía-Patagonia, Northern Ireland, Hawaii, Alaska |
 
 *Source: `Official_Population_Census.md` Sections A–C.*
 
 ### Per-Nation Breakdown — Robots and Humans, Census I and II
 
-*(De-stacked 2026-07-05 — raw tier-share percentages naturally produced blocks of nations with identical figures; applied a randomization method to break these into distinct, non-repeating values while preserving each tier's total and ordering. See `TODO.md` for the full method.)*
+*(Rebalanced 2026-11-02 in the population rework, `DR-85`: every country appears in its latest-period form (successor states and renamed countries, split by headcount, names explained in `Official_Population_Census.md` Section E); China's row is the Sinian Federation, with its decline and the refill of the gap where the rework applies it; places never counted before were added by time-zone window; tiers were relabeled from the final shares. This city: new pools: Luxembourg 0.17%, Kosovo 0.07%, Austria 1.72%. City totals in all four columns are unchanged. Method, every run and the research: `Sinian_Federation_Split_Scratch_2026-11-01/` (file `12_Rebalance_Run4.md`). The table that stood here before is in git commit `593510ab`.)*
 
 | Tier | Nation | Share % | Census I Robots | Census I Humans | Census II Robots | Census II Humans |
 |------|--------|---------|------------------|------------------|-------------------|-------------------|
-| Primary | USA | 23.53% | 177,499 | 169,856 | 138,023 | 121,722 |
-| Significant | Brazil | 11.69% | 88,177 | 84,380 | 68,565 | 60,468 |
-| Significant | UK | 10.57% | 79,766 | 76,332 | 62,026 | 54,700 |
-| Significant | Canada | 10.34% | 77,970 | 74,613 | 60,629 | 53,468 |
-| Significant | France | 7.31% | 55,155 | 52,779 | 42,888 | 37,823 |
-| Notable | Netherlands | 4.30% | 32,462 | 31,063 | 25,242 | 22,261 |
-| Significant | Germany | 4.21% | 31,744 | 30,377 | 24,684 | 21,768 |
-| Notable | Croatia | 4.16% | 31,349 | 29,998 | 24,376 | 21,497 |
-| Notable | Serbia | 4.10% | 30,948 | 29,616 | 24,065 | 21,223 |
-| Notable | Slovenia | 4.08% | 30,768 | 29,443 | 23,926 | 21,100 |
-| Notable | Chile | 3.82% | 28,816 | 27,575 | 22,408 | 19,761 |
-| Notable | Poland | 3.56% | 26,856 | 25,699 | 20,883 | 18,417 |
-| Notable | Argentina | 2.32% | 17,519 | 16,765 | 13,623 | 12,013 |
-| Notable | South Africa | 1.80% | 13,606 | 13,021 | 10,580 | 9,331 |
-| Notable | Czech Republic | 1.78% | 13,427 | 12,848 | 10,441 | 9,207 |
-| Notable | Hungary | 1.58% | 11,913 | 11,401 | 9,264 | 8,170 |
-| Notable | Slovakia | 0.85% | 6,399 | 6,123 | 4,976 | 4,388 |
+| Primary | Brazil | 10.32% | 77,864 | 74,511 | 60,547 | 53,396 |
+| Primary | United Kingdom | 10.07% | 76,031 | 72,756 | 59,121 | 52,139 |
+| Primary | CSA | 7.46% | 56,296 | 53,872 | 43,775 | 38,605 |
+| Primary | France | 7.34% | 55,351 | 52,966 | 43,040 | 37,957 |
+| Significant | Cascadia | 4.88% | 36,807 | 35,221 | 28,621 | 25,240 |
+| Significant | Appalachia | 4.79% | 36,135 | 34,579 | 28,098 | 24,780 |
+| Significant | Netherlands | 4.22% | 31,828 | 30,457 | 24,750 | 21,827 |
+| Significant | Serbia | 4.09% | 30,853 | 29,525 | 23,991 | 21,157 |
+| Significant | Croatia | 4.08% | 30,736 | 29,411 | 23,899 | 21,077 |
+| Significant | Slovenia | 4.00% | 30,167 | 28,867 | 23,459 | 20,687 |
+| Significant | New England | 3.92% | 29,554 | 28,281 | 22,981 | 20,267 |
+| Significant | Demilitarized Zone (s. Ontario; not a nation) | 3.75% | 28,252 | 27,036 | 21,970 | 19,373 |
+| Significant | Poland | 3.49% | 26,332 | 25,197 | 20,475 | 18,056 |
+| Significant | Germany | 3.46% | 26,106 | 24,982 | 20,299 | 17,902 |
+| Significant | Chile | 3.23% | 24,330 | 23,282 | 18,919 | 16,684 |
+| Significant | Quebec | 2.87% | 21,603 | 20,674 | 16,798 | 14,815 |
+| Significant | Austro-Bavaria | 2.38% | 17,975 | 17,202 | 13,978 | 12,327 |
+| Significant | Argentina (without Patagonia) | 2.15% | 16,202 | 15,504 | 12,598 | 11,110 |
+| Significant | Prairie Federation | 2.11% | 15,892 | 15,208 | 12,358 | 10,899 |
+| Significant | South Africa *(founding wave)* | 1.76% | 13,341 | 12,767 | 10,374 | 9,149 |
+| Significant | Czechia | 1.75% | 13,165 | 12,597 | 10,237 | 9,027 |
+| Significant | Hungary | 1.55% | 11,681 | 11,178 | 9,083 | 8,010 |
+| Significant | Midwest Republic | 1.49% | 11,237 | 10,752 | 8,738 | 7,706 |
+| Significant | Amazonia | 1.14% | 8,590 | 8,220 | 6,678 | 5,891 |
+| Significant | Colorado | 1.12% | 8,450 | 8,087 | 6,571 | 5,796 |
+| Notable | Slovakia | 0.83% | 6,274 | 6,004 | 4,878 | 4,302 |
+| Notable | Sonora | 0.66% | 4,963 | 4,751 | 3,860 | 3,405 |
+| Notable | Araucanía-Patagonia | 0.65% | 4,898 | 4,688 | 3,809 | 3,359 |
+| Notable | Northern Ireland | 0.29% | 2,176 | 2,084 | 1,693 | 1,493 |
+| Notable | Hawaii | 0.097% | 729 | 698 | 568 | 500 |
+| Notable | Alaska | 0.074% | 556 | 532 | 433 | 381 |
 
-*Figures use the project's standard share-weighting methodology as a baseline (Primary=8 shares, Significant=3 shares, Notable=1 share per nation — see `Upper_Earth_Immigration_Composition.md`), then de-stacked per the method above so that same-tier nations no longer show identical figures. Percentages are of this city's own population (identical between Census I and II under this proportional model), not Tepenia-wide. Robot figures apply the same national-origin proportions as the human population, consistent with the project's established methodology.*
+*Tier labels follow the final shares: Primary and Significant end at the largest ratio gaps among the rows at 4.5% or more (Primary never more than six rows), no row at 4.5% or more is Notable, and Notable is the rest (the composition file's own rule, "boundaries fall at the largest ratio gaps"; the 8 / 3 / 1 share weights no longer produce the figures). Percentages are of this city's own human and robot population (identical between censuses), not Tepenia-wide. Robot figures apply the same proportions as the human population. Shares are rounded; they sum to 100% within rounding.*
 
 ---
 

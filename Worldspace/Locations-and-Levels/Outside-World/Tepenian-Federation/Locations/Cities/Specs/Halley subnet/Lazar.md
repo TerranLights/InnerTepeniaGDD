@@ -38,45 +38,68 @@ See also: `Specs/Shirayuki.md` (Mirny subnet as of 2026-07-05, moved from Mawson
 
 | Tier | Nations |
 |------|---------|
-| Primary | USA |
-| Significant | Germany, France, UK, Russia, Brazil |
-| Notable | Poland, Netherlands, Argentina, Czech Republic, Ukraine, Romania, Norway, Finland, Hungary, South Africa, Slovakia, Belarus, Croatia, Bulgaria, Serbia, Lithuania, Slovenia, Latvia, Estonia |
+| Primary | United Kingdom, Brazil, Germany, CSA |
+| Significant | Appalachia, Norway, Hungary, Finland, Czechia, Estonia, Austro-Bavaria, New England, Poland, Slovenia, Serbia, Slovakia, Cascadia, Romania, France, Russia (core state), Belarus, Lithuania, South Africa, Idelsk-Uralia, Croatia, Latvia, Argentina (without Patagonia), Bulgaria, Midwest Republic, Netherlands, Ukraine |
+| Notable | Colorado, Amazonia, Siberia, Donska-Kubania, Sonora, Künnarantaiga, Northern Ireland, Dagestan, Araucanía-Patagonia, Hawaii, Chechnya, Alaska, Kabardino-Balkaria, North Ossetia-Alania, Ingushetia, Karachay-Cherkessia, Tuva |
 
 *Source: `Official_Population_Census.md` Sections A–C.*
 
 ### Per-Nation Breakdown — Robots and Humans, Census I and II
 
-*(De-stacked 2026-07-05 — raw tier-share percentages naturally produced blocks of nations with identical figures; applied a randomization method to break these into distinct, non-repeating values while preserving each tier's total and ordering. See `TODO.md` for the full method.)*
+*(Rebalanced 2026-11-02 in the population rework, `DR-85`: every country appears in its latest-period form (successor states and renamed countries, split by headcount, names explained in `Official_Population_Census.md` Section E); China's row is the Sinian Federation, with its decline and the refill of the gap where the rework applies it; places never counted before were added by time-zone window; tiers were relabeled from the final shares. This city: new pools: Luxembourg 0.17%, Kosovo 0.07%, Austria 1.72%. City totals in all four columns are unchanged. Method, every run and the research: `Sinian_Federation_Split_Scratch_2026-11-01/` (file `12_Rebalance_Run4.md`). The table that stood here before is in git commit `593510ab`.)*
 
 | Tier | Nation | Share % | Census I Robots | Census I Humans | Census II Robots | Census II Humans |
 |------|--------|---------|------------------|------------------|-------------------|-------------------|
-| Primary | USA | 19.05% | 230,811 | 222,941 | 163,092 | 149,179 |
-| Significant | UK | 10.08% | 122,090 | 117,927 | 86,269 | 78,910 |
-| Significant | Germany | 9.48% | 114,862 | 110,946 | 81,163 | 74,239 |
-| Significant | Brazil | 9.05% | 109,671 | 105,932 | 77,493 | 70,884 |
-| Significant | Russia | 4.81% | 58,246 | 56,261 | 41,156 | 37,646 |
-| Notable | Norway | 3.42% | 41,441 | 40,028 | 29,283 | 26,784 |
-| Notable | Finland | 3.34% | 40,419 | 39,040 | 28,559 | 26,123 |
-| Notable | Czech Republic | 3.30% | 40,021 | 38,655 | 28,278 | 25,867 |
-| Notable | Estonia | 3.29% | 39,877 | 38,517 | 28,178 | 25,774 |
-| Notable | Poland | 3.21% | 38,930 | 37,604 | 27,509 | 25,162 |
-| Notable | Hungary | 3.08% | 37,294 | 36,021 | 26,351 | 24,103 |
-| Notable | Slovenia | 3.07% | 37,149 | 35,881 | 26,249 | 24,011 |
-| Notable | Slovakia | 3.00% | 36,356 | 35,117 | 25,689 | 23,498 |
-| Notable | Serbia | 2.95% | 35,722 | 34,503 | 25,241 | 23,087 |
-| Notable | Romania | 2.87% | 34,786 | 33,600 | 24,581 | 22,484 |
-| Significant | France | 2.30% | 27,902 | 26,951 | 19,715 | 18,034 |
-| Notable | Belarus | 1.81% | 21,982 | 21,232 | 15,532 | 14,208 |
-| Notable | Lithuania | 1.76% | 21,347 | 20,619 | 15,083 | 13,797 |
-| Notable | Ukraine | 1.70% | 20,554 | 19,854 | 14,524 | 13,284 |
-| Notable | South Africa | 1.55% | 18,772 | 18,131 | 13,265 | 12,133 |
-| Notable | Croatia | 1.47% | 17,826 | 17,219 | 12,596 | 11,521 |
-| Notable | Argentina | 1.46% | 17,683 | 17,080 | 12,494 | 11,428 |
-| Notable | Latvia | 1.43% | 17,284 | 16,695 | 12,213 | 11,172 |
-| Notable | Bulgaria | 1.34% | 16,262 | 15,708 | 11,491 | 10,510 |
-| Notable | Netherlands | 1.19% | 14,475 | 13,981 | 10,229 | 9,355 |
+| Primary | United Kingdom | 9.61% | 116,372 | 112,403 | 82,229 | 75,213 |
+| Primary | Brazil | 7.99% | 96,843 | 93,543 | 68,429 | 62,593 |
+| Primary | Germany | 7.80% | 94,461 | 91,240 | 66,747 | 61,053 |
+| Primary | CSA | 6.04% | 73,206 | 70,709 | 51,727 | 47,314 |
+| Significant | Appalachia | 3.88% | 46,988 | 45,385 | 33,202 | 30,369 |
+| Significant | Norway | 3.35% | 40,632 | 39,246 | 28,711 | 26,261 |
+| Significant | Hungary | 3.31% | 40,075 | 38,707 | 28,315 | 25,901 |
+| Significant | Finland | 3.29% | 39,841 | 38,482 | 28,151 | 25,750 |
+| Significant | Czechia | 3.24% | 39,239 | 37,900 | 27,725 | 25,361 |
+| Significant | Estonia | 3.23% | 39,098 | 37,765 | 27,628 | 25,270 |
+| Significant | Austro-Bavaria | 3.22% | 38,971 | 37,642 | 27,537 | 25,188 |
+| Significant | New England | 3.17% | 38,430 | 37,120 | 27,154 | 24,839 |
+| Significant | Poland | 3.15% | 38,169 | 36,869 | 26,972 | 24,671 |
+| Significant | Slovenia | 3.01% | 36,423 | 35,179 | 25,736 | 23,542 |
+| Significant | Serbia | 2.96% | 35,842 | 34,619 | 25,326 | 23,164 |
+| Significant | Slovakia | 2.94% | 35,645 | 34,431 | 25,187 | 23,039 |
+| Significant | Cascadia | 2.83% | 34,231 | 33,064 | 24,188 | 22,124 |
+| Significant | Romania | 2.52% | 30,597 | 29,553 | 21,621 | 19,775 |
+| Significant | France | 2.42% | 29,402 | 28,401 | 20,775 | 19,004 |
+| Significant | Russia (core state) | 2.04% | 24,683 | 23,840 | 17,440 | 15,952 |
+| Significant | Belarus | 1.77% | 21,552 | 20,817 | 15,228 | 13,930 |
+| Significant | Lithuania | 1.73% | 20,929 | 20,217 | 14,788 | 13,527 |
+| Significant | South Africa | 1.52% | 18,405 | 17,777 | 13,006 | 11,896 |
+| Significant | Idelsk-Uralia | 1.48% | 17,909 | 17,300 | 12,655 | 11,576 |
+| Significant | Croatia | 1.44% | 17,477 | 16,882 | 12,349 | 11,296 |
+| Significant | Latvia | 1.40% | 16,946 | 16,369 | 11,975 | 10,954 |
+| Significant | Argentina (without Patagonia) | 1.35% | 16,352 | 15,795 | 11,554 | 10,568 |
+| Significant | Bulgaria | 1.31% | 15,944 | 15,401 | 11,266 | 10,305 |
+| Significant | Midwest Republic | 1.21% | 14,612 | 14,113 | 10,326 | 9,444 |
+| Significant | Netherlands | 1.17% | 14,192 | 13,707 | 10,029 | 9,173 |
+| Significant | Ukraine | 1.11% | 13,379 | 12,923 | 9,453 | 8,647 |
+| Notable | Colorado | 0.91% | 10,989 | 10,614 | 7,765 | 7,103 |
+| Notable | Amazonia | 0.88% | 10,683 | 10,320 | 7,550 | 6,905 |
+| Notable | Siberia | 0.59% | 7,120 | 6,876 | 5,029 | 4,602 |
+| Notable | Donska-Kubania | 0.56% | 6,826 | 6,593 | 4,824 | 4,411 |
+| Notable | Sonora | 0.53% | 6,455 | 6,235 | 4,561 | 4,172 |
+| Notable | Künnarantaiga | 0.34% | 4,112 | 3,972 | 2,906 | 2,658 |
+| Notable | Northern Ireland | 0.28% | 3,333 | 3,219 | 2,354 | 2,153 |
+| Notable | Dagestan | 0.10% | 1,265 | 1,222 | 892 | 818 |
+| Notable | Araucanía-Patagonia | 0.081% | 985 | 950 | 696 | 637 |
+| Notable | Hawaii | 0.078% | 948 | 916 | 671 | 613 |
+| Notable | Chechnya | 0.050% | 601 | 581 | 425 | 388 |
+| Notable | Alaska | 0.036% | 442 | 427 | 312 | 285 |
+| Notable | Kabardino-Balkaria | 0.030% | 360 | 347 | 255 | 233 |
+| Notable | North Ossetia-Alania | 0.023% | 274 | 264 | 194 | 177 |
+| Notable | Ingushetia | 0.017% | 203 | 197 | 143 | 132 |
+| Notable | Karachay-Cherkessia | 0.015% | 187 | 181 | 133 | 121 |
+| Notable | Tuva | 0.011% | 134 | 130 | 94 | 86 |
 
-*Figures use the project's standard share-weighting methodology as a baseline (Primary=8 shares, Significant=3 shares, Notable=1 share per nation — see `Upper_Earth_Immigration_Composition.md`), then de-stacked per the method above so that same-tier nations no longer show identical figures. Percentages are of this city's own population (identical between Census I and II under this proportional model), not Tepenia-wide. Robot figures apply the same national-origin proportions as the human population, consistent with the project's established methodology.*
+*Tier labels follow the final shares: Primary and Significant end at the largest ratio gaps among the rows at 4.5% or more (Primary never more than six rows), no row at 4.5% or more is Notable, and Notable is the rest (the composition file's own rule, "boundaries fall at the largest ratio gaps"; the 8 / 3 / 1 share weights no longer produce the figures). Percentages are of this city's own human and robot population (identical between censuses), not Tepenia-wide. Robot figures apply the same proportions as the human population. Shares are rounded; they sum to 100% within rounding.*
 
 ---
 

@@ -7,8 +7,8 @@
 
 | Category | Value | Citation |
 |---|---|---|
-| Census I | 213,834 H / 223,780 R / **437,614** combined (status cell: scenario `DR-68`, 2026-10-28; was revised 2026-07-04) | `Official_Population_Census.md` L499 |
-| Census II | 132,423 H / 126,398 R / **258,821** combined | `Official_Population_Census.md` L624 |
+| Census I | 213,834 H / 223,780 R / **437,614** combined (status cell: scenario `DR-68`, 2026-10-28; was revised 2026-07-04) | `Official_Population_Census.md` L511 |
+| Census II | 132,423 H / 126,398 R / **258,821** combined | `Official_Population_Census.md` L656 |
 | Retention (computed; formula = Census II count ÷ Census I count) | combined 59.14% · human 61.93% · robot 56.48% | Computed from the two rows above: 258,821÷437,614 · 132,423÷213,834 · 126,398÷223,780 |
 | Extent — required area at the band (table row; the table is a **2026-09-05 snapshot** and the census is live — note L631; this row was updated in place for the 2026-10-28 scenario) | City: Abowasa *(now Santa Luce)* · Subnet: Halley · Census I: 437,614 *(was 1,034,241; scenario `DR-67`/`DR-68`, 2026-10-28)* · @10k: 44 km² *(was 103)* · @7k: 63 km² *(was 148)* · Site: Basen nunatak | `Extent_and_Density_Per_City.md` L621 (header L603; snapshot note L631) |
 | **Temporal frame — the Second Interwar Period** | **2564–2812. 248 years, beginning at the Falkland Treaty.** The default frame for worldbuilding a Tepenian location; a corpus-wide constant, not a per-city judgment | ⭐ `Corpus_Reference_Sheets/Second_Interwar_Period_Quick_Reference.md`, in full |

@@ -16,7 +16,7 @@
 | Significance | *[source line compares the city with other places; not copied, line number recorded only]* | `Specs/Halley.md` L8 |
 | Coordinates (as written in the same field) | ~75°35'S, 26°34'W | `Specs/Halley.md` L3 |
 | Specs `Status:` field | States a later-era condition; per the standing default-scope rule (`00_RUNBOOK.md`, the Second Interwar default) this is **never an input** to a Second Interwar pass — not copied | `Specs/Halley.md` L4 |
-| Later-era sections present in the Specs file (same exclusion as `Status:`) | 3 section(s), by heading position: L185, L193, L199 — not copied, not described | `Specs/Halley.md` L185, L193, L199 |
+| Later-era sections present in the Specs file (same exclusion as `Status:`) | 3 section(s), by heading position: L185, L193, L199 — not copied, not described | `Specs/Halley.md` L199, L207, L213 |
 | Census I (spec's own line) | 721,889 humans / 754,374 robots / **1,476,263** combined | `Specs/Halley.md` L15 |
 | Census II (spec's own line) | 517,317 humans / 586,599 robots / **1,103,916** combined | `Specs/Halley.md` L16 |
 

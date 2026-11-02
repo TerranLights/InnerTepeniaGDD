@@ -2,6 +2,8 @@
 
 **Purpose:** Nation-of-origin immigration composition for each Tepenian city, derived from a three-factor composite analysis. Use this file when designing city culture, faction presence, NPC demographics, dialect flavoring, or any content that draws on a city's founding population character.
 
+
+> ⚠ **Update 2026-11-02 (`DR-85`) — READ BEFORE USING ANY CITY TABLE BELOW.** The pool-based derivation in this file (each nation's Gini-adjusted effective pool and the 8 / 3 / 1 tier shares) is the **starting derivation**. The population rework of 2026-11-02 wrote every country in its latest-period form (successor states and renamed countries, split by headcount), reduced and refilled the Sinian Federation's share in the cities it dominated, added places never counted before, moved founder shares at Ariun Nuur, Utstein and Neumayer, and relabeled tiers from the final shares. **The final composition of each city is its Specs file's per-nation table and `Official_Population_Census.md` Section A** (names explained in its Section E). The tier tables below show the derivation as it stood before the rework, old nation names included, and are kept as the derivation record; each city section ends with a line giving its final composition. Method and every run: `Sinian_Federation_Split_Scratch_2026-11-01/12_Rebalance_Run4.md`.
 ---
 
 ## Methodology
@@ -163,6 +165,8 @@ dominant T3 presence; **Belarus (UTC+3, distance=3) just qualifies; Romania/Ukra
 
 *Blended-city note: with all 43 master-list nations present, Palmer City's culture should read as genuinely cosmopolitan in a way no other Tepenian city is — the American/European/founding-Southern-Cone core still sets the dominant character, but the sheer breadth of smaller communities (Eastern Europe, East Asia, Southeast Asia, Oceania, South Africa) gives it a background texture unlike anywhere else in the Federation.*
 
+**Final composition after the 2026-11-02 rework (`DR-85`):** Primary — France, Brazil, Germany, CSA; Significant — United Kingdom, México, Appalachia, Cascadia, Uruguay, New England, Argentina (without Patagonia); Notable — 64 nations and smaller successor rows (all of them, with shares and counts, in the city's Specs file). The pool-based table above is the derivation before the rework.
+
 ---
 
 ### Rothera *(Adelaide Island, ~67°34'S 68°08'W)*
@@ -172,6 +176,8 @@ dominant T3 presence; **Belarus (UTC+3, distance=3) just qualifies; Romania/Ukra
 | 1 — Primary | **USA** | 155M Gini-adjusted effective; same Peninsula dynamics |
 | 2 — Significant | **Germany** (46M), **France** (35M), **UK** (32M), **Canada** (20M), **Mexico** (18M), **Brazil** (17M) | Atlantic corridor + Mexico; Mexico at 18M joins Brazil in the cluster |
 | 3 — Notable | **Argentina** (6M), **Chile** (2.3M) | Founding wave proximity nations |
+
+**Final composition after the 2026-11-02 rework (`DR-85`):** Primary — Brazil, Germany; Significant — CSA, France, United Kingdom, Cascadia, Appalachia, México, Demilitarized Zone (s. Ontario; not a nation), New England, Chile, Quebec, Prairie Federation, Austro-Bavaria, Midwest Republic, Argentina (without Patagonia), Amazonia, Colorado, Sonora; Notable — 5 nations and smaller successor rows (all of them, with shares and counts, in the city's Specs file). The pool-based table above is the derivation before the rework.
 
 ---
 
@@ -185,6 +191,8 @@ dominant T3 presence; **Belarus (UTC+3, distance=3) just qualifies; Romania/Ukra
 
 *Founding note: Esperanza's founding character is overwhelmingly Argentine — it is the Peninsula city closest to Buenos Aires embarkation ports. The GDD identity is Argentine; USA dominates long-run effective.*
 
+**Final composition after the 2026-11-02 rework (`DR-85`):** Primary — Brazil, México, CSA; Significant — United Kingdom, Argentina (without Patagonia), Appalachia, Uruguay, New England, Cascadia; Notable — 10 nations and smaller successor rows (all of them, with shares and counts, in the city's Specs file). The pool-based table above is the derivation before the rework.
+
 ---
 
 ### Marambio *(Seymour Island, ~64°14'S 56°39'W — air hub)*
@@ -195,6 +203,8 @@ dominant T3 presence; **Belarus (UTC+3, distance=3) just qualifies; Romania/Ukra
 | 2 — Significant | **Germany** (46M), **UK** (32M), **Spain** (20M), **Canada** (20M), **Mexico** (18M), **Brazil** (17M) | Spain at 20M elevated at Marambio — historical direct air access; Mexico at 18M joins the cluster; Spain and Canada both 20M Gini-adjusted |
 | 3 — Notable | **Argentina** (6M), **Chile** (2.3M), **Uruguay** (0.6M) | Founding wave proximity nations |
 
+**Final composition after the 2026-11-02 rework (`DR-85`):** Primary — United Kingdom, México, Spain, CSA; Significant — Brazil, Appalachia, Cascadia, Germany, Uruguay, New England, Chile; Notable — 16 nations and smaller successor rows (all of them, with shares and counts, in the city's Specs file). The pool-based table above is the derivation before the rework.
+
 ---
 
 ### Pergamino *(Livingston Island, South Shetlands, ~62°39'S 60°23'W)*
@@ -204,6 +214,8 @@ dominant T3 presence; **Belarus (UTC+3, distance=3) just qualifies; Romania/Ukra
 | 1 — Primary | **USA** | 155M Gini-adjusted effective |
 | 2 — Significant | **Germany** (46M), **France** (35M), **UK** (32M), **Italy** (27M), **Spain** (20M) | European cluster; Spain at 20M elevated by cultural proximity to T3 Latin American population; Italy at 27M |
 | 3 — Notable | **Mexico** (~18M), **Brazil** (17M), **Argentina** (6M), **Chile** (2.3M) | Mexico drops below European nations despite 128M raw population due to high Gini + medium GDP; South Shetlands are most proximate Peninsula location for South American founding wave |
+
+**Final composition after the 2026-11-02 rework (`DR-85`):** Primary — United Kingdom, Spain, CSA, France, Magna Lombardia; Significant — Appalachia, New England, Meridia, Argentina (without Patagonia), Cascadia, Germany, Chile; Notable — 15 nations and smaller successor rows (all of them, with shares and counts, in the city's Specs file). The pool-based table above is the derivation before the rework.
 
 ---
 
@@ -217,6 +229,8 @@ dominant T3 presence; **Belarus (UTC+3, distance=3) just qualifies; Romania/Ukra
 
 *Note: Puerto Abrigo is a small settlement; total founding population modest regardless of national composition.*
 
+**Final composition after the 2026-11-02 rework (`DR-85`):** Primary — France, United Kingdom, Germany, CSA, Brazil; Significant — Appalachia, New England, Cascadia, Chile, México; Notable — 11 nations and smaller successor rows (all of them, with shares and counts, in the city's Specs file). The pool-based table above is the derivation before the rework.
+
 ---
 
 ### Contrapunto *(King George Island, ~62°13'S 58°47'W)*
@@ -229,6 +243,8 @@ dominant T3 presence; **Belarus (UTC+3, distance=3) just qualifies; Romania/Ukra
 
 *Key note: South Korea sits at Significant tier by Gini-adjusted composite. USA is the correct long-run population primary, matching the rest of the Palmer subnet.*
 
+**Final composition after the 2026-11-02 rework (`DR-85`):** Primary — France, United Kingdom, México, Germany; Significant — CSA, Brazil, Korea, Appalachia, Argentina (without Patagonia), Cascadia, New England, Magna Lombardia, Chile; Notable — 26 nations and smaller successor rows (all of them, with shares and counts, in the city's Specs file). The pool-based table above is the derivation before the rework.
+
 ---
 
 ### Signy *(South Orkney Islands, ~60°43'S 45°36'W)*
@@ -240,6 +256,8 @@ dominant T3 presence; **Belarus (UTC+3, distance=3) just qualifies; Romania/Ukra
 | 3 — Notable | **Argentina** (6M), **South Africa** (3M), **Chile** (2.3M), **Uruguay** (0.6M) | Geographic proximity nations; South Africa's Cape Town → South Orkneys crossing is the shortest from any inhabited coast to Signy specifically — founding wave advantage real, long-run effective pool is 3M |
 
 *Key note: South Africa's geographic advantage at Signy gave it a disproportionate founding wave presence; extreme Gini (0.63) reduces effective to 3M. Founding character is South Atlantic proximity nations; long-run majority is US and European.*
+
+**Final composition after the 2026-11-02 rework (`DR-85`):** Primary — France, United Kingdom; Significant — CSA, Brazil, Appalachia, Germany, Argentina (without Patagonia), New England, South Africa, Cascadia; Notable — 11 nations and smaller successor rows (all of them, with shares and counts, in the city's Specs file). The pool-based table above is the derivation before the rework.
 
 ---
 
@@ -261,6 +279,8 @@ dominant T3 presence; **Belarus (UTC+3, distance=3) just qualifies; Romania/Ukra
 
 *Founding note: Halley's initial settlement was South African and Argentine. South Africa's gateway role gives it an outsized founding cultural impact relative to its 3M long-run effective pool.*
 
+**Final composition after the 2026-11-02 rework (`DR-85`):** Primary — Brazil, United Kingdom, CSA, France; Significant — Cascadia, Appalachia, Netherlands, Serbia, Croatia, Slovenia, New England, Demilitarized Zone (s. Ontario; not a nation), Poland, Germany, Chile, Quebec, Austro-Bavaria, Argentina (without Patagonia), Prairie Federation, South Africa, Czechia, Hungary, Midwest Republic, Amazonia, Colorado; Notable — 6 nations and smaller successor rows (all of them, with shares and counts, in the city's Specs file). The pool-based table above is the derivation before the rework.
+
 ---
 
 ### Neumayer *(Ekström Ice Shelf, Atka Bay, ~70°41'S 8°16'W)*
@@ -270,6 +290,8 @@ dominant T3 presence; **Belarus (UTC+3, distance=3) just qualifies; Romania/Ukra
 | 1 — Primary | **USA** | 155M Gini-adjusted effective |
 | 2 — Significant | **Germany** (46M), **France** (35M), **UK** (32M), **Brazil** (17M) | Cape Town corridor Europeans; Germany leads |
 | 3 — Notable | **Poland** (12M), **Netherlands** (10M), **Belgium** (6.4M), **Sweden** (6M), **Argentina** (6M), **Czech Republic** (5M), **Ukraine** (5M), **Romania** (4.5M), **Norway** (3.3M), **Finland** (3.3M), **Hungary** (3M), **South Africa** (3M), **Chile** (2.3M), **Slovakia** (2.2M), **Croatia** (1.3M), **Bulgaria** (1.2M), **Serbia** (1.2M), **Lithuania** (1M), **Slovenia** (1M), **Latvia** (0.6M), **Estonia** (0.6M) | Full Intermarium west (UTC+1) + east (UTC+2) blocs within ±3 of Neumayer's UTC-1; Belarus (UTC+3) just outside; Poland leads at 12M; 21 nations in T3 reflects Neumayer's position as the central QML gateway |
+
+**Final composition after the 2026-11-02 rework (`DR-85`):** Primary — Germany; Significant — Austro-Bavaria, CSA, France, United Kingdom, Netherlands, Brazil, Appalachia, Hungary, Sweden, Lithuania, Slovakia, New England, Bulgaria, Finland, Croatia, Argentina (without Patagonia), Cascadia, Romania, Chile, Ukraine, Serbia, Latvia, Estonia, Norway; Notable — 13 nations and smaller successor rows (all of them, with shares and counts, in the city's Specs file). The pool-based table above is the derivation before the rework.
 
 ---
 
@@ -283,6 +305,8 @@ dominant T3 presence; **Belarus (UTC+3, distance=3) just qualifies; Romania/Ukra
 
 *Key note: Troll Airfield's intercontinental air capability gives Norway faster access than distance alone suggests. The Norwegian founding character of Troll is culturally legitimate. Norway is correctly T3 in long-run Gini-adjusted composition.*
 
+**Final composition after the 2026-11-02 rework (`DR-85`):** Primary — United Kingdom, Brazil, CSA, France; Significant — Appalachia, Russia (core state), Finland, Czechia, Slovakia, Croatia, Serbia, Netherlands, Slovenia, Argentina (without Patagonia), New England, Bulgaria, Idelsk-Uralia, Latvia, Cascadia, Germany, Austro-Bavaria; Notable — 28 nations and smaller successor rows (all of them, with shares and counts, in the city's Specs file). The pool-based table above is the derivation before the rework.
+
 ---
 
 ### Santa Luce *(Vestfjella nunataks, ~73°03'S 13°25'W)*
@@ -294,6 +318,8 @@ dominant T3 presence; **Belarus (UTC+3, distance=3) just qualifies; Romania/Ukra
 | 3 — Notable | **Poland** (12M), **Meridia** (≈9M, illustrative), **Netherlands** (10M), **Belgium** (6.4M), **Sweden** (6M), **Argentina** (6M), **Czech Republic** (5M), **Ukraine** (5M), **Romania** (4.5M), **Norway** (3.3M), **Finland** (3.3M), **Hungary** (3M), **South Africa** (3M), **Slovakia** (2.2M), **Croatia** (1.3M), **Bulgaria** (1.2M), **Serbia** (1.2M), **Lithuania** (1M), **Slovenia** (1M), **Latvia** (0.6M), **Estonia** (0.6M) | Same Intermarium west + east bloc as Neumayer (UTC+1 and UTC+2 nations, within ±3 of Santa Luce's UTC-1); Finland and Sweden are founding nations at Santa Luce — T3 in long-run Gini composite but Novo air corridor established their founding wave character |
 
 *Key note: Finland and Sweden are correctly T3 by Gini-adjusted effective. Santa Luce's founders are Italy and the CIN (Founding Register, `DR-22`); the earlier Finnish-Swedish co-founding note is superseded. **Updated 2026-10-29 (`DR-83`, developer): the Italian share is the two post-war states, Magna Lombardia (Significant) and Meridia (Notable), not a single "Italy"; their pools (≈18M and ≈9M) are illustrative, from the `DR-60` basis of about 2.1:1 on a pre-split ≈27M, and are to be replaced by the post-war national data when it exists.***
+
+**Final composition after the 2026-11-02 rework (`DR-85`):** Primary — Brazil, United Kingdom, Magna Lombardia, CSA; Significant — France, Netherlands, Russia (core state), Appalachia, Latvia, Hungary, New England, Argentina (without Patagonia), Serbia, Croatia, Estonia, Idelsk-Uralia, Czechia, Cascadia, Romania, Austro-Bavaria, Meridia, Germany, Ukraine, Sweden, Lithuania, Bulgaria, Norway, Slovakia, South Africa, Finland, Slovenia, Poland, Siberia, Midwest Republic, Donska-Kubania; Notable — 15 nations and smaller successor rows (all of them, with shares and counts, in the city's Specs file). The pool-based table above is the derivation before the rework.
 
 ---
 
@@ -307,6 +333,8 @@ dominant T3 presence; **Belarus (UTC+3, distance=3) just qualifies; Romania/Ukra
 
 *Key note: South Africa is no longer T1 primary at Sanay when ranked by Gini-adjusted effective population. The founding character of Sanay is South African. Germany leads the long-run composition by effective population. Both facts are true simultaneously.*
 
+**Final composition after the 2026-11-02 rework (`DR-85`):** Primary — Germany; Significant — Brazil, United Kingdom, Austro-Bavaria, Serbia, Estonia, South Africa, Hungary, Slovenia, Argentina (without Patagonia), Bulgaria, Norway, Ukraine, Czechia, Croatia, Latvia, Romania, Slovakia, Poland, Lithuania, Belarus, Chile, Russia (core state), Amazonia; Notable — 2 nations and smaller successor rows (all of them, with shares and counts, in the city's Specs file). The pool-based table above is the derivation before the rework.
+
 ---
 
 ### Utstein *(Sør Rondane Mountains, ~71°57'S 23°21'E)*
@@ -318,6 +346,8 @@ dominant T3 presence; **Belarus (UTC+3, distance=3) just qualifies; Romania/Ukra
 | 3 — Notable | **Poland** (12M), **Netherlands** (10M), **Belgium** (6.4M), **Argentina** (6M), **Czech Republic** (5M), **Ukraine** (5M), **Romania** (4.5M), **Norway** (3.3M), **Finland** (3.3M), **Hungary** (3M), **South Africa** (3M), **Slovakia** (2.2M), **Belarus** (1.5M), **Croatia** (1.3M), **Bulgaria** (1.2M), **Serbia** (1.2M), **Lithuania** (1M), **Slovenia** (1M), **Latvia** (0.6M), **Estonia** (0.6M) | Full Intermarium including Belarus (all within ±3 of PE's UTC+2); Belgium's founding character in GDD culturally embedded despite T3 Gini effective; South Africa to T3 |
 
 *Key note: Utstein is the only Halley subnet city with meaningful eastern-approach immigration (Japan, Australia). Utstein's founders are the Scandinavian Trade Union nations (Founding Register, `DR-22`); the earlier Belgian-founding note is superseded, and Belgium's composition tier is unchanged.*
+
+**Final composition after the 2026-11-02 rework (`DR-85`):** Primary — France, Brazil, Australia; Significant — Finland, Japan, Norway, CSA, Germany; Notable — 34 nations and smaller successor rows (all of them, with shares and counts, in the city's Specs file). The pool-based table above is the derivation before the rework.
 
 ---
 
@@ -364,6 +394,8 @@ Lazar's actual city population, distributed proportionally across the Gini-adjus
 | Notable | Estonia | 0.6M | 4,226 | 2,881 |
 | — | **TOTAL** | 375.7M | **2,646,068** | **1,803,982** *(5 off from 1,803,977 due to per-nation rounding; immaterial)* |
 
+**Final composition after the 2026-11-02 rework (`DR-85`):** Primary — United Kingdom, Brazil, Germany, CSA; Significant — Appalachia, Norway, Hungary, Finland, Czechia, Estonia, Austro-Bavaria, New England, Poland, Slovenia, Serbia, Slovakia, Cascadia, Romania, France, Russia (core state), Belarus, Lithuania, South Africa, Idelsk-Uralia, Croatia, Latvia, Argentina (without Patagonia), Bulgaria, Midwest Republic, Netherlands, Ukraine; Notable — 17 nations and smaller successor rows (all of them, with shares and counts, in the city's Specs file). The pool-based table above is the derivation before the rework.
+
 ---
 
 ### Belgrano *(Confín Coast, Coats Land, ~77°52'S 34°37'W — Ruins accessible in DLC 5)*
@@ -375,6 +407,8 @@ Lazar's actual city population, distributed proportionally across the Gini-adjus
 | 3 — Notable | **Poland** (12M), **Argentina** (6M), **Czech Republic** (5M), **Hungary** (3M), **South Africa** (3M), **Slovakia** (2.2M), **Chile** (2.3M), **Croatia** (1.3M), **Serbia** (1.2M), **Slovenia** (1M), **Uruguay** (0.6M) | Argentina has the shortest approach to Belgrano and set the founding wave character; Intermarium west bloc (UTC+1 nations, just within ±3 of Belgrano's UTC-2) constitute the largest collective T3 presence; South Africa at T3 despite gateway proximity |
 
 *Founding note: Argentina set the founding character of Belgrano — the Buenos Aires Weddell approach is shorter to this specific deep Weddell position than Cape Town. Argentine GDD identity is geographically legitimate for the founding wave; USA and Germany dominate long-run effective composition.*
+
+**Final composition after the 2026-11-02 rework (`DR-85`):** Primary — Brazil, Germany, CSA; Significant — Appalachia, Hungary, Poland, Uruguay, New England, United Kingdom, Slovakia, Cascadia, Argentina (without Patagonia), Austro-Bavaria, Chile, Czechia, Slovenia, South Africa, Serbia, Midwest Republic, Colorado, Amazonia; Notable — 6 nations and smaller successor rows (all of them, with shares and counts, in the city's Specs file). The pool-based table above is the derivation before the rework.
 
 ---
 
@@ -404,6 +438,8 @@ Lazar's actual city population, distributed proportionally across the Gini-adjus
 
 *Key note: South Korea drops to T2 by Gini composite. Australia and NZ set the founding wave character via geographic proximity; China and USA dominate long-run composition.*
 
+**Final composition after the 2026-11-02 rework (`DR-85`):** Primary — Korea, Australia, Sinian Federation, Indonesia, CSA, Magna Lombardia; Significant — Japan, Germany, Appalachia, Cascadia, Meridia, Malaysia, New England, Taiwan, Chile; Notable — 17 nations and smaller successor rows (all of them, with shares and counts, in the city's Specs file). The pool-based table above is the derivation before the rework.
+
 ---
 
 ### Zukelli *(Terra Nova Bay, ~74°42'S 164°07'E — Destroyed)*
@@ -416,6 +452,8 @@ Same geographic position as Janbogo.
 | 2 — Significant | **Japan** (65M), **Italy** (27M), **South Korea** (26M), **Canada** (20M), **Indonesia** (16M), **Australia** (13M) | Italy: 27M effective |
 | 3 — Notable | **Philippines** (5M), **Malaysia** (5M), **New Zealand** (2.6M), **Chile** (2.3M) | Philippines and Malaysia via Pacific corridor; same geographic proximity founding wave nations for NZ and Chile |
 
+**Final composition after the 2026-11-02 rework (`DR-85`):** Primary — Korea, Sinian Federation, Australia, CSA, Indonesia; Significant — Japan, Cascadia, Appalachia, Demilitarized Zone (s. Ontario; not a nation), Magna Lombardia, Malaysia, New Zealand, New England, Taiwan, Quebec, Meridia, Prairie Federation, Philippines, Chile, Manchuria, Midwest Republic; Notable — 9 nations and smaller successor rows (all of them, with shares and counts, in the city's Specs file). The pool-based table above is the derivation before the rework.
+
 ---
 
 ### Cape Adare *(Northern Ross Sea coast, ~71°18'S 170°09'E)*
@@ -425,6 +463,8 @@ Same geographic position as Janbogo.
 | 1 — Primary | **China** (210M), **USA** (155M) | Largest effective pools; both reach Cape Adare via Pacific routes |
 | 2 — Significant | **Japan** (65M), **UK** (32M), **South Korea** (26M), **Canada** (20M), **Indonesia** (16M), **Australia** (13M) | Ordinary Gini-adjusted Pacific/UK-corridor pools *(corrected 2026-07-13 — previously read "UK elevated by historical Borchgrevink connection in GDD," a real-world-explorer-nationality-as-causal-explanation violation of this project's binding GPS-only rule; Cape Adare's own Specs/Local_Cultures deliberately establish St. Carsten's significance as unrelated to his own nationality, and UK's actual resulting share, 5.03%, is the smallest of the tier — not an elevated one, contradicting the old note's own claim)*; Australia (~3,500km from Hobart — shortest approach from any major nation) sets early founding character |
 | 3 — Notable | **Philippines** (5M), **Malaysia** (5M), **New Zealand** (2.6M), **Chile** (2.3M) | Philippines and Malaysia via Pacific; Cape Adare is the closest Antarctic point to NZ; NZ geographic primacy strongest here; founding wave is NZ-dominated |
+
+**Final composition after the 2026-11-02 rework (`DR-85`):** Primary — Australia, Sinian Federation, Japan, Indonesia, CSA; Significant — Korea, United Kingdom, Appalachia, Cascadia, New England, Chile, New Zealand, Taiwan, Demilitarized Zone (s. Ontario; not a nation), Philippines, Quebec, Malaysia, Midwest Republic, Prairie Federation, Manchuria, Colorado; Notable — 8 nations and smaller successor rows (all of them, with shares and counts, in the city's Specs file). The pool-based table above is the derivation before the rework.
 
 ---
 
@@ -438,6 +478,8 @@ Same geographic position as Janbogo.
 
 *Key note: Fort McMurdo is not founded by a single nation (Founding Register, `DR-20`, `DR-21`): miners and administrators from all over Tepenia; the earlier American-founding note is superseded. Australia and NZ are the founding wave nations; USA and China dominate long-run composition.*
 
+**Final composition after the 2026-11-02 rework (`DR-85`):** Primary — France, Japan, Germany, Sinian Federation, CSA; Significant — Appalachia, United Kingdom, Cascadia, New England, Malaysia, New Zealand, Chile, Taiwan, Magna Lombardia; Notable — 21 nations and smaller successor rows (all of them, with shares and counts, in the city's Specs file). The pool-based table above is the derivation before the rework.
+
 ---
 
 ### Scott *(Ross Island, ~77°51'S 166°46'E — 3km from Fort McMurdo)*
@@ -447,6 +489,8 @@ Same geographic position as Janbogo.
 | 1 — Primary | **China** (210M), **USA** (155M) | Same McMurdo-adjacent dynamics |
 | 2 — Significant | **Japan** (65M), **UK** (32M), **South Korea** (26M), **Canada** (20M), **Indonesia** (16M), **Australia** (13M) | NZ founding character embedded in GDD; UK at 32M elevated by Commonwealth-NZ connection |
 | 3 — Notable | **Philippines** (5M), **Malaysia** (5M), **New Zealand** (2.6M), **Chile** (2.3M) | Philippines and Malaysia via Pacific; NZ founder wave character — Scott's GDD identity is New Zealand despite NZ being T3 in Gini composition |
+
+**Final composition after the 2026-11-02 rework (`DR-85`):** Primary — Japan, United Kingdom, Sinian Federation, Australia, CSA, Korea; Significant — Indonesia, Appalachia, Cascadia, New England, New Zealand, Chile, Taiwan; Notable — 16 nations and smaller successor rows (all of them, with shares and counts, in the city's Specs file). The pool-based table above is the derivation before the rework.
 
 ---
 
@@ -459,6 +503,8 @@ Same geographic position as Janbogo.
 | 3 — Notable | **Thailand** (8M), **Vietnam** (5M), **Philippines** (5M), **Malaysia** (5M), **New Zealand** (2.6M) | SE Asian corridor dominant in T3 (all UTC+7–8, within ±3 of DdU's UTC+9); NZ via Christchurch/Hobart |
 
 *Key note: Australia (Hobart gateway) sets the founding wave character. China and USA dominate long-run composition.*
+
+**Final composition after the 2026-11-02 rework (`DR-85`):** Primary — Sinian Federation, France, Japan, Australia; Significant — CSA, Indonesia; Notable — 22 nations and smaller successor rows (all of them, with shares and counts, in the city's Specs file). The pool-based table above is the derivation before the rework.
 
 ---
 
@@ -473,6 +519,8 @@ Same geographic position as Janbogo.
 *Founding note: Australia and New Zealand arrive first and set Denison's founding wave character; China and USA dominate long-run composition.*
 
 *Population note: Denison's Canon Census I figures were derived by a different method than the standard island-overflow tier calculation. Canon Census I: 526,521 humans / 546,852 robots / 1,073,373 combined. Census II retention rates are pending.*
+
+**Final composition after the 2026-11-02 rework (`DR-85`):** Primary — Korea, Sinian Federation, Indonesia, CSA, Japan; Significant — Australia, Appalachia, New England, Cascadia, New Zealand, Vietnam, Philippines, Taiwan, Malaysia, Midwest Republic, Manchuria, Thailand, Colorado; Notable — 7 nations and smaller successor rows (all of them, with shares and counts, in the city's Specs file). The pool-based table above is the derivation before the rework.
 
 ---
 
@@ -492,6 +540,8 @@ Same geographic position as Janbogo.
 | 2 — Significant | **Japan** (65M), **Germany** (46M), **France** (35M), **UK** (32M), **South Korea** (26M), **Indonesia** (16M), **Australia** (13M) | Japan leads (65M, ~8,500km Fremantle); Germany and France via Cape Town approach (~9,500km); Australia (~4,500km Hobart/Fremantle) sets the founding wave character |
 | 3 — Notable | **Poland** (12M), **Netherlands** (10M), **Thailand** (8M), **Czech Republic** (5M), **Ukraine** (5M), **Vietnam** (5M), **Romania** (4.5M), **Norway** (3.3M), **Hungary** (3M), **South Africa** (3M), **Slovakia** (2.2M), **Belarus** (1.5M), **Croatia** (1.3M), **Bulgaria** (1.2M), **Lithuania** (1M), **Slovenia** (1M), **Latvia** (0.6M), **Estonia** (0.6M) | Mawson is uniquely dual-gateway: full Intermarium (UTC+1–3 nations, all within ±3 of UTC+4) meet SE Asian corridor (Thailand and Vietnam, UTC+7, just within ±3); South Africa T3 despite Cape Town approach |
 
+**Final composition after the 2026-11-02 rework (`DR-85`):** Primary — United Kingdom, Australia, Sinian Federation, Indonesia, Japan; Significant — France, Korea; Notable — 28 nations and smaller successor rows (all of them, with shares and counts, in the city's Specs file). The pool-based table above is the derivation before the rework.
+
 ---
 
 ### Sinheung *(files: Sinheung; Larsemann Hills, Prydz Bay — Mirny subnet as of 2026-07-05, moved from Mawson; status is damaged/partially operational, not destroyed — this header's "Destroyed" tag predates the 2026-07-03 correction, see `Specs/Sinheung.md`. The final, authoritative per-nation table lives in `Specs/Sinheung.md`, hand-adjusted 2026-07-06 to restore South Korea to Primary (34.62%) — this section's raw Gini-adjusted calculation is kept below only as a record of the pre-correction baseline, not as current guidance.)*
@@ -501,6 +551,8 @@ Same geographic position as Janbogo.
 | 1 — Primary | **China** | 210M Gini-adjusted effective; sole T1 by raw Gini calculation — superseded, see note above |
 | 2 — Significant | **Japan** (65M), **Germany** (46M), **UK** (32M), **South Korea** (26M), **Russia** (25M), **Indonesia** (16M), **Australia** (13M) | Russia at 25M: ordinary Gini-adjusted effective pool; Australia sets founding wave character |
 | 3 — Notable | **Thailand** (8M), **Ukraine** (5M), **Vietnam** (5M), **Philippines** (5M), **Malaysia** (5M), **Romania** (4.5M), **South Africa** (3M), **Belarus** (1.5M), **Bulgaria** (1.2M), **Lithuania** (1M), **Latvia** (0.6M), **Estonia** (0.6M) | SE Asian + Intermarium east corridor as per Prydz Bay UTC+5 cluster; South Africa gateway proximity cannot overcome extreme Gini reduction |
+
+**Final composition after the 2026-11-02 rework (`DR-85`):** Primary — Korea; Significant — Japan, Germany, Sinian Federation; Notable — 34 nations and smaller successor rows (all of them, with shares and counts, in the city's Specs file). The pool-based table above is the derivation before the rework.
 
 ---
 
@@ -514,6 +566,8 @@ Same Prydz Bay geographic cluster as Zhongshan and Davis.
 | 2 — Significant | **Japan** (65M), **Germany** (46M), **UK** (32M), **South Korea** (26M), **Russia** (25M), **Indonesia** (16M), **Australia** (13M) | Same Prydz Bay T2 cluster; Australia sets founding wave character |
 | 3 — Notable | **Thailand** (8M), **Ukraine** (5M), **Vietnam** (5M), **Philippines** (5M), **Malaysia** (5M), **Romania** (4.5M), **South Africa** (3M), **New Zealand** (2.6M), **Belarus** (1.5M), **Bulgaria** (1.2M), **Lithuania** (1M), **Latvia** (0.6M), **Estonia** (0.6M) | Same SE Asian + Intermarium east as Prydz Bay UTC+5 cluster |
 
+**Final composition after the 2026-11-02 rework (`DR-85`):** Primary — Japan; Significant — Australia, Korea, Sinian Federation; Notable — 33 nations and smaller successor rows (all of them, with shares and counts, in the city's Specs file). The pool-based table above is the derivation before the rework.
+
 ---
 
 ### Temirötkel *(Lützow-Holm Bay, East Ongul Island, ~69°00'S 39°35'E)*
@@ -525,6 +579,8 @@ Same Prydz Bay geographic cluster as Zhongshan and Davis.
 | 3 — Notable | **Poland** (12M), **Netherlands** (10M), **Czech Republic** (5M), **Ukraine** (5M), **Romania** (4.5M), **Norway** (3.3M), **Hungary** (3M), **South Africa** (3M), **Slovakia** (2.2M), **Belarus** (1.5M), **Croatia** (1.3M), **Bulgaria** (1.2M), **Serbia** (1.2M), **Lithuania** (1M), **Slovenia** (1M), **Latvia** (0.6M), **Estonia** (0.6M) | Full Intermarium including Belarus (all within ±3 of Temirötkel's UTC+3); South Africa drops to T3 despite Cape Town gateway advantage |
 
 *Key note: Temirötkel is the only Mawson subnet city where Cape Town and Fremantle approaches are genuinely equally competitive. The T2 composition reflects this dual-gateway character: European (Germany, France, UK via Cape Town) alongside East Asian (Japan, South Korea, Indonesia via Fremantle).*
+
+**Final composition after the 2026-11-02 rework (`DR-85`):** Primary — Sinian Federation, Australia, Indonesia, United Kingdom, Germany; Significant — Korea, France; Notable — 25 nations and smaller successor rows (all of them, with shares and counts, in the city's Specs file). The pool-based table above is the derivation before the rework.
 
 ---
 
@@ -542,6 +598,8 @@ Same Prydz Bay geographic cluster as Zhongshan and Davis.
 | 2 — Significant | **Japan** (65M), **Germany** (46M), **UK** (32M), **South Korea** (26M), ⭐ **Russia** (25M), **Indonesia** (16M), **Australia** (13M) | Japan leads T2; Germany and UK via Cape Town approach competing with Hobart at this longitude; Australia (~4,000–4,500km Hobart/Fremantle) sets founding wave character. ⭐ **RUSSIA ADDED 2026-09-05** — *25M Gini-adjusted and **distance 0** from Davis's solar UTC+5 (Yekaterinburg, Perm), while Davis's Notable tier already carried **Estonia and Latvia at 0.6M and distance 3**. Davis was the only city in the Prydz Bay / Wilkes Land cluster without it; see `National_Origin_Composition_Audit_2026-09-05.md`.* ⛔ **AND THE 2026-07-13 NOTE HERE IS RETRACTED.** *It read that "Japan is actually the smallest of the six Significant-tier nations (5.31%) and Indonesia genuinely leads (10.08%). The Specs table is authoritative."* ***That was not a finding — it was a scrambled de-stack being blessed as canon.*** **Davis's Significant tier was ordered almost perfectly INVERSE to pool (Spearman −0.83), and its Notable tier put Thailand — the largest pool at 8M — on the SMALLEST share at 1.35%.** *Re-ordered 2026-09-05 at the developer's direction, tier totals preserved exactly; this raw ranking and the Specs table now agree.* |
 | 3 — Notable | **Thailand** (8M), **Ukraine** (5M), **Vietnam** (5M), **Philippines** (5M), **Malaysia** (5M), **Romania** (4.5M), **South Africa** (3M), **New Zealand** (2.6M), **Belarus** (1.5M), **Bulgaria** (1.2M), **Lithuania** (1M), **Latvia** (0.6M), **Estonia** (0.6M) | SE Asian corridor (Thailand, Vietnam, Philippines, Malaysia — UTC+7–8, all within ±3 of Davis's UTC+5) meets Intermarium east (Ukraine, Romania, Bulgaria, Baltic states, Belarus — UTC+2–3); SA via Cape Town (long at this longitude); NZ via Hobart |
 
+**Final composition after the 2026-11-02 rework (`DR-85`):** Primary — Japan, Sinian Federation, United Kingdom, Germany, Korea; Significant — Indonesia, Australia; Notable — 37 nations and smaller successor rows (all of them, with shares and counts, in the city's Specs file). The pool-based table above is the derivation before the rework.
+
 ---
 
 ### Zhongshan *(Larsemann Hills, Prydz Bay, ~69°22'S 76°22'E)*
@@ -554,6 +612,8 @@ Same geographic cluster as Davis.
 | 2 — Significant | **Japan** (65M), **Germany** (46M), **UK** (32M), **South Korea** (26M), **Russia** (25M), **Indonesia** (16M), **Australia** (13M) | Russia at 25M: ordinary Gini-adjusted effective pool; Australia sets founding wave character |
 | 3 — Notable | **Thailand** (8M), **Ukraine** (5M), **Vietnam** (5M), **Philippines** (5M), **Malaysia** (5M), **Romania** (4.5M), **South Africa** (3M), **New Zealand** (2.6M), **Belarus** (1.5M), **Bulgaria** (1.2M), **Lithuania** (1M), **Latvia** (0.6M), **Estonia** (0.6M) | Same SE Asian + Intermarium east corridor as Davis (both UTC+5 cluster) |
 
+**Final composition after the 2026-11-02 rework (`DR-85`):** Primary — Sinian Federation; Significant — Korea, Japan, Germany; Notable — 31 nations and smaller successor rows (all of them, with shares and counts, in the city's Specs file). The pool-based table above is the derivation before the rework.
+
 ---
 
 ### Mirny *(Davis Coast, ~66°33'S 93°01'E)*
@@ -564,6 +624,8 @@ Same geographic cluster as Davis.
 | 2 — Significant | **Japan** (65M), **UK** (32M), **South Korea** (26M), **Russia** (25M), **Indonesia** (16M), **Australia** (13M) | Japan leads T2; Australia (~3,500–4,000km Hobart — a direct sea route from Australia) sets founding wave character |
 | 3 — Notable | **Thailand** (8M), **Vietnam** (5M), **Philippines** (5M), **Malaysia** (5M), **South Africa** (3M), **New Zealand** (2.6M), **Belarus** (1.5M) | SE Asian corridor (all UTC+7–8, within ±3 of Mirny's UTC+6) is the dominant T3 presence; Belarus (UTC+3, distance=3) just qualifies; Romania/Ukraine outside ±3 window; SA via Cape Town long at 93°E |
 
+**Final composition after the 2026-11-02 rework (`DR-85`):** Primary — United Kingdom, Korea, Indonesia, Sinian Federation; Significant — Japan, Australia, Philippines, New Zealand, Malaysia, Thailand, Taiwan, Idelsk-Uralia, Russia (core state), Vietnam, Manchuria, Belarus, South Africa; Notable — 18 nations and smaller successor rows (all of them, with shares and counts, in the city's Specs file). The pool-based table above is the derivation before the rework.
+
 ---
 
 ### Casey *(Wilkes Land, ~66°17'S 110°32'E)*
@@ -573,6 +635,8 @@ Same geographic cluster as Davis.
 | 1 — Primary | **China** (210M), **USA** (155M) | Casey sits at the boundary between Ross Sea and East Antarctic corridors; the Pacific approach from USA (~12,000km) is shorter here than at deeper East Antarctic stations, bringing USA into T1 co-primary alongside China |
 | 2 — Significant | **Japan** (65M), **France** (35M), **South Korea** (26M), **Russia** (25M), **Indonesia** (16M), **Australia** (13M) | Japan leads T2; France at 35M; Australia (~3,400km Hobart — a direct sea route from Australia) sets founding wave character |
 | 3 — Notable | **Thailand** (8M), **Vietnam** (5M), **Philippines** (5M), **Malaysia** (5M), **New Zealand** (2.6M) | SE Asian corridor (UTC+7–8) dominant in T3; Thailand and Vietnam share the same solar UTC as Casey; Philippines and Malaysia one step east; NZ via Hobart elevated by Casey's boundary position between Ross Sea and East Antarctic corridors |
+
+**Final composition after the 2026-11-02 rework (`DR-85`):** Primary — Korea, France, Australia, Sinian Federation, CSA; Significant — Japan, Indonesia, Appalachia, New England, New Zealand, Philippines, Cascadia, Vietnam, Taiwan; Notable — 27 nations and smaller successor rows (all of them, with shares and counts, in the city's Specs file). The pool-based table above is the derivation before the rework.
 
 ---
 
@@ -641,6 +705,8 @@ if ownership is irrelevant." The same holds for a station's fate.***
 Australian station lineage is a coordinate, not an identity.* ⭐ *Australia and Russia both land in
 this table anyway — by meridian and gateway, never by whose flag was on the hut.*
 
+**Final composition after the 2026-11-02 rework (`DR-85`):** Primary — Japan, Indonesia, Korea, Sinian Federation, Australia; Significant — Thailand, Vietnam, Idelsk-Uralia, Russia (core state), Malaysia, Philippines, Taiwan, New Zealand; Notable — 18 nations and smaller successor rows (all of them, with shares and counts, in the city's Specs file). The pool-based table above is the derivation before the rework.
+
 ---
 
 ## AMUNDSEN STATION — South Pole (Inter-Subnet Relay, DLC 1)
@@ -654,6 +720,8 @@ this table anyway — by meridian and gateway, never by whose flag was on the hu
 | 3 — Notable | **Argentina** (6M), **Norway** (3.3M), **New Zealand** (2.6M), **Chile** (2.3M) | Chile uniquely elevated at the South Pole specifically — Union Glacier route (~3,700km Punta Arenas → Pole) is the shortest direct path from any inhabited continent to the geographic Pole; Argentina via Union Glacier shared gateway; Norway: Amundsen heritage pull + Novo → Pole air option; NZ via McMurdo chain |
 
 *Key note: Chile's Union Glacier route makes it prominent at the South Pole in a way not seen at any other Tepenian city. Despite only 2.3M Gini-adjusted effective, Chile's geographic advantage here is unique and GDD-justified. Norway's Amundsen heritage (Saint Roald) gives it cultural significance disproportionate to its T3 effective population.*
+
+**Final composition after the 2026-11-02 rework (`DR-85`):** Primary — United Kingdom, Sinian Federation, Japan, Germany, CSA; Significant — Korea, Australia, Appalachia, Cascadia, New England, New Zealand, Austro-Bavaria, Argentina (without Patagonia), Taiwan, Demilitarized Zone (s. Ontario; not a nation), Quebec, Norway, Midwest Republic, Chile, Manchuria, Prairie Federation, Colorado; Notable — 8 nations and smaller successor rows (all of them, with shares and counts, in the city's Specs file). The pool-based table above is the derivation before the rework.
 
 ---
 

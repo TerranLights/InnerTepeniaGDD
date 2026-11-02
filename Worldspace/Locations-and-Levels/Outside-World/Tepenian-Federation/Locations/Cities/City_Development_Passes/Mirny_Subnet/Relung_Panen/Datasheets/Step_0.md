@@ -7,8 +7,8 @@
 
 | Category | Value | Citation |
 |---|---|---|
-| Census I | **477,285** H / **494,585** R / **971,870** combined *(a long status cell is present: an authoring note, not copied)* | `Official_Population_Census.md` L502 |
-| Census II | **340,951** H / **353,062** R / **694,013** combined *(a long status cell is present: an authoring note, not copied)* | `Official_Population_Census.md` L621 |
+| Census I | **477,285** H / **494,585** R / **971,870** combined *(a long status cell is present: an authoring note, not copied)* | `Official_Population_Census.md` L514 |
+| Census II | **340,951** H / **353,062** R / **694,013** combined *(a long status cell is present: an authoring note, not copied)* | `Official_Population_Census.md` L653 |
 | Retention (computed; formula = Census II count ÷ Census I count) | combined 71.41% · human 71.44% · robot 71.39% | Computed from the two rows above: 694,013÷971,870 · 340,951÷477,285 · 353,062÷494,585 |
 | Extent band (as stated in the spec; the sentence's comparison with other places is not copied) | **~450 km²** — the ice-free oasis; up to **942 km²** including marine areas · density **2,160/km²** *(971,870 ÷ 450 = 2,159.7)* | `Specs/Relung_Panen.md` L30–L31 |
 | Extent record — `Extent_and_Density_Per_City.md` §11 (**2026-09-05 snapshot; the census is live — note L631**) | §11 heading at L642; "2,107/km² on the oasis's 450 km² of ice-free rock" *(on the 2026-09-05 founding population of 947,954; 947,954 ÷ 450 = 2,106.6)* — the rest of that sentence compares the city with other places: not copied | `Extent_and_Density_Per_City.md` L642, L660 (snapshot note L631) |

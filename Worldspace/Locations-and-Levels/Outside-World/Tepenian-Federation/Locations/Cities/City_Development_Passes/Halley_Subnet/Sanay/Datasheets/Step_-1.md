@@ -15,7 +15,7 @@
 | Significance | *[source line excluded: later-era content, outside the Second Interwar default scope; not copied]* | `Specs/Sanay.md` L9 |
 | Coordinates (as written in the same field) | ~71°40'S, 2°51'W | `Specs/Sanay.md` L3 |
 | Specs `Status:` field | States a later-era condition; per the standing default-scope rule (`00_RUNBOOK.md`, the Second Interwar default) this is **never an input** to a Second Interwar pass — not copied | `Specs/Sanay.md` L5 |
-| Later-era sections present in the Specs file (same exclusion as `Status:`) | 3 section(s), by heading position: L179, L184, L192 — not copied, not described | `Specs/Sanay.md` L179, L184, L192 |
+| Later-era sections present in the Specs file (same exclusion as `Status:`) | 3 section(s), by heading position: L179, L184, L192 — not copied, not described | `Specs/Sanay.md` L184, L189, L197 |
 | Census I (spec's own line) | 243,714 humans / 243,871 robots / **487,585** combined | `Specs/Sanay.md` L16 |
 | Census II (spec's own line) | 153,905 humans / 137,057 robots / **290,962** combined | `Specs/Sanay.md` L17 |
 

@@ -91,7 +91,7 @@ draw their chemistry from *"sea spray, local geology, and periodic seawater surg
 glacier"* — a real, dated event exists for this: 30 January 2017, when a supraglacial layer drained into an
 englacial lake and produced an outburst that carved a depression `183 × 220 m`. **This is not ambient — it is
 periodic and locatable**, concentrated at the oasis's eastern corner where Dålk sits. Second: the wind itself is
-not clean — on exposed rock, what moves past is *"dust and grit as well as snow"* (`Specs/Zhongshan.md` L92),
+not clean — on exposed rock, what moves past is *"dust and grit as well as snow"* (`Specs/Zhongshan.md` L113),
 so the everyday smell profile carries mineral dust the way a coastal city carries salt.
 
 **The finding: this city smells different at its two geographic ends**, and the eastern difference is

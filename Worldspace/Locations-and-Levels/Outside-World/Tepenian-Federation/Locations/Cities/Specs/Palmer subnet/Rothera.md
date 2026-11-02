@@ -52,29 +52,44 @@ By population, Rothera (317,449 Census I, rank 31st *corrected 2026-07-03, again
 
 | Tier | Nations |
 |------|---------|
-| Primary | USA |
-| Significant | Germany, France, UK, Canada, Mexico, Brazil |
-| Notable | Argentina *(founding wave)*, Chile *(founding wave)* |
+| Primary | Brazil, Germany |
+| Significant | CSA, France, United Kingdom, Cascadia, Appalachia, México, Demilitarized Zone (s. Ontario; not a nation), New England, Chile *(founding wave)*, Quebec, Prairie Federation, Austro-Bavaria, Midwest Republic, Argentina (without Patagonia) *(founding wave)*, Amazonia, Colorado, Sonora |
+| Notable | Araucanía-Patagonia, Yucatán, Northern Ireland, Hawaii, Alaska |
 
 *Source: `Official_Population_Census.md` Sections A–C.*
 
 ### Per-Nation Breakdown — Robots and Humans, Census I and II
 
-*(De-stacked 2026-07-05 — raw tier-share percentages naturally produced blocks of nations with identical figures; applied a randomization method to break these into distinct, non-repeating values while preserving each tier's total and ordering. See `TODO.md` for the full method.)*
+*(Rebalanced 2026-11-02 in the population rework, `DR-85`: every country appears in its latest-period form (successor states and renamed countries, split by headcount, names explained in `Official_Population_Census.md` Section E); China's row is the Sinian Federation, with its decline and the refill of the gap where the rework applies it; places never counted before were added by time-zone window; tiers were relabeled from the final shares. This city: new pools: Petén 0.05%. City totals in all four columns are unchanged. Method, every run and the research: `Sinian_Federation_Split_Scratch_2026-11-01/` (file `12_Rebalance_Run4.md`). The table that stood here before is in git commit `593510ab`.)*
 
 | Tier | Nation | Share % | Census I Robots | Census I Humans | Census II Robots | Census II Humans |
 |------|--------|---------|------------------|------------------|-------------------|-------------------|
-| Primary | USA | 28.57% | 46,768 | 43,931 | 38,307 | 34,795 |
-| Significant | Germany | 14.31% | 23,421 | 22,000 | 19,183 | 17,425 |
-| Significant | Canada | 14.30% | 23,405 | 21,985 | 19,170 | 17,413 |
-| Significant | Brazil | 14.00% | 22,916 | 21,526 | 18,770 | 17,049 |
-| Significant | France | 7.43% | 12,160 | 11,423 | 9,960 | 9,047 |
-| Significant | Mexico | 7.13% | 11,672 | 10,964 | 9,560 | 8,684 |
-| Significant | UK | 7.12% | 11,655 | 10,948 | 9,546 | 8,671 |
-| Notable | Chile | 5.23% | 8,563 | 8,044 | 7,014 | 6,371 |
-| Notable | Argentina | 1.91% | 3,129 | 2,939 | 2,563 | 2,328 |
+| Primary | Brazil | 12.60% | 20,629 | 19,377 | 16,897 | 15,349 |
+| Primary | Germany | 12.00% | 19,635 | 18,444 | 16,082 | 14,609 |
+| Significant | CSA | 9.24% | 15,122 | 14,204 | 12,386 | 11,250 |
+| Significant | France | 7.43% | 12,154 | 11,417 | 9,955 | 9,043 |
+| Significant | United Kingdom | 6.92% | 11,325 | 10,638 | 9,276 | 8,426 |
+| Significant | Cascadia | 6.54% | 10,701 | 10,051 | 8,766 | 7,962 |
+| Significant | Appalachia | 5.93% | 9,706 | 9,118 | 7,950 | 7,220 |
+| Significant | México | 5.75% | 9,416 | 8,845 | 7,712 | 7,006 |
+| Significant | Demilitarized Zone (s. Ontario; not a nation) | 5.28% | 8,646 | 8,121 | 7,082 | 6,432 |
+| Significant | New England | 4.85% | 7,938 | 7,456 | 6,502 | 5,906 |
+| Significant | Chile *(founding wave)* | 4.50% | 7,370 | 6,924 | 6,037 | 5,483 |
+| Significant | Quebec | 4.04% | 6,611 | 6,210 | 5,414 | 4,919 |
+| Significant | Prairie Federation | 2.97% | 4,864 | 4,569 | 3,983 | 3,618 |
+| Significant | Austro-Bavaria | 2.31% | 3,774 | 3,545 | 3,091 | 2,808 |
+| Significant | Midwest Republic | 1.84% | 3,019 | 2,836 | 2,472 | 2,246 |
+| Significant | Argentina (without Patagonia) *(founding wave)* | 1.80% | 2,950 | 2,771 | 2,416 | 2,195 |
+| Significant | Amazonia | 1.39% | 2,276 | 2,138 | 1,864 | 1,693 |
+| Significant | Colorado | 1.39% | 2,270 | 2,132 | 1,859 | 1,689 |
+| Significant | Sonora | 1.19% | 1,952 | 1,834 | 1,599 | 1,452 |
+| Notable | Araucanía-Patagonia | 0.83% | 1,366 | 1,283 | 1,119 | 1,016 |
+| Notable | Yucatán | 0.79% | 1,288 | 1,210 | 1,055 | 958 |
+| Notable | Northern Ireland | 0.20% | 324 | 305 | 266 | 241 |
+| Notable | Hawaii | 0.12% | 196 | 184 | 161 | 146 |
+| Notable | Alaska | 0.096% | 157 | 148 | 129 | 117 |
 
-*Figures use the project's standard share-weighting methodology as a baseline (Primary=8 shares, Significant=3 shares, Notable=1 share per nation — see `Upper_Earth_Immigration_Composition.md`), then de-stacked per the method above so that same-tier nations no longer show identical figures. Percentages are of this city's own population (identical between Census I and II under this proportional model), not Tepenia-wide. Robot figures apply the same national-origin proportions as the human population, consistent with the project's established methodology.*
+*Tier labels follow the final shares: Primary and Significant end at the largest ratio gaps among the rows at 4.5% or more (Primary never more than six rows), no row at 4.5% or more is Notable, and Notable is the rest (the composition file's own rule, "boundaries fall at the largest ratio gaps"; the 8 / 3 / 1 share weights no longer produce the figures). Percentages are of this city's own human and robot population (identical between censuses), not Tepenia-wide. Robot figures apply the same proportions as the human population. Shares are rounded; they sum to 100% within rounding.*
 
 ---
 

@@ -15,7 +15,7 @@
 | Significance | Named after Georg von Neumayer (1826–1909), German oceanographer, navigator, and polar research champion; built on the Ekström Ice Shelf rather than on bedrock, which has structural implications for long-term city stability; one of the Halley subnet's primary scientific hubs; independently developed its own research mission focus (atmospheric science, glaciology, oceanography) — a convergence with the original AWI program's own focus, not an inheritance from it *(corrected 2026-07-24, GPS-purposes-only pass)* | `Specs/Neumayer.md` L8 |
 | Coordinates (as written in the same field) | ~70°41'S, 8°16'W | `Specs/Neumayer.md` L3 |
 | Specs `Status:` field | States a later-era condition; per the standing default-scope rule (`00_RUNBOOK.md`, the Second Interwar default) this is **never an input** to a Second Interwar pass — not copied | `Specs/Neumayer.md` L4 |
-| Later-era sections present in the Specs file (same exclusion as `Status:`) | 2 section(s), by heading position: L172, L177 — not copied, not described | `Specs/Neumayer.md` L172, L177 |
+| Later-era sections present in the Specs file (same exclusion as `Status:`) | 2 section(s), by heading position: L172, L177 — not copied, not described | `Specs/Neumayer.md` L184, L189 |
 | Census I (spec's own line) | 625,874 humans / 650,123 robots / **1,275,997** combined | `Specs/Neumayer.md` L15 |
 | Census II (spec's own line) | 393,179 humans / 453,415 robots / **846,594** combined | `Specs/Neumayer.md` L16 |
 

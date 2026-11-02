@@ -17,33 +17,52 @@
 
 | Tier | Nations |
 |------|---------|
-| Primary | China, USA |
-| Significant | Japan, Germany, Italy, South Korea, Canada, Indonesia, Australia *(founding wave)* |
-| Notable | Philippines, Malaysia, New Zealand *(earliest founding wave)*, Chile |
+| Primary | Korea, Australia *(founding wave)*, Sinian Federation, Indonesia, CSA, Magna Lombardia |
+| Significant | Japan, Germany, Appalachia, Cascadia, Meridia, Malaysia, New England, Taiwan, Chile |
+| Notable | Philippines, New Zealand *(earliest founding wave)*, Demilitarized Zone (s. Ontario; not a nation), Manchuria, Midwest Republic, Quebec, Colorado, Prairie Federation, Austro-Bavaria, Sicilia (autonomous zone within Meridia), Sonora, Araucanía-Patagonia, Mongolia, West Papua, Aceh, Hawaii, Alaska |
 
 *Source: `Official_Population_Census.md` Sections A–C.*
 
 ### Per-Nation Breakdown — Robots and Humans, Census I and II
 
-*(De-stacked 2026-07-05 — raw tier-share percentages naturally produced blocks of nations with identical figures; applied a randomization method to break these into distinct, non-repeating values while preserving each tier's total and ordering. See `TODO.md` for the full method.)*
+*(Rebalanced 2026-11-02 in the population rework, `DR-85`: every country appears in its latest-period form (successor states and renamed countries, split by headcount, names explained in `Official_Population_Census.md` Section E); China's row is the Sinian Federation, with its decline and the refill of the gap where the rework applies it; places never counted before were added by time-zone window; tiers were relabeled from the final shares. This city: china's pieces in window: Mongolia, Manchuria; new pools: Hong Kong 0.88%, Macau 0.10%, Taiwan 2.92%, North Korea 0.36%; the Sinian Federation's share was multiplied by 0.5550 (random 0.55 to 0.65), and the freed points went in proportion to size to: CSA, Korea, Australia, Magna Lombardia, Indonesia. City totals in all four columns are unchanged. Method, every run and the research: `Sinian_Federation_Split_Scratch_2026-11-01/` (file `12_Rebalance_Run4.md`). The table that stood here before is in git commit `593510ab`.)*
 
 | Tier | Nation | Share % | Census I Robots | Census I Humans | Census II Robots | Census II Humans |
 |------|--------|---------|------------------|------------------|-------------------|-------------------|
-| Primary | China | 20.63% | 139,415 | 135,893 | 97,946 | 102,882 |
-| Primary | USA | 18.39% | 124,291 | 121,153 | 87,321 | 91,721 |
-| Significant | South Korea | 10.23% | 69,115 | 67,370 | 48,558 | 51,004 |
-| Significant | Australia | 9.99% | 67,515 | 65,809 | 47,432 | 49,823 |
-| Significant | Italy | 9.14% | 61,734 | 60,174 | 43,371 | 45,557 |
-| Significant | Indonesia | 8.88% | 59,994 | 58,479 | 42,148 | 44,273 |
-| Significant | Germany | 4.64% | 31,376 | 30,582 | 22,042 | 23,153 |
-| Significant | Japan | 4.41% | 29,774 | 29,022 | 20,918 | 21,972 |
-| Significant | Canada | 3.94% | 26,608 | 25,936 | 18,693 | 19,635 |
-| Notable | Chile | 3.22% | 21,727 | 21,178 | 15,264 | 16,034 |
-| Notable | Malaysia | 3.13% | 21,173 | 20,638 | 14,875 | 15,625 |
-| Notable | Philippines | 1.74% | 11,790 | 11,493 | 8,283 | 8,701 |
-| Notable | New Zealand | 1.66% | 11,236 | 10,953 | 7,894 | 8,292 |
+| Primary | Korea | 12.37% | 83,572 | 81,461 | 58,713 | 61,672 |
+| Primary | Australia *(founding wave)* | 11.68% | 78,919 | 76,924 | 55,444 | 58,238 |
+| Primary | Sinian Federation | 10.57% | 71,404 | 69,599 | 50,164 | 52,692 |
+| Primary | Indonesia | 9.96% | 67,305 | 65,605 | 47,284 | 49,668 |
+| Primary | CSA | 6.95% | 46,998 | 45,812 | 33,018 | 34,682 |
+| Primary | Magna Lombardia | 6.08% | 41,091 | 40,053 | 28,869 | 30,323 |
+| Significant | Japan | 4.22% | 28,520 | 27,798 | 20,037 | 21,046 |
+| Significant | Germany | 3.73% | 25,208 | 24,570 | 17,710 | 18,602 |
+| Significant | Appalachia | 3.66% | 24,719 | 24,095 | 17,367 | 18,242 |
+| Significant | Cascadia | 3.18% | 21,503 | 20,960 | 15,107 | 15,867 |
+| Significant | Meridia | 3.06% | 20,670 | 20,147 | 14,523 | 15,254 |
+| Significant | Malaysia | 3.00% | 20,281 | 19,769 | 14,247 | 14,966 |
+| Significant | New England | 2.99% | 20,217 | 19,707 | 14,205 | 14,919 |
+| Significant | Taiwan | 2.91% | 19,649 | 19,153 | 13,804 | 14,500 |
+| Significant | Chile | 2.66% | 17,921 | 17,469 | 12,590 | 13,225 |
+| Notable | Philippines | 1.67% | 11,293 | 11,008 | 7,934 | 8,335 |
+| Notable | New Zealand *(earliest founding wave)* | 1.59% | 10,762 | 10,492 | 7,561 | 7,942 |
+| Notable | Demilitarized Zone (s. Ontario; not a nation) | 1.40% | 9,420 | 9,182 | 6,617 | 6,951 |
+| Notable | Manchuria | 1.33% | 9,022 | 8,794 | 6,338 | 6,657 |
+| Notable | Midwest Republic | 1.14% | 7,686 | 7,494 | 5,400 | 5,673 |
+| Notable | Quebec | 1.07% | 7,202 | 7,020 | 5,059 | 5,316 |
+| Notable | Colorado | 0.85% | 5,782 | 5,635 | 4,061 | 4,267 |
+| Notable | Prairie Federation | 0.79% | 5,299 | 5,164 | 3,723 | 3,910 |
+| Notable | Austro-Bavaria | 0.72% | 4,845 | 4,723 | 3,405 | 3,576 |
+| Notable | Sicilia (autonomous zone within Meridia) | 0.71% | 4,790 | 4,669 | 3,366 | 3,535 |
+| Notable | Sonora | 0.50% | 3,397 | 3,311 | 2,386 | 2,506 |
+| Notable | Araucanía-Patagonia | 0.43% | 2,889 | 2,817 | 2,031 | 2,133 |
+| Notable | Mongolia | 0.34% | 2,268 | 2,211 | 1,592 | 1,674 |
+| Notable | West Papua | 0.17% | 1,176 | 1,146 | 826 | 868 |
+| Notable | Aceh | 0.17% | 1,137 | 1,109 | 799 | 839 |
+| Notable | Hawaii | 0.074% | 498 | 486 | 351 | 370 |
+| Notable | Alaska | 0.045% | 305 | 297 | 214 | 224 |
 
-*Figures use the project's standard share-weighting methodology as a baseline (Primary=8 shares, Significant=3 shares, Notable=1 share per nation — see `Upper_Earth_Immigration_Composition.md`), then de-stacked per the method above so that same-tier nations no longer show identical figures. Percentages are of this city's own population (identical between Census I and II under this proportional model), not Tepenia-wide. Robot figures apply the same national-origin proportions as the human population, consistent with the project's established methodology.*
+*Tier labels follow the final shares: Primary and Significant end at the largest ratio gaps among the rows at 4.5% or more (Primary never more than six rows), no row at 4.5% or more is Notable, and Notable is the rest (the composition file's own rule, "boundaries fall at the largest ratio gaps"; the 8 / 3 / 1 share weights no longer produce the figures). Percentages are of this city's own human and robot population (identical between censuses), not Tepenia-wide. Robot figures apply the same proportions as the human population. Shares are rounded; they sum to 100% within rounding.*
 
 ---
 
@@ -148,7 +167,7 @@ The communal culture was strong: shared spaces, hospitality traditions, an empha
 
 Tea, hospitality and togetherness are part of its culture. At least one Janbogo teahouse was famous throughout Tepenia — known to people who had never been to Janbogo and would never go.
 
-**Tepenia's Korean-founded cities:** Janbogo is not the only Korean city in Tepenia. Sinheung, in the Mirny subnet's Larsemann Hills cluster, is singularly Korean-founded via the same Jeju-do diplomatic partition that allocated Zhongshan to China and Shirayuki to Japan, and remains genuinely Korean-**Primary** today at 34.62% — by current population, the most heavily Korean city in Tepenia, more so than Janbogo itself. Janbogo's own claim to being "Korea's primary Tepenian city" rests on a different foundation than raw population share: South Korea is still Janbogo's largest Significant-tier nation (10.23%, ahead of even Australia's 9.99%), and Janbogo's founding-era civic template — tea, hospitality and communal warmth — was never displaced or diluted even as the population that carries it forward diversified (see `Local_Cultures/Janbogo_Subnet/Janbogo.md` Section 1). Both cities carry genuine Korean cultural identity, by different mechanisms: Sinheung by demographic dominance, Janbogo by cultural/institutional depth despite demographic dilution. Contrapunto, founded by immigrants from the Americas, also has a Korean community at Significant tier (5.79%). Whether the Korean communities of these cities had meaningful contact pre-Split Brain, and what the current relationship between surviving diaspora members might be, is a lore thread running through all three.
+**Tepenia's Korean-founded cities:** Janbogo is not the only Korean city in Tepenia. Sinheung, in the Mirny subnet's Larsemann Hills cluster, is singularly Korean-founded via the same Jeju-do diplomatic partition that allocated Zhongshan to China and Shirayuki to Japan, and remains genuinely Korean-**Primary** today at 33.49% *(updated 2026-11-02, `DR-85`; was 34.62%)* — by current population, the most heavily Korean city in Tepenia, more so than Janbogo itself. Janbogo's own claim to being "Korea's primary Tepenian city" rests on a different foundation than raw population share: Korea is still Janbogo's largest community (12.37%, ahead of Australia's 11.68%) *(updated 2026-11-02, `DR-85`; it was South Korea's 10.23% against Australia's 9.99%, as the largest Significant-tier nation)*, and Janbogo's founding-era civic template — tea, hospitality and communal warmth — was never displaced or diluted even as the population that carries it forward diversified (see `Local_Cultures/Janbogo_Subnet/Janbogo.md` Section 1). Both cities carry genuine Korean cultural identity, by different mechanisms: Sinheung by demographic dominance, Janbogo by cultural/institutional depth despite demographic dilution. Contrapunto, founded by immigrants from the Americas, also has a Korean community at Significant tier (5.79%). Whether the Korean communities of these cities had meaningful contact pre-Split Brain, and what the current relationship between surviving diaspora members might be, is a lore thread running through all three.
 
 **Nationally known for:** The quality of warmth and communal hospitality its people carried with them; being the last active coastal link to Concordia.
 

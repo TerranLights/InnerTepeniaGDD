@@ -17,32 +17,49 @@
 
 | Tier | Nations |
 |------|---------|
-| Primary | China, USA |
-| Significant | Japan, UK, South Korea, Canada, Indonesia, Australia *(founding wave)* |
-| Notable | Philippines, Malaysia, New Zealand *(earliest founding wave — geographically closest nation to Cape Adare)*, Chile |
+| Primary | Australia *(founding wave)*, Sinian Federation, Japan, Indonesia, CSA |
+| Significant | Korea, United Kingdom, Appalachia, Cascadia, New England, Chile, New Zealand *(earliest founding wave — geographically closest nation to Cape Adare)*, Taiwan, Demilitarized Zone (s. Ontario; not a nation), Philippines, Quebec, Malaysia, Midwest Republic, Prairie Federation, Manchuria, Colorado |
+| Notable | Sonora, Araucanía-Patagonia, Mongolia, West Papua, Aceh, Northern Ireland, Hawaii, Alaska |
 
 *Source: `Official_Population_Census.md` Sections A–C.*
 
 ### Per-Nation Breakdown — Robots and Humans, Census I and II
 
-*(De-stacked 2026-07-05 — raw tier-share percentages naturally produced blocks of nations with identical figures; applied a randomization method to break these into distinct, non-repeating values while preserving each tier's total and ordering. See `TODO.md` for the full method.)*
+*(Rebalanced 2026-11-02 in the population rework, `DR-85`: every country appears in its latest-period form (successor states and renamed countries, split by headcount, names explained in `Official_Population_Census.md` Section E); China's row is the Sinian Federation, with its decline and the refill of the gap where the rework applies it; places never counted before were added by time-zone window; tiers were relabeled from the final shares. This city: china's pieces in window: Mongolia, Manchuria; new pools: Hong Kong 0.88%, Macau 0.10%, Taiwan 2.92%, North Korea 0.36%; the Sinian Federation's share was multiplied by 0.6333 (random 0.55 to 0.65), and the freed points went in proportion to size to: CSA, Australia, Japan, Indonesia, Korea, United Kingdom. City totals in all four columns are unchanged. Method, every run and the research: `Sinian_Federation_Split_Scratch_2026-11-01/` (file `12_Rebalance_Run4.md`). The table that stood here before is in git commit `593510ab`.)*
 
 | Tier | Nation | Share % | Census I Robots | Census I Humans | Census II Robots | Census II Humans |
 |------|--------|---------|------------------|------------------|-------------------|-------------------|
-| Primary | USA | 22.26% | 170,375 | 168,738 | 140,546 | 96,700 |
-| Primary | China | 19.85% | 151,926 | 150,466 | 125,326 | 86,227 |
-| Significant | Australia | 10.76% | 82,348 | 81,557 | 67,930 | 46,738 |
-| Significant | Japan | 10.49% | 80,335 | 79,562 | 66,269 | 45,595 |
-| Significant | Indonesia | 9.28% | 71,026 | 70,343 | 58,591 | 40,312 |
-| Significant | Canada | 6.51% | 49,837 | 49,357 | 41,111 | 28,286 |
-| Significant | South Korea | 5.29% | 40,528 | 40,139 | 33,433 | 23,002 |
-| Significant | UK | 5.03% | 38,515 | 38,144 | 31,771 | 21,859 |
-| Notable | Chile | 3.74% | 28,651 | 28,375 | 23,635 | 16,262 |
-| Notable | New Zealand | 3.19% | 24,389 | 24,155 | 20,120 | 13,842 |
-| Notable | Philippines | 2.08% | 15,898 | 15,745 | 13,115 | 9,023 |
-| Notable | Malaysia | 1.52% | 11,637 | 11,526 | 9,600 | 6,605 |
+| Primary | Australia *(founding wave)* | 11.82% | 90,458 | 89,589 | 74,620 | 51,341 |
+| Primary | Sinian Federation | 11.62% | 88,953 | 88,098 | 73,379 | 50,486 |
+| Primary | Japan | 11.52% | 88,248 | 87,398 | 72,795 | 50,085 |
+| Primary | Indonesia | 9.78% | 74,880 | 74,159 | 61,770 | 42,500 |
+| Primary | CSA | 7.91% | 60,542 | 59,960 | 49,942 | 34,362 |
+| Significant | Korea | 6.21% | 47,606 | 47,152 | 39,274 | 27,020 |
+| Significant | United Kingdom | 5.37% | 41,131 | 40,734 | 33,929 | 23,344 |
+| Significant | Appalachia | 4.43% | 33,884 | 33,560 | 27,952 | 19,231 |
+| Significant | Cascadia | 4.08% | 31,231 | 30,932 | 25,764 | 17,725 |
+| Significant | New England | 3.62% | 27,714 | 27,448 | 22,860 | 15,730 |
+| Significant | Chile | 3.08% | 23,633 | 23,405 | 19,495 | 13,414 |
+| Significant | New Zealand *(earliest founding wave — geographically closest nation to Cape Adare)* | 3.06% | 23,361 | 23,136 | 19,272 | 13,259 |
+| Significant | Taiwan | 2.91% | 22,259 | 22,044 | 18,362 | 12,633 |
+| Significant | Demilitarized Zone (s. Ontario; not a nation) | 2.31% | 17,643 | 17,473 | 14,554 | 10,014 |
+| Significant | Philippines | 1.99% | 15,228 | 15,081 | 12,563 | 8,642 |
+| Significant | Quebec | 1.76% | 13,490 | 13,361 | 11,127 | 7,655 |
+| Significant | Malaysia | 1.46% | 11,147 | 11,040 | 9,196 | 6,327 |
+| Significant | Midwest Republic | 1.38% | 10,538 | 10,436 | 8,692 | 5,981 |
+| Significant | Prairie Federation | 1.30% | 9,924 | 9,829 | 8,186 | 5,633 |
+| Significant | Manchuria | 1.28% | 9,830 | 9,737 | 8,110 | 5,581 |
+| Significant | Colorado | 1.03% | 7,924 | 7,849 | 6,538 | 4,498 |
+| Notable | Sonora | 0.61% | 4,655 | 4,609 | 3,840 | 2,641 |
+| Notable | Araucanía-Patagonia | 0.50% | 3,811 | 3,773 | 3,144 | 2,163 |
+| Notable | Mongolia | 0.32% | 2,471 | 2,447 | 2,039 | 1,403 |
+| Notable | West Papua | 0.18% | 1,393 | 1,380 | 1,149 | 791 |
+| Notable | Aceh | 0.18% | 1,346 | 1,333 | 1,110 | 763 |
+| Notable | Northern Ireland | 0.13% | 1,027 | 1,017 | 846 | 583 |
+| Notable | Hawaii | 0.089% | 684 | 678 | 564 | 388 |
+| Notable | Alaska | 0.059% | 454 | 449 | 375 | 258 |
 
-*Figures use the project's standard share-weighting methodology as a baseline (Primary=8 shares, Significant=3 shares, Notable=1 share per nation — see `Upper_Earth_Immigration_Composition.md`), then de-stacked per the method above so that same-tier nations no longer show identical figures. Percentages are of this city's own population (identical between Census I and II under this proportional model), not Tepenia-wide. Robot figures apply the same national-origin proportions as the human population, consistent with the project's established methodology.*
+*Tier labels follow the final shares: Primary and Significant end at the largest ratio gaps among the rows at 4.5% or more (Primary never more than six rows), no row at 4.5% or more is Notable, and Notable is the rest (the composition file's own rule, "boundaries fall at the largest ratio gaps"; the 8 / 3 / 1 share weights no longer produce the figures). Percentages are of this city's own human and robot population (identical between censuses), not Tepenia-wide. Robot figures apply the same proportions as the human population. Shares are rounded; they sum to 100% within rounding.*
 
 ---
 

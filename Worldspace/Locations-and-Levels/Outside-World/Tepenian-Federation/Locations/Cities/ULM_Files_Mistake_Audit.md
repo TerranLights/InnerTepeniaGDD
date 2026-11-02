@@ -117,7 +117,7 @@ cities are already on the revisit list. These others are new:
 | `Local_Cultures/Mirny_Subnet/Sinheung.md` §23 | — | "Zhongshan's claim was organic and merely confirmed by Jeju-do… inherited an actively operating Russian research station" |
 | `World_History_Reference.md` | L240 | "Every real Antarctic research station became a Tepenian city": a fact, but it is the cited basis for typing cities `Installation` (D4) |
 | `National_Holidays.md` | Hut Point line | "Hut Point remembrance ritual… Scott/Fort McMurdo" (D2) |
-| `Specs/Mirny subnet/Vostok.md` L128 · `Kunlun.md` L168–170 · `Specs/Janbogo subnet/Denison.md` L277–279 · `Lazar.md` | — | station-derived founders for unruled cities (D7) |
+| `Specs/Mirny subnet/Vostok.md` L128 · `Kunlun.md` L168–170 · `Specs/Janbogo subnet/Denison.md` L291–293 · `Lazar.md` | — | station-derived founders for unruled cities (D7) |
 | `Research_Logs/Janbogo_Research_Log.md` | README row | "Jang Bogo Station's real staffing/scale and its historical namesake" (D2) |
 | `Inspirational-Influences.md` | Mirny, Sinheung picks | Yakutsk/Nizhny Tagil and Volgograd; check whether they were picked because of the Russian station |
 

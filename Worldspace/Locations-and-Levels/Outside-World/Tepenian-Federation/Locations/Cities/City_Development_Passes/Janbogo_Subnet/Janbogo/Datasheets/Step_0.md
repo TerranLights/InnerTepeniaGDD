@@ -8,11 +8,11 @@
 
 | Category | Value | Citation |
 |---|---|---|
-| Census I | 658,680 H / 675,748 R / **1,334,428** combined (status cell: revised 2026-07-04) | `Official_Population_Census.md` L489 |
-| Census II | 498,672 H / 474,745 R / **973,417** combined (status cell: revised 2026-07-03) | `Official_Population_Census.md` L611 |
+| Census I | 658,680 H / 675,748 R / **1,334,428** combined (status cell: revised 2026-07-04) | `Official_Population_Census.md` L501 |
+| Census II | 498,672 H / 474,745 R / **973,417** combined (status cell: revised 2026-07-03) | `Official_Population_Census.md` L643 |
 | Retention (computed; formula = Census II count ÷ Census I count) | combined 72.95% · human 75.71% · robot 70.25% | Computed from the two rows above: 973,417÷1,334,428 · 498,672÷658,680 · 474,745÷675,748 |
 | `Extent_and_Density_Per_City.md` — the city's own row *(2026-09-05 snapshot; the census is live — note L631)* | City: Janbogo · Subnet: Janbogo · Census I: 1,310,511 · @10k: 131 · @7k: 187 *(km² required at 10,000 and at 7,000 people per km²)* · Site: Terra Nova Bay | `Extent_and_Density_Per_City.md` L612 (table header L603–L604; the band, L84) |
-| ↳ same file, at the live Census I (computed) | 1,334,428÷10,000 = 133.4 km² · 1,334,428÷7,000 = 190.6 km² | Computed from `Official_Population_Census.md` L489 and the band at `Extent_and_Density_Per_City.md` L84 |
+| ↳ same file, at the live Census I (computed) | 1,334,428÷10,000 = 133.4 km² · 1,334,428÷7,000 = 190.6 km² | Computed from `Official_Population_Census.md` L501 and the band at `Extent_and_Density_Per_City.md` L84 |
 | ↳ same file — the bay shared with a second city *(2026-09-05 snapshot)* | Terra Nova Bay carries two: Janbogo + Zukelli = 2,569,162, needing 257–367 km² on the Northern Foothills | `Extent_and_Density_Per_City.md` L598 |
 | ↳ same file — other lines naming the city *(table rows whose Subnet column reads Janbogo; line numbers only)* | — | `Extent_and_Density_Per_City.md` L607, L614, L622 |
 | **Temporal frame — the Second Interwar Period** | **2564–2812. 248 years, beginning at the Falkland Treaty.** The default frame for worldbuilding a Tepenian location; a corpus-wide constant, not a per-city judgment | ⭐ `Corpus_Reference_Sheets/Second_Interwar_Period_Quick_Reference.md`, in full |

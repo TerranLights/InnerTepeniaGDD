@@ -264,7 +264,7 @@ because the wind, and therefore the price, runs on a diurnal clock that does not
   wide variety of glitch-coolant types… variety and refinement over raw intensity."* **Many options, none of
   them strong.** ⭐ *Which fits a population whose evenings are cheap and whose mornings are not: an
   unhurried, discriminating drinking culture rather than a decompressive one.*
-- **The contemplative classical tradition already exists in canon** (`Specs/Zhongshan.md` L172, handed forward
+- **The contemplative classical tradition already exists in canon** (`Specs/Zhongshan.md` L193, handed forward
   from Phase 2) — **formalize, do not invent.** Phase 8 owns its content.
 - **Leisure here is not rest, and canon says why:** *"On Upper Earth… a robot's leisure time was afforded to
   them by their loving romantic partners… In Tepenia… it is a FACT OF LIFE. Owed to nobody."* **It is the

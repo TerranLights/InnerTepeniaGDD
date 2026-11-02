@@ -1,6 +1,6 @@
 # Byrd: the spec's monthly climate table checked against measured data (2026-11-01)
 
-**What this is.** The single-city check queued at the Byrd walk-through (2026-10-31, item 1; Weekly To-Do, Byrd entry (a)): check the spec's monthly table (`Specs/Byrd subnet/Byrd.md` L172–L183) against a data file. The spec gives its source as the "historical Byrd Station record, 1957–1969" and marks the Mean column "not checked against a data file". Run outside the 05:00–14:59 window as a data check (correcting figures against their stated source; no claim about the place or its people is derived).
+**What this is.** The single-city check queued at the Byrd walk-through (2026-10-31, item 1; Weekly To-Do, Byrd entry (a)): check the spec's monthly table (`Specs/Byrd subnet/Byrd.md` L208–L183) against a data file. The spec gives its source as the "historical Byrd Station record, 1957–1969" and marks the Mean column "not checked against a data file". Run outside the 05:00–14:59 window as a data check (correcting figures against their stated source; no claim about the place or its people is derived).
 
 **Nothing was edited.** The spec, the census and Byrd's `Phase_3.md` sheet are unchanged. Replacing the columns is a decision for the developer (options at the end).
 

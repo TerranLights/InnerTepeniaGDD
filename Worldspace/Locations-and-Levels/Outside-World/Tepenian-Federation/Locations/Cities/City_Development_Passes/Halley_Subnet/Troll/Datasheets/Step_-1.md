@@ -16,7 +16,7 @@
 | Significance | *[source line excluded: later-era content, outside the Second Interwar default scope; not copied]* | `Specs/Troll.md` L8 |
 | Coordinates (as written in the same field) | ~72°01'S, 2°32'E | `Specs/Troll.md` L3 |
 | Specs `Status:` field | States a later-era condition; per the standing default-scope rule (`00_RUNBOOK.md`, the Second Interwar default) this is **never an input** to a Second Interwar pass — not copied | `Specs/Troll.md` L4 |
-| Later-era sections present in the Specs file (same exclusion as `Status:`) | 2 section(s), by heading position: L166, L171 — not copied, not described | `Specs/Troll.md` L166, L171 |
+| Later-era sections present in the Specs file (same exclusion as `Status:`) | 2 section(s), by heading position: L166, L171 — not copied, not described | `Specs/Troll.md` L189, L194 |
 | Census I (spec's own line) | 487,859 humans / 490,507 robots / **978,366** combined | `Specs/Troll.md` L15 |
 | Census II (spec's own line) | 331,757 humans / 355,920 robots / **687,677** combined | `Specs/Troll.md` L16 |
 

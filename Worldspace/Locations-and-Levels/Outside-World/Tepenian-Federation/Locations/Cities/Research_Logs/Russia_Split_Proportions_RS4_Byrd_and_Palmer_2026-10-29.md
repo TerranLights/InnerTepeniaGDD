@@ -567,7 +567,7 @@ Split (a) = W_k ÷ ΣW, with W = Σ P × y2024 × (1 − G2022) over each succes
 |---|---|---|---|
 | — | Web search | — | **None run.** No RS1b-listed gap can change any result here (see §0); the brief allows search only to fill those gaps. |
 | L1 | `UEIC` L1–130, L143–167, L222–233, L381–388, L1047–1126 | Read | Method, Palmer City and Contrapunto sections, Byrd subnet header (Byrd has no city section) |
-| L2 | `Specs/Byrd subnet/Byrd.md` L1–125; `Specs/Palmer subnet/Palmer_City.md` L40–129; `Specs/Palmer subnet/Contrapunto.md` L1–80 | Read | Each city's own tier table and Russia row |
+| L2 | `Specs/Byrd subnet/Byrd.md` L1–161; `Specs/Palmer subnet/Palmer_City.md` L40–165; `Specs/Palmer subnet/Contrapunto.md` L1–110 | Read | Each city's own tier table and Russia row |
 | L3 | `Official_Population_Census.md` L220–239 (Byrd entry), L700–720 | Read | Byrd's pre-re-tiering table; no admission basis stated (dead end) |
 | L4 | NE populated places (`/tmp/ne_test/…simple.geojson`): capitals and large cities | local script | Nation zones for the out-of-window evidence (DERIVED) |
 | L5 | RS1 scratch `out/places_by_successor.csv`: Chukotka and Kamchatka towns; nearest town to each city zone | local script | The Byrd edge case; the nearest successor town to −4 is +2 |

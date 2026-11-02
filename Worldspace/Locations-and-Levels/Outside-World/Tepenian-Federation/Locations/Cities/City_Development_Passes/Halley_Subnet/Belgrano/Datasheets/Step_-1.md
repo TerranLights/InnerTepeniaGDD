@@ -15,7 +15,7 @@
 | Significance | *[source line excluded: later-era content, outside the Second Interwar default scope; not copied]* | `Specs/Belgrano.md` L8 |
 | Coordinates (as written in the same field) | ~77°52'S, 34°38'W | `Specs/Belgrano.md` L3 |
 | Specs `Status:` field | States a later-era condition; per the standing default-scope rule (`00_RUNBOOK.md`, the Second Interwar default) this is **never an input** to a Second Interwar pass — not copied | `Specs/Belgrano.md` L4 |
-| Later-era sections present in the Specs file (same exclusion as `Status:`) | 2 section(s), by heading position: L155, L160 — not copied, not described | `Specs/Belgrano.md` L155, L160 |
+| Later-era sections present in the Specs file (same exclusion as `Status:`) | 2 section(s), by heading position: L155, L160 — not copied, not described | `Specs/Belgrano.md` L167, L172 |
 | Census I (spec's own line) | *[source line excluded: later-era content, outside the Second Interwar default scope; not copied]* | `Specs/Belgrano.md` L15 |
 | Census II (spec's own line) | *[source line excluded: later-era content, outside the Second Interwar default scope; not copied]* | `Specs/Belgrano.md` L16 |
 

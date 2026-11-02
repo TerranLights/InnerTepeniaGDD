@@ -62,16 +62,16 @@ L619: | 16 | Denison | Janbogo | 293,192 | 346,130 | 639,322 |
 | Denison | II | 50,309 | 59,716 | 110,025 | scaled at −15%, retention preserved | ⏸️ HELD —
 unassigned
 ```
-— `Official_Population_Census.md` L717–718. **Denison's own figures only — nothing else from that
+— `Official_Population_Census.md` L749–750. **Denison's own figures only — nothing else from that
 table is reproduced here.**
 
 ## ⛔⛔ LATER-ERA SECTIONS SEEN AND EXCLUDED — per `M-171`, named by line range only, never described
 
 | Section | Disposition |
 |---|---|
-| Later-era section 1 (`Specs/Denison.md` L342–347) | ⛔ **EXCLUDED WHOLE** — standing default-scope rule |
-| Later-era section 2 (`Specs/Denison.md` L350–352) | ⛔ **EXCLUDED WHOLE** — standing default-scope rule |
-| Later-era section 3 (`Specs/Denison.md` L336–338) | ⛔ **EXCLUDED WHOLE** — standing default-scope rule |
+| Later-era section 1 (`Specs/Denison.md` L356–361) | ⛔ **EXCLUDED WHOLE** — standing default-scope rule |
+| Later-era section 2 (`Specs/Denison.md` L364–366) | ⛔ **EXCLUDED WHOLE** — standing default-scope rule |
+| Later-era section 3 (`Specs/Denison.md` L350–352) | ⛔ **EXCLUDED WHOLE** — standing default-scope rule |
 
 ⭐ **The retention percentage admissible for this city is computed fresh in `Step_1_and_2.md`, from
 the two Census I/II rows above.**

@@ -14,7 +14,7 @@
 | `The_True_Believer_Extraction.md` | Checked by name (`Denison`, `Commonwealth Bay`): **zero hits** in a 377-line file | `The_True_Believer_Extraction.md` |
 | `The_Meme_Machine_Extraction.md` | most sharply, the Frostlands' distinction between a recited, rigid form (Denison's wind-statistic recitation, | `The_Meme_Machine_Extraction.md` L21 |
 | ↳ `The_Meme_Machine_Extraction.md` | *[source line excluded: later-era content, outside the Second Interwar default scope; not copied]* | `The_Meme_Machine_Extraction.md` L74 |
-| Named-faction content — a genuine, own-terms entry | Denison's civic identity is built on a specific relationship to environmental extremity: pride in the specific, named severity of its own environment, performed openly rather than endured quietly. Residents know the site's own wind statistics the way other places know their founding dates, and reciting them to visitors functions as a local social ritual | `Specs/Denison.md` L304 |
+| Named-faction content — a genuine, own-terms entry | Denison's civic identity is built on a specific relationship to environmental extremity: pride in the specific, named severity of its own environment, performed openly rather than endured quietly. Residents know the site's own wind statistics the way other places know their founding dates, and reciting them to visitors functions as a local social ritual | `Specs/Denison.md` L318 |
 | ⛔ Mortuary question | RESERVED — do not answer | `00_RUNBOOK.md` §Phase 6 |
 
 **Not mechanical / not included here:** the actual application of the Robot Religions roster to

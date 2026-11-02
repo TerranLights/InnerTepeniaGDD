@@ -16,32 +16,50 @@
 
 | Tier | Nations |
 |------|---------|
-| Primary | China, USA |
-| Significant | Japan, Germany, UK, South Korea, Canada, Australia |
-| Notable | Argentina, Norway *(Amundsen heritage — Saint Roald)*, New Zealand, Chile *(unique Union Glacier route advantage)* |
+| Primary | United Kingdom, Sinian Federation, Japan, Germany, CSA |
+| Significant | Korea, Australia, Appalachia, Cascadia, New England, New Zealand, Austro-Bavaria, Argentina (without Patagonia), Taiwan, Demilitarized Zone (s. Ontario; not a nation), Quebec, Norway *(Amundsen heritage — Saint Roald)*, Midwest Republic, Chile *(unique Union Glacier route advantage)*, Manchuria, Prairie Federation, Colorado |
+| Notable | Sonora, Araucanía-Patagonia, Mongolia, East Turkestan, Northern Ireland, Hawaii, Alaska, Tibet |
 
 *Source: `Official_Population_Census.md` Sections A–C.*
 
 ### Per-Nation Breakdown — Robots and Humans, Census I and II
 
-*(De-stacked 2026-07-05 — raw tier-share percentages naturally produced blocks of nations with identical figures; applied a randomization method to break these into distinct, non-repeating values while preserving each tier's total and ordering. See `TODO.md` for the full method.)*
+*(Rebalanced 2026-11-02 in the population rework, `DR-85`: every country appears in its latest-period form (successor states and renamed countries, split by headcount, names explained in `Official_Population_Census.md` Section E); China's row is the Sinian Federation, with its decline and the refill of the gap where the rework applies it; places never counted before were added by time-zone window; tiers were relabeled from the final shares. This city: china's pieces in window: Mongolia, Manchuria, Tibet, East Turkestan; new pools: Hong Kong 0.88%, Macau 0.10%, Taiwan 2.92%, Mongolia 0.09%, North Korea 0.36%, Austria 1.72%; the Sinian Federation's share was multiplied by 0.6410 (random 0.55 to 0.65), and the freed points went in proportion to size to: CSA, United Kingdom, Germany, Japan, Korea, Australia. City totals in all four columns are unchanged. Method, every run and the research: `Sinian_Federation_Split_Scratch_2026-11-01/` (file `12_Rebalance_Run4.md`). The table that stood here before is in git commit `593510ab`.)*
 
 | Tier | Nation | Share % | Census I Robots | Census I Humans | Census II Robots | Census II Humans |
 |------|--------|---------|------------------|------------------|-------------------|-------------------|
-| Primary | USA | 22.80% | 1,308 | 256 | 907 | 208 |
-| Primary | China | 19.31% | 1,107 | 216 | 768 | 176 |
-| Significant | UK | 10.57% | 606 | 118 | 420 | 96 |
-| Significant | Germany | 10.09% | 579 | 113 | 401 | 92 |
-| Significant | Japan | 9.59% | 550 | 107 | 381 | 88 |
-| Significant | Canada | 6.20% | 356 | 70 | 247 | 57 |
-| Significant | South Korea | 5.70% | 327 | 64 | 227 | 52 |
-| Significant | Australia | 5.22% | 300 | 59 | 208 | 48 |
-| Notable | Argentina | 3.59% | 206 | 40 | 143 | 33 |
-| Notable | New Zealand | 3.59% | 206 | 40 | 143 | 33 |
-| Notable | Norway | 1.67% | 96 | 19 | 66 | 15 |
-| Notable | Chile | 1.67% | 96 | 19 | 66 | 15 |
+| Primary | United Kingdom | 11.01% | 629 | 123 | 436 | 98 |
+| Primary | Sinian Federation | 11.01% | 631 | 122 | 437 | 99 |
+| Primary | Japan | 10.28% | 588 | 114 | 408 | 93 |
+| Primary | Germany | 9.07% | 520 | 100 | 358 | 83 |
+| Primary | CSA | 7.91% | 451 | 90 | 315 | 72 |
+| Significant | Korea | 6.50% | 375 | 73 | 260 | 58 |
+| Significant | Australia | 5.59% | 321 | 62 | 223 | 51 |
+| Significant | Appalachia | 4.45% | 256 | 49 | 177 | 40 |
+| Significant | Cascadia | 4.04% | 233 | 46 | 160 | 38 |
+| Significant | New England | 3.64% | 209 | 41 | 145 | 33 |
+| Significant | New Zealand | 3.38% | 194 | 38 | 135 | 31 |
+| Significant | Austro-Bavaria | 3.25% | 186 | 36 | 129 | 30 |
+| Significant | Argentina (without Patagonia) | 3.19% | 182 | 36 | 127 | 29 |
+| Significant | Taiwan | 2.85% | 163 | 32 | 114 | 26 |
+| Significant | Demilitarized Zone (s. Ontario; not a nation) | 2.15% | 123 | 24 | 85 | 20 |
+| Significant | Quebec | 1.65% | 95 | 19 | 66 | 15 |
+| Significant | Norway *(Amundsen heritage — Saint Roald)* | 1.57% | 90 | 18 | 62 | 14 |
+| Significant | Midwest Republic | 1.39% | 80 | 16 | 55 | 14 |
+| Significant | Chile *(unique Union Glacier route advantage)* | 1.35% | 79 | 15 | 54 | 13 |
+| Significant | Manchuria | 1.23% | 71 | 15 | 49 | 12 |
+| Significant | Prairie Federation | 1.21% | 70 | 14 | 48 | 12 |
+| Significant | Colorado | 1.04% | 61 | 12 | 42 | 10 |
+| Notable | Sonora | 0.61% | 35 | 7 | 25 | 6 |
+| Notable | Araucanía-Patagonia | 0.41% | 23 | 5 | 16 | 4 |
+| Notable | Mongolia | 0.40% | 23 | 5 | 17 | 4 |
+| Notable | East Turkestan | 0.34% | 19 | 4 | 14 | 3 |
+| Notable | Northern Ireland | 0.28% | 17 | 3 | 12 | 3 |
+| Notable | Hawaii | 0.090% | 5 | 1 | 4 | 1 |
+| Notable | Alaska | 0.058% | 4 | 1 | 3 | 0 |
+| Notable | Tibet | 0.048% | 3 | 0 | 2 | 1 |
 
-*Figures use the project's standard share-weighting methodology as a baseline (Primary=8 shares, Significant=3 shares, Notable=1 share per nation — see `Upper_Earth_Immigration_Composition.md`), then de-stacked per the method above so that same-tier nations no longer show identical figures. Percentages are of this city's own population (identical between Census I and II under this proportional model), not Tepenia-wide. Robot figures apply the same national-origin proportions as the human population, consistent with the project's established methodology.*
+*Tier labels follow the final shares: Primary and Significant end at the largest ratio gaps among the rows at 4.5% or more (Primary never more than six rows), no row at 4.5% or more is Notable, and Notable is the rest (the composition file's own rule, "boundaries fall at the largest ratio gaps"; the 8 / 3 / 1 share weights no longer produce the figures). Percentages are of this city's own human and robot population (identical between censuses), not Tepenia-wide. Robot figures apply the same proportions as the human population. Shares are rounded; they sum to 100% within rounding.*
 
 ---
 

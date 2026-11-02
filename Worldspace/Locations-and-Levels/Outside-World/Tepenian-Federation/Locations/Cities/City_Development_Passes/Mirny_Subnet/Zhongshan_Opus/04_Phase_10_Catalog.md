@@ -311,7 +311,7 @@ not skipped.**
 
 # 👥 10.9 · §31 — NOTABLE FIGURES ⛔ **INHERITED, NOT INVENTED**
 
-**All four are the developer's own placeholders in `Specs/Zhongshan.md` L169–174.** ⛔ **This pass adds none,
+**All four are the developer's own placeholders in `Specs/Zhongshan.md` L190–195.** ⛔ **This pass adds none,
 renames none, and resolves none.**
 
 | Figure | Canon credit | What this pass can now say about the role |

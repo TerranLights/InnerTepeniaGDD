@@ -42,7 +42,7 @@ LOGISTICS — the Tri-Cities' port`, 20%, citing a quote about "Prydz Bay mariti
 is NOT a trade hub."* The fabricated quote was struck at every site it propagated in that file, 2026-09-02, and
 replaced by a developer-determined figure built on what §15 actually contains.
 
-**And a related, still-live problem sits one file over:** `Specs/Zhongshan.md` L159 ("Economy & Industry")
+**And a related, still-live problem sits one file over:** `Specs/Zhongshan.md` L180 ("Economy & Industry")
 still reads *"Prydz Bay maritime logistics, scientific research, cluster economy with Sinheung and the
 former-Shirayuki city"* — the withdrawn phrasing, uncorrected in the datasheet eleven days after the withdrawal
 and unchanged as of this restart. **Not edited here** — the datasheet is the developer's own file — but flagged

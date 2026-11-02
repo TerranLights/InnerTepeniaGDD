@@ -19,28 +19,44 @@
 
 | Tier | Nations |
 |------|---------|
-| Primary | USA, Japan |
-| Significant | South Korea, Canada, Indonesia, Australia |
-| Notable | New Zealand, Chile |
+| Primary | Japan, Indonesia |
+| Significant | CSA, Korea, Australia, Cascadia, Appalachia, Demilitarized Zone (s. Ontario; not a nation), New England, Mongolia *(founding wave)*, Chile, Quebec, Künnarantaiga *(founding wave)*, Taiwan, Prairie Federation, Midwest Republic, New Zealand, Colorado |
+| Notable | Sonora, Araucanía-Patagonia, West Papua, Aceh, Hawaii, Alaska |
 
 *Source: `Official_Population_Census.md` Sections A–C.*
 
 ### Per-Nation Breakdown — Robots and Humans, Census I and II
 
-*(De-stacked 2026-07-05 — raw tier-share percentages naturally produced blocks of nations with identical figures; applied a randomization method to break these into distinct, non-repeating values while preserving each tier's total and ordering. See `TODO.md` for the full method.)*
+*(Rebalanced 2026-11-02 in the population rework, `DR-85`: every country appears in its latest-period form (successor states and renamed countries, split by headcount, names explained in `Official_Population_Census.md` Section E); China's row is the Sinian Federation, with its decline and the refill of the gap where the rework applies it; places never counted before were added by time-zone window; tiers were relabeled from the final shares. This city: new pools: Taiwan 2.92%, Mongolia 0.09%, North Korea 0.36%; founder shares moved from Japan (points of the city): Mongolia 4.19, Künnarantaiga 3.73. The founders are the Register's. City totals in all four columns are unchanged. Method, every run and the research: `Sinian_Federation_Split_Scratch_2026-11-01/` (file `12_Rebalance_Run4.md`). The table that stood here before is in git commit `593510ab`.)*
 
 | Tier | Nation | Share % | Census I Robots | Census I Humans | Census II Robots | Census II Humans |
 |------|--------|---------|------------------|------------------|-------------------|-------------------|
-| Primary | USA | 28.36% | 76,971 | 40,199 | *(N/A)* | *(N/A)* |
-| Primary | Japan | 24.97% | 67,788 | 35,404 | *(N/A)* | *(N/A)* |
-| Significant | Canada | 13.90% | 37,730 | 19,706 | *(N/A)* | *(N/A)* |
-| Significant | Indonesia | 13.55% | 36,771 | 19,205 | *(N/A)* | *(N/A)* |
-| Significant | Australia | 6.45% | 17,513 | 9,146 | *(N/A)* | *(N/A)* |
-| Significant | South Korea | 6.10% | 16,554 | 8,645 | *(N/A)* | *(N/A)* |
-| Notable | Chile | 4.96% | 13,457 | 7,028 | *(N/A)* | *(N/A)* |
-| Notable | New Zealand | 1.71% | 4,638 | 2,422 | *(N/A)* | *(N/A)* |
+| Primary | Japan | 16.21% | 44,002 | 22,981 | *(N/A)* | *(N/A)* |
+| Primary | Indonesia | 12.57% | 34,106 | 17,813 | *(N/A)* | *(N/A)* |
+| Significant | CSA | 8.87% | 24,062 | 12,567 | *(N/A)* | *(N/A)* |
+| Significant | Korea | 6.25% | 16,976 | 8,866 | *(N/A)* | *(N/A)* |
+| Significant | Australia | 6.23% | 16,925 | 8,839 | *(N/A)* | *(N/A)* |
+| Significant | Cascadia | 5.99% | 16,251 | 8,488 | *(N/A)* | *(N/A)* |
+| Significant | Appalachia | 5.69% | 15,446 | 8,066 | *(N/A)* | *(N/A)* |
+| Significant | Demilitarized Zone (s. Ontario; not a nation) | 4.96% | 13,475 | 7,038 | *(N/A)* | *(N/A)* |
+| Significant | New England | 4.65% | 12,631 | 6,597 | *(N/A)* | *(N/A)* |
+| Significant | Mongolia *(founding wave)* | 4.29% | 11,633 | 6,075 | *(N/A)* | *(N/A)* |
+| Significant | Chile | 4.13% | 11,200 | 5,849 | *(N/A)* | *(N/A)* |
+| Significant | Quebec | 3.80% | 10,304 | 5,381 | *(N/A)* | *(N/A)* |
+| Significant | Künnarantaiga *(founding wave)* | 3.73% | 10,129 | 5,290 | *(N/A)* | *(N/A)* |
+| Significant | Taiwan | 2.90% | 7,886 | 4,118 | *(N/A)* | *(N/A)* |
+| Significant | Prairie Federation | 2.79% | 7,581 | 3,959 | *(N/A)* | *(N/A)* |
+| Significant | Midwest Republic | 1.77% | 4,803 | 2,509 | *(N/A)* | *(N/A)* |
+| Significant | New Zealand | 1.65% | 4,483 | 2,340 | *(N/A)* | *(N/A)* |
+| Significant | Colorado | 1.33% | 3,613 | 1,886 | *(N/A)* | *(N/A)* |
+| Notable | Sonora | 0.78% | 2,121 | 1,109 | *(N/A)* | *(N/A)* |
+| Notable | Araucanía-Patagonia | 0.67% | 1,805 | 944 | *(N/A)* | *(N/A)* |
+| Notable | West Papua | 0.27% | 727 | 381 | *(N/A)* | *(N/A)* |
+| Notable | Aceh | 0.26% | 702 | 368 | *(N/A)* | *(N/A)* |
+| Notable | Hawaii | 0.12% | 313 | 162 | *(N/A)* | *(N/A)* |
+| Notable | Alaska | 0.091% | 248 | 129 | *(N/A)* | *(N/A)* |
 
-*Figures use the project's standard share-weighting methodology as a baseline (Primary=8 shares, Significant=3 shares, Notable=1 share per nation — see `Upper_Earth_Immigration_Composition.md`), then de-stacked per the method above so that same-tier nations no longer show identical figures. Percentages are of this city's own population (identical between Census I and II under this proportional model), not Tepenia-wide. Robot figures apply the same national-origin proportions as the human population, consistent with the project's established methodology.*
+*Tier labels follow the final shares: Primary and Significant end at the largest ratio gaps among the rows at 4.5% or more (Primary never more than six rows), no row at 4.5% or more is Notable, and Notable is the rest (the composition file's own rule, "boundaries fall at the largest ratio gaps"; the 8 / 3 / 1 share weights no longer produce the figures). Percentages are of this city's own human and robot population (identical between censuses), not Tepenia-wide. Robot figures apply the same proportions as the human population. Shares are rounded; they sum to 100% within rounding.*
 
 ---
 

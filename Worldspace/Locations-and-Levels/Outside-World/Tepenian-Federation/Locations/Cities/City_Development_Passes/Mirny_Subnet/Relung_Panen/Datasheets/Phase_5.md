@@ -56,6 +56,6 @@
 | ↳ entry line | - **Notes:** Exactly one overland approach, and no port of its own as built (a subglacial approach is proposed, not ruled). Its agricultural sector is sized to close the national food deficit (`Division_of_Industry/13` §7). Founders: Indonesia and Malaysia, jointly (`Founding_Register.md`). | `City_Relationship_Database.md` L118 |
 | `City_Cross_Subnet_Relationships.md` — lines naming the city | 1 line(s): L207 *(line numbers only)* | `City_Cross_Subnet_Relationships.md` L207 |
 | `City_National_Connections.md` — lines naming the city | 4 line(s): L301, L396–398 *(line numbers only)* | `City_National_Connections.md` L301, L396–398 |
-| `Upper_Earth_Immigration_Composition.md` — the gateway-corridor table row naming Hobart / Fremantle | *[source line is a multi-place table row; not copied, line number recorded only]* | `Upper_Earth_Immigration_Composition.md` L137 |
+| `Upper_Earth_Immigration_Composition.md` — the gateway-corridor table row naming Hobart / Fremantle | *[source line is a multi-place table row; not copied, line number recorded only]* | `Upper_Earth_Immigration_Composition.md` L139 |
 
 **Not mechanical / not included here:** mechanism-not-rivalry framing, the own-eras three-way set, the parent-disagreement analysis, the arrival-type enumeration, the dependency analysis — none of this exists until Relung Panen's own pass runs.

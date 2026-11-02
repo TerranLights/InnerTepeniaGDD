@@ -7,8 +7,8 @@
 
 | Category | Value | Citation |
 |---|---|---|
-| Census I | 544,064 H / 551,743 R / **1,095,807** combined *(status cell present; later-era content, not copied)* | `Official_Population_Census.md` L496 |
-| Census II | 437,927 H / 415,687 R / **853,614** combined *(status cell present; later-era content, not copied)* | `Official_Population_Census.md` L615 |
+| Census I | 544,064 H / 551,743 R / **1,095,807** combined *(status cell present; later-era content, not copied)* | `Official_Population_Census.md` L508 |
+| Census II | 437,927 H / 415,687 R / **853,614** combined *(status cell present; later-era content, not copied)* | `Official_Population_Census.md` L647 |
 | Retention (computed; formula = Census II count ÷ Census I count) | combined 77.90% · human 80.49% · robot 75.34% | Computed from the two rows above: 853,614÷1,095,807 · 437,927÷544,064 · 415,687÷551,743 |
 | Extent and density — the city's row *(2026-09-05 snapshot; the census is live — note L631)* | Belgrano · Halley · Census I as tabled: 1,071,890 · required area 107 km² at 10,000 people/km² · 153 km² at 7,000 people/km² · Site: Bertrab nunatak. At the live Census I (1,095,807) the same division gives 109.6 km² and 156.5 km² *(computed: 1,095,807 ÷ 10,000 = 109.58 · 1,095,807 ÷ 7,000 = 156.54)* | `Extent_and_Density_Per_City.md` L619; snapshot note L631 |
 | **Temporal frame — the Second Interwar Period** | **2564–2812. 248 years, beginning at the Falkland Treaty.** The default frame for worldbuilding a Tepenian location; a corpus-wide constant, not a per-city judgment | ⭐ `Corpus_Reference_Sheets/Second_Interwar_Period_Quick_Reference.md`, in full |

@@ -7,11 +7,11 @@
 
 | Category | Value | Citation |
 |---|---|---|
-| Census I | 243,714 H / 243,871 R / **487,585** combined (status cell: revised 2026-07-04; the live row also carries a `DR-68` note of 2026-10-28: +12,138 H / +11,778 R) | `Official_Population_Census.md` L505 |
-| Census II | 153,905 H / 137,057 R / **290,962** combined | `Official_Population_Census.md` L631 |
+| Census I | 243,714 H / 243,871 R / **487,585** combined (status cell: revised 2026-07-04; the live row also carries a `DR-68` note of 2026-10-28: +12,138 H / +11,778 R) | `Official_Population_Census.md` L517 |
+| Census II | 153,905 H / 137,057 R / **290,962** combined | `Official_Population_Census.md` L663 |
 | Retention (computed; formula = Census II count ÷ Census I count) | combined 59.67% · human 63.15% · robot 56.20% | Computed from the two rows above: 290,962÷487,585 · 153,905÷243,714 · 137,057÷243,871 |
 | **Extent (2026-09-05 snapshot; the census is live — note L631)** | Sanay · Subnet Halley · Census I (snapshot) 463,669 · @10,000/km² 46 km² · @7,000/km² 66 km² · Site: inland bedrock + coastal port | `Extent_and_Density_Per_City.md` L624 (header L603; snapshot note L631) |
-| **Extent at the live Census I (computed)** | 487,585 ÷ 10,000 = 48.8 km² · 487,585 ÷ 7,000 = 69.7 km² | Computed from the Census I row above (`Official_Population_Census.md` L505) |
+| **Extent at the live Census I (computed)** | 487,585 ÷ 10,000 = 48.8 km² · 487,585 ÷ 7,000 = 69.7 km² | Computed from the Census I row above (`Official_Population_Census.md` L517) |
 | **Temporal frame — the Second Interwar Period** | **2564–2812. 248 years, beginning at the Falkland Treaty.** The default frame for worldbuilding a Tepenian location; a corpus-wide constant, not a per-city judgment | ⭐ `Corpus_Reference_Sheets/Second_Interwar_Period_Quick_Reference.md`, in full |
 | Act structure within the frame | Act 1: 2564 → somewhere in the 2600s (a hazy range, not yet dated) — national-ethnic-origin cultures still fresh. Act 2: by the late 2600s / early 2700s, onward — properly Tepenian; origin is ancestry, not identity | `Corpus_Reference_Sheets/Second_Interwar_Period_Quick_Reference.md` |
 | The consolidating mechanism | Interconnection, decisively solidified by Amundsen Tower's completion (~2688) — not a switch, not the creation of unity, not the Tower's only effect | `Corpus_Reference_Sheets/Second_Interwar_Period_Quick_Reference.md` §"The consolidating mechanism" |

@@ -17,7 +17,7 @@
 | Significance | *[source line compares the city with other places; not copied, line number recorded only]* | `Specs/Relung_Panen.md` L14 |
 | Coordinates (as written in the same field) | ~66°15'S, 100°45'E | `Specs/Relung_Panen.md` L8 |
 | Specs `Status:` field | States a later-era condition; per the standing default-scope rule (`00_RUNBOOK.md`, the Second Interwar default) this is **never an input** to a Second Interwar pass — not copied | `Specs/Relung_Panen.md` L9 |
-| Later-era sections present in the Specs file (same exclusion as `Status:`) | 3 section(s), by heading position: L263, L269, L276 — not copied, not described | `Specs/Relung_Panen.md` L263, L269, L276 |
+| Later-era sections present in the Specs file (same exclusion as `Status:`) | 3 section(s), by heading position: L263, L269, L276 — not copied, not described | `Specs/Relung_Panen.md` L288, L294, L301 |
 | Census I (spec's own line) | 477,285 humans / 494,585 robots / **971,870** combined *(was 465,147 / 482,807 / 947,954; census updated 2026-10-28, `DR-68`)* | `Specs/Relung_Panen.md` L20 |
 | Census II (spec's own line) | 340,951 humans / 353,062 robots / **694,013** combined *(was 332,844 / 345,324 / 678,168)* *(retention 71.4%; corrected from 71.5% 2026-10-30, 694,013 ÷ 971,870 = 71.41%)* | `Specs/Relung_Panen.md` L21 |
 

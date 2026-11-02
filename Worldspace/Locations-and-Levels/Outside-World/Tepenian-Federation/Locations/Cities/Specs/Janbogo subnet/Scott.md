@@ -39,32 +39,49 @@
 
 | Tier | Nations |
 |------|---------|
-| Primary | China, USA |
-| Significant | Japan, UK, South Korea, Canada, Indonesia, Australia |
-| Notable | Philippines, Malaysia, New Zealand *(founding wave)*, Chile |
+| Primary | Japan, United Kingdom, Sinian Federation, Australia, CSA, Korea |
+| Significant | Indonesia, Appalachia, Cascadia, New England, New Zealand *(founding wave)*, Chile, Taiwan |
+| Notable | Demilitarized Zone (s. Ontario; not a nation), Malaysia, Philippines, Midwest Republic, Quebec, Manchuria, Colorado, Prairie Federation, Sonora, Araucanía-Patagonia, Mongolia, Northern Ireland, West Papua, Aceh, Hawaii, Alaska |
 
 *Source: `Official_Population_Census.md` Sections A–C.*
 
 ### Per-Nation Breakdown — Robots and Humans, Census I and II
 
-*(De-stacked 2026-07-05 — raw tier-share percentages naturally produced blocks of nations with identical figures; applied a randomization method to break these into distinct, non-repeating values while preserving each tier's total and ordering. See `TODO.md` for the full method.)*
+*(Rebalanced 2026-11-02 in the population rework, `DR-85`: every country appears in its latest-period form (successor states and renamed countries, split by headcount, names explained in `Official_Population_Census.md` Section E); China's row is the Sinian Federation, with its decline and the refill of the gap where the rework applies it; places never counted before were added by time-zone window; tiers were relabeled from the final shares. This city: china's pieces in window: Mongolia, Manchuria; new pools: Hong Kong 0.88%, Macau 0.10%, Taiwan 2.92%, North Korea 0.36%; the Sinian Federation's share was multiplied by 0.6337 (random 0.55 to 0.65), and the freed points went in proportion to size to: CSA, Japan, United Kingdom, Australia, Korea, Indonesia. City totals in all four columns are unchanged. Method, every run and the research: `Sinian_Federation_Split_Scratch_2026-11-01/` (file `12_Rebalance_Run4.md`). The table that stood here before is in git commit `593510ab`.)*
 
 | Tier | Nation | Share % | Census I Robots | Census I Humans | Census II Robots | Census II Humans |
 |------|--------|---------|------------------|------------------|-------------------|-------------------|
-| Primary | USA | 22.62% | 44,381 | 42,938 | 36,250 | 34,696 |
-| Primary | China | 19.48% | 38,227 | 36,985 | 31,224 | 29,886 |
-| Significant | Japan | 10.81% | 21,208 | 20,519 | 17,323 | 16,580 |
-| Significant | UK | 10.79% | 21,177 | 20,489 | 17,297 | 16,556 |
-| Significant | Australia | 9.43% | 18,505 | 17,903 | 15,115 | 14,467 |
-| Significant | South Korea | 6.36% | 12,473 | 12,068 | 10,188 | 9,751 |
-| Significant | Canada | 5.00% | 9,801 | 9,482 | 8,006 | 7,662 |
-| Significant | Indonesia | 4.98% | 9,770 | 9,452 | 7,980 | 7,638 |
-| Notable | Chile | 3.69% | 7,231 | 6,996 | 5,907 | 5,653 |
-| Notable | New Zealand | 3.52% | 6,912 | 6,687 | 5,645 | 5,403 |
-| Notable | Malaysia | 1.74% | 3,414 | 3,303 | 2,789 | 2,669 |
-| Notable | Philippines | 1.58% | 3,095 | 2,994 | 2,528 | 2,419 |
+| Primary | Japan | 11.80% | 23,145 | 22,395 | 18,905 | 18,095 |
+| Primary | United Kingdom | 11.45% | 22,468 | 21,737 | 18,351 | 17,566 |
+| Primary | Sinian Federation | 11.43% | 22,420 | 21,691 | 18,312 | 17,528 |
+| Primary | Australia | 10.29% | 20,195 | 19,538 | 16,495 | 15,788 |
+| Primary | CSA | 7.99% | 15,666 | 15,159 | 12,796 | 12,249 |
+| Primary | Korea | 7.34% | 14,394 | 13,929 | 11,761 | 11,256 |
+| Significant | Indonesia | 5.22% | 10,234 | 9,900 | 8,359 | 8,000 |
+| Significant | Appalachia | 4.50% | 8,827 | 8,539 | 7,211 | 6,900 |
+| Significant | Cascadia | 3.93% | 7,717 | 7,467 | 6,304 | 6,032 |
+| Significant | New England | 3.68% | 7,219 | 6,985 | 5,897 | 5,644 |
+| Significant | New Zealand *(founding wave)* | 3.37% | 6,621 | 6,406 | 5,407 | 5,175 |
+| Significant | Chile | 3.04% | 5,964 | 5,771 | 4,872 | 4,662 |
+| Significant | Taiwan | 2.91% | 5,705 | 5,519 | 4,660 | 4,460 |
+| Notable | Demilitarized Zone (s. Ontario; not a nation) | 1.77% | 3,470 | 3,357 | 2,835 | 2,712 |
+| Notable | Malaysia | 1.67% | 3,270 | 3,163 | 2,670 | 2,557 |
+| Notable | Philippines | 1.51% | 2,965 | 2,867 | 2,422 | 2,318 |
+| Notable | Midwest Republic | 1.40% | 2,745 | 2,654 | 2,242 | 2,145 |
+| Notable | Quebec | 1.35% | 2,652 | 2,567 | 2,167 | 2,074 |
+| Notable | Manchuria | 1.26% | 2,474 | 2,394 | 2,021 | 1,934 |
+| Notable | Colorado | 1.05% | 2,065 | 1,998 | 1,685 | 1,613 |
+| Notable | Prairie Federation | 1.00% | 1,951 | 1,888 | 1,593 | 1,526 |
+| Notable | Sonora | 0.62% | 1,214 | 1,174 | 990 | 948 |
+| Notable | Araucanía-Patagonia | 0.49% | 962 | 930 | 785 | 751 |
+| Notable | Mongolia | 0.32% | 621 | 601 | 507 | 487 |
+| Notable | Northern Ireland | 0.29% | 565 | 545 | 460 | 442 |
+| Notable | West Papua | 0.098% | 191 | 185 | 156 | 150 |
+| Notable | Aceh | 0.094% | 185 | 179 | 152 | 145 |
+| Notable | Hawaii | 0.091% | 178 | 172 | 147 | 139 |
+| Notable | Alaska | 0.056% | 111 | 107 | 90 | 86 |
 
-*Figures use the project's standard share-weighting methodology as a baseline (Primary=8 shares, Significant=3 shares, Notable=1 share per nation — see `Upper_Earth_Immigration_Composition.md`), then de-stacked per the method above so that same-tier nations no longer show identical figures. Percentages are of this city's own population (identical between Census I and II under this proportional model), not Tepenia-wide. Robot figures apply the same national-origin proportions as the human population, consistent with the project's established methodology.*
+*Tier labels follow the final shares: Primary and Significant end at the largest ratio gaps among the rows at 4.5% or more (Primary never more than six rows), no row at 4.5% or more is Notable, and Notable is the rest (the composition file's own rule, "boundaries fall at the largest ratio gaps"; the 8 / 3 / 1 share weights no longer produce the figures). Percentages are of this city's own human and robot population (identical between censuses), not Tepenia-wide. Robot figures apply the same proportions as the human population. Shares are rounded; they sum to 100% within rounding.*
 
 ---
 

@@ -180,7 +180,7 @@ is unopposed.**
    a coordinate, never a population** (`DR-19`, `DR-28`). What the station left behind is **records** —
    journals, logs, orientation manuals — and its infrastructure (`DR-24`, `DR-25`); **`DR-7` admits those
    records as inputs, not their keepers as a people.**
-2. **`Specs/Davis.md` L127 resolves it in canon:** the documentary inheritance is a **founding-era starting
+2. **`Specs/Davis.md` L150 resolves it in canon:** the documentary inheritance is a **founding-era starting
    point, explicitly superseded** — *"the exiles still built their own practical mastery of the terrain
    independently, over generations of their own."* **A type modifier is a whole-frame property that installs an
    obligatory question into eleven phases; using one for a bounded, canon-superseded Act 1 condition is a scale

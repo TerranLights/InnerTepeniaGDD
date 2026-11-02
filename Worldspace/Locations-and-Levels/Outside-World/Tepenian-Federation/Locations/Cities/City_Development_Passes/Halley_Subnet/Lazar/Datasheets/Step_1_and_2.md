@@ -12,21 +12,21 @@
 | Universe repo `Worldspace/Locations/` — directory enumerated | 4 `.md` files read; **1 name the city** | `…/Worldspace/Locations/` (enumerated 2026-10-23) |
 | ↳ README.md | *[source line is a multi-city list; not copied, line number recorded only]* | `…/Worldspace/Locations/README.md` L17 |
 | `Access type:` | ON | `Specs/Lazar.md` L7 |
-| Spec climate — climate data source | Schirmacher Oasis microclimate; proxy data drawn from both real sites (Novolazarevskaya, Russia; Maitri, India) *[comparison not carried]* | `Specs/Lazar.md` L91 |
-| Spec climate — climate type | *[source line compares the city with other places; not copied, line number recorded only]* | `Specs/Lazar.md` L93 |
-| Spec climate — mean annual temperature | approximately −10°C | `Specs/Lazar.md` L94 |
-| Spec climate — prevailing winds | two distinct regimes — **easterly/southeasterly cyclonic winds** (warming in winter, cooling in summer) and **south-southeasterly katabatic outflow** bringing rapid temperature swings under clear skies *(researched 2026-09-04)* | `Specs/Lazar.md` L95 |
-| Spec climate — record extremes | record high **+10.0 °C** (Nov); record low **-38.0 °C** (Jul) _(NOAA NCEI GHCN-Daily station `AYM00089514` — Maitri, ~1 km; daily observations 1990-2026)_ *(researched 2026-09-04)* | `Specs/Lazar.md` L96 |
-| Spec climate — annual precipitation | **237.7 mm** water equivalent _(Novolazarevskaya; measured monthly normals — see table)_. *A separate station summary gives ~300 mm annually; the monthly normals are used here.* *(researched 2026-09-04; monthly distribution below remains derived)* | `Specs/Lazar.md` L97 |
-| Spec climate — regime | **KATABATIC MARGIN** — *snow flux, not snowfall* | `Specs/Lazar.md` L101 |
-| Spec climate — falls (reaches the surface) | ~238 mm/yr | `Specs/Lazar.md` L102 |
-| Spec climate — lands (accumulates and stays) | **~90 mm/yr** *(~38% retention)* | `Specs/Lazar.md` L103 |
-| Spec climate — lost to sublimation and wind transport | ~148 mm/yr | `Specs/Lazar.md` L104 |
-| Spec climate — temperature range | coldest months avg −17°C; warmest month avg −0.4°C | `Specs/Lazar.md` L110 |
-| Spec climate — polar night | approximately May 22 → Jul 23 (~63 days) | `Specs/Lazar.md` L111 |
-| Spec climate — midnight sun | approximately Nov 16 → Jan 28 (~74 days) | `Specs/Lazar.md` L112 |
-| Spec climate — winter solstice daylight minimum | N/A — polar night in effect; 0 hours | `Specs/Lazar.md` L113 |
-| Spec climate — summer solstice daylight maximum | N/A — midnight sun in effect; 24 hours | `Specs/Lazar.md` L114 |
+| Spec climate — climate data source | Schirmacher Oasis microclimate; proxy data drawn from both real sites (Novolazarevskaya, Russia; Maitri, India) *[comparison not carried]* | `Specs/Lazar.md` L114 |
+| Spec climate — climate type | *[source line compares the city with other places; not copied, line number recorded only]* | `Specs/Lazar.md` L116 |
+| Spec climate — mean annual temperature | approximately −10°C | `Specs/Lazar.md` L117 |
+| Spec climate — prevailing winds | two distinct regimes — **easterly/southeasterly cyclonic winds** (warming in winter, cooling in summer) and **south-southeasterly katabatic outflow** bringing rapid temperature swings under clear skies *(researched 2026-09-04)* | `Specs/Lazar.md` L118 |
+| Spec climate — record extremes | record high **+10.0 °C** (Nov); record low **-38.0 °C** (Jul) _(NOAA NCEI GHCN-Daily station `AYM00089514` — Maitri, ~1 km; daily observations 1990-2026)_ *(researched 2026-09-04)* | `Specs/Lazar.md` L119 |
+| Spec climate — annual precipitation | **237.7 mm** water equivalent _(Novolazarevskaya; measured monthly normals — see table)_. *A separate station summary gives ~300 mm annually; the monthly normals are used here.* *(researched 2026-09-04; monthly distribution below remains derived)* | `Specs/Lazar.md` L120 |
+| Spec climate — regime | **KATABATIC MARGIN** — *snow flux, not snowfall* | `Specs/Lazar.md` L124 |
+| Spec climate — falls (reaches the surface) | ~238 mm/yr | `Specs/Lazar.md` L125 |
+| Spec climate — lands (accumulates and stays) | **~90 mm/yr** *(~38% retention)* | `Specs/Lazar.md` L126 |
+| Spec climate — lost to sublimation and wind transport | ~148 mm/yr | `Specs/Lazar.md` L127 |
+| Spec climate — temperature range | coldest months avg −17°C; warmest month avg −0.4°C | `Specs/Lazar.md` L133 |
+| Spec climate — polar night | approximately May 22 → Jul 23 (~63 days) | `Specs/Lazar.md` L134 |
+| Spec climate — midnight sun | approximately Nov 16 → Jan 28 (~74 days) | `Specs/Lazar.md` L135 |
+| Spec climate — winter solstice daylight minimum | N/A — polar night in effect; 0 hours | `Specs/Lazar.md` L136 |
+| Spec climate — summer solstice daylight maximum | N/A — midnight sun in effect; 24 hours | `Specs/Lazar.md` L137 |
 | Climate READER file (`Lazar.md`) | **Rebuilt 2026-10-21 as a dataset (it had been an 8-line stub).** BAS Met READER surface station (spec proxy) `Novolazarevskaya`; 1991–2020 WMO standard normal; 30–30 years per month. Monthly mean (°C): Jan −0.4 · Feb −3.2 · Mar −7.9 · Apr −11.8 · May −13.5 · Jun −14.5 · Jul −17.0 · Aug −17.2 · Sep −16.5 · Oct −12.0 · Nov −5.6 · Dec −1.0 · annual −10.1 | `READER/Lazar.md` L1–18 |
 | `Antarctic_Stations_With_Airstrips.md` — lines naming the city (the Country column is the station's builder: infrastructure only, `DR-19`, `DR-24`) | \| Novo Runway \| Novolazarevskaya / Maitri \| Russia / India \| Blue Ice \| | `Antarctic_Stations_With_Airstrips.md` L40 |
 | `Antarctic_Stations_With_Airstrips.md` — the Maitri side (added 2026-10-30, found through the Maitri names; the Country column is the station's builder: infrastructure only, `DR-19`, `DR-24`) | \| Maitri Helipad \| Schirmacher Oasis \| India \| Concrete \| | `Antarctic_Stations_With_Airstrips.md` L83 |
@@ -38,9 +38,9 @@
 | ↳ other lines naming the city | *[source lines are a multi-city list, a comparison, and another city's founding rule; not copied, line numbers recorded only]* | `Extent_and_Density_Per_City.md` L577, L593, L683 — 2026-09-05 snapshot; the census is live — note L631 |
 | `Energy_Grid_Failure_Rationale.md` | Checked by name (`Lazar`, `Novolazarevskaya`): **zero hits** in a 145-line file | `Energy_Grid_Failure_Rationale.md` |
 | Founding Register — the city's row (founders are decided only here, `DR-19`) | **City:** Lazar · **Subnet:** Halley · **Solar UTC:** +1 · **Status:** ✅ · **Founders:** Russia (the core state) and the CIN, as two communities that coalesced** (the second community replaces the spec's Indian half: no South Asian population ever came to Tepenia, `NNS` L44) · **Basis:** Time-zone proximity: the CIN gap 0, Russia's core (+2…+3) gap 1 · **Source:** `DR-34` · **Not founders:** — | `Founding_Register.md` L52 |
-| Spec — `Settled:` (as stated; the Founding Register governs, GPS law applies) | Post-Falkland Treaty, in three stages: | `Specs/Lazar.md` L155 |
-| Spec — `Founding population:` (as stated; the Founding Register governs) | Russia (the core state) and the CIN, as two communities that coalesced (`DR-34`); later demographically overtaken by USA (Primary), and Germany, France, UK, and Brazil (Significant tier) — see full composition in `Official_Population_Census.md`. *(Updated 2026-10-13 to match `Founding_Register.md`; other passages in this file were written around the earlier founding and are revisit items.)* | `Specs/Lazar.md` L161 |
-| Composition tiers (as stated in the spec; full detail in `Phase_2.md`) | Primary: USA · Significant: Germany, France, UK, Russia, Brazil · Notable: Poland, Netherlands, Argentina, Czech Republic, Ukraine, Romania, Norway, Finland, Hungary, South Africa, Slovakia, Belarus, Croatia, Bulgaria, Serbia, Lithuania, Slovenia, Latvia, Estonia | `Specs/Lazar.md` L41–43 |
-| Spec — Economy & Industry section | Present at L173–L177; **not quoted** (it belongs to later phases; admitted spans are Step −1's ruling) | `Specs/Lazar.md` L173 |
+| Spec — `Settled:` (as stated; the Founding Register governs, GPS law applies) | Post-Falkland Treaty, in three stages: | `Specs/Lazar.md` L178 |
+| Spec — `Founding population:` (as stated; the Founding Register governs) | Russia (the core state) and the CIN, as two communities that coalesced (`DR-34`); later demographically overtaken by USA (Primary), and Germany, France, UK, and Brazil (Significant tier) — see full composition in `Official_Population_Census.md`. *(Updated 2026-10-13 to match `Founding_Register.md`; other passages in this file were written around the earlier founding and are revisit items.)* | `Specs/Lazar.md` L184 |
+| Composition tiers (as stated in the spec; full detail in `Phase_2.md`) | Primary: United Kingdom, Brazil, Germany, CSA · Significant: Appalachia, Norway, Hungary, Finland, Czechia, Estonia, Austro-Bavaria, New England, Poland, Slovenia, Serbia, Slovakia, Cascadia, Romania, France, Russia (core state), Belarus, Lithuania, South Africa, Idelsk-Uralia, Croatia, Latvia, Argentina (without Patagonia), Bulgaria, Midwest Republic, Netherlands, Ukraine · Notable: Colorado, Amazonia, Siberia, Donska-Kubania, Sonora, Künnarantaiga, Northern Ireland, Dagestan, Araucanía-Patagonia, Hawaii, Chechnya, Alaska, Kabardino-Balkaria, North Ossetia-Alania, Ingushetia, Karachay-Cherkessia, Tuva | `Specs/Lazar.md` L41–43 |
+| Spec — Economy & Industry section | Present at L173–L177; **not quoted** (it belongs to later phases; admitted spans are Step −1's ruling) | `Specs/Lazar.md` L196 |
 
 **Not mechanical / not included here:** the Gate 9 asymmetry audit, the inheritance classification, the shape reading, generator selection, the spine sentence, the three-generator four-quadrant capability profile — none of this exists until Lazar's own pass runs.

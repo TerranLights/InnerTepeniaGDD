@@ -7,8 +7,8 @@
 
 | Category | Value | Citation |
 |---|---|---|
-| Census I | 457 H / 472 R / **929** combined *(a long status cell is present: an authoring note, not copied)* | `Official_Population_Census.md` L516 |
-| Census II | 387 H / 304 R / **691** combined *(a long status cell is present: an authoring note, not copied)* | `Official_Population_Census.md` L636 |
+| Census I | 457 H / 472 R / **929** combined *(a long status cell is present: an authoring note, not copied)* | `Official_Population_Census.md` L528 |
+| Census II | 387 H / 304 R / **691** combined *(a long status cell is present: an authoring note, not copied)* | `Official_Population_Census.md` L668 |
 | Retention (computed; formula = Census II count ÷ Census I count) | combined 74.38% · human 84.68% · robot 64.41% | Computed from the two rows above: 691÷929 · 387÷457 · 304÷472 |
 | Extent — the city's own resolved section (island: Goudier Island) | Area 0.024 km² (200 m × 120 m) · Census I 457 H / 472 R / **929** · Census II 387 H / 304 R / **691** · density on Goudier 38,708/km² · ground per person 25.8 m² · "no spanning to Wiencke Island was needed" *(2026-09-05 snapshot; the census is live — note L631)*. Earlier-state rows, by line number only: L56 (the first-pass table, pre-reduction population) and L651 (the held-overflow table) | `Extent_and_Density_Per_City.md` §4: heading L105; table L114–L119; L129 and L705 (area); L137 |
 | **Temporal frame — the Second Interwar Period** | **2564–2812. 248 years, beginning at the Falkland Treaty.** The default frame for worldbuilding a Tepenian location; a corpus-wide constant, not a per-city judgment | ⭐ `Corpus_Reference_Sheets/Second_Interwar_Period_Quick_Reference.md`, in full |

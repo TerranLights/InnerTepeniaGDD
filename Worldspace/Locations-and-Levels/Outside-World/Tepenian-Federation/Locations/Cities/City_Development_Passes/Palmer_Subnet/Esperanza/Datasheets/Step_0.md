@@ -7,8 +7,8 @@
 
 | Category | Value | Citation |
 |---|---|---|
-| Census I | 967,477 H / 934,728 R / **1,902,205** combined (status cell: revised 2026-07-04; Scenario `DR-68`, 2026-10-28: +12,140 H / +11,778 R, was 955,337 / 922,950 / 1,878,287 — arithmetic, not a migration) | `Official_Population_Census.md` L483 |
-| Census II | 510,762 H / 683,124 R / **1,193,886** combined (status cell: revised 2026-07-03; Scenario `DR-68`, 2026-10-28: +8,108 H / +7,739 R, was 502,654 / 675,385 / 1,178,039 — arithmetic, not a migration) | `Official_Population_Census.md` L605 |
+| Census I | 967,477 H / 934,728 R / **1,902,205** combined (status cell: revised 2026-07-04; Scenario `DR-68`, 2026-10-28: +12,140 H / +11,778 R, was 955,337 / 922,950 / 1,878,287 — arithmetic, not a migration) | `Official_Population_Census.md` L495 |
+| Census II | 510,762 H / 683,124 R / **1,193,886** combined (status cell: revised 2026-07-03; Scenario `DR-68`, 2026-10-28: +8,108 H / +7,739 R, was 502,654 / 675,385 / 1,178,039 — arithmetic, not a migration) | `Official_Population_Census.md` L637 |
 | Retention (computed; formula = Census II count ÷ Census I count) | combined 62.76% · human 52.79% · robot 73.08% | Computed from the two rows above: 1,193,886÷1,902,205 · 510,762÷967,477 · 683,124÷934,728 |
 | Extent table — the city's own row | Esperanza · Palmer · Census I cell 1,878,287 · @10k 188 · @7k 268 · Site: Hope Bay | `Extent_and_Density_Per_City.md` L606 *(2026-09-05 snapshot; the census is live — note L631)*. The Site cell's ⚠ annotation is not copied here: it is held with the open extent question |
 | **Temporal frame — the Second Interwar Period** | **2564–2812. 248 years, beginning at the Falkland Treaty.** The default frame for worldbuilding a Tepenian location; a corpus-wide constant, not a per-city judgment | ⭐ `Corpus_Reference_Sheets/Second_Interwar_Period_Quick_Reference.md`, in full |

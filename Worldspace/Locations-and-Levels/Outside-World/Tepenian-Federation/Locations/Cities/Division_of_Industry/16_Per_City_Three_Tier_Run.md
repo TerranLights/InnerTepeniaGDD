@@ -2613,7 +2613,7 @@ both masters, and the existing 25% has a real basis.**
 
 ### ⭐⭐ But the standing mandate was missing the LARGER claim entirely
 
-> **`Specs/Denison.md` L316:** ***"Confirmed 2026-07-07: Denison was a historical fabrication-synthesis chamber
+> **`Specs/Denison.md` L330:** ***"Confirmed 2026-07-07: Denison was a historical fabrication-synthesis chamber
 > manufacturer — a legitimate producer of the individual apparatus at the heart of the NATIONWIDE CRADLE
 > INFRASTRUCTURE during its LIVING SECOND INTERWAR PERIOD, lost when the city was destroyed."***
 

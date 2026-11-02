@@ -1,0 +1,1424 @@
+city,row,from,tier,share_after,Census I Robots,Census I Humans,Census II Robots,Census II Humans
+Amundsen Station,United Kingdom,UK,Significant,11.014,630,123,435,98
+Amundsen Station,Sinian Federation,China + Hong Kong + Macau,Primary,11.005,631,122,437,99
+Amundsen Station,Japan,,Significant,10.279,588,114,408,93
+Amundsen Station,Germany,,Significant,9.072,520,100,358,83
+Amundsen Station,CSA,USA,Significant (successor),7.906,451,90,315,72
+Amundsen Station,Korea,South Korea + North Korea,Significant,6.433,371,72,257,57
+Amundsen Station,Australia,,Significant,5.595,321,62,223,51
+Amundsen Station,Appalachia,USA,Significant (successor),4.452,256,49,177,40
+Amundsen Station,Cascadia,USA + Canada,Significant (successor),4.043,233,46,160,38
+Amundsen Station,New England,USA,Significant (successor),3.642,209,41,145,33
+Amundsen Station,New Zealand,,Notable,3.376,194,38,135,31
+Amundsen Station,Austro-Bavaria,Germany + Austria,Significant,3.248,186,36,129,30
+Amundsen Station,Argentina (without Patagonia),Argentina,Notable,3.185,182,36,127,29
+Amundsen Station,Taiwan,Taiwan,New (time-zone window),2.855,163,32,114,26
+Amundsen Station,Demilitarized Zone (s. Ontario; not a nation),Canada,Significant,2.155,123,24,85,20
+Amundsen Station,Quebec,Canada,Significant,1.648,95,19,66,15
+Amundsen Station,Norway,,Notable,1.571,90,18,62,14
+Amundsen Station,Midwest Republic,USA,Significant (successor),1.385,80,16,55,14
+Amundsen Station,Chile,,Notable,1.353,79,15,54,13
+Amundsen Station,Manchuria,China,Notable (China piece),1.227,71,15,49,12
+Amundsen Station,Prairie Federation,Canada,Significant,1.212,70,14,48,12
+Amundsen Station,Colorado,USA,Significant (successor),1.041,61,12,42,10
+Amundsen Station,Sonora,USA,Significant (successor),0.612,35,7,25,6
+Amundsen Station,Araucanía-Patagonia,Argentina + Chile,Notable,0.410,23,5,16,4
+Amundsen Station,Mongolia,China,Notable (China piece),0.400,23,5,17,4
+Amundsen Station,East Turkestan,China,Notable (China piece),0.339,19,4,14,3
+Amundsen Station,Northern Ireland,UK,Significant,0.277,17,3,12,3
+Amundsen Station,Hawaii,USA,Significant (successor),0.090,5,1,4,1
+Amundsen Station,Jeju-do (neutral zone),South Korea,Significant,0.070,4,1,3,1
+Amundsen Station,Alaska,USA + Canada,Significant (successor),0.058,4,1,3,0
+Amundsen Station,Tibet,China,Notable (China piece),0.048,3,0,2,1
+Byrd,Australia,,Significant,6.990,14147,13867,,
+Byrd,Japan,,Significant,6.739,13641,13371,,
+Byrd,CSA,USA,Significant (successor),4.388,8881,8706,,
+Byrd,Demilitarized Zone (s. Ontario; not a nation),Canada,Significant (successor),4.222,8546,8377,,
+Byrd,Cascadia,USA + Canada + Mexico,Significant (successor),3.653,7393,7247,,
+Byrd,Quebec,Canada,Significant (successor),3.228,6535,6405,,
+Byrd,Korea,South Korea,Significant,3.147,6369,6243,,
+Byrd,Appalachia,USA,Significant (successor),2.816,5700,5587,,
+Byrd,Netherlands,Belgium,Notable,2.627,5316,5212,,
+Byrd,Prairie Federation,Canada,Significant (successor),2.375,4807,4713,,
+Byrd,New England,USA,Significant (successor),2.303,4662,4570,,
+Byrd,Lithuania,,Notable,2.269,4592,4502,,
+Byrd,Philippines,,Notable,2.229,4512,4423,,
+Byrd,Malaysia,,Notable,2.199,4451,4363,,
+Byrd,Croatia,,Notable,2.159,4369,4283,,
+Byrd,Thailand,,Notable,2.156,4363,4277,,
+Byrd,Latvia,,Notable,2.149,4349,4264,,
+Byrd,Indonesia,,Notable,2.120,4291,4206,,
+Byrd,Slovakia,,Notable,2.059,4168,4085,,
+Byrd,South Africa,,Notable,2.019,4087,4006,,
+Byrd,Brazil,,Notable,1.980,4009,3929,,
+Byrd,Czechia,Czech Republic,Notable,1.959,3965,3887,,
+Byrd,Uruguay,,Notable,1.959,3965,3887,,
+Byrd,Vietnam,,Notable,1.939,3924,3848,,
+Byrd,Finland,Russia,Notable,1.903,3853,3777,,
+Byrd,New Zealand,,Notable,1.899,3844,3768,,
+Byrd,United Kingdom,UK,Notable,1.875,3795,3720,,
+Byrd,Sinian Federation,China,Significant,1.823,3690,3618,,
+Byrd,Romania,,Notable,1.704,3448,3380,,
+Byrd,France,Belgium,Notable,1.491,3018,2959,,
+Byrd,Hungary,Romania,Notable,1.425,2885,2827,,
+Byrd,Norway,,Notable,1.229,2489,2439,,
+Byrd,Belarus,,Notable,1.169,2367,2320,,
+Byrd,Poland,,Notable,1.159,2347,2301,,
+Byrd,Bulgaria,,Notable,1.059,2145,2102,,
+Byrd,Germany,,Notable,0.998,2019,1979,,
+Byrd,Argentina (without Patagonia),Argentina,Notable,0.924,1869,1833,,
+Byrd,Slovenia,,Notable,0.920,1861,1825,,
+Byrd,Sweden,,Notable,0.900,1821,1784,,
+Byrd,Chile,,Notable,0.878,1776,1742,,
+Byrd,Midwest Republic,USA,Significant (successor),0.876,1772,1737,,
+Byrd,Serbia,,Notable,0.860,1739,1705,,
+Byrd,Ukraine,,Notable,0.810,1639,1606,,
+Byrd,Russia (core state),Ukraine + Russia,Notable,0.783,1584,1552,,
+Byrd,México,Mexico,Notable,0.774,1567,1537,,
+Byrd,Spain,,Notable,0.704,1426,1397,,
+Byrd,Colorado,USA,Significant (successor),0.659,1333,1306,,
+Byrd,Magna Lombardia,Italy,Notable,0.524,1059,1039,,
+Byrd,Sonora,USA + Mexico,Significant (successor),0.438,885,869,,
+Byrd,Idelsk-Uralia,Russia,Notable,0.373,755,741,,
+Byrd,Meridia,Italy,Notable,0.321,651,638,,
+Byrd,Amazonia,Brazil,Notable,0.218,442,434,,
+Byrd,Araucanía-Patagonia,Chile + Argentina,Notable,0.197,400,391,,
+Byrd,Austro-Bavaria,Germany,Notable,0.192,388,381,,
+Byrd,Catalonia,Spain,Notable,0.151,305,299,,
+Byrd,Siberia,Russia,Notable,0.148,300,294,,
+Byrd,Yucatán,Mexico + Petén,Notable,0.148,299,293,,
+Byrd,Donska-Kubania,Russia,Notable,0.142,288,282,,
+Byrd,Künnarantaiga,Russia,Notable,0.086,173,170,,
+Byrd,Sicilia (autonomous zone within Meridia),Italy,Notable,0.074,151,148,,
+Byrd,Patani,Thailand,Notable,0.063,128,125,,
+Byrd,Alaska,USA + Canada,Significant (successor),0.059,119,117,,
+Byrd,Hawaii,USA,Significant (successor),0.057,115,113,,
+Byrd,Basque Country,Spain,Notable,0.054,110,108,,
+Byrd,Northern Ireland,UK,Notable,0.054,109,107,,
+Byrd,West Papua,Indonesia,Notable,0.045,92,90,,
+Byrd,Aceh,Indonesia,Notable,0.044,88,87,,
+Byrd,Jeju-do (neutral zone),South Korea,Significant,0.042,85,83,,
+Byrd,Dagestan,Russia,Notable,0.026,53,52,,
+Byrd,Chechnya,Russia,Notable,0.013,25,25,,
+Byrd,Kabardino-Balkaria,Russia,Notable,0.007,15,15,,
+Byrd,North Ossetia-Alania,Russia,Notable,0.006,12,11,,
+Byrd,Ingushetia,Russia,Notable,0.004,9,8,,
+Byrd,Karachay-Cherkessia,Russia,Notable,0.004,8,8,,
+Byrd,Tuva,Russia,Notable,0.003,6,6,,
+Belgrano,Brazil,,Significant,12.145,66994,66062,50474,53175
+Belgrano,Germany,,Significant,11.072,61094,60243,46029,48491
+Belgrano,CSA,USA,Significant (successor),9.077,50084,49387,37735,39752
+Belgrano,Appalachia,USA,Significant (successor),5.826,32146,31700,24220,25515
+Belgrano,Hungary,,Notable,5.225,28837,28435,21726,22887
+Belgrano,Poland,,Notable,5.088,28088,27698,21162,22293
+Belgrano,Uruguay,,Notable,4.822,26633,26264,20066,21141
+Belgrano,New England,USA,Significant (successor),4.765,26293,25927,19809,20868
+Belgrano,United Kingdom,UK,Significant,4.745,26208,25843,19744,20800
+Belgrano,Slovakia,,Notable,4.577,25276,24925,19044,20062
+Belgrano,Cascadia,USA,Significant (successor),4.244,23420,23094,17645,18589
+Belgrano,Argentina (without Patagonia),Argentina,Notable,4.076,22486,22172,16941,17847
+Belgrano,Austro-Bavaria,Germany + Austria,Significant,3.846,21220,20926,15987,16842
+Belgrano,Chile,,Notable,3.671,20273,19990,15272,16091
+Belgrano,Czechia,Czech Republic,Notable,2.750,15165,14954,11426,12038
+Belgrano,Slovenia,,Notable,2.691,14866,14660,11200,11800
+Belgrano,South Africa,,Notable,2.436,13430,13244,10118,10660
+Belgrano,Serbia,Kosovo,Notable,1.855,10242,10099,7717,8131
+Belgrano,Midwest Republic,USA,Significant (successor),1.812,9997,9858,7532,7934
+Belgrano,Colorado,USA,Significant (successor),1.363,7519,7413,5664,5968
+Belgrano,Amazonia,Brazil,Significant,1.340,7391,7288,5568,5866
+Belgrano,Araucanía-Patagonia,Argentina + Chile,Notable,0.837,4624,4559,3483,3670
+Belgrano,Sonora,USA,Significant (successor),0.800,4417,4355,3328,3506
+Belgrano,Croatia,,Notable,0.609,3338,3291,2514,2649
+Belgrano,Northern Ireland,UK,Significant,0.136,750,739,565,596
+Belgrano,Hawaii,USA,Significant (successor),0.118,649,640,490,516
+Belgrano,Alaska,USA,Significant (successor),0.055,303,298,228,240
+Halley,Brazil,,Significant,10.323,77864,74511,60547,53396
+Halley,United Kingdom,UK,Significant,10.075,76031,72756,59121,52139
+Halley,CSA,USA,Significant (successor),7.463,56296,53872,43775,38605
+Halley,France,Luxembourg,Significant,7.336,55351,52966,43040,37957
+Halley,Cascadia,USA + Canada,Significant (successor),4.880,36807,35221,28621,25240
+Halley,Appalachia,USA,Significant (successor),4.790,36135,34579,28098,24780
+Halley,Netherlands,,Notable,4.216,31828,30457,24750,21827
+Halley,Serbia,Kosovo,Notable,4.087,30853,29525,23991,21157
+Halley,Croatia,,Notable,4.079,30736,29411,23899,21077
+Halley,Slovenia,,Notable,4.000,30167,28867,23459,20687
+Halley,New England,USA,Significant (successor),3.918,29554,28281,22981,20267
+Halley,Demilitarized Zone (s. Ontario; not a nation),Canada,Significant,3.747,28252,27036,21970,19373
+Halley,Poland,,Notable,3.490,26332,25197,20475,18056
+Halley,Germany,,Significant,3.462,26106,24982,20299,17902
+Halley,Chile,,Notable,3.225,24330,23282,18919,16684
+Halley,Quebec,Canada,Significant,2.865,21603,20674,16798,14815
+Halley,Austro-Bavaria,Germany + Austria,Significant,2.383,17975,17202,13978,12327
+Halley,Argentina (without Patagonia),Argentina,Notable,2.145,16202,15504,12598,11110
+Halley,Prairie Federation,Canada,Significant,2.108,15892,15208,12358,10899
+Halley,South Africa,,Notable,1.765,13341,12767,10374,9149
+Halley,Czechia,Czech Republic,Notable,1.745,13165,12597,10237,9027
+Halley,Hungary,,Notable,1.549,11681,11178,9083,8010
+Halley,Midwest Republic,USA,Significant (successor),1.490,11237,10752,8738,7706
+Halley,Amazonia,Brazil,Significant,1.139,8590,8220,6678,5891
+Halley,Colorado,USA,Significant (successor),1.120,8450,8087,6571,5796
+Halley,Slovakia,,Notable,0.833,6274,6004,4878,4302
+Halley,Sonora,USA,Significant (successor),0.658,4963,4751,3860,3405
+Halley,Araucanía-Patagonia,Chile + Argentina,Notable,0.649,4898,4688,3809,3359
+Halley,Northern Ireland,UK,Significant,0.288,2176,2084,1693,1493
+Halley,Hawaii,USA,Significant (successor),0.097,729,698,568,500
+Halley,Alaska,USA + Canada,Significant (successor),0.074,556,532,433,381
+Lazar,United Kingdom,UK,Significant,9.608,116372,112403,82229,75213
+Lazar,Brazil,,Significant,7.992,96843,93543,68429,62593
+Lazar,Germany,,Significant,7.796,94461,91240,66747,61053
+Lazar,CSA,USA,Significant (successor),6.042,73206,70709,51727,47314
+Lazar,Appalachia,USA,Significant (successor),3.878,46988,45385,33202,30369
+Lazar,Norway,,Notable,3.353,40632,39246,28711,26261
+Lazar,Hungary,Romania,Notable,3.309,40075,38707,28315,25901
+Lazar,Finland,Russia,Significant,3.292,39841,38482,28151,25750
+Lazar,Czechia,Czech Republic,Notable,3.236,39239,37900,27725,25361
+Lazar,Estonia,,Notable,3.226,39098,37765,27628,25270
+Lazar,Austro-Bavaria,Germany + Austria,Significant,3.216,38971,37642,27537,25188
+Lazar,New England,USA,Significant (successor),3.172,38430,37120,27154,24839
+Lazar,Poland,,Notable,3.147,38169,36869,26972,24671
+Lazar,Slovenia,,Notable,3.010,36423,35179,25736,23542
+Lazar,Serbia,Kosovo,Notable,2.960,35842,34619,25326,23164
+Lazar,Slovakia,,Notable,2.941,35645,34431,25187,23039
+Lazar,Cascadia,USA,Significant (successor),2.825,34231,33064,24188,22124
+Lazar,Romania,,Notable,2.524,30597,29553,21621,19775
+Lazar,France,Luxembourg,Significant,2.424,29402,28401,20775,19004
+Lazar,Russia (core state),Russia + Ukraine,Significant,2.039,24683,23840,17440,15952
+Lazar,Belarus,,Notable,1.775,21552,20817,15228,13930
+Lazar,Lithuania,,Notable,1.726,20929,20217,14788,13527
+Lazar,South Africa,,Notable,1.520,18405,17777,13006,11896
+Lazar,Idelsk-Uralia,Russia,Significant,1.479,17909,17300,12655,11576
+Lazar,Croatia,,Notable,1.441,17477,16882,12349,11296
+Lazar,Latvia,,Notable,1.402,16946,16369,11975,10954
+Lazar,Argentina (without Patagonia),Argentina,Notable,1.350,16352,15795,11554,10568
+Lazar,Bulgaria,,Notable,1.314,15944,15401,11266,10305
+Lazar,Midwest Republic,USA,Significant (successor),1.206,14612,14113,10326,9444
+Lazar,Netherlands,,Notable,1.167,14192,13707,10029,9173
+Lazar,Ukraine,,Notable,1.107,13379,12923,9453,8647
+Lazar,Colorado,USA,Significant (successor),0.907,10989,10614,7765,7103
+Lazar,Amazonia,Brazil,Significant,0.882,10683,10320,7550,6905
+Lazar,Siberia,Russia,Significant,0.588,7120,6876,5029,4602
+Lazar,Donska-Kubania,Russia,Significant,0.564,6826,6593,4824,4411
+Lazar,Sonora,USA,Significant (successor),0.533,6455,6235,4561,4172
+Lazar,Künnarantaiga,Russia,Significant,0.340,4112,3972,2906,2658
+Lazar,Northern Ireland,UK,Significant,0.275,3333,3219,2354,2153
+Lazar,Dagestan,Russia,Significant,0.104,1265,1222,892,818
+Lazar,Araucanía-Patagonia,Argentina,Notable,0.081,985,950,696,637
+Lazar,Hawaii,USA,Significant (successor),0.078,948,916,671,613
+Lazar,Chechnya,Russia,Significant,0.050,601,581,425,388
+Lazar,Alaska,USA,Significant (successor),0.036,442,427,312,285
+Lazar,Kabardino-Balkaria,Russia,Significant,0.030,360,347,255,233
+Lazar,North Ossetia-Alania,Russia,Significant,0.023,274,264,194,177
+Lazar,Ingushetia,Russia,Significant,0.017,203,197,143,132
+Lazar,Karachay-Cherkessia,Russia,Significant,0.015,187,181,133,121
+Lazar,Tuva,Russia,Significant,0.011,134,130,94,86
+Neumayer,France,Belgium + Luxembourg,Significant,10.780,70111,67497,48896,42402
+Neumayer,Germany,,Significant,7.722,50201,48328,35012,30360
+Neumayer,CSA,USA,Significant (successor),6.188,40234,38732,28060,24332
+Neumayer,United Kingdom,UK,Significant,4.995,32501,31288,22667,19655
+Neumayer,Brazil,,Significant,4.062,26409,25422,18418,15972
+Neumayer,Appalachia,USA,Significant (successor),3.972,25825,24861,18009,15618
+Neumayer,Hungary,Romania,Notable,3.763,24494,23581,17083,14814
+Neumayer,Sweden,,Notable,3.579,23268,22400,16228,14071
+Neumayer,Lithuania,,Notable,3.530,22974,22117,16023,13893
+Neumayer,Slovakia,,Notable,3.255,21179,20389,14771,12807
+Neumayer,New England,USA,Significant (successor),3.248,21121,20334,14731,12774
+Neumayer,Austro-Bavaria,Germany + Austria,Significant,3.202,20815,20040,14517,12590
+Neumayer,Bulgaria,,Notable,3.039,19758,19022,13780,11949
+Neumayer,Finland,,Notable,2.951,19167,18453,13368,11592
+Neumayer,Croatia,,Notable,2.951,19161,18446,13364,11589
+Neumayer,Argentina (without Patagonia),Argentina,Notable,2.922,18979,18271,13237,11478
+Neumayer,Cascadia,USA,Significant (successor),2.894,18813,18111,13121,11378
+Neumayer,Romania,,Notable,2.630,17118,16478,11938,10353
+Neumayer,Netherlands,Belgium,Notable,2.605,16909,16278,11792,10226
+Neumayer,Chile,,Notable,2.524,16401,15788,11438,9919
+Neumayer,Ukraine,,Notable,1.985,12923,12442,9013,7815
+Neumayer,Serbia,Kosovo,Notable,1.852,12065,11615,8414,7298
+Neumayer,Latvia,,Notable,1.833,11934,11488,8323,7217
+Neumayer,Estonia,,Notable,1.833,11927,11482,8318,7213
+Neumayer,Norway,,Notable,1.745,11334,10912,7905,6855
+Neumayer,Czechia,Czech Republic,Notable,1.314,8562,8243,5973,5178
+Neumayer,Slovenia,,Notable,1.245,8120,7818,5664,4911
+Neumayer,Midwest Republic,USA,Significant (successor),1.235,8031,7731,5601,4857
+Neumayer,Poland,,Notable,1.206,7825,7534,5458,4733
+Neumayer,South Africa,,Notable,1.147,7438,7161,5187,4498
+Neumayer,Russia (core state),Ukraine,Notable,1.005,6544,6300,4563,3957
+Neumayer,Colorado,USA,Significant (successor),0.929,6039,5814,4212,3652
+Neumayer,Araucanía-Patagonia,Argentina + Chile,Notable,0.583,3787,3646,2641,2290
+Neumayer,Sonora,USA,Significant (successor),0.546,3547,3416,2475,2145
+Neumayer,Amazonia,Brazil,Significant,0.448,2913,2805,2032,1762
+Neumayer,Northern Ireland,UK,Significant,0.143,930,895,649,563
+Neumayer,Hawaii,USA,Significant (successor),0.080,522,502,364,316
+Neumayer,Alaska,USA,Significant (successor),0.037,244,234,170,147
+Sanay,Germany,,Primary,20.595,50226,50194,28227,31698
+Sanay,Brazil,,Significant,10.234,24965,24949,14029,15754
+Sanay,United Kingdom,UK,Significant,6.856,16712,16701,9393,10548
+Sanay,Austro-Bavaria,Germany + Austria,Significant (successor),5.676,13842,13833,7779,8736
+Sanay,Serbia,Kosovo,Notable,4.517,11016,11008,6192,6951
+Sanay,Estonia,,Notable,4.498,10959,10952,6159,6916
+Sanay,South Africa,,Notable,4.400,10735,10728,6034,6774
+Sanay,Hungary,Romania,Notable,4.259,10396,10389,5844,6561
+Sanay,Slovenia,,Notable,4.037,9845,9839,5533,6213
+Sanay,Argentina (without Patagonia),Argentina,Notable,3.909,9532,9527,5356,6016
+Sanay,Bulgaria,,Notable,3.879,9471,9464,5322,5977
+Sanay,Norway,,Notable,3.801,9259,9253,5203,5844
+Sanay,Ukraine,,Notable,2.745,6689,6685,3758,4221
+Sanay,Czechia,Czech Republic,Notable,2.338,5711,5707,3210,3604
+Sanay,Croatia,,Notable,2.112,5139,5136,2888,3243
+Sanay,Latvia,,Notable,2.102,5123,5120,2881,3234
+Sanay,Romania,,Notable,2.027,4934,4931,2773,3114
+Sanay,Slovakia,,Notable,2.004,4894,4892,2750,3089
+Sanay,Poland,,Notable,1.994,4863,4859,2732,3069
+Sanay,Lithuania,,Notable,1.738,4235,4233,2380,2672
+Sanay,Belarus,,Notable,1.689,4119,4116,2315,2599
+Sanay,Chile,,Notable,1.412,3454,3452,1941,2179
+Sanay,Russia (core state),Ukraine,Notable,1.390,3388,3385,1904,2137
+Sanay,Amazonia,Brazil,Significant,1.129,2754,2752,1548,1739
+Sanay,Araucanía-Patagonia,Argentina + Chile,Notable,0.463,1131,1130,637,714
+Sanay,Northern Ireland,UK,Significant,0.196,479,479,269,303
+Santa Luce,Brazil,,Significant,7.886,17648,16863,9967,10444
+Santa Luce,United Kingdom,UK,Significant,7.444,16662,15922,9411,9861
+Santa Luce,Magna Lombardia,,Significant,6.255,14004,13382,7910,8287
+Santa Luce,CSA,USA,Significant (successor),5.398,12081,11544,6824,7148
+Santa Luce,France,Belgium + Luxembourg,Significant,4.454,9976,9532,5634,5903
+Santa Luce,Netherlands,Belgium,Notable,3.735,8359,7987,4723,4947
+Santa Luce,Russia (core state),Russia + Ukraine,Significant,3.715,8313,7944,4697,4920
+Santa Luce,Appalachia,USA,Significant (successor),3.465,7754,7410,4380,4589
+Santa Luce,Latvia,,Notable,2.981,6656,6361,3759,3939
+Santa Luce,Hungary,Romania,Notable,2.892,6467,6179,3652,3825
+Santa Luce,New England,USA,Significant (successor),2.834,6342,6060,3582,3752
+Santa Luce,Argentina (without Patagonia),Argentina,Notable,2.830,6349,6068,3586,3756
+Santa Luce,Serbia,Kosovo,Notable,2.803,6282,6004,3549,3718
+Santa Luce,Croatia,,Notable,2.785,6232,5954,3520,3688
+Santa Luce,Estonia,,Notable,2.785,6216,5940,3512,3679
+Santa Luce,Idelsk-Uralia,Russia,Significant,2.780,6220,5943,3513,3681
+Santa Luce,Czechia,Czech Republic,Notable,2.657,5947,5682,3358,3519
+Santa Luce,Cascadia,USA,Significant (successor),2.524,5649,5398,3190,3344
+Santa Luce,Romania,,Notable,2.304,5146,4917,2907,3046
+Santa Luce,Austro-Bavaria,Germany + Austria,Significant,2.099,4694,4487,2652,2779
+Santa Luce,Meridia,,Notable,2.088,4668,4461,2636,2763
+Santa Luce,Germany,,Significant,1.982,4430,4232,2502,2620
+Santa Luce,Ukraine,,Notable,1.849,4138,3953,2336,2448
+Santa Luce,Sweden,,Notable,1.608,3600,3441,2033,2130
+Santa Luce,Lithuania,,Notable,1.539,3461,3306,1956,2048
+Santa Luce,Bulgaria,,Notable,1.431,3205,3062,1810,1897
+Santa Luce,Norway,,Notable,1.392,3105,2967,1754,1838
+Santa Luce,Slovakia,,Notable,1.392,3120,2982,1763,1847
+Santa Luce,South Africa,,Notable,1.392,3105,2967,1754,1838
+Santa Luce,Finland,Russia,Significant,1.347,3019,2885,1704,1786
+Santa Luce,Slovenia,,Notable,1.196,2679,2560,1513,1585
+Santa Luce,Poland,,Notable,1.167,2604,2489,1470,1541
+Santa Luce,Siberia,Russia,Significant,1.105,2473,2363,1396,1462
+Santa Luce,Midwest Republic,USA,Significant (successor),1.078,2411,2304,1362,1426
+Santa Luce,Donska-Kubania,Russia,Significant,1.059,2371,2264,1340,1403
+Santa Luce,Amazonia,Brazil,Significant,0.870,1948,1860,1100,1152
+Santa Luce,Colorado,USA,Significant (successor),0.810,1814,1733,1024,1073
+Santa Luce,Künnarantaiga,Russia,Significant,0.638,1428,1365,807,844
+Santa Luce,Sonora,USA,Significant (successor),0.476,1064,1017,603,631
+Santa Luce,Northern Ireland,UK,Significant,0.213,478,456,269,282
+Santa Luce,Dagestan,Russia,Significant,0.196,439,420,249,260
+Santa Luce,Araucanía-Patagonia,Argentina,Notable,0.170,382,366,216,227
+Santa Luce,Chechnya,Russia,Significant,0.093,209,200,118,124
+Santa Luce,Hawaii,USA,Significant (successor),0.070,157,150,88,92
+Santa Luce,Kabardino-Balkaria,Russia,Significant,0.056,125,120,71,74
+Santa Luce,North Ossetia-Alania,Russia,Significant,0.042,95,90,54,56
+Santa Luce,Alaska,USA,Significant (successor),0.033,73,70,41,43
+Santa Luce,Ingushetia,Russia,Significant,0.031,71,68,40,42
+Santa Luce,Karachay-Cherkessia,Russia,Significant,0.029,65,62,36,38
+Santa Luce,Tuva,Russia,Significant,0.021,46,44,27,28
+Troll,United Kingdom,UK,Significant,8.045,39442,39228,28620,26677
+Troll,Brazil,,Significant,7.400,36311,36117,26348,24561
+Troll,CSA,USA,Significant (successor),5.899,28943,28788,21002,19576
+Troll,France,Luxembourg,Significant,5.581,27362,27215,19854,18505
+Troll,Appalachia,USA,Significant (successor),3.786,18578,18478,13480,12565
+Troll,Russia (core state),Russia + Ukraine,Significant,3.555,17443,17350,12658,11798
+Troll,Finland,Russia,Significant,3.350,16415,16328,11912,11103
+Troll,Czechia,Czech Republic,Notable,3.324,16313,16226,11837,11033
+Troll,Slovakia,,Notable,3.324,16324,16235,11845,11040
+Troll,Croatia,,Notable,3.245,15930,15843,11559,10774
+Troll,Serbia,Kosovo,Notable,3.234,15881,15795,11523,10742
+Troll,Netherlands,,Notable,3.216,15767,15683,11442,10666
+Troll,Slovenia,,Notable,3.177,15591,15505,11312,10545
+Troll,Argentina (without Patagonia),Argentina,Notable,3.172,15536,15453,11272,10508
+Troll,New England,USA,Significant (successor),3.097,15193,15113,11025,10277
+Troll,Bulgaria,,Notable,3.039,14895,14814,10807,10073
+Troll,Idelsk-Uralia,Russia,Significant,3.038,14907,14826,10815,10082
+Troll,Latvia,,Notable,3.020,14816,14735,10750,10020
+Troll,Cascadia,USA,Significant (successor),2.759,13534,13461,9820,9155
+Troll,Germany,,Significant,2.188,10744,10686,7797,7267
+Troll,Austro-Bavaria,Germany + Austria,Significant,2.138,10491,10433,7612,7097
+Troll,Poland,,Notable,1.520,7475,7435,5423,5055
+Troll,Hungary,Romania,Notable,1.516,7425,7385,5388,5021
+Troll,Sweden,,Notable,1.382,6779,6741,4919,4585
+Troll,Lithuania,,Notable,1.343,6601,6564,4789,4464
+Troll,Belarus,,Notable,1.314,6440,6403,4673,4355
+Troll,Estonia,,Notable,1.245,6129,6095,4447,4145
+Troll,Norway,,Notable,1.235,6045,6012,4386,4088
+Troll,South Africa,,Notable,1.235,6055,6023,4393,4095
+Troll,Siberia,Russia,Significant,1.208,5925,5893,4299,4007
+Troll,Midwest Republic,USA,Significant (successor),1.178,5777,5747,4193,3907
+Troll,Donska-Kubania,Russia,Significant,1.158,5681,5650,4122,3842
+Troll,Romania,,Notable,1.082,5290,5261,3838,3577
+Troll,Ukraine,,Notable,1.022,5014,4987,3638,3392
+Troll,Colorado,USA,Significant (successor),0.886,4344,4321,3152,2939
+Troll,Amazonia,Brazil,Significant,0.816,4006,3984,2907,2709
+Troll,Künnarantaiga,Russia,Significant,0.698,3423,3405,2484,2314
+Troll,Sonora,USA,Significant (successor),0.520,2552,2539,1853,1727
+Troll,Northern Ireland,UK,Significant,0.230,1129,1123,820,764
+Troll,Dagestan,Russia,Significant,0.215,1053,1047,764,712
+Troll,Araucanía-Patagonia,Argentina,Notable,0.191,935,930,680,634
+Troll,Chechnya,Russia,Significant,0.102,500,497,363,338
+Troll,Hawaii,USA,Significant (successor),0.076,375,373,272,254
+Troll,Kabardino-Balkaria,Russia,Significant,0.061,300,297,217,202
+Troll,North Ossetia-Alania,Russia,Significant,0.046,228,227,165,154
+Troll,Alaska,USA,Significant (successor),0.036,175,174,127,118
+Troll,Ingushetia,Russia,Significant,0.034,169,168,123,114
+Troll,Karachay-Cherkessia,Russia,Significant,0.032,155,155,113,105
+Troll,Tuva,Russia,Significant,0.023,111,111,82,76
+Utstein,France,Belgium + Luxembourg,Significant,8.891,52981,50312,33171,36408
+Utstein,Brazil,,Significant,7.223,43045,40876,26949,29579
+Utstein,Australia,,Significant,7.050,41985,39869,26287,28851
+Utstein,Finland,,Founder,5.290,31544,29955,19749,21677
+Utstein,Japan,,Primary,5.155,30717,29169,19232,21108
+Utstein,Norway,,Founder,5.120,30531,28991,19114,20981
+Utstein,CSA,USA,Significant (successor),4.577,27279,25905,17079,18745
+Utstein,Germany,,Significant,3.767,22441,21311,14049,15420
+Utstein,Denmark,,Founder,3.069,18288,17367,11450,12567
+Utstein,Netherlands,Belgium,Notable,2.975,17718,16825,11093,12174
+Utstein,Appalachia,USA,Significant (successor),2.938,17509,16627,10962,12033
+Utstein,Serbia,Kosovo,Notable,2.685,15983,15178,10005,10983
+Utstein,Poland,,Notable,2.677,15944,15140,9983,10957
+Utstein,Sweden,,Founder,2.648,15778,14983,9878,10842
+Utstein,Bulgaria,,Notable,2.520,15016,14258,9400,10318
+Utstein,Czechia,Czech Republic,Notable,2.461,14640,13903,9167,10060
+Utstein,Latvia,,Notable,2.461,14683,13944,9193,10091
+Utstein,Austro-Bavaria,Germany + Austria,Significant,2.442,14549,13817,9109,9998
+Utstein,New England,USA,Significant (successor),2.403,14321,13599,8965,9841
+Utstein,Romania,,Notable,2.217,13194,12530,8262,9067
+Utstein,Cascadia,USA,Significant (successor),2.140,12756,12114,7985,8766
+Utstein,Ukraine,,Notable,1.764,10504,9975,6576,7218
+Utstein,United Kingdom,UK,Significant,1.659,9883,9385,6188,6791
+Utstein,Hungary,Romania,Notable,1.637,9743,9252,6099,6694
+Utstein,Belarus,,Notable,1.373,8205,7793,5137,5638
+Utstein,Croatia,,Notable,1.324,7898,7501,4945,5428
+Utstein,Lithuania,,Notable,1.324,7875,7479,4931,5411
+Utstein,Slovakia,,Notable,1.235,7333,6963,4591,5039
+Utstein,Estonia,,Notable,1.186,7091,6733,4439,4873
+Utstein,South Africa,,Notable,1.137,6766,6427,4237,4651
+Utstein,Slovenia,,Notable,1.118,6643,6309,4159,4565
+Utstein,Argentina (without Patagonia),Argentina,Notable,1.100,6572,6242,4114,4517
+Utstein,Midwest Republic,USA,Significant (successor),0.914,5445,5171,3409,3741
+Utstein,Russia (core state),Ukraine,Notable,0.893,5318,5051,3330,3655
+Utstein,Amazonia,Brazil,Significant,0.797,4749,4509,2973,3263
+Utstein,Colorado,USA,Significant (successor),0.687,4095,3888,2563,2814
+Utstein,Iceland,,Founder,0.554,3302,3136,2067,2269
+Utstein,Sonora,USA,Significant (successor),0.404,2405,2284,1506,1653
+Utstein,Araucanía-Patagonia,Argentina,Notable,0.066,396,376,249,272
+Utstein,Hawaii,USA,Significant (successor),0.059,354,335,222,244
+Utstein,Northern Ireland,UK,Significant,0.047,283,269,178,195
+Utstein,Alaska,USA,Significant (successor),0.028,165,156,103,114
+Cape Adare,Australia,,Significant,11.820,90458,89589,74620,51341
+Cape Adare,Sinian Federation,China + Hong Kong + Macau,Primary,11.622,88953,88098,73379,50486
+Cape Adare,Japan,,Significant,11.523,88248,87398,72795,50085
+Cape Adare,Indonesia,,Significant,9.784,74880,74159,61770,42500
+Cape Adare,CSA,USA,Significant (successor),7.910,60542,59960,49942,34362
+Cape Adare,Korea,South Korea + North Korea,Significant,6.148,47097,46648,38854,26731
+Cape Adare,United Kingdom,UK,Significant,5.372,41131,40734,33929,23344
+Cape Adare,Appalachia,USA,Significant (successor),4.427,33884,33560,27952,19231
+Cape Adare,Cascadia,USA + Canada,Significant (successor),4.080,31231,30932,25764,17725
+Cape Adare,New England,USA,Significant (successor),3.621,27714,27448,22860,15730
+Cape Adare,Chile,,Notable,3.085,23633,23405,19495,13414
+Cape Adare,New Zealand,,Notable,3.056,23361,23136,19272,13259
+Cape Adare,Taiwan,Taiwan,New (time-zone window),2.908,22259,22044,18362,12633
+Cape Adare,Demilitarized Zone (s. Ontario; not a nation),Canada,Significant,2.305,17643,17473,14554,10014
+Cape Adare,Philippines,,Notable,1.992,15228,15081,12563,8642
+Cape Adare,Quebec,Canada,Significant,1.762,13490,13361,11127,7655
+Cape Adare,Malaysia,,Notable,1.456,11147,11040,9196,6327
+Cape Adare,Midwest Republic,USA,Significant (successor),1.377,10538,10436,8692,5981
+Cape Adare,Prairie Federation,Canada,Significant,1.296,9924,9829,8186,5633
+Cape Adare,Manchuria,China,Notable (China piece),1.285,9830,9737,8110,5581
+Cape Adare,Colorado,USA,Significant (successor),1.035,7924,7849,6538,4498
+Cape Adare,Sonora,USA,Significant (successor),0.608,4655,4609,3840,2641
+Cape Adare,Araucanía-Patagonia,Chile,Notable,0.497,3811,3773,3144,2163
+Cape Adare,Mongolia,China,Notable (China piece),0.323,2471,2447,2039,1403
+Cape Adare,West Papua,Indonesia,Significant,0.182,1393,1380,1149,791
+Cape Adare,Aceh,Indonesia,Significant,0.176,1346,1333,1110,763
+Cape Adare,Northern Ireland,UK,Significant,0.134,1027,1017,846,583
+Cape Adare,Hawaii,USA,Significant (successor),0.089,684,678,564,388
+Cape Adare,Jeju-do (neutral zone),South Korea,Significant,0.067,509,504,420,289
+Cape Adare,Alaska,USA + Canada,Significant (successor),0.059,454,449,375,258
+Concordia,Korea,South Korea + North Korea,Primary,9.999,52263,51665,33379,31699
+Concordia,Japan,,Primary,9.743,50972,50390,32555,30917
+Concordia,Australia,,Primary,8.175,42740,42251,27297,25925
+Concordia,Indonesia,,Primary,7.746,40479,40013,25850,24552
+Concordia,Sinian Federation,China + Hong Kong + Macau,Primary,4.518,23616,23343,15082,14324
+Concordia,Vietnam,,Significant,4.048,21148,20905,13506,12828
+Concordia,Belarus,,Significant,3.608,18855,18639,12042,11436
+Concordia,New Zealand,,Significant,3.598,18838,18624,12031,11426
+Concordia,Russia (core state),Russia + Ukraine,Significant (successor),2.983,15608,15427,9968,9466
+Concordia,Taiwan,Taiwan,New (time-zone window),2.905,15192,15018,9702,9214
+Concordia,Idelsk-Uralia,Russia,Significant (successor),2.761,14443,14277,9224,8760
+Concordia,Philippines,,Significant,2.507,13087,12935,8359,7937
+Concordia,France,Belgium,Notable,2.063,10800,10677,6897,6551
+Concordia,Malaysia,,Significant,1.866,9756,9645,6230,5917
+Concordia,Serbia,,Notable,1.522,7963,7873,5086,4829
+Concordia,Estonia,,Notable,1.483,7766,7676,4959,4711
+Concordia,Thailand,,Significant,1.469,7701,7611,4918,4670
+Concordia,Hungary,Romania,Notable,1.436,7535,7449,4813,4570
+Concordia,Netherlands,Belgium,Notable,1.420,7415,7331,4736,4498
+Concordia,Finland,Russia,Significant (successor),1.382,7217,7135,4609,4378
+Concordia,Croatia,,Notable,1.378,7203,7119,4599,4369
+Concordia,CSA,USA,Significant,1.371,7176,7093,4584,4354
+Concordia,Czechia,Czech Republic,Notable,1.321,6914,6836,4417,4194
+Concordia,Norway,,Notable,1.321,6892,6813,4402,4181
+Concordia,Poland,,Notable,1.263,6593,6519,4212,4000
+Concordia,United Kingdom,UK,Notable,1.228,6421,6346,4099,3893
+Concordia,Siberia,Russia,Significant (successor),1.098,5741,5676,3666,3483
+Concordia,Spain,,Notable,1.090,5690,5626,3635,3452
+Concordia,Donska-Kubania,Russia,Significant (successor),1.052,5505,5442,3516,3339
+Concordia,México,Mexico,Notable,0.996,5199,5139,3321,3153
+Concordia,Appalachia,USA,Significant,0.880,4606,4554,2941,2793
+Concordia,Lithuania,,Notable,0.804,4206,4158,2685,2551
+Concordia,Latvia,,Notable,0.775,4043,3996,2582,2453
+Concordia,Cascadia,USA + Mexico + Canada,Significant,0.766,4012,3965,2563,2435
+Concordia,New England,USA,Significant,0.720,3766,3725,2406,2286
+Concordia,Sweden,,Notable,0.718,3753,3712,2399,2278
+Concordia,Bulgaria,,Notable,0.689,3600,3559,2301,2184
+Concordia,Künnarantaiga,Russia,Significant (successor),0.634,3316,3279,2117,2011
+Concordia,Slovakia,,Notable,0.632,3300,3261,2107,2001
+Concordia,Romania,,Notable,0.592,3091,3056,1973,1874
+Concordia,Manchuria,China,Notable (China piece),0.498,2602,2572,1662,1576
+Concordia,Germany,,Notable,0.466,2418,2390,1541,1466
+Concordia,Ukraine,,Notable,0.438,2303,2275,1471,1397
+Concordia,Magna Lombardia,Italy,Notable,0.409,2125,2102,1358,1289
+Concordia,Midwest Republic,USA,Significant,0.274,1434,1417,915,869
+Concordia,Slovenia,,Notable,0.268,1413,1397,903,856
+Concordia,Meridia,Italy,Notable,0.251,1306,1290,833,791
+Concordia,Catalonia,Spain,Notable,0.233,1220,1206,779,738
+Concordia,Mongolia,China,Notable (China piece),0.218,1139,1127,728,692
+Concordia,Demilitarized Zone (s. Ontario; not a nation),Canada,Notable,0.216,1138,1125,725,689
+Concordia,Colorado,USA,Significant,0.206,1077,1065,688,653
+Concordia,Dagestan,Russia,Significant (successor),0.195,1020,1009,651,617
+Concordia,Sonora,USA + Mexico,Significant,0.186,974,964,621,591
+Concordia,Quebec,Canada,Notable,0.165,870,859,554,526
+Concordia,West Papua,Indonesia,Significant (successor),0.151,790,781,503,479
+Concordia,Aceh,Indonesia,Significant (successor),0.146,763,754,488,462
+Concordia,East Turkestan,China,Notable (China piece),0.137,717,709,459,436
+Concordia,Yucatán,Mexico,Notable,0.128,667,659,426,405
+Concordia,Prairie Federation,Canada,Notable,0.121,639,632,410,389
+Concordia,Jeju-do (neutral zone),South Korea,Significant (successor),0.117,611,603,391,372
+Concordia,Chechnya,Russia,Significant (successor),0.093,485,479,310,294
+Concordia,Austro-Bavaria,Germany,Notable,0.089,465,460,297,282
+Concordia,Basque Country,Spain,Notable,0.084,439,434,280,267
+Concordia,Sicilia (autonomous zone within Meridia),Italy,Notable,0.058,303,299,193,183
+Concordia,Kabardino-Balkaria,Russia,Significant (successor),0.055,290,286,185,176
+Concordia,Patani,Thailand,Significant,0.043,225,223,144,137
+Concordia,North Ossetia-Alania,Russia,Significant (successor),0.042,220,218,142,134
+Concordia,Northern Ireland,UK,Notable,0.035,183,181,118,113
+Concordia,Ingushetia,Russia,Significant (successor),0.031,163,161,105,99
+Concordia,Karachay-Cherkessia,Russia,Significant (successor),0.029,150,150,97,91
+Concordia,Tuva,Russia,Significant (successor),0.021,109,107,69,65
+Concordia,Tibet,China,Notable (China piece),0.019,102,101,65,61
+Concordia,Hawaii,USA,Significant,0.018,93,92,59,57
+Concordia,Alaska,USA + Canada,Significant,0.010,52,52,34,31
+Denison,Korea,South Korea + North Korea,Significant,13.797,65342,63022,47768,40462
+Denison,Sinian Federation,China + Hong Kong + Macau,Primary,13.234,62673,60448,45817,38810
+Denison,Indonesia,,Significant,11.386,53935,52023,39430,33399
+Denison,CSA,USA,Significant (successor),9.333,44189,42621,32303,27364
+Denison,Japan,,Significant,8.163,38633,37262,28242,23923
+Denison,Australia,,Significant,6.466,30612,29525,22379,18956
+Denison,Appalachia,USA,Significant (successor),5.990,28364,27357,20735,17564
+Denison,New England,USA,Significant (successor),4.256,20153,19437,14733,12479
+Denison,Cascadia,USA,Significant (successor),3.791,17950,17313,13124,11116
+Denison,New Zealand,,Notable,3.751,17770,17139,12990,11004
+Denison,Vietnam,,Notable,3.560,16841,16244,12310,10428
+Denison,Philippines,,Notable,3.483,16512,15926,12072,10225
+Denison,Taiwan,Taiwan,New (time-zone window),2.905,13754,13267,10056,8517
+Denison,Malaysia,,Notable,2.316,10948,10559,8002,6778
+Denison,Midwest Republic,USA,Significant (successor),1.618,7662,7391,5602,4744
+Denison,Manchuria,China,Notable (China piece),1.441,6825,6581,4989,4226
+Denison,Thailand,,Notable,1.348,6393,6166,4673,3958
+Denison,Colorado,USA,Significant (successor),1.217,5762,5559,4213,3568
+Denison,Sonora,USA,Significant (successor),0.715,3386,3265,2475,2096
+Denison,Mongolia,China,Notable (China piece),0.455,2154,2079,1575,1335
+Denison,West Papua,Indonesia,Significant,0.211,1000,965,730,618
+Denison,Aceh,Indonesia,Significant,0.204,966,931,706,598
+Denison,Jeju-do (neutral zone),South Korea,Significant,0.155,731,706,534,454
+Denison,Hawaii,USA,Significant (successor),0.105,498,479,365,309
+Denison,Alaska,USA,Significant (successor),0.049,232,223,169,144
+Denison,Patani,Thailand,Notable,0.039,186,180,138,117
+Dumont d'Urville,Sinian Federation,China + Hong Kong + Macau,Primary,13.562,28054,27291,21654,16436
+Dumont d'Urville,France,,Significant,13.370,27642,26894,21338,16197
+Dumont d'Urville,Japan,,Significant,13.280,27470,26724,21203,16095
+Dumont d'Urville,Australia,,Significant,12.554,25955,25252,20035,15206
+Dumont d'Urville,CSA,USA,Significant (successor),7.378,15259,14845,11779,8941
+Dumont d'Urville,Indonesia,,Significant,6.079,12573,12230,9704,7366
+Dumont d'Urville,Appalachia,USA,Significant (successor),4.000,8272,8047,6385,4846
+Dumont d'Urville,New Zealand,,Notable,3.981,8224,8000,6348,4818
+Dumont d'Urville,Vietnam,,Notable,3.866,7996,7778,6172,4685
+Dumont d'Urville,New England,USA,Significant (successor),3.271,6765,6581,5222,3963
+Dumont d'Urville,Philippines,,Notable,3.254,6728,6544,5192,3941
+Dumont d'Urville,Cascadia,USA,Significant (successor),2.914,6025,5862,4652,3531
+Dumont d'Urville,Taiwan,Taiwan,New (time-zone window),2.905,6007,5845,4638,3520
+Dumont d'Urville,Malaysia,,Notable,2.067,4268,4153,3295,2501
+Dumont d'Urville,Korea,South Korea + North Korea,Significant,1.758,3640,3539,2808,2131
+Dumont d'Urville,Manchuria,China,Notable (China piece),1.572,3251,3164,2509,1903
+Dumont d'Urville,Midwest Republic,USA,Significant (successor),1.244,2572,2502,1986,1507
+Dumont d'Urville,Colorado,USA,Significant (successor),0.935,1934,1882,1494,1134
+Dumont d'Urville,Sonora,USA,Significant (successor),0.549,1136,1106,878,666
+Dumont d'Urville,Mongolia,China,Notable (China piece),0.488,1008,982,778,593
+Dumont d'Urville,East Turkestan,China,Notable (China piece),0.434,898,873,693,526
+Dumont d'Urville,Thailand,,Notable,0.130,266,259,205,155
+Dumont d'Urville,West Papua,Indonesia,Significant,0.110,227,220,175,133
+Dumont d'Urville,Aceh,Indonesia,Significant,0.106,219,214,168,128
+Dumont d'Urville,Hawaii,USA,Significant (successor),0.081,166,162,130,98
+Dumont d'Urville,Tibet,China,Notable (China piece),0.061,127,123,98,75
+Dumont d'Urville,Alaska,USA,Significant (successor),0.038,78,76,60,47
+Dumont d'Urville,Jeju-do (neutral zone),South Korea,Significant,0.019,39,38,30,23
+Dumont d'Urville,Patani,Thailand,Notable,0.004,8,8,6,5
+Fort McMurdo,France,,Significant,11.538,25733,25625,18985,20014
+Fort McMurdo,Japan,,Significant,10.768,24038,23939,17736,18697
+Fort McMurdo,Germany,,Significant,10.434,23272,23175,17171,18102
+Fort McMurdo,Sinian Federation,China + Hong Kong + Macau,Primary,10.011,22336,22241,16479,17373
+Fort McMurdo,CSA,USA,Significant (successor),8.320,18563,18484,13694,14438
+Fort McMurdo,Appalachia,USA,Significant (successor),4.314,9624,9584,7100,7485
+Fort McMurdo,United Kingdom,UK,Significant,3.976,8864,8829,6541,6895
+Fort McMurdo,Cascadia,USA + Canada,Significant (successor),3.601,8034,8000,5927,6249
+Fort McMurdo,New England,USA,Significant (successor),3.528,7870,7839,5807,6122
+Fort McMurdo,Malaysia,,Notable,3.170,7074,7044,5220,5503
+Fort McMurdo,New Zealand,,Notable,3.065,6846,6817,5052,5326
+Fort McMurdo,Chile,,Notable,2.920,6518,6491,4809,5070
+Fort McMurdo,Taiwan,Taiwan,New (time-zone window),2.908,6488,6461,4787,5047
+Fort McMurdo,Magna Lombardia,Italy,Significant,2.673,5961,5937,4398,4636
+Fort McMurdo,Korea,South Korea + North Korea,Notable,1.911,4257,4239,3142,3311
+Fort McMurdo,Australia,,Notable,1.839,4113,4095,3034,3200
+Fort McMurdo,Indonesia,,Notable,1.673,3730,3714,2752,2900
+Fort McMurdo,Meridia,Italy,Significant,1.641,3660,3643,2700,2846
+Fort McMurdo,Austro-Bavaria,Germany,Significant,1.620,3613,3597,2665,2810
+Fort McMurdo,Philippines,,Notable,1.523,3392,3377,2502,2636
+Fort McMurdo,Midwest Republic,USA,Significant (successor),1.341,2992,2979,2208,2329
+Fort McMurdo,Manchuria,China,Notable (China piece),1.252,2792,2780,2061,2173
+Fort McMurdo,Demilitarized Zone (s. Ontario; not a nation),Canada,Notable,1.235,2758,2746,2035,2144
+Fort McMurdo,Colorado,USA,Significant (successor),1.009,2251,2241,1661,1751
+Fort McMurdo,Quebec,Canada,Notable,0.945,2107,2100,1555,1640
+Fort McMurdo,Prairie Federation,Canada,Notable,0.695,1550,1545,1144,1208
+Fort McMurdo,Sonora,USA,Significant (successor),0.593,1322,1316,975,1029
+Fort McMurdo,Araucanía-Patagonia,Chile,Notable,0.471,1050,1046,776,817
+Fort McMurdo,Sicilia (autonomous zone within Meridia),Italy,Significant,0.380,847,845,625,660
+Fort McMurdo,Mongolia,China,Notable (China piece),0.315,701,699,518,546
+Fort McMurdo,Northern Ireland,UK,Significant,0.114,254,253,187,197
+Fort McMurdo,Hawaii,USA,Significant (successor),0.087,194,193,144,151
+Fort McMurdo,Alaska,USA + Canada,Significant (successor),0.050,112,112,82,86
+Fort McMurdo,West Papua,Indonesia,Notable,0.036,80,80,58,62
+Fort McMurdo,Aceh,Indonesia,Notable,0.034,77,77,56,59
+Fort McMurdo,Jeju-do (neutral zone),South Korea,Notable,0.021,47,47,34,36
+Janbogo,Korea,South Korea + North Korea,Significant,12.241,82703,80615,58103,61031
+Janbogo,Australia,,Significant,11.677,78919,76924,55444,58238
+Janbogo,Sinian Federation,China + Hong Kong + Macau,Primary,10.566,71404,69599,50164,52692
+Janbogo,Indonesia,,Significant,9.962,67305,65605,47284,49668
+Janbogo,CSA,USA,Significant (successor),6.954,46998,45812,33018,34682
+Janbogo,Magna Lombardia,Italy,Significant,6.084,41091,40053,28869,30323
+Janbogo,Japan,,Significant,4.224,28520,27798,20037,21046
+Janbogo,Germany,,Significant,3.728,25208,24570,17710,18602
+Janbogo,Appalachia,USA,Significant (successor),3.657,24719,24095,17367,18242
+Janbogo,Cascadia,USA + Canada,Significant (successor),3.182,21503,20960,15107,15867
+Janbogo,Meridia,Italy,Significant,3.060,20670,20147,14523,15254
+Janbogo,Malaysia,,Notable,2.998,20281,19769,14247,14966
+Janbogo,New England,USA,Significant (successor),2.991,20217,19707,14205,14919
+Janbogo,Taiwan,Taiwan,New (time-zone window),2.908,19649,19153,13804,14500
+Janbogo,Chile,,Notable,2.656,17921,17469,12590,13225
+Janbogo,Philippines,,Notable,1.667,11293,11008,7934,8335
+Janbogo,New Zealand,,Notable,1.590,10762,10492,7561,7942
+Janbogo,Demilitarized Zone (s. Ontario; not a nation),Canada,Significant,1.395,9420,9182,6617,6951
+Janbogo,Manchuria,China,Notable (China piece),1.335,9022,8794,6338,6657
+Janbogo,Midwest Republic,USA,Significant (successor),1.137,7686,7494,5400,5673
+Janbogo,Quebec,Canada,Significant,1.066,7202,7020,5059,5316
+Janbogo,Colorado,USA,Significant (successor),0.855,5782,5635,4061,4267
+Janbogo,Prairie Federation,Canada,Significant,0.785,5299,5164,3723,3910
+Janbogo,Austro-Bavaria,Germany,Significant,0.717,4845,4723,3405,3576
+Janbogo,Sicilia (autonomous zone within Meridia),Italy,Significant,0.709,4790,4669,3366,3535
+Janbogo,Sonora,USA,Significant (successor),0.502,3397,3311,2386,2506
+Janbogo,Araucanía-Patagonia,Chile,Notable,0.428,2889,2817,2031,2133
+Janbogo,Mongolia,China,Notable (China piece),0.336,2268,2211,1592,1674
+Janbogo,West Papua,Indonesia,Significant,0.174,1176,1146,826,868
+Janbogo,Aceh,Indonesia,Significant,0.168,1137,1109,799,839
+Janbogo,Jeju-do (neutral zone),South Korea,Significant,0.129,869,846,610,641
+Janbogo,Hawaii,USA,Significant (successor),0.074,498,486,351,370
+Janbogo,Alaska,USA + Canada,Significant (successor),0.045,305,297,214,224
+Scott,Japan,,Significant,11.797,23145,22394,18905,18094
+Scott,United Kingdom,UK,Significant,11.447,22468,21737,18351,17565
+Scott,Sinian Federation,China + Hong Kong + Macau,Primary,11.425,22420,21691,18312,17528
+Scott,Australia,,Significant,10.291,20195,19538,16495,15788
+Scott,CSA,USA,Significant (successor),7.985,15666,15159,12796,12249
+Scott,Korea,South Korea + North Korea,Significant,7.260,14237,13778,11632,11133
+Scott,Indonesia,,Significant,5.216,10234,9900,8359,8000
+Scott,Appalachia,USA,Significant (successor),4.499,8827,8539,7211,6900
+Scott,Cascadia,USA + Canada,Significant (successor),3.934,7717,7467,6304,6032
+Scott,New England,USA,Significant (successor),3.679,7219,6985,5897,5644
+Scott,New Zealand,,Notable,3.372,6621,6406,5407,5175
+Scott,Chile,,Notable,3.044,5964,5771,4872,4662
+Scott,Taiwan,Taiwan,New (time-zone window),2.908,5705,5519,4660,4460
+Scott,Demilitarized Zone (s. Ontario; not a nation),Canada,Significant,1.770,3470,3357,2835,2712
+Scott,Malaysia,,Notable,1.667,3270,3163,2670,2557
+Scott,Philippines,,Notable,1.513,2965,2867,2422,2318
+Scott,Midwest Republic,USA,Significant (successor),1.399,2745,2654,2242,2145
+Scott,Quebec,Canada,Significant,1.353,2652,2567,2167,2074
+Scott,Manchuria,China,Notable (China piece),1.261,2474,2394,2021,1934
+Scott,Colorado,USA,Significant (successor),1.052,2065,1998,1685,1613
+Scott,Prairie Federation,Canada,Significant,0.996,1951,1888,1593,1526
+Scott,Sonora,USA,Significant (successor),0.618,1214,1174,990,948
+Scott,Araucanía-Patagonia,Chile,Notable,0.491,962,930,785,751
+Scott,Mongolia,China,Notable (China piece),0.317,621,601,507,487
+Scott,Northern Ireland,UK,Significant,0.288,565,545,460,442
+Scott,West Papua,Indonesia,Significant,0.098,191,185,156,150
+Scott,Aceh,Indonesia,Significant,0.094,185,179,152,145
+Scott,Hawaii,USA,Significant (successor),0.091,178,172,147,139
+Scott,Jeju-do (neutral zone),South Korea,Significant,0.080,157,151,129,123
+Scott,Alaska,USA + Canada,Significant (successor),0.056,111,107,90,86
+Zukelli,Korea,South Korea + North Korea,Significant,13.799,88719,88290,69234,62360
+Zukelli,Sinian Federation,China + Hong Kong + Macau,Primary,12.254,78783,78400,61478,55377
+Zukelli,Australia,,Significant,11.630,74794,74430,58366,52573
+Zukelli,CSA,USA,Significant (successor),7.670,49314,49074,38483,34663
+Zukelli,Indonesia,,Significant,6.884,44257,44041,34535,31109
+Zukelli,Japan,,Significant,4.492,28864,28723,22524,20289
+Zukelli,Cascadia,USA + Canada,Significant (successor),4.121,26496,26367,20675,18624
+Zukelli,Appalachia,USA,Significant (successor),3.872,24895,24775,19428,17500
+Zukelli,Demilitarized Zone (s. Ontario; not a nation),Canada,Significant,3.505,22528,22419,17580,15835
+Zukelli,Magna Lombardia,Italy,Significant,3.403,21863,21758,17061,15368
+Zukelli,Malaysia,,Notable,3.295,21189,21086,16534,14894
+Zukelli,New Zealand,,Notable,3.228,20765,20665,16204,14596
+Zukelli,New England,USA,Significant (successor),3.167,20362,20264,15889,14312
+Zukelli,Taiwan,Taiwan,New (time-zone window),2.908,18692,18602,14586,13140
+Zukelli,Quebec,Canada,Significant,2.680,17225,17142,13442,12108
+Zukelli,Meridia,Italy,Significant,2.089,13421,13357,10474,9434
+Zukelli,Prairie Federation,Canada,Significant,1.971,12673,12611,9889,8908
+Zukelli,Philippines,,Notable,1.810,11644,11585,9085,8184
+Zukelli,Chile,,Notable,1.501,9661,9613,7539,6791
+Zukelli,Manchuria,China,Notable (China piece),1.464,9416,9370,7347,6617
+Zukelli,Midwest Republic,USA,Significant (successor),1.204,7742,7704,6041,5442
+Zukelli,Colorado,USA,Significant (successor),0.906,5821,5794,4543,4093
+Zukelli,Sonora,USA,Significant (successor),0.532,3421,3404,2668,2405
+Zukelli,Sicilia (autonomous zone within Meridia),Italy,Significant,0.484,3111,3096,2428,2187
+Zukelli,Mongolia,China,Notable (China piece),0.368,2367,2356,1846,1664
+Zukelli,Araucanía-Patagonia,Chile,Notable,0.242,1557,1549,1216,1095
+Zukelli,Jeju-do (neutral zone),South Korea,Significant,0.140,898,893,700,630
+Zukelli,West Papua,Indonesia,Significant,0.116,742,739,580,521
+Zukelli,Aceh,Indonesia,Significant,0.112,716,712,559,504
+Zukelli,Hawaii,USA,Significant (successor),0.078,502,499,393,354
+Zukelli,Alaska,USA + Canada,Significant (successor),0.063,407,405,317,285
+Dome Fuji,France,Belgium + Luxembourg,Significant,6.578,4398,,,
+Dome Fuji,Indonesia,,Significant,6.296,4208,,,
+Dome Fuji,Australia,,Significant,6.144,4108,,,
+Dome Fuji,Korea,South Korea,Significant,5.617,3755,,,
+Dome Fuji,Sinian Federation,China,Primary,5.372,3591,,,
+Dome Fuji,Germany,,Significant,3.972,2655,,,
+Dome Fuji,CSA,USA,Significant (successor),3.552,2375,,,
+Dome Fuji,Brazil,,Significant,2.799,1871,,,
+Dome Fuji,Japan,,Significant,2.785,1862,,,
+Dome Fuji,Austro-Bavaria,Germany + Austria,Significant,2.481,1659,,,
+Dome Fuji,United Kingdom,UK,Significant,2.373,1587,,,
+Dome Fuji,Netherlands,Belgium,Notable,2.341,1565,,,
+Dome Fuji,Appalachia,USA,Significant (successor),2.280,1524,,,
+Dome Fuji,Cascadia,USA + Mexico + Canada,Significant (successor),1.961,1311,,,
+Dome Fuji,Hungary,Romania,Notable,1.958,1309,,,
+Dome Fuji,Malaysia,,Notable,1.873,1252,,,
+Dome Fuji,New England,USA,Significant (successor),1.865,1246,,,
+Dome Fuji,Slovenia,,Notable,1.833,1226,,,
+Dome Fuji,Belarus,,Notable,1.794,1199,,,
+Dome Fuji,Croatia,,Notable,1.784,1193,,,
+Dome Fuji,Serbia,Kosovo,Notable,1.754,1173,,,
+Dome Fuji,Czechia,Czech Republic,Notable,1.706,1140,,,
+Dome Fuji,Latvia,,Notable,1.696,1134,,,
+Dome Fuji,Philippines,,Notable,1.677,1120,,,
+Dome Fuji,Estonia,,Notable,1.657,1108,,,
+Dome Fuji,Norway,,Notable,1.637,1094,,,
+Dome Fuji,Romania,,Notable,1.601,1070,,,
+Dome Fuji,México,Mexico,Notable,1.496,1000,,,
+Dome Fuji,Spain,,Notable,1.435,959,,,
+Dome Fuji,Russia (core state),Russia + Ukraine,Significant,0.986,659,,,
+Dome Fuji,Finland,Russia,Significant,0.969,648,,,
+Dome Fuji,Slovakia,,Notable,0.941,629,,,
+Dome Fuji,Bulgaria,,Notable,0.931,622,,,
+Dome Fuji,Sweden,,Notable,0.922,615,,,
+Dome Fuji,Vietnam,,Notable,0.922,615,,,
+Dome Fuji,Chile,,Notable,0.836,559,,,
+Dome Fuji,New Zealand,,Notable,0.833,557,,,
+Dome Fuji,Thailand,,Notable,0.800,536,,,
+Dome Fuji,South Africa,,Notable,0.784,525,,,
+Dome Fuji,Argentina (without Patagonia),Argentina,Notable,0.777,520,,,
+Dome Fuji,Uruguay,,Notable,0.755,505,,,
+Dome Fuji,Poland,,Notable,0.755,505,,,
+Dome Fuji,Lithuania,,Notable,0.745,498,,,
+Dome Fuji,Midwest Republic,USA,Significant (successor),0.709,474,,,
+Dome Fuji,Idelsk-Uralia,Russia,Significant,0.683,456,,,
+Dome Fuji,Demilitarized Zone (s. Ontario; not a nation),Canada,Notable,0.627,420,,,
+Dome Fuji,Ukraine,,Notable,0.599,400,,,
+Dome Fuji,Colorado,USA,Significant (successor),0.533,357,,,
+Dome Fuji,Quebec,Canada,Notable,0.479,320,,,
+Dome Fuji,Magna Lombardia,Italy,Notable,0.435,291,,,
+Dome Fuji,Sonora,USA + Mexico,Significant (successor),0.412,275,,,
+Dome Fuji,Prairie Federation,Canada,Notable,0.353,235,,,
+Dome Fuji,Amazonia,Brazil,Significant,0.309,207,,,
+Dome Fuji,Catalonia,Spain,Notable,0.307,206,,,
+Dome Fuji,Siberia,Russia,Significant,0.271,182,,,
+Dome Fuji,Meridia,Italy,Notable,0.267,180,,,
+Dome Fuji,Donska-Kubania,Russia,Significant,0.260,174,,,
+Dome Fuji,Yucatán,Mexico,Notable,0.192,129,,,
+Dome Fuji,East Turkestan,China,Notable (China piece),0.185,124,,,
+Dome Fuji,Araucanía-Patagonia,Chile + Argentina,Notable,0.182,122,,,
+Dome Fuji,Künnarantaiga,Russia,Significant,0.157,105,,,
+Dome Fuji,West Papua,Indonesia,Significant,0.111,74,,,
+Dome Fuji,Basque Country,Spain,Notable,0.110,74,,,
+Dome Fuji,Aceh,Indonesia,Significant,0.107,72,,,
+Dome Fuji,Northern Ireland,UK,Significant,0.068,45,,,
+Dome Fuji,Sicilia (autonomous zone within Meridia),Italy,Notable,0.062,41,,,
+Dome Fuji,Jeju-do (neutral zone),South Korea,Significant,0.062,41,,,
+Dome Fuji,Dagestan,Russia,Significant,0.048,32,,,
+Dome Fuji,Hawaii,USA,Significant (successor),0.046,30,,,
+Dome Fuji,Alaska,USA + Canada,Significant (successor),0.026,18,,,
+Dome Fuji,Tibet,China,Notable (China piece),0.026,18,,,
+Dome Fuji,Patani,Thailand,Notable,0.023,16,,,
+Dome Fuji,Chechnya,Russia,Significant,0.023,16,,,
+Dome Fuji,Kabardino-Balkaria,Russia,Significant,0.014,9,,,
+Dome Fuji,North Ossetia-Alania,Russia,Significant,0.010,7,,,
+Dome Fuji,Ingushetia,Russia,Significant,0.008,5,,,
+Dome Fuji,Karachay-Cherkessia,Russia,Significant,0.007,5,,,
+Dome Fuji,Tuva,Russia,Significant,0.005,4,,,
+Mawson,United Kingdom,UK,Significant,10.033,75152,72452,53482,43702
+Mawson,Australia,,Significant,9.517,71294,68731,50737,41459
+Mawson,Sinian Federation,China,Primary,9.068,67907,65465,48324,39488
+Mawson,Indonesia,,Significant,8.693,65125,62782,46344,37869
+Mawson,Japan,,Significant,8.587,64270,61961,45736,37374
+Mawson,France,,Significant,6.073,45462,43827,32352,26437
+Mawson,Korea,South Korea,Significant,5.517,41326,39841,29409,24032
+Mawson,Estonia,,Notable,3.113,23323,22485,16597,13562
+Mawson,South Africa,,Notable,3.034,22753,21937,16193,13232
+Mawson,Norway,,Notable,2.995,22392,21587,15935,13022
+Mawson,Vietnam,,Notable,2.936,21947,21158,15618,12763
+Mawson,Belarus,,Notable,2.877,21563,20789,15345,12540
+Mawson,Netherlands,,Notable,2.867,21443,20673,15260,12470
+Mawson,Thailand,,Notable,2.833,21219,20456,15100,12339
+Mawson,Slovenia,,Notable,2.661,19911,19195,14169,11579
+Mawson,Bulgaria,,Notable,2.632,19715,19006,14030,11464
+Mawson,Austro-Bavaria,Germany + Austria,Significant,2.012,15069,14527,10724,8763
+Mawson,Czechia,Czech Republic,Notable,1.542,11571,11155,8235,6729
+Mawson,Germany,,Significant,1.532,11477,11066,8168,6674
+Mawson,Slovakia,,Notable,1.522,11375,10967,8096,6615
+Mawson,Hungary,Romania,Notable,1.425,10695,10310,7611,6219
+Mawson,Lithuania,,Notable,1.316,9843,9488,7005,5725
+Mawson,Poland,,Notable,1.247,9340,9004,6647,5431
+Mawson,Croatia,,Notable,1.188,8894,8575,6330,5173
+Mawson,Latvia,,Notable,1.139,8533,8225,6072,4961
+Mawson,Romania,,Notable,1.128,8475,8171,6031,4928
+Mawson,Ukraine,,Notable,0.704,5288,5097,3762,3075
+Mawson,Mongolia,China,Notable (China piece),0.376,2812,2712,2002,1636
+Mawson,Russia (core state),Ukraine,Notable,0.356,2676,2581,1905,1557
+Mawson,East Turkestan,China,Notable (China piece),0.312,2334,2251,1661,1357
+Mawson,Northern Ireland,UK,Significant,0.246,1841,1774,1310,1070
+Mawson,West Papua,Indonesia,Significant,0.159,1188,1146,845,691
+Mawson,Aceh,Indonesia,Significant,0.153,1148,1107,817,667
+Mawson,Patani,Thailand,Notable,0.083,620,597,442,361
+Mawson,Jeju-do (neutral zone),South Korea,Significant,0.063,471,454,335,273
+Mawson,Tibet,China,Notable (China piece),0.044,330,317,235,192
+Temirötkel,Sinian Federation,China,Primary,9.728,12843,9082,7759,8289
+Temirötkel,Australia,,Significant,9.507,12551,8877,7582,8099
+Temirötkel,Indonesia,,Significant,9.477,12509,8846,7558,8073
+Temirötkel,United Kingdom,UK,Significant,8.907,11765,8320,7108,7593
+Temirötkel,Germany,,Significant,7.926,10463,7399,6321,6751
+Temirötkel,Korea,South Korea,Significant,5.752,7593,5370,4588,4901
+Temirötkel,France,Luxembourg,Significant,5.739,7583,5362,4581,4893
+Temirötkel,Serbia,Kosovo,Notable,3.225,4262,3014,2575,2750
+Temirötkel,Netherlands,,Notable,3.079,4061,2872,2453,2620
+Temirötkel,Slovenia,,Notable,3.059,4041,2858,2441,2607
+Temirötkel,Croatia,,Notable,3.049,4021,2843,2428,2594
+Temirötkel,Austro-Bavaria,Germany + Austria,Significant,3.017,3983,2817,2406,2570
+Temirötkel,Lithuania,,Notable,2.755,3639,2573,2198,2348
+Temirötkel,Norway,,Notable,2.745,3626,2563,2191,2340
+Temirötkel,Belarus,,Notable,2.735,3614,2555,2184,2332
+Temirötkel,Latvia,,Notable,2.706,3571,2526,2158,2306
+Temirötkel,Japan,,Significant,2.657,3504,2478,2117,2262
+Temirötkel,Romania,,Notable,2.472,3261,2305,1970,2104
+Temirötkel,Hungary,Romania,Notable,1.793,2367,1675,1429,1527
+Temirötkel,Czechia,Czech Republic,Notable,1.530,2014,1423,1217,1299
+Temirötkel,South Africa,,Notable,1.510,1988,1406,1201,1284
+Temirötkel,Bulgaria,,Notable,1.216,1607,1136,970,1037
+Temirötkel,Poland,,Notable,1.206,1586,1121,958,1023
+Temirötkel,Estonia,,Notable,1.098,1455,1028,878,939
+Temirötkel,Ukraine,,Notable,1.009,1330,940,803,859
+Temirötkel,Slovakia,,Notable,0.618,809,573,489,523
+Temirötkel,Russia (core state),Ukraine,Notable,0.511,673,476,407,434
+Temirötkel,East Turkestan,China,Notable (China piece),0.318,420,297,254,271
+Temirötkel,Northern Ireland,UK,Significant,0.218,287,203,174,186
+Temirötkel,West Papua,Indonesia,Significant,0.172,228,161,138,147
+Temirötkel,Aceh,Indonesia,Significant,0.167,220,156,134,143
+Temirötkel,Jeju-do (neutral zone),South Korea,Significant,0.065,86,61,52,56
+Temirötkel,Tibet,China,Notable (China piece),0.045,60,42,35,38
+Ariun Nuur,Japan,,Primary,16.207,44002,22981,,
+Ariun Nuur,Indonesia,,Significant,12.568,34106,17813,,
+Ariun Nuur,CSA,USA,Significant (successor),8.866,24062,12567,,
+Ariun Nuur,Australia,,Significant,6.233,16925,8839,,
+Ariun Nuur,Korea,South Korea + North Korea,Significant,6.178,16766,8756,,
+Ariun Nuur,Cascadia,USA + Canada,Significant (successor),5.988,16251,8488,,
+Ariun Nuur,Appalachia,USA,Significant (successor),5.691,15446,8066,,
+Ariun Nuur,Demilitarized Zone (s. Ontario; not a nation),Canada,Significant,4.965,13475,7038,,
+Ariun Nuur,New England,USA,Significant (successor),4.654,12631,6597,,
+Ariun Nuur,Mongolia,Mongolia,Founder,4.286,11633,6075,,
+Ariun Nuur,Chile,,Notable,4.128,11200,5849,,
+Ariun Nuur,Quebec,Canada,Significant,3.796,10304,5381,,
+Ariun Nuur,Künnarantaiga,,Founder,3.732,10129,5290,,
+Ariun Nuur,Taiwan,Taiwan,New (time-zone window),2.905,7886,4118,,
+Ariun Nuur,Prairie Federation,Canada,Significant,2.793,7581,3959,,
+Ariun Nuur,Midwest Republic,USA,Significant (successor),1.770,4803,2509,,
+Ariun Nuur,New Zealand,,Notable,1.653,4483,2340,,
+Ariun Nuur,Colorado,USA,Significant (successor),1.331,3613,1886,,
+Ariun Nuur,Sonora,USA,Significant (successor),0.782,2121,1109,,
+Ariun Nuur,Araucanía-Patagonia,Chile,Notable,0.666,1805,944,,
+Ariun Nuur,West Papua,Indonesia,Significant,0.268,727,381,,
+Ariun Nuur,Aceh,Indonesia,Significant,0.259,702,368,,
+Ariun Nuur,Hawaii,USA,Significant (successor),0.115,313,162,,
+Ariun Nuur,Alaska,USA + Canada,Significant (successor),0.091,248,129,,
+Ariun Nuur,Jeju-do (neutral zone),South Korea,Significant,0.077,210,110,,
+Casey,Korea,South Korea + North Korea,Significant,12.000,92867,89534,73559,53418
+Casey,France,,Significant,11.271,87243,84111,69103,50182
+Casey,Australia,,Significant,10.385,80323,77438,63622,46199
+Casey,Sinian Federation,China + Hong Kong + Macau,Primary,9.493,73453,70816,58181,42249
+Casey,CSA,USA,Significant (successor),7.967,61653,59438,48834,35462
+Casey,Japan,,Significant,5.978,46256,44594,36639,26606
+Casey,Indonesia,,Significant,5.296,40988,39516,32466,23575
+Casey,Appalachia,USA,Significant (successor),4.363,33765,32552,26745,19423
+Casey,New England,USA,Significant (successor),3.569,27616,26625,21873,15884
+Casey,New Zealand,,Notable,3.215,24854,23961,19689,14295
+Casey,Philippines,,Notable,3.206,24822,23930,19662,14277
+Casey,Cascadia,USA,Significant (successor),3.179,24599,23716,19485,14149
+Casey,Vietnam,,Notable,3.072,23760,22905,18819,13666
+Casey,Taiwan,Taiwan,New (time-zone window),2.905,22477,21671,17804,12928
+Casey,Idelsk-Uralia,Russia,Significant,1.840,14230,13718,11271,8184
+Casey,Russia (core state),Russia,Significant,1.840,14230,13717,11270,8183
+Casey,Malaysia,,Notable,1.703,13147,12676,10414,7563
+Casey,Midwest Republic,USA,Significant (successor),1.357,10501,10122,8317,6039
+Casey,Manchuria,China,Notable (China piece),1.232,9536,9193,7553,5484
+Casey,Thailand,,Notable,1.051,8103,7813,6419,4661
+Casey,Colorado,USA,Significant (successor),1.020,7896,7613,6254,4542
+Casey,Siberia,Russia,Significant,0.731,5657,5453,4482,3254
+Casey,Donska-Kubania,Russia,Significant,0.701,5423,5229,4295,3120
+Casey,Sonora,USA,Significant (successor),0.599,4638,4473,3674,2666
+Casey,Künnarantaiga,Russia,Significant,0.422,3267,3151,2589,1879
+Casey,Mongolia,China,Notable (China piece),0.403,3118,3006,2468,1794
+Casey,East Turkestan,China,Notable (China piece),0.340,2633,2538,2085,1513
+Casey,Jeju-do (neutral zone),South Korea,Significant,0.131,1017,981,806,584
+Casey,Dagestan,Russia,Significant,0.130,1005,969,796,578
+Casey,West Papua,Indonesia,Significant,0.096,746,718,591,430
+Casey,Aceh,Indonesia,Significant,0.093,719,695,570,415
+Casey,Hawaii,USA,Significant (successor),0.088,681,657,539,393
+Casey,Chechnya,Russia,Significant,0.062,477,461,380,276
+Casey,Tibet,China,Notable (China piece),0.048,372,359,294,214
+Casey,Alaska,USA,Significant (successor),0.041,318,307,252,183
+Casey,Kabardino-Balkaria,Russia,Significant,0.037,285,276,226,165
+Casey,Patani,Thailand,Notable,0.031,238,229,187,136
+Casey,North Ossetia-Alania,Russia,Significant,0.028,217,210,172,125
+Casey,Finland,Russia,Significant,0.022,168,162,133,97
+Casey,Ingushetia,Russia,Significant,0.021,160,155,128,93
+Casey,Karachay-Cherkessia,Russia,Significant,0.019,149,144,118,85
+Casey,Tuva,Russia,Significant,0.014,107,103,84,61
+Davis,Japan,,Significant,10.574,64126,60876,37209,47110
+Davis,Sinian Federation,China + Hong Kong + Macau,Primary,9.859,59792,56759,34692,43923
+Davis,United Kingdom,UK,Significant,9.499,57614,54692,33428,42322
+Davis,Germany,,Significant,8.670,52581,49915,30510,38628
+Davis,Korea,South Korea + North Korea,Significant,8.385,50858,48278,29509,37358
+Davis,Indonesia,,Significant,5.573,33795,32084,19611,24829
+Davis,Australia,,Significant,5.569,33778,32064,19600,24812
+Davis,Thailand,,Notable,3.273,19850,18842,11517,14581
+Davis,Vietnam,,Notable,3.148,19094,18126,11079,14026
+Davis,Philippines,,Notable,3.110,18862,17906,10945,13856
+Davis,Malaysia,,Notable,2.995,18166,17246,10541,13345
+Davis,Taiwan,Taiwan,New (time-zone window),2.905,17619,16725,10223,12943
+Davis,Russia (core state),Russia + Ukraine,Significant,2.822,17112,16244,9929,12572
+Davis,South Africa,,Notable,2.794,16947,16087,9833,12450
+Davis,Romania,,Notable,2.550,15465,14680,8973,11359
+Davis,Ukraine,,Notable,2.230,13525,12838,7848,9935
+Davis,New Zealand,,Notable,1.713,10388,9861,6028,7632
+Davis,Idelsk-Uralia,Russia,Significant,1.693,10265,9746,5955,7540
+Davis,Belarus,,Notable,1.560,9461,8981,5488,6949
+Davis,Bulgaria,,Notable,1.445,8763,8319,5085,6439
+Davis,Austro-Bavaria,Germany,Significant,1.412,8562,8128,4967,6289
+Davis,Manchuria,China,Notable (China piece),1.231,7466,7087,4332,5484
+Davis,Lithuania,,Notable,1.196,7255,6887,4210,5330
+Davis,Estonia,,Notable,1.187,7197,6833,4176,5287
+Davis,Latvia,,Notable,0.900,5456,5179,3166,4007
+Davis,Siberia,Russia,Significant,0.673,4080,3873,2368,2998
+Davis,Donska-Kubania,Russia,Significant,0.645,3912,3715,2270,2873
+Davis,Mongolia,China,Notable (China piece),0.402,2440,2318,1417,1793
+Davis,Künnarantaiga,Russia,Significant,0.389,2357,2237,1368,1732
+Davis,East Turkestan,China,Notable (China piece),0.340,2062,1957,1197,1514
+Davis,Hungary,Romania,Notable,0.292,1773,1683,1029,1304
+Davis,Northern Ireland,UK,Significant,0.230,1398,1327,811,1027
+Davis,Dagestan,Russia,Significant,0.120,724,687,420,532
+Davis,West Papua,Indonesia,Significant,0.101,610,580,355,449
+Davis,Aceh,Indonesia,Significant,0.097,591,560,344,433
+Davis,Patani,Thailand,Notable,0.096,581,551,338,425
+Davis,Jeju-do (neutral zone),South Korea,Significant,0.090,544,517,317,401
+Davis,Chechnya,Russia,Significant,0.057,346,328,200,253
+Davis,Tibet,China,Notable (China piece),0.048,291,276,168,214
+Davis,Kabardino-Balkaria,Russia,Significant,0.034,206,195,120,151
+Davis,North Ossetia-Alania,Russia,Significant,0.026,157,149,91,116
+Davis,Finland,Russia,Significant,0.020,122,116,71,89
+Davis,Ingushetia,Russia,Significant,0.019,117,111,67,85
+Davis,Karachay-Cherkessia,Russia,Significant,0.018,108,102,62,79
+Davis,Tuva,Russia,Significant,0.013,77,73,45,57
+Kunlun,Sinian Federation,,Primary,15.094,20412,,,
+Kunlun,Canada,,Significant,7.735,10460,,,
+Kunlun,Japan,,Significant,7.262,9820,,,
+Kunlun,UK,,Significant,6.972,9428,,,
+Kunlun,Intermarium/Intermaria,,Significant,6.864,9282,,,
+Kunlun,USA,,Significant,5.660,7654,,,
+Kunlun,Russia,,Significant,5.660,7654,,,
+Kunlun,Mongolia,,Significant (founding wave),5.660,7654,,,
+Kunlun,Künnarantaiga,,Significant (founding wave),5.660,7654,,,
+Kunlun,Italy,,Significant,5.659,7653,,,
+Kunlun,South Korea,,Significant,4.357,5892,,,
+Kunlun,Germany,,Significant,3.583,4845,,,
+Kunlun,France,,Significant,2.851,3855,,,
+Kunlun,New Zealand,,Notable,2.655,3590,,,
+Kunlun,Argentina,,Notable,2.622,3546,,,
+Kunlun,Sweden,,Notable,2.547,3445,,,
+Kunlun,Australia,,Notable,2.526,3415,,,
+Kunlun,Chile,,Notable,2.300,3110,,,
+Kunlun,Norway,,Notable,1.881,2543,,,
+Kunlun,Spain,,Notable,1.247,1686,,,
+Kunlun,South Africa,,Notable,1.150,1555,,,
+Kunlun,Netherlands,,Notable,0.054,73,,,
+Mirny,United Kingdom,UK,Significant,13.931,97145,94459,72009,71809
+Mirny,Korea,South Korea + North Korea,Significant,13.766,96010,93357,71168,70970
+Mirny,Indonesia,,Significant,12.205,85086,82735,63070,62894
+Mirny,Sinian Federation,China + Hong Kong + Macau,Primary,12.179,84935,82588,62959,62783
+Mirny,Japan,,Significant,7.588,52910,51449,39221,39112
+Mirny,Australia,,Significant,6.765,47183,45880,34977,34878
+Mirny,Philippines,,Notable,4.306,30050,29222,22276,22215
+Mirny,New Zealand,,Notable,4.287,29893,29067,22158,22096
+Mirny,Malaysia,,Notable,3.493,24330,23659,18034,17985
+Mirny,Thailand,,Notable,3.440,23956,23296,17760,17709
+Mirny,Taiwan,Taiwan,New (time-zone window),2.905,20258,19698,15016,14974
+Mirny,Idelsk-Uralia,Russia,Significant,2.167,15118,14700,11207,11176
+Mirny,Russia (core state),Russia,Significant,2.167,15117,14700,11207,11177
+Mirny,Vietnam,,Notable,1.675,11674,11352,8654,8631
+Mirny,Manchuria,China,Notable (China piece),1.567,10930,10627,8101,8078
+Mirny,Belarus,,Notable,1.512,10550,10257,7820,7799
+Mirny,South Africa,,Notable,1.493,10389,10102,7702,7680
+Mirny,Siberia,Russia,Significant,0.861,6009,5844,4456,4443
+Mirny,Donska-Kubania,Russia,Significant,0.826,5762,5603,4272,4260
+Mirny,Künnarantaiga,Russia,Significant,0.498,3472,3377,2573,2567
+Mirny,Mongolia,China,Notable (China piece),0.487,3395,3300,2518,2510
+Mirny,East Turkestan,China,Notable (China piece),0.433,3017,2933,2237,2231
+Mirny,Northern Ireland,UK,Significant,0.329,2295,2231,1700,1695
+Mirny,West Papua,Indonesia,Significant,0.215,1498,1457,1110,1108
+Mirny,Aceh,Indonesia,Significant,0.207,1447,1407,1072,1069
+Mirny,Dagestan,Russia,Significant,0.153,1068,1038,791,789
+Mirny,Jeju-do (neutral zone),South Korea,Significant,0.146,1020,991,755,753
+Mirny,Patani,Thailand,Notable,0.101,700,681,517,516
+Mirny,Chechnya,Russia,Significant,0.073,506,492,378,377
+Mirny,Tibet,China,Notable (China piece),0.061,427,415,316,315
+Mirny,Kabardino-Balkaria,Russia,Significant,0.043,304,295,225,224
+Mirny,North Ossetia-Alania,Russia,Significant,0.033,231,224,171,171
+Mirny,Finland,Russia,Significant,0.026,179,174,133,132
+Mirny,Ingushetia,Russia,Significant,0.025,171,167,126,126
+Mirny,Karachay-Cherkessia,Russia,Significant,0.023,158,153,117,117
+Mirny,Tuva,Russia,Significant,0.016,114,111,84,83
+Relung Panen,Japan,,Significant,13.045,64521,62264,46059,44480
+Relung Panen,Indonesia,,Significant,12.782,63214,61004,45128,43578
+Relung Panen,Korea,South Korea + North Korea,Significant,12.468,61664,59506,44018,42508
+Relung Panen,Sinian Federation,China + Hong Kong + Macau,Primary,12.026,59477,57396,42459,41002
+Relung Panen,Australia,,Significant,12.011,59406,57327,42407,40951
+Relung Panen,Thailand,,Notable,5.449,26950,26007,19239,18577
+Relung Panen,Vietnam,,Notable,5.183,25638,24739,18299,17672
+Relung Panen,Idelsk-Uralia,Russia,Significant,3.781,18700,18048,13351,12892
+Relung Panen,Russia (core state),Russia,Significant,3.781,18699,18046,13350,12891
+Relung Panen,Malaysia,,Notable,3.158,15620,15073,11149,10767
+Relung Panen,Philippines,,Notable,3.043,15051,14524,10744,10376
+Relung Panen,Taiwan,Taiwan,New (time-zone window),2.905,14367,13866,10256,9905
+Relung Panen,New Zealand,,Notable,2.842,14057,13566,10035,9689
+Relung Panen,Siberia,Russia,Significant,1.503,7434,7174,5308,5125
+Relung Panen,Donska-Kubania,Russia,Significant,1.441,7127,6877,5088,4914
+Relung Panen,Manchuria,China,Notable (China piece),1.395,6901,6659,4925,4756
+Relung Panen,Künnarantaiga,Russia,Significant,0.868,4294,4145,3066,2961
+Relung Panen,Mongolia,China,Notable (China piece),0.444,2194,2117,1568,1513
+Relung Panen,East Turkestan,China,Notable (China piece),0.385,1904,1837,1360,1313
+Relung Panen,Dagestan,Russia,Significant,0.267,1321,1275,943,911
+Relung Panen,West Papua,Indonesia,Significant,0.240,1186,1143,845,816
+Relung Panen,Aceh,Indonesia,Significant,0.231,1144,1106,816,789
+Relung Panen,Jeju-do (neutral zone),South Korea,Significant,0.141,696,673,496,480
+Relung Panen,Patani,Thailand,Notable,0.140,692,668,493,479
+Relung Panen,Chechnya,Russia,Significant,0.127,627,604,448,433
+Relung Panen,Kabardino-Balkaria,Russia,Significant,0.076,377,363,269,259
+Relung Panen,North Ossetia-Alania,Russia,Significant,0.058,285,276,204,197
+Relung Panen,Tibet,China,Notable (China piece),0.054,270,260,191,185
+Relung Panen,Finland,Russia,Significant,0.045,221,214,158,152
+Relung Panen,Ingushetia,Russia,Significant,0.043,212,204,151,147
+Relung Panen,Karachay-Cherkessia,Russia,Significant,0.039,195,188,139,136
+Relung Panen,Tuva,Russia,Significant,0.028,141,136,100,97
+Shirayuki,Japan,,Primary,34.709,192093,184290,125206,107817
+Shirayuki,Australia,,Significant,9.694,53651,51473,34973,30115
+Shirayuki,Korea,South Korea + North Korea,Significant,9.034,49996,47965,32588,28061
+Shirayuki,Sinian Federation,China + Hong Kong + Macau,Significant,4.556,25215,24191,16436,14152
+Shirayuki,Germany,,Significant,3.957,21901,21011,14282,12298
+Shirayuki,Russia (core state),Russia + Ukraine,Significant,3.584,19835,19029,12925,11131
+Shirayuki,Romania,,Notable,3.039,16819,16137,10953,9433
+Shirayuki,Vietnam,,Notable,3.024,16736,16057,10901,9387
+Shirayuki,Taiwan,Taiwan,New (time-zone window),2.905,16078,15424,10479,9023
+Shirayuki,Belarus,,Notable,2.871,15888,15244,10372,8932
+Shirayuki,New Zealand,,Notable,2.842,15730,15091,10249,8825
+Shirayuki,Thailand,,Notable,2.780,15385,14760,10022,8629
+Shirayuki,Idelsk-Uralia,Russia,Significant,2.584,14301,13720,9322,8027
+Shirayuki,Ukraine,,Notable,1.976,10935,10490,7117,6129
+Shirayuki,Lithuania,,Notable,1.684,9321,8943,6066,5224
+Shirayuki,South Africa,,Notable,1.589,8793,8434,5715,4922
+Shirayuki,Bulgaria,,Notable,1.531,8474,8131,5538,4768
+Shirayuki,Latvia,,Notable,1.292,7149,6860,4653,4006
+Shirayuki,Estonia,,Notable,1.167,6462,6200,4229,3640
+Shirayuki,Siberia,Russia,Significant,1.027,5684,5454,3705,3191
+Shirayuki,Donska-Kubania,Russia,Significant,0.985,5450,5229,3552,3060
+Shirayuki,Austro-Bavaria,Germany,Significant,0.761,4210,4038,2745,2364
+Shirayuki,Künnarantaiga,Russia,Significant,0.593,3284,3151,2140,1842
+Shirayuki,Manchuria,China,Notable (China piece),0.464,2569,2466,1674,1442
+Shirayuki,Hungary,Romania,Notable,0.349,1929,1850,1256,1082
+Shirayuki,Mongolia,China,Notable (China piece),0.210,1161,1112,757,653
+Shirayuki,Dagestan,Russia,Significant,0.182,1010,969,658,566
+Shirayuki,East Turkestan,China,Notable (China piece),0.128,708,680,462,399
+Shirayuki,Jeju-do (neutral zone),South Korea,Significant,0.099,547,525,359,309
+Shirayuki,Chechnya,Russia,Significant,0.087,481,461,314,270
+Shirayuki,Patani,Thailand,Notable,0.081,450,432,293,253
+Shirayuki,Kabardino-Balkaria,Russia,Significant,0.052,287,276,186,161
+Shirayuki,North Ossetia-Alania,Russia,Significant,0.039,218,210,143,122
+Shirayuki,Finland,Russia,Significant,0.031,169,162,111,95
+Shirayuki,Ingushetia,Russia,Significant,0.029,161,154,106,91
+Shirayuki,Karachay-Cherkessia,Russia,Significant,0.027,150,143,97,85
+Shirayuki,Tuva,Russia,Significant,0.019,108,103,70,60
+Shirayuki,Tibet,China,Notable (China piece),0.018,100,96,65,56
+Sinheung,Korea,South Korea + North Korea,Primary,33.056,167568,158474,136562,132940
+Sinheung,Japan,,Significant,9.421,47755,45163,38920,37889
+Sinheung,Germany,,Significant,8.775,44485,42070,36254,35292
+Sinheung,Sinian Federation,China + Hong Kong + Macau,Significant,5.464,27699,26194,22574,21976
+Sinheung,Indonesia,,Significant,4.050,20532,19419,16732,16290
+Sinheung,Australia,,Significant,3.416,17318,16379,14115,13738
+Sinheung,Thailand,,Notable,3.394,17204,16270,14022,13650
+Sinheung,Estonia,,Notable,3.368,17075,16149,13916,13547
+Sinheung,Hungary,,Notable,3.282,16639,15735,13560,13200
+Sinheung,Lithuania,,Notable,2.976,15086,14268,12296,11969
+Sinheung,Taiwan,Taiwan,New (time-zone window),2.905,14726,13928,12002,11684
+Sinheung,Malaysia,,Notable,2.804,14215,13442,11583,11276
+Sinheung,Idelsk-Uralia,Russia,Significant,2.056,10421,9855,8494,8267
+Sinheung,Russia (core state),Russia,Significant,2.056,10420,9855,8493,8267
+Sinheung,Vietnam,,Notable,1.866,9460,8946,7710,7505
+Sinheung,Philippines,,Notable,1.694,8586,8121,6998,6811
+Sinheung,Bulgaria,,Notable,1.388,7034,6651,5732,5581
+Sinheung,Austro-Bavaria,Germany,Significant,1.333,6757,6391,5507,5361
+Sinheung,Latvia,,Notable,1.292,6547,6194,5339,5195
+Sinheung,South Africa,,Notable,1.177,5966,5643,4861,4733
+Sinheung,Siberia,Russia,Significant,0.817,4143,3918,3377,3287
+Sinheung,Donska-Kubania,Russia,Significant,0.783,3971,3755,3236,3151
+Sinheung,Manchuria,China,Notable (China piece),0.630,3192,3019,2602,2534
+Sinheung,Künnarantaiga,Russia,Significant,0.472,2393,2264,1950,1898
+Sinheung,Jeju-do (neutral zone),South Korea,Significant (successor),0.435,2204,2084,1795,1749
+Sinheung,Mongolia,China,Notable (China piece),0.251,1273,1205,1037,1010
+Sinheung,East Turkestan,China,Notable (China piece),0.174,881,833,716,699
+Sinheung,Dagestan,Russia,Significant,0.145,735,694,600,583
+Sinheung,Patani,Thailand,Notable,0.099,502,475,410,399
+Sinheung,West Papua,Indonesia,Significant,0.086,437,414,358,349
+Sinheung,Aceh,Indonesia,Significant,0.083,423,400,346,337
+Sinheung,Chechnya,Russia,Significant,0.069,350,331,285,278
+Sinheung,Kabardino-Balkaria,Russia,Significant,0.041,210,198,170,166
+Sinheung,North Ossetia-Alania,Russia,Significant,0.031,158,150,130,126
+Sinheung,Tibet,China,Notable (China piece),0.025,125,117,102,99
+Sinheung,Finland,Russia,Significant,0.024,124,117,101,98
+Sinheung,Ingushetia,Russia,Significant,0.023,119,113,96,94
+Sinheung,Karachay-Cherkessia,Russia,Significant,0.021,110,103,89,86
+Sinheung,Tuva,Russia,Significant,0.015,78,74,63,62
+Zhongshan,Sinian Federation,,Primary,35.830,213003,208145,155725,171355
+Zhongshan,Korea,South Korea,Significant,9.573,56907,55611,41605,45780
+Zhongshan,Japan,,Significant,7.300,43397,42408,31727,34912
+Zhongshan,Germany,,Significant,7.104,42235,41271,30877,33977
+Zhongshan,Australia,,Significant,3.660,21758,21262,15907,17504
+Zhongshan,Vietnam,,Notable,3.560,21163,20681,15472,17025
+Zhongshan,Estonia,,Notable,3.550,21104,20622,15429,16978
+Zhongshan,Lithuania,,Notable,3.140,18667,18241,13647,15017
+Zhongshan,Thailand,,Notable,3.090,18368,17948,13428,14776
+Zhongshan,Malaysia,,Notable,3.040,18072,17660,13212,14538
+Zhongshan,Indonesia,,Notable,2.860,17003,16615,12431,13678
+Zhongshan,Romania,,Notable,2.584,15359,15009,11229,12356
+Zhongshan,Idelsk-Uralia,Russia,Significant,1.794,10664,10421,7797,8579
+Zhongshan,Russia (core state),Russia,Significant,1.794,10663,10420,7796,8579
+Zhongshan,Philippines,,Notable,1.720,10225,9992,7475,8226
+Zhongshan,Latvia,,Notable,1.580,9393,9178,6867,7556
+Zhongshan,Austro-Bavaria,Germany,Significant,1.366,8118,7933,5935,6531
+Zhongshan,New Zealand,,Notable,1.280,7609,7435,5563,6121
+Zhongshan,Bulgaria,,Notable,1.210,7193,7029,5259,5787
+Zhongshan,South Africa,,Notable,1.200,7133,6972,5216,5738
+Zhongshan,Siberia,Russia,Significant,0.713,4239,4142,3099,3410
+Zhongshan,Donska-Kubania,Russia,Significant,0.684,4064,3972,2971,3270
+Zhongshan,Künnarantaiga,Russia,Significant,0.412,2449,2393,1790,1970
+Zhongshan,Hungary,Romania,Notable,0.296,1762,1722,1288,1417
+Zhongshan,Jeju-do (neutral zone),South Korea,Significant,0.127,757,740,553,609
+Zhongshan,Dagestan,Russia,Significant,0.127,753,736,551,606
+Zhongshan,Patani,Thailand,Notable,0.090,537,525,393,432
+Zhongshan,West Papua,Indonesia,Notable,0.061,363,355,265,292
+Zhongshan,Chechnya,Russia,Significant,0.060,358,349,262,288
+Zhongshan,Aceh,Indonesia,Notable,0.059,350,342,256,282
+Zhongshan,Kabardino-Balkaria,Russia,Significant,0.036,214,209,157,172
+Zhongshan,North Ossetia-Alania,Russia,Significant,0.027,163,159,119,131
+Zhongshan,Finland,Russia,Significant,0.021,126,123,92,101
+Zhongshan,Ingushetia,Russia,Significant,0.020,121,118,88,97
+Zhongshan,Karachay-Cherkessia,Russia,Significant,0.019,111,109,81,89
+Zhongshan,Tuva,Russia,Significant,0.013,80,78,58,64
+Contrapunto,France,,Significant,11.614,38112,36781,32494,27212
+Contrapunto,United Kingdom,UK,Significant,10.980,36028,34776,30721,25724
+Contrapunto,México,Mexico,Significant,9.100,29864,28826,25460,21319
+Contrapunto,Germany,,Significant,8.987,29500,28467,25146,21056
+Contrapunto,CSA,USA,Significant (successor),7.000,22969,22170,19584,16399
+Contrapunto,Brazil,,Significant,6.022,19761,19073,16852,14113
+Contrapunto,Korea,South Korea,Significant,5.711,18742,18086,15978,13381
+Contrapunto,Appalachia,USA,Significant (successor),4.493,14743,14230,12571,10526
+Contrapunto,Argentina (without Patagonia),Argentina,Notable,4.016,13179,12719,11236,9409
+Contrapunto,Cascadia,USA + Mexico,Significant (successor),3.682,12081,11661,10302,8626
+Contrapunto,New England,USA,Significant (successor),3.675,12058,11638,10282,8609
+Contrapunto,Magna Lombardia,Italy,Significant,3.489,11448,11049,9761,8174
+Contrapunto,Chile,,Notable,3.038,9969,9623,8502,7120
+Contrapunto,Meridia,Italy,Significant,2.142,7029,6782,5992,5018
+Contrapunto,Idelsk-Uralia,Russia,Significant,1.918,6294,6074,5366,4494
+Contrapunto,Russia (core state),Russia,Significant,1.918,6294,6073,5365,4493
+Contrapunto,Austro-Bavaria,Germany,Significant,1.727,5670,5471,4834,4047
+Contrapunto,Midwest Republic,USA,Significant (successor),1.397,4585,4425,3909,3273
+Contrapunto,Yucatán,Mexico + Petén,Significant,1.217,3992,3854,3403,2851
+Contrapunto,Sonora,USA + Mexico,Significant (successor),1.216,3988,3850,3401,2848
+Contrapunto,Colorado,USA,Significant (successor),1.051,3447,3328,2940,2462
+Contrapunto,Uruguay,,Notable,0.910,2985,2881,2545,2131
+Contrapunto,Siberia,Russia,Significant,0.763,2502,2414,2133,1786
+Contrapunto,Araucanía-Patagonia,Argentina + Chile,Notable,0.732,2401,2317,2048,1715
+Contrapunto,Donska-Kubania,Russia,Significant,0.731,2399,2315,2045,1712
+Contrapunto,Amazonia,Brazil,Significant,0.664,2180,2104,1859,1557
+Contrapunto,Sicilia (autonomous zone within Meridia),Italy,Significant,0.496,1629,1572,1389,1163
+Contrapunto,Künnarantaiga,Russia,Significant,0.440,1445,1394,1232,1031
+Contrapunto,Northern Ireland,UK,Significant,0.314,1031,996,880,737
+Contrapunto,Dagestan,Russia,Significant,0.135,445,429,379,317
+Contrapunto,Hawaii,USA,Significant (successor),0.091,298,287,254,213
+Contrapunto,Jeju-do (neutral zone),South Korea,Significant,0.076,249,241,213,178
+Contrapunto,Chechnya,Russia,Significant,0.064,211,204,180,151
+Contrapunto,Alaska,USA,Significant (successor),0.042,139,134,118,99
+Contrapunto,Kabardino-Balkaria,Russia,Significant,0.038,126,122,108,90
+Contrapunto,North Ossetia-Alania,Russia,Significant,0.029,96,93,82,69
+Contrapunto,Finland,Russia,Significant,0.023,74,72,63,53
+Contrapunto,Ingushetia,Russia,Significant,0.022,71,69,61,51
+Contrapunto,Karachay-Cherkessia,Russia,Significant,0.020,66,63,56,47
+Contrapunto,Tuva,Russia,Significant,0.014,47,45,40,34
+Esperanza,Brazil,,Significant,17.032,159238,164816,116375,87011
+Esperanza,México,Mexico,Significant,14.077,131552,136162,96142,71884
+Esperanza,CSA,USA,Significant (successor),11.756,109900,113750,80318,60052
+Esperanza,United Kingdom,UK,Significant,9.552,89253,92379,65227,48770
+Esperanza,Argentina (without Patagonia),Argentina,Significant,7.872,73566,76144,53764,40199
+Esperanza,Appalachia,USA,Significant (successor),7.546,70540,73011,51553,38545
+Esperanza,Uruguay,,Notable,6.597,61652,63812,45057,33689
+Esperanza,New England,USA,Significant (successor),6.172,57694,59716,42165,31526
+Esperanza,Cascadia,USA + Mexico,Significant (successor),6.129,57298,59305,41875,31310
+Esperanza,Midwest Republic,USA,Significant (successor),2.347,21936,22705,16032,11987
+Esperanza,Chile,,Notable,2.143,20049,20752,14652,10956
+Esperanza,Sonora,USA + Mexico,Significant (successor),1.962,18340,18982,13403,10021
+Esperanza,Amazonia,Brazil,Significant,1.879,17566,18182,12839,9599
+Esperanza,Yucatán,Mexico + Petén,Significant,1.855,17339,17946,12671,9474
+Esperanza,Colorado,USA,Significant (successor),1.765,16497,17076,12056,9015
+Esperanza,Araucanía-Patagonia,Argentina + Chile,Significant,0.820,7664,7932,5601,4187
+Esperanza,Northern Ireland,UK,Significant,0.274,2556,2646,1868,1396
+Esperanza,Hawaii,USA,Significant (successor),0.152,1424,1474,1041,779
+Esperanza,Alaska,USA,Significant (successor),0.071,664,687,485,362
+Marambio,United Kingdom,UK,Significant,13.098,37561,37117,30711,25617
+Marambio,México,Mexico,Significant,11.375,32630,32245,26679,22254
+Marambio,Spain,,Significant,10.985,31500,31128,25756,21484
+Marambio,CSA,USA,Significant (successor),8.921,25584,25282,20918,17448
+Marambio,Brazil,,Significant,5.851,16793,16595,13730,11453
+Marambio,Appalachia,USA,Significant (successor),5.726,16421,16227,13426,11200
+Marambio,Cascadia,USA + Mexico + Canada,Significant (successor),5.670,16264,16071,13298,11093
+Marambio,Germany,,Significant,5.525,15842,15654,12953,10804
+Marambio,Uruguay,,Notable,4.738,13580,13420,11104,9262
+Marambio,New England,USA,Significant (successor),4.683,13430,13272,10982,9160
+Marambio,Chile,,Notable,4.192,12014,11872,9822,8193
+Marambio,Demilitarized Zone (s. Ontario; not a nation),Canada,Significant,2.663,7642,7552,6249,5212
+Marambio,Catalonia,Spain,Significant,2.352,6746,6666,5515,4601
+Marambio,Quebec,Canada,Significant,2.036,5844,5775,4778,3985
+Marambio,Midwest Republic,USA,Significant (successor),1.781,5107,5047,4175,3483
+Marambio,Sonora,USA + Mexico,Significant (successor),1.534,4401,4349,3599,3001
+Marambio,Yucatán,Mexico + Petén,Significant,1.508,4327,4276,3538,2951
+Marambio,Prairie Federation,Canada,Significant,1.498,4299,4248,3515,2932
+Marambio,Colorado,USA,Significant (successor),1.339,3840,3795,3140,2620
+Marambio,Austro-Bavaria,Germany,Significant,1.062,3045,3010,2490,2077
+Marambio,Basque Country,Spain,Significant,0.845,2424,2396,1982,1653
+Marambio,Araucanía-Patagonia,Chile + Argentina,Notable,0.718,2058,2033,1683,1403
+Marambio,Argentina (without Patagonia),Argentina,Notable,0.698,2005,1982,1639,1368
+Marambio,Amazonia,Brazil,Significant,0.646,1853,1831,1515,1263
+Marambio,Northern Ireland,UK,Significant,0.375,1075,1062,880,734
+Marambio,Hawaii,USA,Significant (successor),0.116,332,328,271,226
+Marambio,Alaska,USA + Canada,Significant (successor),0.074,212,211,174,145
+Palmer City,France,Belgium,Significant,10.090,16836,16738,16338,19487
+Palmer City,Brazil,,Significant,8.780,14650,14564,14425,17207
+Palmer City,Germany,,Significant,8.034,13404,13325,13198,15743
+Palmer City,CSA,USA,Significant (successor),6.610,11033,10968,10865,12959
+Palmer City,United Kingdom,UK,Significant,5.424,9056,9001,8915,10634
+Palmer City,México,Mexico,Significant,4.641,7748,7701,7628,9101
+Palmer City,Appalachia,USA,Significant (successor),4.211,7028,6987,6936,8274
+Palmer City,Cascadia,USA + Mexico + Canada,Significant (successor),4.053,6766,6725,6677,7963
+Palmer City,Uruguay,,Notable,3.698,6174,6138,6093,7268
+Palmer City,New England,USA,Significant (successor),3.444,5748,5714,5673,6767
+Palmer City,Argentina (without Patagonia),Argentina,Notable,2.875,4800,4771,4738,5650
+Palmer City,Demilitarized Zone (s. Ontario; not a nation),Canada,Significant,2.098,3501,3481,3456,4122
+Palmer City,Quebec,Canada,Significant,1.604,2678,2662,2643,3152
+Palmer City,Austro-Bavaria,Germany,Significant,1.532,2557,2542,2524,3009
+Palmer City,Netherlands,Belgium,Notable,1.421,2373,2358,1630,1945
+Palmer City,Estonia,,Notable,1.389,2325,2311,1598,1906
+Palmer City,Czechia,Czech Republic,Notable,1.349,2259,2246,1552,1851
+Palmer City,Australia,,Notable,1.329,2220,2206,1525,1819
+Palmer City,Midwest Republic,USA,Significant (successor),1.309,2186,2173,2157,2573
+Palmer City,Slovakia,,Notable,1.289,2154,2141,1479,1765
+Palmer City,Thailand,,Notable,1.224,2040,2029,1402,1672
+Palmer City,Prairie Federation,Canada,Significant,1.180,1970,1958,1944,2319
+Palmer City,Serbia,,Notable,1.159,1942,1930,1334,1592
+Palmer City,Korea,South Korea,Notable,1.075,1799,1788,1237,1474
+Palmer City,Norway,,Notable,1.010,1678,1668,1153,1375
+Palmer City,Colorado,USA,Significant (successor),0.985,1643,1634,1622,1935
+Palmer City,Croatia,,Notable,0.970,1612,1602,1107,1321
+Palmer City,Amazonia,Brazil,Significant,0.961,1604,1594,1583,1888
+Palmer City,South Africa,,Notable,0.960,1598,1589,1098,1310
+Palmer City,Sonora,USA + Mexico,Significant (successor),0.881,1471,1462,1451,1731
+Palmer City,Slovenia,,Notable,0.860,1440,1431,989,1180
+Palmer City,Philippines,,Notable,0.820,1360,1352,935,1115
+Palmer City,Romania,,Notable,0.771,1280,1272,879,1049
+Palmer City,Chile,,Notable,0.740,1231,1224,1215,1450
+Palmer City,Japan,,Notable,0.730,1215,1208,836,996
+Palmer City,Poland,,Notable,0.700,1175,1168,808,963
+Palmer City,New Zealand,,Notable,0.670,1123,1116,772,921
+Palmer City,Yucatán,Mexico + Petén,Significant,0.640,1067,1062,1048,1249
+Palmer City,Bulgaria,,Notable,0.620,1030,1024,708,845
+Palmer City,Magna Lombardia,Italy,Notable,0.603,1007,1002,693,827
+Palmer City,Sinian Federation,China,Notable,0.580,969,963,666,794
+Palmer City,Vietnam,,Notable,0.580,964,958,663,791
+Palmer City,Russia (core state),Russia + Ukraine,Notable,0.494,826,820,567,677
+Palmer City,Latvia,,Notable,0.480,806,802,554,661
+Palmer City,Sweden,,Notable,0.460,767,762,527,628
+Palmer City,Belarus,,Notable,0.440,727,723,500,596
+Palmer City,Spain,,Notable,0.410,686,682,471,562
+Palmer City,Idelsk-Uralia,Russia,Notable,0.376,630,626,433,517
+Palmer City,Meridia,Italy,Notable,0.370,619,615,425,507
+Palmer City,Indonesia,,Notable,0.365,608,606,418,499
+Palmer City,Finland,Russia,Notable,0.324,549,546,377,450
+Palmer City,Hungary,Romania,Notable,0.318,530,527,364,434
+Palmer City,Araucanía-Patagonia,Argentina + Chile,Notable,0.293,488,485,481,574
+Palmer City,Lithuania,,Notable,0.280,463,460,318,379
+Palmer City,Malaysia,,Notable,0.250,410,407,282,336
+Palmer City,Ukraine,,Notable,0.232,386,384,266,317
+Palmer City,Northern Ireland,UK,Significant,0.154,257,256,254,303
+Palmer City,Siberia,Russia,Notable,0.150,250,249,172,205
+Palmer City,Donska-Kubania,Russia,Notable,0.143,240,239,165,197
+Palmer City,Catalonia,Spain,Notable,0.088,147,146,101,121
+Palmer City,Künnarantaiga,Russia,Notable,0.086,145,144,99,119
+Palmer City,Sicilia (autonomous zone within Meridia),Italy,Notable,0.086,144,143,99,118
+Palmer City,Hawaii,USA,Significant (successor),0.085,142,141,140,167
+Palmer City,Alaska,USA + Canada,Significant (successor),0.056,93,93,91,110
+Palmer City,Patani,Thailand,Notable,0.036,60,59,41,49
+Palmer City,Basque Country,Spain,Notable,0.032,53,52,36,43
+Palmer City,Dagestan,Russia,Notable,0.027,44,44,31,36
+Palmer City,Jeju-do (neutral zone),South Korea,Notable,0.014,24,24,16,20
+Palmer City,Chechnya,Russia,Notable,0.013,21,21,15,17
+Palmer City,West Papua,Indonesia,Notable,0.008,13,13,9,11
+Palmer City,Kabardino-Balkaria,Russia,Notable,0.008,13,13,9,10
+Palmer City,Aceh,Indonesia,Notable,0.008,13,12,9,10
+Palmer City,North Ossetia-Alania,Russia,Notable,0.006,10,10,7,8
+Palmer City,Ingushetia,Russia,Notable,0.004,7,7,5,6
+Palmer City,Karachay-Cherkessia,Russia,Notable,0.004,7,6,4,5
+Palmer City,Tuva,Russia,Notable,0.003,5,5,3,4
+Pergamino,United Kingdom,UK,Significant,13.332,26248,25288,16987,15847
+Pergamino,Spain,,Significant,10.885,21438,20655,13875,12944
+Pergamino,CSA,USA,Significant (successor),9.580,18868,18177,12211,11391
+Pergamino,France,,Significant,8.506,16746,16133,10838,10110
+Pergamino,Magna Lombardia,Italy,Significant,8.105,15965,15381,10332,9639
+Pergamino,Appalachia,USA,Significant (successor),6.149,12111,11667,7838,7312
+Pergamino,New England,USA,Significant (successor),5.029,9905,9542,6410,5980
+Pergamino,Meridia,Italy,Significant,4.975,9800,9442,6343,5917
+Pergamino,Argentina (without Patagonia),Argentina,Notable,4.751,9350,9008,6051,5645
+Pergamino,Cascadia,USA + Mexico,Significant (successor),4.576,9012,8682,5833,5440
+Pergamino,Germany,,Significant,4.217,8305,8001,5374,5015
+Pergamino,Chile,,Notable,4.097,8065,7769,5219,4869
+Pergamino,Catalonia,Spain,Significant,2.331,4591,4423,2972,2772
+Pergamino,México,Mexico,Notable,2.138,4210,4056,2725,2542
+Pergamino,Brazil,,Notable,2.133,4204,4050,2722,2539
+Pergamino,Midwest Republic,USA,Significant (successor),1.912,3766,3628,2438,2274
+Pergamino,Colorado,USA,Significant (successor),1.438,2833,2729,1833,1710
+Pergamino,Sicilia (autonomous zone within Meridia),Italy,Significant,1.153,2272,2188,1470,1371
+Pergamino,Sonora,USA + Mexico,Significant (successor),0.985,1940,1870,1255,1171
+Pergamino,Araucanía-Patagonia,Argentina + Chile,Notable,0.947,1863,1796,1206,1125
+Pergamino,Basque Country,Spain,Significant,0.838,1650,1589,1067,997
+Pergamino,Austro-Bavaria,Germany,Significant,0.811,1596,1538,1034,964
+Pergamino,Northern Ireland,UK,Significant,0.382,752,724,487,454
+Pergamino,Yucatán,Mexico + Petén,Notable,0.323,637,613,412,385
+Pergamino,Amazonia,Brazil,Notable,0.235,464,447,300,280
+Pergamino,Hawaii,USA,Significant (successor),0.124,245,236,158,148
+Pergamino,Alaska,USA,Significant (successor),0.058,114,110,74,69
+Puerto Abrigo,France,,Significant,16.702,79,77,51,65
+Puerto Abrigo,United Kingdom,UK,Significant,13.944,66,64,43,54
+Puerto Abrigo,Germany,,Significant,12.433,59,57,38,48
+Puerto Abrigo,CSA,USA,Significant (successor),10.346,49,47,31,40
+Puerto Abrigo,Brazil,,Significant,8.687,41,40,26,33
+Puerto Abrigo,Appalachia,USA,Significant (successor),6.641,31,30,20,26
+Puerto Abrigo,New England,USA,Significant (successor),5.432,26,25,17,21
+Puerto Abrigo,Cascadia,USA + Mexico,Significant (successor),5.000,24,23,16,19
+Puerto Abrigo,Chile,,Notable,4.941,23,22,15,19
+Puerto Abrigo,México,Mexico,Significant,3.598,17,16,11,14
+Puerto Abrigo,Austro-Bavaria,Germany,Significant,2.390,11,11,7,9
+Puerto Abrigo,Argentina (without Patagonia),Argentina,Notable,2.131,10,9,7,8
+Puerto Abrigo,Midwest Republic,USA,Significant (successor),2.065,10,10,6,8
+Puerto Abrigo,Colorado,USA,Significant (successor),1.553,7,7,5,6
+Puerto Abrigo,Sonora,USA + Mexico,Significant (successor),1.149,5,5,4,5
+Puerto Abrigo,Amazonia,Brazil,Significant,0.958,4,4,3,4
+Puerto Abrigo,Araucanía-Patagonia,Chile + Argentina,Notable,0.925,5,5,2,4
+Puerto Abrigo,Yucatán,Mexico + Petén,Significant,0.510,2,2,1,2
+Puerto Abrigo,Northern Ireland,UK,Significant,0.399,2,2,1,2
+Puerto Abrigo,Hawaii,USA,Significant (successor),0.134,1,1,0,0
+Puerto Abrigo,Alaska,USA,Significant (successor),0.062,0,0,0,0
+Rothera,Brazil,,Significant,12.603,20629,19377,16897,15348
+Rothera,Germany,,Significant,11.997,19635,18444,16082,14609
+Rothera,CSA,USA,Significant (successor),9.237,15122,14204,12386,11250
+Rothera,France,,Significant,7.426,12154,11417,9955,9043
+Rothera,United Kingdom,UK,Significant,6.918,11325,10638,9276,8426
+Rothera,Cascadia,USA + Canada + Mexico,Significant (successor),6.538,10701,10051,8766,7962
+Rothera,Appalachia,USA,Significant (successor),5.929,9706,9118,7950,7220
+Rothera,México,Mexico,Significant,5.752,9416,8845,7712,7006
+Rothera,Demilitarized Zone (s. Ontario; not a nation),Canada,Significant,5.282,8646,8121,7082,6432
+Rothera,New England,USA,Significant (successor),4.849,7938,7456,6502,5906
+Rothera,Chile,,Notable,4.502,7370,6924,6037,5483
+Rothera,Quebec,Canada,Significant,4.039,6611,6210,5414,4919
+Rothera,Prairie Federation,Canada,Significant,2.971,4864,4569,3983,3618
+Rothera,Austro-Bavaria,Germany,Significant,2.306,3774,3545,3091,2808
+Rothera,Midwest Republic,USA,Significant (successor),1.844,3019,2836,2472,2246
+Rothera,Argentina (without Patagonia),Argentina,Notable,1.801,2950,2771,2416,2195
+Rothera,Amazonia,Brazil,Significant,1.390,2276,2138,1864,1693
+Rothera,Colorado,USA,Significant (successor),1.387,2270,2132,1859,1689
+Rothera,Sonora,USA + Mexico,Significant (successor),1.193,1952,1834,1599,1452
+Rothera,Araucanía-Patagonia,Chile + Argentina,Notable,0.834,1366,1283,1119,1016
+Rothera,Yucatán,Mexico + Petén,Significant,0.787,1288,1210,1055,958
+Rothera,Northern Ireland,UK,Significant,0.198,324,305,266,241
+Rothera,Hawaii,USA,Significant (successor),0.120,196,184,161,146
+Rothera,Alaska,USA + Canada,Significant (successor),0.096,157,148,129,117
+Signy,France,Luxembourg,Significant,17.332,16567,16145,13838,9349
+Signy,United Kingdom,UK,Significant,16.460,15729,15329,13138,8876
+Signy,CSA,USA,Significant (successor),10.763,10286,10026,8593,5805
+Signy,Brazil,,Significant,7.229,6908,6732,5770,3898
+Signy,Appalachia,USA,Significant (successor),6.908,6603,6435,5516,3726
+Signy,Germany,,Significant,6.540,6245,6088,5217,3525
+Signy,Argentina (without Patagonia),Argentina,Notable,5.725,5467,5328,4566,3085
+Signy,New England,USA,Significant (successor),5.650,5400,5263,4511,3048
+Signy,South Africa,,Notable,5.461,5214,5081,4356,2942
+Signy,Cascadia,USA,Significant (successor),5.033,4810,4688,4018,2714
+Signy,Chile,,Notable,2.467,2356,2296,1968,1330
+Signy,Uruguay,,Notable,2.256,2154,2099,1799,1216
+Signy,Midwest Republic,USA,Significant (successor),2.148,2053,2002,1715,1159
+Signy,Colorado,USA,Significant (successor),1.616,1544,1504,1290,871
+Signy,Austro-Bavaria,Germany,Significant,1.257,1201,1170,1003,678
+Signy,Sonora,USA,Significant (successor),0.949,907,883,758,512
+Signy,Amazonia,Brazil,Significant,0.797,762,743,637,430
+Signy,Araucanía-Patagonia,Argentina + Chile,Notable,0.743,710,691,593,400
+Signy,Northern Ireland,UK,Significant,0.471,450,439,376,254
+Signy,Hawaii,USA,Significant (successor),0.139,133,130,111,75
+Signy,Alaska,USA,Significant (successor),0.065,62,61,52,35

@@ -32,7 +32,7 @@ Shirayuki's genuine real-world neighbors are Chinese (Zhongshan, immediately adj
 
 The reasoning: the allocation decision was made on the Upper Earth side, as part of (or adjacent to) the same broader diplomatic process that produced the Falkland Treaty and the pre-exile arrangements for which real-world Antarctic infrastructure which national exile populations would eventually settle. At the time, Korea already held claim to multiple Antarctic footholds that would become Janbogo and Contrapunto, and China's presence was already extensive and immediately adjacent at Zhongshan. Rather than let China's proximity default into a third claim, the Jeju-do court — acting in its Upper Earth capacity, before any of this was Tepenian soil — allocated the unoccupied Shirayuki site to Japan instead, a genuine pre-exile diplomatic act rather than anything decided by Tepenia itself. Japanese exiles then settled the site once the Falkland Treaty exile era began, inheriting a claim that had already been diplomatically settled rather than working one out from scratch. This makes the city's founding **institutionally engineered by Upper Earth diplomacy** — a mechanism Sinheung shares, allocated to Korea: this city exists because Upper Earth's diplomats decided, before the exile ever happened, that it should.
 
-**Contributing factor, surfaced 2026-07-06:** Japan's push for a dedicated, diplomatically-protected allocation likely wasn't made in a vacuum. China's sheer scale and existing regional presence — the same dynamic already visible in the real-world pre-exile Antarctic footprint — meant Temirötkel (in the separate Mawson subnet) was itself a plausible candidate to eventually see its founding character diluted by regional Chinese demographic pressure. Japan's diplomats at Jeju-do plausibly anticipated this risk and argued for Shirayuki as an exclusively-secured backstop — a guaranteed second Japanese city that wouldn't be left to organic demographic chance the way Temirötkel was. **This bet was vindicated by what actually happened centuries later:** Temirötkel's own population did end up overwhelmingly China-Primary (China at 17.39%, Japan diluted to just 2.71% — see `Specs/Temirotkel.md`), while Shirayuki, protected by the diplomatic allocation itself, held as genuinely Japan-Primary (36.27%, see Population & Composition below). The diplomatic foresight worked exactly as intended.
+**Contributing factor, surfaced 2026-07-06:** Japan's push for a dedicated, diplomatically-protected allocation likely wasn't made in a vacuum. China's sheer scale and existing regional presence — the same dynamic already visible in the real-world pre-exile Antarctic footprint — meant Temirötkel (in the separate Mawson subnet) was itself a plausible candidate to eventually see its founding character diluted by regional Chinese demographic pressure. Japan's diplomats at Jeju-do plausibly anticipated this risk and argued for Shirayuki as an exclusively-secured backstop — a guaranteed second Japanese city that wouldn't be left to organic demographic chance the way Temirötkel was. **This bet was vindicated by what actually happened centuries later:** Temirötkel's own population did end up Sinian-Federation-led (the Sinian Federation at 9.73%, the largest of five near-equal Primary communities, Japan diluted to just 2.66% *(figures updated 2026-11-02, `DR-85`; the earlier text read "overwhelmingly China-Primary (China at 17.39%, Japan diluted to just 2.71%")* — see `Specs/Temirotkel.md`), while Shirayuki, protected by the diplomatic allocation itself, held as genuinely Japan-Primary (34.71%, see Population & Composition below; was 36.27% before the 2026-11-02 rework). The diplomatic foresight worked exactly as intended.
 
 ---
 
@@ -43,36 +43,63 @@ The reasoning: the allocation decision was made on the Upper Earth side, as part
 
 | Tier | Nations |
 |------|---------|
-| Primary | Japan *(founding population — Jeju-do diplomatic allocation; re-tiered 2026-07-06)* |
-| Significant | Australia, Russia, South Korea, China, Germany |
-| Notable | Romania, Vietnam, Ukraine, Belarus, Thailand, New Zealand, Lithuania, South Africa, Bulgaria, Latvia, Estonia |
+| Primary | Japan *(founding population — Jeju-do diplomatic allocation)* |
+| Significant | Australia, Korea, Sinian Federation |
+| Notable | Germany, Russia (core state), Romania, Vietnam, Taiwan, Belarus, New Zealand, Thailand, Idelsk-Uralia, Ukraine, Lithuania, South Africa, Bulgaria, Latvia, Estonia, Siberia, Donska-Kubania, Austro-Bavaria, Künnarantaiga, Manchuria, Hungary, Mongolia, Dagestan, East Turkestan, Chechnya, Patani, Kabardino-Balkaria, North Ossetia-Alania, Finland, Ingushetia, Karachay-Cherkessia, Tuva, Tibet |
 
 *Source: `Official_Population_Census.md` Sections A–C. Re-derived 2026-07-06, in two rounds — see Founding Population Re-Resolution, below.*
 
 ### Per-Nation Breakdown — Robots and Humans, Census I and II
 
+*(Rebalanced 2026-11-02 in the population rework, `DR-85`: every country appears in its latest-period form (successor states and renamed countries, split by headcount, names explained in `Official_Population_Census.md` Section E); China's row is the Sinian Federation, with its decline and the refill of the gap where the rework applies it; places never counted before were added by time-zone window; tiers were relabeled from the final shares. This city: china's pieces in window: Mongolia, Manchuria, Tibet, East Turkestan; new pools: Hong Kong 0.88%, Macau 0.10%, Taiwan 2.92%, Mongolia 0.09%, North Korea 0.36%; the Sinian Federation's share was multiplied by 0.6427 (random 0.55 to 0.65), and the freed points went in proportion to size to: Australia, Korea. City totals in all four columns are unchanged. Method, every run and the research: `Sinian_Federation_Split_Scratch_2026-11-01/` (file `12_Rebalance_Run4.md`). The table that stood here before is in git commit `593510ab`.)*
+
+*The note below describes the earlier table (2026-07 to 2026-10) and is kept as history; the table is the current one.*
+
 *(Originally de-stacked 2026-07-05. **Re-derived 2026-07-06 in two rounds, during this city's City Vision Notes session.** Round 1: the standard population/GDP-based tiering had put China at Primary despite this being the one city in Tepenia specifically, deliberately allocated to Japan by pre-exile diplomatic decision (see Founding Resolution Note, above). That sat oddly against the city's own founding story, so the developer directed a specific correction: China's share moved to what UK's share had been (5.68%), Japan's share absorbed China's old share plus Indonesia's and Malaysia's shares entirely (both removed from the table), and UK was removed outright. The resulting gap needed to reach 100% again was added entirely to Japan, landing at 36.27%. China's tier demoted from Primary to Significant to match its new, much smaller share. Round 2: a direct, hand-specified transfer — 1.5 points moved from South Korea to China. Sums to exactly 100%. See Founding Population Re-Resolution, below, for the full reasoning.)*
 
 | Tier | Nation | Share % | Census I Robots | Census I Humans | Census II Robots | Census II Humans |
 |------|--------|---------|------------------|------------------|-------------------|-------------------|
-| Primary | Japan | 36.27% | 200,733 | 192,580 | 130,838 | 112,666 |
-| Significant | Australia | 8.76% | 48,482 | 46,512 | 31,602 | 27,213 |
-| Significant | Russia | 8.61% | 47,651 | 45,716 | 31,060 | 26,747 |
-| Significant | South Korea | 7.89% | 43,666 | 41,893 | 28,463 | 24,509 |
-| Significant | China | 7.18% | 39,737 | 38,123 | 25,901 | 22,303 |
-| Significant | Germany | 4.93% | 27,285 | 26,176 | 17,793 | 15,322 |
-| Notable | Romania | 3.54% | 19,592 | 18,796 | 12,759 | 10,988 |
-| Notable | Vietnam | 3.16% | 17,488 | 16,779 | 11,391 | 9,809 |
-| Notable | Ukraine | 3.11% | 17,211 | 16,512 | 11,204 | 9,648 |
-| Notable | Belarus | 3.00% | 16,603 | 15,929 | 10,839 | 9,334 |
-| Notable | Thailand | 2.99% | 16,547 | 15,875 | 10,779 | 9,282 |
-| Notable | New Zealand | 2.97% | 16,437 | 15,770 | 10,710 | 9,222 |
-| Notable | Lithuania | 1.76% | 9,740 | 9,345 | 6,339 | 5,459 |
-| Notable | South Africa | 1.66% | 9,188 | 8,813 | 5,973 | 5,144 |
-| Notable | Bulgaria | 1.60% | 8,855 | 8,496 | 5,786 | 4,983 |
-| Notable | Latvia | 1.35% | 7,471 | 7,168 | 4,863 | 4,187 |
-| Notable | Estonia | 1.22% | 6,752 | 6,478 | 4,419 | 3,804 |
+| Primary | Japan *(founding population — Jeju-do diplomatic allocation)* | 34.71% | 192,093 | 184,290 | 125,206 | 107,817 |
+| Significant | Australia | 9.69% | 53,651 | 51,473 | 34,973 | 30,115 |
+| Significant | Korea | 9.13% | 50,543 | 48,490 | 32,947 | 28,370 |
+| Significant | Sinian Federation | 4.56% | 25,215 | 24,191 | 16,436 | 14,152 |
+| Notable | Germany | 3.96% | 21,901 | 21,011 | 14,282 | 12,298 |
+| Notable | Russia (core state) | 3.58% | 19,835 | 19,029 | 12,925 | 11,131 |
+| Notable | Romania | 3.04% | 16,819 | 16,137 | 10,953 | 9,433 |
+| Notable | Vietnam | 3.02% | 16,736 | 16,057 | 10,901 | 9,387 |
+| Notable | Taiwan | 2.90% | 16,078 | 15,424 | 10,479 | 9,023 |
+| Notable | Belarus | 2.87% | 15,888 | 15,244 | 10,372 | 8,932 |
+| Notable | New Zealand | 2.84% | 15,730 | 15,091 | 10,249 | 8,825 |
+| Notable | Thailand | 2.78% | 15,385 | 14,760 | 10,022 | 8,629 |
+| Notable | Idelsk-Uralia | 2.58% | 14,301 | 13,720 | 9,322 | 8,027 |
+| Notable | Ukraine | 1.98% | 10,935 | 10,490 | 7,117 | 6,129 |
+| Notable | Lithuania | 1.68% | 9,321 | 8,943 | 6,066 | 5,224 |
+| Notable | South Africa | 1.59% | 8,793 | 8,434 | 5,715 | 4,922 |
+| Notable | Bulgaria | 1.53% | 8,474 | 8,131 | 5,538 | 4,768 |
+| Notable | Latvia | 1.29% | 7,149 | 6,860 | 4,653 | 4,006 |
+| Notable | Estonia | 1.17% | 6,462 | 6,200 | 4,229 | 3,640 |
+| Notable | Siberia | 1.03% | 5,684 | 5,454 | 3,705 | 3,191 |
+| Notable | Donska-Kubania | 0.98% | 5,450 | 5,229 | 3,552 | 3,060 |
+| Notable | Austro-Bavaria | 0.76% | 4,210 | 4,038 | 2,745 | 2,364 |
+| Notable | Künnarantaiga | 0.59% | 3,284 | 3,151 | 2,140 | 1,842 |
+| Notable | Manchuria | 0.46% | 2,569 | 2,466 | 1,674 | 1,442 |
+| Notable | Hungary | 0.35% | 1,929 | 1,850 | 1,256 | 1,082 |
+| Notable | Mongolia | 0.21% | 1,161 | 1,112 | 757 | 653 |
+| Notable | Dagestan | 0.18% | 1,010 | 969 | 658 | 566 |
+| Notable | East Turkestan | 0.13% | 708 | 680 | 462 | 399 |
+| Notable | Chechnya | 0.087% | 481 | 461 | 314 | 270 |
+| Notable | Patani | 0.081% | 450 | 432 | 293 | 253 |
+| Notable | Kabardino-Balkaria | 0.052% | 287 | 276 | 186 | 161 |
+| Notable | North Ossetia-Alania | 0.039% | 218 | 210 | 143 | 122 |
+| Notable | Finland | 0.031% | 169 | 162 | 111 | 95 |
+| Notable | Ingushetia | 0.029% | 161 | 154 | 106 | 91 |
+| Notable | Karachay-Cherkessia | 0.027% | 150 | 143 | 97 | 85 |
+| Notable | Tuva | 0.019% | 108 | 103 | 70 | 60 |
+| Notable | Tibet | 0.018% | 100 | 96 | 65 | 56 |
 
+*Tier labels follow the final shares: Primary and Significant end at the largest ratio gaps among the rows at 4.5% or more (Primary never more than six rows), no row at 4.5% or more is Notable, and Notable is the rest (the composition file's own rule, "boundaries fall at the largest ratio gaps"; the 8 / 3 / 1 share weights no longer produce the figures). Percentages are of this city's own human and robot population (identical between censuses), not Tepenia-wide. Robot figures apply the same proportions as the human population. Shares are rounded; they sum to 100% within rounding.*
+
+*The note that follows describes the earlier table (2026-07 to 2026-10) and is kept as history.*
 *Indonesia and UK removed from this table entirely (their shares transferred to Japan or dropped, per the re-derivation above). Sums to exactly 100%.*
 
 ## Founding Population Re-Resolution (2026-07-06)
@@ -290,5 +317,5 @@ Brainstormed purely from the city's own established nature, setting, and persona
 - **The Jeju-do allocation's specifics** — when exactly did the Court make this decision, and was it contested by China or Korea at the time?
 - **Their relationship to Sinheung and Zhongshan** — given the deliberate, diplomatically-engineered founding (rather than organic neighborliness), what is the actual lived relationship with the two real-world-adjacent cities that could have claimed this site instead?
 - **The Shirayuki infrastructure's character** — the founding community inherited a specific architectural and infrastructure design; how did they adapt or modify it?
-- ~~Possible connection to Ayako Hayashi~~ **RESOLVED 2026-07-20: Shirayuki is Ayako Hayashi's confirmed pre-Concordia origin city.** Flagged 2026-07-03 as a candidate (alongside Denison, Casey, Zhongshan, Janbogo, Mawson); now that this city's full identity is developed, the fit is decisive rather than merely plausible — Japan-Primary founding population (36.27%) matching Ayako's own Japanese exile background and 2564 Falkland Treaty timeline exactly, mild climate, and fashion established as a genuine civic economic pillar in its own right (the gallery district, the Alt-Rock/Alt-Grunge/Alt-Pop "Alternative Culture" reputation, an entire round of fashion-themed candidate names). Note: the city's art/fashion culture developed organically over the Second Interwar Period rather than existing at founding — Ayako would have arrived as one of the original 2564 Japanese exiles and been part of (or adjacent to) that culture's slow emergence over the following centuries, not stepped into it fully formed. See `Ayako Hayashi/README.md`.
+- ~~Possible connection to Ayako Hayashi~~ **RESOLVED 2026-07-20: Shirayuki is Ayako Hayashi's confirmed pre-Concordia origin city.** Flagged 2026-07-03 as a candidate (alongside Denison, Casey, Zhongshan, Janbogo, Mawson); now that this city's full identity is developed, the fit is decisive rather than merely plausible — Japan-Primary founding population (34.71%; was 36.27% before the 2026-11-02 rework) matching Ayako's own Japanese exile background and 2564 Falkland Treaty timeline exactly, mild climate, and fashion established as a genuine civic economic pillar in its own right (the gallery district, the Alt-Rock/Alt-Grunge/Alt-Pop "Alternative Culture" reputation, an entire round of fashion-themed candidate names). Note: the city's art/fashion culture developed organically over the Second Interwar Period rather than existing at founding — Ayako would have arrived as one of the original 2564 Japanese exiles and been part of (or adjacent to) that culture's slow emergence over the following centuries, not stepped into it fully formed. See `Ayako Hayashi/README.md`.
 - **Notable figures** — two placeholders exist (Ambassador Reiko Tashiro, Momoka Ishihara, both `Shirayuki_Full_Extrapolation.md` Section VI); neither is a finalized name

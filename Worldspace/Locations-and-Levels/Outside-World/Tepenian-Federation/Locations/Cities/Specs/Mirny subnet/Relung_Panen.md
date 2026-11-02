@@ -32,9 +32,9 @@
 
 | Tier | Nations |
 |------|---------|
-| Primary | China |
-| Significant | Russia, Indonesia, Japan, South Korea, Australia *(founding wave — the gateway and the road)* |
-| Notable | Thailand, Vietnam, Malaysia, Philippines, New Zealand *(via the Hobart gateway)* |
+| Primary | Japan, Indonesia, Korea, Sinian Federation, Australia *(founding wave — the gateway and the road)* |
+| Significant | Thailand, Vietnam, Idelsk-Uralia, Russia (core state), Malaysia, Philippines, Taiwan, New Zealand *(via the Hobart gateway)* |
+| Notable | Siberia, Donska-Kubania, Manchuria, Künnarantaiga, Mongolia, East Turkestan, Dagestan, West Papua, Aceh, Patani, Chechnya, Kabardino-Balkaria, North Ossetia-Alania, Tibet, Finland, Ingushetia, Karachay-Cherkessia, Tuva |
 
 ⭐⭐ **Computed PROXIMITY-FIRST at the developer's direction**, applying the method's ±3 solar-UTC window to
 every tier rather than to Notable alone. **Solar UTC +7; window UTC+4 … +10.** ⛔ **The only city in the corpus
@@ -52,20 +52,45 @@ approach, so distant nations are filtered rather than diluted.* **Full derivatio
 
 ### Per-Nation Breakdown — Robots and Humans, Census I and II
 
+*(Rebalanced 2026-11-02 in the population rework, `DR-85`: every country appears in its latest-period form (successor states and renamed countries, split by headcount, names explained in `Official_Population_Census.md` Section E); China's row is the Sinian Federation, with its decline and the refill of the gap where the rework applies it; places never counted before were added by time-zone window; tiers were relabeled from the final shares. This city: china's pieces in window: Mongolia, Manchuria, Tibet, East Turkestan; new pools: Hong Kong 0.88%, Macau 0.10%, Taiwan 2.92%, Mongolia 0.09%, North Korea 0.36%; the Sinian Federation's share was multiplied by 0.6195 (random 0.55 to 0.65), and the freed points went in proportion to size to: Indonesia, Japan, Korea, Australia, Thailand, Vietnam. City totals in all four columns are unchanged. Method, every run and the research: `Sinian_Federation_Split_Scratch_2026-11-01/` (file `12_Rebalance_Run4.md`). The table that stood here before is in git commit `593510ab`.)*
+
 | Tier | Nation | Share % | Census I Robots | Census I Humans | Census II Robots | Census II Humans |
 |------|--------|---------|------------------|------------------|-------------------|-------------------|
-| Primary | China | 21.58% | 106,731 | 102,997 | 76,192 | 73,579 |
-| Significant | Russia | 12.60% | 62,318 | 60,138 | 44,486 | 42,959 |
-| Significant | Indonesia | 12.23% | 60,487 | 58,371 | 43,179 | 41,698 |
-| Significant | Japan | 11.98% | 59,251 | 57,179 | 42,297 | 40,846 |
-| Significant | South Korea | 11.22% | 55,492 | 53,551 | 39,613 | 38,255 |
-| Significant | Australia | 11.03% | 54,553 | 52,645 | 38,943 | 37,607 |
-| Notable | Thailand | 5.15% | 25,472 | 24,580 | 18,183 | 17,558 |
-| Notable | Vietnam | 4.76% | 23,543 | 22,719 | 16,805 | 16,229 |
-| Notable | Malaysia | 3.30% | 16,322 | 15,751 | 11,651 | 11,252 |
-| Notable | Philippines | 3.18% | 15,727 | 15,178 | 11,227 | 10,842 |
-| Notable | New Zealand | 2.97% | 14,689 | 14,176 | 10,486 | 10,126 |
+| Primary | Japan | 13.04% | 64,521 | 62,264 | 46,059 | 44,480 |
+| Primary | Indonesia | 12.78% | 63,214 | 61,004 | 45,128 | 43,578 |
+| Primary | Korea | 12.61% | 62,360 | 60,179 | 44,514 | 42,988 |
+| Primary | Sinian Federation | 12.03% | 59,477 | 57,396 | 42,459 | 41,002 |
+| Primary | Australia *(founding wave — the gateway and the road)* | 12.01% | 59,406 | 57,327 | 42,407 | 40,951 |
+| Significant | Thailand | 5.45% | 26,950 | 26,007 | 19,239 | 18,577 |
+| Significant | Vietnam | 5.18% | 25,638 | 24,739 | 18,299 | 17,672 |
+| Significant | Idelsk-Uralia | 3.78% | 18,700 | 18,048 | 13,351 | 12,892 |
+| Significant | Russia (core state) | 3.78% | 18,699 | 18,046 | 13,350 | 12,891 |
+| Significant | Malaysia | 3.16% | 15,620 | 15,073 | 11,149 | 10,767 |
+| Significant | Philippines | 3.04% | 15,051 | 14,524 | 10,744 | 10,376 |
+| Significant | Taiwan | 2.90% | 14,367 | 13,866 | 10,256 | 9,905 |
+| Significant | New Zealand *(via the Hobart gateway)* | 2.84% | 14,057 | 13,566 | 10,035 | 9,689 |
+| Notable | Siberia | 1.50% | 7,434 | 7,174 | 5,308 | 5,125 |
+| Notable | Donska-Kubania | 1.44% | 7,127 | 6,877 | 5,088 | 4,914 |
+| Notable | Manchuria | 1.40% | 6,901 | 6,659 | 4,925 | 4,756 |
+| Notable | Künnarantaiga | 0.87% | 4,294 | 4,145 | 3,066 | 2,961 |
+| Notable | Mongolia | 0.44% | 2,194 | 2,117 | 1,568 | 1,513 |
+| Notable | East Turkestan | 0.39% | 1,904 | 1,837 | 1,360 | 1,313 |
+| Notable | Dagestan | 0.27% | 1,321 | 1,275 | 943 | 911 |
+| Notable | West Papua | 0.24% | 1,186 | 1,143 | 845 | 816 |
+| Notable | Aceh | 0.23% | 1,144 | 1,106 | 816 | 789 |
+| Notable | Patani | 0.14% | 692 | 668 | 493 | 479 |
+| Notable | Chechnya | 0.13% | 627 | 604 | 448 | 433 |
+| Notable | Kabardino-Balkaria | 0.076% | 377 | 363 | 269 | 259 |
+| Notable | North Ossetia-Alania | 0.058% | 285 | 276 | 204 | 197 |
+| Notable | Tibet | 0.054% | 270 | 260 | 191 | 185 |
+| Notable | Finland | 0.045% | 221 | 214 | 158 | 152 |
+| Notable | Ingushetia | 0.043% | 212 | 204 | 151 | 147 |
+| Notable | Karachay-Cherkessia | 0.039% | 195 | 188 | 139 | 136 |
+| Notable | Tuva | 0.028% | 141 | 136 | 100 | 97 |
 
+*Tier labels follow the final shares: Primary and Significant end at the largest ratio gaps among the rows at 4.5% or more (Primary never more than six rows), no row at 4.5% or more is Notable, and Notable is the rest (the composition file's own rule, "boundaries fall at the largest ratio gaps"; the 8 / 3 / 1 share weights no longer produce the figures). Percentages are of this city's own human and robot population (identical between censuses), not Tepenia-wide. Robot figures apply the same proportions as the human population. Shares are rounded; they sum to 100% within rounding.*
+
+*The note that follows describes the earlier table (2026-07 to 2026-10) and is kept as history.*
 *Shares sum to 100.00%; all four columns sum exactly to the census figures above. **China's Primary share was
 reduced 28.58% → 21.58% by developer ruling**, the 7.00 freed points spread proportionally across Russia,
 Indonesia, Australia, Thailand and Vietnam — exactly the four distance-0 nations plus the gateway. Robot

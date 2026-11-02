@@ -17,7 +17,7 @@
 | Significance | *[source line compares the city with other places; not copied, line number recorded only]* | `Specs/Contrapunto.md` L11 |
 | Coordinates (as written in the same field) | ~62°13'S, 58°47'W | `Specs/Contrapunto.md` L5 |
 | Specs `Status:` field | States a later-era condition; per the standing default-scope rule (`00_RUNBOOK.md`, the Second Interwar default) this is **never an input** to a Second Interwar pass — not copied | `Specs/Contrapunto.md` L6 |
-| Later-era sections present in the Specs file (same exclusion as `Status:`) | 2 section(s), by heading position: L175, L180 — not copied, not described | `Specs/Contrapunto.md` L175, L180 |
+| Later-era sections present in the Specs file (same exclusion as `Status:`) | 2 section(s), by heading position: L175, L180 — not copied, not described | `Specs/Contrapunto.md` L205, L210 |
 | Census I (spec's own line) | 316,691 humans / 328,142 robots / **644,833** combined *(the spec's "island cap" tag was removed 2026-10-31)* | `Specs/Contrapunto.md` L18 |
 | Census II (spec's own line) | 234,304 humans / 279,766 robots / **514,070** combined *(the spec's "island cap" tag was removed 2026-10-31)* | `Specs/Contrapunto.md` L19 |
 

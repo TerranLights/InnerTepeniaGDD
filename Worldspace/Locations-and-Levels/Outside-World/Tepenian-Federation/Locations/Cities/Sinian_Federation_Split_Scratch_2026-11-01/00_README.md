@@ -52,7 +52,18 @@ written down as numbers, so splitting 210M among the successors needs a choice f
 | `calc_china_decline.py` → `07_China_Decline_Scenario.md` | 2026-11-01 ~22:20: the developer's idea of China at half to two-thirds of today's population, three ways (the tier method as written; China's people cut directly with cities shrinking or keeping their size); also the developer's Kunlun direction (Option A) |
 | `calc_rebalance.py` → `08_Sinian_Decline_Rebalance.md` + `08_rebalance_city_tables.csv` | Overnight run, 2026-11-01 ~23:00, at the developer's request: China's row → the Sinian Federation's share × a random 55–60%, the gap filled by each city's nations at 5% or more outside its top tier, totals kept; then a verdict on whether each city's adjustment can be justified |
 | `calc_rebalance_v2.py` → `09_Rebalance_and_Successor_Splits.md` + `09_city_tables.csv` | Run 2, 2026-11-01 ~23:40, with the developer's settings (proportional fill, 4.5% line, a random 55–65%), plus the USA, Canada, Mexico, Russia and Argentina rows divided among their successor states in all 37 cities (Kunlun left as it is); national table by successor; verdicts |
-| `calc_rebalance_v3.py` → `10_Rebalance_Run3.md` + `10_city_tables.csv` | **Run 3, the current one** (2026-11-01 ~23:45), with the developer's answers to run 2: pool-share splits, splits before the decline, founders moved by hand from Japan at Ariun Nuur (Mongolia, Künnarantaiga) and Utstein (the five Nordic nations); Esperanza, Sanay and the Japan/South Korea result left as they are |
+| `11_Decisions_and_Next_Research_2026-11-02.md` | The developer's decisions after run 3 (headcount; China's pieces and the uncounted places by window; latest-period borders), what the atlas settles, the outdated-names finding, the research plan |
+| `Run4_Research/` | Overnight research for run 4: `A_new_places.csv`, `A_calibration_43.csv`, `A_Research_Log.md` (pools); `B_split_headcounts.csv`, `B_Research_Log.md` (headcounts) |
+| `calc_run4.py` → `12_Rebalance_Run4.md` + `12_city_tables.csv` | **Run 4, the current one** (2026-11-02 overnight): every country in its latest-period form by headcount, China's pieces and nine new pools placed by the time-zone window, the decline, the fill, the founder moves, Kunlun's Option A |
+| `apply_final.py` → `final_tables.json` | **2026-11-02 morning, APPLIED to the official files (`DR-85`).** Reads only run 4's CSV (`12_city_tables.csv`) and the old specs in git `593510ab`: Jeju-do folded into Korea, Neumayer's founder move (France to the Netherlands and Austro-Bavaria, seed 2026110209), tier relabeling by the largest-ratio-gap rule, annotations carried over, every column made exactly equal to its spec header |
+| `write_specs.py`, `verify_specs.py` | Write the final tables into the 38 specs (tier rows, per-nation table, notes); `verify_specs.py` re-reads them and checks them against the JSON and the headers |
+| `write_census.py` | Census Section A tier rows (and Relung Panen's missing entry), Section B national totals, new Section E (name key) |
+| `write_composition.py` | Banner and a final-composition line in 33 sections of `Upper_Earth_Immigration_Composition.md` |
+| `write_datasheet_tiers.py`, `write_datasheet_rows.py`, `remap_bare_spec.py`, `refresh_pretrip_lines.py` | The datasheets' tier lists and per-nation rows; bare `Spec L…` citations; the Pre-Trip sheets' bold line numbers (against `build_pretrip.py`'s live scan) |
+| `13_remap_report.txt` | The output of `Tools/remap_line_citations.py --base 593510ab --apply` over the pass folders, Research Logs, Division of Industry, the Manual Input Audit folder and four single files (what moved, what was left as written) |
+| `15_Kunlun_Heritage_Rows_Draft_For_Approval.md` | Draft only: which atlas successor carries each of Kunlun's nine old-name heritage rows, for the developer's approval; nothing applied |
+| `14_Downstream_Mentions.md` | The 117 files outside the updated set that still quote old shares (culture, robot-culture, vision-note, megasheet, research and reference files); **none edited** |
+| `calc_rebalance_v3.py` → `10_Rebalance_Run3.md` + `10_city_tables.csv` | Run 3 (superseded by run 4) (2026-11-01 ~23:45), with the developer's answers to run 2: pool-share splits, splits before the decline, founders moved by hand from Japan at Ariun Nuur (Mongolia, Künnarantaiga) and Utstein (the five Nordic nations); Esperanza, Sanay and the Japan/South Korea result left as they are |
 
 **Part 2 was added at the developer's request (~21:45):** *"after the Sinian Federation (and surrounding lands) are
 done, see about calculating for Russia, Italy, Germany, Argentina, and the nations of North America."* Its borders come
@@ -69,8 +80,8 @@ from the author's world atlas (`/home/kuroskalacs/Documents/Doll-Fi/media/y-file
 - [x] Questions for the developer listed (file `03`)
 - [x] Part 2: USA, Canada, Mexico, Italy, Germany, Argentina computed; Russia summarized from its 2026-10-29 files (file `06`)
 - [x] The China-decline scenario (file `07`) and the overnight rebalance run with its verdicts (file `08`), scratch only
-- [ ] Developer decisions (files `03`, `06` and the list at the end of `08`'s verdict section), then the city rebalance in the official files (nothing in any city file changed)
-- [ ] **Readjust the National Census** (`Official_Population_Census.md`) once the decisions and the rebalance are made
+- [x] Developer decisions and the city rebalance: **APPLIED to the official files 2026-11-02 (`DR-85`)** — specs, census (A, B, E), composition file, datasheets, Pre-Trip line numbers, rulings log. Still open: see `DR-85` "Not decided" and the tracker's S.0h
+- [x] **Readjust the National Census** (`Official_Population_Census.md`): done 2026-11-02
 
 ## Next (developer, 2026-11-01, ~22:05)
 

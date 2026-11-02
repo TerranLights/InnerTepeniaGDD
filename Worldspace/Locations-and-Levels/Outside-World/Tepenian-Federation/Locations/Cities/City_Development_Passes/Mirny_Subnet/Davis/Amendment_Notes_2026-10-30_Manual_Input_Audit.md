@@ -10,13 +10,13 @@
 
 ## DV-001 — The census scenario of 2026-10-28 (`DR-68`) rescaled Davis's population; shares did not change
 
-**What changed.** The adopted Santa Luce population scenario raised Davis's Census I by +12,139 humans and +11,778 robots, and its Census II by +8,108 and +7,739 (`Official_Population_Census.md` L494 and L617; the spec `Specs/Mirny subnet/Davis.md` L15–16 carries the same counts). The spec's per-nation counts were rescaled to the new totals; the per-nation shares are unchanged (for example China stays at 19.04%, the figure `02_Spine.md` records as the largest).
+**What changed.** The adopted Santa Luce population scenario raised Davis's Census I by +12,139 humans and +11,778 robots, and its Census II by +8,108 and +7,739 (`Official_Population_Census.md` L506 and L617; the spec `Specs/Mirny subnet/Davis.md` L15–16 carries the same counts). The spec's per-nation counts were rescaled to the new totals; the per-nation shares are unchanged (for example China stays at 19.04%, the figure `02_Spine.md` records as the largest).
 
 **Live figures (2026-10-30), with the old figure as recorded at the pass.** Arithmetic below was done by hand and checked a second time.
 
 | Figure | At the pass | Live | Source / working |
 |---|---|---|---|
-| Census I humans · robots · total | 563,599 · 594,715 · 1,158,314 | 575,738 · 606,493 · **1,182,231** | `Official_Population_Census.md` L494; 575,738 + 606,493 = 1,182,231 |
+| Census I humans · robots · total | 563,599 · 594,715 · 1,158,314 | 575,738 · 606,493 · **1,182,231** | `Official_Population_Census.md` L506; 575,738 + 606,493 = 1,182,231 |
 | Census II humans · robots · total | 437,423 · 344,173 · 781,596 | 445,531 · 351,912 · **797,443** | same file L617; 445,531 + 351,912 = 797,443 |
 | Retention, combined | 67.48% | ≈ 67.45% | 797,443 ÷ 1,182,231 = 0.67452 |
 | Retention, humans | 77.61% | ≈ 77.38% | 445,531 ÷ 575,738 = 0.77384 |

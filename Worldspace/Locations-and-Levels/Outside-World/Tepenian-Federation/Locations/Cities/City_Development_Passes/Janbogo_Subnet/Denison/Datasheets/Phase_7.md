@@ -13,7 +13,7 @@
 | Division_of_Industry_Sweep_2026-08-31.md §4.4 — Denison's own row | `. . . Y . . 5/6` | `Division_of_Industry_Sweep_2026-08-31.md` L154 |
 | ⚠ Sweep note, verbatim | *"Denison's whole identity is wind-engineering, and it still has no construction sector."* | `Division_of_Industry_Sweep_2026-08-31.md` L205 |
 | Theoretical-Calculations/ — Denison's own presence | Named in `Amundsen_Tower_Space_Fountain_Design.md` — content not extracted here; existence flagged | Verified this turn |
-| Denison's own civic-pride content | See `Phase_6.md` | `Specs/Denison.md` L304 |
+| Denison's own civic-pride content | See `Phase_6.md` | `Specs/Denison.md` L318 |
 | City_Logistics.md scope | Checked — does not apply to Denison | Verified this turn |
 | `Factions/` — files naming the city (religions excluded; see `Phase_6.md`) | `City_Origin_Factions_PostWar_Refugee.md` L65; `City_Origin_Factions_Second_Interwar.md` L31, L33, L35, L55, L57, L278, L280 *(line numbers only)* | `Worldspace/Factions/` |
 | **U** `01_Burden_Scoring_Model.md`, `08_Volume_Based_Requirement_Reference.md` | The models behind the figures above | Division_of_Industry/, addresses resolve |

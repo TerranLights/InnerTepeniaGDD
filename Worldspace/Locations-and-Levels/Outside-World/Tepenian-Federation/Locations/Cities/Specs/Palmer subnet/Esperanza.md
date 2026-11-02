@@ -17,9 +17,9 @@
 
 | Tier | Nations |
 |------|---------|
-| Primary | USA |
-| Significant | UK, Mexico, Brazil, Argentina *(founding wave)* |
-| Notable | Chile *(founding wave)*, Uruguay |
+| Primary | Brazil, México, CSA |
+| Significant | United Kingdom, Argentina (without Patagonia) *(founding wave)*, Appalachia, Uruguay, New England, Cascadia |
+| Notable | Midwest Republic, Chile *(founding wave)*, Sonora, Amazonia, Yucatán, Colorado, Araucanía-Patagonia, Northern Ireland, Hawaii, Alaska |
 
 *(Argentina is the founding nation per the Founding section below, while Chile's presence reflects independent geographic-proximity early arrival, the same distinction already established at Signy for South Africa.)*
 
@@ -27,19 +27,31 @@
 
 ### Per-Nation Breakdown — Robots and Humans, Census I and II
 
-*(De-stacked 2026-07-05 — raw tier-share percentages naturally produced blocks of nations with identical figures; applied a randomization method to break these into distinct, non-repeating values while preserving each tier's total and ordering. See `TODO.md` for the full method.)*
+*(Rebalanced 2026-11-02 in the population rework, `DR-85`: every country appears in its latest-period form (successor states and renamed countries, split by headcount, names explained in `Official_Population_Census.md` Section E); China's row is the Sinian Federation, with its decline and the refill of the gap where the rework applies it; places never counted before were added by time-zone window; tiers were relabeled from the final shares. This city: new pools: Petén 0.05%. City totals in all four columns are unchanged. Method, every run and the research: `Sinian_Federation_Split_Scratch_2026-11-01/` (file `12_Rebalance_Run4.md`). The table that stood here before is in git commit `593510ab`.)*
 
 | Tier | Nation | Share % | Census I Robots | Census I Humans | Census II Robots | Census II Humans |
 |------|--------|---------|------------------|------------------|-------------------|-------------------|
-| Primary | USA | 36.36% | 339,901 | 351,810 | 248,409 | 185,732 |
-| Significant | Brazil | 18.92% | 176,890 | 183,087 | 129,277 | 96,657 |
-| Significant | Mexico | 17.45% | 163,073 | 168,787 | 119,178 | 89,108 |
-| Significant | UK | 9.83% | 91,853 | 95,071 | 67,128 | 50,191 |
-| Significant | Argentina | 8.35% | 78,035 | 80,769 | 57,030 | 42,641 |
-| Notable | Uruguay | 6.60% | 61,682 | 63,843 | 45,079 | 33,705 |
-| Notable | Chile | 2.49% | 23,294 | 24,110 | 17,023 | 12,728 |
+| Primary | Brazil | 17.03% | 159,238 | 164,816 | 116,375 | 87,011 |
+| Primary | México | 14.08% | 131,552 | 136,162 | 96,142 | 71,884 |
+| Primary | CSA | 11.76% | 109,900 | 113,750 | 80,318 | 60,052 |
+| Significant | United Kingdom | 9.55% | 89,253 | 92,379 | 65,227 | 48,770 |
+| Significant | Argentina (without Patagonia) *(founding wave)* | 7.87% | 73,566 | 76,144 | 53,764 | 40,199 |
+| Significant | Appalachia | 7.55% | 70,540 | 73,011 | 51,553 | 38,545 |
+| Significant | Uruguay | 6.60% | 61,652 | 63,812 | 45,057 | 33,689 |
+| Significant | New England | 6.17% | 57,694 | 59,716 | 42,165 | 31,526 |
+| Significant | Cascadia | 6.13% | 57,298 | 59,305 | 41,875 | 31,310 |
+| Notable | Midwest Republic | 2.35% | 21,936 | 22,705 | 16,032 | 11,987 |
+| Notable | Chile *(founding wave)* | 2.14% | 20,049 | 20,752 | 14,652 | 10,956 |
+| Notable | Sonora | 1.96% | 18,340 | 18,982 | 13,403 | 10,021 |
+| Notable | Amazonia | 1.88% | 17,566 | 18,182 | 12,839 | 9,599 |
+| Notable | Yucatán | 1.85% | 17,339 | 17,946 | 12,671 | 9,474 |
+| Notable | Colorado | 1.76% | 16,497 | 17,076 | 12,056 | 9,015 |
+| Notable | Araucanía-Patagonia | 0.82% | 7,664 | 7,932 | 5,601 | 4,187 |
+| Notable | Northern Ireland | 0.27% | 2,556 | 2,646 | 1,868 | 1,396 |
+| Notable | Hawaii | 0.15% | 1,424 | 1,474 | 1,041 | 779 |
+| Notable | Alaska | 0.071% | 664 | 687 | 485 | 362 |
 
-*Figures use the project's standard share-weighting methodology as a baseline (Primary=8 shares, Significant=3 shares, Notable=1 share per nation — see `Upper_Earth_Immigration_Composition.md`), then de-stacked per the method above so that same-tier nations no longer show identical figures. Percentages are of this city's own population (identical between Census I and II under this proportional model), not Tepenia-wide. Robot figures apply the same national-origin proportions as the human population, consistent with the project's established methodology.*
+*Tier labels follow the final shares: Primary and Significant end at the largest ratio gaps among the rows at 4.5% or more (Primary never more than six rows), no row at 4.5% or more is Notable, and Notable is the rest (the composition file's own rule, "boundaries fall at the largest ratio gaps"; the 8 / 3 / 1 share weights no longer produce the figures). Percentages are of this city's own human and robot population (identical between censuses), not Tepenia-wide. Robot figures apply the same proportions as the human population. Shares are rounded; they sum to 100% within rounding.*
 
 ---
 

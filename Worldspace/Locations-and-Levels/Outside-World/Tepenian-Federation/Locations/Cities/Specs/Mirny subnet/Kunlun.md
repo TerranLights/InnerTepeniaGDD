@@ -22,7 +22,7 @@
 **Arcanet Subnet:** Mirny ("Australian")
 **Access type:** ON
 **Highway access:** **Corrected 2026-07-06; route order fixed 2026-07-13** — Kunlun sits on **Hwy 37 (the Mountain Cut Throughway)**, the East Antarctic plateau route running The Temirötkel Junction → Dome Fuji → Kunlun → Mountain Pass Airport → Ariun Nuur → Concordia (see `Locations/Infrastructure/Highways.md`, the authoritative source — this file and `City_Relationship_Database.md` had both carried an earlier, incorrect order with Ariun Nuur before Kunlun and no Dome Fuji at all, already flagged and fixed on `Highways.md` and `Specs/Ariun_Nuur.md` the same day the route was first corrected, but never propagated here); direct highway neighbors are Dome Fuji (one direction) and Ariun Nuur (other direction, via the Mountain Pass Airport waypoint). Kunlun remains ~1,200km+ from Mirny, its own Arcanet subnet's nearest coastal city — Hwy 37 runs in a different direction entirely and does not reach the Mirny subnet coast.
-**Significance:** Located at or near Dome A (Dome Argus) — the highest point on the East Antarctic Ice Sheet at approximately 4,093 meters; the highest-elevation city in Tepenia; the altitude is at or beyond the ceiling of sustained human habitation. **Re-resolved 2026-07-06:** Kunlun is no longer characterized as "exclusively Sinian" — per the developer's explicit direction that founding-nation identity isn't the point of this project, there was no real reason for Kunlun to be artificially collapsed into one nationality. Kunlun's real distinguishing feature now is that it's a deliberately curated **astronomy-and-comms population**, drawn specifically from Tepenian nations with genuine real-world space/astronomy/communications heritage — the only Tepenian city whose composition reflects a specific professional/scientific lineage rather than population/GDP weighting. See Founding Population Resolution, below.
+**Significance:** Located at or near Dome A (Dome Argus) — the highest point on the East Antarctic Ice Sheet at approximately 4,093 meters; the highest-elevation city in Tepenia; the altitude is at or beyond the ceiling of sustained human habitation. **Re-resolved 2026-07-06:** Kunlun is no longer characterized as "exclusively Sinian" — per the developer's explicit direction that founding-nation identity isn't the point of this project, there was no real reason for Kunlun to be artificially collapsed into one nationality. Kunlun's real distinguishing feature now is that it's a deliberately curated **astronomy-and-comms population**, drawn specifically from Tepenian nations with genuine real-world space/astronomy/communications heritage — the only Tepenian city whose composition reflects a specific professional/scientific lineage rather than population/GDP weighting. See Founding Population Resolution, below. **Re-ruled 2026-11-02 (`DR-85`, the developer's Option A):** Kunlun was set up in part through a joint agreement by the Sinian Federation, so the Sinian Federation alone holds the top tier (15.09%) and clearly leads, as at Zhongshan; the USA and Russia moved to the middle tier, and Mongolia and Künnarantaiga, the co-founders on the Founding Register, joined the middle tier as the founding wave. The astronomy-and-comms lineage still decides who else is represented.
 **Population:** 0 humans / 135,226 robots (Census I) — resolved 2026-07-04, Kunlun's first population figures; see Founding Population Resolution, below
 **DLC:** Mirny subnet — extreme altitude and isolation make it a potential endpoint destination rather than a transit location; whether reachable in gameplay is a major design question
 
@@ -35,40 +35,49 @@
 
 | Tier | Nations |
 |------|---------|
-| Primary | USA, Russia, China |
-| Significant | Canada, Japan, UK, Intermarium/Intermaria, Italy, South Korea, Germany, France |
+| Primary | Sinian Federation *(founding wave)* |
+| Significant | Canada, Japan, UK, Intermarium/Intermaria, USA, Russia, Mongolia *(founding wave)*, Künnarantaiga *(founding wave)*, Italy, South Korea, Germany, France |
 | Notable | New Zealand, Argentina, Sweden, Australia, Chile, Norway, Spain, South Africa, Netherlands |
 
 *Source: `Official_Population_Census.md` Sections A–C. Tiering re-derived 2026-07-06 around genuine real-world space/astronomy/communications heritage rather than population or GDP — see Founding Population Resolution, below.*
 
 ### Per-Nation Breakdown — Robots (Census I only; no human population)
 
+*(Rebalanced 2026-11-02 in the population rework, `DR-85`: every country appears in its latest-period form (successor states and renamed countries, split by headcount, names explained in `Official_Population_Census.md` Section E); China's row is the Sinian Federation, with its decline and the refill of the gap where the rework applies it; places never counted before were added by time-zone window; tiers were relabeled from the final shares. Kunlun follows Option A: the Sinian Federation alone in the top tier; the USA and Russia in the middle tier; Mongolia and Künnarantaiga added to the middle tier as the founding wave. The other rows keep their space-program heritage names. City totals in all four columns are unchanged. Method, every run and the research: `Sinian_Federation_Split_Scratch_2026-11-01/` (file `12_Rebalance_Run4.md`). The table that stood here before is in git commit `593510ab`.)*
+
+*The note below describes the earlier table (2026-07 to 2026-10) and is kept as history; the table is the current one.*
+
 *(Re-derived 2026-07-06, replacing the previous "100% Chinese" figure. Applies the project's standard T1=8/T2=3/T3=1 share-weighting method, tiered by space/astronomy/comms significance rather than population/GDP, then de-stacked per the project's usual randomized method so same-tier nations don't show identical percentages. Verified: sums exactly to the Census I robot total.)*
 
 | Tier | Nation | Share % | Census I Robots |
 |------|--------|---------|------------------|
-| Primary | USA | 15.43% | 20,865 |
-| Primary | China | 15.22% | 20,581 |
-| Primary | Russia | 11.45% | 15,483 |
-| Significant | Canada | 7.19% | 9,723 |
-| Significant | Japan | 6.75% | 9,128 |
-| Significant | UK | 6.48% | 8,763 |
-| Significant | Intermarium/Intermaria | 6.38% | 8,627 |
-| Significant | Italy | 5.26% | 7,113 |
-| Significant | South Korea | 4.05% | 5,477 |
-| Significant | Germany | 3.33% | 4,503 |
-| Significant | France | 2.65% | 3,583 |
-| Notable | New Zealand | 2.47% | 3,340 |
-| Notable | Argentina | 2.44% | 3,300 |
-| Notable | Sweden | 2.37% | 3,205 |
-| Notable | Australia | 2.35% | 3,178 |
-| Notable | Chile | 2.14% | 2,894 |
-| Notable | Norway | 1.75% | 2,366 |
-| Notable | Spain | 1.16% | 1,569 |
-| Notable | South Africa | 1.07% | 1,447 |
-| Notable | Netherlands | 0.05% | 68 |
+| Primary | Sinian Federation *(founding wave)* | 15.09% | 20,412 |
+| Significant | Canada | 7.74% | 10,460 |
+| Significant | Japan | 7.26% | 9,820 |
+| Significant | UK | 6.97% | 9,428 |
+| Significant | Intermarium/Intermaria | 6.86% | 9,282 |
+| Significant | USA | 5.66% | 7,654 |
+| Significant | Russia | 5.66% | 7,654 |
+| Significant | Mongolia *(founding wave)* | 5.66% | 7,654 |
+| Significant | Künnarantaiga *(founding wave)* | 5.66% | 7,654 |
+| Significant | Italy | 5.66% | 7,653 |
+| Significant | South Korea | 4.36% | 5,892 |
+| Significant | Germany | 3.58% | 4,845 |
+| Significant | France | 2.85% | 3,855 |
+| Notable | New Zealand | 2.65% | 3,590 |
+| Notable | Argentina | 2.62% | 3,546 |
+| Notable | Sweden | 2.55% | 3,445 |
+| Notable | Australia | 2.53% | 3,415 |
+| Notable | Chile | 2.30% | 3,110 |
+| Notable | Norway | 1.88% | 2,543 |
+| Notable | Spain | 1.25% | 1,686 |
+| Notable | South Africa | 1.15% | 1,555 |
+| Notable | Netherlands | 0.054% | 73 |
 
-*Tiering rationale: **Primary** (8 shares) — the only nations with genuinely comprehensive, independent human spaceflight programs (USA, Russia, China). **Significant** (3 shares) — substantial national space agencies with real mission heritage but not full independent crewed spaceflight capability (Japan, Germany, France, UK, Italy, Canada, South Korea), plus **Intermarium/Intermaria** representing the unified political bloc's own collective space program — built on Ukraine's real Soviet-era rocket heritage (Yuzhmash), recast as a joint "Intermarian Space Program" credit rather than a solo Ukrainian one, consistent with Intermarium's established status elsewhere in the project as a unified meta-nation. **Notable** (1 share) — relevance from hosting a specific major facility (Chile: ALMA/VLT/Vera Rubin Observatory; South Africa: the Square Kilometer Array; Australia: Parkes Observatory and the Canberra Deep Space Communication Complex — directly relevant to Kunlun's comms function specifically; Spain: NASA's Madrid Deep Space Communications Complex, also comms-relevant) or a smaller-but-real national program (New Zealand: Rocket Lab; Netherlands: ASTRON/LOFAR; Norway: Andøya/Svalbard ground stations; Sweden: Esrange; Argentina: CONAE).* *Counts recomputed 2026-10-30 as share × 135,226 (Kunlun's Census I after `DR-68`; the shares are unchanged). The shares sum to 99.99%, so the counts total 135,213, a rounding gap of 13.*
+*Tier labels follow the final shares: Primary and Significant end at the largest ratio gaps among the rows at 4.5% or more (Primary never more than six rows), no row at 4.5% or more is Notable, and Notable is the rest (the composition file's own rule, "boundaries fall at the largest ratio gaps"; the 8 / 3 / 1 share weights no longer produce the figures). Percentages are of this city's own robot population (identical between censuses), not Tepenia-wide. Shares are rounded; they sum to 100% within rounding.*
+
+*The note that follows describes the earlier table (2026-07 to 2026-10) and is kept as history.*
+*(Amended 2026-11-02, `DR-85`, Option A: Primary now holds only the Sinian Federation, because Kunlun was set up in part through a joint agreement by the Sinian Federation; the USA and Russia moved to the Significant tier at the same weight as the other space-agency nations; Mongolia and Künnarantaiga joined the Significant tier as the founding wave; the counts now total exactly 135,226. The rationale below describes the 2026-07-06 arrangement.)* *Tiering rationale: **Primary** (8 shares) — the only nations with genuinely comprehensive, independent human spaceflight programs (USA, Russia, China). **Significant** (3 shares) — substantial national space agencies with real mission heritage but not full independent crewed spaceflight capability (Japan, Germany, France, UK, Italy, Canada, South Korea), plus **Intermarium/Intermaria** representing the unified political bloc's own collective space program — built on Ukraine's real Soviet-era rocket heritage (Yuzhmash), recast as a joint "Intermarian Space Program" credit rather than a solo Ukrainian one, consistent with Intermarium's established status elsewhere in the project as a unified meta-nation. **Notable** (1 share) — relevance from hosting a specific major facility (Chile: ALMA/VLT/Vera Rubin Observatory; South Africa: the Square Kilometer Array; Australia: Parkes Observatory and the Canberra Deep Space Communication Complex — directly relevant to Kunlun's comms function specifically; Spain: NASA's Madrid Deep Space Communications Complex, also comms-relevant) or a smaller-but-real national program (New Zealand: Rocket Lab; Netherlands: ASTRON/LOFAR; Norway: Andøya/Svalbard ground stations; Sweden: Esrange; Argentina: CONAE).* *Counts recomputed 2026-10-30 as share × 135,226 (Kunlun's Census I after `DR-68`; the shares are unchanged). The shares sum to 99.99%, so the counts total 135,213, a rounding gap of 13.*
 
 
 ---
@@ -79,7 +88,7 @@ Dome A — Dome Argus — is the highest point on the Antarctic Ice Sheet, at ap
 
 At 4,093 meters geometric elevation, with a physiological effective altitude approaching 5,000 meters due to polar atmospheric compression, Dome A / Kunlun is at the absolute limit of what sustained human habitation can support. Chronic mountain sickness at this altitude is not a manageable condition — it is the permanent baseline. The human founding population would have faced continuous physiological stress that compounds over years. **Resolved 2026-07-05** (see `Robot_Biology_and_Culture/Robot_Physiology_and_Cultural_Practices.md`, "Human-Robot Relations — Project-Wide Baseline"): no human population has survived at Kunlun, and human presence is now outright forbidden — not out of any anti-human sentiment, but as a genuine safety measure, since the combined altitude and cold would kill a human where a robot is unaffected. Kunlun is 0 humans / 135,226 robots today by settled protective policy, not by ambiguous attrition.
 
-**Re-resolved 2026-07-06:** Kunlun is no longer Tepenia's "exclusively Sinian" city — China remains a genuine, substantial Primary-tier presence, but sits alongside the USA and Russia as one of three space-superpower nations, with a further seventeen nations represented across the Significant and Notable tiers by real astronomy/space/communications credentials. See Population & Composition, above.
+**Re-resolved 2026-07-06:** Kunlun is no longer Tepenia's "exclusively Sinian" city — China remains a genuine, substantial Primary-tier presence, but sits alongside the USA and Russia as one of three space-superpower nations, with a further seventeen nations represented across the Significant and Notable tiers by real astronomy/space/communications credentials. See Population & Composition, above. *(Updated 2026-11-02, `DR-85`, Option A: the Sinian Federation now stands alone in the Primary tier and clearly leads; the USA and Russia are in the Significant tier; twenty-one further rows are represented, Mongolia and Künnarantaiga among them as the founding wave.)*
 
 ### Annual Climate
 

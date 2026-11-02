@@ -15,7 +15,7 @@
 | Significance | "Esperanza" = Hope in Spanish — a name that carries particular weight in an exile civilization; historically the site of the first human birth in Antarctica (Emilio Marcos Palma, January 7, 1978); the only pre-exile Argentine station designed for permanent family settlement; generations of Tepenian children were born here who had no other home | `Specs/Esperanza.md` L8 |
 | Coordinates (as written in the same field) | ~63°24'S, 56°59'W | `Specs/Esperanza.md` L3 |
 | Specs `Status:` field | States a later-era condition; per the standing default-scope rule (`00_RUNBOOK.md`, the Second Interwar default) this is **never an input** to a Second Interwar pass — not copied | `Specs/Esperanza.md` L4 |
-| Later-era sections present in the Specs file (same exclusion as `Status:`) | 2 section(s), by heading position: L155, L160 — not copied, not described | `Specs/Esperanza.md` L155, L160 |
+| Later-era sections present in the Specs file (same exclusion as `Status:`) | 2 section(s), by heading position: L155, L160 — not copied, not described | `Specs/Esperanza.md` L167, L172 |
 | Census I (spec's own line) | 967,477 humans / 934,728 robots / **1,902,205** combined | `Specs/Esperanza.md` L15 |
 | Census II (spec's own line) | 510,762 humans / 683,124 robots / **1,193,886** combined | `Specs/Esperanza.md` L16 |
 

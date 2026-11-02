@@ -25,47 +25,62 @@
 
 | Tier | Nations |
 |------|---------|
-| Primary | USA, Japan |
-| Significant | Germany, France, UK, Brazil, Australia |
-| Notable | Poland, Netherlands, Belgium, Argentina, Czech Republic, Ukraine, Romania, Norway, Finland, Hungary, South Africa, Slovakia, Belarus, Croatia, Bulgaria, Serbia, Lithuania, Slovenia, Latvia, Estonia |
+| Primary | France, Brazil, Australia |
+| Significant | Finland *(founding wave)*, Japan, Norway *(founding wave)*, CSA, Germany |
+| Notable | Denmark *(founding wave)*, Netherlands, Appalachia, Serbia, Poland, Sweden *(founding wave)*, Bulgaria, Czechia, Latvia, Austro-Bavaria, New England, Romania, Cascadia, Ukraine, United Kingdom, Hungary, Belarus, Croatia, Lithuania, Slovakia, Estonia, South Africa, Slovenia, Argentina (without Patagonia), Midwest Republic, Russia (core state), Amazonia, Colorado, Iceland *(founding wave)*, Sonora, Araucanía-Patagonia, Hawaii, Northern Ireland, Alaska |
 
 *Source: `Official_Population_Census.md` Sections A–C.*
 
 ### Per-Nation Breakdown — Robots and Humans, Census I and II
 
-*(De-stacked 2026-07-05 — raw tier-share percentages naturally produced blocks of nations with identical figures; applied a randomization method to break these into distinct, non-repeating values while preserving each tier's total and ordering. See `TODO.md` for the full method.)*
+*(Rebalanced 2026-11-02 in the population rework, `DR-85`: every country appears in its latest-period form (successor states and renamed countries, split by headcount, names explained in `Official_Population_Census.md` Section E); China's row is the Sinian Federation, with its decline and the refill of the gap where the rework applies it; places never counted before were added by time-zone window; tiers were relabeled from the final shares. This city: new pools: Luxembourg 0.17%, Kosovo 0.07%, Austria 1.72%; founder shares moved from Japan (points of the city): Iceland 0.55, Norway 2.41, Sweden 2.65, Finland 2.77, Denmark 3.07. The founders are the Register's. City totals in all four columns are unchanged. Method, every run and the research: `Sinian_Federation_Split_Scratch_2026-11-01/` (file `12_Rebalance_Run4.md`). The table that stood here before is in git commit `593510ab`.)*
 
 | Tier | Nation | Share % | Census I Robots | Census I Humans | Census II Robots | Census II Humans |
 |------|--------|---------|------------------|------------------|-------------------|-------------------|
-| Primary | Japan | 16.94% | 100,949 | 95,863 | 63,202 | 69,370 |
-| Primary | USA | 14.43% | 86,009 | 81,676 | 53,848 | 59,104 |
-| Significant | Brazil | 8.18% | 48,745 | 46,290 | 30,518 | 33,497 |
-| Significant | France | 7.73% | 46,050 | 43,730 | 28,831 | 31,644 |
-| Significant | Australia | 7.19% | 42,822 | 40,664 | 26,810 | 29,426 |
-| Significant | Germany | 4.58% | 27,287 | 25,913 | 17,084 | 18,751 |
-| Notable | Belgium | 2.78% | 16,594 | 15,758 | 10,390 | 11,403 |
-| Notable | Norway | 2.76% | 16,468 | 15,638 | 10,311 | 11,317 |
-| Notable | Poland | 2.73% | 16,262 | 15,443 | 10,181 | 11,175 |
-| Notable | Ukraine | 2.71% | 16,137 | 15,325 | 10,104 | 11,090 |
-| Notable | Serbia | 2.67% | 15,891 | 15,091 | 9,948 | 10,920 |
-| Notable | Finland | 2.57% | 15,337 | 14,564 | 9,602 | 10,540 |
-| Notable | Bulgaria | 2.57% | 15,314 | 14,542 | 9,587 | 10,523 |
-| Notable | Romania | 2.52% | 15,001 | 14,246 | 9,392 | 10,308 |
-| Notable | Czech Republic | 2.51% | 14,932 | 14,180 | 9,349 | 10,261 |
-| Notable | Latvia | 2.51% | 14,976 | 14,222 | 9,376 | 10,292 |
-| Significant | UK | 1.74% | 10,369 | 9,846 | 6,492 | 7,125 |
-| Notable | Netherlands | 1.42% | 8,438 | 8,013 | 5,283 | 5,798 |
-| Notable | Hungary | 1.41% | 8,393 | 7,970 | 5,255 | 5,767 |
-| Notable | Belarus | 1.40% | 8,368 | 7,948 | 5,240 | 5,751 |
-| Notable | Croatia | 1.35% | 8,056 | 7,650 | 5,044 | 5,537 |
-| Notable | Lithuania | 1.35% | 8,033 | 7,628 | 5,029 | 5,519 |
-| Notable | Slovakia | 1.26% | 7,479 | 7,102 | 4,682 | 5,140 |
-| Notable | Estonia | 1.21% | 7,232 | 6,868 | 4,528 | 4,970 |
-| Notable | Argentina | 1.19% | 7,108 | 6,749 | 4,449 | 4,884 |
-| Notable | South Africa | 1.16% | 6,901 | 6,554 | 4,321 | 4,743 |
-| Notable | Slovenia | 1.14% | 6,776 | 6,434 | 4,242 | 4,656 |
+| Primary | France | 8.89% | 52,981 | 50,312 | 33,171 | 36,408 |
+| Primary | Brazil | 7.22% | 43,045 | 40,876 | 26,949 | 29,579 |
+| Primary | Australia | 7.05% | 41,985 | 39,869 | 26,287 | 28,851 |
+| Significant | Finland *(founding wave)* | 5.29% | 31,544 | 29,955 | 19,749 | 21,677 |
+| Significant | Japan | 5.16% | 30,717 | 29,169 | 19,232 | 21,108 |
+| Significant | Norway *(founding wave)* | 5.12% | 30,531 | 28,991 | 19,114 | 20,981 |
+| Significant | CSA | 4.58% | 27,279 | 25,905 | 17,079 | 18,745 |
+| Significant | Germany | 3.77% | 22,441 | 21,311 | 14,049 | 15,420 |
+| Notable | Denmark *(founding wave)* | 3.07% | 18,288 | 17,367 | 11,450 | 12,567 |
+| Notable | Netherlands | 2.98% | 17,718 | 16,825 | 11,093 | 12,174 |
+| Notable | Appalachia | 2.94% | 17,509 | 16,627 | 10,962 | 12,033 |
+| Notable | Serbia | 2.69% | 15,983 | 15,178 | 10,005 | 10,983 |
+| Notable | Poland | 2.68% | 15,944 | 15,140 | 9,983 | 10,957 |
+| Notable | Sweden *(founding wave)* | 2.65% | 15,778 | 14,983 | 9,878 | 10,842 |
+| Notable | Bulgaria | 2.52% | 15,016 | 14,258 | 9,400 | 10,318 |
+| Notable | Czechia | 2.46% | 14,640 | 13,903 | 9,167 | 10,060 |
+| Notable | Latvia | 2.46% | 14,683 | 13,944 | 9,193 | 10,091 |
+| Notable | Austro-Bavaria | 2.44% | 14,549 | 13,817 | 9,109 | 9,998 |
+| Notable | New England | 2.40% | 14,321 | 13,599 | 8,965 | 9,841 |
+| Notable | Romania | 2.22% | 13,194 | 12,530 | 8,262 | 9,067 |
+| Notable | Cascadia | 2.14% | 12,756 | 12,114 | 7,985 | 8,766 |
+| Notable | Ukraine | 1.76% | 10,504 | 9,975 | 6,576 | 7,218 |
+| Notable | United Kingdom | 1.66% | 9,883 | 9,385 | 6,188 | 6,791 |
+| Notable | Hungary | 1.64% | 9,743 | 9,252 | 6,099 | 6,694 |
+| Notable | Belarus | 1.37% | 8,205 | 7,793 | 5,137 | 5,638 |
+| Notable | Croatia | 1.32% | 7,898 | 7,501 | 4,945 | 5,428 |
+| Notable | Lithuania | 1.32% | 7,875 | 7,479 | 4,931 | 5,411 |
+| Notable | Slovakia | 1.24% | 7,333 | 6,963 | 4,591 | 5,039 |
+| Notable | Estonia | 1.19% | 7,091 | 6,733 | 4,439 | 4,873 |
+| Notable | South Africa | 1.14% | 6,766 | 6,427 | 4,237 | 4,651 |
+| Notable | Slovenia | 1.12% | 6,643 | 6,309 | 4,159 | 4,565 |
+| Notable | Argentina (without Patagonia) | 1.10% | 6,572 | 6,242 | 4,114 | 4,517 |
+| Notable | Midwest Republic | 0.91% | 5,445 | 5,171 | 3,409 | 3,741 |
+| Notable | Russia (core state) | 0.89% | 5,318 | 5,051 | 3,330 | 3,655 |
+| Notable | Amazonia | 0.80% | 4,749 | 4,509 | 2,973 | 3,263 |
+| Notable | Colorado | 0.69% | 4,095 | 3,888 | 2,563 | 2,814 |
+| Notable | Iceland *(founding wave)* | 0.55% | 3,302 | 3,136 | 2,067 | 2,269 |
+| Notable | Sonora | 0.40% | 2,405 | 2,284 | 1,506 | 1,653 |
+| Notable | Araucanía-Patagonia | 0.066% | 396 | 376 | 249 | 272 |
+| Notable | Hawaii | 0.059% | 354 | 335 | 222 | 244 |
+| Notable | Northern Ireland | 0.047% | 283 | 269 | 178 | 195 |
+| Notable | Alaska | 0.028% | 165 | 156 | 103 | 114 |
 
-*Figures use the project's standard share-weighting methodology as a baseline (Primary=8 shares, Significant=3 shares, Notable=1 share per nation — see `Upper_Earth_Immigration_Composition.md`), then de-stacked per the method above so that same-tier nations no longer show identical figures. Percentages are of this city's own population (identical between Census I and II under this proportional model), not Tepenia-wide. Robot figures apply the same national-origin proportions as the human population, consistent with the project's established methodology.*
+*Tier labels follow the final shares: Primary and Significant end at the largest ratio gaps among the rows at 4.5% or more (Primary never more than six rows), no row at 4.5% or more is Notable, and Notable is the rest (the composition file's own rule, "boundaries fall at the largest ratio gaps"; the 8 / 3 / 1 share weights no longer produce the figures). Percentages are of this city's own human and robot population (identical between censuses), not Tepenia-wide. Robot figures apply the same proportions as the human population. Shares are rounded; they sum to 100% within rounding.*
 
 ---
 

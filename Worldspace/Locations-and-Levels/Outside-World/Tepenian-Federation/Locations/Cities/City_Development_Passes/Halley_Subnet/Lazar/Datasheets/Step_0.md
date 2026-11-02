@@ -7,8 +7,8 @@
 
 | Category | Value | Citation |
 |---|---|---|
-| Census I | 1,170,443 H / 1,211,762 R / **2,382,205** combined *(a long status cell is present: an authoring note, not copied)* | `Official_Population_Census.md` L482 |
-| Census II | 783,193 H / 856,233 R / **1,639,426** combined *(a long status cell is present: an authoring note, not copied)* | `Official_Population_Census.md` L604 |
+| Census I | 1,170,443 H / 1,211,762 R / **2,382,205** combined *(a long status cell is present: an authoring note, not copied)* | `Official_Population_Census.md` L494 |
+| Census II | 783,193 H / 856,233 R / **1,639,426** combined *(a long status cell is present: an authoring note, not copied)* | `Official_Population_Census.md` L636 |
 | Retention (computed; formula = Census II count ÷ Census I count) | combined 68.82% · human 66.91% · robot 70.66% | Computed from the two rows above: 1,639,426÷2,382,205 · 783,193÷1,170,443 · 856,233÷1,211,762 |
 | Extent table — the city's row (the table is titled *"required area at the band"*; columns: City · Subnet · Census I · @10k · @7k · Site) | Lazar · Halley · 2,620,319 · 262 · 374 · Schirmacher Oasis ~34 km² | `Extent_and_Density_Per_City.md` L605 (title L601, header L603) — 2026-09-05 snapshot; the census is live — note L631 |
 | Extent — the −10% discharge row (columns: Source · Why reduced · Census I · Census II) | Lazar · **−10%** — *34 km² of Schirmacher carrying **87–91% of the city on ice*** · **262,032** · **180,398** | `Extent_and_Density_Per_City.md` L654 (header L649) — 2026-09-05 snapshot; the census is live — note L631 |

@@ -57,45 +57,52 @@
 
 | Tier | Nations |
 |------|---------|
-| Primary | China |
-| Significant | Japan, Germany, France, UK, South Korea, Indonesia, Australia |
-| Notable | Poland, Netherlands, Czech Republic, Ukraine, Romania, Norway, Hungary, South Africa, Slovakia, Belarus, Croatia, Bulgaria, Serbia, Lithuania, Slovenia, Latvia, Estonia |
+| Primary | Sinian Federation, Australia, Indonesia, United Kingdom, Germany |
+| Significant | Korea, France |
+| Notable | Serbia, Netherlands, Slovenia, Croatia, Austro-Bavaria, Lithuania, Norway, Belarus, Latvia, Japan, Romania, Hungary, Czechia, South Africa, Bulgaria, Poland, Estonia, Ukraine, Slovakia, Russia (core state), East Turkestan, Northern Ireland, West Papua, Aceh, Tibet |
 
 *Source: `Official_Population_Census.md` Sections A–C.*
 
 ### Per-Nation Breakdown — Robots and Humans, Census I and II
 
-*(De-stacked 2026-07-05 — raw tier-share percentages naturally produced blocks of nations with identical figures; applied a randomization method to break these into distinct, non-repeating values while preserving each tier's total and its order within the tier. See `TODO.md` for the full method.)*
+*(Rebalanced 2026-11-02 in the population rework, `DR-85`: every country appears in its latest-period form (successor states and renamed countries, split by headcount, names explained in `Official_Population_Census.md` Section E); China's row is the Sinian Federation, with its decline and the refill of the gap where the rework applies it; places never counted before were added by time-zone window; tiers were relabeled from the final shares. This city: china's pieces in window: Tibet, East Turkestan; new pools: Luxembourg 0.17%, Kosovo 0.07%, Austria 1.72%; the Sinian Federation's share was multiplied by 0.5829 (random 0.55 to 0.65), and the freed points went in proportion to size to: Indonesia, Australia, Germany, United Kingdom, Korea, France. City totals in all four columns are unchanged. Method, every run and the research: `Sinian_Federation_Split_Scratch_2026-11-01/` (file `12_Rebalance_Run4.md`). The table that stood here before is in git commit `593510ab`.)*
 
 | Tier | Nation | Share % | Census I Robots | Census I Humans | Census II Robots | Census II Humans |
 |------|--------|---------|------------------|------------------|-------------------|-------------------|
-| Primary | China | 17.39% | 22,960 | 16,236 | 13,871 | 14,817 |
-| Significant | Indonesia | 8.59% | 11,338 | 8,018 | 6,850 | 7,317 |
-| Significant | Australia | 8.27% | 10,919 | 7,721 | 6,596 | 7,046 |
-| Significant | Germany | 8.22% | 10,851 | 7,673 | 6,555 | 7,002 |
-| Significant | UK | 7.97% | 10,527 | 7,444 | 6,360 | 6,793 |
-| Significant | South Korea | 5.07% | 6,693 | 4,733 | 4,044 | 4,320 |
-| Significant | France | 4.82% | 6,369 | 4,504 | 3,848 | 4,110 |
-| Notable | Serbia | 3.22% | 4,256 | 3,010 | 2,571 | 2,747 |
-| Notable | Netherlands | 3.14% | 4,142 | 2,929 | 2,502 | 2,673 |
-| Notable | Slovenia | 3.12% | 4,122 | 2,915 | 2,490 | 2,660 |
-| Notable | Croatia | 3.11% | 4,101 | 2,900 | 2,477 | 2,646 |
-| Notable | Romania | 2.81% | 3,707 | 2,621 | 2,239 | 2,392 |
-| Notable | Lithuania | 2.81% | 3,712 | 2,625 | 2,242 | 2,395 |
-| Notable | Norway | 2.80% | 3,698 | 2,615 | 2,234 | 2,387 |
-| Notable | Belarus | 2.79% | 3,686 | 2,607 | 2,227 | 2,379 |
-| Notable | Latvia | 2.76% | 3,643 | 2,576 | 2,201 | 2,351 |
-| Significant | Japan | 2.71% | 3,573 | 2,527 | 2,159 | 2,306 |
-| Notable | Czech Republic | 1.56% | 2,054 | 1,452 | 1,241 | 1,325 |
-| Notable | Ukraine | 1.55% | 2,042 | 1,444 | 1,234 | 1,318 |
-| Notable | Hungary | 1.54% | 2,033 | 1,438 | 1,228 | 1,312 |
-| Notable | South Africa | 1.54% | 2,028 | 1,434 | 1,225 | 1,309 |
-| Notable | Bulgaria | 1.24% | 1,639 | 1,159 | 990 | 1,058 |
-| Notable | Poland | 1.23% | 1,618 | 1,144 | 978 | 1,044 |
-| Notable | Estonia | 1.12% | 1,484 | 1,049 | 896 | 958 |
-| Notable | Slovakia | 0.63% | 825 | 584 | 499 | 533 |
+| Primary | Sinian Federation | 9.73% | 12,843 | 9,081 | 7,760 | 8,290 |
+| Primary | Australia | 9.51% | 12,551 | 8,876 | 7,582 | 8,099 |
+| Primary | Indonesia | 9.48% | 12,509 | 8,846 | 7,558 | 8,073 |
+| Primary | United Kingdom | 8.91% | 11,765 | 8,320 | 7,108 | 7,593 |
+| Primary | Germany | 7.93% | 10,463 | 7,399 | 6,321 | 6,751 |
+| Significant | Korea | 5.82% | 7,679 | 5,431 | 4,640 | 4,957 |
+| Significant | France | 5.74% | 7,583 | 5,362 | 4,581 | 4,893 |
+| Notable | Serbia | 3.23% | 4,262 | 3,014 | 2,575 | 2,750 |
+| Notable | Netherlands | 3.08% | 4,061 | 2,872 | 2,453 | 2,620 |
+| Notable | Slovenia | 3.06% | 4,041 | 2,858 | 2,441 | 2,607 |
+| Notable | Croatia | 3.05% | 4,021 | 2,843 | 2,428 | 2,594 |
+| Notable | Austro-Bavaria | 3.02% | 3,983 | 2,817 | 2,406 | 2,570 |
+| Notable | Lithuania | 2.75% | 3,639 | 2,573 | 2,198 | 2,348 |
+| Notable | Norway | 2.75% | 3,626 | 2,563 | 2,191 | 2,340 |
+| Notable | Belarus | 2.73% | 3,614 | 2,555 | 2,184 | 2,332 |
+| Notable | Latvia | 2.71% | 3,571 | 2,526 | 2,158 | 2,306 |
+| Notable | Japan | 2.66% | 3,504 | 2,478 | 2,117 | 2,262 |
+| Notable | Romania | 2.47% | 3,261 | 2,305 | 1,970 | 2,104 |
+| Notable | Hungary | 1.79% | 2,367 | 1,675 | 1,429 | 1,527 |
+| Notable | Czechia | 1.53% | 2,014 | 1,423 | 1,217 | 1,299 |
+| Notable | South Africa | 1.51% | 1,988 | 1,406 | 1,201 | 1,284 |
+| Notable | Bulgaria | 1.22% | 1,607 | 1,136 | 970 | 1,037 |
+| Notable | Poland | 1.21% | 1,586 | 1,121 | 958 | 1,023 |
+| Notable | Estonia | 1.10% | 1,455 | 1,028 | 878 | 939 |
+| Notable | Ukraine | 1.01% | 1,330 | 940 | 803 | 859 |
+| Notable | Slovakia | 0.62% | 809 | 573 | 489 | 523 |
+| Notable | Russia (core state) | 0.51% | 673 | 476 | 407 | 434 |
+| Notable | East Turkestan | 0.32% | 420 | 297 | 254 | 271 |
+| Notable | Northern Ireland | 0.22% | 287 | 203 | 174 | 186 |
+| Notable | West Papua | 0.17% | 228 | 161 | 138 | 147 |
+| Notable | Aceh | 0.17% | 220 | 156 | 134 | 143 |
+| Notable | Tibet | 0.045% | 60 | 42 | 35 | 38 |
 
-*Figures use the project's standard share-weighting methodology as a baseline (Primary=8 shares, Significant=3 shares, Notable=1 share per nation — see `Upper_Earth_Immigration_Composition.md`), then de-stacked per the method above so that same-tier nations no longer show identical figures. Percentages are of this city's own population (identical between Census I and II under this proportional model), not Tepenia-wide. Robot figures apply the same national-origin proportions as the human population, consistent with the project's established methodology.*
+*Tier labels follow the final shares: Primary and Significant end at the largest ratio gaps among the rows at 4.5% or more (Primary never more than six rows), no row at 4.5% or more is Notable, and Notable is the rest (the composition file's own rule, "boundaries fall at the largest ratio gaps"; the 8 / 3 / 1 share weights no longer produce the figures). Percentages are of this city's own human and robot population (identical between censuses), not Tepenia-wide. Robot figures apply the same proportions as the human population. Shares are rounded; they sum to 100% within rounding.*
 
 ---
 
@@ -244,7 +251,7 @@ Scientific research, maritime trade through Lützow-Holm Bay, and — the city's
 ---
 
 ## Connection to Concordia
-Mawson subnet. **Corrected 2026-07-06:** the Japanese exile community's Tepenia presence is no longer concentrated here specifically — that's now Shirayuki's role (36.27% Japan-Primary), not Temirötkel's (Japan diluted to 2.71%). Any Concordia knowledge of *living, demographically-concentrated* Japanese Tepenian culture more plausibly traces through Shirayuki now. More directly than most Mawson subnet cities, Temirötkel's proximity to the Temirötkel Junction, where Hwy 37 begins its run toward Concordia, gives it a literal physical link toward Concordia itself via Dome Fuji, Kunlun, and Ariun Nuur — not just a cultural transmission line but critical infrastructure. *(Corrected 2026-07-06 for the route order — see `Locations/Infrastructure/Highways.md`.)*
+Mawson subnet. **Corrected 2026-07-06:** the Japanese exile community's Tepenia presence is no longer concentrated here specifically — that's now Shirayuki's role (34.71% Japan-Primary), not Temirötkel's (Japan diluted to 2.66%) *(figures updated 2026-11-02, `DR-85`; they were 36.27% and 2.71%)*. Any Concordia knowledge of *living, demographically-concentrated* Japanese Tepenian culture more plausibly traces through Shirayuki now. More directly than most Mawson subnet cities, Temirötkel's proximity to the Temirötkel Junction, where Hwy 37 begins its run toward Concordia, gives it a literal physical link toward Concordia itself via Dome Fuji, Kunlun, and Ariun Nuur — not just a cultural transmission line but critical infrastructure. *(Corrected 2026-07-06 for the route order — see `Locations/Infrastructure/Highways.md`.)*
 
 ---
 

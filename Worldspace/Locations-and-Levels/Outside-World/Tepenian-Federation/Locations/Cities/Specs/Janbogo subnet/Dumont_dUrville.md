@@ -45,32 +45,48 @@
 
 | Tier | Nations |
 |------|---------|
-| Primary | China, USA |
-| Significant | Japan, France, South Korea, Indonesia, Australia *(founding wave)* |
-| Notable | Thailand, Vietnam, Philippines, Malaysia, New Zealand |
+| Primary | Sinian Federation, France, Japan, Australia *(founding wave)* |
+| Significant | CSA, Indonesia |
+| Notable | Appalachia, New Zealand, Vietnam, New England, Philippines, Cascadia, Taiwan, Malaysia, Korea, Manchuria, Midwest Republic, Colorado, Sonora, Mongolia, East Turkestan, Thailand, West Papua, Aceh, Hawaii, Tibet, Alaska, Patani |
 
 *Source: `Official_Population_Census.md` Sections A–C.*
 
 ### Per-Nation Breakdown — Robots and Humans, Census I and II
 
-*(De-stacked 2026-07-05 — raw tier-share percentages naturally produced blocks of nations with identical figures; applied a randomization method to break these into distinct, non-repeating values while preserving each tier's total and its order within the tier. See `TODO.md` for the full method.)*
+*(Rebalanced 2026-11-02 in the population rework, `DR-85`: every country appears in its latest-period form (successor states and renamed countries, split by headcount, names explained in `Official_Population_Census.md` Section E); China's row is the Sinian Federation, with its decline and the refill of the gap where the rework applies it; places never counted before were added by time-zone window; tiers were relabeled from the final shares. This city: china's pieces in window: Mongolia, Manchuria, Tibet, East Turkestan; new pools: Hong Kong 0.88%, Macau 0.10%, Taiwan 2.92%, Mongolia 0.09%, North Korea 0.36%; the Sinian Federation's share was multiplied by 0.6236 (random 0.55 to 0.65), and the freed points went in proportion to size to: CSA, France, Japan, Australia, Indonesia. City totals in all four columns are unchanged. Method, every run and the research: `Sinian_Federation_Split_Scratch_2026-11-01/` (file `12_Rebalance_Run4.md`). The table that stood here before is in git commit `593510ab`.)*
 
 | Tier | Nation | Share % | Census I Robots | Census I Humans | Census II Robots | Census II Humans |
 |------|--------|---------|------------------|------------------|-------------------|-------------------|
-| Primary | China | 24.31% | 50,284 | 48,919 | 38,815 | 29,462 |
-| Primary | USA | 20.13% | 41,630 | 40,500 | 32,135 | 24,392 |
-| Significant | France | 11.80% | 24,396 | 23,734 | 18,831 | 14,294 |
-| Significant | Japan | 11.72% | 24,243 | 23,584 | 18,713 | 14,204 |
-| Significant | Australia | 11.08% | 22,906 | 22,285 | 17,681 | 13,421 |
-| Significant | Indonesia | 5.59% | 11,561 | 11,247 | 8,924 | 6,774 |
-| Notable | New Zealand | 4.16% | 8,594 | 8,361 | 6,634 | 5,035 |
-| Notable | Vietnam | 4.04% | 8,355 | 8,128 | 6,449 | 4,895 |
-| Notable | Philippines | 3.40% | 7,030 | 6,839 | 5,426 | 4,118 |
-| Notable | Malaysia | 2.16% | 4,459 | 4,339 | 3,443 | 2,613 |
-| Significant | South Korea | 1.48% | 3,064 | 2,980 | 2,364 | 1,795 |
-| Notable | Thailand | 0.14% | 285 | 278 | 220 | 167 |
+| Primary | Sinian Federation | 13.56% | 28,054 | 27,291 | 21,654 | 16,436 |
+| Primary | France | 13.37% | 27,642 | 26,894 | 21,338 | 16,197 |
+| Primary | Japan | 13.28% | 27,470 | 26,724 | 21,203 | 16,095 |
+| Primary | Australia *(founding wave)* | 12.55% | 25,955 | 25,252 | 20,035 | 15,206 |
+| Significant | CSA | 7.38% | 15,259 | 14,845 | 11,779 | 8,941 |
+| Significant | Indonesia | 6.08% | 12,573 | 12,230 | 9,704 | 7,366 |
+| Notable | Appalachia | 4.00% | 8,272 | 8,047 | 6,385 | 4,846 |
+| Notable | New Zealand | 3.98% | 8,224 | 8,000 | 6,348 | 4,818 |
+| Notable | Vietnam | 3.87% | 7,996 | 7,778 | 6,172 | 4,685 |
+| Notable | New England | 3.27% | 6,765 | 6,581 | 5,222 | 3,963 |
+| Notable | Philippines | 3.25% | 6,728 | 6,544 | 5,192 | 3,941 |
+| Notable | Cascadia | 2.91% | 6,025 | 5,862 | 4,652 | 3,531 |
+| Notable | Taiwan | 2.90% | 6,007 | 5,845 | 4,638 | 3,520 |
+| Notable | Malaysia | 2.07% | 4,268 | 4,153 | 3,295 | 2,501 |
+| Notable | Korea | 1.78% | 3,679 | 3,577 | 2,838 | 2,154 |
+| Notable | Manchuria | 1.57% | 3,251 | 3,164 | 2,509 | 1,903 |
+| Notable | Midwest Republic | 1.24% | 2,572 | 2,502 | 1,986 | 1,507 |
+| Notable | Colorado | 0.94% | 1,934 | 1,882 | 1,494 | 1,134 |
+| Notable | Sonora | 0.55% | 1,136 | 1,106 | 878 | 666 |
+| Notable | Mongolia | 0.49% | 1,008 | 982 | 778 | 593 |
+| Notable | East Turkestan | 0.43% | 898 | 873 | 693 | 526 |
+| Notable | Thailand | 0.13% | 266 | 259 | 205 | 155 |
+| Notable | West Papua | 0.11% | 227 | 220 | 175 | 133 |
+| Notable | Aceh | 0.11% | 219 | 214 | 168 | 128 |
+| Notable | Hawaii | 0.081% | 166 | 162 | 130 | 98 |
+| Notable | Tibet | 0.061% | 127 | 123 | 98 | 75 |
+| Notable | Alaska | 0.038% | 78 | 76 | 60 | 47 |
+| Notable | Patani | 0.004% | 8 | 8 | 6 | 5 |
 
-*Figures use the project's standard share-weighting methodology as a baseline (Primary=8 shares, Significant=3 shares, Notable=1 share per nation — see `Upper_Earth_Immigration_Composition.md`), then de-stacked per the method above so that same-tier nations no longer show identical figures. Percentages are of this city's own population (identical between Census I and II under this proportional model), not Tepenia-wide. Robot figures apply the same national-origin proportions as the human population, consistent with the project's established methodology.*
+*Tier labels follow the final shares: Primary and Significant end at the largest ratio gaps among the rows at 4.5% or more (Primary never more than six rows), no row at 4.5% or more is Notable, and Notable is the rest (the composition file's own rule, "boundaries fall at the largest ratio gaps"; the 8 / 3 / 1 share weights no longer produce the figures). Percentages are of this city's own human and robot population (identical between censuses), not Tepenia-wide. Robot figures apply the same proportions as the human population. Shares are rounded; they sum to 100% within rounding.*
 
 ---
 

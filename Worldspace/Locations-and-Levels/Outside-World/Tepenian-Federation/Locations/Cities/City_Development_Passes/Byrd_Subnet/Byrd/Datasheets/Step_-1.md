@@ -16,7 +16,7 @@
 | Significance | *[source line excluded: later-era content, outside the Second Interwar default scope; not copied]* | `Specs/Byrd.md` L54 |
 | Coordinates (as written in the same field) | ~80°01'S, 119°31'W | `Specs/Byrd.md` L49 |
 | Specs `Status:` field | States a later-era condition; per the standing default-scope rule (`00_RUNBOOK.md`, the Second Interwar default) this is **never an input** to a Second Interwar pass — not copied | `Specs/Byrd.md` L50 |
-| Later-era sections present in the Specs file (same exclusion as `Status:`) | 3 section(s), by heading position: L284, L304, L312 — not copied, not described | `Specs/Byrd.md` L284, L304, L312 |
+| Later-era sections present in the Specs file (same exclusion as `Status:`) | 3 section(s), by heading position: L284, L304, L312 — not copied, not described | `Specs/Byrd.md` L320, L340, L348 |
 | Census I (spec's own line) | 198,406 humans / 202,399 robots / **400,805** combined | `Specs/Byrd.md` L61 |
 | Census II (spec's own line) | Not yet computed for this city (see `Official_Population_Census.md`) | `Specs/Byrd.md` L62 |
 

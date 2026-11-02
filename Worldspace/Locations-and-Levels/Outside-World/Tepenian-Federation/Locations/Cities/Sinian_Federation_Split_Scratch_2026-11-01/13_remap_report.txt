@@ -1,0 +1,593 @@
+##### Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes
+APPLIED  base 593510ab  (1041 file(s) searched)
+citations checked: 6578   line numbers moved: 1238   in 263 file(s)
+     1  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Amundsen_Station/Amundsen_Station/Datasheets/Phase_10.md
+    12  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Amundsen_Station/Amundsen_Station/Datasheets/Phase_2.md
+     3  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Amundsen_Station/Amundsen_Station/Datasheets/Phase_3.md
+     3  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Amundsen_Station/Amundsen_Station/Datasheets/Step_-1.md
+     6  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Amundsen_Station/Amundsen_Station/Datasheets/Step_0.md
+    20  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Amundsen_Station/Amundsen_Station/Datasheets/Step_1_and_2.md
+     2  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Byrd_Subnet/Byrd/Datasheets/Phase_10.md
+     4  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Byrd_Subnet/Byrd/Datasheets/Phase_2.md
+     4  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Byrd_Subnet/Byrd/Datasheets/Phase_3.md
+     3  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Byrd_Subnet/Byrd/Datasheets/Step_-1.md
+     1  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Byrd_Subnet/Byrd/Datasheets/Step_0.md
+    19  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Byrd_Subnet/Byrd/Datasheets/Step_1_and_2.md
+     1  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Halley_Subnet/Belgrano/Datasheets/Phase_10.md
+     5  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Halley_Subnet/Belgrano/Datasheets/Phase_2.md
+     3  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Halley_Subnet/Belgrano/Datasheets/Phase_3.md
+     2  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Halley_Subnet/Belgrano/Datasheets/Step_-1.md
+     2  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Halley_Subnet/Belgrano/Datasheets/Step_0.md
+    18  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Halley_Subnet/Belgrano/Datasheets/Step_1_and_2.md
+     1  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Halley_Subnet/Halley/00.0_Pre-Trip_Inspection.md
+     1  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Halley_Subnet/Halley/Datasheets/Phase_10.md
+     4  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Halley_Subnet/Halley/Datasheets/Phase_2.md
+     3  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Halley_Subnet/Halley/Datasheets/Phase_3.md
+     3  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Halley_Subnet/Halley/Datasheets/Step_-1.md
+     3  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Halley_Subnet/Halley/Datasheets/Step_0.md
+    18  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Halley_Subnet/Halley/Datasheets/Step_1_and_2.md
+     1  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Halley_Subnet/Lazar/Datasheets/Phase_10.md
+     4  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Halley_Subnet/Lazar/Datasheets/Phase_2.md
+     3  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Halley_Subnet/Lazar/Datasheets/Phase_3.md
+     3  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Halley_Subnet/Lazar/Datasheets/Step_-1.md
+     2  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Halley_Subnet/Lazar/Datasheets/Step_0.md
+    18  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Halley_Subnet/Lazar/Datasheets/Step_1_and_2.md
+     1  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Halley_Subnet/Neumayer/Datasheets/Phase_10.md
+     5  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Halley_Subnet/Neumayer/Datasheets/Phase_2.md
+     3  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Halley_Subnet/Neumayer/Datasheets/Phase_3.md
+     2  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Halley_Subnet/Neumayer/Datasheets/Step_-1.md
+     3  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Halley_Subnet/Neumayer/Datasheets/Step_0.md
+    19  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Halley_Subnet/Neumayer/Datasheets/Step_1_and_2.md
+     1  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Halley_Subnet/Sanay/Datasheets/Phase_10.md
+     4  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Halley_Subnet/Sanay/Datasheets/Phase_2.md
+     3  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Halley_Subnet/Sanay/Datasheets/Phase_3.md
+     3  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Halley_Subnet/Sanay/Datasheets/Step_-1.md
+     3  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Halley_Subnet/Sanay/Datasheets/Step_0.md
+    19  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Halley_Subnet/Sanay/Datasheets/Step_1_and_2.md
+     1  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Halley_Subnet/Santa_Luce/00.0_Pre-Trip_Inspection.md
+     1  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Halley_Subnet/Santa_Luce/Datasheets/Phase_10.md
+     4  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Halley_Subnet/Santa_Luce/Datasheets/Phase_2.md
+     3  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Halley_Subnet/Santa_Luce/Datasheets/Phase_3.md
+     1  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Halley_Subnet/Santa_Luce/Datasheets/Phase_5.md
+     3  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Halley_Subnet/Santa_Luce/Datasheets/Step_-1.md
+     2  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Halley_Subnet/Santa_Luce/Datasheets/Step_0.md
+    18  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Halley_Subnet/Santa_Luce/Datasheets/Step_1_and_2.md
+     1  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Halley_Subnet/Troll/Datasheets/Phase_10.md
+     4  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Halley_Subnet/Troll/Datasheets/Phase_2.md
+     3  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Halley_Subnet/Troll/Datasheets/Phase_3.md
+     2  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Halley_Subnet/Troll/Datasheets/Step_-1.md
+     3  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Halley_Subnet/Troll/Datasheets/Step_0.md
+    19  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Halley_Subnet/Troll/Datasheets/Step_1_and_2.md
+     1  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Halley_Subnet/Utstein/Datasheets/Phase_10.md
+     4  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Halley_Subnet/Utstein/Datasheets/Phase_2.md
+     3  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Halley_Subnet/Utstein/Datasheets/Phase_3.md
+     3  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Halley_Subnet/Utstein/Datasheets/Step_-1.md
+     3  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Halley_Subnet/Utstein/Datasheets/Step_0.md
+    19  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Halley_Subnet/Utstein/Datasheets/Step_1_and_2.md
+     2  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Janbogo_Subnet/Cape_Adare/Datasheets/Phase_10.md
+     7  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Janbogo_Subnet/Cape_Adare/Datasheets/Phase_2.md
+    12  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Janbogo_Subnet/Cape_Adare/Datasheets/Phase_3.md
+     1  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Janbogo_Subnet/Cape_Adare/Datasheets/Phase_4.md
+     1  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Janbogo_Subnet/Cape_Adare/Datasheets/Phase_6.md
+     1  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Janbogo_Subnet/Cape_Adare/Datasheets/Phase_8.md
+     9  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Janbogo_Subnet/Cape_Adare/Datasheets/Step_-1.md
+     2  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Janbogo_Subnet/Cape_Adare/Datasheets/Step_0.md
+    11  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Janbogo_Subnet/Cape_Adare/Datasheets/Step_1_and_2.md
+     1  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Janbogo_Subnet/Denison/00.0_Pre-Trip_Inspection.md
+     2  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Janbogo_Subnet/Denison/Datasheets/Phase_10.md
+     7  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Janbogo_Subnet/Denison/Datasheets/Phase_2.md
+     4  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Janbogo_Subnet/Denison/Datasheets/Phase_3.md
+     2  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Janbogo_Subnet/Denison/Datasheets/Phase_4.md
+     1  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Janbogo_Subnet/Denison/Datasheets/Phase_6.md
+     1  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Janbogo_Subnet/Denison/Datasheets/Phase_7.md
+     4  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Janbogo_Subnet/Denison/Datasheets/Step_-1.md
+     5  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Janbogo_Subnet/Denison/Datasheets/Step_0.md
+    16  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Janbogo_Subnet/Denison/Datasheets/Step_1_and_2.md
+     1  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Janbogo_Subnet/Denison/Datasheets/Step_3.md
+     1  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Janbogo_Subnet/Dumont_dUrville/00.0_Pre-Trip_Inspection.md
+     2  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Janbogo_Subnet/Dumont_dUrville/Datasheets/Phase_10.md
+     5  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Janbogo_Subnet/Dumont_dUrville/Datasheets/Phase_2.md
+     8  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Janbogo_Subnet/Dumont_dUrville/Datasheets/Phase_3.md
+     1  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Janbogo_Subnet/Dumont_dUrville/Datasheets/Phase_4.md
+     3  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Janbogo_Subnet/Dumont_dUrville/Datasheets/Phase_8.md
+    11  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Janbogo_Subnet/Dumont_dUrville/Datasheets/Step_-1.md
+     3  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Janbogo_Subnet/Dumont_dUrville/Datasheets/Step_0.md
+    13  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Janbogo_Subnet/Dumont_dUrville/Datasheets/Step_1_and_2.md
+     2  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Janbogo_Subnet/Fort_McMurdo/Datasheets/Phase_10.md
+     4  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Janbogo_Subnet/Fort_McMurdo/Datasheets/Phase_2.md
+     3  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Janbogo_Subnet/Fort_McMurdo/Datasheets/Phase_3.md
+     3  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Janbogo_Subnet/Fort_McMurdo/Datasheets/Step_-1.md
+     2  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Janbogo_Subnet/Fort_McMurdo/Datasheets/Step_0.md
+    18  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Janbogo_Subnet/Fort_McMurdo/Datasheets/Step_1_and_2.md
+     2  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Janbogo_Subnet/Janbogo/Datasheets/Phase_10.md
+     4  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Janbogo_Subnet/Janbogo/Datasheets/Phase_2.md
+     3  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Janbogo_Subnet/Janbogo/Datasheets/Phase_3.md
+     1  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Janbogo_Subnet/Janbogo/Datasheets/Phase_8.md
+     3  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Janbogo_Subnet/Janbogo/Datasheets/Step_-1.md
+     3  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Janbogo_Subnet/Janbogo/Datasheets/Step_0.md
+    18  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Janbogo_Subnet/Janbogo/Datasheets/Step_1_and_2.md
+     2  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Janbogo_Subnet/Scott/Datasheets/Phase_10.md
+     5  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Janbogo_Subnet/Scott/Datasheets/Phase_2.md
+     3  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Janbogo_Subnet/Scott/Datasheets/Phase_3.md
+     1  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Janbogo_Subnet/Scott/Datasheets/Phase_8.md
+     3  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Janbogo_Subnet/Scott/Datasheets/Step_-1.md
+     2  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Janbogo_Subnet/Scott/Datasheets/Step_0.md
+    18  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Janbogo_Subnet/Scott/Datasheets/Step_1_and_2.md
+     2  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Janbogo_Subnet/Zukelli/Datasheets/Phase_10.md
+     7  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Janbogo_Subnet/Zukelli/Datasheets/Phase_2.md
+     5  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Janbogo_Subnet/Zukelli/Datasheets/Phase_3.md
+     3  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Janbogo_Subnet/Zukelli/Datasheets/Phase_4.md
+     2  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Janbogo_Subnet/Zukelli/Datasheets/Phase_7.md
+     3  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Janbogo_Subnet/Zukelli/Datasheets/Phase_8.md
+     9  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Janbogo_Subnet/Zukelli/Datasheets/Step_-1.md
+     2  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Janbogo_Subnet/Zukelli/Datasheets/Step_0.md
+    17  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Janbogo_Subnet/Zukelli/Datasheets/Step_1_and_2.md
+     2  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mawson_Subnet/Dome_Fuji/Datasheets/Phase_10.md
+     1  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mawson_Subnet/Dome_Fuji/Datasheets/Phase_2.md
+     3  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mawson_Subnet/Dome_Fuji/Datasheets/Phase_3.md
+     3  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mawson_Subnet/Dome_Fuji/Datasheets/Step_-1.md
+     1  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mawson_Subnet/Dome_Fuji/Datasheets/Step_0.md
+    17  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mawson_Subnet/Dome_Fuji/Datasheets/Step_1_and_2.md
+     1  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mawson_Subnet/Mawson/Datasheets/Phase_10.md
+     4  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mawson_Subnet/Mawson/Datasheets/Phase_2.md
+     3  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mawson_Subnet/Mawson/Datasheets/Phase_3.md
+     1  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mawson_Subnet/Mawson/Datasheets/Phase_4.md
+     1  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mawson_Subnet/Mawson/Datasheets/Phase_7.md
+     2  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mawson_Subnet/Mawson/Datasheets/Step_-1.md
+     2  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mawson_Subnet/Mawson/Datasheets/Step_0.md
+    20  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mawson_Subnet/Mawson/Datasheets/Step_1_and_2.md
+     1  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mawson_Subnet/Temirotkel/Datasheets/Phase_10.md
+     5  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mawson_Subnet/Temirotkel/Datasheets/Phase_2.md
+     3  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mawson_Subnet/Temirotkel/Datasheets/Phase_3.md
+     3  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mawson_Subnet/Temirotkel/Datasheets/Step_-1.md
+     2  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mawson_Subnet/Temirotkel/Datasheets/Step_0.md
+    18  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mawson_Subnet/Temirotkel/Datasheets/Step_1_and_2.md
+     3  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Ariun_Nuur/Datasheets/Phase_10.md
+     3  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Ariun_Nuur/Datasheets/Phase_2.md
+     4  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Ariun_Nuur/Datasheets/Phase_3.md
+     3  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Ariun_Nuur/Datasheets/Phase_5.md
+     6  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Ariun_Nuur/Datasheets/Step_-1.md
+     4  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Ariun_Nuur/Datasheets/Step_0.md
+    18  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Ariun_Nuur/Datasheets/Step_1_and_2.md
+     1  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Casey/Datasheets/Phase_10.md
+     7  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Casey/Datasheets/Phase_2.md
+     9  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Casey/Datasheets/Phase_3.md
+     1  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Casey/Datasheets/Phase_8.md
+     2  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Casey/Datasheets/Step_-1.md
+     4  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Casey/Datasheets/Step_0.md
+    13  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Casey/Datasheets/Step_1_and_2.md
+     1  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Davis/00.0_Pre-Trip_Inspection.md
+     7  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Davis/00.1_Step_MINUS-1_Input_Contract.md
+     8  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Davis/00.1a_RULING_Vision_Notes_and_Specs_L135-181.md
+     1  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Davis/00_Frame.md
+     2  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Davis/Amendment_Notes_2026-10-30_Manual_Input_Audit.md
+     6  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Davis/Datasheets/Phase_2.md
+     8  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Davis/Datasheets/Step_-1.md
+     3  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Davis/Datasheets/Step_0.md
+     1  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Davis/Datasheets/Step_1_and_2.md
+     4  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Kunlun/Datasheets/Phase_10.md
+     9  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Kunlun/Datasheets/Phase_2.md
+     7  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Kunlun/Datasheets/Phase_3.md
+     1  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Kunlun/Datasheets/Phase_4.md
+     3  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Kunlun/Datasheets/Phase_6.md
+     1  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Kunlun/Datasheets/Phase_8.md
+     1  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Kunlun/Datasheets/Phase_9.md
+     4  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Kunlun/Datasheets/Step_0.md
+    15  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Kunlun/Datasheets/Step_1_and_2.md
+     1  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Mirny/.t8_Phase2_readerA.md
+     1  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Mirny/.t8_Phase2_readerB.md
+     1  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Mirny/.t8_Phase2_readerC.md
+     1  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Mirny/.t8_Phase2_round3_readerC.md
+     1  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Mirny/.t8_Phase3_readerA.md
+     1  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Mirny/.t8_Phase3_readerB.md
+     1  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Mirny/.t8_Phase3_readerC.md
+     1  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Mirny/Datasheets/Phase_10.md
+     7  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Mirny/Datasheets/Phase_2.md
+     9  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Mirny/Datasheets/Phase_3.md
+     1  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Mirny/Datasheets/Phase_5.md
+     2  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Mirny/Datasheets/Phase_6.md
+     1  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Mirny/Datasheets/Phase_7.md
+     2  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Mirny/Datasheets/Phase_8.md
+     2  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Mirny/Datasheets/Step_-1.md
+     3  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Mirny/Datasheets/Step_0.md
+    11  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Mirny/Datasheets/Step_1_and_2.md
+     1  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Relung_Panen/Datasheets/Phase_10.md
+     5  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Relung_Panen/Datasheets/Phase_2.md
+     6  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Relung_Panen/Datasheets/Phase_3.md
+     1  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Relung_Panen/Datasheets/Phase_5.md
+     3  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Relung_Panen/Datasheets/Step_-1.md
+     2  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Relung_Panen/Datasheets/Step_0.md
+    19  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Relung_Panen/Datasheets/Step_1_and_2.md
+     2  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Shirayuki/Amendment_Notes_2026-10-30_Manual_Input_Audit.md
+     2  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Sinheung/Amendment_Notes_2026-10-30_Manual_Input_Audit.md
+     1  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Zhongshan_Opus/00.0_Pre-Trip_Inspection.md
+     1  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Zhongshan_Opus/00.1_Step_MINUS-1_Input_Contract.md
+     1  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Zhongshan_Opus/02_Spine.md
+     1  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Zhongshan_Opus/04_Phase_03_Surface_and_Texture.md
+     1  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Zhongshan_Opus/04_Phase_04_Ordinary_Life.md
+     1  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Zhongshan_Opus/04_Phase_07_Order.md
+     1  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Zhongshan_Opus/04_Phase_10_Catalog.md
+     2  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Zhongshan_Opus/09.5_Log.md
+     1  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Zhongshan_Sonnet/00.0_Pre-Trip_Inspection.md
+     1  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Zhongshan_Sonnet/00.1_Step_MINUS-1_Input_Contract.md
+     1  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Zhongshan_Sonnet/02_Spine.md
+     1  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Zhongshan_Sonnet/04_Phase_03_Surface_and_Texture.md
+     1  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Palmer_Subnet/Contrapunto/Datasheets/Phase_10.md
+     4  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Palmer_Subnet/Contrapunto/Datasheets/Phase_2.md
+     3  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Palmer_Subnet/Contrapunto/Datasheets/Phase_3.md
+     2  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Palmer_Subnet/Contrapunto/Datasheets/Step_-1.md
+     2  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Palmer_Subnet/Contrapunto/Datasheets/Step_0.md
+    19  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Palmer_Subnet/Contrapunto/Datasheets/Step_1_and_2.md
+     1  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Palmer_Subnet/Esperanza/Datasheets/Phase_10.md
+     4  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Palmer_Subnet/Esperanza/Datasheets/Phase_2.md
+     3  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Palmer_Subnet/Esperanza/Datasheets/Phase_3.md
+     2  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Palmer_Subnet/Esperanza/Datasheets/Step_-1.md
+     2  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Palmer_Subnet/Esperanza/Datasheets/Step_0.md
+    18  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Palmer_Subnet/Esperanza/Datasheets/Step_1_and_2.md
+     1  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Palmer_Subnet/Marambio/Datasheets/Phase_10.md
+     5  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Palmer_Subnet/Marambio/Datasheets/Phase_2.md
+     3  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Palmer_Subnet/Marambio/Datasheets/Phase_3.md
+     3  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Palmer_Subnet/Marambio/Datasheets/Step_-1.md
+     2  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Palmer_Subnet/Marambio/Datasheets/Step_0.md
+    18  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Palmer_Subnet/Marambio/Datasheets/Step_1_and_2.md
+     1  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Palmer_Subnet/Palmer_City/Datasheets/Phase_10.md
+     5  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Palmer_Subnet/Palmer_City/Datasheets/Phase_2.md
+     3  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Palmer_Subnet/Palmer_City/Datasheets/Phase_3.md
+     1  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Palmer_Subnet/Palmer_City/Datasheets/Phase_8.md
+     3  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Palmer_Subnet/Palmer_City/Datasheets/Step_-1.md
+     3  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Palmer_Subnet/Palmer_City/Datasheets/Step_0.md
+    20  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Palmer_Subnet/Palmer_City/Datasheets/Step_1_and_2.md
+     1  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Palmer_Subnet/Pergamino/Datasheets/Phase_10.md
+     5  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Palmer_Subnet/Pergamino/Datasheets/Phase_2.md
+     3  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Palmer_Subnet/Pergamino/Datasheets/Phase_3.md
+     1  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Palmer_Subnet/Pergamino/Datasheets/Phase_8.md
+     3  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Palmer_Subnet/Pergamino/Datasheets/Step_-1.md
+     2  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Palmer_Subnet/Pergamino/Datasheets/Step_0.md
+    18  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Palmer_Subnet/Pergamino/Datasheets/Step_1_and_2.md
+     1  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Palmer_Subnet/Puerto_Abrigo/Datasheets/Phase_10.md
+     5  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Palmer_Subnet/Puerto_Abrigo/Datasheets/Phase_2.md
+     3  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Palmer_Subnet/Puerto_Abrigo/Datasheets/Phase_3.md
+     2  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Palmer_Subnet/Puerto_Abrigo/Datasheets/Phase_4.md
+     1  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Palmer_Subnet/Puerto_Abrigo/Datasheets/Phase_7.md
+     2  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Palmer_Subnet/Puerto_Abrigo/Datasheets/Step_-1.md
+     2  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Palmer_Subnet/Puerto_Abrigo/Datasheets/Step_0.md
+    20  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Palmer_Subnet/Puerto_Abrigo/Datasheets/Step_1_and_2.md
+     1  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Palmer_Subnet/Rothera/Datasheets/Phase_10.md
+     5  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Palmer_Subnet/Rothera/Datasheets/Phase_2.md
+     3  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Palmer_Subnet/Rothera/Datasheets/Phase_3.md
+     3  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Palmer_Subnet/Rothera/Datasheets/Step_-1.md
+     2  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Palmer_Subnet/Rothera/Datasheets/Step_0.md
+    18  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Palmer_Subnet/Rothera/Datasheets/Step_1_and_2.md
+     1  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Palmer_Subnet/Signy/Datasheets/Phase_10.md
+     4  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Palmer_Subnet/Signy/Datasheets/Phase_2.md
+     4  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Palmer_Subnet/Signy/Datasheets/Phase_3.md
+     2  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Palmer_Subnet/Signy/Datasheets/Step_-1.md
+     2  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Palmer_Subnet/Signy/Datasheets/Step_0.md
+    18  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Palmer_Subnet/Signy/Datasheets/Step_1_and_2.md
+
+FOLLOWED THE LINE, WHICH WAS EDITED IN PLACE (the number is right; re-read what the line says now): 160
+  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Amundsen_Station/Amundsen_Station/Datasheets/Phase_2.md: Amundsen_Station.md L19–21 -> 19-21
+  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Amundsen_Station/Amundsen_Station/Datasheets/Phase_2.md: Official_Population_Census.md L464–466 -> 476-478
+  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Amundsen_Station/Amundsen_Station/Datasheets/Phase_2.md: Amundsen_Station.md L21 -> 21
+  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Amundsen_Station/Amundsen_Station/Datasheets/Phase_2.md: Amundsen_Station.md L21 -> 21
+  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Amundsen_Station/Amundsen_Station/Datasheets/Phase_2.md: Official_Population_Census.md L466 -> 478
+  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Amundsen_Station/Amundsen_Station/Datasheets/Phase_2.md: Official_Population_Census.md L466 -> 478
+  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Amundsen_Station/Amundsen_Station/Datasheets/Step_1_and_2.md: Amundsen_Station.md L19–21 -> 19-21
+  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Byrd_Subnet/Byrd/Datasheets/Phase_2.md: Byrd.md L66–68 -> 66-68
+  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Byrd_Subnet/Byrd/Datasheets/Phase_2.md: Official_Population_Census.md L230–232 -> 230-232
+  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Byrd_Subnet/Byrd/Datasheets/Phase_2.md: Byrd.md L66 -> 66
+  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Byrd_Subnet/Byrd/Datasheets/Step_1_and_2.md: Byrd.md L66–68 -> 66-68
+  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Halley_Subnet/Belgrano/Datasheets/Phase_2.md: Belgrano.md L20–22 -> 20-22
+  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Halley_Subnet/Belgrano/Datasheets/Phase_2.md: Official_Population_Census.md L214–216 -> 214-216
+  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Halley_Subnet/Belgrano/Datasheets/Phase_2.md: Belgrano.md L22 -> 22
+  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Halley_Subnet/Belgrano/Datasheets/Phase_2.md: Official_Population_Census.md L216 -> 216
+  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Halley_Subnet/Belgrano/Datasheets/Step_1_and_2.md: Belgrano.md L20–22 -> 20-22
+  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Halley_Subnet/Halley/Datasheets/Phase_2.md: Halley.md L20–22 -> 20-22
+  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Halley_Subnet/Halley/Datasheets/Phase_2.md: Official_Population_Census.md L138–140 -> 138-140
+  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Halley_Subnet/Halley/Datasheets/Phase_2.md: Halley.md L22 -> 22
+  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Halley_Subnet/Halley/Datasheets/Phase_2.md: Official_Population_Census.md L140 -> 140
+  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Halley_Subnet/Halley/Datasheets/Step_1_and_2.md: Halley.md L20–22 -> 20-22
+  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Halley_Subnet/Lazar/Datasheets/Phase_2.md: Lazar.md L41–43 -> 41-43
+  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Halley_Subnet/Lazar/Datasheets/Phase_2.md: Official_Population_Census.md L204–206 -> 204-206
+  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Halley_Subnet/Lazar/Datasheets/Step_1_and_2.md: Lazar.md L41–43 -> 41-43
+  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Halley_Subnet/Neumayer/Datasheets/Phase_2.md: Neumayer.md L20–22 -> 20-22
+  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Halley_Subnet/Neumayer/Datasheets/Phase_2.md: Official_Population_Census.md L150–152 -> 150-152
+  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Halley_Subnet/Neumayer/Datasheets/Step_1_and_2.md: Neumayer.md L20–22 -> 20-22
+  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Halley_Subnet/Sanay/Datasheets/Phase_2.md: Sanay.md L21–23 -> 21-23
+  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Halley_Subnet/Sanay/Datasheets/Phase_2.md: Official_Population_Census.md L180–182 -> 180-182
+  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Halley_Subnet/Sanay/Datasheets/Step_1_and_2.md: Sanay.md L21–23 -> 21-23
+  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Halley_Subnet/Santa_Luce/Datasheets/Phase_2.md: Santa_Luce.md L22–24 -> 22-24
+  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Halley_Subnet/Santa_Luce/Datasheets/Phase_2.md: Official_Population_Census.md L170–172 -> 170-172
+  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Halley_Subnet/Santa_Luce/Datasheets/Step_1_and_2.md: Santa_Luce.md L22–24 -> 22-24
+  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Halley_Subnet/Troll/Datasheets/Phase_2.md: Troll.md L20–22 -> 20-22
+  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Halley_Subnet/Troll/Datasheets/Phase_2.md: Official_Population_Census.md L160–162 -> 160-162
+  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Halley_Subnet/Troll/Datasheets/Step_1_and_2.md: Troll.md L20–22 -> 20-22
+  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Halley_Subnet/Utstein/Datasheets/Phase_2.md: Utstein.md L28–30 -> 28-30
+  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Halley_Subnet/Utstein/Datasheets/Phase_2.md: Official_Population_Census.md L192–194 -> 192-194
+  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Halley_Subnet/Utstein/Datasheets/Step_1_and_2.md: Utstein.md L28–30 -> 28-30
+  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Janbogo_Subnet/Cape_Adare/Datasheets/Phase_2.md: Cape_Adare.md L18–22 -> 18-22
+  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Janbogo_Subnet/Cape_Adare/Datasheets/Phase_2.md: Official_Population_Census.md L262–266 -> 262-266
+  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Janbogo_Subnet/Cape_Adare/Datasheets/Phase_2.md: Cape_Adare.md L21–22 -> 21-22
+  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Janbogo_Subnet/Cape_Adare/Datasheets/Phase_2.md: Official_Population_Census.md L265–266 -> 265-266
+  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Janbogo_Subnet/Cape_Adare/Datasheets/Phase_2.md: Cape_Adare.md L28–45 -> 28-62
+  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Janbogo_Subnet/Cape_Adare/Datasheets/Step_1_and_2.md: Official_Population_Census.md L262–266 -> 262-266
+  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Janbogo_Subnet/Cape_Adare/Datasheets/Step_1_and_2.md: Cape_Adare.md L18–22 -> 18-22
+  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Janbogo_Subnet/Denison/Datasheets/Phase_2.md: Denison.md L54–58 -> 54-58
+  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Janbogo_Subnet/Denison/Datasheets/Step_1_and_2.md: Denison.md L54–58 -> 54-58
+  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Janbogo_Subnet/Dumont_dUrville/Datasheets/Phase_2.md: Dumont_dUrville.md L46–50 -> 46-50
+  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Janbogo_Subnet/Dumont_dUrville/Datasheets/Phase_2.md: Official_Population_Census.md L282–286 -> 282-286
+  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Janbogo_Subnet/Dumont_dUrville/Datasheets/Phase_2.md: Dumont_dUrville.md L49 -> 49
+  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Janbogo_Subnet/Dumont_dUrville/Datasheets/Step_1_and_2.md: Dumont_dUrville.md L46–50 -> 46-50
+  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Janbogo_Subnet/Dumont_dUrville/Datasheets/Step_1_and_2.md: Official_Population_Census.md L282–286 -> 282-286
+  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Janbogo_Subnet/Fort_McMurdo/Datasheets/Phase_2.md: Fort_McMurdo.md L42–44 -> 42-44
+  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Janbogo_Subnet/Fort_McMurdo/Datasheets/Phase_2.md: Official_Population_Census.md L274–276 -> 274-276
+  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Janbogo_Subnet/Fort_McMurdo/Datasheets/Phase_2.md: Fort_McMurdo.md L44 -> 44
+  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Janbogo_Subnet/Fort_McMurdo/Datasheets/Phase_2.md: Official_Population_Census.md L276 -> 276
+  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Janbogo_Subnet/Fort_McMurdo/Datasheets/Step_1_and_2.md: Fort_McMurdo.md L42–44 -> 42-44
+  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Janbogo_Subnet/Janbogo/Datasheets/Phase_2.md: Janbogo.md L20–22 -> 20-22
+  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Janbogo_Subnet/Janbogo/Datasheets/Phase_2.md: Official_Population_Census.md L244–246 -> 244-246
+  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Janbogo_Subnet/Janbogo/Datasheets/Phase_2.md: Janbogo.md L21 -> 21
+  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Janbogo_Subnet/Janbogo/Datasheets/Phase_2.md: Janbogo.md L22 -> 22
+  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Janbogo_Subnet/Janbogo/Datasheets/Phase_2.md: Official_Population_Census.md L245 -> 245
+  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Janbogo_Subnet/Janbogo/Datasheets/Phase_2.md: Official_Population_Census.md L246 -> 246
+  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Janbogo_Subnet/Janbogo/Datasheets/Step_1_and_2.md: Janbogo.md L20–22 -> 20-22
+  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Janbogo_Subnet/Scott/Datasheets/Phase_2.md: Scott.md L42–44 -> 42-44
+  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Janbogo_Subnet/Scott/Datasheets/Phase_2.md: Official_Population_Census.md L294–296 -> 294-296
+  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Janbogo_Subnet/Scott/Datasheets/Phase_2.md: Scott.md L44 -> 44
+  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Janbogo_Subnet/Scott/Datasheets/Phase_2.md: Official_Population_Census.md L296 -> 296
+  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Janbogo_Subnet/Scott/Datasheets/Step_1_and_2.md: Scott.md L42–44 -> 42-44
+  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Janbogo_Subnet/Zukelli/Datasheets/Phase_2.md: Official_Population_Census.md L252–256 -> 252-256
+  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Janbogo_Subnet/Zukelli/Datasheets/Phase_2.md: Zukelli.md L18–22 -> 18-22
+  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Janbogo_Subnet/Zukelli/Datasheets/Phase_2.md: Zukelli.md L21–22 -> 21-22
+  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Janbogo_Subnet/Zukelli/Datasheets/Phase_2.md: Official_Population_Census.md L255–256 -> 255-256
+  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Janbogo_Subnet/Zukelli/Datasheets/Step_1_and_2.md: Official_Population_Census.md L252–256 -> 252-256
+  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Janbogo_Subnet/Zukelli/Datasheets/Step_1_and_2.md: Zukelli.md L18–22 -> 18-22
+  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mawson_Subnet/Dome_Fuji/Datasheets/Phase_2.md: Dome_Fuji.md L48–50 -> 48-50
+  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mawson_Subnet/Dome_Fuji/Datasheets/Phase_2.md: Official_Population_Census.md L360–362 -> 360-362
+  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mawson_Subnet/Dome_Fuji/Datasheets/Step_1_and_2.md: Dome_Fuji.md L48–50 -> 48-50
+  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mawson_Subnet/Mawson/Datasheets/Phase_2.md: Mawson.md L20–22 -> 20-22
+
+LEFT AS WRITTEN: the cited line's text no longer exists (the line itself was edited); read each: 9
+  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Janbogo_Subnet/Cape_Adare/Datasheets/Phase_2.md: Cape_Adare.md L32–43
+  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Janbogo_Subnet/Denison/Datasheets/Phase_2.md: Denison.md L66–78
+  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Janbogo_Subnet/Denison/Datasheets/Step_1_and_2.md: Denison.md L66–78
+  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Janbogo_Subnet/Dumont_dUrville/Datasheets/Phase_2.md: Dumont_dUrville.md L58–71
+  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Janbogo_Subnet/Zukelli/Datasheets/Phase_2.md: Zukelli.md L32–43
+  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Janbogo_Subnet/Zukelli/Datasheets/Phase_2.md: Zukelli.md L37
+  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Ariun_Nuur/Datasheets/Phase_2.md: Ariun_Nuur.md L32–41
+  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Casey/Datasheets/Phase_2.md: Casey.md L29–43
+  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Kunlun/Datasheets/Phase_2.md: Kunlun.md L48–69
+
+SKIPPED:
+  182  README.md: name is ambiguous (400 files)
+   79  00_RUNBOOK.md: name is ambiguous (3 files)
+   34  Laws_of_Robotics.md: no such file
+   30  Formative_History.md: no such file
+   28  Timeline.md: name is ambiguous (80 files)
+   19  No_National_Stereotypes.md: no such file
+   18  Amundsen_Station_Archive_and_Trucking_Network.md: no such file
+   11  00_Frame.md: name is ambiguous (9 files)
+   10  Conflict_Experiences.md: no such file
+    8  02_Spine.md: name is ambiguous (9 files)
+    6  (City_Symbol_Assignments.md: no such file
+    6  Phase_2.md: name is ambiguous (34 files)
+    5  Cape_Adare.md: name is ambiguous (8 files)
+    5  MEMORY.md: no such file
+    4  03_Research.md: name is ambiguous (9 files)
+    4  (00_RUNBOOK.md: no such file
+    3  Repo_Scope.md: no such file
+    3  PreWar_History.md: name is ambiguous (78 files)
+    3  04_Phase_05_Relation_and_Geometry.md: name is ambiguous (8 files)
+    3  Phase_3.md: name is ambiguous (34 files)
+    3  04_Phase_02_Composition_and_Arrival.md: name is ambiguous (9 files)
+    3  05_Reconciliation.md: name is ambiguous (5 files)
+    3  Step_9.md: name is ambiguous (34 files)
+    3  04_Phase_07_Order.md: name is ambiguous (8 files)
+    3  Relationships.md: name is ambiguous (78 files)
+    2  universe-timeline.md: no such file
+    2  00.0_Pre-Trip_Inspection.md: name is ambiguous (36 files)
+    2  Phase_7.md: name is ambiguous (34 files)
+    2  Phase_6.md: name is ambiguous (34 files)
+    2  01_Inherited.md: name is ambiguous (9 files)
+    2  04_Phase_10_Catalog.md: name is ambiguous (7 files)
+    2  Loyalties.md: name is ambiguous (78 files)
+    1  Ariun_Nuur.md: name is ambiguous (7 files)
+    1  00.1_Step_MINUS-1_Input_Contract.md: name is ambiguous (4 files)
+    1  00_Extraction_Checklist.md: name is ambiguous (6 files)
+    1  Phase_4.md: name is ambiguous (34 files)
+    1  Doll_Representation_Categories.md: no such file
+    1  04_Phase_08_Making.md: name is ambiguous (8 files)
+    1  Step_8.md: name is ambiguous (34 files)
+    1  04_Phase_06_Meaning.md: name is ambiguous (8 files)
+    1  Influences.md: no such file
+    1  00.1b_T8_Rounds_Step_MINUS-1.md: name is ambiguous (2 files)
+    1  00.2_Position_Coverage_Ledger.md: name is ambiguous (33 files)
+    1  04_Phase_04_Ordinary_Life.md: name is ambiguous (8 files)
+    1  07_QA_Gates.md: name is ambiguous (4 files)
+    1  04z_Post-Ruling_Enrichment_Review.md: name is ambiguous (2 files)
+    1  10_Readiness_Check.md: name is ambiguous (5 files)
+    1  Real-World_Basis_Extrapolation_Method.md: name is ambiguous (2 files)
+    1  04_Phase_09_Populations.md: name is ambiguous (8 files)
+    1  09.6_Input_Audit.md: name is ambiguous (2 files)
+    1  09.5_Log.md: name is ambiguous (8 files)
+    1  Pergamino.md: name is ambiguous (7 files)
+    1  War_Experiences.md: name is ambiguous (78 files)
+##### Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Research_Logs
+APPLIED  base 593510ab  (144 file(s) searched)
+citations checked: 150   line numbers moved: 22   in 5 file(s)
+    15  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Research_Logs/Amundsen_Station_Canon_Inventory_2026-10-29.md
+     1  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Research_Logs/Byrd_Climate_Table_Check_2026-11-01.md
+     2  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Research_Logs/Russia_Split_Proportions_RS3_Halley_and_Janbogo_2026-10-29.md
+     3  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Research_Logs/Russia_Split_Proportions_RS4_Byrd_and_Palmer_2026-10-29.md
+     1  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Research_Logs/TEPENIA_Research_Tracker_and_Handoff.md
+
+FOLLOWED THE LINE, WHICH WAS EDITED IN PLACE (the number is right; re-read what the line says now): 15
+  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Research_Logs/Russia_Split_Proportions_RS2_Mirny_Subnet_2026-10-29.md: Davis.md L20–22 -> 20-22
+  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Research_Logs/Russia_Split_Proportions_RS2_Mirny_Subnet_2026-10-29.md: Zhongshan.md L20–22 -> 20-22
+  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Research_Logs/Russia_Split_Proportions_RS2_Mirny_Subnet_2026-10-29.md: Shirayuki.md L44–48 -> 44-48
+  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Research_Logs/Russia_Split_Proportions_RS2_Mirny_Subnet_2026-10-29.md: Sinheung.md L74–78 -> 74-78
+  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Research_Logs/Russia_Split_Proportions_RS2_Mirny_Subnet_2026-10-29.md: Mirny.md L20–22 -> 20-22
+  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Research_Logs/Russia_Split_Proportions_RS2_Mirny_Subnet_2026-10-29.md: Casey.md L19–21 -> 19-21
+  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Research_Logs/Russia_Split_Proportions_RS2_Mirny_Subnet_2026-10-29.md: Relung_Panen.md L35–37 -> 35-37
+  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Research_Logs/Russia_Split_Proportions_RS3_Halley_and_Janbogo_2026-10-29.md: Troll.md L21 -> 21
+  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Research_Logs/Russia_Split_Proportions_RS3_Halley_and_Janbogo_2026-10-29.md: Troll.md L18–22 -> 18-22
+  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Research_Logs/Russia_Split_Proportions_RS3_Halley_and_Janbogo_2026-10-29.md: Santa_Luce.md L23 -> 23
+  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Research_Logs/Russia_Split_Proportions_RS3_Halley_and_Janbogo_2026-10-29.md: Santa_Luce.md L20–24 -> 20-24
+  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Research_Logs/Russia_Split_Proportions_RS3_Halley_and_Janbogo_2026-10-29.md: Lazar.md L42 -> 42
+  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Research_Logs/Russia_Split_Proportions_RS3_Halley_and_Janbogo_2026-10-29.md: Lazar.md L39–43 -> 39-43
+  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Research_Logs/Russia_Split_Proportions_RS3_Halley_and_Janbogo_2026-10-29.md: Concordia.md L17–21 -> 17-21
+  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Research_Logs/Russia_Split_Proportions_RS4_Byrd_and_Palmer_2026-10-29.md: Official_Population_Census.md L226–232 -> 226-232
+
+LEFT AS WRITTEN: the cited line's text no longer exists (the line itself was edited); read each: 11
+  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Research_Logs/Russia_Split_Proportions_RS2_Mirny_Subnet_2026-10-29.md: Davis.md L37
+  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Research_Logs/Russia_Split_Proportions_RS2_Mirny_Subnet_2026-10-29.md: Zhongshan.md L36
+  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Research_Logs/Russia_Split_Proportions_RS2_Mirny_Subnet_2026-10-29.md: Shirayuki.md L60
+  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Research_Logs/Russia_Split_Proportions_RS2_Mirny_Subnet_2026-10-29.md: Sinheung.md L92
+  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Research_Logs/Russia_Split_Proportions_RS2_Mirny_Subnet_2026-10-29.md: Mirny.md L36
+  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Research_Logs/Russia_Split_Proportions_RS2_Mirny_Subnet_2026-10-29.md: Casey.md L36
+  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Research_Logs/Russia_Split_Proportions_RS2_Mirny_Subnet_2026-10-29.md: Relung_Panen.md L58
+  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Research_Logs/Russia_Split_Proportions_RS3_Halley_and_Janbogo_2026-10-29.md: Troll.md L33
+  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Research_Logs/Russia_Split_Proportions_RS3_Halley_and_Janbogo_2026-10-29.md: Santa_Luce.md L35
+  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Research_Logs/Russia_Split_Proportions_RS3_Halley_and_Janbogo_2026-10-29.md: Lazar.md L57
+  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Research_Logs/Russia_Split_Proportions_RS4_Byrd_and_Palmer_2026-10-29.md: Palmer_City.md L92
+
+SKIPPED:
+   10  README.md: name is ambiguous (400 files)
+    7  Amundsen_Station.md: name is ambiguous (7 files)
+    3  First.md: no such file
+    2  Step_0.md: name is ambiguous (34 files)
+    2  Pergamino.md: name is ambiguous (7 files)
+    2  Phase_3.md: name is ambiguous (34 files)
+    2  Timeline.md: name is ambiguous (80 files)
+    1  Puerto_Abrigo.md: name is ambiguous (7 files)
+    1  Step_1_and_2.md: name is ambiguous (34 files)
+    1  Kunlun.md: name is ambiguous (8 files)
+    1  00.0_Pre-Trip_Inspection.md: name is ambiguous (36 files)
+    1  Phase_5.md: name is ambiguous (34 files)
+    1  Step_3.md: name is ambiguous (34 files)
+    1  Step_7.md: name is ambiguous (34 files)
+    1  00_RUNBOOK.md: name is ambiguous (3 files)
+    1  Real-World_Basis_Extrapolation_Method.md: name is ambiguous (2 files)
+    1  02_Spine.md: name is ambiguous (9 files)
+    1  DESIGNATIONS-maritime.md: no such file
+    1  2026-10-23).md: no such file
+    1  Santa_Luce.md: name is ambiguous (6 files)
+    1  Lazar.md: name is ambiguous (8 files)
+##### Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Division_of_Industry
+APPLIED  base 593510ab  (20 file(s) searched)
+citations checked: 17   line numbers moved: 1   in 1 file(s)
+     1  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Division_of_Industry/16_Per_City_Three_Tier_Run.md
+
+SKIPPED:
+    1  (Airports.md: no such file
+##### Worldspace/Locations-and-Levels/Universal_Location_Methodology/Manual_Input_Audit_2026-10-29
+APPLIED  base 593510ab  (83 file(s) searched)
+citations checked: 443   line numbers moved: 22   in 16 file(s)
+     1  Worldspace/Locations-and-Levels/Universal_Location_Methodology/Manual_Input_Audit_2026-10-29/FIX_LEDGER.md
+     2  Worldspace/Locations-and-Levels/Universal_Location_Methodology/Manual_Input_Audit_2026-10-29/Janbogo_Teahouse_Wording_Log_2026-10-31.md
+     1  Worldspace/Locations-and-Levels/Universal_Location_Methodology/Manual_Input_Audit_2026-10-29/Relung_Panen_Audit.md
+     1  Worldspace/Locations-and-Levels/Universal_Location_Methodology/Manual_Input_Audit_2026-10-29/Sweep_Reports/CHECK_Casey_Independent.md
+     1  Worldspace/Locations-and-Levels/Universal_Location_Methodology/Manual_Input_Audit_2026-10-29/Sweep_Reports/Davis_Sweep.md
+     1  Worldspace/Locations-and-Levels/Universal_Location_Methodology/Manual_Input_Audit_2026-10-29/Sweep_Reports/Denison_Sweep.md
+     1  Worldspace/Locations-and-Levels/Universal_Location_Methodology/Manual_Input_Audit_2026-10-29/Sweep_Reports/Fort_McMurdo_Sweep.md
+     1  Worldspace/Locations-and-Levels/Universal_Location_Methodology/Manual_Input_Audit_2026-10-29/Sweep_Reports/Halley_Sweep.md
+     1  Worldspace/Locations-and-Levels/Universal_Location_Methodology/Manual_Input_Audit_2026-10-29/Sweep_Reports/Janbogo_Sweep.md
+     1  Worldspace/Locations-and-Levels/Universal_Location_Methodology/Manual_Input_Audit_2026-10-29/Sweep_Reports/Kunlun_Sweep.md
+     1  Worldspace/Locations-and-Levels/Universal_Location_Methodology/Manual_Input_Audit_2026-10-29/Sweep_Reports/Lazar_Sweep.md
+     1  Worldspace/Locations-and-Levels/Universal_Location_Methodology/Manual_Input_Audit_2026-10-29/Sweep_Reports/Neumayer_Sweep.md
+     3  Worldspace/Locations-and-Levels/Universal_Location_Methodology/Manual_Input_Audit_2026-10-29/Sweep_Reports/Puerto_Abrigo_Sweep.md
+     1  Worldspace/Locations-and-Levels/Universal_Location_Methodology/Manual_Input_Audit_2026-10-29/Sweep_Reports/Rothera_Sweep.md
+     1  Worldspace/Locations-and-Levels/Universal_Location_Methodology/Manual_Input_Audit_2026-10-29/Sweep_Reports/Scott_Sweep.md
+     4  Worldspace/Locations-and-Levels/Universal_Location_Methodology/Manual_Input_Audit_2026-10-29/Sweep_Reports/Signy_Sweep.md
+
+FOLLOWED THE LINE, WHICH WAS EDITED IN PLACE (the number is right; re-read what the line says now): 3
+  Worldspace/Locations-and-Levels/Universal_Location_Methodology/Manual_Input_Audit_2026-10-29/FIX_LEDGER.md: Official_Population_Census.md L426–428 -> 426-428
+  Worldspace/Locations-and-Levels/Universal_Location_Methodology/Manual_Input_Audit_2026-10-29/FIX_LEDGER.md: Official_Population_Census.md L416–418 -> 416-418
+  Worldspace/Locations-and-Levels/Universal_Location_Methodology/Manual_Input_Audit_2026-10-29/Walkthrough_Decisions.md: Official_Population_Census.md L426–428 -> 426-428
+
+SKIPPED:
+   75  README.md: name is ambiguous (400 files)
+   35  Laws_of_Robotics.md: no such file
+   13  Timeline.md: name is ambiguous (80 files)
+   13  00_RUNBOOK.md: name is ambiguous (3 files)
+   10  Formative_History.md: no such file
+   10  Step_1_and_2.md: name is ambiguous (34 files)
+    9  Phase_7.md: name is ambiguous (34 files)
+    5  Step_3.md: name is ambiguous (34 files)
+    5  Phase_5.md: name is ambiguous (34 files)
+    5  Phase_3.md: name is ambiguous (34 files)
+    5  Phase_4.md: name is ambiguous (34 files)
+    5  Step_7.md: name is ambiguous (34 files)
+    4  Step_-1.md: name is ambiguous (34 files)
+    3  Conflict_Experiences.md: no such file
+    3  PreWar_History.md: name is ambiguous (78 files)
+    3  Phase_8.md: name is ambiguous (34 files)
+    3  Phase_10.md: name is ambiguous (34 files)
+    3  Step_0.md: name is ambiguous (34 files)
+    2  00_Extraction_Checklist.md: name is ambiguous (6 files)
+    2  Amundsen_Station_Archive_and_Trucking_Network.md: no such file
+    2  Phase_9.md: name is ambiguous (34 files)
+    2  (Timeline.md: no such file
+    1  Esperanza.md: name is ambiguous (8 files)
+    1  Kunlun.md: name is ambiguous (8 files)
+    1  Sinheung.md: name is ambiguous (9 files)
+    1  Contrapunto.md: name is ambiguous (7 files)
+    1  00.0_Pre-Trip_Inspection.md: name is ambiguous (36 files)
+    1  01_Inherited.md: name is ambiguous (9 files)
+    1  Step_10.md: name is ambiguous (34 files)
+    1  Casey.md: name is ambiguous (8 files)
+    1  09.5_Log.md: name is ambiguous (8 files)
+    1  Scott.md: name is ambiguous (8 files)
+    1  Draft_Ideas.md: no such file
+    1  Phase_2.md: name is ambiguous (34 files)
+    1  Phase_6.md: name is ambiguous (34 files)
+    1  No_National_Stereotypes.md: no such file
+##### Worldspace/Locations-and-Levels/Universal_Location_Methodology/DEVELOPER_RULINGS_LOG.md
+APPLIED  base 593510ab  (1 file(s) searched)
+citations checked: 7   line numbers moved: 2   in 1 file(s)
+     2  Worldspace/Locations-and-Levels/Universal_Location_Methodology/DEVELOPER_RULINGS_LOG.md
+
+SKIPPED:
+    3  00_RUNBOOK.md: name is ambiguous (3 files)
+    1  Abowasa.md: no such file
+    1  No_National_Stereotypes.md: no such file
+##### Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Founding_Register.md
+APPLIED  base 593510ab  (1 file(s) searched)
+citations checked: 4   line numbers moved: 4   in 1 file(s)
+     4  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Founding_Register.md
+##### Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Station_Heritage_Removal_Tracker.md
+APPLIED  base 593510ab  (1 file(s) searched)
+citations checked: 54   line numbers moved: 5   in 1 file(s)
+     5  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Station_Heritage_Removal_Tracker.md
+
+SKIPPED:
+    2  README.md: name is ambiguous (400 files)
+    1  project_juan_carlos_bug_check_resolved.md: no such file
+    1  project_rothera_bug_check.md: no such file
+    1  project_byrd_bug_check.md: no such file
+    1  project_signy_bug_check.md: no such file
+    1  project_marambio_bug_check.md: no such file
+    1  project_belgrano_bug_check.md: no such file
+    1  project_larsemann_hills_demographic_rework.md: no such file
+    1  project_sejong_bug_check_resolved.md: no such file
+    1  project_sejong_recheck_openitems_gap.md: no such file
+    1  project_sejong_recheck_census_gap_and_localization.md: no such file
+    1  project_localization_languages.md: no such file
+    1  project_city_post_cultures.md: no such file
+    1  Halley.md: name is ambiguous (9 files)
+    1  Zukelli.md: name is ambiguous (8 files)
+    1  Lazar.md: name is ambiguous (8 files)
+    1  Princess_Elisabeth.md: no such file
+    1  09.5_Log.md: name is ambiguous (8 files)
+    1  Real-World_Basis_Extrapolation_Method.md: name is ambiguous (2 files)
+    1  GRAPH_REPORT.md: no such file
+##### Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/ULM_Files_Mistake_Audit.md
+APPLIED  base 593510ab  (1 file(s) searched)
+citations checked: 15   line numbers moved: 1   in 1 file(s)
+     1  Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/ULM_Files_Mistake_Audit.md
+
+SKIPPED:
+    4  No_National_Stereotypes.md: no such file
+    1  Kunlun.md: name is ambiguous (8 files)
+    1  Davis.md: name is ambiguous (8 files)
+    1  (TODO.md: no such file

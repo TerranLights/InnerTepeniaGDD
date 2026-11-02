@@ -23,18 +23,18 @@ are the corpus's standing default-scope markers.
 | Field | Citation | Handling |
 |---|---|---|
 | `**Status:**` header | `Specs/Mirny subnet/Ariun_Nuur.md` L6 | States a later-era condition; excluded per the standing default-scope rule |
-| `## Current Status` | `Specs/Mirny subnet/Ariun_Nuur.md` L183–187 | States a later-era condition; excluded per the standing default-scope rule |
-| `## Legacy` | `Specs/Mirny subnet/Ariun_Nuur.md` L191–193 | States a later-era condition; excluded per the standing default-scope rule |
-| `## Connection to Concordia` | `Specs/Mirny subnet/Ariun_Nuur.md` L173–179 | States a later-era condition; excluded per the standing default-scope rule |
+| `## Current Status` | `Specs/Mirny subnet/Ariun_Nuur.md` L199–203 | States a later-era condition; excluded per the standing default-scope rule |
+| `## Legacy` | `Specs/Mirny subnet/Ariun_Nuur.md` L207–209 | States a later-era condition; excluded per the standing default-scope rule |
+| `## Connection to Concordia` | `Specs/Mirny subnet/Ariun_Nuur.md` L189–195 | States a later-era condition; excluded per the standing default-scope rule |
 
 ## ⛔ EXCLUDED CLAUSES — sentences within otherwise-admissible fields
 
 | Field | Citation | Handling |
 |---|---|---|
 | `**Significance:**`, final clause | `Specs/Mirny subnet/Ariun_Nuur.md` L10 | States a later-era condition; excluded per the standing default-scope rule. Earlier portion of the same field is admissible — see `Step_0.md` |
-| `## Economy & Industry`, 3rd paragraph | `Specs/Mirny subnet/Ariun_Nuur.md` L154 | States a later-era condition; excluded per the standing default-scope rule, in full |
-| `## Open Questions`, bullet 1 | `Specs/Mirny subnet/Ariun_Nuur.md` L199 | States a later-era condition; excluded per the standing default-scope rule |
-| `#### Gameplay Notes` (all of it) | `Specs/Mirny subnet/Ariun_Nuur.md` L114–122 | Game-mechanics/narrative-design commentary, not a location fact — out of ULM scope regardless of era |
+| `## Economy & Industry`, 3rd paragraph | `Specs/Mirny subnet/Ariun_Nuur.md` L170 | States a later-era condition; excluded per the standing default-scope rule, in full |
+| `## Open Questions`, bullet 1 | `Specs/Mirny subnet/Ariun_Nuur.md` L215 | States a later-era condition; excluded per the standing default-scope rule |
+| `#### Gameplay Notes` (all of it) | `Specs/Mirny subnet/Ariun_Nuur.md` L130–138 | Game-mechanics/narrative-design commentary, not a location fact — out of ULM scope regardless of era |
 | `**DLC:**` header | `Specs/Mirny subnet/Ariun_Nuur.md` L11 | DLC-scoping content, not a location fact — out of ULM scope |
 
 ## ⛔ CROSS-CITY CONTENT — flagged separately, see each phase's own FLAGGED table

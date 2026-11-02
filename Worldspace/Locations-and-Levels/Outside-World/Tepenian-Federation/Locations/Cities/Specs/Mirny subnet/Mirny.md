@@ -17,34 +17,55 @@
 
 | Tier | Nations |
 |------|---------|
-| Primary | China |
-| Significant | Japan, UK, South Korea, Russia, Indonesia, Australia *(founding wave)* |
-| Notable | Thailand, Vietnam, Philippines, Malaysia, South Africa, New Zealand, Belarus |
+| Primary | United Kingdom, Korea, Indonesia, Sinian Federation |
+| Significant | Japan, Australia *(founding wave)*, Philippines, New Zealand, Malaysia, Thailand, Taiwan, Idelsk-Uralia, Russia (core state), Vietnam, Manchuria, Belarus, South Africa |
+| Notable | Siberia, Donska-Kubania, Künnarantaiga, Mongolia, East Turkestan, Northern Ireland, West Papua, Aceh, Dagestan, Patani, Chechnya, Tibet, Kabardino-Balkaria, North Ossetia-Alania, Finland, Ingushetia, Karachay-Cherkessia, Tuva |
 
 *Source: `Official_Population_Census.md` Sections A–C.*
 
 ### Per-Nation Breakdown — Robots and Humans, Census I and II
 
-*(De-stacked 2026-07-05 — raw tier-share percentages naturally produced blocks of nations with identical figures; applied a randomization method to break these into distinct, non-repeating values while preserving each tier's total and ordering. See `TODO.md` for the full method.)*
+*(Rebalanced 2026-11-02 in the population rework, `DR-85`: every country appears in its latest-period form (successor states and renamed countries, split by headcount, names explained in `Official_Population_Census.md` Section E); China's row is the Sinian Federation, with its decline and the refill of the gap where the rework applies it; places never counted before were added by time-zone window; tiers were relabeled from the final shares. This city: china's pieces in window: Mongolia, Manchuria, Tibet, East Turkestan; new pools: Hong Kong 0.88%, Macau 0.10%, Taiwan 2.92%, Mongolia 0.09%, North Korea 0.36%; the Sinian Federation's share was multiplied by 0.5616 (random 0.55 to 0.65), and the freed points went in proportion to size to: United Kingdom, Korea, Indonesia, Japan, Australia. City totals in all four columns are unchanged. Method, every run and the research: `Sinian_Federation_Split_Scratch_2026-11-01/` (file `12_Rebalance_Run4.md`). The table that stood here before is in git commit `593510ab`.)*
 
 | Tier | Nation | Share % | Census I Robots | Census I Humans | Census II Robots | Census II Humans |
 |------|--------|---------|------------------|------------------|-------------------|-------------------|
-| Primary | China | 24.24% | 169,045 | 164,374 | 125,307 | 124,958 |
-| Significant | UK | 12.35% | 86,119 | 83,739 | 63,837 | 63,659 |
-| Significant | South Korea | 11.64% | 81,183 | 78,940 | 60,178 | 60,011 |
-| Significant | Indonesia | 10.96% | 76,405 | 74,293 | 56,636 | 56,478 |
-| Significant | Russia | 7.22% | 50,379 | 48,987 | 37,344 | 37,240 |
-| Significant | Japan | 6.54% | 45,600 | 44,340 | 33,802 | 33,708 |
-| Significant | Australia | 5.83% | 40,664 | 39,541 | 30,143 | 30,059 |
-| Notable | Philippines | 4.50% | 31,403 | 30,536 | 23,279 | 23,214 |
-| Notable | New Zealand | 4.48% | 31,237 | 30,374 | 23,155 | 23,090 |
-| Notable | Thailand | 3.70% | 25,766 | 25,055 | 19,100 | 19,047 |
-| Notable | Malaysia | 3.65% | 25,425 | 24,723 | 18,846 | 18,794 |
-| Notable | Vietnam | 1.75% | 12,200 | 11,863 | 9,043 | 9,019 |
-| Notable | Belarus | 1.58% | 11,024 | 10,719 | 8,171 | 8,149 |
-| Notable | South Africa | 1.56% | 10,857 | 10,557 | 8,049 | 8,026 |
+| Primary | United Kingdom | 13.93% | 97,145 | 94,459 | 72,009 | 71,809 |
+| Primary | Korea | 13.91% | 97,030 | 94,348 | 71,923 | 71,723 |
+| Primary | Indonesia | 12.21% | 85,086 | 82,735 | 63,070 | 62,894 |
+| Primary | Sinian Federation | 12.18% | 84,935 | 82,588 | 62,959 | 62,783 |
+| Significant | Japan | 7.59% | 52,910 | 51,449 | 39,221 | 39,112 |
+| Significant | Australia *(founding wave)* | 6.76% | 47,183 | 45,880 | 34,977 | 34,878 |
+| Significant | Philippines | 4.31% | 30,050 | 29,222 | 22,276 | 22,215 |
+| Significant | New Zealand | 4.29% | 29,893 | 29,067 | 22,158 | 22,096 |
+| Significant | Malaysia | 3.49% | 24,330 | 23,659 | 18,034 | 17,985 |
+| Significant | Thailand | 3.44% | 23,956 | 23,296 | 17,760 | 17,709 |
+| Significant | Taiwan | 2.90% | 20,258 | 19,698 | 15,016 | 14,974 |
+| Significant | Idelsk-Uralia | 2.17% | 15,118 | 14,700 | 11,207 | 11,176 |
+| Significant | Russia (core state) | 2.17% | 15,117 | 14,700 | 11,207 | 11,177 |
+| Significant | Vietnam | 1.68% | 11,674 | 11,352 | 8,654 | 8,631 |
+| Significant | Manchuria | 1.57% | 10,930 | 10,627 | 8,101 | 8,078 |
+| Significant | Belarus | 1.51% | 10,550 | 10,257 | 7,820 | 7,799 |
+| Significant | South Africa | 1.49% | 10,389 | 10,102 | 7,702 | 7,680 |
+| Notable | Siberia | 0.86% | 6,009 | 5,844 | 4,456 | 4,443 |
+| Notable | Donska-Kubania | 0.83% | 5,762 | 5,603 | 4,272 | 4,260 |
+| Notable | Künnarantaiga | 0.50% | 3,472 | 3,377 | 2,573 | 2,567 |
+| Notable | Mongolia | 0.49% | 3,395 | 3,300 | 2,518 | 2,510 |
+| Notable | East Turkestan | 0.43% | 3,017 | 2,933 | 2,237 | 2,231 |
+| Notable | Northern Ireland | 0.33% | 2,295 | 2,231 | 1,700 | 1,695 |
+| Notable | West Papua | 0.21% | 1,498 | 1,457 | 1,110 | 1,108 |
+| Notable | Aceh | 0.21% | 1,447 | 1,407 | 1,072 | 1,069 |
+| Notable | Dagestan | 0.15% | 1,068 | 1,038 | 791 | 789 |
+| Notable | Patani | 0.10% | 700 | 681 | 517 | 516 |
+| Notable | Chechnya | 0.073% | 506 | 492 | 378 | 377 |
+| Notable | Tibet | 0.061% | 427 | 415 | 316 | 315 |
+| Notable | Kabardino-Balkaria | 0.043% | 304 | 295 | 225 | 224 |
+| Notable | North Ossetia-Alania | 0.033% | 231 | 224 | 171 | 171 |
+| Notable | Finland | 0.026% | 179 | 174 | 133 | 132 |
+| Notable | Ingushetia | 0.025% | 171 | 167 | 126 | 126 |
+| Notable | Karachay-Cherkessia | 0.023% | 158 | 153 | 117 | 117 |
+| Notable | Tuva | 0.016% | 114 | 111 | 84 | 83 |
 
-*Figures use the project's standard share-weighting methodology as a baseline (Primary=8 shares, Significant=3 shares, Notable=1 share per nation — see `Upper_Earth_Immigration_Composition.md`), then de-stacked per the method above so that same-tier nations no longer show identical figures. Percentages are of this city's own population (identical between Census I and II under this proportional model), not Tepenia-wide. Robot figures apply the same national-origin proportions as the human population, consistent with the project's established methodology.*
+*Tier labels follow the final shares: Primary and Significant end at the largest ratio gaps among the rows at 4.5% or more (Primary never more than six rows), no row at 4.5% or more is Notable, and Notable is the rest (the composition file's own rule, "boundaries fall at the largest ratio gaps"; the 8 / 3 / 1 share weights no longer produce the figures). Percentages are of this city's own human and robot population (identical between censuses), not Tepenia-wide. Robot figures apply the same proportions as the human population. Shares are rounded; they sum to 100% within rounding.*
 
 ---
 

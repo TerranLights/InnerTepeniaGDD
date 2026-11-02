@@ -16,7 +16,7 @@
 | Significance | *[source line excluded: later-era content, outside the Second Interwar default scope; not copied]* | `Specs/Janbogo.md` L8 |
 | Coordinates (as written in the same field) | ~74°37'S, 164°13'E | `Specs/Janbogo.md` L3 |
 | Specs `Status:` field | States a later-era condition; per the standing default-scope rule (`00_RUNBOOK.md`, the Second Interwar default) this is **never an input** to a Second Interwar pass — not copied | `Specs/Janbogo.md` L4 |
-| Later-era sections present in the Specs file (same exclusion as `Status:`) | 3 section(s), by heading position: L182, L195, L203 — not copied, not described | `Specs/Janbogo.md` L182, L195, L203 |
+| Later-era sections present in the Specs file (same exclusion as `Status:`) | 3 section(s), by heading position: L182, L195, L203 — not copied, not described | `Specs/Janbogo.md` L201, L214, L222 |
 | Census I (spec's own line) | 658,680 humans / 675,748 robots / **1,334,428** combined | `Specs/Janbogo.md` L15 |
 | Census II (spec's own line) | 498,672 humans / 474,745 robots / **973,417** combined | `Specs/Janbogo.md` L16 |
 

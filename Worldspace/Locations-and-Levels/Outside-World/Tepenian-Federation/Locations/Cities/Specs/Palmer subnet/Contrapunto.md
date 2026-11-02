@@ -35,31 +35,61 @@
 
 | Tier | Nations |
 |------|---------|
-| Primary | USA |
-| Significant | France, UK, Mexico, Germany, Brazil, Italy, Russia, South Korea |
-| Notable | Argentina *(founding wave)*, Chile *(founding wave)*, Uruguay |
+| Primary | France, United Kingdom, México, Germany |
+| Significant | CSA, Brazil, Korea, Appalachia, Argentina (without Patagonia) *(founding wave)*, Cascadia, New England, Magna Lombardia, Chile *(founding wave)* |
+| Notable | Meridia, Idelsk-Uralia, Russia (core state), Austro-Bavaria, Midwest Republic, Yucatán, Sonora, Colorado, Uruguay, Siberia, Araucanía-Patagonia, Donska-Kubania, Amazonia, Sicilia (autonomous zone within Meridia), Künnarantaiga, Northern Ireland, Dagestan, Hawaii, Chechnya, Alaska, Kabardino-Balkaria, North Ossetia-Alania, Finland, Ingushetia, Karachay-Cherkessia, Tuva |
 
 *Source: `Official_Population_Census.md` Sections A–C.*
 
 ### Per-Nation Breakdown — Robots and Humans, Census I and II
 
-*(De-stacked 2026-07-05, recalculated 2026-07-13 after China's removal — raw tier-share percentages naturally produced blocks of nations with identical figures; applied a randomization method to break these into distinct, non-repeating values while preserving each tier's total and ordering. See `TODO.md` for the full method.)*
+*(Rebalanced 2026-11-02 in the population rework, `DR-85`: every country appears in its latest-period form (successor states and renamed countries, split by headcount, names explained in `Official_Population_Census.md` Section E); China's row is the Sinian Federation, with its decline and the refill of the gap where the rework applies it; places never counted before were added by time-zone window; tiers were relabeled from the final shares. This city: new pools: Petén 0.05%. City totals in all four columns are unchanged. Method, every run and the research: `Sinian_Federation_Split_Scratch_2026-11-01/` (file `12_Rebalance_Run4.md`). The table that stood here before is in git commit `593510ab`.)*
 
 | Tier | Nation | Share % | Census I Robots | Census I Humans | Census II Robots | Census II Humans |
 |------|--------|---------|------------------|------------------|-------------------|-------------------|
-| Primary | USA | 21.65% | 71,038 | 68,568 | 60,573 | 50,720 |
-| Significant | France | 11.62% | 38,131 | 36,799 | 32,510 | 27,225 |
-| Significant | UK | 11.30% | 37,077 | 35,789 | 31,616 | 26,474 |
-| Significant | Mexico | 11.28% | 37,020 | 35,733 | 31,560 | 26,427 |
-| Significant | Germany | 10.72% | 35,187 | 33,955 | 29,994 | 25,115 |
-| Significant | Brazil | 6.69% | 21,952 | 21,187 | 18,720 | 15,678 |
-| Significant | Italy | 6.13% | 20,116 | 19,412 | 17,151 | 14,362 |
-| Significant | Russia | 6.12% | 20,079 | 19,376 | 17,119 | 14,335 |
-| Significant | South Korea | 5.79% | 19,000 | 18,336 | 16,199 | 13,566 |
-| Notable | Argentina | 4.26% | 13,979 | 13,491 | 11,918 | 9,981 |
-| Notable | Chile | 3.53% | 11,582 | 11,180 | 9,878 | 8,273 |
-| Notable | Uruguay | 0.91% | 2,986 | 2,882 | 2,546 | 2,132 |
+| Primary | France | 11.61% | 38,111 | 36,780 | 32,493 | 27,213 |
+| Primary | United Kingdom | 10.98% | 36,027 | 34,775 | 30,720 | 25,725 |
+| Primary | México | 9.10% | 29,863 | 28,825 | 25,459 | 21,320 |
+| Primary | Germany | 8.99% | 29,499 | 28,466 | 25,145 | 21,057 |
+| Significant | CSA | 7.00% | 22,968 | 22,169 | 19,583 | 16,400 |
+| Significant | Brazil | 6.02% | 19,761 | 19,072 | 16,851 | 14,114 |
+| Significant | Korea | 5.79% | 18,991 | 18,326 | 16,190 | 13,560 |
+| Significant | Appalachia | 4.49% | 14,743 | 14,229 | 12,570 | 10,527 |
+| Significant | Argentina (without Patagonia) *(founding wave)* | 4.02% | 13,179 | 12,718 | 11,235 | 9,410 |
+| Significant | Cascadia | 3.68% | 12,081 | 11,660 | 10,301 | 8,627 |
+| Significant | New England | 3.67% | 12,058 | 11,637 | 10,281 | 8,610 |
+| Significant | Magna Lombardia | 3.49% | 11,448 | 11,048 | 9,760 | 8,175 |
+| Significant | Chile *(founding wave)* | 3.04% | 9,969 | 9,622 | 8,501 | 7,121 |
+| Notable | Meridia | 2.14% | 7,029 | 6,781 | 5,991 | 5,019 |
+| Notable | Idelsk-Uralia | 1.92% | 6,294 | 6,073 | 5,365 | 4,495 |
+| Notable | Russia (core state) | 1.92% | 6,294 | 6,072 | 5,364 | 4,494 |
+| Notable | Austro-Bavaria | 1.73% | 5,670 | 5,470 | 4,833 | 4,047 |
+| Notable | Midwest Republic | 1.40% | 4,585 | 4,425 | 3,908 | 3,273 |
+| Notable | Yucatán | 1.22% | 3,992 | 3,854 | 3,403 | 2,851 |
+| Notable | Sonora | 1.22% | 3,988 | 3,850 | 3,401 | 2,848 |
+| Notable | Colorado | 1.05% | 3,447 | 3,328 | 2,940 | 2,462 |
+| Notable | Uruguay | 0.91% | 2,985 | 2,881 | 2,545 | 2,131 |
+| Notable | Siberia | 0.76% | 2,502 | 2,414 | 2,133 | 1,786 |
+| Notable | Araucanía-Patagonia | 0.73% | 2,401 | 2,317 | 2,048 | 1,715 |
+| Notable | Donska-Kubania | 0.73% | 2,399 | 2,315 | 2,045 | 1,712 |
+| Notable | Amazonia | 0.66% | 2,180 | 2,104 | 1,859 | 1,557 |
+| Notable | Sicilia (autonomous zone within Meridia) | 0.50% | 1,629 | 1,572 | 1,389 | 1,163 |
+| Notable | Künnarantaiga | 0.44% | 1,445 | 1,394 | 1,232 | 1,031 |
+| Notable | Northern Ireland | 0.31% | 1,031 | 996 | 880 | 737 |
+| Notable | Dagestan | 0.14% | 445 | 429 | 379 | 317 |
+| Notable | Hawaii | 0.091% | 298 | 287 | 254 | 213 |
+| Notable | Chechnya | 0.064% | 211 | 204 | 180 | 151 |
+| Notable | Alaska | 0.042% | 139 | 134 | 118 | 99 |
+| Notable | Kabardino-Balkaria | 0.038% | 126 | 122 | 108 | 90 |
+| Notable | North Ossetia-Alania | 0.029% | 96 | 93 | 82 | 69 |
+| Notable | Finland | 0.023% | 74 | 72 | 63 | 53 |
+| Notable | Ingushetia | 0.022% | 71 | 69 | 61 | 51 |
+| Notable | Karachay-Cherkessia | 0.020% | 66 | 63 | 56 | 47 |
+| Notable | Tuva | 0.014% | 47 | 45 | 40 | 34 |
 
+*Tier labels follow the final shares: Primary and Significant end at the largest ratio gaps among the rows at 4.5% or more (Primary never more than six rows), no row at 4.5% or more is Notable, and Notable is the rest (the composition file's own rule, "boundaries fall at the largest ratio gaps"; the 8 / 3 / 1 share weights no longer produce the figures). Percentages are of this city's own human and robot population (identical between censuses), not Tepenia-wide. Robot figures apply the same proportions as the human population. Shares are rounded; they sum to 100% within rounding.*
+
+*The note that follows describes the earlier table (2026-07 to 2026-10) and is kept as history.*
 *Figures use the project's standard share-weighting methodology as a baseline (Primary=8 shares, Significant=3 shares, Notable=1 share per nation — see `Upper_Earth_Immigration_Composition.md`), then de-stacked per the method above so that same-tier nations no longer show identical figures. Percentages are of this city's own population (identical between Census I and II under this proportional model), not Tepenia-wide. Robot figures apply the same national-origin proportions as the human population, consistent with the project's established methodology. Row sums may be off by a handful of individuals from the Census I/II totals due to per-nation rounding — immaterial, consistent with this project's established tolerance (see Lazar's own per-nation table for precedent).*
 
 ---
@@ -72,7 +102,7 @@ What made King George Island distinctive in the pre-exile era was concentration:
 
 Formerly named Sejong, after King Sejong the Great, creator of Hangul and the real station's namesake; a namesake is flavor only (`DR-32`). The earlier story of a Korean exile community naming its city after him is withdrawn. The Korean connection that remains is the Register's: people were later invited from Korea to translate the inherited station's Korean-language records, logs and manifests (`DR-35`).
 
-The Janbogo connection is withdrawn: Contrapunto was settled first by Chile (`DR-35`), and the comparison with Temirötkel no longer holds. The composition figures stand: South Korea is 5.79% of Contrapunto, the smallest of its eight Significant-tier nations, well behind the USA's sole-Primary 21.65% and France's 11.62%; Tepenia's living Korean population centers today are Janbogo and Sinheung (Mirny subnet, still Korean-Primary at 34.62%).
+The Janbogo connection is withdrawn: Contrapunto was settled first by Chile (`DR-35`), and the comparison with Temirötkel no longer holds. The composition figures stand: Korea is 5.79% of Contrapunto, a Significant-tier nation well behind France's 11.61%, the leader *(updated 2026-11-02, `DR-85`; the earlier text compared it with the USA's sole-Primary 21.65% and France's 11.62%, before the USA split into successor states)*; Tepenia's living Korean population centers today are Janbogo and Sinheung (Mirny subnet, still Korean-Primary, now at 33.49%; was 34.62% before the 2026-11-02 rework).
 
 ### Annual Climate
 
@@ -173,7 +203,7 @@ King George Island's favorable position (most accessible part of Antarctica, clo
 ---
 
 ## Connection to Concordia
-Palmer subnet. *(Corrected 2026-07-13: this entry previously called Contrapunto "a parallel to Janbogo's Korean community" and said the two cities "represent the same people" — wrong. Janbogo and Sinheung are Tepenia's living Korean demographic centers; Contrapunto's Korean population has diluted to 5.79%, its smallest Significant-tier nation. Contrapunto's refugees in Concordia are shaped by its own real, multinational composition, not a shared Korean identity with Janbogo's diaspora.)*
+Palmer subnet. *(Corrected 2026-07-13: this entry previously called Contrapunto "a parallel to Janbogo's Korean community" and said the two cities "represent the same people" — wrong. Janbogo and Sinheung are Tepenia's living Korean demographic centers; Contrapunto's Korean population has diluted to 5.79%, a Significant-tier nation *(2026-11-02, `DR-85`: it was then called its smallest Significant-tier nation; the tiers were relabeled in the population rework)*. Contrapunto's refugees in Concordia are shaped by its own real, multinational composition, not a shared Korean identity with Janbogo's diaspora.)*
 
 ---
 
