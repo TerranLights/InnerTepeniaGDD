@@ -133,23 +133,23 @@ The station is named for Jules Sébastien César Dumont d'Urville, the French na
 
 | Month | Rec High | Avg High (day) | Mean | Avg Low (night) | Rec Low | Precip (mm) | Precip Prob | Daylight (h) | Notes |
 |-------|----------|----------------|------|-----------------|---------|-------------|-------------|-----------|-------|
-| Jan | +9.7 | +1 | -1.0 | −3.6 | −10.8 | 42 | ~29% | 21.4 | Warmest period; brief rain possible |
-| Feb | +6.4 | −2.1 | -4.4 | −6.9 | −17.3 | 40 | ~25% | 16.6 | Days shortening; winds intensifying |
-| Mar | +4.9 | −6.4 | -9.3 | −11.3 | −25 | 37 | ~32% | 13.0 | Autumn; sea ice forming |
-| Apr | +8.7 | −10 | -13.5 | −14.8 | −26.1 | 32 | ~27% | 9.3 | Rapid darkening |
-| May | 0 | −12.6 | -16.1 | −17.7 | −32.5 | 28 | ~32% | 5.6 | Near-darkness; strong katabatic season |
-| Jun | +0.9 | −14.6 | -16.7 | −20 | −34.9 | 25 | ~23% | 2.2 | Darkest month — ~1.9 hrs at solstice; **no polar night** |
-| Jul | +0.5 | −14 | -16.9 | −20 | −34.4 | 25 | ~35% | 3.8 | Coldest month; maximum wind intensity |
-| Aug | +0.3 | −14.5 | -16.6 | −20.3 | −37.4 | 27 | ~35% | 7.5 | Still very cold and windy |
-| Sep | +0.3 | −13.6 | -15.8 | −18.8 | −36.1 | 31 | ~33% | 11.2 | Spring; winds moderating slightly |
-| Oct | +1.7 | −10.3 | -13.2 | −16.1 | −37.2 | 35 | ~26% | 14.9 | Warming; sea ice breaking up |
-| Nov | +4.7 | −4.1 | -6.4 | −10.3 | −21 | 40 | ~20% | 19.2 | Long days; maritime access returning |
-| Dec | +11 | +0.4 | -1.6 | −4.7 | −14 | 42 | ~19% | 24* | *midnight sun ~Dec 7–Jan 6; solstice peak |
+| Jan | +9.7 | +1 | -1.0 | −3.6 | −10.8 | 45 | ~29% | 21.4 | Warmest period; brief rain possible |
+| Feb | +6.4 | −2.1 | -4.4 | −6.9 | −17.3 | 50 | ~25% | 16.6 | Days shortening; winds intensifying |
+| Mar | +4.9 | −6.4 | -9.3 | −11.3 | −25 | 60 | ~32% | 13.0 | Autumn; sea ice forming |
+| Apr | +8.7 | −10 | -13.5 | −14.8 | −26.1 | 62 | ~27% | 9.3 | Rapid darkening |
+| May | 0 | −12.6 | -16.1 | −17.7 | −32.5 | 62 | ~32% | 5.6 | Near-darkness; strong katabatic season |
+| Jun | +0.9 | −14.6 | -16.7 | −20 | −34.9 | 58 | ~23% | 2.2 | Darkest month — ~1.9 hrs at solstice; **no polar night** |
+| Jul | +0.5 | −14 | -16.9 | −20 | −34.4 | 55 | ~35% | 3.8 | Coldest month; maximum wind intensity |
+| Aug | +0.3 | −14.5 | -16.6 | −20.3 | −37.4 | 55 | ~35% | 7.5 | Still very cold and windy |
+| Sep | +0.3 | −13.6 | -15.8 | −18.8 | −36.1 | 55 | ~33% | 11.2 | Spring; winds moderating slightly |
+| Oct | +1.7 | −10.3 | -13.2 | −16.1 | −37.2 | 55 | ~26% | 14.9 | Warming; sea ice breaking up |
+| Nov | +4.7 | −4.1 | -6.4 | −10.3 | −21 | 52 | ~20% | 19.2 | Long days; maritime access returning |
+| Dec | +11 | +0.4 | -1.6 | −4.7 | −14 | 48 | ~19% | 24* | *midnight sun ~Dec 7–Jan 6; solstice peak |
 
 ***Monthly record extremes (Dumont d'Urville, researched 2026-09-04)** — **Rec High / Rec Low:* ⭐ **measured** monthly extremes over the station's full record. **Avg High / Avg Low* are the mean daily maximum and minimum — the warmest and coolest parts of the 24-hour cycle, which is what "day" and "night" mean at this latitude. ⚠ *During polar night the diurnal cycle is not solar-driven and the day/night split narrows toward weather noise.**
 
 
-***Column provenance (Dumont d'Urville, added 2026-09-04)** — **Avg Temp:* BAS READER WMO 1991–2020 normal. **Temp Range:* ⭐ **measured** — mean daily minimum to mean daily maximum. **Avg Precip:* ⚠ derived — no monthly precipitation normals obtained. **Precip Probability:* ⭐ **measured** — mean days with precipitation ÷ days in month. **Avg Daylight:* computed from this city's own latitude.*
+***Column provenance (Dumont d'Urville, added 2026-09-04)** — **Avg Temp:* BAS READER WMO 1991–2020 normal. **Temp Range:* ⭐ **measured** — mean daily minimum to mean daily maximum. **Avg Precip:* ⚠ derived — no monthly precipitation normals obtained. **Re-derived 2026-11-02 (`DR-86`):** the column now sums to 657 mm, matching the annual text (~655 mm) and the column Denison's spec carries for the same station's data; the earlier column summed to 404 mm (42 · 40 · 37 · 32 · 28 · 25 · 25 · 27 · 31 · 35 · 40 · 42). **Precip Probability:* ⭐ **measured** — mean days with precipitation ÷ days in month. **Avg Daylight:* computed from this city's own latitude.*
 
 
 #### Notable Weather Phenomena

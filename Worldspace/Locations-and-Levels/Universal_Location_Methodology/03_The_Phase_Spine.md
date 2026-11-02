@@ -143,7 +143,7 @@ Stated once here rather than repeated eleven times.
 3. **Name the axis, in bold, before writing the content.** *(`00_RUNBOOK.md` Step 4.)* A category is not
    differentiated by having different content; **it is differentiated by answering a different question.** If
    you cannot name the axis in three or four words, the category has not been differentiated — it has only been
-   described differently. In a ULM / CST / RWBEM pass, add the axis to this location's own column of the
+   described differently. In a ULM / CST / RWBEM pass, add the axis to this location's own row of the
    differentiation instrument (`04` Part III, write-only in-run) and never read another location's row.
 4. **A null is a result.** A category that
    produces nothing distinctive for this location is allowed to produce nothing. **Record the null and say

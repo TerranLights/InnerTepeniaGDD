@@ -26,7 +26,7 @@ piece is and where it lives; the file named in each section is the authority on 
 | **3** | **Research** | ⭐ **Aimed at what Step 2 named** — targeted, never general |
 | **4** | **Write the phases** | All 11, in order |
 | **5** | **Reconciliation** *(+ the CLOSE pass)* | Make the phases agree with each other and with canon |
-| **6** | **Differentiate** | Against the siblings, via the differentiation table. ⛔ *Add this location's column in the SAME commit* |
+| **6** | **Differentiate** | Against the siblings, via the differentiation table. ⛔ *Add this location's row in the SAME commit* |
 | **7** | **QA** | Run the gates. ⛔ **Paste raw scan output; never summarize it** |
 | **8** | **The Review Panel** | Six dispositions: `accepted · noted · rejected · refereed · unmet · declined` |
 | **9** | **Record** | Write it down |

@@ -510,7 +510,7 @@ un-run check.
 ### 5.3b — When a sibling set does exist
 
 > ⛔ **In a ULM / CST / RWBEM pass this subsection is TERMINAL, not in-run** (`00_RUNBOOK.md`, THE LAW OF ONE
-> LOCATION, 2026-09-06). The pass adds its own column to the differentiation table and never reads another
+> LOCATION, 2026-09-06). The pass adds its own row to the differentiation table and never reads another
 > location's. The strategies below govern the terminal differentiation check on the finished corpus.
 
 Sibling sets vary enormously:

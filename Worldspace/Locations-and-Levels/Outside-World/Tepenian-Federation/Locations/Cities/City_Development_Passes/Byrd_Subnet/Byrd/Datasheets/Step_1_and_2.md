@@ -18,10 +18,10 @@
 | Spec climate — climate data source | NSF / US Antarctic Program (USAP, historical) — historical Byrd Station record, 1957–1969 (the station closed about 1969; BAS READER lists the station but holds no monthly means for it, and no 1991–2020 normal exists)  _https://legacy.bas.ac.uk/met/READER/_ | `Specs/Byrd.md` L177 |
 | Spec climate — climate type | Continental polar — West Antarctic interior; [...] deep inland; [...] · elevation: approximately 1,530 meters above sea level *(the elevation sentence's comparison with another place is not copied)* *([...] = a clause comparing the city with another place, not copied)* | `Specs/Byrd.md` L181; elevation `Specs/Byrd.md` L167 |
 | Spec climate — mean annual temperature | approximately −28°C  _(historical; Byrd Station operational period 1957–1969; no 1991–2020 data — station not active in that period)_ | `Specs/Byrd.md` L182 |
-| Spec climate — temperature range | coldest months (July/August) avg −40°C; warmest month (January) avg −12°C | `Specs/Byrd.md` L183 |
-| Spec climate — record extremes | record high **+5.0 °C** (January); record low **−62.2 °C** (August/September) *(researched 2026-09-04)* | `Specs/Byrd.md` L184 |
+| Spec climate — temperature range | coldest months (August/September) avg −36.7°C; warmest month (December) avg −14.9°C (January −15.2°C) *(measured, Byrd Station 1957–1969; corrected 2026-11-02, `DR-86`; the earlier text read July/August −40°C and January −12°C)* | `Specs/Byrd.md` L183 |
+| Spec climate — record extremes | record high **+5.0 °C** (January); record low **−63.3 °C** (July 1958) *(measured, Byrd Station 1957–1988; corrected 2026-11-02, `DR-86`; the earlier text read −62.2 °C)* | `Specs/Byrd.md` L184 |
 | Spec climate — prevailing winds | variable; [...] moderate average wind speeds with significant storm events possible *([...] = a clause comparing the city with other places, not copied)* | `Specs/Byrd.md` L185 |
-| Spec climate — annual precipitation | **30 mm** water equivalent _(Byrd Station (1961-1990); measured monthly normals — see table)_ *(researched 2026-09-04)* | `Specs/Byrd.md` L186 |
+| Spec climate — annual precipitation | **30 mm** water equivalent _(design-grade; the station gauge reads about 58 mm a year and glaciological accumulation is 67–156 mm water equivalent; relabeled 2026-11-02, `DR-86`; the monthly numbers are in `Phase_3.md`)_ *(researched 2026-09-04)* | `Specs/Byrd.md` L186 |
 | Spec climate — regime | **INTERIOR** — *low fall, moderate redistribution* | `Specs/Byrd.md` L190 |
 | Spec climate — falls (reaches the surface) | ~30 mm/yr | `Specs/Byrd.md` L191 |
 | Spec climate — lands (accumulates and stays) | **~21 mm/yr** *(~70% retention)* | `Specs/Byrd.md` L192 |

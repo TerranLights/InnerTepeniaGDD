@@ -17,7 +17,7 @@ The 12 Steps run S01→S12. Phases 0–10 live inside Step 4. All 17 Gates live 
 | **3** | Research | `LAW 0-R` · the deficit Step 2 named | Research the deficit (never before Step 2) · log every search verbatim in the location's own research log · run the Unrecognized Instrument after |
 | **4** | Write the phases | `03` (Phase Spine) · each phase's own `MUST OPEN` block · `T1`–`T8` | Writes Phases 2–10 (below) · close-out check that all 8 generators were cited somewhere |
 | **5** | Reconciliation *(+ CLOSE pass)* | `02` §5.3 (both-are-true) · `05` §6.1/§6.3 (circularity, canon tiers) | Resolves generator-vs-generator and generator-vs-canon conflicts · runs the deferred close-only checks · strongest-finding audit |
-| **6** | Differentiate | `04` Part III.4 | **Write-only.** Run the 4 no-sibling substitutes; add this location's own column. Never read another location's row |
+| **6** | Differentiate | `04` Part III.4 | **Write-only.** Run the 4 no-sibling substitutes; add this location's own row. Never read another location's row |
 | **7** | QA | `04` Parts I–II · all 17 gates | Runs Gates 0–11 + C/F/I/P/G (below) · hand-verifies every zero AND every plausible number |
 | **8** | Review Panel | `00f_Review_Panel.md` | 6 Flat Archetypes + Passer-Through + Neighbor (mandatory) + the Lover faculty · 6 dispositions: accepted / noted / rejected / refereed / unmet / declined |
 | **9** | Record | — | Appends QA + Panel blocks · adds the differentiation row · updates the tracker (pointer only, ≤3 lines) · updates the methodology if changed · writes the `9.5` recording log (`M-` findings) |

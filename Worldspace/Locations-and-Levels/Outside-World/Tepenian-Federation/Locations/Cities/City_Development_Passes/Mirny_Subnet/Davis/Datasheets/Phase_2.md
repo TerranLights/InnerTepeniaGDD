@@ -14,6 +14,7 @@
 | Census I (governs, `DR-4`) | 563,599 H / 594,715 R / 1,158,314 *[as recorded at the pass (2026-09-16); live since `DR-68` (2026-10-28): 575,738 H / 606,493 R / 1,182,231]* | `Official_Population_Census.md` L506 |
 | Census II | 437,423 H / 344,173 R / 781,596 (no annotation at the pass; the live row now carries a `DR-68` note and reads 445,531 H / 351,912 R / 797,443) | `Official_Population_Census.md` L649 *(re-pointed 2026-10-30 from L611)* |
 | Retention (computed; formula = retained ÷ Census-I count) | combined 67.48% · human 77.61% · robot 57.87% · spread 19.74 pp *[as recorded at the pass (2026-09-16); live since `DR-68`, derived by hand 2026-10-30: combined 67.45% · human 77.38% · robot 58.02% · spread 19.36 pp]* | Same two rows above |
+| Founding Register row — the only source of founders (`DR-19`) | **Founders:** Australia · **Basis:** *"extremely close… comparatively easy access"* · **Ruling:** `DR-19` · **Not founders:** — | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Founding_Register.md` L59 |
 
 ## Added 2026-10-30 — the composition file (located by range this sweep; no pass file cites it)
 

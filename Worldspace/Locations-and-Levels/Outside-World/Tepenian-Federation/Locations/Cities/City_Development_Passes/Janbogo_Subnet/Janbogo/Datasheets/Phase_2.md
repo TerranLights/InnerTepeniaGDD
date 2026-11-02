@@ -27,5 +27,6 @@
 | GPS law — the operative distinction | The station-builder nation (real-world) is a GPS coordinate only; the population's own origin (canon: this city's census/tier table) is admissible once composition is established | `Corpus_Reference_Sheets/No_National_Stereotypes_Quick_Reference.md` |
 | Founding Register — the city's row | **City:** Janbogo · **Subnet:** Janbogo · **Solar UTC:** +11 · **Status:** ✅ · **Founders:** Korea · **Basis:** Two to three time zones · **Source:** `DR-22` · **Not founders:** — | `Founding_Register.md` L66 |
 | Diaspora / affinity files | `City_Refugee_District_Affinities.md` **resolves to nothing admissible** for a city pass (maps cities to Concordia districts; Law of One Location, `§C.8d`) | `00_RUNBOOK.md` Phase 2 row |
+| Founding Register row — the only source of founders (`DR-19`) | **Founders:** Korea · **Basis:** Two to three time zones · **Ruling:** `DR-22` · **Not founders:** — | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Founding_Register.md` L66 |
 
 **Not mechanical / not included here:** the seven-mode arrival taxonomy, attract/repel, native/transplanted separation, who-is-not-here, the differentiation axis name — none of this exists until Janbogo's own pass runs.

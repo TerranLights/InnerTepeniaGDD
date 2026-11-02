@@ -204,7 +204,7 @@ The former name "Sayowa" came from the real station's name Syowa (昭和, Shōwa
 ***Monthly record extremes (Syowa, researched 2026-09-04)** — **Rec High / Rec Low:* ⭐ **measured** monthly extremes over the station's full record. **Avg High / Avg Low* are the mean daily maximum and minimum — the warmest and coolest parts of the 24-hour cycle, which is what "day" and "night" mean at this latitude. ⚠ *During polar night the diurnal cycle is not solar-driven and the day/night split narrows toward weather noise.**
 
 
-***Column provenance (Syowa, added 2026-09-04)** — **Avg Temp:* BAS READER WMO 1991–2020 normal. **Temp Range:* ⭐ **measured** — mean daily minimum to mean daily maximum. **Avg Precip:* ⚠ derived — no monthly precipitation normals obtained. **Precip Probability:* ⚠ derived — no precipitation-day counts obtained. **Avg Daylight:* computed from this city's own latitude.*
+***Column provenance (Syowa, added 2026-09-04)** — **Avg Temp:* BAS READER WMO 1991–2020 normal. **Temp Range:* ⭐ **measured** — mean daily minimum to mean daily maximum. **Avg Precip:* ⚠ derived — no monthly precipitation normals obtained. **Precip Probability:* ⚠ derived — no precipitation-day counts obtained. **Avg Daylight:* computed from this city's own latitude. **Monthly Precip column, labeled 2026-11-02 (`DR-86`):** ⚠ design-grade — the twelve months sum to 282 mm, while the annual text above says 250–350 mm, "falls ~350 mm"; both figures are kept and neither is the station's gauge.*
 
 
 *Polar night ~Jun 1–Jul 13 (~43 days); midnight sun ~Nov 23–Jan 20 (~59 days)*

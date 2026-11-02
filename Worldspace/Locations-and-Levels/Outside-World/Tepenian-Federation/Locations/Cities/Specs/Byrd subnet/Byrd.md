@@ -180,10 +180,10 @@ Byrd's isolation is of a different character from Concordia's. Concordia is isol
 
 **Climate type:** Continental polar — West Antarctic interior; lower altitude than East Antarctic plateau but deep inland; more precipitation than Concordia due to West Antarctic moisture patterns
 **Mean annual temperature:** approximately −28°C  _(historical; Byrd Station operational period 1957–1969; no 1991–2020 data — station not active in that period)_
-**Temperature range:** coldest months (July/August) avg −40°C; warmest month (January) avg −12°C
-**Record extremes:** record high **+5.0 °C** (January); record low **−62.2 °C** (August/September) *(researched 2026-09-04)*
+**Temperature range:** coldest months (August/September) avg −36.7°C; warmest month (December) avg −14.9°C (January −15.2°C) *(measured, Byrd Station 1957–1969; corrected 2026-11-02, `DR-86`; the earlier text read July/August −40°C and January −12°C)*
+**Record extremes:** record high **+5.0 °C** (January); record low **−63.3 °C** (July 1958) *(measured, Byrd Station 1957–1988; corrected 2026-11-02, `DR-86`; the earlier text read −62.2 °C, August/September)*
 **Prevailing winds:** variable; West Antarctic interior wind patterns less uniform than the strong katabatic systems of the coast; moderate average wind speeds with significant storm events possible
-**Annual precipitation:** **30 mm** water equivalent _(Byrd Station (1961-1990); measured monthly normals — see table)_ *(researched 2026-09-04)*
+**Annual precipitation:** **30 mm** water equivalent _(design-grade; the station gauge reads about 58 mm a year and glaciological accumulation is 67–156 mm water equivalent; see the table's provenance note; relabeled 2026-11-02, `DR-86`)_ *(researched 2026-09-04)*
 
 #### ⭐ Precipitation regime — what falls vs what lands
 
@@ -205,23 +205,23 @@ Byrd's isolation is of a different character from Concordia's. Concordia is isol
 
 | Month | Rec High | Avg High (day) | Mean | Avg Low (night) | Rec Low | Precip (mm) | Precip Prob | Daylight (h) | Notes |
 |-------|----------|----------------|------|-----------------|---------|-------------|-------------|-----------|-------|
-| Jan | +5 | −5 | −12 | −19 | −28.9 | 6 | ~8% | 24 | Midnight sun; warmest period |
-| Feb | −3.3 | −12 | −20 | −28 | −40 | 4 | ~5% | 24 | Days shortening; temperature dropping |
-| Mar | −8.9 | −21 | −29 | −37 | −51.1 | 2 | ~2% | 14.5 | Autumn transition |
-| Apr | −8.3 | −26 | −35 | −44 | −56.7 | 1 | ~1% | 4.0 | Polar night begins ~Apr 19 |
-| May | −8.3 | −29 | −38 | −47 | −61.7 | 5 | ~4% | 0 | Full polar night |
-| Jun | −10.6 | −29 | −39 | −49 | −61.1 | 3 | ~4% | 0 | Full polar night; coldest period |
-| Jul | −12.2 | −29 | −40 | −51 | −60.6 | 2 | ~2% | 0 | Full polar night; coldest month |
-| Aug | −13.9 | −29 | −39 | −49 | −62.2 | 1 | ~1% | 0 | Polar night ends ~Aug 25 |
-| Sep | −10 | −25 | −34 | −43 | −62.2 | 0 | ~0% | 10.1 | Sun returns; still very cold |
-| Oct | −12.8 | −17 | −25 | −33 | −58.3 | 1 | ~0% | 20.6 | Warming; midnight sun approaching |
-| Nov | −6.1 | −9 | −16 | −23 | −43.3 | 2 | ~2% | 24 | Midnight sun approaching |
-| Dec | +1.1 | −5 | −12 | −19 | −34.4 | 3 | ~4% | 24 | Midnight sun; warmest period |
+| Jan | +5.0 | −12.1 | −15.2 | −18.4 | −28.9 | 6 | ~8% | 24 | Midnight sun; warm period (−15.2) |
+| Feb | −3.3 | −16.2 | −20.1 | −23.9 | −40.0 | 4 | ~5% | 24 | Days shortening; temperature dropping |
+| Mar | −8.9 | −23.6 | −28.0 | −32.4 | −53.3 | 2 | ~2% | 14.5 | Autumn transition |
+| Apr | −7.2 | −25.2 | −30.1 | −35.0 | −56.7 | 1 | ~1% | 4.0 | Polar night begins ~Apr 19 |
+| May | −6.7 | −27.9 | −32.9 | −38.0 | −61.7 | 5 | ~4% | 0 | Full polar night |
+| Jun | −10.6 | −29.5 | −34.5 | −39.6 | −61.1 | 3 | ~4% | 0 | Full polar night |
+| Jul | −12.2 | −31.1 | −36.1 | −41.1 | −63.3 | 2 | ~2% | 0 | Full polar night |
+| Aug | −13.3 | −31.7 | −36.7 | −41.7 | −62.2 | 1 | ~1% | 0 | Polar night ends ~Aug 25; with September the coldest month (−36.7) |
+| Sep | −10.0 | −31.8 | −36.7 | −41.5 | −62.2 | 0 | ~0% | 10.1 | Sun returns; still very cold; with August the coldest month (−36.7) |
+| Oct | −11.1 | −26.1 | −31.0 | −35.9 | −58.3 | 1 | ~0% | 20.6 | Warming; midnight sun approaching |
+| Nov | −4.4 | −17.7 | −21.6 | −25.4 | −43.3 | 2 | ~2% | 24 | Midnight sun approaching |
+| Dec | +1.1 | −11.8 | −14.9 | −18.0 | −34.4 | 3 | ~4% | 24 | Midnight sun; warmest month (−14.9) |
 
-***Monthly record extremes (Byrd Station, researched 2026-09-04)** — **Rec High / Rec Low:* ⭐ **measured** monthly extremes over the station's full record. **Avg High / Avg Low* are the mean daily maximum and minimum — the warmest and coolest parts of the 24-hour cycle, which is what "day" and "night" mean at this latitude. ⚠ *During polar night the diurnal cycle is not solar-driven and the day/night split narrows toward weather noise.**
+***Monthly table (rebuilt 2026-11-02, `DR-86`, the developer's Option A):** every temperature column is now the station's own measured record — NOAA NCEI station AYW00068201 "BYRD STN" (WMO 89125): **Mean, Avg High, Avg Low** = monthly means of daily mean, maximum and minimum, manned years 1957–1969 (the reconstruction by Bromwich et al. agrees within 0.4 °C in every month); **Rec High / Rec Low** = the single highest and lowest daily reading in that calendar month over the whole file, 1957–1988 (record years: highs Jan 1988, Feb 1961, Mar 1964, Apr 1959, May 1957, Jun 1965, Jul 1966, Aug 1957, Sep 1966, Oct 1960, Nov 1957, Dec 1987; lows Jan 1963, Feb 1969, Mar 1960, Apr 1963, May 1965, Jun 1969, Jul 1958, Aug 1958, Sep 1962, Oct 1961, Nov 1986, Dec 1972). Full check: `Research_Logs/Byrd_Climate_Table_Check_2026-11-01.md`. Earlier values are in git commit `a59f2d06`. ⭐ **measured** monthly extremes over the station's full record. **Avg High / Avg Low* are the mean daily maximum and minimum — the warmest and coolest parts of the 24-hour cycle, which is what "day" and "night" mean at this latitude. ⚠ *During polar night the diurnal cycle is not solar-driven and the day/night split narrows toward weather noise.**
 
 
-***Column provenance (Byrd Station (1961-1990), researched 2026-09-04)** — **Avg Temp:* ⚠ historical Byrd Station record (1957–1969), rounded to whole degrees, **not checked against a data file**: the BAS READER file for Byrd holds no monthly means (N/A) and no 1991–2020 normal exists. A reconstructed 1957–2025 record (Ohio State) exists and is queued for research. **Temp Range:* ⚠ derived — station publishes daily means and record extremes but no mean daily max/min. **Avg Precip:* ⭐ **measured** monthly normals. **Precip Probability:* ⭐ **measured** — mean days with precipitation ÷ days in month. **Avg Daylight:* computed from this city's own latitude.*
+***Column provenance (Byrd Station (1961-1990), researched 2026-09-04)** — **Avg Temp:* ⭐ measured, NCEI station AYW00068201, 1957–1969, to 0.1 °C (corrected 2026-11-02, `DR-86`; the BAS READER file for Byrd holds no monthly means and no 1991–2020 normal exists). **Avg High / Avg Low:* ⭐ measured (NCEI holds both; the earlier "derived" label was wrong). **Avg Precip and Precip Probability:* ⚠ **design-grade, not the station's gauge** (labeled 2026-11-02, `DR-86`): the column sums to 30 mm a year; the station's gauge, 1957–1988, reads about 58 mm a year (monthly 1.9–7.4 mm; gauges under-catch blowing snow) and glaciological accumulation is 67–156 mm water equivalent a year; the station's days-with-precipitation chance is Jan 17% · Feb 15% · Mar 9% · Apr 10% · May 15% · Jun 11% · Jul 10% · Aug 9% · Sep 6% · Oct 9% · Nov 5% · Dec 8%, against this column's ~8% · ~5% · ~2% · ~1% · ~4% · ~4% · ~2% · ~1% · ~0% · ~0% · ~2% · ~4%. **Avg Daylight:* computed from this city's own latitude.*
 
 
 

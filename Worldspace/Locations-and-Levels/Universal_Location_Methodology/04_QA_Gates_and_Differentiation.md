@@ -425,7 +425,7 @@ When a location is written *after* locations it contains:
 
 | | During a per-location pass | ⏸️ At the TERMINAL check |
 |---|---|---|
-| **Adding this location's column** | ✅ **REQUIRED, same commit as the finding** *(Step 9 unchanged)* | — |
+| **Adding this location's row** | ✅ **REQUIRED, same commit as the finding** *(Step 9 unchanged)* | — |
 | **Reading another location's row** | ⛔⛔ **FORBIDDEN** | ✅ **This is the whole job** |
 | **III.2 step 1, "before writing a category, read its row"** | ⛔ **REVOKED in-run** | ✅ **Restored** |
 | **III.4 substitutes** | ✅ **The ordinary path, for EVERY location** | — |
@@ -462,7 +462,7 @@ The one file whose entire job was keeping those three cities apart did not know.
 > 1. **Has anything been established about these locations since the instrument was last updated?** Symbol
 >    assignments, census revisions, founding corrections, and renames are the usual stragglers.
 > 2. **A finding recorded in a file nobody consults during differentiation is not doing differentiation work.**
-> 3. **Propagation is part of the finding, not a follow-up.** Per Step 9, the column goes in **the same
+> 3. **Propagation is part of the finding, not a follow-up.** Per Step 9, the row goes in **the same
 >    commit** — and so does anything discovered about a *sibling* along the way.
 
 ## III.1 What it is
@@ -480,7 +480,7 @@ and deficit-address table first, because that is what everything else descends f
 ## III.2 How to run it
 
 > ⛔ **STEPS 1–2 ARE TERMINAL-ONLY as of 2026-09-06. Do not run them inside a per-location pass.**
-> ✅ **In-run, jump to III.4 and add your own column.**
+> ✅ **In-run, jump to III.4 and add your own row.**
 
 1. ⏸️ **Before writing a category**, read its row.
 2. ⏸️ **If your answer rhymes with any entry, either differentiate it explicitly and inline — in the finding
@@ -490,7 +490,7 @@ and deficit-address table first, because that is what everything else descends f
    locations that otherwise look identical.
 3. **Name the axis the category answers on**, in bold. ⏸️ *Confirming that no completed sibling already uses
    it is TERMINAL-ONLY, like steps 1–2.* **Different content is not differentiation; a different question is.**
-4. **After completing a location, add its column in the same commit.**
+4. **After completing a location, add its row in the same commit.**
 
 ## III.3 Sibling sets of different sizes
 
