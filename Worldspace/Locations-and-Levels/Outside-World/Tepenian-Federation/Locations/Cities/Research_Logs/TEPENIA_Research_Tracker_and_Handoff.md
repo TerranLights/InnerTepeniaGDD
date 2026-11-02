@@ -1,8 +1,8 @@
-# Amundsen Station: research tracker and handoff (written 2026-11-01)
+# Tepenia: research tracker and handoff (started 2026-11-01)
 
 **Read this first in a fresh session.** It says what we are doing, what has been found, what is still open (with the exact searches to run), and the rules that bind the work. The new session has a refilled web-search quota; the old one hit the tool-side limit.
 
-> **As of 2026-11-01 evening this file is also the general handoff,** not only Amundsen's. **A new session starts at the next section ("START HERE").** The Byrd plan (section 0) and the Amundsen sections (1–8) below are finished work, kept as the record.
+> **This is the tracker and handoff for the whole country.** It began on 2026-11-01 as the Amundsen Station tracker (file name `AMUNDSEN_Research_Tracker_and_Handoff_2026-11-01.md`, which older commits, notes and messages still use) and was renamed `TEPENIA_Research_Tracker_and_Handoff.md` the same evening at the developer's direction, because it will carry the work for every city. **A new session starts at the next section ("START HERE").** The Byrd plan (section 0) and the Amundsen sections (1–8) below are finished work, kept as the record.
 
 ---
 
