@@ -4,6 +4,96 @@
 
 ---
 
+## ⏭ CURRENT ITEM (written 2026-11-01, ~16:45): Byrd research, course of action
+
+**The Amundsen Station research is complete** (sections 1–8 below; its next steps are developer-led, section 5). **The current item is Byrd.** Developer, 2026-11-01: *"do this same degree and depth of research for the city of Byrd, since Byrd will need to carry an entire DLC on its own."* Written here first so that if the web-search quota runs out mid-run, the next session resumes from this plan and the unit files.
+
+### 0.1 What Byrd is, for planning (in-scope canon only)
+Read from `Specs/Byrd subnet/Byrd.md`, `City_Vision_Notes/Byrd.md`, `candidates/Byrd.md`, the two picks files, `DLC_Overview.md` (DLC 2) and the audit decisions. Second Interwar scope: the spec's Status line, Connection to Concordia, Current Status and Legacy are post-war and **not inputs** to the city's own research.
+- **Site:** deep interior of the West Antarctic Ice Sheet, ~80°01′S 119°31′W, ~1,530 m; ice-sheet city with bedrock about 2,164 m down; marine ice sheet over sub-sea-level, partly volcanic bedrock; slow ice movement engineers have always managed. Mean ~−28 °C; polar night ~129 days, midnight sun ~131 days; ~30 mm precipitation, ~21 mm retained.
+- **Shape:** founded downward. Civic center and oldest neighborhoods underground in buried older layers; tunnels are the social connective tissue; the surface is icefields, huge warehouses, a massive trucking depot and giant elevators down. Underground scale is enormous. Some deep sections abandoned to the ice; underground archives.
+- **Heat:** the underground plants' waste heat is piped up to a radiator field just below the surface, because dumping it locally would melt the city's own ice. Side effects: the airstrip stays clear of snow as exhaust, not as a chore, and the city is a warm patch visible from the air or orbit.
+- **Economy:** mechanized fabrication 30% (huge underground plants; builds robot-making fabrication-synthesis chambers to a design drawn up elsewhere; the chamber works is the deepest, most fortified section); import/export and dispatch 25% (office coordination of the depot; freight both ways on Highway 1 north and Highway 22 east); snow management 15%; extraction 15%; aviation fleet maintenance 10% (the salvage framing is post-war); other 5%. One of Tepenia's thirteen airports.
+- **People:** about 400,000 (Census I 400,805, about half robots); about forty source nations, none above ~14%; founders: a joint team of first-wave Tepenians from the Peninsula and the Halley coast (Founding Register). A whole-city self-reliance that "was less pride than necessity and became pride over time."
+- **DLC need:** Byrd carries DLC 2 alone, so the *city* needs internal complexity (districts, competing interests). Factions themselves wait until the whole ULM/CST/RWBEM is done; the research covers the real-world dynamics only.
+
+**Not used, on purpose:** the real Byrd Station's history (GPS only: what was built there, by whom, abandonment, burial); the namesake ("St. Richard"); the megasheets (withheld; this includes the five-guild proposal); Background-Lore vignettes; spec L251 and L278 (not admitted, per the audit); the four post-war sections. Data *about the ice* (ice-core measurements, velocity, accumulation) is admissible as geography.
+
+### 0.2 Method (same rules as the Amundsen rounds, Appendix A, with these changes)
+- **Neutral context paragraph for Byrd briefs** (replaces the Amundsen one; describes the place without naming it or any fiction):
+  > A design team is deciding how a city of about 400,000 people lives when most of it is built inside a slowly moving ice sheet about 2 km thick, on a flat, featureless interior plateau about 1,500 m above sea level, far from any coast, with about four months of polar night and four of midnight sun and a mean annual temperature near −28 °C. Its civic center and oldest neighborhoods are underground, in older construction buried by snow, with newer building above; the surface shows mostly warehouses, a large truck depot and elevator heads. Its economy is heavy mechanized fabrication in very large underground plants (including precision equipment built to designs drawn up elsewhere), a freight-dispatch junction where two long overland highways meet, snow management, secondary mineral extraction, and an airport. Waste heat from the plants must be carried up to a radiator field just under the surface or it would melt the ice the city lives in; that heat also keeps the airstrip clear of snow. The team needs real-world facts: who lives and works in comparable places, how many, doing what, what services exist, how social and civic life is organized, and what fails. Do NOT write about the fictional setting, do not recommend, do not rank, do not propose tiers or picks.
+- **One location on its own terms:** Byrd agents **do not read the Amundsen research files.** Places that appear in both lists (Kiruna, Whittier, Seattle Underground, Paris quarries, Rjukan, Longyearbyen, Camp Century, Summit, Inuvik) are researched fresh, from Byrd's own facet. Overlap is acceptable (developer, 2026-11-01; see 0.7); the point is that a shared place researched from Byrd's angle returns Byrd's material, not Amundsen's. Costs perhaps 30–50 extra searches.
+- **Lean on what is Byrd's own.** Where a topic is shared ground for any polar or underground place (T1 underground life, T9 leisure and festivals, S2 living in ice), the brief points the agent at Byrd's own facets: **city scale (hundreds of thousands, not a station crew), heavy industry and shift work, freight and trucking, waste heat, ground that moves.** For example, T9 researches leisure in big industrial, mining and shift-work cities and in large underground civic spaces, not in small crews.
+- **Files:** `Research_Logs/Byrd_<label>_<topic>_<run date>.md`, one per unit; slang to `Reference/Real-World/Inspiration_Place_Research/slang_found/Byrd_<label>_slang.md`. Agents may read the other Byrd unit files (same run) to avoid repeating figures; no other repo file except, for the verification unit only, the rows and header of `candidates/Byrd.md`.
+- **Brief additions that worked on 2026-11-01** (keep them): explicit search budget per agent; only WebSearch and WebFetch (no curl); American English everywhere including proper nouns and quotes, except inside URLs and logged search strings; ignore the graphify hook; no clock stop time; a STOP note if a search is refused.
+- **Pace:** at most four agents at a time; start the next unit as a slot frees; tally each agent's reported searches in section 0.5.
+- **Hours:** this is location research, so it falls inside the 05:00–14:59 window unless the developer waives it for the run.
+
+### 0.3 The units (≈820 searches in all; spread over two sessions)
+
+**Site research (the physical place).**
+| Label | Unit | Facets it serves | Budget |
+|---|---|---|--:|
+| S1 | **The site itself:** ice thickness and bed at ~80°S 119°W; **ice velocity at the site** (the deciding figure for building on ice; MEaSUREs velocity maps and strain-network papers); accumulation and firn; West Antarctic marine-ice-sheet dynamics; subglacial volcanism and seismicity in Marie Byrd Land; subglacial water; ice-core data about the ice (Byrd core, WAIS Divide) as data only; **the queued Ohio State reconstructed Byrd temperature record (1957–2025)**, with monthly means if published | ground, climate, unstable ground | 60 |
+| S2 | **Living and building inside ice and snow:** tunnels and trenches cut in ice sheets (Camp Century, Camp Tuto, Camp Fistclench, the South Pole utility tunnels and Rodwells); ice creep and how fast tunnels close; trimming crews; snow-load structural codes; jackable and ski-mounted buildings against accumulation (DYE stations, Halley VI, Neumayer III, Summit); under-snow fuel and water; ventilation, fire and egress underground in cold; what failed | life below, buried layers, burial pressure | 60 |
+| S3 | **Heat that must leave, and the runway it makes:** industrial heat rejection in extreme cold; thermosyphons and heat kept off frozen ground (Trans-Alaska Pipeline, Inuvik, Yakutsk); waste-heat reuse (Stockholm Data Parks, Mäntsälä); snowmelt by waste heat (Holland MI and its new plant, Reykjavík, Klamath Falls); blue-ice and compacted-snow runways (Troll, Wilkins, Union Glacier, Phoenix); ski-aircraft operations; cold-weather airport and aircraft maintenance culture (Bethel, Yellowknife, Fairbanks) in working, pre-war form; ice fog and thermal visibility; subglacial heat made visible (Vatnajökull cauldrons); warm outfalls as beacons | heat, runway, cannot hide | 60 |
+
+**Topic research (the city's life), each from the city's own facets.**
+| Label | Unit | Budget |
+|---|---|--:|
+| T1 | **Underground daily life at scale:** Derinkuyu (verify the 18 levels and 20,000 figures), Coober Pedy (verify 45+ nationalities), Montreal RÉSO, Helsinki underground and dual-use shelters, Sapporo, Whittier, Moscow Metro, Beijing Dixia Cheng basement housing, Chongqing shelters, Wieliczka sanatorium, Berlin bunker and vault clubs, underground food (Saumur, Roquefort, Growing Underground); health of windowless life (light, circadian, vitamin D, ventilation, CO₂, radon, psychology) | 70 |
+| T2 | **Layered and buried cities, sealed sections and records below:** Çatalhöyük, San Clemente, Naples underground, Edinburgh closes and vaults, Seattle Underground, Paris quarries and the IGC, Chicago and Galveston grade-raising, Matera; archives in mines (Hutchinson Strataca and Underground Vaults & Storage, Iron Mountain Boyers, Barbarastollen); how cities map, seal, condemn and police abandoned underground space; urban explorers | 60 |
+| T3 | **Living on ground that will not hold still:** Kiruna's move (social side, process, compensation), Berezniki sinkholes, Mexico City subsidence, Cheyenne Mountain springs, Jungfraujoch and Langjökull ice tunnels re-cut as ice flows, drifting ice stations; monitoring cultures, condemned zones, evacuation decisions | 60 |
+| T4 | **Machine-building cities and building to someone else's design:** Ruhr and Duisburg (verify 40 M+ tons), Chelyabinsk (verify 18,000 tanks / 48,500 engines, ~40% heavy industry), Togliatti, Wolfsburg, Jamshedpur (company-provided services), Shenzhen (verify 15,000+ factories, $340 B), Fanuc Oshino (robots building robots; verify unattended runs), Higashiosaka and Ōta, Chemnitz, China's Third Front cave plants (816, Panzhihua), security culture around a protected product; shift culture, apprenticeship, plant–town relations | 70 |
+| T5 | **The dispatch junction and the surface depot:** Red Deer and Regina (what the picks are for; see question 3), Duisburg port, Deadhorse/Prudhoe, Laredo's customs brokers and forwarders, the Memphis night sort, Alice Springs and Port Augusta road trains, Hay River, Yellowknife winter roads, SubTropolis (a warehouse city entered by truck); dispatcher, trucker and warehouse cultures | 60 |
+| T6 | **Snow management as a civic institution:** Montreal's operation, Sapporo, Holland MI, Reykjavík; drift management at polar stations; snow dumps, budgets, crews and their status in the city | 50 |
+| T7 | **Extraction towns of many nations:** Butte, Sudbury (verify regreening), Kalgoorlie-Boulder, Fort McMurray, Lead and the Sanford lab, Norilsk; immigrant halls, saunas, unions, disaster memorials | 60 |
+| T8 | **Far-side self-reliance and competing interests inside one city:** Western Australia's 1933 secession vote, Norilsk's isolation, Mondragon, company town vs civic government, guilds and unions in single-industry cities (Butte's Anaconda and the unions, Ruhr labor), production vs logistics tensions, what a self-reliant place withholds. Real-world dynamics only; no faction design | 60 |
+| T9 | **Keeping a big underground city from climbing the walls:** leisure, food, arts, faith and festivals in underground or polar-night settings (Salina Turda, Sapporo Snow Festival, Yellowknife Snowking, Inuvik sunrise festival, Rjukan's sun); polar-night and midnight-sun daily life at city scale; sports and clubs underground | 70 |
+| T10 | **Verify the candidate list's load-bearing claims** (list drafted from memory 2026-10-27): the developer's ten existing picks and every figure in their reason notes (Derinkuyu 18 levels and 20,000 people; Duisburg 40 M+ tons; Coober Pedy 45+ nationalities; Shenzhen 15,000+ factories and $340 B; Jamshedpur as Asia's first integrated steel mill with captive mines; Chelyabinsk 18,000 tanks, 48,500 engines, ~40% heavy industry; Norilsk with no road or rail link; Kiruna's 4.9 earthquake in 2020); **what Red Deer and Regina are and are known for** (the developer does not remember why they were picked); and an existence check of the list's ten "unsure" rows (heat-reuse sites, Holland's heat source, DYE-2 skiway, cavern hangars, Growing Underground, Barbarastollen, Fanuc's unattended runs, the Ōta/Higashiosaka projects, Yellowknife's winter road, Camp Century's heat and ice). Every other row is covered by its topic unit (row map below) | 80 |
+
+**Row map (candidate-list row → unit):** S2: 11, 22, 23 · S3: 12–21, 24, 25 · T1: 1, 4, 26–32, 34–37 · T2: 38–49 · T3: 10, 51–55 · T4: 2, 5, 6, 7, 59–66 · T5: 3, 8, 57, 58, 67–71 · T6: 56 (and 27's snow side) · T7: 9, 72–76 · T8: 77, 78 · T9: 33, 50, 79. T10 checks the existing-pick figures and unsure rows first, so the topic units can read its file and skip what it settled.
+
+### 0.4 Wave order
+1. **Wave 1 (260):** S1, S2, S3 (180), then T10 (80); the site facts and the verification decide which picks are real.
+2. **Wave 2 (260):** T1, T4, T5, T2.
+3. **Wave 3 (230):** T3, T6, T7, T8.
+4. **Wave 4 (70):** T9, plus reruns of anything a STOP note left.
+
+The session that wrote this plan had about 500 searches left, enough for wave 1 and most of wave 2. Wherever the quota ends, each agent writes its STOP note and the next session resumes from the files and section 0.5.
+
+**Held for a developer ruling (not scheduled):**
+- ~~**H1, post-war DLC present day:** aircraft boneyards and cannibalization, cities cut off after supply collapse, machinery that cannot be repaired in cold.~~ **Dropped (developer, 2026-11-01):** *"for now, we just establish the setting before the Long Night War … the way that the setting was when Tepenia was a fully prosperous, fully functional country. Whatever natures, traits, characteristics, personalities, and so on that the places have, those will naturally carry over to whatever their post-war status is. So we don't have to worry about what post-war settings are like."* Every unit researches the Second Interwar city only.
+- **H2, the robot half of the population:** no real place has it; human-robot work practice could be researched as for Amundsen if wanted.
+- **H3, after the research:** canon inventory and developer framing files (as Amundsen had on 2026-10-29), then review, then **the Byrd–Amundsen pair check (0.7)**, then tiering the picks.
+
+### 0.5 Questions for the developer before or during the run
+1. ~~Hours: start tonight under a waiver, or at 05:00?~~ **Answered 2026-11-01 (~16:55):** start tonight under a waiver (*"go ahead and do tonight starting from now under a waiver"*). The developer added that the ULM pre-planning is mostly done; once it is finished, mornings and daytimes go to ULM runs for particular cities.
+3a. **Red Deer and Regina — answered:** the developer does not remember why they were picked. T10 establishes what each city is and is known for; T5 builds on that.
+2. ~~H1: include the post-war DLC-present topics?~~ **Answered 2026-11-01:** no. Second Interwar only; the places' natures carry over to their post-war state on their own.
+3. **Red Deer and Regina** carry no reason note in the picks file. What were they picked for? (T5 starts from the answer, or researches what each city is.)
+4. ~~Byrd agents not reading the Amundsen research files: keep this default?~~ **Answered 2026-11-01:** overlap is fine; the requirement is that the two places feel distinct (0.7). Default kept, because researching each from its own angle serves that requirement.
+
+### 0.7 Byrd and Amundsen Station must feel like two different DLCs (developer, 2026-11-01)
+> *"If there ends up being some overlap between Byrd and Amundsen Station, then that's perfectly fine. That's understandable. I just want to make sure to differentiate the two locations, because when players are going through the Byrd DLC versus the Amundsen DLC, I don't want them to feel as though they're playing the same DLC with two different paint jobs. I don't want Byrd to basically be 'Amundsen Station underground', or for Amundsen Station to basically be 'Byrd on electromagnetically charged snow'. I want to make sure that they really feel like two different, distinct locations, even if they may necessarily have some overlap."*
+
+**How it is carried out:**
+1. **During research and per-location design, each place stays on its own terms** (no reading the other's files; each unit leans on its own location's facets). This keeps answers from carrying across, which is how two places converge without anyone noticing.
+2. **A pair check, run as its own deliberate step at the developer's direction:** before either location's inspiration picks are final, and again before either DLC's design is locked. It lists every real place and every theme that both locations use (underground or buried construction, polar night, ice engineering, isolation, morale, rites, festivals). For each, it records **what each location takes from it.** Where both take the same thing, the row goes to the developer: one location keeps it, the other takes a different angle, or the two differ by design and the difference is written down.
+3. **Scope:** this pair only, and only at those two points. It does not reopen the rule that per-location ULM/CST/RWBEM passes never compare cities, and it is not the corpus-wide differentiation check, which stays where it is.
+
+### 0.6 Byrd run log
+*Started 2026-11-01 ~16:55 under the developer's waiver. This session had about 505 searches left (495 used on Amundsen).*
+
+| Wave | Unit | Budget | Searches used | Refused | Result |
+|---|---|--:|--:|--:|---|
+| 1 | S1 site: ice, ground and climate | 60 | | | running |
+| 1 | S2 living and building inside ice | 60 | | | running |
+| 1 | S3 waste heat, runway and aviation | 60 | | | running |
+| 1 | T10 candidate-list claims, Red Deer and Regina | 80 | | | running |
+
+---
+
 ## 1. What we are doing and why
 
 **The decision (developer, 2026-10-31).** Amundsen Station becomes "an actual proper location/town." The staff who run the network hub and the Tower base live there for months to years, so a whole supporting community must exist: cooks, engineers, plumbers, sewage and water operators, grid operators, medics, teachers, clerks, and so on. "All those computer scientists and computer server engineers wouldn't live in a vacuum."
@@ -157,6 +247,7 @@ McMurdo trade head counts; Pole sewage operators; Bilibino; Hoover; Paranal cont
 3. **Work out the makeup of the very small population:** who the ~1,121 humans and ~5,736 robots are. Robot-side translation needs developer input.
 4. **Reword the Ice-Cold Buddhism files** (03 L120, 08 L120, 09 L55).
 5. **Then** the town design, the spec edits (L15, L150, L158), census and Pre-Trip updates.
+6. **Byrd–Amundsen pair check (developer, 2026-11-01; section 0.7):** before Amundsen's picks are final, and again before its DLC design is locked, run the pair check with Byrd once Byrd's research exists, so the two DLCs never feel like the same place with two paint jobs.
 
 ---
 
