@@ -117,10 +117,13 @@ is now Draft, pending developer review. Princess Elisabeth resolved Lazar's own 
 third instance of the same Troll–Lazar–Princess Elisabeth Hwy 7/Hwy 7-ext database-omission pattern, now worth
 one consolidated fix rather than three separate patches.
 
-- [ ] Abowasa — Not Started — **deliberately deferred**, not overlooked: `city-symbol-pairs.md` itself
-  excludes Abowasa pending a real, developer-flagged founding-nation consistency fix (same bug class as
-  Sejong's Hangul-continuity issue). See Halley.md's own Reference Note for full detail. Run this one last in
-  the subnet, or once the fix lands.
+- [x] **Santa Luce (formerly Abowasa) — Draft (pending review)** — written 2026-11-02, the last of the 36, on the city's
+  CURRENT founding (the Register: Italy's two successor states and the CIN, jointly) after the founding-nation fix landed
+  (`DR-22`, `DR-60`). 30 passages of the old Finnish-Swedish-based files were read and excluded (logged in the sheet's
+  Sources section); 21 findings (16 Deep, 5 Surface); honest nulls for Gen/Mark, religion, Arcanet etiquette, the city's
+  language and the glitch-coolant pole; Swap Test partial (9 findings are generic to cold interior cities). Category E:
+  Saturn (Solar) and Earth (Robo-Element) are PROPOSALS to be reconciled at ULM Phase 10 §B3. Output:
+  `Local_Robot_Culture/Halley_Subnet/Santa_Luce.md`. Open questions for the developer are in the tracker S.0k.
 - [x] **Belgrano — Draft (pending review)** — run #23, 2026-08-11, fourth city of the Halley Subnet, directly
   following up on Neumayer's, Sanay's, and Halley's own forward flags. `Local_Robot_Culture/Halley_Subnet/
   Belgrano.md`. Central finding: the Halley subnet's now-repeated "does the work, someone else gets the credit"
@@ -575,9 +578,8 @@ post-war retrospect, and a real, load-bearing local inversion of the national Hu
 
 ---
 
-**Totals:** 35 Draft (pending review) / 1 deliberately deferred (Abowasa) / 0 Complete. 36 entries tracked.
-**The project's entire active run is now closed** — every entry except the deliberately deferred Abowasa
-(paused pending its own founding-nation fix, per standing instruction) is Draft, awaiting developer review.
+**Totals:** 36 Draft (pending review) / 0 deferred / 0 Complete. 36 entries tracked (Santa Luce added 2026-11-02).
+**The project's entire active run is now closed** — every entry is Draft, awaiting developer review.
 
 **Mirny Subnet: COMPLETE (8 of 8 cities drafted) — 2026-08-10.** Casey, Davis, Kunlun, Mirny, Shirayuki,
 Sinheung, Vostok, Zhongshan. All in Draft status, pending developer review before any are marked Complete.

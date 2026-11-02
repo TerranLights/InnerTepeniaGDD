@@ -1,0 +1,228 @@
+# Santa Luce — Local Robot Culture Spec Sheet
+
+> **Renamed 2026-10-03 (`DR-36`): formerly Abowasa.** This sheet is the first Local Robot Culture sheet written for the city on its current founding. The earlier founding behind the old files is superseded. Founders are taken from `Founding_Register.md` only (`DR-19`). The two real stations are infrastructure and nothing else (`DR-24`, `DR-25`).
+
+**Written 2026-11-02, as the last of the 36 Local Robot Culture sheets.** Santa Luce was held back for the whole run because its culture inputs rested on a founding that was later replaced. This pass keeps those inputs out. Where the new founding left a gap, the sheet says the gap is open and does not fill it (no-forced-fit law). Findings are proposals for developer review, not asserted canon.
+
+**What is unusual about this run, stated up front so no finding is over-read:**
+- The city's own culture file (`Local_Cultures`), its Enneagram, its vision notes, its catalog, its inspiration picks and its megasheets were all written around the superseded founding. They were read (Step 1 requires it) and then mostly excluded; the list of exclusions is in the Sources section.
+- No culture pass on the new founding exists yet (no `Local_Cultures` rewrite, no ULM run, no founding-stock research on Magna Lombardia, Meridia or the CIN). Input A is therefore thin: it is the composition table and the Register's role split. Several sections below say "slot left open" for that reason. That is a result, not a skipped step.
+- The city is **Damaged; partially operational**. As with Utstein, the aspect sections describe the living pre-war robot culture in the present tense, and the present-day reality is its own explicit layer (Part II, last finding).
+
+---
+
+**Subnet:** Halley Subnet (an interior nunatak city on the western coastal section of Hwy 7, between the Hwy 59 ramp on the Halley side and the Neumayer connector on the Sanay side)
+**Corresponding `Local_Cultures` file:** `Local_Cultures/Halley_Subnet/Santa_Luce.md` *(founders-corrected notice; mostly superseded, see exclusions)*
+**Corresponding `Specs` file:** `Specs/Halley subnet/Santa_Luce.md`
+**Status:** Draft — first full pass complete, awaiting developer review
+
+**One-liner:** *A Santa Luce robot belongs to a city of fifty origin groups with no majority, whose coordinating role was handed to a founding group that is only about one resident in sixteen, on a rock that holds still while the ice around it moves. She cannot borrow standing from headcount or heritage, so what she carries is the length of her tenure at one piece of work, through the months when the dark and the cold shrink her battery together and the sun comes back before the battery does.*
+
+---
+
+## Sources Consulted (Step 1 record)
+
+- **Input A — National Culture Composition:**
+  - Used: the current per-nation table in `Specs/Halley subnet/Santa_Luce.md` (rebuilt 2026-11-02, `DR-85`). Census I: 223,780 robots, 213,834 humans, 437,614 combined (robots 51.14%). Census II: 126,398 robots, 132,423 humans, 258,821 combined (robots 48.84%, so humans lead in Census II). Fifty origin groups: 4 Primary (Brazil 7.89%, United Kingdom 7.44%, Magna Lombardia 6.25%, CSA 5.40%), 31 Significant, 15 Notable. The largest single group is under 8%. Robot figures apply the same proportions as the human population, so a robot's "origin group" here is the origin of the community that had her built, not a trait of her own (Robot Universals Ch.6, Ch.13).
+  - Computed here, not canon: Magna Lombardia plus Meridia is 8.34% of the city. The 13 rows that match the CIN accession list in `Post-War_Nations_Founder_Reference.md` (Latvia, Hungary, Serbia, Croatia, Estonia, Czechia, Romania, Ukraine, Lithuania, Bulgaria, Slovakia, Slovenia, Poland) sum to 27.79%. The Register does not say which CIN states supplied the CIN's share, and `DR-19` forbids reading founders off census rows, so this overlap is arithmetic only. No finding below depends on it.
+  - `Local_Cultures/Halley_Subnet/Santa_Luce.md` was read in full. Almost every culture paragraph is excluded (see below). What survives is only what does not depend on the old founding: the §15 sector split (Technical/scientific 25%; Marine/resource extraction 15%; Commercial 15%; Industrial 15%; Education 15%; Other 15%), which is a modest-economy statement and not founder-dependent, and the §23 road facts.
+- **Input B — Geography & Geology:** `Specs/Halley subnet/Santa_Luce.md`. Basen nunatak, Kraul Mountains (Vestfjella), a 135 km range of nunataks; bedrock foundation; about 130 km inland; "more interior character." Measured monthly mean temperature, Aboa weather station on Basen itself, Feb 1989 to Oct 2001 (Kärkäs 2004, Table 2, via `READER/Aboa.md`): Jan −5.2, Feb −8.7, Mar −13.5, Apr −17.5, May −19.0, Jun −19.4, Jul −21.5, Aug −21.9, Sep −20.8, Oct −16.6, Nov −10.5, Dec −5.5 °C; annual about −15. Record low −45.4 °C (June); record highs above freezing only in Nov to Mar (+0.3 to +4.1). Prevailing wind north-easterly year-round, summer mean 5.9 m/s. Polar night about May 12 to Aug 2 (about 83 days); midnight sun about Nov 8 to Feb 5 (about 90 days). Not used: the Avg High/Avg Low columns (the spec itself says they no longer fit the corrected Mean) and the monthly precipitation column (design-grade, `DR-86`).
+- **Input C — Local Infrastructure:** the Abowasa megasheet files (Physical Infrastructure Attributes, Community Infrastructure, Full Extrapolation, Cross-Reference Synthesis, Mega-Init) were read and are old-basis. Only bedrock-foundation and continental-climate physical facts survive, and those are also in the Spec. Nothing in them is relied on as a finding. Real infrastructure canon used instead: `Highways.md` (Hwy 7 order: Belgrano, Halley connecting road, Hwy 59 ramp "Arcanet Line", Santa Luce, Neumayer connector, Sanay, Troll, Lazar), `Airports.md` (Santa Luce is "Served, Not Host": air access via Troll primary or Belgrano secondary), `Ports.md` (landlocked list includes Santa Luce).
+- **Input D — Source Inspirations:**
+  - The four existing picks (Baarle-Hertog/Baarle-Nassau, Sark, Whittier, Ny-Ålesund; `Inspirational-Influences.md`, Santa Luce entry) were chosen for a "two peoples, one tiny town" idea that is superseded. The developer restored the first two to PRIMARY on 2026-10-28 after the scale ruling, but the reasons written beside them are the old ones. They are not used as reasons here.
+  - The researched real-world facts used come from the four research logs the developer cleared as read-allowed for Step 3: `Research_Logs/Santa_Luce_C01_Inspiration_Place_Research_R1.md`, `…_R2.md`, `…_C02_…_R1.md`, `…_R2.md`. Every real-world fact below carries the log's own SOURCED mark; none was recalled and no web research was done for this sheet.
+  - Mandatory translation (human parallel to robot analog), applied to each pick actually used:
+
+| Real-world parallel | Human fact (from the log) | Robot-specific analog, or why none |
+|---|---|---|
+| Juneau Icefield Research Program | Camps on bedrock ridges inside an icefield; mass-balance record kept since 1946, the longest-running icefield program in North America; students must be assessed as safe for glacier travel before glacier work | The record's length is the transferable shape. For a robot with a 200 to 500 year span, one observer can outlast the program's own form (feeds §1, Part II). The pre-work safety assessment becomes the cold-threshold teaching in §1. |
+| Akademgorodok | A selective school feeds a university that feeds the institutes | A robot cannot be fabricated to a profession (Personality is partly random by law), so the same pipeline can only run socially, as mentorship (§1). |
+| Gibraltar | Many origins, none dominant, fused over generations into one identity | Robot identity is already seated in locality (Ch.13), so with no majority bloc the fusion has nothing to compete with (§3). |
+| Whittier, Winnipeg walkway, public baths | Services and gathering put under one warmed roof so people need not go out in winter | The warmed commons matters more to a robot than to a human because a robot's charging cannot safely happen cold (§10). |
+| Fairbanks, Kangerlussuaq, Los Alamos, Bariloche, Porto Alegre, Baarle, Sark, Ny-Ålesund | Hub, employer-town, tourism, assembly and station-sharing parallels | Considered and dropped. Either no robot-specific analog exists, or the reason rested on the old founding or on a scale this city is not. |
+
+- **Founders:** `Founding_Register.md`, the Santa Luce row, and no other source. Status ✅. Founders: *Italy's two successor states and the Confederacy of Intermarium Nations (CIN), jointly. The Italian population comes from both Magna Lombardia and Meridia, in proportion to their economic weight (not equally); oversight, coordination, management and logistics are Magna Lombardia's.* Basis: time-zone proximity; the role split rests on economic capacity (`DR-60`). Not founders: Finnish, Swedish. This sheet takes the role split as a statement about a function. It does not infer a language, a temperament or a "logistics culture" from it (see open questions).
+- **Input E — Tepenia-Wide Robot Culture Canon:** `Robot_Physiology_and_Cultural_Practices.md` read in full (siligel, coolant, robot coffee, glitch-coolant poles, smoking, shared night and leisure, human-robot baseline, Gen/Mark, culture and the Acts). `Robot_Cold_Physiology.md` read in full (it is the most load-bearing Input E file for this city). The glitch-coolant file text was checked directly: Santa Luce is named in neither pole. Symbol files checked (see the Category E box below).
+- **Additional candidate inputs used:** `City_Enneagram_Personalities/Halley_Subnet/Santa_Luce.md` and `City_Vision_Notes/Santa_Luce.md` read and excluded (both argue from the old founding). `Population_Scenario_Santa_Luce_Redistribution_2026-10-28.md`, `DR-67`, `DR-68` and the Santa Luce revisit tracker and hand-over note read for scale and scope. The population was set to 40% of its earlier figure by bookkeeping. It is not a migration and no one moved; nothing here treats it as an event. `Division_of_Industry/16` Half B and §4 for the citable workforce figures only (no food or export claim is made, per the citation gate). Datasheets in `City_Development_Passes/Halley_Subnet/Santa_Luce/Datasheets/` for line addresses. Sibling sheets (Troll, Utstein, Sanay, Belgrano, Neumayer, Halley, Lazar) for form, and one-liners only for contrast. The Background-Lore Abowasa vignettes and Course-of-Events files were not opened: they are not canon and never an input.
+- **Concentric rings actually widened to:** own files (Specs, Local_Cultures, Enneagram, Vision Notes, megasheets, catalog, pass folder) → adjacent subnet documents (Halley subnet megasheet files, Highways, Airports, Ports) → `City_National_Connections.md`, `City_Relationship_Database.md`, `City_Cross_Subnet_Relationships.md` (their Santa Luce rows) → a repo-wide name search (254 files name "Santa Luce" and 171 name "Abowasa"; about 134 sit under the Tepenian-Federation tree and 43 in the manual-input audit; read the ones that matter, did not open the rest) → sibling Halley-subnet sheets → the Inspiration Place Research logs. Widening was needed because the city's own files are almost all contaminated.
+
+### Passages excluded as resting on the superseded founding (30 grouped entries)
+
+Each is a statement that depends on a Finnish or Swedish founding population, on those nations' customs, or on the two stations' operators. None is used.
+
+| # | File and place | Quote or line | Why excluded |
+|---|---|---|---|
+| 1 | `Local_Cultures` header | "Tepenia's only city founded jointly by two nations at once…" | Built on the old founding. Also contradicted by the Register: several cities (Neumayer, Signy, Utstein, Mawson, Ariun Nuur, Relung Panen) are jointly founded. |
+| 2 | `Local_Cultures` §1 | "Finland and Sweden jointly… diluted together" plus the old USA-Primary tier table | Founding claim; tier table superseded by the census rebuild. |
+| 3 | `Local_Cultures` §2 | "Finland's FINNARP… Sweden's SWEDARP… Falkland Treaty exiles inherited that close-quarters arrangement" | Station operators as founders (`DR-19`, `DR-24`). |
+| 4 | `Local_Cultures` §2 | The Turku naming story | Namesake is flavor only (`DR-32`). |
+| 5 | `Local_Cultures` §3 | "neither Finland nor Sweden ever chose to staff them through the winter" | Station-operator history, not a cause (`DR-24`, `DR-25`). |
+| 6 | `Local_Cultures` §4 | Polar night "~102 days", midnight sun "~104 days" | Contradicts the Spec's 83 and 90 days. Spec used. |
+| 7 | `Local_Cultures` §5 | "Two Peoples, One Small Place… Finnish and Swedish, side by side" and the fault-line text | Founding-tension framing. |
+| 8 | `Local_Cultures` §6 | "the specific intimacy of a genuinely small community" tied to the two founding communities | Small-scale premise from the old record (1.03 million, "small"); the scale is now ruled separately (`DR-67`). |
+| 9 | `Local_Cultures` §8 | "Finnish and Swedish both genuinely alive… household-level bilingual shorthand" | Language of the old founders. |
+| 10 | `Local_Cultures` §10 | "shared meals are how the Finnish-Swedish negotiation actually happens" | Old founding. |
+| 11 | `Local_Cultures` §12, §13 | Shared folk tradition "from the two founding communities making music together"; "Turku/Abowasa naming connection" | Old founding and namesake. |
+| 12 | `Local_Cultures` §16 | "humans slightly outnumbering robots (310,791 to 296,650)" | Stale numbers. Now robots lead in Census I and humans in Census II. |
+| 13 | `Local_Cultures` §17 (Robot-Specific Culture) | "Robots are fully integrated into the Finnish-Swedish social fabric" | The only robot-specific passage; rests on the old founding. The revisit tracker says this sheet supersedes it. |
+| 14 | `Local_Cultures` §19, §20, §22 | "old Finnish-Swedish historical asymmetries"; "doubled relationship to the pre-exile world" | Old founding. |
+| 15 | `Local_Cultures` §25, §26, §32 | Export culture "Finnish-Swedish blended cultural practice"; holidays "Turku Remembrance" and "The Joint Founding"; diaspora text | Old founding. Holiday slots left open. |
+| 16 | `Specs` Geographic Basis | "The exile city began as two distinct communities, right on top of each other" | Old founding's reasoning. The ~200 m adjacency is kept only as a physical fact about two station complexes. |
+| 17 | `Specs` Significance and Character & Culture | "the only dual-national city to remain even partially inhabited"; "joint Italian–CIN community was small enough that the two founding populations couldn't avoid each other… begun as two separate, distinct settlements"; Demonym "Abowasian" | Carries the old two-station reasoning onto the new founders; nothing establishes it for them. |
+| 18 | `Specs` Gameplay Notes | "Italian–CIN coexistence… (not yet derived)" | Not contamination. It is the live open item, and this sheet does not derive it (open question 5). |
+| 19 | Megasheet Full Extrapolation §I, §V, §VI | Hybrid-daily-life/preserved-language account; both holidays; "Elder Ingrid Lindqvist-Väisänen" (placeholder, hyphenated Swedish-Finnish surname) | Old founding; a named figure is also not this method's job. |
+| 20 | Megasheet Full Extrapolation §II, §III | War damage as "labs hit, households spared" | Not founder-dependent but a non-canon proposal and tied to the old "small town" frame. Not used. |
+| 21 | Megasheet Community Infrastructure | The Joint Household Kitchens; Household Suppers; Neighborhood Music Nights; The Joint Founding | Each exists to hold the two-program give-and-take. Need re-derivation, not reuse. |
+| 22 | Megasheet Community Infrastructure | The Bedrock Stability Institute; Basen Overlook | Named in the old files as "established"; no source outside them. Not relied on. |
+| 23 | Megasheet Physical Infrastructure Attributes #3, #4 and Findings B, D, E | "Physically merged infrastructure from two originally separate station sites"; "preserved-distinct half lives in language and memory" | Two-community premise. |
+| 24 | Megasheet Cross-Reference Synthesis Finding 1 | "Things happening by choice, not by duress" | Rests on the stations' seasonal staffing as a choice and on the hybridization account. |
+| 25 | Megasheet Mega-Init | "Finnish and Swedish exiles, jointly"; the four picks' reasons | Old founding. |
+| 26 | Enneagram file | Compliant group argued from "Finland and Sweden jointly"; Positive Outlook from staffing "by choice" | Both premises gone. |
+| 27 | Vision Notes | "Finland and Sweden both contributed founding population"; faction "Competence Without Commentary: competence is intimacy management" | Faction placement rests on the old household-scale frame. The Troll sheet repeats this faction line for Santa Luce; flagged. |
+| 28 | `Inspirational-Influences.md` Santa Luce entry | "Belgian and Dutch administration"; "several countries each operate their own small station" | Reasons rest on the old two-peoples and two-stations ideas. |
+| 29 | Neo-Races catalog L20, L93–94, L123, L508, L526, L536 | Aboa/Wasa twin-settlement story; Finland and Sweden as Notable-tier founders | Old founding. |
+| 30 | `City_National_Connections.md` Santa Luce row (Mirny, Contrapunto, Lazar lines) | "institutionalized Finnish-Swedish coexistence"; "multinational-coexistence-by-necessity" parallels | Rationale rests on the old founding (the file itself calls it a revisit item). The Hwy 7 infrastructure ties stay as route facts. |
+
+**Three exclusions that matter most:** #13 (the city's only robot-culture passage), #1 and #17 together (claims of unique dual founding that the Register contradicts), and #21 (the shared-kitchen/supper institutions that would have been the easiest to carry over unchanged).
+
+---
+
+## Universal Triage Record (Step 2)
+
+| Universal / Canon Item | Localizes Here? | Reasoning |
+|---|---|---|
+| Kinship, Clan & Mentor/Mentee Institution | **Yes** | The shared life is the capacity year (every month below −5 °C; five months near −20). Mentorship is the only possible research pipeline. Origin-clan does not localize. See §1. |
+| Cooperation, Morality & Emergent Social Convention | **Yes** | Authority by role rather than headcount; charge-state courtesy. See §2. |
+| City/Locality as the Seat of Identity | **Yes** | No origin bloc above 7.89% means locality identity is uncontested. See §3. |
+| Generational Identity (Gen/Mark) | **No (null)** | Santa Luce is in none of the Cradle site tiers. See §4. |
+| Religion and Belief | **No (null)** | None of the six canon traditions is sited here; recorded as open, not as impossible. See §5. |
+| Consumption and Vice Culture | **Yes (partly)** | A glitch-coolant custom and a smoking custom derive; the glitch-coolant pole is left unplaced; siligel is a null. See §6. |
+| Sexuality | **Yes (weak)** | Two modest findings; both are generic to cold cities. See §7. |
+| Vernacular Language *(Part IV worked example)* | **Yes (structure only)** | The language itself is not established and is left open. One speech-shape derives. See §8. |
+| Arcanet Etiquette *(Part IV worked example)* | **No (null)** | No usable input. The Hwy 59 "Arcanet Line" ramp is recorded as a lead. See §9. |
+| Robot Biology and Culture (siligel/coolant/robot coffee/smoking) | **Yes** | Cold physiology is the most load-bearing canon for this city. |
+| Glitch-Coolant | **Yes (custom derived; pole open)** | Santa Luce is named in neither pole; placement stays open (§6). |
+| Robot Elementals & Platonic Solids | **Yes — PROPOSAL** | First-ever symbol pair for this city; see the Category E box. Platonic Solids excluded as unsettled. |
+| Human-Robot Relations Baseline | **Yes, ordinary confirmation** | Near parity; role allocation by competence. |
+| The Fragmentation Matrix (Bond/Grief) | **N/A (out of scope)** | A player-facing companion and district mechanic, not a culture-content input for a standalone subnet city. |
+
+*Not included above: the Robot "She" Pronoun Convention (a national given).*
+
+### Category E — symbol proposal (first-ever for this city)
+
+`City_Symbol_Assignments.md` excludes Santa Luce ("paused pending its own founding-nation fix"), so nothing on file exists to conflict with. Its rules were read: the Element column is held open (⏸️) for every city that has not run the ULM, to be filled at Phase 10 §B3 (`DR-8a`); Davis is deliberately blank; Neptune is already the most-used Solar symbol and is flagged for over-use; Magnetism's second use was a one-time exception for Amundsen Station; all rationales describe the living pre-war Second Interwar city, not its post-war state. The two slots are chosen independently.
+
+- **Solar Symbol — PROPOSAL: Saturn** *(core word "Mystery": doesn't care to be fully known; rings are debris, not a solid structure; "beauty built from fragments rather than requiring wholeness").* Reasons from this city's own conditions: fifty origin groups with none above 7.89%, so the city is assembled from fragments with no dominant mass; it has never been a node (no port, no airfield, "served, not host"); and it is not a Concordia connection point. The negative reading also fits: held together by something other than shared mass. Rejected: Neptune (over-used, and the file's own review says do not add to it); the Asteroid Belt (the closest alternative, but created for Rothera's literal decentralization, and Santa Luce has a centralized coordination mandate in the Register, which contradicts "no center"); Jupiter, Mercury and Uranus (held by Halley-subnet neighbors for reasons that do not describe this city).
+- **Robo-Element — PROPOSAL: Earth** *(core word "Contact": strength is in the contacts between parts, not in any one part; compaction makes it stronger).* Reasons from this city's own conditions: with no majority group, the city's strength is relational, passed from neighborhood to neighborhood and from group to group, which is the element's own first claim ("no single grain is strong; the strength is in the touching"). Its negative reading (looks like the permanent thing others stand on, but is held by a condition nobody checked) fits a city that is the subnet's rock-founded city while its social ground is an aggregate. Honest limit: the Earth entry is about soil that can lose strength; Santa Luce's physical ground is bedrock, the opposite case. The pick rests on the social reading, not the geological one.
+- ⚠ **Both picks are PROPOSALS written by a robot-culture pass.** `DR-8a` puts the real determination in ULM Phase 10 §B3, which has not run for this city. The Element must be reconciled there. Saturn is also held by Mirny and Scott (elements currently held open) and by Zhongshan (Metal), so a Saturn plus Earth pair would not duplicate Zhongshan's pair, but Mirny's and Scott's pairs cannot be checked until their elements are filled.
+
+---
+
+## PART I — Local Aspects
+
+*Describing the living pre-war culture in the present tense. Every finding carries an inheritance tag and an Iceberg tag.*
+
+### 1. Kinship, Clan & Mentor/Mentee Structures — Local Expression
+
+- **[Emergent, robot-only, Deep]** *The shared life is the capacity year, and its bond is the threshold watch.* Leading with the ongoing condition, not an incident. Every monthly mean at Basen is at or below −5.2 °C; five consecutive months (May to September) sit between −19.0 and −21.9. Canon cold physiology: usable capacity falls by 20 to 30% near freezing and to 50 to 60% by −20 °C; charging a cold cell causes permanent plating; below a charge threshold a robot cannot warm her own cells enough to recover; and a robot is safer moving than resting. So outdoors in the low months the single most important fact about another robot is how close she is to her own threshold. Robots who have watched each other's thresholds, and been watched, over many low-capacity years have a bond that humans and robots in the same city do not share in the same form. It would exist between two robots who never shared any one incident but live the same year, which is the Kinship test. No named event is needed.
+- **[Adapted, Deep]** *Mentorship is the only pipeline into the research sector, because nothing can be fabricated to order.* Technical/scientific work is the city's largest sector (25%) and Education is 15%. Personality is only partly specifiable by law, so no robot can be built "to be a researcher" (Ch.3, Ch.5). The school-to-institute pipelines seen in research towns (Akademgorodok in the log) therefore run for robots only as mentor and mentee. The Juneau Icefield rule that no one starts glacier work until a staff member has assessed her is the translated shape: a new robot's first outdoor season is taught and signed off by a mentor, on the one subject that can strand her.
+- **Origin-based clan: does not localize here (Honesty Check).** Robot clan and tribe are built on geography and shared experience, never origin (Ch.11). The composition is a long tail with no group above 7.89%, so there is also no heritage bloc large enough to act as a ready-made family for a newly activated robot. Nothing local emerged beyond what Ch.11 already says.
+
+### 2. Cooperation, Morality & Emergent Social Convention — Local Expression
+
+- **[Adapted, Deep]** *Authority runs by role, not by headcount.* The Register gives oversight, coordination, management and logistics to Magna Lombardia's stock, and Magna Lombardia is 6.25% of the city (14,004 of the 223,780 robots on the model). A role held by a group that small cannot rest on numbers. Robots draw their identity from the city, not from origin (Ch.13), so a robot reaches a coordinating post through competence and mentorship from any origin. What is inherited is the allocation of a function, not membership in a community. The sheet does not claim the function carries any Italian custom, language or temperament; that would be a national stereotype (`No_National_Stereotypes`).
+- **[Emergent, robot-only, Deep]** *Asking another robot's charge state is courtesy, not intrusion.* In the low months a stranger's charge is a safety fact. The done thing is to notice it without comment and to offer a warmed place first, the way a human offers a seat or a coat. Declining is also normal and carries no insult. This is a robot-only etiquette because it rests on the cannot-self-recover threshold. (Weak on locality; see Swap Test.)
+- **[Directly-inherited, Deep]** *The Tepenia-wide baseline holds unchanged: egalitarian, skewed in favor of robots.* Robots are 51.14% of Census I. Nothing in the gathered material says the coordinating posts are held by humans or by robots, and this sheet does not decide it.
+
+### 3. Locality as Identity — What Makes This City's Robots Recognizable
+
+- **[Adapted, Deep]** *City identity is uncontested because no origin group is large enough to contest it.* Fifty origin groups, the largest 7.89%. Locality is already the dominant axis for robots (Ch.13, Ch.19). With no majority bloc to offer an alternative, the axis has nothing to compete with. The Gibraltar log shows the same shape in a human city (many origins, none dominant, 79% counting themselves as one identity). This is a plain consequence of the composition and is the least distinctive finding in this section.
+- **[Emergent, robot-only, Deep]** *Threshold literacy as the recognizable trait.* A Santa Luce robot knows at any moment how many stops she can afford before she must be somewhere warm, and thinks of the city in those terms. Another Tepenian robot would recognize her by how she plans a trip: not distance and not time, but the number of warm stops it takes. This is a skill, not a mark on the body, and it travels with her when she leaves.
+
+### 4. Generational Identity (Gen/Mark) — Local Flavor
+
+- **No local variation found (Honesty Check, clean null).** Santa Luce is in none of the Cradle site tiers in `Robot_Physiology_and_Cultural_Practices.md` (current: Sinheung, Byrd; historical: Mountain Pass, Denison; paused candidates: Belgrano, Concordia). Nothing in the gathered material suggests an indirect route. Whether the city has its own fabrication chamber is not stated; canon says nearly every city does, and no Gen/Mark meaning attaches either way.
+
+### 5. Religion & Belief — Robot-Specific Local Practice
+
+- **None of the six canon traditions is sited here, and that is not a claim that none is possible.** The six are Cymatics Reverence, God-Mind Universe Simulation, Simulation Reality, Ice-Cold Buddhism, Polydimensional Animism and the Adinkra Codex. `Factions/Robot_Religions/` names the city nowhere, and the Local_Cultures religion section (§18) is excluded as old-founding text. Robot religions are an open, growing roster, so the size of the roster is not the test. The slot is left open. Two reasoned notes, neither a finding: Ice-Cold Buddhism's physical premise is extreme cold, and canon gives Santa Luce a mean of about −15 °C and a record low of −45.4 °C, which the repo nowhere describes as reaching that state. The Cymatics link (rock and a single steady wind) is recorded as a candidate in Part III because its physics is not sourced.
+
+### 6. Consumption & Vice Culture — Local Siligel/Coolant/Glitch-Coolant Flavor
+
+- **[Emergent, robot-only, Deep]** *Glitch-coolant has a keeper.* Glitching impairs motor control, and outdoors in the low months stopping is the dangerous act. The custom that follows is that at any gathering where glitch-coolant is drunk, one person stays unglitched until the others are inside and warm. The role rotates and is not paid back. It is a courtesy norm, so Deep. It exists only because robots lose capacity and can be stranded by the cold.
+- **Glitch-coolant pole: left open.** Canon's poles are bohemian (variety) and working-class (potency), with Troll as a third working-class variant. Santa Luce is named in neither. The composition (50 groups) could argue for variety, the modest economy and the 25% technical sector could argue either way, and no spending-power figure exists for this city. Forcing a pole would be inventing one. Per the no-forced-fit law the slot stays open until the culture pass exists.
+- **[Emergent, robot-only, Surface]** *Smoking is done walking in the low months.* Canon says smoking works through internal thermal and sensor systems, and that warm vapor is genuinely felt as warmth. Standing still outdoors is the risk. So the visible habit is the walking smoke, taken along a route and finished indoors. Speculative; it follows from canon and has no direct source.
+- **Siligel, robot coffee: null.** Canon already says energy replenishment is siligel's first function. Siligel's behavior and coolant's behavior in deep cold are listed as open in `Robot_Cold_Physiology.md`, so nothing is asserted. The old Local_Cultures line ("modest, practical, scaled to a small population") is excluded with its section.
+
+### 7. Sexuality & Courtship — Local Customs
+
+- **[Adapted, Deep]** *The first trust-gesture is telling her your charge.* The robot-wide constant is that sex is the highest expression of trust and commitment. Courtship builds toward it in stages. In a city where one's charge level relative to the threshold is the most safety-relevant private fact, saying the number is the first step. Everything after rests on it. Applies to any pair of species; the constant does not change. (Weak on locality; see Swap Test.)
+- **[Adapted, Deep]** *Courtship here is weighted toward personality, not community.* Ch.23 says courtship varies by community and by personality together. With no community large enough to supply a default ritual, the personal half carries more of the load, so couples tend to build their own gestures from the pool of fifty origins. Honest reading: this is a restatement of the composition, not a new custom.
+
+### 8. Vernacular Language — Robot-Specific Speech Markers
+
+- **The city's language is not established and is left open.** A robot speaks the language of the dominant local culture and of the community that had her built (Ch.6). With fifty groups and no majority, neither the headcount nor the Register names a dominant one. The Register gives roles, not a language, and this sheet will not turn a role into a language. Open question 1.
+- **[Emergent, robot-only, Surface]** *Distance is spoken in cost.* Whatever the language, the shape of how a Santa Luce robot gives distance in the low months is energy-denominated ("two warm stops," "past the point of return") and not kilometers. Only the shape is claimed. Slang goes in the slang repo.
+
+### 9. Arcanet Etiquette — Local Network Behavior
+
+- **No local variation derived (Honesty Check).** `Arcanet.md` names the city nowhere. The Local_Cultures §24 line ("modest and practical, scaled to the city's small population") is excluded with its section. One lead is recorded, not a finding: Hwy 59, "the Atlantic Throughway (Arcanet Line)", leaves Hwy 7 at a ramp between Halley and Santa Luce and carries the Arcanet cable along its full length.
+
+### 10. Surface Culture — Robot-Specific Markers
+
+- **[Adapted, Surface]** *The glove is the live trade-off of precision work.* Canon says robots nearly always wear clothing, including coats and gloves, and that heavier gloves cost fine motor control and tactile feedback. Technical and scientific work is the largest sector here. So the visible mark of a research robot in the low months is her layered glove system, with a thin inner glove kept for fine work. A gradient, never a gate.
+- **[Directly-inherited, Surface]** *The full cold-weather garment register is simply ordinary,* by canon. Nothing local is claimed beyond that.
+- **[Adapted, Surface]** *The warmed commons is the robot's third place.* The translated Input D shape is a place where heat is the reason people gather (Whittier's single warmed building, Winnipeg's enclosed walkway). For a robot the draw is stronger because she cannot safely charge cold, so a warmed hall is where she can also recharge and stay social. No building is named or invented.
+- **Open slots, not gaps:** holidays and observances (the two old placeholders are excluded; see Part III for the one developer-suggested candidate), music, arts and cuisine (the old Local_Cultures text is excluded and the Spec is silent).
+
+---
+
+## PART II — Cross-Reference Synthesis Findings (Step 4)
+
+- **[Emergent, robot-only, Deep]** — *Input categories combined: A (no majority among 50 groups) + E (cold physiology)*
+  *Conventions win by being no one's.* In the Universal Pool Mechanism a population draws from a shared pool. With fifty groups and no majority, any convention rooted in one origin's custom would be one group's among many. The conventions every group can share are the ones grounded in a fact all robots hold alike: the cold, the charge threshold, the shared night. That is why §1, §2, §6 and §8 all land on cold physiology. It is not that the city is cold and so its culture is cold; it is that the composition left no other common ground to build on. This explains the heavy Deep skew in the findings and is also the reason the sheet is weak on Surface: the Surface layers (cuisine, music, holidays) are exactly the layers that would have come from the origins or from a culture pass that does not yet exist.
+- **[Emergent, robot-only, Deep]** — *Input categories combined: B (monthly means, polar night dates) + E (cold physiology; shared night)*
+  *The sun returns before the battery does.* Polar night runs about May 12 to Aug 2, and the five months at the −20 line run May to September. The coldest month (August, −21.9 °C mean) falls after the sun comes back on Aug 2; October (−16.6) is still colder than any month of the light half. So the lowest-capacity stretch outlasts the dark by about two months. For a human the sun's return marks the end of the worst of winter. For a robot it does not: her battery is still at its smallest when the light comes back. The mean is below freezing in every month, so there is no thaw season in which cold charging becomes safe; even in midsummer the near-freezing reduction of 20 to 30% applies. The two seasons for a robot's body are "small" and "smaller," not "warm" and "cold." Any sun-return observance would sit on this gap (Part III).
+- **[Adapted, Deep]** — *Input categories combined: Founders (Register role split) + A (composition) + B and C (landlocked; served, not host; mid-corridor on Hwy 7) + E (lifespan, baseline)*
+  *A role without a node, held by a group without a majority.* The Register gives logistics and coordination to a group that is 6.25% of the city. The city also has no port (landlocked), no airfield (served via Troll or Belgrano), and sits between the Hwy 59 ramp and the Neumayer connector on Hwy 7. So the coordinating role cannot be handling a node; it can only be the scheduling, routing and oversight of flows past and through the city. For robots two consequences follow. Competence replaces heritage as the route in (§2). And because robots live 200 to 500 years, a robot who arrived as an exile in 2564 can still be in post at the end of the Second Interwar (2812, 248 years later), so a founding-era allocation of a function can be held by the same individuals for the whole period. That is a general canon fact; what is local is that here the thing held is the founding role itself. Whether the post-holders are robots or humans is not stated.
+- **[Adapted, Deep]** — *Input categories combined: B (bedrock; a nunatak is a fixed rock in moving ice) + E (lifespan) + D (Juneau Icefield record since 1946; Akademgorodok pipeline) + A (Technical/scientific 25%)*
+  *The long-baseline observer.* A research city on bedrock has a fixed reference to measure against. Robots have lifespans longer than any program's institutional form. So the unit that carries a long observation line is a robot, not an institution: one observer can hold the same line for two or three centuries and hand it to a mentee. The Juneau log's longest-running icefield record is the human shape of the same need, kept by rotating people. Records, results and techniques can cross any gap (`DR-25`); a tradition cannot. Here the line is kept by a person who does not age out. (Overlap risk with Neumayer's precision culture; see Swap Test.)
+- **[Adapted, Deep]** — *Input categories combined: A (population; `DR-67`/`DR-68`) + E (lifespan, no aging)*
+  *"Community-scaled" is true for robots earlier than for humans.* The developer ruled Santa Luce "small and community-scaled" at 437,614 people, with 223,780 robots. Taken literally, 437,614 is not a city where everyone knows everyone. A robot who lives 200 to 500 years accumulates acquaintance over a span a human lifetime cannot match, so in the robot half of the city the community scale is reached by time, not by headcount. This is a proposed bridge between the ruled description and the numbers, not a ruling. It also does not claim any event: the population was set by bookkeeping.
+- **[Adapted, Deep, genuinely unresolved, recorded honestly]** — *Input categories combined: Status (Damaged; partially operational) + B + E (cold physiology)*
+  *The present-day layer.* Santa Luce was hit during the Long Night War but not erased; what was hit and what still runs is TBD for DLC 5 in the Spec. For a robot, the culture-critical unknown is which warmed charging and warming capacity survives, because that is how the low months are survived. Damage to heating would be dangerous for both species; damage to charging bays strikes robots through the capacity channel in a way a human does not feel. Nothing in the gathered material says which was lost, so no survivor composition is asserted. The threshold watch (§1) and the keeper (§6) are the customs most likely to persist or intensify; that is a prediction, not a finding. The old "labs hit, households spared" account is excluded as a non-canon proposal.
+
+---
+
+## PART III — Reference Note
+
+- **Existing landmarks and institutions this pass gave new meaning to:** none named. The Spec names no landmark beyond "the two inherited stations" and "Basen nunatak terrain." The nunatak is reread as the fixed frame in moving ice (Part II). The two inherited station complexes are treated as physical plant only; who occupied which is not stated for the new founders.
+- **Existing figures whose robot or human status was left open:** none exist. The only placeholder figure in the old files (Lindqvist-Väisänen) is excluded. No figure is invented.
+- **New landmark, event or figure candidates surfaced but NOT resolved here (for a developer decision):**
+  - A dark-season and sun-return observance. The developer added a Tromsø-style dark-season festival idea for Santa Luce on 2026-10-27 (candidate row 76, tier "developer to confirm"). The Part II gap between the sun's return and the battery's return suggests a two-part observance. Candidate only.
+  - A warmed commons as the city's central robot place (§10).
+  - A Cymatics-linked candidate: whether a rock foundation and one steady wind give a distinct sound environment. The physics is not sourced here and needs research before use.
+  - Mortuary practice on a bedrock site. This question is reserved by the field guide and is not derived. Flagged only because the foundation is rock.
+  - The Hwy 59 "Arcanet Line" ramp as a present-day lead.
+  - The Italian–CIN dynamic itself. Nothing in the repo supports a derivation and the Spec marks it "not yet derived." A developer conversation (the vision notes need re-asking for the new founders) is the missing input.
+
+---
+
+## Closing Check — The Swap Test (Step 6)
+
+*Swap partners are siblings in the same subnet. A comparison here is the method's required check. No finding above was built from a sibling's answer.*
+
+**Swap Test result: partial. Three findings pass cleanly, three are kept with a stated weakness, nine are generic to cold interior cities, and the open slots were left open rather than forced.** Honest summary: the Deep findings that rest on the composition and the Register are specific to this city; the ones that rest only on cold physiology would transplant to any cold interior city.
+
+- **Strong (survive a swap):**
+  - *Role without a node, held by a group without a majority* (Part II). It depends on the Register role split, the 6.25% share, and the landlocked, served-not-host position together. No sibling has all three.
+  - *Conventions win by being no one's* (Part II). It depends on fifty groups with no majority. Lazar's sheet argues the opposite shape (sector as home); Troll's rests on three factions.
+  - *The sun returns before the battery does* (Part II). It uses this city's own monthly means and polar-night dates. The same method would give a different gap elsewhere.
+- **Kept, with a stated weakness:**
+  - *The long-baseline observer* risks overlap with Neumayer's research culture (Neumayer's finding is about credit and verification; this one is about tenure on a fixed frame, but both are "research robot" findings).
+  - *Community-scaled bridge* is a general lifespan argument; it localizes only because the developer ruled this city "community-scaled."
+  - *Authority by role* partly echoes Troll's cross-faction coordination, but Troll's rests on contested control of a node and this one on a node's absence.
+- **Would transplant to a cold interior sibling (Troll, Sanay, Lazar) almost unchanged, so weak on locality:** the threshold watch (§1), charge-state courtesy (§2), threshold literacy (§3), the keeper (§6), the walking smoke (§6), telling her your charge (§7), distance spoken in cost (§8), the glove trade-off (§10) and the warmed commons (§10). They are tied to this city only through its cold regime, and nothing separates that regime from a neighbor's in kind. Several of these are generic.
+- **Dropped or left open as an honest result:** religion (null), Gen/Mark (null), Arcanet etiquette (null), the language, the glitch-coolant pole, holidays, music, cuisine. These were not forced.
+- **Against Utstein:** Utstein's findings rest on wind exposure that robots ignore; this city's wind (summer mean 5.9 m/s) is not the driver, and no finding here uses a robot's exposure tolerance. **Against Halley, Neumayer, Sanay, Belgrano:** their shared "does the work, someone else gets the credit" pattern is not used here; nothing in the gathered material supports it for this city.
+- **Unresolved risk:** the sheet is Deep-heavy and Surface-light because Input A is thin. Three findings (the walking smoke in §6, the speech shape in §8, the glove trade-off in §10) are plausible inferences from canon and have no direct source. A culture pass on Magna Lombardia, Meridia and the CIN, and a decision on the city's language, would change the Surface layers most.
