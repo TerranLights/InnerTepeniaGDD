@@ -12,8 +12,8 @@
 | Spec table vs census table (nation lists, annotations ignored) | Identical | Compared 2026-10-21; re-compared 2026-10-29 after `DR-83` (Magna Lombardia and Meridia added to both): identical |
 | Annotations in the tier tables | None | Read 2026-10-21 |
 | Per-nation breakdown (spec) | Present at L28–L85 (a model output per the spec's own note, not a measured count) — **not quoted**; cite by range | `Specs/Santa_Luce.md` L28 |
-| `Upper_Earth_Immigration_Composition.md` — the city's own section (the registered composition address) | Present at L288–L296: the tier table and key note (updated 2026-10-29, `DR-83`). **Cited by range, not quoted**: which spans are admissible is Step −1's ruling | `Upper_Earth_Immigration_Composition.md` L312–L296 |
-| `Upper_Earth_Immigration_Composition.md` — the solar-UTC rule (how the ±3 window is measured) | Present at L21–L63: the section heading at L21, the list "Recording it so it stops being reconstructed from examples" at L26–L33 (rule 1 at L28), and the refinement box at L35–L63. **Cited by range, not quoted** | `Upper_Earth_Immigration_Composition.md` L23–L63 |
+| `Upper_Earth_Immigration_Composition.md` — the city's own section (the registered composition address) | Present at L312–L320: the tier table and key note (updated 2026-10-29, `DR-83`). **Cited by range, not quoted**: which spans are admissible is Step −1's ruling | `Upper_Earth_Immigration_Composition.md` L312–L296 |
+| `Upper_Earth_Immigration_Composition.md` — the solar-UTC rule (how the ±3 window is measured) | Present at L23–L65: the section heading at L23, the list "Recording it so it stops being reconstructed from examples" at L28–L35 (rule 1 at L30), and the refinement box at L37–L65. **Cited by range, not quoted** | `Upper_Earth_Immigration_Composition.md` L23–L63 |
 | Census I | 213,834 H / 223,780 R / **437,614** combined | `Official_Population_Census.md` L511 |
 | Census II | 132,423 H / 126,398 R / **258,821** combined | `Official_Population_Census.md` L656 |
 | Retention (computed; cross-ref `Step_0.md`) | combined 59.14% · human 61.93% · robot 56.48% | Computed from the two rows above |
