@@ -716,7 +716,7 @@ repo, not inside this one — so a pass must open it deliberately; it will not t
 | `Timeline Eras/` | the four eras: First Interwar · Second Interwar · Solar Colonization · Post-Solar |
 | `Reference/Falkland_Treaty/` | the founding instrument |
 | `Reference/Laws_of_Robotics.md` | **robot fundamental laws — binding** |
-| `Reference/Robot_Universals/` | robot cultural universals, four parts |
+| `/home/kuroskalacs/Documents/Doll-Fi/media/Reference/DerivationMechanisms/Characters/Robot-specific/Robot_Universals/` | robot cultural universals, four parts *(moved 2026-10-29 from the Timeline repo's `Reference/` to the Derivation Mechanisms repo; the Timeline keeps only `Reference/Robot_Universals_Summary.md`)* |
 | `Reference/Doll_Representation_Categories.md` | the four representation categories |
 | `Reference/No_National_Stereotypes.md` | **binding: GPS facts only, always** |
 | `Reference/Enneagram_Undercurrents.md` | shared character typing |
@@ -2325,7 +2325,7 @@ are not carrying the same culture.**
 |---|---|
 | ⭐⭐⭐ **THE GENERAL FILE — READ FIRST, READ IN FULL** | **`/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Robot_Biology_and_Culture/Robot_Physiology_and_Cultural_Practices.md`** |
 | **The narrow companions** | `Robot_Cold_Physiology.md` *(environmental hazard)* · `Siligel_Composition_Research.md` · `Sumerian_Language_in_Robot_Culture.md` |
-| **Universe-tier, binding above all of it** | **U** `Reference/Laws_of_Robotics.md` · `Reference/Robot_Universals/` *(four parts)* · `Reference/Doll_Representation_Categories.md` |
+| **Universe-tier, binding above all of it** | **U** `Reference/Laws_of_Robotics.md` · `/home/kuroskalacs/Documents/Doll-Fi/media/Reference/DerivationMechanisms/Characters/Robot-specific/Robot_Universals/` *(four parts; moved from the Timeline repo 2026-10-29)* · `Reference/Doll_Representation_Categories.md` |
 
 > # ⛔⛔ **THIS IS NOT A PHASE-8 FOOD CHECK. IT BINDS EVERY PHASE.**
 > ***Robots are the MAJORITY population in most Tepenian cities*** *(commonly 51–55%)*. **There is therefore no

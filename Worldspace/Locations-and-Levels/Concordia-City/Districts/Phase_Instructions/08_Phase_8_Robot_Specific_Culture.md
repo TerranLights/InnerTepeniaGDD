@@ -98,7 +98,7 @@ substitutions. Read that file in full before starting — this section only cove
 ## 4. Sources to read, per district
 
 Beyond the six-step process's own input substitutions above: the target district's own completed Phase 1-6
-Findings (the direct raw material), `Robot_Universals/` (`TepenianUniverseTimeline/Reference/Robot_Universals/`),
+Findings (the direct raw material), `Robot_Universals/` (`DerivationMechanisms/Characters/Robot-specific/Robot_Universals/`),
 and the Input Category E canon files listed in the substitution table.
 
 ---

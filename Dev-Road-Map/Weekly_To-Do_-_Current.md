@@ -723,7 +723,7 @@ Three items the developer named as the most direly urgent work of the week, in t
 in this file, including the rest of "High Priority" below, until done or explicitly reprioritized.
 
 - [ ] **1. Historical vignette audit against Robot Universals + national canon — starting 2026-08-12**
-  Take the completed *Robot Universals* reference book (`TepenianUniverseTimeline/Reference/Robot_Universals/`)
+  Take the completed *Robot Universals* reference book (`DerivationMechanisms/Characters/Robot-specific/Robot_Universals/`)
   together with everything now known about the country/national canon, and re-check the existing historical
   vignettes to see whether they still hold up — and whether they can now be improved given everything learned
   since they were written. Independent of items 2-3 below; can run in parallel with them. **Developer confirmed
@@ -847,7 +847,7 @@ in this file, including the rest of "High Priority" below, until done or explici
   findings each) give this generation pass real, specific, named hook material it didn't have before — see
   `TODO.md`'s own new entry for the full picture. **This item was deliberately held pending a thorough robot
   culture foundation, per the developer's own explicit sequencing decision — that foundation (the "Robot
-  Universals" reference book, `TepenianUniverseTimeline/Reference/Robot_Universals/`) is now complete as of
+  Universals" reference book, `DerivationMechanisms/Characters/Robot-specific/Robot_Universals/`) is now complete as of
   2026-08-08, so this is unblocked and ready to actually run.** Not yet run.
 
 - [ ] **Doll Character Spec / Companion-Romance backstory depth — psychological depth and inner conflict**

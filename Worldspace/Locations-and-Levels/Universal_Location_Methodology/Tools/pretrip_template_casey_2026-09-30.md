@@ -354,7 +354,7 @@
 | Ph | Must open | Resolved absolute address | Exists | Tier | Carve-out |
 |---|---|---|:--:|---|---|
 | **9** | ⚠⚠ **U** Laws of Robotics | `/home/kuroskalacs/Documents/Doll-Fi/media/Reference/TepenianUniverseTimeline/Reference/Laws_of_Robotics.md` | ✅ | binding | — |
-| **9** | ⚠⚠ **U** Robot Universals | `/home/kuroskalacs/Documents/Doll-Fi/media/Reference/TepenianUniverseTimeline/Reference/Robot_Universals/` | ✅ | `MAPPED` | Ch. 13, 14 especially |
+| **9** | ⚠⚠ **U** Robot Universals | `/home/kuroskalacs/Documents/Doll-Fi/media/Reference/DerivationMechanisms/Characters/Robot-specific/Robot_Universals/` | ✅ | `MAPPED` | Ch. 13, 14 especially |
 | **9** | **U** Doll Representation Categories | `/home/kuroskalacs/Documents/Doll-Fi/media/Reference/TepenianUniverseTimeline/Reference/Doll_Representation_Categories.md` | ✅ | `MAPPED` | — |
 | **9** | Human-robot baseline | *(Robot Physiology, as Phase 4)* | ✅ | `MAPPED` | — |
 

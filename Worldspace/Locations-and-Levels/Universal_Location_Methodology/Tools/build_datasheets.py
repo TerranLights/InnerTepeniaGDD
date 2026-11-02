@@ -35,6 +35,9 @@ import build_pretrip as B   # noqa: E402  (city table, helpers, paths)
 TODAY = datetime.date.today().isoformat()
 R, C, U = B.REPO, B.CITIES, B.ULM
 UNIV = "/home/kuroskalacs/Documents/Doll-Fi/media/Reference/TepenianUniverseTimeline"
+# Robot Universals left the Timeline repo on 2026-10-29 (Timeline commit 5d15159); it now lives in the Derivation Mechanisms repo.
+DMREF = "/home/kuroskalacs/Documents/Doll-Fi/media/Reference"
+RU_DIR = DMREF + "/DerivationMechanisms/Characters/Robot-specific/Robot_Universals"
 DI = os.path.join(C, "Division_of_Industry")
 
 
@@ -112,6 +115,8 @@ def cite(path, lines=None):
         base = "Ice-Cold_Buddhism_Research/" + os.path.basename(path)
     elif path.startswith(UNIV):
         base = "…/" + os.path.relpath(path, UNIV)
+    elif path.startswith(RU_DIR):
+        base = "…/" + os.path.relpath(path, DMREF)
     if not lines:
         return "`%s`" % base
     return "`%s` %s" % (base, B.fmt_lines(lines))
@@ -719,7 +724,7 @@ def dir_hit_rows(d, root, label):
         h = ctx.hits(p)
         if h:
             hit.append((p, h))
-    rows = [(label + " — directory enumerated", "%d `.md` files read; **%d name the city**" % (len(files), len(hit)), cite(root + "/") if False else "`%s/` (enumerated %s)" % (os.path.relpath(root, UNIV if root.startswith(UNIV) else R), TODAY))]
+    rows = [(label + " — directory enumerated", "%d `.md` files read; **%d name the city**" % (len(files), len(hit)), cite(root + "/") if False else "`%s/` (enumerated %s)" % (os.path.relpath(root, DMREF if root.startswith(RU_DIR) else (UNIV if root.startswith(UNIV) else R)), TODAY))]
     for p, h in hit:
         ls = B.read_lines(p)
         for n in h[:12]:
@@ -803,7 +808,7 @@ def f_phase_8(d):
 
 def f_phase_9(d):
     ctx = d.ctx
-    ru = UNIV + "/Reference/Robot_Universals"
+    ru = RU_DIR
     rows = dir_hit_rows(d, ru, "`Robot_Universals/`")
     rp = "`Corpus_Reference_Sheets/Robot_Physiology_Quick_Reference.md`"
     rows += [("Laws of Robotics (quoted word for word from the source file)", "*\"1. A robot will have the full capacity to make decisions to maximize her own future possibilities.\"* · *\"2. A robot will understand that anything she is capable of doing to others, it is also realistically possible for others to do to her.\"* · *\"(this list is subject to extension)\"*", "`" + UNIV + "/Reference/Laws_of_Robotics.md` L3–6"),

@@ -8,7 +8,7 @@
 
 | Category | Value | Citation |
 |---|---|---|
-| `/home/kuroskalacs/Documents/Doll-Fi/media/Reference/TepenianUniverseTimeline/Reference/Robot_Universals/` | **33** files; **zero hits** | `/home/kuroskalacs/Documents/Doll-Fi/media/Reference/TepenianUniverseTimeline/Reference/Robot_Universals/` |
+| `/home/kuroskalacs/Documents/Doll-Fi/media/Reference/DerivationMechanisms/Characters/Robot-specific/Robot_Universals/` | **33** files; **zero hits** | `/home/kuroskalacs/Documents/Doll-Fi/media/Reference/DerivationMechanisms/Characters/Robot-specific/Robot_Universals/` |
 | Laws of Robotics (read firsthand) | *"1. A robot will have the full capacity to make decisions to maximize her own future possibilities."* · *"2. A robot will understand that anything she is capable of doing to others, it is also realistically possible for others to do to her."* · *"(this list is subject to extension)"* — **zero hits** for the city | `/home/kuroskalacs/Documents/Doll-Fi/media/Reference/TepenianUniverseTimeline/Reference/Laws_of_Robotics.md` L3–6 |
 | Ch. 13 identity lens · Ch. 14 Gen/Mark (Tier U) | City-locality as the seat of identity — *"The Guadalajara Analogy"* | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Universal_Location_Methodology/Corpus_Reference_Sheets/Robot_Physiology_Quick_Reference.md` §"Robot creation, identity, and culture" (L95–99) |
 | Doll Representation Categories (read firsthand) | Robots (only category in use) · Anthros · Elves · Aliens | `/home/kuroskalacs/Documents/Doll-Fi/media/Reference/TepenianUniverseTimeline/Reference/Doll_Representation_Categories.md` |

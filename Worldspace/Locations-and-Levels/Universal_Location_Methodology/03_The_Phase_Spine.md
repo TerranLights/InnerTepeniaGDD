@@ -1033,7 +1033,7 @@ as decoration without them.
 > - **U** ⚠⚠ **`Laws_of_Robotics.md`** — *binding*
 >   `/home/kuroskalacs/Documents/Doll-Fi/media/Reference/TepenianUniverseTimeline/Reference/Laws_of_Robotics.md`
 > - **U** ⚠⚠ **`Robot_Universals/`** — ⭐ **Ch. 13 (city as seat of identity) · Ch. 14 (Gen/Mark)**
->   `/home/kuroskalacs/Documents/Doll-Fi/media/Reference/TepenianUniverseTimeline/Reference/Robot_Universals/`
+>   `/home/kuroskalacs/Documents/Doll-Fi/media/Reference/DerivationMechanisms/Characters/Robot-specific/Robot_Universals/`
 > - **U** `Doll_Representation_Categories.md`
 >   `/home/kuroskalacs/Documents/Doll-Fi/media/Reference/TepenianUniverseTimeline/Reference/Doll_Representation_Categories.md`
 > - **P** human-robot relations baseline

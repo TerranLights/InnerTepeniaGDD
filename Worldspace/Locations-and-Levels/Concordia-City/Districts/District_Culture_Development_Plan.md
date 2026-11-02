@@ -672,7 +672,7 @@ did, on solid ground rather than in isolation.
 
 **Developer instruction, 2026-08-16 — not yet started, explicitly gated on every district finishing all 8
 phases first.** Cancer's own Phase 8 pass (`Cancer_Full_Extrapolation.md` Finding XVII) was run without loading
-the complete *Robot Universals* reference text in full (`TepenianUniverseTimeline/Reference/Robot_Universals/`)
+the complete *Robot Universals* reference text in full (`DerivationMechanisms/Characters/Robot-specific/Robot_Universals/`)
 — it worked instead from Cancer's own already-established robot-population material plus the confirmed
 Tepenia-Wide Robot Culture Canon, and said so honestly rather than overclaiming a full triage. Once every
 district has been through all 8 phases once, run a dedicated second pass, district by district: go through

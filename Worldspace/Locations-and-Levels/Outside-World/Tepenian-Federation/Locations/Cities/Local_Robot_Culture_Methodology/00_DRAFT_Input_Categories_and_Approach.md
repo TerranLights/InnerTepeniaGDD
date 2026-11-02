@@ -6,7 +6,7 @@ process built on top of it. Neither has been run on a real city yet — no actua
 this file. Treat everything below as designed-on-paper until it survives contact with a first real city.
 
 **Goal:** a repeatable way to derive what robot culture looks like *in a specific Tepenian city*, building on
-top of the already-completed *Robot Universals* (`TepenianUniverseTimeline/Reference/Robot_Universals/`) —
+top of the already-completed *Robot Universals* (`DerivationMechanisms/Characters/Robot-specific/Robot_Universals/`) —
 which deliberately stops at "the floor and the method," explicitly leaving population-specific content to each
 project's own repo. This is that population-specific layer, for Tepenia's cities.
 

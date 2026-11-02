@@ -983,7 +983,7 @@ per `STEP 3`'s 🧪 addition above: check that BOTH sides actually agree before 
 | Ph | Must open | Resolved address | Tier |
 |---|---|---|---|
 | **9** | ⚠⚠ **U** Laws of Robotics | `/home/kuroskalacs/Documents/Doll-Fi/media/Reference/TepenianUniverseTimeline/Reference/Laws_of_Robotics.md` | binding |
-| **9** | ⚠⚠ **U** Robot Universals *(Ch. 13, 14 esp.)* | `/home/kuroskalacs/Documents/Doll-Fi/media/Reference/TepenianUniverseTimeline/Reference/Robot_Universals/` | `MAPPED` |
+| **9** | ⚠⚠ **U** Robot Universals *(Ch. 13, 14 esp.)* | `/home/kuroskalacs/Documents/Doll-Fi/media/Reference/DerivationMechanisms/Characters/Robot-specific/Robot_Universals/` | `MAPPED` |
 | **9** | **U** Doll Representation Categories | `/home/kuroskalacs/Documents/Doll-Fi/media/Reference/TepenianUniverseTimeline/Reference/Doll_Representation_Categories.md` | `MAPPED` |
 | **9** | Human-robot baseline | *(Robot_Physiology_and_Cultural_Practices.md, as Phase 4)* | |
 

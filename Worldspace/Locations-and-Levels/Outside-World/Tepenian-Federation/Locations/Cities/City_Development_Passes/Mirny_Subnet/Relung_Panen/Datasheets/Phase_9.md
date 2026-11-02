@@ -7,7 +7,7 @@
 
 | Category | Value | Citation |
 |---|---|---|
-| `Robot_Universals/` — directory enumerated | 33 `.md` files read; **0 name the city** | `Reference/Robot_Universals/` (enumerated 2026-10-29) |
+| `Robot_Universals/` — directory enumerated | 33 `.md` files read; **0 name the city** | `DerivationMechanisms/Characters/Robot-specific/Robot_Universals/` (enumerated 2026-10-29) |
 | Laws of Robotics (quoted word for word from the source file) | *"1. A robot will have the full capacity to make decisions to maximize her own future possibilities."* · *"2. A robot will understand that anything she is capable of doing to others, it is also realistically possible for others to do to her."* · *"(this list is subject to extension)"* | `/home/kuroskalacs/Documents/Doll-Fi/media/Reference/TepenianUniverseTimeline/Reference/Laws_of_Robotics.md` L3–6 |
 | `Robot_Universals/` Ch. 13 — the identity lens (Tier U) | Identity is seated in city-locality, not origin/Build/Gen-Mark | `Corpus_Reference_Sheets/Robot_Physiology_Quick_Reference.md` §"Robot creation, identity, and culture" |
 | `Robot_Universals/` Ch. 14 — Gen/Mark (Tier U) | Real, structurally independent of city, but carries markedly less cultural weight than locality, and is never a hierarchy | `Corpus_Reference_Sheets/Robot_Physiology_Quick_Reference.md` §"Robot creation, identity, and culture" |

@@ -51,7 +51,8 @@ import glob
 
 BASE = "/home/kuroskalacs/Documents/Doll-Fi/media/"
 GDD = BASE + "games/Inner Tepenia/InnerTepeniaGDD/"
-ROOTS = [GDD + "Worldspace", GDD + "Reference", BASE + "Reference/TepenianUniverseTimeline"]
+ROOTS = [GDD + "Worldspace", GDD + "Reference", BASE + "Reference/TepenianUniverseTimeline",
+         BASE + "Reference/DerivationMechanisms/Characters/Robot-specific/Robot_Universals"]   # the book moved out of the Timeline repo 2026-10-29
 EXTRA = [GDD + "CLAUDE.md"]          # a repo-root file outside Worldspace. Omitting it
                                      # was a real defect in the first Zhongshan run.
 PASSES_DIR = "City_Development_Passes"

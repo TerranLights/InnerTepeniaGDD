@@ -81,7 +81,7 @@ non-linear medium in the first place.
   something already established, not decoration bolted on afterward.
 
 - **The Robot-Universal Friction Bank.** Now that `Robot_Universals` (the reference book at
-  `TepenianUniverseTimeline/Reference/Robot_Universals/`) exists, there's a real menu of grounded,
+  `DerivationMechanisms/Characters/Robot-specific/Robot_Universals/`) exists, there's a real menu of grounded,
   robot-specific friction points to draw from — none of which were usable material before that book existed:
   - the seeded-vs-emergent Personality Module tension (Robot Universals Ch.5)
   - city/locality belonging pulling against personal desire or path (Ch.13)
