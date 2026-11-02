@@ -6,9 +6,133 @@
 
 ---
 
-## ⏭ START HERE (written 2026-11-01, ~21:30): the developer's list for 2026-11-02
+## ⏭ START HERE (written 2026-11-01, ~21:30; updated ~22:15): the developer's list for 2026-11-02
 
-**Where things stand in one paragraph.** The real-world research for **Amundsen Station** (16 units) and **Byrd** (13 units) is complete; both places' next steps are developer-led (review digests, the Byrd–Amundsen pair check in 0.7, tiering the picks). The inputs the city runs (ULM, then CST and RWBEM) read are **in place for the 30 cities in the run**; what stands between them and their runs is the list below, which the developer set for 2026-11-02. Everything is committed and pushed (last commits `e368cc3b` and `4bc888d3`); the working tree was clean at handoff.
+**Where things stand in one paragraph.** The real-world research for **Amundsen Station** (16 units) and **Byrd** (13 units) is complete; both places' next steps are developer-led (review digests, the Byrd–Amundsen pair check in 0.7, tiering the picks). The inputs the city runs (ULM, then CST and RWBEM) read are **in place for the 30 cities in the run**; what stands between them and their runs is the list below, which the developer set for 2026-11-02. Everything up to `78e52cf1` is committed and pushed. **New since the first handoff (S.0):** the evening session that opened with the fresh quota computed the successor-country populations as scratch work; that folder and this tracker edit are **not committed**.
+
+### S.0 Update, 2026-11-01 ~21:35–22:15: the successor-country populations are computed (scratch work; read this first)
+
+**What was asked.** The developer, at the start of the fresh-quota session: *"create a set of scratching files, and go ahead and get started on the calculations now"* (the Sinian Federation and its neighbors), then *"after the Sinian Federation (and surrounding lands) are done, see about calculating for Russia, Italy, Germany, Argentina, and the nations of North America."* At the end: *"this is something we'll need to figure out tomorrow. Also, this means that we will eventually need to readjust the National Census as well, since the numbers would most assuredly have changed."*
+
+**Where it is.** `Cities/Sinian_Federation_Split_Scratch_2026-11-01/`: `00_README.md` (scope, borders, status, next steps) · `01_Research_Log.md` (all 30 searches verbatim, every source, conflicts, dead ends, open threads) · `02_unit_data.csv` + `calc_successors.py` → `03_Results.md` (China) · `05_part2_unit_data.csv` + `calc_part2.py` → `06_Part2_Results.md` (USA, Canada, Mexico, Italy, Germany, Argentina; Russia summarized). Rerun either script after any data change. **Scratch only: nothing in the census, specs, composition file or datasheets was changed.**
+
+**Borders were not researched; they come from canon and the author's atlas.** China: the Timeline repo's `Worldspace/Locations/Earth/Upper_Earth/Asia_East/README.md` and Map E (the Sinian Federation is nine Han states by whole provinces; Manchuria, Inner Mongolia (part of Mongolia), East Turkestan, Tibet and Taiwan are outside it). Everything else: the author's world atlas, `/home/kuroskalacs/Documents/Doll-Fi/media/y-files/Map Files/x Full Earth/z-full-world-atlas/` (`data/world/numbering.csv` notes, the region READMEs, Latin America's `nations-assignment.csv`). The atlas row confirms that Hong Kong, Macau and Hainan are in the Sinian Federation.
+
+**Method.** Each country's existing effective pool (`Upper_Earth_Immigration_Composition.md` L68–L86: China ~210M, USA ~155M, Germany ~46M, Italy ~27M, Russia ~25M, Canada ~20M, Mexico ~18M, Argentina ~6M) is split among its successors two ways: **Option A by headcount, Option B by economic size (GDP)**. Each piece keeps its country's one inequality adjustment. Official figures throughout (China's statistics bureau yearbook tables for 2024; US Census Bureau and BEA 2025; Statistics Canada 2025; INEGI; ISTAT; Destatis; INDEC). Every unit sum is checked against the country's published total: China, Canada, Italy and Argentina reconcile exactly; the US is 600 people off (unresolved, negligible) and its state GDPs sum 0.55% under national GDP (expected: overseas federal activity).
+
+**Results (pool ranges are Option A to Option B).**
+- **China (210M):** Sinian Federation **188–192M** (89% of people, 92% of the economy) · Manchuria 9.9–14.2M (95 million people) · Mongolia's Inner Mongolia part 3.6–4.1M · East Turkestan 3.2–3.9M · Tibet 0.4–0.6M. Taiwan (23.4M people), Hong Kong and Macau (8.2M together) were never in China's figures.
+- **USA (155M):** the CSA 45–50M · Appalachia 30–32M · New England 26–30M · Cascadia's US part 23–28M · Midwest Republic 9.5–10M · Colorado 7.4–7.5M · Sonora's US part 3.8–4.4M · Hawaii 0.6M · Alaska 0.3M.
+- **Canada (20M):** **Demilitarized Zone (southern Ontario, 15.4 million people, not a nation) 7.3–7.4M** · Quebec with the Atlantic provinces 5.0–5.7M · Prairie Federation 4.2–4.8M · British Columbia (Cascadia) 2.7M · small Arctic pieces.
+- **Mexico (18M):** México 14.4–14.5M · Yucatán republic 1.6–1.9M · Sonora's Mexican part 1.0–1.2M · the Bajas (Cascadia) 0.7–0.8M.
+- **Italy (27M):** Magna Lombardia 15.4–18.0M · Meridia 7.6–9.4M · Sicilia 1.4–2.2M (Option B reproduces the Santa Luce ruling's illustrative 18 : 9).
+- **Germany (46M):** Germany 37.6–38.6M · Bavaria (Austro-Bavaria) 7.4–8.4M.
+- **Argentina (6M):** Argentina 5.4–5.7M · the five Patagonian provinces (Araucanía-Patagonia zone) 0.3–0.6M.
+- **Russia (25M):** not redone; the 2026-10-29 research (`Research_Logs/Russia_Split_Proportions_RS1b_Input_Table_2026-10-29.md`) converted to millions: core Russia 7.8–10.5M · Idelsk-Uralia 5.9–7.7M · Siberia 3.1–4.2M · Donska-Kubania 1.8–3.0M · Künnarantaiga 1.8–2.1M · the rest under 0.6M each.
+
+**⚠ The finding that matters most for the rebalance.** China barely shrinks, but the USA's largest successor is about a third of the old USA and Russia's is 31–42%. So in a city where China and the USA are now close (e.g., 19% and 22%), replacing both with successors leaves **the Sinian Federation several times larger than any American successor**: the splits by themselves push cities *toward* the China-dominance the developer wants to reduce. Which successors reach which city still depends on the time-zone window and gateways. No proposal was made; the criteria are the developer's.
+
+**Decisions waiting for the developer (each written out in `03` and `06`).**
+1. Option A (headcount) or Option B (economic size) for every country. Claude recommends B: the census already weights by income, and the Russia work used B.
+2. Canada's Demilitarized Zone: 15.4 million people today, not a nation. Where do its exiles count?
+3. The breakaway pieces (Manchuria, East Turkestan, Tibet, and others elsewhere): nations of their own in city tables, or simply removed from the old country's share? Plus Hong Kong and Macau (add to the Sinian pool?) and Taiwan.
+4. Sardinia: in Meridia as the atlas draws it, or outside it as the Santa Luce figure (~23.8M "without Sardinia") assumed?
+5. Add Austria (Austro-Bavaria), Chile (the Patagonia zone) and Guatemala's Petén (Yucatán)? None is in the composition file now.
+6. Which era's borders apply. The atlas draws each region's final state; East Asia's Map F (2267 to present) keeps Map E's borders.
+7. The Neutral Scientific Territory (Baffin, ~19,600 people) and Greenland (no composition-file row).
+
+**The order the developer set for 2026-11-02:** those decisions → the city rebalance (the developer's criteria in S.3 item 1) → **readjust the National Census** (`Official_Population_Census.md`: every per-nation row naming China, the USA, Canada, Mexico, Italy, Germany, Argentina or Russia becomes rows for successors; the national totals change only where a piece is added, a piece is dropped, or the rebalance raises headcounts) → the follow-on files in `Population_Work_Prep_2026-11-02.md`, then the sheet check.
+
+**Searches.** This session used **30 of its 1,000 searches, none refused** (16 for China, 14 for the rest). The next session has a fresh quota. The research the calculations needed is done; further searches are only for the open threads below, and for whatever the decisions add (e.g., Austria, Chile, Petén, Hong Kong and Macau income figures).
+
+**Approximations and open threads (all flagged in the CSVs and the log).** Alaska Panhandle = the whole Southeast region (Yakutat's side of the cut UNVERIFIED) · Ontario's cut line = Northern Ontario minus Parry Sound District (south Nipissing not removed) · Nunavut's island placements from memory (UNVERIFIED, ~3,000 people) · Trentino-Alto Adige's GDP per person an unweighted mean · Mexico's GDP shares at constant 2018 prices · Mongolia's own figure through aggregators only · each country uses its own latest year (only within-country shares matter). The first Argentina table read had six mixed-up province figures; it was replaced by a source that sums exactly (logged).
+
+**State of the tree.** Untracked: the scratch folder. Modified: this tracker. Not committed (commit only when the developer asks). Memory: `project_successor_split_scratch_2026_11_01.md` added to the index.
+
+### S.0a Update, 2026-11-01 ~22:10–22:55: a smaller China, Kunlun's lead, and an overnight scratch run
+- **The developer's idea for China's dominance:** by the Falkland Treaty, China's population is about half to two-thirds of today's (the one-child policy, fewer marriages and births). Worked out in the scratch folder's `07_China_Decline_Scenario.md` (script `calc_china_decline.py`). Real-world context: the UN's 2024 medium projection has China at about 633–639 million in 2100, roughly 45% of today (secondary sources). **Main finding:** under the tier method as written (Primary 8 shares, Significant 3, Notable 1), a smaller China pool barely changes any city, because China stays in the top tier everywhere even at half; cutting China's people directly does work (at half, China falls from 17–24% to about 8.5–14% in the cities it now leads; nationally from 10.6% to about 6%). Also flagged: the USA split works the other way, and South Korea and Japan are projected to shrink about as fast.
+- **Zhongshan and Kunlun stay exempt** (developer, reconfirmed ~22:25: *"those two cities are fundamentally Chinese in nature"*).
+- **Kunlun: China should clearly lead** (developer, ~22:30: *"like Zhongshan, due to the fact that Kunlun was set up in part through a joint agreement by the Sinian Federation"*, which matches the Register). **Option A chosen (~22:35, confirmed ~22:45):** China alone in Kunlun's top tier, the USA and Russia moved to the middle tier. **Not yet applied:** Kunlun's spec, the census (Section A), the composition file and Kunlun's datasheets change in the 2026-11-02 morning population pass; the ruling goes into the rulings log then; the spec's prose written around the 2026-07-06 rework ("no longer exclusively Sinian", L25, L82, L178) is rewritten 2026-11-02 in hours.
+- **Open, ask the developer first thing:** Mongolia and Künnarantaiga, Kunlun's co-founders on the Register, have no row in Kunlun's table. Claude recommends adding both to the middle tier marked "founding wave" (as Australia is at Mirny, Casey and Davis): China ~15.1%, each middle-tier nation ~5.7%. **Ariun Nuur has the same gap** (same founders, absent from its table); recommended fix the same way, which takes Ariun Nuur off S.4's "untouched" list. The developer's reply ("sure, add that to the tracking file") was read as covering this note only, so the recommendation still needs their word.
+- **Overnight scratch run (developer's request at ~22:50, scratch files only, nothing official changed):** for every city with Chinese presence except Zhongshan and Kunlun, China's row becomes the Sinian Federation's share after the territorial split, then 55–60% of that (a random draw), and the difference is filled by the city's nations above 5% that are less represented, so each city keeps its previous total; then a check of whether each adjustment can reasonably be justified. Results: the scratch folder's `08_*` files (see S.0b).
+
+### S.0b Overnight results, 2026-11-01 ~23:00 onward (scratch only; read `08_Sinian_Decline_Rebalance.md` for the detail)
+- **What was run.** For 20 cities (every city with Chinese presence except Zhongshan and Kunlun), China's row became the Sinian Federation's share after the territorial split (91.56%, Option B, not yet chosen by the developer) times a seeded random draw between 0.55 and 0.60 per city, so the Sinian Federation lands at about half of China's old figure everywhere. The gap went, split evenly, to the city's nations at 5% or more outside its top tier ("lesser-represented"; the literal "below China's share" finds nobody where China is small and would hand the gap to the USA where China led it); every city kept its exact total in every census column. A proportional split, a 4.5% line and a USA-split illustration are in the same file. `calc_rebalance.py` writes the full count tables to `08_rebalance_city_tables.csv`.
+- **Headline.** In the eight China-led cities the top four or five nations end within a few points of each other (e.g., Mirny: UK 14.3%, South Korea 13.6%, Indonesia 12.9%, the Sinian Federation 12.3%). Nationally the Sinian Federation goes from 10.6% to 6.2% of Tepenia's humans; the biggest gains are Australia (+122,747), South Korea (+112,577), Japan (+108,168) and Indonesia (+106,983).
+- **Verdict: justifiable with conditions.** Real-world support (logged, five searches, none refused): the UN's projection for China; Hatton and Williamson via Peri (2011), emigration falls as smaller cohorts reach working age; Beine, Docquier and Özden (2011), migration flows track existing community size with an elasticity of about one. **The conditions:** (1) in the nine cities China shared with the USA, the USA becomes the single leader (1.4–1.9×; Cape Adare's ruling says no single dominant community), which the USA split resolves (all nine go flat, leader at most 1.12×), so apply both together or neither; (2) put the line at 4.5% ("about 5%"), because thirteen nations in twelve cities sit between 4.5% and 5% on de-stacking noise, Davis's founder Australia (4.93%) among them; (3) the largest gains go to Australia (already flagged as over-represented, `FQ-20`) and to Japan and South Korea (projected to shrink as fast or faster than China); (4) founders with no row (Kazakhstan at Temirötkel and Mawson, Russia at Mawson, Idelsk-Uralia at Mirny) or under the line (New Zealand at Scott, Malaysia at Relung Panen) get nothing, and Zukelli's Italy grows against ledger ZK-S05. **Better left for later:** Concordia (already multicultural; 13 finished district passes rest on it), Dome Fuji (follows its source cities), Relung Panen (composition held), Amundsen Station (town redesign); Palmer City is harmless either way.
+- **Decisions for the developer** (listed at the end of `08`'s verdict section): even or proportional fill; 5% or 4.5% line; the decline and the USA split together in the nine China-and-USA cities; whether Japan, South Korea and other low-birth-rate nations decline too, and whether Australia receives; the founders without rows or under the line; whether the four cities wait; plus the still-open Option A/B and the rows for the pieces that left China.
+
+### S.0c Run 2, 2026-11-01 ~23:40 onward (scratch only; read `09_Rebalance_and_Successor_Splits.md`)
+- **The developer's settings after run 1 (~23:35):** *"go with the proportional fill and use a 4.5% cutoff, use a randomly-generated value between 55-65% (instead of 55-60), and also calculate for populations from North America (now many countries), what-was-current-day-Russia (also now many countries), and Argentina."* Run with those settings; then every city's USA, Canada, Mexico, Russia and Argentina rows were divided among their successor states by pool share (Option B; Russia's October 29 split (a), primary variant), in all 37 cities. Kunlun left as it is (heritage-based rows; Option A tomorrow); Zhongshan's China row untouched, its Russia row split; Canada's Demilitarized Zone kept as its own row (decision 2); the Neutral Scientific Territory and Greenland pieces left out. Every city keeps its exact totals. Script `calc_rebalance_v2.py`; every row in `09_city_tables.csv`.
+- **Result:** in 30 of 37 cities the leading nation is at most 1.14 times the next; nationally no origin is above 6.8% (before: the USA 15.8%, China 10.6%). The top ten are Japan 6.76%, South Korea 6.47%, the Sinian Federation 6.35%, the UK 5.80%, Australia 5.40%, Germany 4.94%, the CSA 4.56%, Indonesia 4.55%, Brazil 4.52% and France 3.37%. The Sinian Federation is in the top five in 16 of its 20 cities and leads none outside Zhongshan. Run 1's main condition (the USA split must go with the decline) is met.
+- **Still for the developer:** how to split (pool or time-zone window: the open Russia ruling, now for every split country; Option A or B; the Demilitarized Zone). **Three founder mismatches the USA split makes visible:** Ariun Nuur (Japan 25.0%; founders Künnarantaiga and Mongolia have no rows), Utstein (Japan 16.9%; of its founders only Norway and Finland have rows, under 3% each), Esperanza (Brazil 18.9%; founder Argentina 7.5% plus 0.8%). Japan and South Korea as the two largest communities, Australia fifth. Sanay's Germany at 25% (untouched; noted). Claude recommends doing the splits before the decline when this is applied for real (results nearly identical).
+- **Self-correction:** file `07`'s national China figure had dropped Byrd's 5,853 humans (its script read human counts only from four-column tables); fixed and logged in `07`. Runs 1 and 2 were not affected.
+
+### S.0d Run 3 and the developer's answers, 2026-11-01 ~23:40–23:55 (scratch only; read `10_Rebalance_Run3.md`, the current run)
+- **Decided by the developer (to go into the rulings log in the morning pass, with Kunlun's Option A):**
+  1. **Split by pool share:** each successor in proportion to its share of the old country, in every city. *"It's a numerical method that works perfectly fine, and I personally can't think of any reason to change it."* This settles the Russia "pool split versus window split" question, for every split country.
+  2. **Splits first, then the Sinian decline.**
+  3. **Proportional fill, 4.5% line, a random 55–65%** (from run 2).
+  4. **Ariun Nuur:** two random values in 3.5–5% come off Japan, the higher to Mongolia, the lower to Künnarantaiga.
+  5. **Utstein:** from Japan, Iceland a random 0.5–1%; Norway, Sweden, Finland and Denmark a random 1.5–3.5% each.
+  6. **Left as they are:** Esperanza (Brazil leads), Sanay (Germany 25%), and Japan and South Korea as the largest communities. The developer on Japan: *"This might actually work to the advantage of the synthesis of the Tepenian language. Down at its foundational level core, it's fundamentally a Pidgin between English and Japanese at its core, with several languages stacked on top of it, and then a bunch more languages stacked on top of that."* This agrees with the Modern Hawaiian note on file.
+- **Result:**
+  - **Cities:** 31 of 37 have their leading nation at most 1.14 times the next. The six exceptions are all ruled or intended: Zhongshan, Shirayuki and Sinheung (founding allocations), Sanay, Esperanza, and Ariun Nuur.
+  - **Ariun Nuur, redrawn at the developer's request (~23:43):** *"redraw Ariun Nuur with a new seed, because it only makes sense that Mongolia would have a higher share than Künnarantaiga."* The first draw had left the two at 3.51% each, both at the bottom of the range: a genuine draw, kept in `10`'s draw history. The redraw used its own seed (202611012343), fixed before the result was seen: **Mongolia 4.19%, Künnarantaiga 3.73%; Japan from 25.0% to 17.05%, still leading at 1.26 times Indonesia.** Utstein's draws are unchanged.
+  - **Utstein:** Japan goes from 16.9% to 5.5%; the five Nordic founders together hold 16.8%; Brazil leads at 1.06 times the next.
+  - **Nationally:** South Korea 6.45%, the Sinian Federation 6.35%, Japan 6.28%, the UK 5.81%, Australia 5.39%.
+- **Before applying for real:**
+  - Mongolia, Denmark and Iceland are new to Tepenia's tables, with no pool rows in the composition file.
+  - The tier labels need redoing.
+  - Lazar's founder, Russia's core state, drops from 4.81% to 2.01% under the pool split.
+  - Founders still without a row: Kazakhstan (Temirötkel, Mawson) and Russia's core state at Mawson.
+  - Still open from before: Option A or B (B was used throughout), the Demilitarized Zone, rows for the pieces that left China, Hong Kong, Macau and Taiwan, Sardinia, Austria, Chile and Petén, which era's borders, Kunlun's co-founders, and the four cities recommended to wait.
+- **The developer's example arithmetic** (Japan "comes down to 15.5%" after 4.5 + 4): it is 16.5%. Noted in `10`; the script subtracts exactly what it gives.
+
+### S.0e Decisions after run 3, and what run 4 needs (2026-11-02, ~00:00–00:30; detail in the scratch folder's `11_Decisions_and_Next_Research_2026-11-02.md`)
+- **Decided:**
+  - **Headcount (Option A) for every split.** The pools already carry the income adjustment.
+  - **China's breakaway pieces, Hong Kong, Macau and Taiwan get rows**, worked out and placed by the time-zone window.
+  - **The Neutral Scientific Territory is left out.**
+  - **Borders are those of the latest period.**
+  - **Kunlun's co-founders go in its middle tier.**
+  - **Concordia, Dome Fuji, Relung Panen and Amundsen Station are committed with the others.**
+  - **Accepted as they stand:** Russia's core state at Mawson and Lazar, and New Zealand at Scott.
+- **Settled by the atlas:**
+  - **Kaliningrad** is its own nation; leaving it out was right.
+  - **The Republic of Karelia joins Finland** (the October 29 research's C-15 version, for run 4).
+  - **Russia's core state includes Ukraine's eastern slice**, so Ukraine's rows divide.
+  - **The time-zone sub-questions for Russia** are moot under the pool split.
+- **The outdated names are wide**, beyond Belgium:
+  - Belgium (to France and the Netherlands)
+  - South Korea, which becomes Korea (unified, without Jeju-do)
+  - The UK (without Northern Ireland)
+  - Czechia (a rename only)
+  - Spain (without Catalonia and the Basque Country)
+  - Brazil (without seven Amazonian states)
+  - Indonesia (without Aceh and West Papua)
+  - Thailand (without Patani)
+  - The Philippines (without Sulu)
+  - Romania (five counties to Hungary)
+  - Chile (five regions to the Patagonia zone)
+  - Italy (Sicilia its own row)
+  - Germany (Austria joins Bavaria)
+- **Answered:**
+  - **Chile's zone regions have real cities:** 2.57 million people in the 2024 census; Temuco about 280,000, and Puerto Montt, Valdivia, Osorno and Punta Arenas 125,000–170,000 each.
+  - **Petén has no major city:** about 596,000 people; Flores and San Benito together about 92,000.
+- **China's pieces by window:**
+  - **Manchuria, Mongolia and Taiwan** reach 17–18 cities (the Mirny side, the Janbogo and Ross Sea cities, Concordia, Dumont d'Urville, Denison).
+  - **East Turkestan and Tibet** reach 14–15 (the Mawson and Mirny side, Concordia, Dumont d'Urville).
+  - **None reaches Byrd or Palmer City.**
+- **Run 4 needs research first:**
+  - **Pools** for Taiwan, Hong Kong, Macau, Mongolia, Austria, Guatemala, North Korea, Luxembourg and Kosovo.
+  - **Headcounts** for every new split.
+  - The plan is in `11` section 5. **Not started; the developer to say when.**
+- **Waiting for the developer:**
+  - Canada's Demilitarized Zone (*"wait until tomorrow"*).
+  - Zukelli's Italy (to whom).
+  - Kazakhstan, Uruguay and Malaysia (research later).
+  - Whether China's pieces take the decline too.
 
 ### S.1 What was done on the evening of 2026-11-01 (after the Byrd plan below)
 - **Byrd research finished:** T3, T7, T8, T9 ran together (215 of 250 budgeted searches, none refused); all 13 units written. Results in the 0.8 second-session table; status and flags in 0.9. Commit `e368cc3b`.
@@ -28,7 +152,7 @@
 - **Not blocking any run:** Dome Fuji's name (waits for the language), Neumayer's motion (deferred), wording that waits for the megasheet rewrite.
 
 ### S.3 The developer's list for 2026-11-02 (all of it stands between the cities and their runs)
-1. **All the population-related issues (15 items).** Start from `Cities/Population_Work_Prep_2026-11-02.md`. **First:** the Sinian Federation research (in the Interwar timelines "China" is the Sinian Federation and some territories fragmented away: which ones, and the successor populations). This is **real web research under LAW 0-R**, which is why this session hands over to a fresh search quota. **Then:** the developer's Russia-split rulings (research done 2026-10-29: `Research_Logs/Russia_Split_Proportions_RS1…RS4_*`), then the rebalance and the city items. **The criteria are the developer's own words** (quoted in the prep file and the Weekly To-Do; never paraphrase the direction, two drafts got it backwards before): rebalance where China clearly dominates; consider raising populations at about 5% **or more** where that makes the mix generally multicultural; populations at about 5% or less stay roughly where they are; **Zhongshan and Kunlun are exempt.** China today is first in 8 non-exempt cities and second in 8; which count as "clearly dominated" is the developer's call. **Follow-on:** every city whose figures change needs its spec table, census entry, composition-file section and datasheet rows (`Step_0`, `Step_-1`, `Phase_2`, `Phase_4`) brought into line, then the sheet check re-run; never rebuild an existing sheet with `--force`.
+1. **All the population-related issues (15 items).** ⏩ **Progress (2026-11-01, ~22:15): the successor-country populations and pool splits are computed as scratch work; start from S.0 above (the decisions), then continue below.** Start from `Cities/Population_Work_Prep_2026-11-02.md`. **First:** the Sinian Federation research (in the Interwar timelines "China" is the Sinian Federation and some territories fragmented away: which ones, and the successor populations). This is **real web research under LAW 0-R**, which is why this session hands over to a fresh search quota. **Then:** the developer's Russia-split rulings (research done 2026-10-29: `Research_Logs/Russia_Split_Proportions_RS1…RS4_*`), then the rebalance and the city items. **The criteria are the developer's own words** (quoted in the prep file and the Weekly To-Do; never paraphrase the direction, two drafts got it backwards before): rebalance where China clearly dominates; consider raising populations at about 5% **or more** where that makes the mix generally multicultural; populations at about 5% or less stay roughly where they are; **Zhongshan and Kunlun are exempt.** China today is first in 8 non-exempt cities and second in 8; which count as "clearly dominated" is the developer's call. **Follow-on:** every city whose figures change needs its spec table, census entry, composition-file section and datasheet rows (`Step_0`, `Step_-1`, `Phase_2`, `Phase_4`) brought into line, then the sheet check re-run; never rebuild an existing sheet with `--force`.
 2. **The sheets and topics that need the developer's decisions:** the Founding Register row in every Pre-Trip's Phase 2 table; the "data, not pointers" rows (75 `Phase_3` rows citing spec prose by range only, 30 `Step_3` research-pointer rows); monthly precipitation tables versus the annual text (7 cities logged: Santa Luce, Halley, Cape Adare, Dumont d'Urville, Mawson, Temirötkel, Rothera); comparison sentences inside the specs; "column" versus "row" wording in the method files; what the "(founding wave)" tag means (Rothera, Contrapunto, Pergamino, Puerto Abrigo, Palmer City); how to quote each city's own industry shares for the remaining cities (ledger SH-013); **Byrd's climate table** (options A–C) together with Byrd's precipitation question (now three figures: spec 30 mm, station gauge about 58 mm, ice accumulation 67–156 mm water equivalent).
 3. **Puerto Abrigo's "TBD" post office** (spec L219, L241 against `16` §14; ledger PA-S06). A culture claim: in hours.
 4. **The gateway labels for Zukelli and Scott** ("gateway claim not yet researched" on their Founding Register rows; start from `Research_Logs/Founding_Gateway_Research_B_Ross_Sea_2026-10-03.md` and its `B2` rerun). The Register is where founders come from: show any change to the developer before making it.

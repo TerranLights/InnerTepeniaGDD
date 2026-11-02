@@ -1,0 +1,37 @@
+unit,successor,in_china_official_figures,pop_census_2020_persons,pop_yearend_2024_10k,pop_yearend_2025_10k,grp_2024_100m_yuan,grp_per_person_2024_yuan,other_population,other_population_date,sources,note
+Beijing,Sinian Federation,yes,21893095,2183,,49843.1,228167,,,P1;P4;P5,
+Tianjin,Sinian Federation,yes,13866009,1364,,18024.3,132143,,,P1;P4;P5,
+Hebei,Sinian Federation,yes,74610235,7378,,47526.9,64352,,,P1;P4;P5,
+Shanxi,Sinian Federation,yes,34915616,3446,,25494.7,73769,,,P1;P4;P5,
+Inner Mongolia,Mongolia,yes,24049155,2388,,26314.6,110011,,,P1;P4;P5;S11,GDP order of size (over 2.6 trillion yuan) confirmed by a second source (S11)
+Liaoning,Manchuria,yes,42591407,4155,,32612.7,78236,,,P1;P4;P5,
+Jilin,Manchuria,yes,24073453,2317,,14361.2,61689,,,P1;P4;P5,
+Heilongjiang,Manchuria,yes,31850088,3029,,16476.9,54102,,,P1;P4;P5;S17,2022 (3099) and 2023 (3062) year-end figures confirmed by a second source (S17); 2024 bulletin not found
+Shanghai,Sinian Federation,yes,24870895,2480,,53926.7,217140,,,P1;P4;P5,
+Jiangsu,Sinian Federation,yes,84748016,8526,,137008.0,160694,,,P1;P4;P5,
+Zhejiang,Sinian Federation,yes,64567588,6670,6701,90130.6,135565,,,P1;P4;P5;P6;P7,
+Anhui,Sinian Federation,yes,61027171,6123,,50625.2,82694,,,P1;P4;P5,
+Fujian,Sinian Federation,yes,41540086,4193,,57761.0,137920,,,P1;P4;P5,
+Jiangxi,Sinian Federation,yes,45188635,4502,,34202.5,75862,,,P1;P4;P5,
+Shandong,Sinian Federation,yes,101527453,10080,10043,98565.8,97575,,,P1;P4;P5;P6,
+Henan,Sinian Federation,yes,99365519,9785,,63590.0,64888,,,P1;P4;P5,
+Hubei,Sinian Federation,yes,57752557,5834,,60013.0,102832,,,P1;P4;P5,
+Hunan,Sinian Federation,yes,66444864,6539,,53231.0,81225,,,P1;P4;P5,
+Guangdong,Sinian Federation,yes,126012510,12780,12859,141633.8,111146,,,P1;P4;P5;P6,
+Guangxi,Sinian Federation,yes,50126804,5013,4989,28649.4,57071,,,P1;P4;P5;P6,
+Hainan,Sinian Federation,yes,10081232,1048,1055,7935.7,75903,,,P1;P4;P5;P6,
+Chongqing,Sinian Federation,yes,32054159,3190,,32193.2,100903,,,P1;P4;P5,
+Sichuan,Sinian Federation,yes,83674866,8364,,64697.0,77333,,,P1;P4;P5,
+Guizhou,Sinian Federation,yes,38562148,3860,3857,22667.1,58685,,,P1;P4;P5;P6,
+Yunnan,Sinian Federation,yes,47209277,4655,,31534.1,67612,,,P1;P4;P5,
+Tibet (Xizang),Tibet,yes,3648100,370,,2764.9,75237,,,P1;P4;P5,
+Shaanxi,Sinian Federation,yes,39528999,3953,,35538.8,89915,,,P1;P4;P5,
+Gansu,Sinian Federation,yes,25019831,2458,2443,13002.9,52825,,,P1;P4;P5;P6,
+Qinghai,Sinian Federation,yes,5923957,593,592,3950.8,66568,,,P1;P4;P5;P6,part of the Sinian state of Qin (canon)
+Ningxia,Sinian Federation,yes,7202654,729,,5502.8,75484,,,P1;P4;P5,
+Xinjiang,East Turkestan,yes,25852345,2623,,20534.1,78660,,,P1;P4;P5;S12,2024 year-end 2622.8 (10k) confirmed by a second source (S12); GDP over 2 trillion yuan confirmed (S12)
+Mainland servicemen,(not assigned),yes,2000000,,,,,,,P1,"in the national total, in no province (P1 and P4 notes)"
+Hong Kong,Sinian Federation,no,,,,,,7500600,end-2024 (revised Aug 2025),S8,"provisional figure was 7,534,200 (Feb 2025); revised to 7,500,600"
+Macau,Sinian Federation,no,,,,,,688300,end-2024,S9,"atlas row 167 places Macau in the Federation"
+Taiwan,Taiwan,no,,,,,,23400220,end-2024,S14;S15,Ministry of the Interior figure via Taiwan News and Taipei Times
+Mongolia (present-day country),Mongolia,no,,,,,,3540000,Dec 2024,S10,"UNVERIFIED at the primary source: aggregators citing the National Statistics Office give 3.5 and 3.54 million; 1212.mn not reached"
