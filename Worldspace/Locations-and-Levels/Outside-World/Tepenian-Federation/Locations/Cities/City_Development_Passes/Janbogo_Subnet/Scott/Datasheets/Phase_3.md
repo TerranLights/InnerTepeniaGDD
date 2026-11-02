@@ -11,7 +11,7 @@
 | Category | Value | Citation |
 |---|---|---|
 | Concept-art directory status | EMPTY — `.gitkeep` only, 1 file(s) total | Checked 2026-10-21: `City_Concept-Art/Janbogo_Subnet/Scott` |
-| Megasheet Physical Infrastructure file | EXISTS — `Scott_Physical_Infrastructure_Attributes.md`, inside a folder of 7 files | ⛔ **WITHHELD corpus-wide — record the conflict, never open.** Existence checked 2026-10-21 |
+| Megasheet Physical Infrastructure file | EXISTS — `Scott_Physical_Infrastructure_Attributes.md`, inside a folder of 7 entries (6 files and 1 subfolder) | ⛔ **WITHHELD corpus-wide — record the conflict, never open.** Existence checked 2026-10-21 |
 | Per-city research folder | Checked, **none exists** for this city under `Reference/Real-World/` | Checked 2026-10-21 |
 | Spec — `## Geographic Basis` (directly-stated physical and sensory content) | Present at L71–L140; **cited by range, not quoted** — which spans are admissible is Step −1's ruling, and the section can carry comparisons and later-era phrasing | `Specs/Scott.md` L71 |
 | Spec — `## Character & Culture` | Present at L151–L172; cited by range, not quoted | `Specs/Scott.md` L151 |

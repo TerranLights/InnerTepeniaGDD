@@ -183,7 +183,7 @@ by process, since all the answers will be related to each other anyway."*
 | **Census** | `…/Cities/Official_Population_Census.md` — **Census I governs** *(`DR-4`)* |
 | ⏸️ **Local culture** | `…/Cities/Local_Cultures/Mirny_Subnet/Davis.md` — **READ LAST, at Step 5, as a CHECK** |
 | ⏸️ **Local robot culture** | `…/Cities/Local_Robot_Culture/Mirny_Subnet/Davis.md` — **READ LAST, at Step 5, as a CHECK** |
-| ⛔ ~~**Vision notes**~~ | ~~`…/Cities/City_Vision_Notes/Davis.md`~~ — **STRUCK corpus-wide, developer ruling 2026-09-13** *(`00.1a` §4.1)*. ⭐ Nothing lost: `Specs/Davis.md` **L143** is a strict superset, on better provenance |
+| ⛔ ~~**Vision notes**~~ | ~~`…/Cities/City_Vision_Notes/Davis.md`~~ — **STRUCK corpus-wide, developer ruling 2026-09-13** *(`00.1a` §4.1)*. ⭐ Nothing lost: `Specs/Mirny subnet/Davis.md` **L143** is a strict superset, on better provenance |
 | **Research log** | `…/Cities/Research_Logs/Davis_Research_Log.md` — **created at Step 3**, append-only |
 | **Picks to mine** | `…/Cities/Inspirational-Influences.md` ⚠ **not an enumerated ratified root → DEMOTED** |
 | ⛔ **Megasheets** | **WITHHELD from every run** — *due to be rewritten* |

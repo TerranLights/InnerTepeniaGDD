@@ -76,7 +76,7 @@ by process, since all the answers will be related to each other anyway."*
 
 | | |
 |---|---|
-| **Spec** | `../../../Specs/Shirayuki.md` ⚠ *its `## Character & Culture`, `## Economy & Industry` and `## Notable Locations` are conclusion-tier and were read early — `[SET-B · M-143]`* |
+| **Spec** | `../../../Specs/Mirny subnet/Shirayuki.md` ⚠ *its `## Character & Culture`, `## Economy & Industry` and `## Notable Locations` are conclusion-tier and were read early — `[SET-B · M-143]`* |
 | ⛔ **Local culture** | `../../../Local_Cultures/Mirny_Subnet/Shirayuki.md` — **READ-LAST. STILL UNOPENED.** *Step 5 reconciles against it* |
 | **Vision notes** | `../../../City_Vision_Notes/Shirayuki.md` |
 | **Research log** | `../../../Research_Logs/Shirayuki_Research_Log.md` — *Sessions 2–5; exact search strings and open threads* |
