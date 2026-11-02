@@ -1538,4 +1538,13 @@ directly underneath Kazakhstan, so that could very well be a valid option for a 
 | **Not decided** | The comparison-sentence rewrite (family D lines marked "your call" and "keep"); the tag scope (16 cities) and whether one tag or two; Rothera's "North America"; the Byrd local-culture and other downstream files that may quote the old Byrd figures (not checked); Davis's and Mirny's Pre-Trip Phase 2 rows. |
 | **Files** | `Specs/` (Byrd, Dumont d'Urville, and six more for the labels); city datasheets (`Phase_2` all, Byrd `Phase_3` and `Step_1_and_2`); 32 Pre-Trips; the six method files above; this log. |
 
+## `DR-87` · ✅ **PUERTO ABRIGO'S POST OFFICE WAS A GENUINE, ACTIVE CIVIC COURIER INSTITUTION: THE "TBD" LINES ARE CLOSED** *(2026-11-02)*
+
+| | |
+|---|---|
+| **Developer, verbatim** | Put on the developer's list for 2026-11-02 as *"Puerto Abrigo's 'TBD' post office"* and taken up in order (*"continue to go through that list in order"*). The resolution itself was already recorded in `Division_of_Industry/16_Per_City_Three_Tier_Run.md` (register item 13: *"Both the Vision Notes and the Calethina courier lore (Specs L105) settle it as a genuine, active civic institution"*) and in the spec's own unmarked background lore. |
+| **Recorded as** | The three lines that still said "TBD" now say it is settled that the post office was a genuine, active civic institution, the city's courier network node (the same one that handled the shipping behind Calethina); the real station's heritage-museum post office is a physical fact of the site only; **what stays open is the post office's state in the present-day DLC 3 landscape.** Edited in place, no line added: `Specs/Palmer subnet/Puerto_Abrigo.md` (Notable Locations and Open Questions) and `Local_Cultures/Palmer_Subnet/Puerto_Abrigo.md`. |
+| **Not decided** | The present-day state of the building; the "intelligence base" versus "territorial-claim mission" wording (left as is, ledger PA-S06). |
+| **Files** | The two files above; this log. |
+
 > 📎 **Derivation Mechanisms (line added 2026-10-29; nothing was moved).** This is a **tracking or results file: it belongs in this repo.** A snapshot copy taken 2026-10-29 sits in the universe-wide methods repo `DerivationMechanisms` at `/home/kuroskalacs/Documents/Doll-Fi/media/Reference/DerivationMechanisms/Environment/ULM [Universal Location Methodology]/from InnerTepeniaGDD/DEVELOPER_RULINGS_LOG.md`; that snapshot is not kept current and is to be cleaned out later. **If you arrived here from a line reference: the pointer sits at the very END on purpose, because inserting it mid-file would have shifted every cited line.**

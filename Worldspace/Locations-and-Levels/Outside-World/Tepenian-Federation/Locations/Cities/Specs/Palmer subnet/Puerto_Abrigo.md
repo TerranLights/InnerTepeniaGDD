@@ -229,7 +229,7 @@ Maritime trade using the natural harbor's shelter, heritage/cultural significanc
 ## Notable Locations
 - **The 1944 base structures** — Operation Tabarin's original buildings, incorporated into the exile city; still present in some form in the damage/ruin state
 - **Port Lockroy harbor** — the defining geographic feature; exceptional natural shelter for maritime traffic
-- **The post office** — Port Lockroy's real-world location had a functioning post office as its heritage museum identity; in Tepenia, whether the city maintained a post office as a civic institution or as a heritage artifact is TBD — but it's a detail worth preserving
+- **The post office** — Port Lockroy's real-world location had a functioning post office as its heritage museum identity; in Tepenia the post office is a genuine, active civic institution, the city's courier network node (settled; see the unmarked background lore above, which records it handling the shipping behind Calethina; resolved 2026-11-02, `DR-87`, from the earlier "TBD"). The real station's heritage-museum post office is a physical fact of the site only; whether the building stands, and in what state, in the present-day DLC 3 landscape is still open — and it's a detail worth preserving
 - Additional locations: TBD for DLC 3
 
 ---
@@ -251,7 +251,7 @@ Puerto Abrigo's legacy is a small harbor city that grew around structures it kep
 
 ## Open Questions
 - **The 1944 structures' survival** — what specific parts of the original Operation Tabarin installation survived into the exile era and into the game's present?
-- **The post office** — is it maintained as a functioning institution or a heritage artifact? In either case, it's a distinctive DLC 3 location
+- **The post office** — settled 2026-11-02 (`DR-87`) as a functioning civic courier institution before the war; what remains open is its state in the present-day DLC 3 landscape. It's a distinctive DLC 3 location either way
 - **The harbor traffic** — what maritime role does Puerto Abrigo play in the DLC 3 landscape? Is it a transit point for the player?
 - **Demonym** — TBD
 - **Notable figures** — TBD

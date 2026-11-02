@@ -247,7 +247,7 @@ Given the city's genuinely tiny scale, becoming a local at Puerto Abrigo happens
 
 - **The 1944 base structures** — Operation Tabarin's original buildings, incorporated into the later city rather than demolished
 - **Port Lockroy harbor** — the defining geographic feature, exceptional natural shelter for maritime traffic
-- **The post office** — inherited from the real-world heritage-museum identity; whether maintained as a functioning institution or a preserved artifact is TBD
+- **The post office** — the real-world site's heritage-museum identity is a physical fact only; in Tepenia it was a genuine, active civic courier institution, the city's courier network node (settled 2026-11-02, `DR-87`; before that this line read "TBD"). Its present-day state is open
 
 ---
 
