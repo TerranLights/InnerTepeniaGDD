@@ -6,7 +6,7 @@
 | Category | Value | Citation |
 |---|---|---|
 | Specs file location | `Cities/Specs/Halley subnet/Sanay.md` — confirmed on disk | Checked 2026-10-21 |
-| Specs file length | 202 lines total (bound for any future read-spec computation) | Counted 2026-10-21 |
+|  Specs file length | 207 lines total (bound for any future read-spec computation) | Counted 2026-10-21  |
 | Identity / designation | Sanay | `Specs/Sanay.md` L1 |
 | Real-world basis | SANAE IV (South Africa / South African National Antarctic Expedition), Vesleskarvet nunatak, Ahlmannryggen, Queen Maud Land (~71°40'S, 2°51'W) | `Specs/Sanay.md` L3 |
 | Arcanet Subnet | *[source line compares the city with other places; not copied, line number recorded only]* | `Specs/Sanay.md` L6 |
@@ -15,7 +15,7 @@
 | Significance | *[source line excluded: later-era content, outside the Second Interwar default scope; not copied]* | `Specs/Sanay.md` L9 |
 | Coordinates (as written in the same field) | ~71°40'S, 2°51'W | `Specs/Sanay.md` L3 |
 | Specs `Status:` field | States a later-era condition; per the standing default-scope rule (`00_RUNBOOK.md`, the Second Interwar default) this is **never an input** to a Second Interwar pass — not copied | `Specs/Sanay.md` L5 |
-| Later-era sections present in the Specs file (same exclusion as `Status:`) | 3 section(s), by heading position: L179, L184, L192 — not copied, not described | `Specs/Sanay.md` L184, L189, L197 |
+|  Later-era sections present in the Specs file (same exclusion as `Status:`) | 3 section(s), by heading position: L184, L189, L197 — not copied, not described | `Specs/Sanay.md` L184, L189, L197  |
 | Census I (spec's own line) | 258,646 humans / 257,143 robots / **515,789** combined | `Specs/Sanay.md` L16 |
 | Census II (spec's own line) | 162,476 humans / 148,520 robots / **310,996** combined | `Specs/Sanay.md` L17 |
 

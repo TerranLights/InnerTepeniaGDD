@@ -11,7 +11,7 @@
 | Category | Value | Citation |
 |---|---|---|
 | Specs file location | `Cities/Specs/Mirny subnet/Casey.md` — confirmed on disk | Re-verified this turn |
-| Specs file length | 221 lines total (bound for any future read-spec computation) | Re-verified this turn |
+|  Specs file length | 250 lines total (bound for any future read-spec computation) | Re-verified this turn  |
 | Identity / designation | Casey | `Specs/Casey.md` L1 |
 | Real-world basis | Casey Station (Australia), Budd Coast, Wilkes Land | `Specs/Casey.md` L3 |
 | Coordinates | ~66°16′S, 110°32′E | `Specs/Casey.md` L3 |

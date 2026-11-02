@@ -20,8 +20,8 @@
 
 | Category | Value | Citation |
 |---|---|---|
-| `Upper_Earth_Immigration_Composition.md` — the city's own section (the registered composition address) | Present at L593–L599: the heading `### Davis` (L593) and the tier table (L595–L599). **Cited by range, not quoted**: which spans are admissible is Step −1's ruling | `Upper_Earth_Immigration_Composition.md` L593–L543 |
-| `Upper_Earth_Immigration_Composition.md` — the solar-UTC rule | Present at L28–L35: the list headed "Recording it so it stops being reconstructed from examples" (rule 1, a city's solar UTC = round(longitude ÷ 15), at L30), under the heading at L23. **Cited by range, not quoted** | `Upper_Earth_Immigration_Composition.md` L23, L28–L33 |
+|  `Upper_Earth_Immigration_Composition.md` — the city's own section (the registered composition address) | Present at L593–L599: the heading `### Davis` (L593) and the tier table (L595–L599). **Cited by range, not quoted**: which spans are admissible is Step −1's ruling | `Upper_Earth_Immigration_Composition.md` L593–L599  |
+| `Upper_Earth_Immigration_Composition.md` — the solar-UTC rule | Present at L28–L35: the list headed "Recording it so it stops being reconstructed from examples" (rule 1, a city's solar UTC = round(longitude ÷ 15), at L30), under the heading at L23. **Cited by range, not quoted** | `Upper_Earth_Immigration_Composition.md` L23, L28–L35 |
 
 ## T8-reported — quoted by today's readers, not yet independently re-confirmed at the byte level by me
 

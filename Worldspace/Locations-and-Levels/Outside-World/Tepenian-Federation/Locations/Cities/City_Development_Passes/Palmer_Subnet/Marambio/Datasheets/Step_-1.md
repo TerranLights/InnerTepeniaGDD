@@ -6,7 +6,7 @@
 | Category | Value | Citation |
 |---|---|---|
 | Specs file location | `Cities/Specs/Palmer subnet/Marambio.md` — confirmed on disk | Checked 2026-10-21 |
-| Specs file length | 232 lines total (bound for any future read-spec computation) | Counted 2026-10-21 |
+|  Specs file length | 249 lines total (bound for any future read-spec computation) | Counted 2026-10-21  |
 | Identity / designation | Marambio | `Specs/Marambio.md` L1 |
 | Real-world basis | Marambio Base (Argentina), Seymour Island (Isla Marambio), Weddell Sea, Antarctic Peninsula (~64°14'S, 56°37'W) | `Specs/Marambio.md` L3 |
 | Arcanet Subnet | Palmer ("American") | `Specs/Marambio.md` L5 |
@@ -15,7 +15,7 @@
 | Significance | *[source line compares the city with other places; not copied, line number recorded only]* | `Specs/Marambio.md` L8 |
 | Coordinates (as written in the same field) | ~64°14'S, 56°37'W | `Specs/Marambio.md` L3 |
 | Specs `Status:` field | States a later-era condition; per the standing default-scope rule (`00_RUNBOOK.md`, the Second Interwar default) this is **never an input** to a Second Interwar pass — not copied | `Specs/Marambio.md` L4 |
-| Later-era sections present in the Specs file (same exclusion as `Status:`) | 2 section(s), by heading position: L218, L223 — not copied, not described | `Specs/Marambio.md` L235, L240 |
+|  Later-era sections present in the Specs file (same exclusion as `Status:`) | 2 section(s), by heading position: L235, L240 — not copied, not described | `Specs/Marambio.md` L235, L240  |
 | Census I (spec's own line) | 283,442 humans / 286,827 robots / **570,269** combined *(the spec's "island cap" tag was removed 2026-10-31)* | `Specs/Marambio.md` L15 |
 | Census II (spec's own line) | 195,623 humans / 234,522 robots / **430,145** combined *(the spec's "island cap" tag was removed 2026-10-31)* | `Specs/Marambio.md` L16 |
 

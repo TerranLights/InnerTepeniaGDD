@@ -7,7 +7,7 @@
 | Category | Value | Citation |
 |---|---|---|
 | Specs file location | `Cities/Specs/Mawson subnet/Mawson.md` — confirmed on disk | Checked 2026-10-21 |
-| Specs file length | 184 lines total (bound for any future read-spec computation) | Counted 2026-10-21 |
+|  Specs file length | 194 lines total (bound for any future read-spec computation) | Counted 2026-10-21  |
 | Identity / designation | Mawson | `Specs/Mawson.md` L1 |
 | Real-world basis | Mawson Station (Australia / Australian Antarctic Division), Horseshoe Harbor, Holme Bay, Mac.Robertson Land (~67°36'S, 62°53'E) | `Specs/Mawson.md` L3 |
 | Arcanet Subnet | Mawson (hub city) | `Specs/Mawson.md` L5 |
@@ -16,7 +16,7 @@
 | Significance | Arcanet hub for the Mawson subnet; named after Sir Douglas Mawson — St. Douglas in the Tepenian Saints framework, the greatest Australian polar explorer; Mac.Robertson Land was named after Macpherson Robertson, the Australian confectioner who funded the 1929-31 BANZARE expedition; gateway to the western Mawson subnet | `Specs/Mawson.md` L8 |
 | Coordinates (as written in the same field) | ~67°36'S, 62°53'E | `Specs/Mawson.md` L3 |
 | Specs `Status:` field | States a later-era condition; per the standing default-scope rule (`00_RUNBOOK.md`, the Second Interwar default) this is **never an input** to a Second Interwar pass — not copied | `Specs/Mawson.md` L4 |
-| Later-era sections present in the Specs file (same exclusion as `Status:`) | 2 section(s), by heading position: L167, L172 — not copied, not described | `Specs/Mawson.md` L177, L182 |
+|  Later-era sections present in the Specs file (same exclusion as `Status:`) | 2 section(s), by heading position: L177, L182 — not copied, not described | `Specs/Mawson.md` L177, L182  |
 | Census I (spec's own line) | 736,799 humans / 762,053 robots / **1,498,852** combined | `Specs/Mawson.md` L15 |
 | Census II (spec's own line) | 443,999 humans / 544,326 robots / **988,325** combined | `Specs/Mawson.md` L16 |
 

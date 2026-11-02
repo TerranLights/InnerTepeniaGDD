@@ -14,7 +14,7 @@
 | Category | Value | Citation |
 |---|---|---|
 | Specs file location | `Cities/Specs/Janbogo subnet/Dumont_dUrville.md` — confirmed on disk at the current path | Re-verified this turn |
-| Specs file length | 255 lines total (bound for any future read-spec computation) | Re-verified this turn |
+|  Specs file length | 271 lines total (bound for any future read-spec computation) | Re-verified this turn  |
 | Identity / designation | Dumont d'Urville | `Specs/Dumont_dUrville.md` L1 |
 | Real-world basis | Dumont d'Urville Station (France), Petrel Island, Géologie Archipelago, Adélie Land, East Antarctica | `Specs/Dumont_dUrville.md` L3 |
 | Coordinates | ~66°40′S, 140°01′E | `Specs/Dumont_dUrville.md` L3 |

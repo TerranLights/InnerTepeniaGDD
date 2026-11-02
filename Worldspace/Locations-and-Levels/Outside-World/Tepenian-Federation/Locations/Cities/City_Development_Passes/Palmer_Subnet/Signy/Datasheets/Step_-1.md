@@ -6,7 +6,7 @@
 | Category | Value | Citation |
 |---|---|---|
 | Specs file location | `Cities/Specs/Palmer subnet/Signy.md` — confirmed on disk | Checked 2026-10-21 |
-| Specs file length | 297 lines total (bound for any future read-spec computation) | Counted 2026-10-21 |
+|  Specs file length | 309 lines total (bound for any future read-spec computation) | Counted 2026-10-21  |
 | Identity / designation | Signy | `Specs/Signy.md` L1 |
 | Real-world basis | Signy Research Station (UK / British Antarctic Survey), Signy Island, South Orkney Islands, Scotia Sea (~60°43'S, 45°36'W) | `Specs/Signy.md` L3 |
 | Arcanet Subnet | Palmer ("American") | `Specs/Signy.md` L5 |
@@ -16,7 +16,7 @@
 | Significance | *[source line compares the city with other places; not copied, line number recorded only]* | `Specs/Signy.md` L9 |
 | Coordinates (as written in the same field) | ~60°43'S, 45°36'W | `Specs/Signy.md` L3 |
 | Specs `Status:` field | States a later-era condition; per the standing default-scope rule (`00_RUNBOOK.md`, the Second Interwar default) this is **never an input** to a Second Interwar pass — not copied | `Specs/Signy.md` L4 |
-| Later-era sections present in the Specs file (same exclusion as `Status:`) | 2 section(s), by heading position: L279, L284 — not copied, not described | `Specs/Signy.md` L291, L296 |
+|  Later-era sections present in the Specs file (same exclusion as `Status:`) | 2 section(s), by heading position: L291, L296 — not copied, not described | `Specs/Signy.md` L291, L296  |
 | Census I (spec's own line) | 93,134 humans / 95,560 robots / **188,694** combined *(the spec's "island cap" tag was removed 2026-10-31)* | `Specs/Signy.md` L26 |
 | Census II (spec's own line) | 53,928 humans / 79,827 robots / **133,755** combined *(the spec's "island cap" tag was removed 2026-10-31)* | `Specs/Signy.md` L27 |
 

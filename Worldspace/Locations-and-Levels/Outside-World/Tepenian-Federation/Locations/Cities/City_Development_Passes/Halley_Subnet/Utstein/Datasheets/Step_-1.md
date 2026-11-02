@@ -6,7 +6,7 @@
 | Category | Value | Citation |
 |---|---|---|
 | Specs file location | `Cities/Specs/Halley subnet/Utstein.md` — confirmed on disk | Checked 2026-10-21 |
-| Specs file length | 205 lines total (bound for any future read-spec computation) | Counted 2026-10-21 |
+|  Specs file length | 221 lines total (bound for any future read-spec computation) | Counted 2026-10-21  |
 | Identity / designation | Utstein | `Specs/Utstein.md` L1 |
 | Rename notice at the top of the spec | Present — the notice text is in the spec (not copied: it names the earlier name and its reasons; read it there) | `Specs/Utstein.md` L3 |
 | Real-world basis | Princess Elisabeth Antarctica (Belgium / International Polar Foundation), Utsteinen nunatak, Sør Rondane Mountains, Queen Maud Land (~71°57'S, 23°21'E) | `Specs/Utstein.md` L5 |
@@ -16,7 +16,7 @@
 | Significance | *[source line excluded: later-era content, outside the Second Interwar default scope; not copied]* | `Specs/Utstein.md` L10 |
 | Coordinates (as written in the same field) | ~71°57'S, 23°21'E | `Specs/Utstein.md` L5 |
 | Specs `Status:` field | States a later-era condition; per the standing default-scope rule (`00_RUNBOOK.md`, the Second Interwar default) this is **never an input** to a Second Interwar pass — not copied | `Specs/Utstein.md` L6 |
-| Later-era sections present in the Specs file (same exclusion as `Status:`) | 3 section(s), by heading position: L178, L183, L191 — not copied, not described | `Specs/Utstein.md` L194, L199, L207 |
+|  Later-era sections present in the Specs file (same exclusion as `Status:`) | 3 section(s), by heading position: L194, L199, L207 — not copied, not described | `Specs/Utstein.md` L194, L199, L207  |
 | Census I (spec's own line) | 580,839 humans / 609,199 robots / **1,190,038** combined | `Specs/Utstein.md` L23 |
 | Census II (spec's own line) | 418,082 humans / 384,561 robots / **802,643** combined | `Specs/Utstein.md` L24 |
 

@@ -7,7 +7,7 @@
 | Category | Value | Citation |
 |---|---|---|
 | Specs file location | `Cities/Specs/Janbogo subnet/Scott.md` — confirmed on disk | Checked 2026-10-21 |
-| Specs file length | 229 lines total (bound for any future read-spec computation) | Counted 2026-10-21 |
+|  Specs file length | 246 lines total (bound for any future read-spec computation) | Counted 2026-10-21  |
 | Identity / designation | Scott | `Specs/Scott.md` L1 |
 | Real-world basis | Scott Base (New Zealand), Hut Point Peninsula, Ross Island (~77°51'S, 166°46'E) | `Specs/Scott.md` L3 |
 | Arcanet Subnet | Janbogo | `Specs/Scott.md` L5 |
@@ -16,7 +16,7 @@
 | Significance | Fort McMurdo's immediate neighbor and longtime partner; smaller, more intimate counterpart to the Federation's largest industrial city *(⛔ GPS violation removed 2026-09-05: this field opened with a claim that the Tepenian city belongs to a real-world nation. **The real-world basis is a COORDINATE, never a cause or an identity.** The city's own character comes from its relationship to Fort McMurdo, which is what remains.)* | `Specs/Scott.md` L8 |
 | Coordinates (as written in the same field) | ~77°51'S, 166°46'E | `Specs/Scott.md` L3 |
 | Specs `Status:` field | States a later-era condition; per the standing default-scope rule (`00_RUNBOOK.md`, the Second Interwar default) this is **never an input** to a Second Interwar pass — not copied | `Specs/Scott.md` L4 |
-| Later-era sections present in the Specs file (same exclusion as `Status:`) | 3 section(s), by heading position: L198, L206, L212 — not copied, not described | `Specs/Scott.md` L215, L223, L229 |
+|  Later-era sections present in the Specs file (same exclusion as `Status:`) | 3 section(s), by heading position: L215, L223, L229 — not copied, not described | `Specs/Scott.md` L215, L223, L229  |
 | Census I (spec's own line) | 189,817 humans / 196,194 robots / **386,011** combined *(island cap)* | `Specs/Scott.md` L15 |
 | Census II (spec's own line) | 153,382 humans / 160,252 robots / **313,634** combined *(island cap)* | `Specs/Scott.md` L16 |
 

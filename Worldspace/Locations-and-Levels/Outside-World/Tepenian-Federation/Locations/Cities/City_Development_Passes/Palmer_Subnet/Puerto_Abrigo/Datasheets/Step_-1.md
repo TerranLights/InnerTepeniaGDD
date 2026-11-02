@@ -6,7 +6,7 @@
 | Category | Value | Citation |
 |---|---|---|
 | Specs file location | `Cities/Specs/Palmer subnet/Puerto_Abrigo.md` — confirmed on disk | Checked 2026-10-21 |
-| Specs file length | 244 lines total (bound for any future read-spec computation) | Counted 2026-10-21 |
+|  Specs file length | 257 lines total (bound for any future read-spec computation) | Counted 2026-10-21  |
 | Identity / designation | Puerto Abrigo | `Specs/Puerto_Abrigo.md` L1 |
 | Rename notice at the top of the spec | Present — the notice text is in the spec (not copied: it names the earlier name and its reasons; read it there) | `Specs/Puerto_Abrigo.md` L3 |
 | Real-world basis | Port Lockroy (UK Antarctic Heritage Trust / Operation Tabarin), Goudier Island, Port Lockroy harbor, Wiencke Island, Antarctic Peninsula (~64°49'S, 63°29'W) | `Specs/Puerto_Abrigo.md` L5 |
@@ -16,7 +16,7 @@
 | Significance | *[source line excluded: later-era content, outside the Second Interwar default scope; not copied]* | `Specs/Puerto_Abrigo.md` L10 |
 | Coordinates (as written in the same field) | ~64°49'S, 63°29'W | `Specs/Puerto_Abrigo.md` L5 |
 | Specs `Status:` field | States a later-era condition; per the standing default-scope rule (`00_RUNBOOK.md`, the Second Interwar default) this is **never an input** to a Second Interwar pass — not copied | `Specs/Puerto_Abrigo.md` L6 |
-| Later-era sections present in the Specs file (same exclusion as `Status:`) | 2 section(s), by heading position: L229, L234 — not copied, not described | `Specs/Puerto_Abrigo.md` L242, L247 |
+|  Later-era sections present in the Specs file (same exclusion as `Status:`) | 2 section(s), by heading position: L242, L247 — not copied, not described | `Specs/Puerto_Abrigo.md` L242, L247  |
 | Census I (spec's own line) | 457 humans / 472 robots / **929** combined *(the spec's "island cap" tag was removed 2026-10-31)* | `Specs/Puerto_Abrigo.md` L25 |
 | Census II (spec's own line) | 387 humans / 304 robots / **691** combined *(the spec's "island cap" tag was removed 2026-10-31)* | `Specs/Puerto_Abrigo.md` L26 |
 

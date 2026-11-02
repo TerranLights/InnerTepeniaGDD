@@ -6,7 +6,7 @@
 | Category | Value | Citation |
 |---|---|---|
 | Specs file location | `Cities/Specs/Halley subnet/Neumayer.md` — confirmed on disk | Checked 2026-10-21 |
-| Specs file length | 186 lines total (bound for any future read-spec computation) | Counted 2026-10-21 |
+|  Specs file length | 198 lines total (bound for any future read-spec computation) | Counted 2026-10-21  |
 | Identity / designation | Neumayer | `Specs/Neumayer.md` L1 |
 | Real-world basis | Neumayer Station III (Germany / Alfred Wegener Institute), Ekström Ice Shelf, Queen Maud Land (~70°41'S, 8°16'W) | `Specs/Neumayer.md` L3 |
 | Arcanet Subnet | Halley ("Atlantic") | `Specs/Neumayer.md` L5 |
@@ -15,7 +15,7 @@
 | Significance | Named after Georg von Neumayer (1826–1909), German oceanographer, navigator, and polar research champion; built on the Ekström Ice Shelf rather than on bedrock, which has structural implications for long-term city stability; one of the Halley subnet's primary scientific hubs; independently developed its own research mission focus (atmospheric science, glaciology, oceanography) — a convergence with the original AWI program's own focus, not an inheritance from it *(corrected 2026-07-24, GPS-purposes-only pass)* | `Specs/Neumayer.md` L8 |
 | Coordinates (as written in the same field) | ~70°41'S, 8°16'W | `Specs/Neumayer.md` L3 |
 | Specs `Status:` field | States a later-era condition; per the standing default-scope rule (`00_RUNBOOK.md`, the Second Interwar default) this is **never an input** to a Second Interwar pass — not copied | `Specs/Neumayer.md` L4 |
-| Later-era sections present in the Specs file (same exclusion as `Status:`) | 2 section(s), by heading position: L172, L177 — not copied, not described | `Specs/Neumayer.md` L184, L189 |
+|  Later-era sections present in the Specs file (same exclusion as `Status:`) | 2 section(s), by heading position: L184, L189 — not copied, not described | `Specs/Neumayer.md` L184, L189  |
 | Census I (spec's own line) | 640,806 humans / 663,395 robots / **1,304,201** combined | `Specs/Neumayer.md` L15 |
 | Census II (spec's own line) | 401,750 humans / 464,878 robots / **866,628** combined | `Specs/Neumayer.md` L16 |
 

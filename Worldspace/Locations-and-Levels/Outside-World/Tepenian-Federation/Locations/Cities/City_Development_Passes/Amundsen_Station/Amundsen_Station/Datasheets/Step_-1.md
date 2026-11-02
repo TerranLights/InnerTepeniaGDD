@@ -6,7 +6,7 @@
 | Category | Value | Citation |
 |---|---|---|
 | Specs file location | `Cities/Specs/Amundsen-Scott subnet/Amundsen_Station.md` — confirmed on disk | Checked 2026-10-21 |
-| Specs file length | 230 lines total (bound for any future read-spec computation) | Counted 2026-10-21 |
+|  Specs file length | 249 lines total (bound for any future read-spec computation) | Counted 2026-10-21  |
 | Identity / designation | Amundsen Station | `Specs/Amundsen_Station.md` L1 |
 | Real-world basis | Amundsen-Scott South Pole Station (USA), Geographic South Pole (90°00'S) | `Specs/Amundsen_Station.md` L3 |
 | Arcanet Subnet | *[source line excluded: later-era content, outside the Second Interwar default scope; not copied]* | `Specs/Amundsen_Station.md` L5 |
@@ -15,7 +15,7 @@
 | Significance | The geographic South Pole; former inter-subnet Arcanet relay; *[one clause excluded: later-era content, outside the Second Interwar default scope; not copied]*; site of the Amundsen Tower (space elevator); *[two further clauses excluded: later-era content, outside the Second Interwar default scope; not copied]* | `Specs/Amundsen_Station.md` L8 |
 | Coordinates (as written in the same field) | 90°00'S | `Specs/Amundsen_Station.md` L3 |
 | Specs `Status:` field | States a later-era condition; per the standing default-scope rule (`00_RUNBOOK.md`, the Second Interwar default) this is **never an input** to a Second Interwar pass — not copied | `Specs/Amundsen_Station.md` L4 |
-| Later-era sections present in the Specs file (same exclusion as `Status:`) | 3 section(s), by heading position: L191, L201, L213 — not copied, not described | `Specs/Amundsen_Station.md` L210, L220, L232 |
+|  Later-era sections present in the Specs file (same exclusion as `Status:`) | 3 section(s), by heading position: L210, L220, L232 — not copied, not described | `Specs/Amundsen_Station.md` L210, L220, L232  |
 | Census I (spec's own line) | 1,121 humans / 5,736 robots / **6,857** combined *(~84% robot)* | `Specs/Amundsen_Station.md` L14 |
 | Census II (spec's own line) | 913 humans / 3,978 robots / **4,891** combined *(~81% robot; skeleton crew)* | `Specs/Amundsen_Station.md` L15 |
 

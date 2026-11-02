@@ -6,7 +6,7 @@
 | Category | Value | Citation |
 |---|---|---|
 | Specs file location | `Cities/Specs/Mirny subnet/Relung_Panen.md` — confirmed on disk | Checked 2026-10-29 |
-| Specs file length | 295 lines total (bound for any future read-spec computation) | Counted 2026-10-29 |
+|  Specs file length | 321 lines total (bound for any future read-spec computation) | Counted 2026-10-29  |
 | Identity / designation | Relung Panen | `Specs/Relung_Panen.md` L1 |
 | Rename notice at the top of the spec | Present — the notice text is in the spec (not copied: it names the earlier name and its reasons; read it there) | `Specs/Relung_Panen.md` L3 |
 | Real-world basis | Bunger Hills oasis, Knox Coast, Wilkes Land, East Antarctica (~66°15'S, 100°45'E) *(corrected 2026-10-03: the Australian Antarctic Data Center gazetteer places the oasis "at the western end of Knox Coast in Wilkes Land"; "Queen Mary" belongs only to the Shackleton Ice Shelf in front of it)* | `Specs/Relung_Panen.md` L8 |
@@ -17,7 +17,7 @@
 | Significance | *[source line compares the city with other places; not copied, line number recorded only]* | `Specs/Relung_Panen.md` L14 |
 | Coordinates (as written in the same field) | ~66°15'S, 100°45'E | `Specs/Relung_Panen.md` L8 |
 | Specs `Status:` field | States a later-era condition; per the standing default-scope rule (`00_RUNBOOK.md`, the Second Interwar default) this is **never an input** to a Second Interwar pass — not copied | `Specs/Relung_Panen.md` L9 |
-| Later-era sections present in the Specs file (same exclusion as `Status:`) | 3 section(s), by heading position: L263, L269, L276 — not copied, not described | `Specs/Relung_Panen.md` L289, L295, L302 |
+|  Later-era sections present in the Specs file (same exclusion as `Status:`) | 3 section(s), by heading position: L289, L295, L302 — not copied, not described | `Specs/Relung_Panen.md` L289, L295, L302  |
 | Census I (spec's own line) | 492,215 humans / 507,856 robots / **1,000,071** combined *(was 465,147 / 482,807 / 947,954; census updated 2026-10-28, `DR-68`)* | `Specs/Relung_Panen.md` L20 |
 | Census II (spec's own line) | 349,521 humans / 364,524 robots / **714,045** combined *(was 332,844 / 345,324 / 678,168)* *(retention 71.4%; corrected from 71.5% 2026-10-30, 714,045 ÷ 1,000,071 = 71.41%)* | `Specs/Relung_Panen.md` L21 |
 

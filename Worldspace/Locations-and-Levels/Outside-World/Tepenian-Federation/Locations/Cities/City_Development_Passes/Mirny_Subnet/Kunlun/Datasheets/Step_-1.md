@@ -28,7 +28,7 @@
 | Category | Value | Citation |
 |---|---|---|
 | Specs file location | `Cities/Specs/Mirny subnet/Kunlun.md` — confirmed on disk at the current (post-reorg) path | Re-verified this turn |
-| Specs file length | 250 lines total (bound for any future read-spec computation) | Re-verified this turn |
+|  Specs file length | 261 lines total (bound for any future read-spec computation) | Re-verified this turn  |
 | Identity / designation | Kunlun | `Specs/Kunlun.md` L1 |
 | Real-world basis | Kunlun Station (China / CHINARE), Dome A (Dome Argus), East Antarctic Plateau | `Specs/Kunlun.md` L20 |
 | Coordinates | ~80°25′S, 77°07′E | `Specs/Kunlun.md` L20 |

@@ -7,7 +7,7 @@
 | Category | Value | Citation |
 |---|---|---|
 | Specs file location | `Cities/Specs/Mawson subnet/Dome_Fuji.md` — confirmed on disk | Checked 2026-10-21 |
-| Specs file length | 269 lines total (bound for any future read-spec computation) | Counted 2026-10-21 |
+|  Specs file length | 304 lines total (bound for any future read-spec computation) | Counted 2026-10-21  |
 | Identity / designation | Dome Fuji | `Specs/Dome_Fuji.md` L1 |
 | Real-world basis | Dome Fuji Station (Japan / JARE), East Antarctic Plateau, near Valkyrie Dome (~77°19'S, 39°42'E) | `Specs/Dome_Fuji.md` L30 |
 | Seed-vault block (spec L3–27, `[CGRM 2026-09-02 · Path 6 · developer ruling]`) | Named so that Step −1 can rule on it; whether it is admissible is Step −1's call. Nothing is quoted here | `Specs/Dome_Fuji.md` L3–27 |
@@ -18,7 +18,7 @@
 | Significance | *[source line excluded: later-era content, outside the Second Interwar default scope; not copied]* | `Specs/Dome_Fuji.md` L35 |
 | Coordinates (as written in the same field) | ~77°19'S, 39°42'E | `Specs/Dome_Fuji.md` L30 |
 | Specs `Status:` field | States a later-era condition; per the standing default-scope rule (`00_RUNBOOK.md`, the Second Interwar default) this is **never an input** to a Second Interwar pass — not copied | `Specs/Dome_Fuji.md` L31 |
-| Later-era sections present in the Specs file (same exclusion as `Status:`) | 3 section(s), by heading position: L242, L248, L254 — not copied, not described | `Specs/Dome_Fuji.md` L277, L283, L289 |
+|  Later-era sections present in the Specs file (same exclusion as `Status:`) | 3 section(s), by heading position: L277, L283, L289 — not copied, not described | `Specs/Dome_Fuji.md` L277, L283, L289  |
 | Census I (spec's own line) | 0 humans / 80,120 robots / **80,120** combined *(entirely robot; new 2026-07-04)* | `Specs/Dome_Fuji.md` L43 |
 | Census II (spec's own line) | Not yet computed for this city (see `Official_Population_Census.md`) | `Specs/Dome_Fuji.md` L44 |
 

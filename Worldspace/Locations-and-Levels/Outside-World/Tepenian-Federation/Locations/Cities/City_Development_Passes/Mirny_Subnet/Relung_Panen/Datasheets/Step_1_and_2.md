@@ -11,14 +11,14 @@
 |---|---|---|
 | Universe repo `Worldspace/Locations/` — directory enumerated | 4 `.md` files read; **0 name the city** | `…/Worldspace/Locations/` (enumerated 2026-10-29) |
 | `Access type:` | SPUR | `Specs/Relung_Panen.md` L11 |
-| Spec climate — climate data source | *AWS, White Smoke Lake, Bunger Hills oasis (Jan 1992 – Jul 1993) for the annual anchors; monthly distribution constructed against [two other cities named in the source: not copied] — full research record and provenance in `../../Relung_Panen/Climate.md`* *(link corrected in the source 2026-10-30)* | `Specs/Relung_Panen.md` L135–L111 |
-| Spec climate — climate type | **East Antarctic coastal OASIS, shelf-sealed** — *ice-free basin terrain; cut off from open sea by 64–145 km of ice shelf, so it carries a continental temperature range at a coastal latitude.* | `Specs/Relung_Panen.md` L139–L114 |
+| Spec climate — climate data source | *AWS, White Smoke Lake, Bunger Hills oasis (Jan 1992 – Jul 1993) for the annual anchors; monthly distribution constructed against [two other cities named in the source: not copied] — full research record and provenance in `../../Relung_Panen/Climate.md`* *(link corrected in the source 2026-10-30)* | `Specs/Relung_Panen.md` L135 |
+| Spec climate — climate type | **East Antarctic coastal OASIS, shelf-sealed** — *ice-free basin terrain; cut off from open sea by 64–145 km of ice shelf, so it carries a continental temperature range at a coastal latitude.* | `Specs/Relung_Panen.md` L139 |
 | Spec climate — mean annual temperature | *[source line compares the city with other places; not copied, line number recorded only]* | `Specs/Relung_Panen.md` L142 |
 | Spec climate — prevailing winds | *[source line compares the city with other places; not copied, line number recorded only]* | `Specs/Relung_Panen.md` L143 |
 | Spec climate — record extremes | ⚠ **ESTIMATED — record high approximately +12 °C; record low approximately −39 °C** | `Specs/Relung_Panen.md` L147 |
 | Spec climate — temperature range | coldest month **−18.7 °C**; warmest month **+0.6 °C**; **annual amplitude 19.3 K** | `Specs/Relung_Panen.md` L149 |
 | Spec climate — polar night | ⛔ **none** — *at 66°15'S the sun rises every day of the year; the June minimum is ~2.7 h* | `Specs/Relung_Panen.md` L151 |
-| Spec climate — midnight sun | ⚠ **in minimal form only** — *the site lies **18 arcmin NORTH of the Antarctic Circle**, so geometrically it gets none; with atmospheric refraction and the sun's upper limb the December disc does not quite set for a few days around the solstice* | `Specs/Relung_Panen.md` L152–L128 |
+| Spec climate — midnight sun | ⚠ **in minimal form only** — *the site lies **18 arcmin NORTH of the Antarctic Circle**, so geometrically it gets none; with atmospheric refraction and the sun's upper limb the December disc does not quite set for a few days around the solstice* | `Specs/Relung_Panen.md` L152 |
 | Spec climate — winter solstice daylight minimum | approximately **2.7 hours** | `Specs/Relung_Panen.md` L155 |
 | Spec climate — summer solstice daylight maximum | approximately **24 hours** *(refracted; ~22.4 h geometric)* | `Specs/Relung_Panen.md` L156 |
 | Spec climate — annual precipitation | *[source line compares the city with other places; not copied, line number recorded only]* | `Specs/Relung_Panen.md` L157 |
@@ -26,7 +26,7 @@
 | Spec climate — falls (reaches the surface) | ~92 mm/yr | `Specs/Relung_Panen.md` L164 |
 | Spec climate — lands (accumulates and stays) | **~60 mm/yr** *(~65% retention)* | `Specs/Relung_Panen.md` L165 |
 | Spec climate — lost to sublimation and wind transport | ~32 mm/yr | `Specs/Relung_Panen.md` L166 |
-| Spec climate — hardcore mode influences | ⏸️ **TBD** — *but the distinctive axis is already visible: **wet cold rather than dry cold**, saturation and freeze–thaw rather than exposure and scour.* | `Specs/Relung_Panen.md` L215–L190 |
+| Spec climate — hardcore mode influences | ⏸️ **TBD** — *but the distinctive axis is already visible: **wet cold rather than dry cold**, saturation and freeze–thaw rather than exposure and scour.* | `Specs/Relung_Panen.md` L215 |
 | Climate source | No BAS READER station exists at this coordinate; the city's own `Climate.md` is the climate file (its §4 records the sources tried) | `Climate.md` L1 |
 | ⚠ Second station record — the Oasis station, 1956–58 (a different record from the White Smoke Lake AWS above) | Mean annual air temperature is −9.0 °C. Monthly means are above 0 °C only in December (+1.7 °C) and January (+1.8 °C). | `Relung_Panen_Soil_Research_2026-10-25_E_Oasis_Ground_Water_and_Light.md` L26 |
 | ↳ Oasis station, 1956–58 — precipitation | Precipitation is 204 mm a year from an uncorrected gauge, which the source says overstates the true amount. Potential evaporation is 450–600 mm a year. | `Relung_Panen_Soil_Research_2026-10-25_E_Oasis_Ground_Water_and_Light.md` L27 |

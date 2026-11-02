@@ -7,7 +7,7 @@
 | Category | Value | Citation |
 |---|---|---|
 | Specs file location | `Cities/Specs/Janbogo subnet/Janbogo.md` — confirmed on disk | Checked 2026-10-21 |
-| Specs file length | 219 lines total (bound for any future read-spec computation) | Counted 2026-10-21 |
+|  Specs file length | 238 lines total (bound for any future read-spec computation) | Counted 2026-10-21  |
 | Identity / designation | Janbogo | `Specs/Janbogo.md` L1 |
 | Real-world basis | Jang Bogo Station (Unified Korea), Terra Nova Bay, Ross Sea (~74°37'S, 164°13'E) | `Specs/Janbogo.md` L3 |
 | Arcanet Subnet | Janbogo — subnet hub | `Specs/Janbogo.md` L5 |
@@ -16,7 +16,7 @@
 | Significance | *[source line excluded: later-era content, outside the Second Interwar default scope; not copied]* | `Specs/Janbogo.md` L8 |
 | Coordinates (as written in the same field) | ~74°37'S, 164°13'E | `Specs/Janbogo.md` L3 |
 | Specs `Status:` field | States a later-era condition; per the standing default-scope rule (`00_RUNBOOK.md`, the Second Interwar default) this is **never an input** to a Second Interwar pass — not copied | `Specs/Janbogo.md` L4 |
-| Later-era sections present in the Specs file (same exclusion as `Status:`) | 3 section(s), by heading position: L182, L195, L203 — not copied, not described | `Specs/Janbogo.md` L201, L214, L222 |
+|  Later-era sections present in the Specs file (same exclusion as `Status:`) | 3 section(s), by heading position: L201, L214, L222 — not copied, not described | `Specs/Janbogo.md` L201, L214, L222  |
 | Census I (spec's own line) | 673,610 humans / 689,019 robots / **1,362,629** combined | `Specs/Janbogo.md` L15 |
 | Census II (spec's own line) | 507,242 humans / 486,208 robots / **993,450** combined | `Specs/Janbogo.md` L16 |
 

@@ -6,7 +6,7 @@
 | Category | Value | Citation |
 |---|---|---|
 | Specs file location | `Cities/Specs/Palmer subnet/Pergamino.md` — confirmed on disk | Checked 2026-10-21 |
-| Specs file length | 208 lines total (bound for any future read-spec computation) | Counted 2026-10-21 |
+|  Specs file length | 226 lines total (bound for any future read-spec computation) | Counted 2026-10-21  |
 | Identity / designation | Pergamino | `Specs/Pergamino.md` L1 |
 | Rename notice at the top of the spec | Present — the notice text is in the spec (not copied: it names the earlier name and its reasons; read it there) | `Specs/Pergamino.md` L3 |
 | Real-world basis | Juan Carlos I Antarctic Station (Spain), Livingston Island, South Shetland Islands (~62°39'S, 60°23'W) | `Specs/Pergamino.md` L5 |
@@ -17,7 +17,7 @@
 | Significance | Tepenian city on Livingston Island, South Shetland Islands; **renamed Pergamino 2026-10-03 (`DR-41`)**, Spanish "parchment", from "Juan Carlos" (after King Juan Carlos I of Spain, the real station's namesake); the second-largest island in the South Shetlands; shares the South Shetland Island cluster with Contrapunto (King George Island) but on a different, quieter island; the origin site of Tepenia's first bureaucratic archive, later consolidated into Amundsen Station's own pre-Split-Brain archive | `Specs/Pergamino.md` L11 |
 | Coordinates (as written in the same field) | ~62°39'S, 60°23'W | `Specs/Pergamino.md` L5 |
 | Specs `Status:` field | States a later-era condition; per the standing default-scope rule (`00_RUNBOOK.md`, the Second Interwar default) this is **never an input** to a Second Interwar pass — not copied | `Specs/Pergamino.md` L6 |
-| Later-era sections present in the Specs file (same exclusion as `Status:`) | 3 section(s), by heading position: L187, L192, L197 — not copied, not described | `Specs/Pergamino.md` L205, L210, L215 |
+|  Later-era sections present in the Specs file (same exclusion as `Status:`) | 3 section(s), by heading position: L205, L210, L215 — not copied, not described | `Specs/Pergamino.md` L205, L210, L215  |
 | Census I (spec's own line) | 189,742 humans / 196,950 robots / **386,692** combined *(the spec's "island cap" tag was removed 2026-10-31)* | `Specs/Pergamino.md` L18 |
 | Census II (spec's own line) | 118,910 humans / 127,462 robots / **246,372** combined *(the spec's "island cap" tag was removed 2026-10-31)* — *[the status cell carries one further word, a later-era status: outside the Second Interwar default scope, not copied]* | `Specs/Pergamino.md` L19 |
 

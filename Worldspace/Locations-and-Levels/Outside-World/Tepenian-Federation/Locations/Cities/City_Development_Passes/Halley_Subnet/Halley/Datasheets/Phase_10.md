@@ -8,11 +8,11 @@
 
 | Category | Value | Citation |
 |---|---|---|
-| Characters canon (`TepenianUniverseTimeline/Worldspace/Characters/`) — directory enumerated | 587 `.md` files read; **1 name the city** | `Worldspace/Characters/` (enumerated 2026-10-21) |
+|  Characters canon (`TepenianUniverseTimeline/Worldspace/Characters/`) — directory enumerated | 513 `.md` files read; **1 name the city** | `Worldspace/Characters/` (enumerated 2026-10-21)  |
 | ↳ Dolls/Salagéa Aparast/README.md | *[the README line states DLC-companion / recruitable status and a present-day framing; excluded as non-ULM game-mechanics material, not a location fact (developer, 2026-10-30)]* | `…/Worldspace/Characters/Dolls/Salagéa Aparast/README.md` L59 |
 | `Enneagram_Character_Index.md` | Checked by name (`Halley`): **zero hits** in a 35-line file | `Enneagram_Character_Index.md` |
 | Zodiac Lens — all 12 signs' full attributes (Tier U) | Element/modality/planet, positive and negative traits, for all 12 signs | `Corpus_Reference_Sheets/Zodiac_Signs_Quick_Reference.md`, in full |
-| No invented person names | RESERVED, permanently — role-archetypes only. Spec `## Notable Figures` at L175–L184; lines mentioning a placeholder: none found | `Specs/Halley.md` L189 |
+|  No invented person names | RESERVED, permanently — role-archetypes only. Spec `## Notable Figures` at L189–L198; lines mentioning a placeholder: none found | `Specs/Halley.md` L189  |
 | Symbol files (Planet / Element) | ⛔ **Not opened as datasheet input** (symbol deferral, `DR-8` / `DR-8a`): reconciled only at Phase 10 §B3 | `Mechanical_Extraction_Field_Guide.md`, symbol deferral box |
 
 **Not mechanical / not included here:** the four-category catalog synthesis, the Zodiac Lens's actual application, border-adjacency texture — none of this exists until Halley's own pass runs.

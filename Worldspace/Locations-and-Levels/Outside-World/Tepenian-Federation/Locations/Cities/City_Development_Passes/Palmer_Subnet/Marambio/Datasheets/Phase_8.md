@@ -8,7 +8,7 @@
 | Category | Value | Citation |
 |---|---|---|
 | `Weapons_and_Tools_Philosophy.md` | Checked by name (`Marambio`): **zero hits** in a 73-line file | `Weapons_and_Tools_Philosophy.md` |
-| The city's own spec — term check for cuisine / dress / music / craft | Counted by pattern against the full 232-line file: cuisine / dish / drink — 0 hit(s); food — 2 hit(s), both at L47–L48 (the national food deficit and a food role: the national food picture, not cuisine) · dress / clothing / attire — 0 hit(s) · music — 0 hit(s) · craft — 0 hit(s). The spec's making content is the shipyards (L196, L207) | Counted 2026-10-21, re-read 2026-10-30: `Specs/Marambio.md` L47–L48, L196, L207 |
+| The city's own spec — term check for cuisine / dress / music / craft | Counted by pattern against the full 249-line file: cuisine / dish / drink — 0 hit(s); food — 2 hit(s), both at L47–L48 (the national food deficit and a food role: the national food picture, not cuisine) · dress / clothing / attire — 0 hit(s) · music — 0 hit(s) · craft — 0 hit(s). The spec's making content is the shipyards (L213, L224) | Counted 2026-10-21, re-read 2026-10-30: `Specs/Marambio.md` L47–L48, L213, L224 |
 | `Robot_Biology_and_Culture/` mandatory facts (Tier U, cross-ref `Phase_4.md`) | Siligel / coolant / smoking canon, thermal-cost mechanics — mandatory before any siligel or coolant claim | `Corpus_Reference_Sheets/Robot_Physiology_Quick_Reference.md` |
 | Gear catalogs, slang | No path resolved: gear-catalog work is **gated until the 38-city corpus is done**; slang has no path (a hole, flagged, not guessed) | `03_The_Phase_Spine.md`, Phase 8 block |
 

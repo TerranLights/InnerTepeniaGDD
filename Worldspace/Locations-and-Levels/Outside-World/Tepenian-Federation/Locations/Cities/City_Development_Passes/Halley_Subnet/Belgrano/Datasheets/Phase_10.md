@@ -7,7 +7,7 @@
 
 | Category | Value | Citation |
 |---|---|---|
-| Characters canon (`TepenianUniverseTimeline/Worldspace/Characters/`) — directory enumerated | 587 `.md` files read; **13 name the city** | `Worldspace/Characters/` (enumerated 2026-10-21) |
+|  Characters canon (`TepenianUniverseTimeline/Worldspace/Characters/`) — directory enumerated | 513 `.md` files read; **13 name the city** | `Worldspace/Characters/` (enumerated 2026-10-21)  |
 | ↳ Dolls/Villena Hiresvett/README.md | - **Place of origin:** Belgrano (Tepenia native) | `…/Worldspace/Characters/Dolls/Villena Hiresvett/README.md` L6 |
 | ↳ Dolls/Villena Hiresvett/README.md | A Tepenia native, originally from Belgrano. She found a love for entertaining — both other robots and humans alike — through the power of music and song, and moved to Palmer City chasing fame (though not fortune) as a Rockabilly/Electroswing singer and entertainer, drawn by the big city lights and the promise of a national stage. | `…/Worldspace/Characters/Dolls/Villena Hiresvett/README.md` L46 |
 | ↳ Dolls/Villena Hiresvett/Personal_Background/Formative_History.md | A Tepenia native, originally from the city of Belgrano. Villena found a love for entertaining (both other robots and humans alike) through the power of music and song. She dreamed of the big city lights and fame of Palmer City, and originally moved there seeking fame (though not fortune) as a Rockabilly/Electroswing singer and entertainer. | `…/Worldspace/Characters/Dolls/Villena Hiresvett/Personal_Background/Formative_History.md` L3 |
@@ -33,7 +33,7 @@
 | ↳ Dolls/Griselda Alejandra Chávez/Personal_Background/Timeline.md | *[source line compares the city with other places; not copied, line number recorded only]* | `…/Worldspace/Characters/Dolls/Griselda Alejandra Chávez/Personal_Background/Timeline.md` L11 |
 | `Enneagram_Character_Index.md` | Checked by name (`Belgrano`): **zero hits** in a 35-line file | `Enneagram_Character_Index.md` |
 | Zodiac Lens — all 12 signs' full attributes (Tier U) | Element/modality/planet, positive and negative traits, for all 12 signs | `Corpus_Reference_Sheets/Zodiac_Signs_Quick_Reference.md`, in full |
-| No invented person names | RESERVED, permanently — role-archetypes only. Spec `## Notable Figures` at L150–L154; lines mentioning a placeholder: none found | `Specs/Belgrano.md` L162 |
+|  No invented person names | RESERVED, permanently — role-archetypes only. Spec `## Notable Figures` at L162–L166; lines mentioning a placeholder: none found | `Specs/Belgrano.md` L162  |
 | Symbol files (Planet / Element) | ⛔ **Not opened as datasheet input** (symbol deferral, `DR-8` / `DR-8a`): reconciled only at Phase 10 §B3 | `Mechanical_Extraction_Field_Guide.md`, symbol deferral box |
 
 **Not mechanical / not included here:** the four-category catalog synthesis, the Zodiac Lens's actual application, border-adjacency texture — none of this exists until Belgrano's own pass runs.

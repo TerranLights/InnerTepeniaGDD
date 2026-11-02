@@ -12,7 +12,7 @@
 | Universe repo `Worldspace/Locations/` — directory enumerated | 4 `.md` files read; **1 name the city** | `…/Worldspace/Locations/` (enumerated 2026-10-23) |
 | ↳ README.md | *[source line compares the city with other places; not copied, line number recorded only]* | `…/Worldspace/Locations/README.md` L21 |
 | `Access type:` | SPUR | `Specs/Puerto_Abrigo.md` L8 |
-| Spec climate — climate data source | ⚠ **PROXY.** Puerto Abrigo is not in the BAS READER surface station database. **Proxy station: `Palmer`** — BAS READER, 1991–2020 WMO standard normal, 30 years; full record 1976–2026 *(distance ~27 km, as stated at L129)* | `Specs/Puerto_Abrigo.md` L111–L99 |
+| Spec climate — climate data source | ⚠ **PROXY.** Puerto Abrigo is not in the BAS READER surface station database. **Proxy station: `Palmer`** — BAS READER, 1991–2020 WMO standard normal, 30 years; full record 1976–2026 *(distance ~27 km, as stated at L129)* | `Specs/Puerto_Abrigo.md` L111 |
 | Spec climate — climate type | *[source line compares the city with other places; not copied, line number recorded only]* | `Specs/Puerto_Abrigo.md` L141 |
 | Spec climate — mean annual temperature | -1.7°C  _(proxy: READER station `Palmer`, ~27 km)_ | `Specs/Puerto_Abrigo.md` L142 |
 | Spec climate — record extremes | record high **+14.8 °C**; record low **−40.8 °C** _(proxy: Palmer, ~27 km)_ *(researched 2026-09-04)* | `Specs/Puerto_Abrigo.md` L143 |

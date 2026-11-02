@@ -8,7 +8,7 @@
 | Category | Value | Citation |
 |---|---|---|
 | `Weapons_and_Tools_Philosophy.md` | Checked by name (`Rothera`): **zero hits** in a 73-line file | `Weapons_and_Tools_Philosophy.md` |
-| The city's own spec — term check for cuisine / dress / music / craft | Counted by pattern against the full 244-line file: cuisine / food / dish / drink — 0 hit(s) · dress / clothing / attire — 0 hit(s) · music — 0 hit(s) · craft — 0 hit(s) *(whole-word counts; a substring search also matches inside "addressed" at L51 — "dress" — and "aircraft" at L156 and L236 — "craft"; these are not hits)* | Counted 2026-10-21: `Specs/Rothera.md` |
+|  The city's own spec — term check for cuisine / dress / music / craft | Counted by pattern against the full 259-line file: cuisine / food / dish / drink — 0 hit(s) · dress / clothing / attire — 0 hit(s) · music — 0 hit(s) · craft — 0 hit(s) *(whole-word counts; a substring search also matches inside "addressed" at L51 — "dress" — and "aircraft" at L171 and L251 — "craft"; these are not hits)* | Counted 2026-10-21: `Specs/Rothera.md`  |
 | `Robot_Biology_and_Culture/` mandatory facts (Tier U, cross-ref `Phase_4.md`) | Siligel / coolant / smoking canon, thermal-cost mechanics — mandatory before any siligel or coolant claim | `Corpus_Reference_Sheets/Robot_Physiology_Quick_Reference.md` |
 | Gear catalogs, slang | No path resolved: gear-catalog work is **gated until the 38-city corpus is done**; slang has no path (a hole, flagged, not guessed) | `03_The_Phase_Spine.md`, Phase 8 block |
 

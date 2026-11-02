@@ -6,7 +6,7 @@
 | Category | Value | Citation |
 |---|---|---|
 | Specs file location | `Cities/Specs/Palmer subnet/Esperanza.md` — confirmed on disk | Checked 2026-10-21 |
-| Specs file length | 173 lines total (bound for any future read-spec computation) | Counted 2026-10-21 |
+|  Specs file length | 185 lines total (bound for any future read-spec computation) | Counted 2026-10-21  |
 | Identity / designation | Esperanza | `Specs/Esperanza.md` L1 |
 | Real-world basis | Esperanza Base (Argentina), Hope Bay, Trinity Peninsula, Antarctic Peninsula (~63°24'S, 56°59'W) | `Specs/Esperanza.md` L3 |
 | Arcanet Subnet | Palmer ("American") | `Specs/Esperanza.md` L5 |
@@ -15,7 +15,7 @@
 | Significance | "Esperanza" = Hope in Spanish — a name that carries particular weight in an exile civilization; historically the site of the first human birth in Antarctica (Emilio Marcos Palma, January 7, 1978); the only pre-exile Argentine station designed for permanent family settlement; generations of Tepenian children were born here who had no other home | `Specs/Esperanza.md` L8 |
 | Coordinates (as written in the same field) | ~63°24'S, 56°59'W | `Specs/Esperanza.md` L3 |
 | Specs `Status:` field | States a later-era condition; per the standing default-scope rule (`00_RUNBOOK.md`, the Second Interwar default) this is **never an input** to a Second Interwar pass — not copied | `Specs/Esperanza.md` L4 |
-| Later-era sections present in the Specs file (same exclusion as `Status:`) | 2 section(s), by heading position: L155, L160 — not copied, not described | `Specs/Esperanza.md` L167, L172 |
+|  Later-era sections present in the Specs file (same exclusion as `Status:`) | 2 section(s), by heading position: L167, L172 — not copied, not described | `Specs/Esperanza.md` L167, L172  |
 | Census I (spec's own line) | 610,330 humans / 589,670 robots / **1,200,000** combined | `Specs/Esperanza.md` L15 |
 | Census II (spec's own line) | 322,213 humans / 430,946 robots / **753,159** combined | `Specs/Esperanza.md` L16 |
 

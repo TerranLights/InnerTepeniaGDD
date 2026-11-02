@@ -6,7 +6,7 @@
 | Category | Value | Citation |
 |---|---|---|
 | Specs file location | `Cities/Specs/Palmer subnet/Rothera.md` — confirmed on disk | Checked 2026-10-21 |
-| Specs file length | 244 lines total (bound for any future read-spec computation) | Counted 2026-10-21 |
+|  Specs file length | 259 lines total (bound for any future read-spec computation) | Counted 2026-10-21  |
 | Identity / designation | Rothera | `Specs/Rothera.md` L1 |
 | Real-world basis | Rothera Research Station (UK / British Antarctic Survey), Rothera Point, Adelaide Island, Marguerite Bay, Antarctic Peninsula (~67°34'S, 68°07'W) | `Specs/Rothera.md` L3 |
 | Arcanet Subnet | Palmer ("American") | `Specs/Rothera.md` L5 |
@@ -15,7 +15,7 @@
 | Significance | Tepenian city on Adelaide Island; one of the few Tepenian cities with confirmed aviation infrastructure (a gravel runway); island-positioned city on the west coast of the Peninsula; **the Palmer subnet's industrial center** — raw materials processed into finished infrastructure components used across the whole subnet, including Palmer City itself | `Specs/Rothera.md` L8 |
 | Coordinates (as written in the same field) | ~67°34'S, 68°07'W | `Specs/Rothera.md` L3 |
 | Specs `Status:` field | States a later-era condition; per the standing default-scope rule (`00_RUNBOOK.md`, the Second Interwar default) this is **never an input** to a Second Interwar pass — not copied | `Specs/Rothera.md` L4 |
-| Later-era sections present in the Specs file (same exclusion as `Status:`) | 3 section(s), by heading position: L212, L220, L228 — not copied, not described | `Specs/Rothera.md` L227, L235, L243 |
+|  Later-era sections present in the Specs file (same exclusion as `Status:`) | 3 section(s), by heading position: L227, L235, L243 — not copied, not described | `Specs/Rothera.md` L227, L235, L243  |
 | Census I (spec's own line) | 153,760 humans / 163,689 robots / **317,449** combined *(the spec's "island cap" tag was removed 2026-10-31)* | `Specs/Rothera.md` L23 |
 | Census II (spec's own line) | 121,784 humans / 134,073 robots / **255,857** combined *(the spec's "island cap" tag was removed 2026-10-31)* | `Specs/Rothera.md` L24 |
 

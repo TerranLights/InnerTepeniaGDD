@@ -14,7 +14,7 @@
 | Category | Value | Citation |
 |---|---|---|
 | Specs file location | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Specs/Janbogo subnet/Cape_Adare.md` — confirmed on disk at the current path | Re-verified 2026-09-30 |
-| Specs file length | 286 lines total (bound for any future read-spec computation) | Re-verified 2026-09-30 |
+|  Specs file length | 303 lines total (bound for any future read-spec computation) | Re-verified 2026-09-30  |
 | Identity / designation | Cape Adare | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Specs/Janbogo subnet/Cape_Adare.md` L1 |
 | Real-world basis | Cape Adare, Adare Peninsula, northern Victoria Land, Ross Sea | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Specs/Janbogo subnet/Cape_Adare.md` L3 |
 | Coordinates | ~71°17′S, 170°14′E | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Specs/Janbogo subnet/Cape_Adare.md` L3 |

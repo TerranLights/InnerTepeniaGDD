@@ -7,7 +7,7 @@
 | Category | Value | Citation |
 |---|---|---|
 | Specs file location | `Cities/Specs/Halley subnet/Troll.md` — confirmed on disk | Checked 2026-10-21 |
-| Specs file length | 181 lines total (bound for any future read-spec computation) | Counted 2026-10-21 |
+|  Specs file length | 204 lines total (bound for any future read-spec computation) | Counted 2026-10-21  |
 | Identity / designation | Troll | `Specs/Troll.md` L1 |
 | Real-world basis | Troll Research Station (Norway / Norwegian Polar Institute), Jutulsessen nunatak, Queen Maud Land (~72°01'S, 2°32'E) | `Specs/Troll.md` L3 |
 | Arcanet Subnet | Halley ("Atlantic") | `Specs/Troll.md` L5 |
@@ -16,7 +16,7 @@
 | Significance | *[source line excluded: later-era content, outside the Second Interwar default scope; not copied]* | `Specs/Troll.md` L8 |
 | Coordinates (as written in the same field) | ~72°01'S, 2°32'E | `Specs/Troll.md` L3 |
 | Specs `Status:` field | States a later-era condition; per the standing default-scope rule (`00_RUNBOOK.md`, the Second Interwar default) this is **never an input** to a Second Interwar pass — not copied | `Specs/Troll.md` L4 |
-| Later-era sections present in the Specs file (same exclusion as `Status:`) | 2 section(s), by heading position: L166, L171 — not copied, not described | `Specs/Troll.md` L189, L194 |
+|  Later-era sections present in the Specs file (same exclusion as `Status:`) | 2 section(s), by heading position: L189, L194 — not copied, not described | `Specs/Troll.md` L189, L194  |
 | Census I (spec's own line) | 502,791 humans / 503,779 robots / **1,006,570** combined | `Specs/Troll.md` L15 |
 | Census II (spec's own line) | 340,328 humans / 367,383 robots / **707,711** combined | `Specs/Troll.md` L16 |
 

@@ -7,7 +7,7 @@
 | Category | Value | Citation |
 |---|---|---|
 | Specs file location | `Cities/Specs/Halley subnet/Halley.md` — confirmed on disk | Checked 2026-10-21 |
-| Specs file length | 217 lines total (bound for any future read-spec computation) | Counted 2026-10-21 |
+|  Specs file length | 231 lines total (bound for any future read-spec computation) | Counted 2026-10-21  |
 | Identity / designation | Halley | `Specs/Halley.md` L1 |
 | Real-world basis | Halley Stations I–VI (UK), Brunt Ice Shelf, Coats Land, Weddell Sea (~75°35'S, 26°34'W) | `Specs/Halley.md` L3 |
 | Arcanet Subnet | Halley ("Atlantic") — subnet namesake, *not* the technical nexus *(corrected 2026-07-04 — developer vision session, see `Cities/City_Vision_Notes/Halley.md`: the subnet is named after Halley for historical/founding reasons, but the actual Arcanet relay nexus is deliberately kept at a different, more geologically stable Halley subnet city, precisely because Halley itself risks eventually calving off into the ocean. **The nexus's location was resolved the same session: it sits at Sanay**, on Vesleskarvet's stable bedrock — built there by Halley's own residents, who traveled to Sanay to do the hands-on construction labor personally, while Sanay's own residents kept running the ports and shipping lanes. This line previously still said "not yet decided," a stale leftover never updated to match the resolution already correctly written into `Specs/Sanay.md` — corrected 2026-07-13.)* | `Specs/Halley.md` L5 |
@@ -16,7 +16,7 @@
 | Significance | *[source line compares the city with other places; not copied, line number recorded only]* | `Specs/Halley.md` L8 |
 | Coordinates (as written in the same field) | ~75°35'S, 26°34'W | `Specs/Halley.md` L3 |
 | Specs `Status:` field | States a later-era condition; per the standing default-scope rule (`00_RUNBOOK.md`, the Second Interwar default) this is **never an input** to a Second Interwar pass — not copied | `Specs/Halley.md` L4 |
-| Later-era sections present in the Specs file (same exclusion as `Status:`) | 3 section(s), by heading position: L185, L193, L199 — not copied, not described | `Specs/Halley.md` L199, L207, L213 |
+|  Later-era sections present in the Specs file (same exclusion as `Status:`) | 3 section(s), by heading position: L199, L207, L213 — not copied, not described | `Specs/Halley.md` L199, L207, L213  |
 | Census I (spec's own line) | 736,821 humans / 767,646 robots / **1,504,467** combined | `Specs/Halley.md` L15 |
 | Census II (spec's own line) | 525,888 humans / 598,062 robots / **1,123,950** combined | `Specs/Halley.md` L16 |
 
