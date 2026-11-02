@@ -53,8 +53,8 @@ By population, Rothera (317,449 Census I, rank 31st *corrected 2026-07-03, again
 | Tier | Nations |
 |------|---------|
 | Primary | Brazil, Germany |
-| Significant | CSA, France, United Kingdom, Cascadia, Appalachia, México, Demilitarized Zone (s. Ontario; not a nation), New England, Chile, Quebec, Prairie Federation, Austro-Bavaria, Midwest Republic, Argentina (without Patagonia) *(founding wave)*, Amazonia, Colorado, Sonora |
-| Notable | Araucanía-Patagonia, Yucatán, Northern Ireland, Hawaii, Alaska |
+| Significant | CSA *(founding wave)*, France, United Kingdom, Cascadia *(founding wave)*, Appalachia *(founding wave)*, México *(founding wave)*, Demilitarized Zone (s. Ontario; not a nation), New England *(founding wave)*, Chile, Quebec *(founding wave)*, Prairie Federation *(founding wave)*, Austro-Bavaria, Midwest Republic *(founding wave)*, Argentina (without Patagonia) *(founding wave)*, Amazonia, Colorado *(founding wave)*, Sonora *(founding wave)* |
+| Notable | Araucanía-Patagonia, Yucatán *(founding wave)*, Northern Ireland, Hawaii *(founding wave)*, Alaska *(founding wave)* |
 
 *Source: `Official_Population_Census.md` Sections A–C.*
 
@@ -66,28 +66,28 @@ By population, Rothera (317,449 Census I, rank 31st *corrected 2026-07-03, again
 |------|--------|---------|------------------|------------------|-------------------|-------------------|
 | Primary | Brazil | 12.60% | 20,629 | 19,377 | 16,897 | 15,349 |
 | Primary | Germany | 12.00% | 19,635 | 18,444 | 16,082 | 14,609 |
-| Significant | CSA | 9.24% | 15,122 | 14,204 | 12,386 | 11,250 |
+| Significant | CSA *(founding wave)* | 9.24% | 15,122 | 14,204 | 12,386 | 11,250 |
 | Significant | France | 7.43% | 12,154 | 11,417 | 9,955 | 9,043 |
 | Significant | United Kingdom | 6.92% | 11,325 | 10,638 | 9,276 | 8,426 |
-| Significant | Cascadia | 6.54% | 10,701 | 10,051 | 8,766 | 7,962 |
-| Significant | Appalachia | 5.93% | 9,706 | 9,118 | 7,950 | 7,220 |
-| Significant | México | 5.75% | 9,416 | 8,845 | 7,712 | 7,006 |
+| Significant | Cascadia *(founding wave)* | 6.54% | 10,701 | 10,051 | 8,766 | 7,962 |
+| Significant | Appalachia *(founding wave)* | 5.93% | 9,706 | 9,118 | 7,950 | 7,220 |
+| Significant | México *(founding wave)* | 5.75% | 9,416 | 8,845 | 7,712 | 7,006 |
 | Significant | Demilitarized Zone (s. Ontario; not a nation) | 5.28% | 8,646 | 8,121 | 7,082 | 6,432 |
-| Significant | New England | 4.85% | 7,938 | 7,456 | 6,502 | 5,906 |
+| Significant | New England *(founding wave)* | 4.85% | 7,938 | 7,456 | 6,502 | 5,906 |
 | Significant | Chile | 4.50% | 7,370 | 6,924 | 6,037 | 5,483 |
-| Significant | Quebec | 4.04% | 6,611 | 6,210 | 5,414 | 4,919 |
-| Significant | Prairie Federation | 2.97% | 4,864 | 4,569 | 3,983 | 3,618 |
+| Significant | Quebec *(founding wave)* | 4.04% | 6,611 | 6,210 | 5,414 | 4,919 |
+| Significant | Prairie Federation *(founding wave)* | 2.97% | 4,864 | 4,569 | 3,983 | 3,618 |
 | Significant | Austro-Bavaria | 2.31% | 3,774 | 3,545 | 3,091 | 2,808 |
-| Significant | Midwest Republic | 1.84% | 3,019 | 2,836 | 2,472 | 2,246 |
+| Significant | Midwest Republic *(founding wave)* | 1.84% | 3,019 | 2,836 | 2,472 | 2,246 |
 | Significant | Argentina (without Patagonia) *(founding wave)* | 1.80% | 2,950 | 2,771 | 2,416 | 2,195 |
 | Significant | Amazonia | 1.39% | 2,276 | 2,138 | 1,864 | 1,693 |
-| Significant | Colorado | 1.39% | 2,270 | 2,132 | 1,859 | 1,689 |
-| Significant | Sonora | 1.19% | 1,952 | 1,834 | 1,599 | 1,452 |
+| Significant | Colorado *(founding wave)* | 1.39% | 2,270 | 2,132 | 1,859 | 1,689 |
+| Significant | Sonora *(founding wave)* | 1.19% | 1,952 | 1,834 | 1,599 | 1,452 |
 | Notable | Araucanía-Patagonia | 0.83% | 1,366 | 1,283 | 1,119 | 1,016 |
-| Notable | Yucatán | 0.79% | 1,288 | 1,210 | 1,055 | 958 |
+| Notable | Yucatán *(founding wave)* | 0.79% | 1,288 | 1,210 | 1,055 | 958 |
 | Notable | Northern Ireland | 0.20% | 324 | 305 | 266 | 241 |
-| Notable | Hawaii | 0.12% | 196 | 184 | 161 | 146 |
-| Notable | Alaska | 0.096% | 157 | 148 | 129 | 117 |
+| Notable | Hawaii *(founding wave)* | 0.12% | 196 | 184 | 161 | 146 |
+| Notable | Alaska *(founding wave)* | 0.096% | 157 | 148 | 129 | 117 |
 
 *Tier labels follow the final shares: Primary and Significant end at the largest ratio gaps among the rows at 4.5% or more (Primary never more than six rows), no row at 4.5% or more is Notable, and Notable is the rest (the composition file's own rule, "boundaries fall at the largest ratio gaps"; the 8 / 3 / 1 share weights no longer produce the figures). Percentages are of this city's own human and robot population (identical between censuses), not Tepenia-wide. Robot figures apply the same proportions as the human population. Shares are rounded; they sum to 100% within rounding.*
 

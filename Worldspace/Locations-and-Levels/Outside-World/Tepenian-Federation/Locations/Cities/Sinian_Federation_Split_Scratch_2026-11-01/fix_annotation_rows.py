@@ -3,7 +3,7 @@ from pathlib import Path
 HERE = Path(__file__).resolve().parent
 sys.path.insert(0, str(HERE))
 from apply_final import SPEC_PATH
-CHG = ["Esperanza","Marambio","Puerto Abrigo","Contrapunto","Pergamino","Rothera","Palmer City","Halley","Dumont d'Urville","Janbogo","Sinheung","Zhongshan","Zukelli","Relung Panen","Mirny","Cape Adare","Fort McMurdo"]
+CHG = ["Rothera"]
 from write_census import OLD_NAME
 from write_datasheet_tiers import DIRKEY, PASSES
 apply = "--apply" in sys.argv

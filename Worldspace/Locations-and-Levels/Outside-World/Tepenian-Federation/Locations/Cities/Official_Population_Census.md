@@ -58,8 +58,8 @@ National communities are classified by tier based on long-run population share. 
 | Tier | Nations |
 |------|---------|
 | Primary | Brazil, Germany |
-| Significant | CSA, France, United Kingdom, Cascadia, Appalachia, México, Demilitarized Zone (s. Ontario; not a nation), New England, Chile, Quebec, Prairie Federation, Austro-Bavaria, Midwest Republic, Argentina (without Patagonia) *(founding wave)*, Amazonia, Colorado, Sonora |
-| Notable | Araucanía-Patagonia, Yucatán, Northern Ireland, Hawaii, Alaska |
+| Significant | CSA *(founding wave)*, France, United Kingdom, Cascadia *(founding wave)*, Appalachia *(founding wave)*, México *(founding wave)*, Demilitarized Zone (s. Ontario; not a nation), New England *(founding wave)*, Chile, Quebec *(founding wave)*, Prairie Federation *(founding wave)*, Austro-Bavaria, Midwest Republic *(founding wave)*, Argentina (without Patagonia) *(founding wave)*, Amazonia, Colorado *(founding wave)*, Sonora *(founding wave)* |
+| Notable | Araucanía-Patagonia, Yucatán *(founding wave)*, Northern Ireland, Hawaii *(founding wave)*, Alaska *(founding wave)* |
 
 ---
 
