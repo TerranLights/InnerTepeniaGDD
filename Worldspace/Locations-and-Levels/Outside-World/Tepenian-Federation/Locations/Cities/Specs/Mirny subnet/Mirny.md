@@ -17,15 +17,15 @@
 
 | Tier | Nations |
 |------|---------|
-| Primary | United Kingdom, Korea, Indonesia, Sinian Federation |
-| Significant | Japan, Australia, Philippines, New Zealand, Malaysia, Thailand, Taiwan, Idelsk-Uralia *(founding wave)*, Russia (core state), Vietnam, Manchuria, Belarus, South Africa, Kazakhstan |
-| Notable | Siberia, Donska-Kubania, Künnarantaiga, Mongolia, East Turkestan, Northern Ireland, West Papua, Aceh, Dagestan, Patani, Chechnya, Tibet, Kabardino-Balkaria, North Ossetia-Alania, Finland, Ingushetia, Karachay-Cherkessia, Tuva |
+| Primary | United Kingdom, Korea, Indonesia, Sinian Federation, Japan, Australia |
+| Significant | Philippines, New Zealand, Malaysia, Thailand, Taiwan, Idelsk-Uralia *(founding wave)*, Russia (core state), Vietnam, Belarus, South Africa, Kazakhstan |
+| Notable | Manchuria, Siberia, Donska-Kubania, Künnarantaiga, Mongolia, East Turkestan, Northern Ireland, West Papua, Aceh, Dagestan, Patani, Chechnya, Tibet, Kabardino-Balkaria, North Ossetia-Alania, Finland, Ingushetia, Karachay-Cherkessia, Tuva |
 
 *Source: `Official_Population_Census.md` Sections A–C.*
 
 ### Per-Nation Breakdown — Robots and Humans, Census I and II
 
-*(Rebalanced 2026-11-02 in the population rework, `DR-85`: every country appears in its latest-period form (successor states and renamed countries, split by headcount, names explained in `Official_Population_Census.md` Section E); China's row is the Sinian Federation, with its decline and the refill of the gap where the rework applies it; places never counted before were added by time-zone window; tiers were relabeled from the final shares. This city: china's pieces in window: Mongolia, Manchuria, Tibet, East Turkestan; new pools: Hong Kong 0.88%, Macau 0.10%, Taiwan 2.92%, Mongolia 0.09%, North Korea 0.36%; the Sinian Federation's share was multiplied by 0.5616 (random 0.55 to 0.65), and the freed points went in proportion to size to: United Kingdom, Korea, Indonesia, Japan, Australia. City totals in all four columns are unchanged. Method, every run and the research: `Sinian_Federation_Split_Scratch_2026-11-01/` (file `12_Rebalance_Run4.md`). The table that stood here before is in git commit `593510ab`. Kazakhstan was added on 2026-11-02 (`DR-93`) at 1.45%, the share every city in its time-zone window receives; every other row shrank in proportion.)*
+*(Rebalanced 2026-11-02 in the population rework, `DR-85`: every country appears in its latest-period form (successor states and renamed countries, split by headcount, names explained in `Official_Population_Census.md` Section E); China's row is the Sinian Federation, with its decline and the refill of the gap where the rework applies it; places never counted before were added by time-zone window; tiers were relabeled from the final shares. This city: china's pieces in window: Mongolia, Manchuria, Tibet, East Turkestan; new pools: Hong Kong 0.88%, Macau 0.10%, Taiwan 2.92%, Mongolia 0.09%, North Korea 0.36%; the Sinian Federation's share was multiplied by 0.5616 (random 0.55 to 0.65), and the freed points went in proportion to size to: United Kingdom, Korea, Indonesia, Japan, Australia. City totals in all four columns are unchanged. Method, every run and the research: `Sinian_Federation_Split_Scratch_2026-11-01/` (file `12_Rebalance_Run4.md`). The table that stood here before is in git commit `593510ab`. Kazakhstan was added on 2026-11-02 (`DR-93`) at 1.45%, the share every city in its time-zone window receives; every other row shrank in proportion. Manchuria's share was reduced on 2026-11-02 (`DR-94`), as the Sinian Federation's was: multiplied by 0.5913 (a draw from 0.55 to 0.65, seed 2026110215), the freed points going in proportion to size to the rows at 4.5% or more outside the top tier; tiers were relabeled from the new shares.)*
 
 | Tier | Nation | Share % | Census I Robots | Census I Humans | Census II Robots | Census II Humans |
 |------|--------|---------|------------------|------------------|-------------------|-------------------|
@@ -33,8 +33,8 @@
 | Primary | Korea | 13.71% | 97,439 | 95,023 | 72,449 | 71,855 |
 | Primary | Indonesia | 12.03% | 85,444 | 83,328 | 63,531 | 63,010 |
 | Primary | Sinian Federation | 12.00% | 85,293 | 83,180 | 63,419 | 62,899 |
-| Significant | Japan | 7.48% | 53,133 | 51,817 | 39,508 | 39,184 |
-| Significant | Australia | 6.67% | 47,382 | 46,208 | 35,233 | 34,943 |
+| Primary | Japan | 7.81% | 55,504 | 54,129 | 41,271 | 40,932 |
+| Primary | Australia | 6.96% | 49,497 | 48,270 | 36,805 | 36,502 |
 | Significant | Philippines | 4.24% | 30,177 | 29,431 | 22,439 | 22,256 |
 | Significant | New Zealand | 4.22% | 30,019 | 29,275 | 22,320 | 22,136 |
 | Significant | Malaysia | 3.44% | 24,432 | 23,828 | 18,166 | 18,018 |
@@ -43,10 +43,10 @@
 | Significant | Idelsk-Uralia *(founding wave)* | 2.14% | 15,182 | 14,806 | 11,288 | 11,197 |
 | Significant | Russia (core state) | 2.14% | 15,181 | 14,806 | 11,288 | 11,198 |
 | Significant | Vietnam | 1.65% | 11,723 | 11,433 | 8,717 | 8,647 |
-| Significant | Manchuria | 1.54% | 10,976 | 10,703 | 8,161 | 8,093 |
 | Significant | Belarus | 1.49% | 10,595 | 10,331 | 7,877 | 7,814 |
 | Significant | South Africa | 1.47% | 10,433 | 10,174 | 7,759 | 7,695 |
 | Significant | Kazakhstan | 1.45% | 10,331 | 10,075 | 7,681 | 7,618 |
+| Notable | Manchuria | 0.91% | 6,490 | 6,329 | 4,826 | 4,786 |
 | Notable | Siberia | 0.85% | 6,034 | 5,886 | 4,489 | 4,451 |
 | Notable | Donska-Kubania | 0.81% | 5,787 | 5,643 | 4,304 | 4,268 |
 | Notable | Künnarantaiga | 0.49% | 3,487 | 3,401 | 2,592 | 2,572 |

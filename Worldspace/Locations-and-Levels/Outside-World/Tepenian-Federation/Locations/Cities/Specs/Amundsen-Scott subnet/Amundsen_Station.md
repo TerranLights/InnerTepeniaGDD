@@ -17,14 +17,14 @@
 | Tier | Nations |
 |------|---------|
 | Primary | United Kingdom, Sinian Federation, Japan, Germany, CSA |
-| Significant | Korea, Australia, Appalachia, Cascadia, New England, New Zealand, Austro-Bavaria, Argentina (without Patagonia), Taiwan, Demilitarized Zone (s. Ontario; not a nation), Quebec, Norway *(Amundsen heritage — Saint Roald)*, Kazakhstan, Midwest Republic, Chile *(unique Union Glacier route advantage)*, Manchuria, Prairie Federation, Colorado |
-| Notable | Sonora, Araucanía-Patagonia, Mongolia, East Turkestan, Northern Ireland, Hawaii, Alaska, Tibet |
+| Significant | Korea, Australia, Appalachia, Cascadia, New England, New Zealand, Austro-Bavaria, Argentina (without Patagonia), Taiwan, Demilitarized Zone (s. Ontario; not a nation), Quebec, Norway *(Amundsen heritage — Saint Roald)*, Kazakhstan, Midwest Republic, Chile *(unique Union Glacier route advantage)*, Prairie Federation, Colorado |
+| Notable | Manchuria, Sonora, Araucanía-Patagonia, Mongolia, East Turkestan, Northern Ireland, Hawaii, Alaska, Tibet |
 
 *Source: `Official_Population_Census.md` Sections A–C.*
 
 ### Per-Nation Breakdown — Robots and Humans, Census I and II
 
-*(Rebalanced 2026-11-02 in the population rework, `DR-85`: every country appears in its latest-period form (successor states and renamed countries, split by headcount, names explained in `Official_Population_Census.md` Section E); China's row is the Sinian Federation, with its decline and the refill of the gap where the rework applies it; places never counted before were added by time-zone window; tiers were relabeled from the final shares. This city: china's pieces in window: Mongolia, Manchuria, Tibet, East Turkestan; new pools: Hong Kong 0.88%, Macau 0.10%, Taiwan 2.92%, Mongolia 0.09%, North Korea 0.36%, Austria 1.72%; the Sinian Federation's share was multiplied by 0.6410 (random 0.55 to 0.65), and the freed points went in proportion to size to: CSA, United Kingdom, Germany, Japan, Korea, Australia. City totals in all four columns are unchanged. Method, every run and the research: `Sinian_Federation_Split_Scratch_2026-11-01/` (file `12_Rebalance_Run4.md`). The table that stood here before is in git commit `593510ab`. Kazakhstan was added on 2026-11-02 (`DR-93`) at 1.45%, the share every city in its time-zone window receives; every other row shrank in proportion.)*
+*(Rebalanced 2026-11-02 in the population rework, `DR-85`: every country appears in its latest-period form (successor states and renamed countries, split by headcount, names explained in `Official_Population_Census.md` Section E); China's row is the Sinian Federation, with its decline and the refill of the gap where the rework applies it; places never counted before were added by time-zone window; tiers were relabeled from the final shares. This city: china's pieces in window: Mongolia, Manchuria, Tibet, East Turkestan; new pools: Hong Kong 0.88%, Macau 0.10%, Taiwan 2.92%, Mongolia 0.09%, North Korea 0.36%, Austria 1.72%; the Sinian Federation's share was multiplied by 0.6410 (random 0.55 to 0.65), and the freed points went in proportion to size to: CSA, United Kingdom, Germany, Japan, Korea, Australia. City totals in all four columns are unchanged. Method, every run and the research: `Sinian_Federation_Split_Scratch_2026-11-01/` (file `12_Rebalance_Run4.md`). The table that stood here before is in git commit `593510ab`. Kazakhstan was added on 2026-11-02 (`DR-93`) at 1.45%, the share every city in its time-zone window receives; every other row shrank in proportion. Manchuria's share was reduced on 2026-11-02 (`DR-94`), as the Sinian Federation's was: multiplied by 0.6372 (a draw from 0.55 to 0.65, seed 2026110215), the freed points going in proportion to size to the rows at 4.5% or more outside the top tier; tiers were relabeled from the new shares.)*
 
 | Tier | Nation | Share % | Census I Robots | Census I Humans | Census II Robots | Census II Humans |
 |------|--------|---------|------------------|------------------|-------------------|-------------------|
@@ -33,8 +33,8 @@
 | Primary | Japan | 10.13% | 579 | 112 | 402 | 92 |
 | Primary | Germany | 8.94% | 512 | 99 | 353 | 82 |
 | Primary | CSA | 7.79% | 444 | 89 | 310 | 71 |
-| Significant | Korea | 6.41% | 370 | 72 | 256 | 57 |
-| Significant | Australia | 5.51% | 316 | 61 | 220 | 50 |
+| Significant | Korea | 6.64% | 383 | 75 | 265 | 59 |
+| Significant | Australia | 5.72% | 328 | 63 | 228 | 52 |
 | Significant | Appalachia | 4.39% | 252 | 48 | 174 | 39 |
 | Significant | Cascadia | 3.98% | 230 | 45 | 158 | 37 |
 | Significant | New England | 3.59% | 206 | 40 | 143 | 32 |
@@ -48,9 +48,9 @@
 | Significant | Kazakhstan | 1.45% | 83 | 16 | 58 | 13 |
 | Significant | Midwest Republic | 1.36% | 79 | 16 | 54 | 14 |
 | Significant | Chile *(unique Union Glacier route advantage)* | 1.33% | 78 | 15 | 53 | 13 |
-| Significant | Manchuria | 1.21% | 70 | 15 | 48 | 12 |
 | Significant | Prairie Federation | 1.19% | 69 | 14 | 47 | 12 |
 | Significant | Colorado | 1.03% | 60 | 12 | 41 | 10 |
+| Notable | Manchuria | 0.77% | 45 | 10 | 31 | 8 |
 | Notable | Sonora | 0.60% | 34 | 7 | 25 | 6 |
 | Notable | Araucanía-Patagonia | 0.40% | 23 | 5 | 16 | 4 |
 | Notable | Mongolia | 0.39% | 23 | 5 | 17 | 4 |

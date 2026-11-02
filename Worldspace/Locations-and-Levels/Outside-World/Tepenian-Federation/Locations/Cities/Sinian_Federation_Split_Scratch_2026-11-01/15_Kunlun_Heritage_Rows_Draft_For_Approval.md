@@ -1,6 +1,6 @@
 # Kunlun's heritage rows: a draft for the developer to approve (2026-11-02)
 
-**Status: DRAFT. Nothing in Kunlun's spec or the census was changed for this.** Kunlun's rows are chosen by space-program heritage (its own rule, 2026-07-06), so a headcount split does not apply. Kunlun's rows still carry today's names for nine nations. Below is, for each, which successor in the author's world atlas (`numbering.csv`, latest period) holds the program's main sites. The sites are from general knowledge of the real programs, not from fresh research, so each line is a proposal.
+**Status: APPLIED 2026-11-02 (`DR-94`), with Italy split equally between Meridia and Magna Lombardia and Germany split 70/30 with Austro-Bavaria (after research). The draft below is kept as written.** Kunlun's rows are chosen by space-program heritage (its own rule, 2026-07-06), so a headcount split does not apply. Kunlun's rows still carry today's names for nine nations. Below is, for each, which successor in the author's world atlas (`numbering.csv`, latest period) holds the program's main sites. The sites are from general knowledge of the real programs, not from fresh research, so each line is a proposal.
 
 | Kunlun row today | Share | Proposed row | Why (atlas region membership) | Open point |
 |---|--:|---|---|---|

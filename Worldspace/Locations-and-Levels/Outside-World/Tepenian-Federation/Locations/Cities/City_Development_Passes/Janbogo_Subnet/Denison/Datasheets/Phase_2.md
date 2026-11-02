@@ -6,7 +6,7 @@
 
 | Category | Value | Citation |
 |---|---|---|
-| Composition tiers | Primary: Korea, Sinian Federation, Indonesia, CSA, Japan · Significant: Australia *(founding wave)*, Appalachia, New England, Cascadia, New Zealand, Vietnam, Philippines, Taiwan, Malaysia, Midwest Republic, Manchuria, Thailand, Colorado · Notable: Sonora, Mongolia, West Papua, Aceh, Hawaii, Alaska, Patani | `Specs/Denison.md` L54–58 |
+| Composition tiers | Primary: Korea, Sinian Federation, Indonesia · Significant: CSA, Japan, Australia *(founding wave)*, Appalachia · Notable: New England, Cascadia, New Zealand, Vietnam, Philippines, Taiwan, Malaysia, Midwest Republic, Thailand, Colorado, Manchuria, Sonora, Mongolia, West Papua, Aceh, Hawaii, Alaska, Patani | `Specs/Denison.md` L54–58 |
 | Per-nation breakdown | See `Step_1_and_2.md` — full table repeated there | `Specs/Denison.md` L66–92 |
 | Census I / II rows | See `Step_0.md` and `Step_1_and_2.md` | `Official_Population_Census.md` L510, L652 |
 | Computed retention % | Combined 68.73% · human 64.20% · robot 73.10% (formula and both inputs in `Step_0.md`) | Computed, cited there |

@@ -45,13 +45,13 @@ The reasoning: the allocation decision was made on the Upper Earth side, as part
 |------|---------|
 | Primary | Japan *(founding population — Jeju-do diplomatic allocation)* |
 | Significant | Australia, Korea |
-| Notable | Sinian Federation, Germany, Russia (core state), Romania, Vietnam, Taiwan, Belarus, New Zealand, Thailand, Idelsk-Uralia, Ukraine, Lithuania, South Africa, Bulgaria, Kazakhstan, Latvia, Estonia, Siberia, Donska-Kubania, Austro-Bavaria, Künnarantaiga, Manchuria, Hungary, Mongolia, Dagestan, East Turkestan, Chechnya, Patani, Kabardino-Balkaria, North Ossetia-Alania, Finland, Ingushetia, Karachay-Cherkessia, Tuva, Tibet |
+| Notable | Sinian Federation, Germany, Russia (core state), Romania, Vietnam, Taiwan, Belarus, New Zealand, Thailand, Idelsk-Uralia, Ukraine, Lithuania, South Africa, Bulgaria, Kazakhstan, Latvia, Estonia, Siberia, Donska-Kubania, Austro-Bavaria, Künnarantaiga, Hungary, Manchuria, Mongolia, Dagestan, East Turkestan, Chechnya, Patani, Kabardino-Balkaria, North Ossetia-Alania, Finland, Ingushetia, Karachay-Cherkessia, Tuva, Tibet |
 
 *Source: `Official_Population_Census.md` Sections A–C. Re-derived 2026-07-06, in two rounds — see Founding Population Re-Resolution, below.*
 
 ### Per-Nation Breakdown — Robots and Humans, Census I and II
 
-*(Rebalanced 2026-11-02 in the population rework, `DR-85`: every country appears in its latest-period form (successor states and renamed countries, split by headcount, names explained in `Official_Population_Census.md` Section E); China's row is the Sinian Federation, with its decline and the refill of the gap where the rework applies it; places never counted before were added by time-zone window; tiers were relabeled from the final shares. This city: china's pieces in window: Mongolia, Manchuria, Tibet, East Turkestan; new pools: Hong Kong 0.88%, Macau 0.10%, Taiwan 2.92%, Mongolia 0.09%, North Korea 0.36%; the Sinian Federation's share was multiplied by 0.6427 (random 0.55 to 0.65), and the freed points went in proportion to size to: Australia, Korea. City totals in all four columns are unchanged. Method, every run and the research: `Sinian_Federation_Split_Scratch_2026-11-01/` (file `12_Rebalance_Run4.md`). The table that stood here before is in git commit `593510ab`. Kazakhstan was added on 2026-11-02 (`DR-93`) at 1.45%, the share every city in its time-zone window receives; every other row shrank in proportion.)*
+*(Rebalanced 2026-11-02 in the population rework, `DR-85`: every country appears in its latest-period form (successor states and renamed countries, split by headcount, names explained in `Official_Population_Census.md` Section E); China's row is the Sinian Federation, with its decline and the refill of the gap where the rework applies it; places never counted before were added by time-zone window; tiers were relabeled from the final shares. This city: china's pieces in window: Mongolia, Manchuria, Tibet, East Turkestan; new pools: Hong Kong 0.88%, Macau 0.10%, Taiwan 2.92%, Mongolia 0.09%, North Korea 0.36%; the Sinian Federation's share was multiplied by 0.6427 (random 0.55 to 0.65), and the freed points went in proportion to size to: Australia, Korea. City totals in all four columns are unchanged. Method, every run and the research: `Sinian_Federation_Split_Scratch_2026-11-01/` (file `12_Rebalance_Run4.md`). The table that stood here before is in git commit `593510ab`. Kazakhstan was added on 2026-11-02 (`DR-93`) at 1.45%, the share every city in its time-zone window receives; every other row shrank in proportion. Manchuria's share was reduced on 2026-11-02 (`DR-94`), as the Sinian Federation's was: multiplied by 0.5721 (a draw from 0.55 to 0.65, seed 2026110215), the freed points going in proportion to size to the rows at 4.5% or more outside the top tier; tiers were relabeled from the new shares.)*
 
 *The note below describes the earlier table (2026-07 to 2026-10) and is kept as history; the table is the current one.*
 
@@ -60,8 +60,8 @@ The reasoning: the allocation decision was made on the Upper Earth side, as part
 | Tier | Nation | Share % | Census I Robots | Census I Humans | Census II Robots | Census II Humans |
 |------|--------|---------|------------------|------------------|-------------------|-------------------|
 | Primary | Japan *(founding population — Jeju-do diplomatic allocation)* | 34.20% | 193,839 | 186,718 | 127,306 | 109,181 |
-| Significant | Australia | 9.55% | 54,138 | 52,151 | 35,559 | 30,496 |
-| Significant | Korea | 9.00% | 51,003 | 49,128 | 33,500 | 28,729 |
+| Significant | Australia | 9.65% | 54,709 | 52,701 | 35,934 | 30,818 |
+| Significant | Korea | 9.10% | 51,541 | 49,647 | 33,853 | 29,032 |
 | Notable | Sinian Federation | 4.49% | 25,445 | 24,509 | 16,711 | 14,331 |
 | Notable | Germany | 3.90% | 22,100 | 21,288 | 14,522 | 12,453 |
 | Notable | Russia (core state) | 3.53% | 20,016 | 19,280 | 13,142 | 11,272 |
@@ -83,8 +83,8 @@ The reasoning: the allocation decision was made on the Upper Earth side, as part
 | Notable | Donska-Kubania | 0.97% | 5,500 | 5,298 | 3,612 | 3,098 |
 | Notable | Austro-Bavaria | 0.75% | 4,248 | 4,092 | 2,791 | 2,394 |
 | Notable | Künnarantaiga | 0.58% | 3,314 | 3,193 | 2,176 | 1,865 |
-| Notable | Manchuria | 0.46% | 2,593 | 2,498 | 1,702 | 1,460 |
 | Notable | Hungary | 0.34% | 1,946 | 1,874 | 1,277 | 1,096 |
+| Notable | Manchuria | 0.26% | 1,484 | 1,429 | 974 | 835 |
 | Notable | Mongolia | 0.21% | 1,172 | 1,126 | 770 | 661 |
 | Notable | Dagestan | 0.18% | 1,019 | 982 | 669 | 574 |
 | Notable | East Turkestan | 0.13% | 714 | 689 | 470 | 404 |

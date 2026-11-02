@@ -220,6 +220,13 @@
 - Kazakhstan added to the pool (4.13 million; 13 cities at 1.45%); founder boosts at Temirötkel (Kazakhstan 5.13%), Mawson (Kazakhstan 4.80%, Russia core state 3.35%) and Pergamino (Uruguay 4.53%); Malaysia at Relung Panen left at 3.16% (Indonesia led).
 - **Next open items, in order:** the Demilitarized Zone; Zukelli's Italian share; Kunlun's old-name heritage rows (draft in scratch file 15); whether China's four pieces and Taiwan decline; Troll's faction line (evening work); the language work (parallel session).
 
+### S.0q Items 2 to 5 of the open list (2026-11-02, evening; `DR-94`)
+- **Zukelli's Italian share:** left as it is (the Italian split already removed the 7.6% row).
+- **Kunlun's heritage rows:** renamed to today's names; Italy split equally Meridia / Magna Lombardia; Germany split 70% Germany / 30% Austro-Bavaria after research (Oberpfaffenhofen mission control, ESO headquarters at Garching, Airbus Ottobrunn, Bavaria near 30% of German aerospace jobs, Austria's instrument institute at Graz). Kunlun now has 24 rows.
+- **China's pieces:** Manchuria declines like the Sinian Federation in its 15 cities (seed 2026110215); Mongolia, East Turkestan, Tibet and Taiwan do not. Relabeling moved other rows' tiers in Cape Adare, Scott, Denison and Mirny (listed in `DR-94`).
+- **Troll's faction line:** parked (Background-Lore origin, not canon; factions wait for the end of the run).
+- **Still open:** the Demilitarized Zone; the language work (parallel session); the 117 downstream files in scratch file `14`. Not committed yet.
+
 ### S.1 What was done on the evening of 2026-11-01 (after the Byrd plan below)
 - **Byrd research finished:** T3, T7, T8, T9 ran together (215 of 250 budgeted searches, none refused); all 13 units written. Results in the 0.8 second-session table; status and flags in 0.9. Commit `e368cc3b`.
 - **Ruling `DR-84`** (in `Universal_Location_Methodology/DEVELOPER_RULINGS_LOG.md`): a pending new name does **not** hold up a city's ULM, CST or RWBEM run or its data synthesis. Developer: *"The cities that need to be renamed, we can still do the ULM/CST/RWBEM runs and all of the data synthesis for those cities. The naming can come later. i.e, Dumont d'Urville, Zukelli, Dome Fuji, etc, all those cities can be done during the ULM runs."*

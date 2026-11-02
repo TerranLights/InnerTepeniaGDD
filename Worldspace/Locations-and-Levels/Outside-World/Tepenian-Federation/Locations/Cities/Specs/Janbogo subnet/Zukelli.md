@@ -18,22 +18,22 @@
 | Tier | Nations |
 |------|---------|
 | Primary | Korea, Sinian Federation, Australia *(founding wave)*, CSA, Indonesia |
-| Significant | Japan, Cascadia, Appalachia, Demilitarized Zone (s. Ontario; not a nation), Magna Lombardia, Malaysia, New Zealand, New England, Taiwan, Quebec, Meridia, Prairie Federation, Philippines, Chile, Manchuria, Midwest Republic |
-| Notable | Colorado, Sonora, Sicilia (autonomous zone within Meridia), Mongolia, Araucanía-Patagonia, West Papua, Aceh, Hawaii, Alaska |
+| Significant | Japan, Cascadia, Appalachia, Demilitarized Zone (s. Ontario; not a nation), Magna Lombardia, Malaysia, New Zealand, New England, Taiwan, Quebec, Meridia, Prairie Federation, Philippines, Chile, Midwest Republic |
+| Notable | Manchuria, Colorado, Sonora, Sicilia (autonomous zone within Meridia), Mongolia, Araucanía-Patagonia, West Papua, Aceh, Hawaii, Alaska |
 
 *Source: `Official_Population_Census.md` Sections A–C.*
 
 ### Per-Nation Breakdown — Robots and Humans, Census I and II
 
-*(Rebalanced 2026-11-02 in the population rework, `DR-85`: every country appears in its latest-period form (successor states and renamed countries, split by headcount, names explained in `Official_Population_Census.md` Section E); China's row is the Sinian Federation, with its decline and the refill of the gap where the rework applies it; places never counted before were added by time-zone window; tiers were relabeled from the final shares. This city: china's pieces in window: Mongolia, Manchuria; new pools: Hong Kong 0.88%, Macau 0.10%, Taiwan 2.92%, North Korea 0.36%; the Sinian Federation's share was multiplied by 0.5894 (random 0.55 to 0.65), and the freed points went in proportion to size to: CSA, Korea, Australia, Indonesia. City totals in all four columns are unchanged. Method, every run and the research: `Sinian_Federation_Split_Scratch_2026-11-01/` (file `12_Rebalance_Run4.md`). The table that stood here before is in git commit `593510ab`.)*
+*(Rebalanced 2026-11-02 in the population rework, `DR-85`: every country appears in its latest-period form (successor states and renamed countries, split by headcount, names explained in `Official_Population_Census.md` Section E); China's row is the Sinian Federation, with its decline and the refill of the gap where the rework applies it; places never counted before were added by time-zone window; tiers were relabeled from the final shares. This city: china's pieces in window: Mongolia, Manchuria; new pools: Hong Kong 0.88%, Macau 0.10%, Taiwan 2.92%, North Korea 0.36%; the Sinian Federation's share was multiplied by 0.5894 (random 0.55 to 0.65), and the freed points went in proportion to size to: CSA, Korea, Australia, Indonesia. City totals in all four columns are unchanged. Method, every run and the research: `Sinian_Federation_Split_Scratch_2026-11-01/` (file `12_Rebalance_Run4.md`). The table that stood here before is in git commit `593510ab`. Manchuria's share was reduced on 2026-11-02 (`DR-94`), as the Sinian Federation's was: multiplied by 0.6212 (a draw from 0.55 to 0.65, seed 2026110215), the freed points going in proportion to size to the rows at 4.5% or more outside the top tier; tiers were relabeled from the new shares.)*
 
 | Tier | Nation | Share % | Census I Robots | Census I Humans | Census II Robots | Census II Humans |
 |------|--------|---------|------------------|------------------|-------------------|-------------------|
-| Primary | Korea | 13.94% | 91,467 | 91,264 | 71,532 | 64,185 |
-| Primary | Sinian Federation | 12.25% | 80,409 | 80,230 | 62,883 | 56,427 |
-| Primary | Australia *(founding wave)* | 11.63% | 76,338 | 76,167 | 59,700 | 53,570 |
-| Primary | CSA | 7.67% | 50,332 | 50,219 | 39,362 | 35,320 |
-| Primary | Indonesia | 6.88% | 45,171 | 45,069 | 35,324 | 31,699 |
+| Primary | Korea | 14.09% | 92,436 | 92,231 | 72,290 | 64,865 |
+| Primary | Sinian Federation | 12.38% | 81,261 | 81,080 | 63,549 | 57,025 |
+| Primary | Australia *(founding wave)* | 11.75% | 77,147 | 76,974 | 60,332 | 54,137 |
+| Primary | CSA | 7.75% | 50,865 | 50,751 | 39,779 | 35,694 |
+| Primary | Indonesia | 6.96% | 45,649 | 45,546 | 35,698 | 32,035 |
 | Significant | Japan | 4.49% | 29,460 | 29,393 | 23,039 | 20,674 |
 | Significant | Cascadia | 4.12% | 27,043 | 26,982 | 21,147 | 18,977 |
 | Significant | Appalachia | 3.87% | 25,409 | 25,353 | 19,872 | 17,832 |
@@ -48,8 +48,8 @@
 | Significant | Prairie Federation | 1.97% | 12,935 | 12,905 | 10,115 | 9,077 |
 | Significant | Philippines | 1.81% | 11,884 | 11,856 | 9,293 | 8,339 |
 | Significant | Chile | 1.50% | 9,861 | 9,837 | 7,711 | 6,920 |
-| Significant | Manchuria | 1.46% | 9,610 | 9,589 | 7,515 | 6,743 |
 | Significant | Midwest Republic | 1.20% | 7,902 | 7,884 | 6,179 | 5,545 |
+| Notable | Manchuria | 0.91% | 5,969 | 5,956 | 4,668 | 4,188 |
 | Notable | Colorado | 0.91% | 5,941 | 5,929 | 4,647 | 4,171 |
 | Notable | Sonora | 0.53% | 3,492 | 3,484 | 2,729 | 2,451 |
 | Notable | Sicilia (autonomous zone within Meridia) | 0.48% | 3,175 | 3,168 | 2,484 | 2,228 |

@@ -18,20 +18,20 @@
 |------|---------|
 | Primary | Korea, Japan, Australia, Indonesia |
 | Significant | Sinian Federation, Vietnam, Belarus, New Zealand, Russia (core state), Taiwan, Idelsk-Uralia, Philippines, France, Malaysia |
-| Notable | Serbia, Estonia, Kazakhstan, Thailand, Hungary, Netherlands, Finland, Croatia, CSA, Czechia, Norway, Poland, United Kingdom, Siberia, Spain, Donska-Kubania, México, Appalachia, Lithuania, Latvia, Cascadia, New England, Sweden, Bulgaria, Künnarantaiga, Slovakia, Romania, Manchuria, Germany, Ukraine, Magna Lombardia, Midwest Republic, Slovenia, Meridia, Catalonia, Mongolia, Demilitarized Zone (s. Ontario; not a nation), Colorado, Dagestan, Sonora, Quebec, West Papua, Aceh, East Turkestan, Yucatán, Prairie Federation, Chechnya, Austro-Bavaria, Basque Country, Sicilia (autonomous zone within Meridia), Kabardino-Balkaria, Patani, North Ossetia-Alania, Northern Ireland, Ingushetia, Karachay-Cherkessia, Tuva, Tibet, Hawaii, Alaska |
+| Notable | Serbia, Estonia, Kazakhstan, Thailand, Hungary, Netherlands, Finland, Croatia, CSA, Czechia, Norway, Poland, United Kingdom, Siberia, Spain, Donska-Kubania, México, Appalachia, Lithuania, Latvia, Cascadia, New England, Sweden, Bulgaria, Künnarantaiga, Slovakia, Romania, Germany, Ukraine, Magna Lombardia, Manchuria, Midwest Republic, Slovenia, Meridia, Catalonia, Mongolia, Demilitarized Zone (s. Ontario; not a nation), Colorado, Dagestan, Sonora, Quebec, West Papua, Aceh, East Turkestan, Yucatán, Prairie Federation, Chechnya, Austro-Bavaria, Basque Country, Sicilia (autonomous zone within Meridia), Kabardino-Balkaria, Patani, North Ossetia-Alania, Northern Ireland, Ingushetia, Karachay-Cherkessia, Tuva, Tibet, Hawaii, Alaska |
 
 *Source: `Official_Population_Census.md` Sections A–C.*
 
 ### Per-Nation Breakdown — Robots and Humans, Census I and II
 
-*(Rebalanced 2026-11-02 in the population rework, `DR-85`: every country appears in its latest-period form (successor states and renamed countries, split by headcount, names explained in `Official_Population_Census.md` Section E); China's row is the Sinian Federation, with its decline and the refill of the gap where the rework applies it; places never counted before were added by time-zone window; tiers were relabeled from the final shares. This city: china's pieces in window: Mongolia, Manchuria, Tibet, East Turkestan; new pools: Hong Kong 0.88%, Macau 0.10%, Taiwan 2.92%, Mongolia 0.09%, North Korea 0.36%; the Sinian Federation's share was multiplied by 0.5996 (random 0.55 to 0.65), and the freed points went in proportion to size to: Japan, Korea, Australia, Indonesia (FALLBACK). City totals in all four columns are unchanged. Method, every run and the research: `Sinian_Federation_Split_Scratch_2026-11-01/` (file `12_Rebalance_Run4.md`). The table that stood here before is in git commit `593510ab`. Kazakhstan was added on 2026-11-02 (`DR-93`) at 1.45%, the share every city in its time-zone window receives; every other row shrank in proportion.)*
+*(Rebalanced 2026-11-02 in the population rework, `DR-85`: every country appears in its latest-period form (successor states and renamed countries, split by headcount, names explained in `Official_Population_Census.md` Section E); China's row is the Sinian Federation, with its decline and the refill of the gap where the rework applies it; places never counted before were added by time-zone window; tiers were relabeled from the final shares. This city: china's pieces in window: Mongolia, Manchuria, Tibet, East Turkestan; new pools: Hong Kong 0.88%, Macau 0.10%, Taiwan 2.92%, Mongolia 0.09%, North Korea 0.36%; the Sinian Federation's share was multiplied by 0.5996 (random 0.55 to 0.65), and the freed points went in proportion to size to: Japan, Korea, Australia, Indonesia (FALLBACK). City totals in all four columns are unchanged. Method, every run and the research: `Sinian_Federation_Split_Scratch_2026-11-01/` (file `12_Rebalance_Run4.md`). The table that stood here before is in git commit `593510ab`. Kazakhstan was added on 2026-11-02 (`DR-93`) at 1.45%, the share every city in its time-zone window receives; every other row shrank in proportion. Manchuria's share was reduced on 2026-11-02 (`DR-94`), as the Sinian Federation's was: multiplied by 0.5778 (a draw from 0.55 to 0.65, seed 2026110215), the freed points going in proportion to size to the rows at 4.5% or more outside the top tier; tiers were relabeled from the new shares.)*
 
 | Tier | Nation | Share % | Census I Robots | Census I Humans | Census II Robots | Census II Humans |
 |------|--------|---------|------------------|------------------|-------------------|-------------------|
-| Primary | Korea | 9.97% | 53,428 | 52,996 | 34,421 | 32,459 |
-| Primary | Japan | 9.60% | 51,506 | 51,091 | 33,183 | 31,290 |
-| Primary | Australia | 8.06% | 43,188 | 42,839 | 27,824 | 26,238 |
-| Primary | Indonesia | 7.63% | 40,903 | 40,570 | 26,348 | 24,848 |
+| Primary | Korea | 10.03% | 53,742 | 53,307 | 34,623 | 32,649 |
+| Primary | Japan | 9.66% | 51,808 | 51,391 | 33,378 | 31,474 |
+| Primary | Australia | 8.10% | 43,442 | 43,091 | 27,987 | 26,392 |
+| Primary | Indonesia | 7.68% | 41,143 | 40,808 | 26,503 | 24,994 |
 | Significant | Sinian Federation | 4.45% | 23,863 | 23,668 | 15,373 | 14,497 |
 | Significant | Vietnam | 3.99% | 21,370 | 21,196 | 13,766 | 12,983 |
 | Significant | Belarus | 3.56% | 19,053 | 18,898 | 12,274 | 11,574 |
@@ -69,10 +69,10 @@
 | Notable | Künnarantaiga | 0.62% | 3,351 | 3,325 | 2,158 | 2,035 |
 | Notable | Slovakia | 0.62% | 3,335 | 3,306 | 2,147 | 2,025 |
 | Notable | Romania | 0.58% | 3,123 | 3,098 | 2,011 | 1,897 |
-| Notable | Manchuria | 0.49% | 2,629 | 2,608 | 1,694 | 1,596 |
 | Notable | Germany | 0.46% | 2,443 | 2,423 | 1,571 | 1,484 |
 | Notable | Ukraine | 0.43% | 2,327 | 2,307 | 1,499 | 1,414 |
 | Notable | Magna Lombardia | 0.40% | 2,147 | 2,132 | 1,385 | 1,305 |
+| Notable | Manchuria | 0.28% | 1,519 | 1,507 | 979 | 922 |
 | Notable | Midwest Republic | 0.27% | 1,449 | 1,437 | 932 | 879 |
 | Notable | Slovenia | 0.26% | 1,428 | 1,416 | 920 | 866 |
 | Notable | Meridia | 0.25% | 1,320 | 1,308 | 849 | 800 |

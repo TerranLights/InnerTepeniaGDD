@@ -452,7 +452,7 @@ Same geographic position as Janbogo.
 | 2 — Significant | **Japan** (65M), **Italy** (27M), **South Korea** (26M), **Canada** (20M), **Indonesia** (16M), **Australia** (13M) | Italy: 27M effective |
 | 3 — Notable | **Philippines** (5M), **Malaysia** (5M), **New Zealand** (2.6M), **Chile** (2.3M) | Philippines and Malaysia via Pacific corridor; same geographic proximity founding wave nations for NZ and Chile |
 
-**Final composition after the 2026-11-02 rework (`DR-85`):** Primary — Korea, Sinian Federation, Australia, CSA, Indonesia; Significant — Japan, Cascadia, Appalachia, Demilitarized Zone (s. Ontario; not a nation), Magna Lombardia, Malaysia, New Zealand, New England, Taiwan, Quebec, Meridia, Prairie Federation, Philippines, Chile, Manchuria, Midwest Republic; Notable — 9 nations and smaller successor rows (all of them, with shares and counts, in the city's Specs file). The pool-based table above is the derivation before the rework.
+**Final composition after the 2026-11-02 rework (`DR-85`):** Primary — Korea, Sinian Federation, Australia, CSA, Indonesia; Significant — Japan, Cascadia, Appalachia, Demilitarized Zone (s. Ontario; not a nation), Magna Lombardia, Malaysia, New Zealand, New England, Taiwan, Quebec, Meridia, Prairie Federation, Philippines, Chile, Midwest Republic; Notable — 10 nations and smaller successor rows (all of them, with shares and counts, in the city's Specs file). The pool-based table above is the derivation before the rework.
 
 ---
 
@@ -464,7 +464,7 @@ Same geographic position as Janbogo.
 | 2 — Significant | **Japan** (65M), **UK** (32M), **South Korea** (26M), **Canada** (20M), **Indonesia** (16M), **Australia** (13M) | Ordinary Gini-adjusted Pacific/UK-corridor pools *(corrected 2026-07-13 — previously read "UK elevated by historical Borchgrevink connection in GDD," a real-world-explorer-nationality-as-causal-explanation violation of this project's binding GPS-only rule; Cape Adare's own Specs/Local_Cultures deliberately establish St. Carsten's significance as unrelated to his own nationality, and UK's actual resulting share, 5.03%, is the smallest of the tier — not an elevated one, contradicting the old note's own claim)*; Australia (~3,500km from Hobart — shortest approach from any major nation) sets early founding character |
 | 3 — Notable | **Philippines** (5M), **Malaysia** (5M), **New Zealand** (2.6M), **Chile** (2.3M) | Philippines and Malaysia via Pacific; Cape Adare is the closest Antarctic point to NZ; NZ geographic primacy strongest here; founding wave is NZ-dominated |
 
-**Final composition after the 2026-11-02 rework (`DR-85`):** Primary — Australia, Sinian Federation, Japan, Indonesia, CSA; Significant — Korea, United Kingdom, Appalachia, Cascadia, New England, Chile, New Zealand, Taiwan, Demilitarized Zone (s. Ontario; not a nation), Philippines, Quebec, Malaysia, Midwest Republic, Prairie Federation, Manchuria, Colorado; Notable — 8 nations and smaller successor rows (all of them, with shares and counts, in the city's Specs file). The pool-based table above is the derivation before the rework.
+**Final composition after the 2026-11-02 rework (`DR-85`):** Primary — Australia, Sinian Federation, Japan, Indonesia; Significant — CSA, Korea, United Kingdom, Appalachia, Cascadia, New England, Chile, New Zealand, Taiwan, Demilitarized Zone (s. Ontario; not a nation), Philippines, Quebec, Malaysia, Midwest Republic, Prairie Federation, Colorado; Notable — 9 nations and smaller successor rows (all of them, with shares and counts, in the city's Specs file). The pool-based table above is the derivation before the rework.
 
 ---
 
@@ -490,7 +490,7 @@ Same geographic position as Janbogo.
 | 2 — Significant | **Japan** (65M), **UK** (32M), **South Korea** (26M), **Canada** (20M), **Indonesia** (16M), **Australia** (13M) | NZ founding character embedded in GDD; UK at 32M elevated by Commonwealth-NZ connection |
 | 3 — Notable | **Philippines** (5M), **Malaysia** (5M), **New Zealand** (2.6M), **Chile** (2.3M) | Philippines and Malaysia via Pacific; NZ founder wave character — Scott's GDD identity is New Zealand despite NZ being T3 in Gini composition |
 
-**Final composition after the 2026-11-02 rework (`DR-85`):** Primary — Japan, United Kingdom, Sinian Federation, Australia, CSA, Korea; Significant — Indonesia, Appalachia, Cascadia, New England, New Zealand, Chile, Taiwan; Notable — 16 nations and smaller successor rows (all of them, with shares and counts, in the city's Specs file). The pool-based table above is the derivation before the rework.
+**Final composition after the 2026-11-02 rework (`DR-85`):** Primary — Japan, United Kingdom, Sinian Federation, Australia; Significant — CSA, Korea, Indonesia, Appalachia, Cascadia, New England, New Zealand, Chile, Taiwan; Notable — 16 nations and smaller successor rows (all of them, with shares and counts, in the city's Specs file). The pool-based table above is the derivation before the rework.
 
 ---
 
@@ -520,7 +520,7 @@ Same geographic position as Janbogo.
 
 *Population note: Denison's Canon Census I figures were derived by a different method than the standard island-overflow tier calculation. Canon Census I: 526,521 humans / 546,852 robots / 1,073,373 combined. Census II retention rates are pending.*
 
-**Final composition after the 2026-11-02 rework (`DR-85`):** Primary — Korea, Sinian Federation, Indonesia, CSA, Japan; Significant — Australia, Appalachia, New England, Cascadia, New Zealand, Vietnam, Philippines, Taiwan, Malaysia, Midwest Republic, Manchuria, Thailand, Colorado; Notable — 7 nations and smaller successor rows (all of them, with shares and counts, in the city's Specs file). The pool-based table above is the derivation before the rework.
+**Final composition after the 2026-11-02 rework (`DR-85`):** Primary — Korea, Sinian Federation, Indonesia; Significant — CSA, Japan, Australia, Appalachia; Notable — 18 nations and smaller successor rows (all of them, with shares and counts, in the city's Specs file). The pool-based table above is the derivation before the rework.
 
 ---
 
@@ -624,7 +624,7 @@ Same geographic cluster as Davis.
 | 2 — Significant | **Japan** (65M), **UK** (32M), **South Korea** (26M), **Russia** (25M), **Indonesia** (16M), **Australia** (13M) | Japan leads T2; Australia (~3,500–4,000km Hobart — a direct sea route from Australia) sets founding wave character |
 | 3 — Notable | **Thailand** (8M), **Vietnam** (5M), **Philippines** (5M), **Malaysia** (5M), **South Africa** (3M), **New Zealand** (2.6M), **Belarus** (1.5M) | SE Asian corridor (all UTC+7–8, within ±3 of Mirny's UTC+6) is the dominant T3 presence; Belarus (UTC+3, distance=3) just qualifies; Romania/Ukraine outside ±3 window; SA via Cape Town long at 93°E |
 
-**Final composition after the 2026-11-02 rework (`DR-85`):** Primary — United Kingdom, Korea, Indonesia, Sinian Federation; Significant — Japan, Australia, Philippines, New Zealand, Malaysia, Thailand, Taiwan, Idelsk-Uralia, Russia (core state), Vietnam, Manchuria, Belarus, South Africa, Kazakhstan; Notable — 18 nations and smaller successor rows (all of them, with shares and counts, in the city's Specs file). The pool-based table above is the derivation before the rework.
+**Final composition after the 2026-11-02 rework (`DR-85`):** Primary — United Kingdom, Korea, Indonesia, Sinian Federation, Japan, Australia; Significant — Philippines, New Zealand, Malaysia, Thailand, Taiwan, Idelsk-Uralia, Russia (core state), Vietnam, Belarus, South Africa, Kazakhstan; Notable — 19 nations and smaller successor rows (all of them, with shares and counts, in the city's Specs file). The pool-based table above is the derivation before the rework.
 
 ---
 
@@ -721,7 +721,7 @@ this table anyway — by meridian and gateway, never by whose flag was on the hu
 
 *Key note: Chile's Union Glacier route makes it prominent at the South Pole in a way not seen at any other Tepenian city. Despite only 2.3M Gini-adjusted effective, Chile's geographic advantage here is unique and GDD-justified. Norway's Amundsen heritage (Saint Roald) gives it cultural significance disproportionate to its T3 effective population.*
 
-**Final composition after the 2026-11-02 rework (`DR-85`):** Primary — United Kingdom, Sinian Federation, Japan, Germany, CSA; Significant — Korea, Australia, Appalachia, Cascadia, New England, New Zealand, Austro-Bavaria, Argentina (without Patagonia), Taiwan, Demilitarized Zone (s. Ontario; not a nation), Quebec, Norway, Kazakhstan, Midwest Republic, Chile, Manchuria, Prairie Federation, Colorado; Notable — 8 nations and smaller successor rows (all of them, with shares and counts, in the city's Specs file). The pool-based table above is the derivation before the rework.
+**Final composition after the 2026-11-02 rework (`DR-85`):** Primary — United Kingdom, Sinian Federation, Japan, Germany, CSA; Significant — Korea, Australia, Appalachia, Cascadia, New England, New Zealand, Austro-Bavaria, Argentina (without Patagonia), Taiwan, Demilitarized Zone (s. Ontario; not a nation), Quebec, Norway, Kazakhstan, Midwest Republic, Chile, Prairie Federation, Colorado; Notable — 9 nations and smaller successor rows (all of them, with shares and counts, in the city's Specs file). The pool-based table above is the derivation before the rework.
 
 ---
 

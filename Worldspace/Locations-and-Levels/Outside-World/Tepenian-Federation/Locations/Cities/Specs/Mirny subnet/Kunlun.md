@@ -36,14 +36,14 @@
 | Tier | Nations |
 |------|---------|
 | Primary | Sinian Federation *(founding wave)* |
-| Significant | Canada, Japan, UK, Intermarium/Intermaria, USA, Russia, Mongolia *(founding wave)*, Künnarantaiga *(founding wave)*, Italy, South Korea, Germany, France |
-| Notable | New Zealand, Argentina, Sweden, Australia, Chile, Norway, Spain, South Africa, Netherlands |
+| Significant | Quebec, Japan, United Kingdom, Intermarium/Intermaria, CSA, Russia (core state), Mongolia *(founding wave)*, Künnarantaiga *(founding wave)*, Korea, France, Meridia, Magna Lombardia, Germany, Austro-Bavaria |
+| Notable | New Zealand, Argentina (without Patagonia), Sweden, Australia, Chile, Norway, Spain, South Africa, Netherlands |
 
 *Source: `Official_Population_Census.md` Sections A–C. Tiering re-derived 2026-07-06 around genuine real-world space/astronomy/communications heritage rather than population or GDP — see Founding Population Resolution, below.*
 
 ### Per-Nation Breakdown — Robots (Census I only; no human population)
 
-*(Rebalanced 2026-11-02 in the population rework, `DR-85`: every country appears in its latest-period form (successor states and renamed countries, split by headcount, names explained in `Official_Population_Census.md` Section E); China's row is the Sinian Federation, with its decline and the refill of the gap where the rework applies it; places never counted before were added by time-zone window; tiers were relabeled from the final shares. Kunlun follows Option A: the Sinian Federation alone in the top tier; the USA and Russia in the middle tier; Mongolia and Künnarantaiga added to the middle tier as the founding wave. The other rows keep their space-program heritage names. City totals in all four columns are unchanged. Method, every run and the research: `Sinian_Federation_Split_Scratch_2026-11-01/` (file `12_Rebalance_Run4.md`). The table that stood here before is in git commit `593510ab`.)*
+*(Rebalanced 2026-11-02 in the population rework, `DR-85`: every country appears in its latest-period form (successor states and renamed countries, split by headcount, names explained in `Official_Population_Census.md` Section E); China's row is the Sinian Federation, with its decline and the refill of the gap where the rework applies it; places never counted before were added by time-zone window; tiers were relabeled from the final shares. Kunlun follows Option A: the Sinian Federation alone in the top tier; the USA and Russia in the middle tier; Mongolia and Künnarantaiga added to the middle tier as the founding wave. The other rows keep their space-program heritage names. City totals in all four columns are unchanged. Method, every run and the research: `Sinian_Federation_Split_Scratch_2026-11-01/` (file `12_Rebalance_Run4.md`). The table that stood here before is in git commit `593510ab`. Kunlun's heritage rows were given today's names on 2026-11-02 (`DR-94`), shares and counts unchanged: USA is CSA, Russia is Russia (core state), Canada is Quebec, UK is the United Kingdom, South Korea is Korea, Argentina is Argentina (without Patagonia), Italy is split equally between Meridia and Magna Lombardia, and Germany is split 70% Germany and 30% Austro-Bavaria (Bavaria holds about 30% of German aerospace employment, and Austria adds its space-instrument institute at Graz).)*
 
 *The note below describes the earlier table (2026-07 to 2026-10) and is kept as history; the table is the current one.*
 
@@ -52,20 +52,22 @@
 | Tier | Nation | Share % | Census I Robots |
 |------|--------|---------|------------------|
 | Primary | Sinian Federation *(founding wave)* | 15.09% | 22,415 |
-| Significant | Canada | 7.74% | 11,487 |
+| Significant | Quebec | 7.74% | 11,487 |
 | Significant | Japan | 7.26% | 10,784 |
-| Significant | UK | 6.97% | 10,353 |
+| Significant | United Kingdom | 6.97% | 10,353 |
 | Significant | Intermarium/Intermaria | 6.86% | 10,193 |
-| Significant | USA | 5.66% | 8,405 |
-| Significant | Russia | 5.66% | 8,405 |
+| Significant | CSA | 5.66% | 8,405 |
+| Significant | Russia (core state) | 5.66% | 8,405 |
 | Significant | Mongolia *(founding wave)* | 5.66% | 8,405 |
 | Significant | Künnarantaiga *(founding wave)* | 5.66% | 8,405 |
-| Significant | Italy | 5.66% | 8,404 |
-| Significant | South Korea | 4.36% | 6,470 |
-| Significant | Germany | 3.58% | 5,321 |
+| Significant | Korea | 4.36% | 6,470 |
 | Significant | France | 2.85% | 4,233 |
+| Significant | Meridia | 2.83% | 4,202 |
+| Significant | Magna Lombardia | 2.83% | 4,202 |
+| Significant | Germany | 2.51% | 3,725 |
+| Significant | Austro-Bavaria | 1.07% | 1,596 |
 | Notable | New Zealand | 2.65% | 3,942 |
-| Notable | Argentina | 2.62% | 3,894 |
+| Notable | Argentina (without Patagonia) | 2.62% | 3,894 |
 | Notable | Sweden | 2.55% | 3,783 |
 | Notable | Australia | 2.53% | 3,750 |
 | Notable | Chile | 2.30% | 3,415 |
@@ -88,7 +90,7 @@ Dome A — Dome Argus — is the highest point on the Antarctic Ice Sheet, at ap
 
 At 4,093 meters geometric elevation, with a physiological effective altitude approaching 5,000 meters due to polar atmospheric compression, Dome A / Kunlun is at the absolute limit of what sustained human habitation can support. Chronic mountain sickness at this altitude is not a manageable condition — it is the permanent baseline. The human founding population would have faced continuous physiological stress that compounds over years. **Resolved 2026-07-05** (see `Robot_Biology_and_Culture/Robot_Physiology_and_Cultural_Practices.md`, "Human-Robot Relations — Project-Wide Baseline"): no human population has survived at Kunlun, and human presence is now outright forbidden — not out of any anti-human sentiment, but as a genuine safety measure, since the combined altitude and cold would kill a human where a robot is unaffected. Kunlun is 0 humans / 148,497 robots today by settled protective policy, not by ambiguous attrition.
 
-**Re-resolved 2026-07-06:** Kunlun is no longer Tepenia's "exclusively Sinian" city — China remains a genuine, substantial Primary-tier presence, but sits alongside the USA and Russia as one of three space-superpower nations, with a further seventeen nations represented across the Significant and Notable tiers by real astronomy/space/communications credentials. See Population & Composition, above. *(Updated 2026-11-02, `DR-85`, Option A: the Sinian Federation now stands alone in the Primary tier and clearly leads; the USA and Russia are in the Significant tier; twenty-one further rows are represented, Mongolia and Künnarantaiga among them as the founding wave.)*
+**Re-resolved 2026-07-06:** Kunlun is no longer Tepenia's "exclusively Sinian" city — China remains a genuine, substantial Primary-tier presence, but sits alongside the USA and Russia as one of three space-superpower nations, with a further seventeen nations represented across the Significant and Notable tiers by real astronomy/space/communications credentials. See Population & Composition, above. *(Updated 2026-11-02, `DR-85`, Option A: the Sinian Federation now stands alone in the Primary tier and clearly leads; the USA and Russia are in the Significant tier; twenty-three further rows are represented (24 rows in all after the 2026-11-02 renaming and splitting of the heritage rows, `DR-94`), Mongolia and Künnarantaiga among them as the founding wave.)*
 
 ### Annual Climate
 
