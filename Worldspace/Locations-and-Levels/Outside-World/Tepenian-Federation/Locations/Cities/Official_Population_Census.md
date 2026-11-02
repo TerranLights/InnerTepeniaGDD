@@ -657,7 +657,7 @@ National communities are classified by tier based on long-run population share. 
 | 21 | Sejong | Palmer | 234,304 | 279,766 | **514,070** |  |
 | 22 | Marambio | Palmer | 195,623 | 234,522 | **430,145** |  |
 | 23 | Fort McMurdo | Janbogo | 173,548 | 164,621 | **338,169** |  |
-| 24 | Palmer City | Palmer | 180,688 | 151,482 | **332,170** | *(revised 2026-07-03)* |
+| 24 | Palmer City | Palmer | 180,688 | 151,482 | **332,170** | *(revised 2026-07-03)* **Note (developer, 2026-11-02, `DR-91`: keep the numbers and add a note):** Palmer City's total is held at its island cap in both censuses (332,808 → 332,170, retention 99.81%); the Census II human/robot split (humans 180,688, retention 108.9%; robots 151,482, retention 90.8%) is a bookkeeping outcome of that cap, **not an event: no one moved, and nobody is to be written as having moved into or out of Palmer City.** |
 | 25 | Scott | Janbogo | 153,382 | 160,252 | **313,634** | *(island cap)* |
 | 26 | Dumont d'Urville | Janbogo | 121,170 | 159,635 | **280,805** | ⭐ **−10% 2026-09-05** — *retention preserved (68.8248% → 68.8246%).* ⛔ `island cap` removed. **OVERFLOW 13,464 H / 17,737 R / 31,201 C HELD — §D-OVERFLOW** |
 | 27 | Sanay | Halley | 162,476 | 148,520 | **310,996** | ⭐ **Scenario `DR-68`, 2026-10-28:** +8,107 H / +7,738 R *(was 145,798 / 129,319 / **275,117**)*. Arithmetic, NOT a migration. ⭐ **`DR-90`, 2026-11-02:** +8,571 H / +11,463 R from the Esperanza relocation. Arithmetic, NOT a migration. |

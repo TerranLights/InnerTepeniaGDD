@@ -206,6 +206,12 @@
 - **Santa Luce** answers recorded: Census II governs; Italian and CIN communities in mixed spaces but generally separate neighborhoods; Hawaiian (later Tepenian) is the dominant language everywhere and the next is the majority holder; the CIN share is all member states by population; fabrication chambers everywhere except Dome Fuji; Troll's faction line waits for the evening work.
 - **Palmer City's Census II** (108.9% human retention) was not ruled; the recommendation (keep and document) stands.
 
+### S.0n National food balance re-run; Palmer City noted (2026-11-02, afternoon; `DR-91`)
+- `Division_of_Industry/19_National_Balance_Refresh_2026-11-02.md`: slack 9.9% → 7.7% (5.3% → 3.0% without Relung Panen); Esperanza's share of food supply 27.4% → 18.9%; Davis 44.3%. Pointers added to `04`, `13`, `17`.
+- Palmer City's Census II kept, with a note in its spec, the census and its sheets.
+- **Next (the developer's order):** the Register gateway labels (seven rows; decisions needed on Puerto Abrigo, Signy and Pergamino).
+- **Flagged, not edited:** composition file L1259, `City_Master_Reference/Palmer_Subnet_Reference.md` L114 and the Esperanza megasheets (old Esperanza population and "breadbasket" framing).
+
 ### S.1 What was done on the evening of 2026-11-01 (after the Byrd plan below)
 - **Byrd research finished:** T3, T7, T8, T9 ran together (215 of 250 budgeted searches, none refused); all 13 units written. Results in the 0.8 second-session table; status and flags in 0.9. Commit `e368cc3b`.
 - **Ruling `DR-84`** (in `Universal_Location_Methodology/DEVELOPER_RULINGS_LOG.md`): a pending new name does **not** hold up a city's ULM, CST or RWBEM run or its data synthesis. Developer: *"The cities that need to be renamed, we can still do the ULM/CST/RWBEM runs and all of the data synthesis for those cities. The naming can come later. i.e, Dumont d'Urville, Zukelli, Dome Fuji, etc, all those cities can be done during the ULM runs."*

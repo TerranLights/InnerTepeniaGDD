@@ -12,7 +12,7 @@
 ## Population & Composition
 
 **Census I (Pre-Orbital Era):** 165,912 humans / 166,896 robots / **332,808** combined *(island cap)*
-**Census II (Orbital Era):** 180,688 humans / 151,482 robots / **332,170** combined *(island cap)*
+**Census II (Orbital Era):** 180,688 humans / 151,482 robots / **332,170** combined *(island cap)* **Note (developer, 2026-11-02, `DR-91`: keep the numbers and add a note):** Palmer City's total is held at its island cap in both censuses (332,808 → 332,170, retention 99.81%); the Census II human/robot split (humans 180,688, retention 108.9%; robots 151,482, retention 90.8%) is a bookkeeping outcome of that cap, **not an event: no one moved, and nobody is to be written as having moved into or out of Palmer City.**
 
 > ### ⭐⭐⭐ EXTENT DECLARED 2026-09-05 — **and the terrain finding matters more than the number.**
 > **`**Extent band:** ~40 km².`** **332,808 ÷ 40 km² = 8,320/km²** — *inside the band. Was 137/km² against Anvers Island entire.*
