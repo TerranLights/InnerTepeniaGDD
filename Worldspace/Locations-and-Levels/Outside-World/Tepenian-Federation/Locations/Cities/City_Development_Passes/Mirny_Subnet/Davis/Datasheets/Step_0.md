@@ -41,7 +41,7 @@ by Phase 0's contract rather than by the declaration block.)*
 |---|---|---|
 | **U** `Repo_Scope.md` | Tier U — this project's repo-boundary statement (this repo holds what happened and why, never what a player does about it) | `00_Frame.md` §0.5 item 3, cites `Repo_Scope.md` |
 | **U** Timeline Eras | Second Interwar (2564–2812), 248 years | `00_Frame.md` §0.1, L92 |
-| **P** Census + location registries | Census I: 563,599 H / 594,715 R / 1,158,314 · Census II: 437,423 H / 344,173 R / 781,596 | `Official_Population_Census.md` L506, L649 (via `00_Frame.md` L89–90) *(Census II re-pointed 2026-10-30 from L611)* |
+| **P** Census + location registries | Census I: 563,599 H / 594,715 R / 1,158,314 · Census II: 437,423 H / 344,173 R / 781,596 | `Official_Population_Census.md` L506, L650 (via `00_Frame.md` L89–90) *(Census II re-pointed 2026-10-30 from L611)* |
 | `## Canon opened` receipt | Present at `00_Frame.md` — see its own §0.4 mandated-read-order table | `00_Frame.md` §0.4 |
 
 **Not mechanical / not included here:** the Type+modifiers declaration, generator selection, the asymmetry

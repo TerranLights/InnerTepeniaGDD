@@ -41,11 +41,11 @@ def main():
             for i, ln in enumerate(L):
                 def sub(m):
                     nonlocal done
-                    tail = re.sub(r"\*\([^)]*\)\*", "", m.group(9))
+                    tail = re.sub(r"\*\((?:[^()]|\([^()]*\))*\)\*|\([^()]*\)", "", m.group(9))
                     if re.search(r"[.;—]|\bplus\b|\(", tail.strip()):
                         skipped.append((f.split(str(PASSES))[1], i + 1))
                         return m.group(0)
-                    annotate = "*(" in (m.group(3) + m.group(6) + m.group(9))
+                    annotate = True
                     ls = lists(data[key]["rows"], annotate)
                     trail = m.group(9)[len(m.group(9).rstrip()):]
                     done += 1

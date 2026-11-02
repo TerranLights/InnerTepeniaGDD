@@ -35,21 +35,21 @@
 
 | Tier | Nations |
 |------|---------|
-| Primary | United Kingdom, Spain, CSA, France, Magna Lombardia |
-| Significant | Appalachia, New England, Meridia, Argentina (without Patagonia), Cascadia, Germany, Chile |
+| Primary | Spain, CSA, United Kingdom, France, Magna Lombardia |
+| Significant | Appalachia, New England, Meridia, Argentina (without Patagonia), Cascadia, Uruguay *(founding wave)*, Germany, Chile |
 | Notable | Catalonia, México, Brazil, Midwest Republic, Colorado, Sicilia (autonomous zone within Meridia), Sonora, Araucanía-Patagonia, Basque Country, Austro-Bavaria, Northern Ireland, Yucatán, Amazonia, Hawaii, Alaska |
 
 *Source: `Official_Population_Census.md` Sections A–C.*
 
 ### Per-Nation Breakdown — Robots and Humans, Census I and II
 
-*(Rebalanced 2026-11-02 in the population rework, `DR-85`: every country appears in its latest-period form (successor states and renamed countries, split by headcount, names explained in `Official_Population_Census.md` Section E); China's row is the Sinian Federation, with its decline and the refill of the gap where the rework applies it; places never counted before were added by time-zone window; tiers were relabeled from the final shares. This city: new pools: Petén 0.05%. City totals in all four columns are unchanged. Method, every run and the research: `Sinian_Federation_Split_Scratch_2026-11-01/` (file `12_Rebalance_Run4.md`). The table that stood here before is in git commit `593510ab`.)*
+*(Rebalanced 2026-11-02 in the population rework, `DR-85`: every country appears in its latest-period form (successor states and renamed countries, split by headcount, names explained in `Official_Population_Census.md` Section E); China's row is the Sinian Federation, with its decline and the refill of the gap where the rework applies it; places never counted before were added by time-zone window; tiers were relabeled from the final shares. This city: new pools: Petén 0.05%. City totals in all four columns are unchanged. Method, every run and the research: `Sinian_Federation_Split_Scratch_2026-11-01/` (file `12_Rebalance_Run4.md`). The table that stood here before is in git commit `593510ab`. Uruguay, the city's first founder, was given a row on 2026-11-02 (`DR-93`) of 4.53 points taken from the United Kingdom.)*
 
 | Tier | Nation | Share % | Census I Robots | Census I Humans | Census II Robots | Census II Humans |
 |------|--------|---------|------------------|------------------|-------------------|-------------------|
-| Primary | United Kingdom | 13.33% | 26,248 | 25,288 | 16,986 | 15,847 |
 | Primary | Spain | 10.88% | 21,438 | 20,655 | 13,874 | 12,944 |
 | Primary | CSA | 9.58% | 18,868 | 18,177 | 12,211 | 11,391 |
+| Primary | United Kingdom | 8.81% | 17,335 | 16,702 | 11,218 | 10,466 |
 | Primary | France | 8.51% | 16,746 | 16,133 | 10,838 | 10,110 |
 | Primary | Magna Lombardia | 8.11% | 15,965 | 15,381 | 10,332 | 9,639 |
 | Significant | Appalachia | 6.15% | 12,111 | 11,667 | 7,838 | 7,312 |
@@ -57,6 +57,7 @@
 | Significant | Meridia | 4.97% | 9,800 | 9,442 | 6,343 | 5,917 |
 | Significant | Argentina (without Patagonia) | 4.75% | 9,350 | 9,008 | 6,051 | 5,645 |
 | Significant | Cascadia | 4.58% | 9,012 | 8,682 | 5,833 | 5,440 |
+| Significant | Uruguay *(founding wave)* | 4.53% | 8,913 | 8,586 | 5,768 | 5,381 |
 | Significant | Germany | 4.22% | 8,305 | 8,001 | 5,374 | 5,015 |
 | Significant | Chile | 4.10% | 8,065 | 7,769 | 5,219 | 4,869 |
 | Notable | Catalonia | 2.33% | 4,591 | 4,423 | 2,972 | 2,772 |

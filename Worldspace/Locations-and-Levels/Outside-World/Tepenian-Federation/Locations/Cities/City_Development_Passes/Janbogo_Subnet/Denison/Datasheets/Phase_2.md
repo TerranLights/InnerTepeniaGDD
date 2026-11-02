@@ -6,9 +6,9 @@
 
 | Category | Value | Citation |
 |---|---|---|
-| Composition tiers | Primary: Korea, Sinian Federation, Indonesia, CSA, Japan · Significant: Australia, Appalachia, New England, Cascadia, New Zealand, Vietnam, Philippines, Taiwan, Malaysia, Midwest Republic, Manchuria, Thailand, Colorado · Notable: Sonora, Mongolia, West Papua, Aceh, Hawaii, Alaska, Patani | `Specs/Denison.md` L54–58 |
+| Composition tiers | Primary: Korea, Sinian Federation, Indonesia, CSA, Japan · Significant: Australia *(founding wave)*, Appalachia, New England, Cascadia, New Zealand, Vietnam, Philippines, Taiwan, Malaysia, Midwest Republic, Manchuria, Thailand, Colorado · Notable: Sonora, Mongolia, West Papua, Aceh, Hawaii, Alaska, Patani | `Specs/Denison.md` L54–58 |
 | Per-nation breakdown | See `Step_1_and_2.md` — full table repeated there | `Specs/Denison.md` L66–92 |
-| Census I / II rows | See `Step_0.md` and `Step_1_and_2.md` | `Official_Population_Census.md` L510, L651 |
+| Census I / II rows | See `Step_0.md` and `Step_1_and_2.md` | `Official_Population_Census.md` L510, L652 |
 | Computed retention % | Combined 68.73% · human 64.20% · robot 73.10% (formula and both inputs in `Step_0.md`) | Computed, cited there |
 | Founding population | **Australia**, ruled in the Founding Register on geography and access (`DR-44`). Spec L293's "Australian exiles first" now agrees with the Register; ⛔ the spec's expedition-based reason (the site as Mawson's base) is still not an input (`DR-19`, rule 7). *(Refreshed 2026-10-21 against the corrected spec and the Founding Register.)* | `Specs/Denison.md` L293; `Founding_Register.md` L72, L90 |
 | `Upper_Earth_Immigration_Composition.md` — the city's own section (the registered composition address) | Heading `### Denison` at L465; section L465–L475: tier table L467–L471, founding note L473, population note L475. **Cited by range, not quoted**: which spans are admissible is Step −1's ruling. Recorded for that ruling: the founding note (L473) names "Australia and New Zealand" as arriving first, where the Founding Register row (L72) names Australia; the population note (L475) carries an earlier Census I (526,521 H / 546,852 R / 1,073,373 combined; L990 carries 526,521 and 1,073,373), not the live 471,598 / 486,742 / 958,340 (`Official_Population_Census.md` L510) | `Upper_Earth_Immigration_Composition.md` L511–L475, L990 |

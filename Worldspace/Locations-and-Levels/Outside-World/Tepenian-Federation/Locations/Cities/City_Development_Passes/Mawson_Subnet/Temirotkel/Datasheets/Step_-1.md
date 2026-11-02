@@ -16,7 +16,7 @@
 | Significance | Named Temirötkel, "Iron Crossing" (`DR-37`; the former name Sayowa came from "Syowa" (Shōwa), the Japanese imperial era name for the reign of Emperor Hirohito (1926–1989), a derivation that no longer applies, see `DR-30`); island position on East Ongul Island gives Temirötkel a defined maritime boundary; geographically westernmost city in the Mawson subnet, bridging toward the Halley subnet territory; a major highway junction connecting to Ariun Nuur, Kunlun, Concordia, and the Halley subnet | `Specs/Temirotkel.md` L11 |
 | Coordinates (as written in the same field) | ~69°00'S, 39°35'E | `Specs/Temirotkel.md` L5 |
 | Specs `Status:` field | States a later-era condition; per the standing default-scope rule (`00_RUNBOOK.md`, the Second Interwar default) this is **never an input** to a Second Interwar pass — not copied | `Specs/Temirotkel.md` L7 |
-| Later-era sections present in the Specs file (same exclusion as `Status:`) | 3 section(s), by heading position: L246, L251, L259 — not copied, not described | `Specs/Temirotkel.md` L253, L258, L266 |
+| Later-era sections present in the Specs file (same exclusion as `Status:`) | 3 section(s), by heading position: L246, L251, L259 — not copied, not described | `Specs/Temirotkel.md` L254, L259, L267 |
 | Census I (spec's own line) | 93,356 humans / 132,020 robots / **225,376** combined ⛔ *(`island cap` removed — see below)* | `Specs/Temirotkel.md` L18 |
 | Census II (spec's own line) | 85,199 humans / 79,758 robots / **164,957** combined ⛔ *(`island cap` removed)* | `Specs/Temirotkel.md` L19 |
 

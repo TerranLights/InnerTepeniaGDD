@@ -18,7 +18,7 @@
 | Significance | *[source line excluded: later-era content, outside the Second Interwar default scope; not copied]* | `Specs/Dome_Fuji.md` L35 |
 | Coordinates (as written in the same field) | ~77°19'S, 39°42'E | `Specs/Dome_Fuji.md` L30 |
 | Specs `Status:` field | States a later-era condition; per the standing default-scope rule (`00_RUNBOOK.md`, the Second Interwar default) this is **never an input** to a Second Interwar pass — not copied | `Specs/Dome_Fuji.md` L31 |
-| Later-era sections present in the Specs file (same exclusion as `Status:`) | 3 section(s), by heading position: L242, L248, L254 — not copied, not described | `Specs/Dome_Fuji.md` L276, L282, L288 |
+| Later-era sections present in the Specs file (same exclusion as `Status:`) | 3 section(s), by heading position: L242, L248, L254 — not copied, not described | `Specs/Dome_Fuji.md` L277, L283, L289 |
 | Census I (spec's own line) | 0 humans / 80,120 robots / **80,120** combined *(entirely robot; new 2026-07-04)* | `Specs/Dome_Fuji.md` L43 |
 | Census II (spec's own line) | Not yet computed for this city (see `Official_Population_Census.md`) | `Specs/Dome_Fuji.md` L44 |
 

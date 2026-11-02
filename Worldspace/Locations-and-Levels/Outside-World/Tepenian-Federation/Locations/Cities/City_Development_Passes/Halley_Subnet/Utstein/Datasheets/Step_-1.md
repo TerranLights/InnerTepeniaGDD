@@ -16,7 +16,7 @@
 | Significance | *[source line excluded: later-era content, outside the Second Interwar default scope; not copied]* | `Specs/Utstein.md` L10 |
 | Coordinates (as written in the same field) | ~71°57'S, 23°21'E | `Specs/Utstein.md` L5 |
 | Specs `Status:` field | States a later-era condition; per the standing default-scope rule (`00_RUNBOOK.md`, the Second Interwar default) this is **never an input** to a Second Interwar pass — not copied | `Specs/Utstein.md` L6 |
-| Later-era sections present in the Specs file (same exclusion as `Status:`) | 3 section(s), by heading position: L178, L183, L191 — not copied, not described | `Specs/Utstein.md` L193, L198, L206 |
+| Later-era sections present in the Specs file (same exclusion as `Status:`) | 3 section(s), by heading position: L178, L183, L191 — not copied, not described | `Specs/Utstein.md` L194, L199, L207 |
 | Census I (spec's own line) | 580,839 humans / 609,199 robots / **1,190,038** combined | `Specs/Utstein.md` L23 |
 | Census II (spec's own line) | 418,082 humans / 384,561 robots / **802,643** combined | `Specs/Utstein.md` L24 |
 

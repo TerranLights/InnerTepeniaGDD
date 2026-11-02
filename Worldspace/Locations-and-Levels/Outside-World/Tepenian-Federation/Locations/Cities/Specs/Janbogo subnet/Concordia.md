@@ -18,89 +18,90 @@
 |------|---------|
 | Primary | Korea, Japan, Australia, Indonesia |
 | Significant | Sinian Federation, Vietnam, Belarus, New Zealand, Russia (core state), Taiwan, Idelsk-Uralia, Philippines, France, Malaysia |
-| Notable | Serbia, Estonia, Thailand, Hungary, Netherlands, Finland, Croatia, CSA, Czechia, Norway, Poland, United Kingdom, Siberia, Spain, Donska-Kubania, México, Appalachia, Lithuania, Latvia, Cascadia, New England, Sweden, Bulgaria, Künnarantaiga, Slovakia, Romania, Manchuria, Germany, Ukraine, Magna Lombardia, Midwest Republic, Slovenia, Meridia, Catalonia, Mongolia, Demilitarized Zone (s. Ontario; not a nation), Colorado, Dagestan, Sonora, Quebec, West Papua, Aceh, East Turkestan, Yucatán, Prairie Federation, Chechnya, Austro-Bavaria, Basque Country, Sicilia (autonomous zone within Meridia), Kabardino-Balkaria, Patani, North Ossetia-Alania, Northern Ireland, Ingushetia, Karachay-Cherkessia, Tuva, Tibet, Hawaii, Alaska |
+| Notable | Serbia, Estonia, Kazakhstan, Thailand, Hungary, Netherlands, Finland, Croatia, CSA, Czechia, Norway, Poland, United Kingdom, Siberia, Spain, Donska-Kubania, México, Appalachia, Lithuania, Latvia, Cascadia, New England, Sweden, Bulgaria, Künnarantaiga, Slovakia, Romania, Manchuria, Germany, Ukraine, Magna Lombardia, Midwest Republic, Slovenia, Meridia, Catalonia, Mongolia, Demilitarized Zone (s. Ontario; not a nation), Colorado, Dagestan, Sonora, Quebec, West Papua, Aceh, East Turkestan, Yucatán, Prairie Federation, Chechnya, Austro-Bavaria, Basque Country, Sicilia (autonomous zone within Meridia), Kabardino-Balkaria, Patani, North Ossetia-Alania, Northern Ireland, Ingushetia, Karachay-Cherkessia, Tuva, Tibet, Hawaii, Alaska |
 
 *Source: `Official_Population_Census.md` Sections A–C.*
 
 ### Per-Nation Breakdown — Robots and Humans, Census I and II
 
-*(Rebalanced 2026-11-02 in the population rework, `DR-85`: every country appears in its latest-period form (successor states and renamed countries, split by headcount, names explained in `Official_Population_Census.md` Section E); China's row is the Sinian Federation, with its decline and the refill of the gap where the rework applies it; places never counted before were added by time-zone window; tiers were relabeled from the final shares. This city: china's pieces in window: Mongolia, Manchuria, Tibet, East Turkestan; new pools: Hong Kong 0.88%, Macau 0.10%, Taiwan 2.92%, Mongolia 0.09%, North Korea 0.36%; the Sinian Federation's share was multiplied by 0.5996 (random 0.55 to 0.65), and the freed points went in proportion to size to: Japan, Korea, Australia, Indonesia (FALLBACK). City totals in all four columns are unchanged. Method, every run and the research: `Sinian_Federation_Split_Scratch_2026-11-01/` (file `12_Rebalance_Run4.md`). The table that stood here before is in git commit `593510ab`.)*
+*(Rebalanced 2026-11-02 in the population rework, `DR-85`: every country appears in its latest-period form (successor states and renamed countries, split by headcount, names explained in `Official_Population_Census.md` Section E); China's row is the Sinian Federation, with its decline and the refill of the gap where the rework applies it; places never counted before were added by time-zone window; tiers were relabeled from the final shares. This city: china's pieces in window: Mongolia, Manchuria, Tibet, East Turkestan; new pools: Hong Kong 0.88%, Macau 0.10%, Taiwan 2.92%, Mongolia 0.09%, North Korea 0.36%; the Sinian Federation's share was multiplied by 0.5996 (random 0.55 to 0.65), and the freed points went in proportion to size to: Japan, Korea, Australia, Indonesia (FALLBACK). City totals in all four columns are unchanged. Method, every run and the research: `Sinian_Federation_Split_Scratch_2026-11-01/` (file `12_Rebalance_Run4.md`). The table that stood here before is in git commit `593510ab`. Kazakhstan was added on 2026-11-02 (`DR-93`) at 1.45%, the share every city in its time-zone window receives; every other row shrank in proportion.)*
 
 | Tier | Nation | Share % | Census I Robots | Census I Humans | Census II Robots | Census II Humans |
 |------|--------|---------|------------------|------------------|-------------------|-------------------|
-| Primary | Korea | 10.12% | 54,216 | 53,778 | 34,929 | 32,938 |
-| Primary | Japan | 9.74% | 52,266 | 51,845 | 33,672 | 31,752 |
-| Primary | Australia | 8.18% | 43,825 | 43,471 | 28,234 | 26,625 |
-| Primary | Indonesia | 7.75% | 41,506 | 41,169 | 26,737 | 25,215 |
-| Significant | Sinian Federation | 4.52% | 24,215 | 24,017 | 15,600 | 14,711 |
-| Significant | Vietnam | 4.05% | 21,685 | 21,509 | 13,969 | 13,175 |
-| Significant | Belarus | 3.61% | 19,334 | 19,177 | 12,455 | 11,745 |
-| Significant | New Zealand | 3.60% | 19,316 | 19,162 | 12,444 | 11,735 |
-| Significant | Russia (core state) | 2.98% | 16,004 | 15,873 | 10,310 | 9,722 |
-| Significant | Taiwan | 2.90% | 15,578 | 15,452 | 10,035 | 9,463 |
-| Significant | Idelsk-Uralia | 2.76% | 14,810 | 14,689 | 9,541 | 8,997 |
-| Significant | Philippines | 2.51% | 13,419 | 13,309 | 8,646 | 8,151 |
-| Significant | France | 2.06% | 11,074 | 10,985 | 7,134 | 6,728 |
-| Significant | Malaysia | 1.87% | 10,004 | 9,924 | 6,444 | 6,077 |
-| Notable | Serbia | 1.52% | 8,165 | 8,100 | 5,260 | 4,959 |
-| Notable | Estonia | 1.48% | 7,963 | 7,898 | 5,129 | 4,838 |
-| Notable | Thailand | 1.47% | 7,896 | 7,831 | 5,087 | 4,796 |
-| Notable | Hungary | 1.44% | 7,726 | 7,664 | 4,978 | 4,693 |
-| Notable | Netherlands | 1.42% | 7,603 | 7,543 | 4,898 | 4,619 |
-| Notable | Finland | 1.38% | 7,400 | 7,341 | 4,767 | 4,496 |
-| Notable | Croatia | 1.38% | 7,386 | 7,325 | 4,757 | 4,487 |
-| Notable | CSA | 1.37% | 7,358 | 7,298 | 4,741 | 4,472 |
-| Notable | Czechia | 1.32% | 7,090 | 7,033 | 4,569 | 4,307 |
-| Notable | Norway | 1.32% | 7,067 | 7,010 | 4,553 | 4,294 |
-| Notable | Poland | 1.26% | 6,760 | 6,707 | 4,356 | 4,108 |
-| Notable | United Kingdom | 1.23% | 6,584 | 6,529 | 4,240 | 3,998 |
-| Notable | Siberia | 1.10% | 5,887 | 5,840 | 3,792 | 3,577 |
-| Notable | Spain | 1.09% | 5,834 | 5,788 | 3,760 | 3,545 |
-| Notable | Donska-Kubania | 1.05% | 5,645 | 5,599 | 3,637 | 3,429 |
-| Notable | México | 1.00% | 5,331 | 5,287 | 3,435 | 3,238 |
-| Notable | Appalachia | 0.88% | 4,723 | 4,686 | 3,042 | 2,868 |
-| Notable | Lithuania | 0.80% | 4,313 | 4,278 | 2,777 | 2,620 |
-| Notable | Latvia | 0.78% | 4,146 | 4,111 | 2,671 | 2,519 |
-| Notable | Cascadia | 0.77% | 4,114 | 4,080 | 2,651 | 2,501 |
-| Notable | New England | 0.72% | 3,862 | 3,833 | 2,489 | 2,348 |
-| Notable | Sweden | 0.72% | 3,848 | 3,819 | 2,481 | 2,340 |
-| Notable | Bulgaria | 0.69% | 3,691 | 3,662 | 2,380 | 2,243 |
-| Notable | Künnarantaiga | 0.63% | 3,400 | 3,374 | 2,190 | 2,065 |
-| Notable | Slovakia | 0.63% | 3,384 | 3,355 | 2,179 | 2,055 |
-| Notable | Romania | 0.59% | 3,169 | 3,144 | 2,041 | 1,925 |
-| Notable | Manchuria | 0.50% | 2,668 | 2,646 | 1,719 | 1,619 |
-| Notable | Germany | 0.47% | 2,479 | 2,459 | 1,594 | 1,506 |
-| Notable | Ukraine | 0.44% | 2,361 | 2,341 | 1,521 | 1,435 |
-| Notable | Magna Lombardia | 0.41% | 2,179 | 2,163 | 1,405 | 1,324 |
-| Notable | Midwest Republic | 0.27% | 1,470 | 1,458 | 946 | 892 |
-| Notable | Slovenia | 0.27% | 1,449 | 1,437 | 934 | 879 |
-| Notable | Meridia | 0.25% | 1,339 | 1,327 | 862 | 812 |
-| Notable | Catalonia | 0.23% | 1,251 | 1,241 | 806 | 758 |
-| Notable | Mongolia | 0.22% | 1,168 | 1,160 | 753 | 711 |
-| Notable | Demilitarized Zone (s. Ontario; not a nation) | 0.22% | 1,167 | 1,157 | 750 | 708 |
-| Notable | Colorado | 0.21% | 1,104 | 1,096 | 712 | 671 |
-| Notable | Dagestan | 0.20% | 1,046 | 1,038 | 673 | 634 |
-| Notable | Sonora | 0.19% | 999 | 992 | 642 | 607 |
-| Notable | Quebec | 0.17% | 892 | 884 | 573 | 540 |
-| Notable | West Papua | 0.15% | 810 | 804 | 520 | 492 |
-| Notable | Aceh | 0.15% | 782 | 776 | 505 | 474 |
-| Notable | East Turkestan | 0.14% | 735 | 729 | 475 | 448 |
-| Notable | Yucatán | 0.13% | 684 | 678 | 441 | 416 |
-| Notable | Prairie Federation | 0.12% | 655 | 650 | 424 | 399 |
-| Notable | Chechnya | 0.093% | 497 | 493 | 321 | 302 |
-| Notable | Austro-Bavaria | 0.089% | 477 | 473 | 307 | 290 |
-| Notable | Basque Country | 0.084% | 450 | 447 | 290 | 274 |
-| Notable | Sicilia (autonomous zone within Meridia) | 0.058% | 311 | 308 | 200 | 188 |
-| Notable | Kabardino-Balkaria | 0.055% | 297 | 294 | 191 | 181 |
-| Notable | Patani | 0.043% | 231 | 229 | 149 | 141 |
-| Notable | North Ossetia-Alania | 0.042% | 226 | 224 | 147 | 138 |
-| Notable | Northern Ireland | 0.035% | 188 | 186 | 122 | 116 |
-| Notable | Ingushetia | 0.031% | 167 | 166 | 109 | 102 |
-| Notable | Karachay-Cherkessia | 0.029% | 154 | 154 | 100 | 93 |
-| Notable | Tuva | 0.021% | 112 | 110 | 71 | 67 |
-| Notable | Tibet | 0.019% | 105 | 104 | 67 | 63 |
-| Notable | Hawaii | 0.018% | 95 | 95 | 61 | 59 |
-| Notable | Alaska | 0.010% | 53 | 53 | 35 | 32 |
+| Primary | Korea | 9.97% | 53,428 | 52,996 | 34,421 | 32,459 |
+| Primary | Japan | 9.60% | 51,506 | 51,091 | 33,183 | 31,290 |
+| Primary | Australia | 8.06% | 43,188 | 42,839 | 27,824 | 26,238 |
+| Primary | Indonesia | 7.63% | 40,903 | 40,570 | 26,348 | 24,848 |
+| Significant | Sinian Federation | 4.45% | 23,863 | 23,668 | 15,373 | 14,497 |
+| Significant | Vietnam | 3.99% | 21,370 | 21,196 | 13,766 | 12,983 |
+| Significant | Belarus | 3.56% | 19,053 | 18,898 | 12,274 | 11,574 |
+| Significant | New Zealand | 3.55% | 19,035 | 18,883 | 12,263 | 11,564 |
+| Significant | Russia (core state) | 2.94% | 15,771 | 15,642 | 10,160 | 9,581 |
+| Significant | Taiwan | 2.86% | 15,352 | 15,227 | 9,889 | 9,325 |
+| Significant | Idelsk-Uralia | 2.72% | 14,595 | 14,475 | 9,402 | 8,866 |
+| Significant | Philippines | 2.47% | 13,224 | 13,116 | 8,520 | 8,033 |
+| Significant | France | 2.03% | 10,913 | 10,825 | 7,030 | 6,630 |
+| Significant | Malaysia | 1.84% | 9,859 | 9,780 | 6,350 | 5,989 |
+| Notable | Serbia | 1.50% | 8,046 | 7,982 | 5,184 | 4,887 |
+| Notable | Estonia | 1.46% | 7,847 | 7,783 | 5,054 | 4,768 |
+| Notable | Kazakhstan | 1.45% | 7,796 | 7,733 | 5,022 | 4,736 |
+| Notable | Thailand | 1.45% | 7,781 | 7,717 | 5,013 | 4,726 |
+| Notable | Hungary | 1.42% | 7,614 | 7,553 | 4,906 | 4,625 |
+| Notable | Netherlands | 1.40% | 7,492 | 7,433 | 4,827 | 4,552 |
+| Notable | Finland | 1.36% | 7,292 | 7,234 | 4,698 | 4,431 |
+| Notable | Croatia | 1.36% | 7,279 | 7,219 | 4,688 | 4,422 |
+| Notable | CSA | 1.35% | 7,251 | 7,192 | 4,672 | 4,407 |
+| Notable | Czechia | 1.30% | 6,987 | 6,931 | 4,503 | 4,244 |
+| Notable | Norway | 1.30% | 6,964 | 6,908 | 4,487 | 4,232 |
+| Notable | Poland | 1.24% | 6,662 | 6,609 | 4,293 | 4,048 |
+| Notable | United Kingdom | 1.21% | 6,488 | 6,434 | 4,178 | 3,940 |
+| Notable | Siberia | 1.08% | 5,801 | 5,755 | 3,737 | 3,525 |
+| Notable | Spain | 1.07% | 5,749 | 5,704 | 3,705 | 3,493 |
+| Notable | Donska-Kubania | 1.04% | 5,563 | 5,518 | 3,584 | 3,379 |
+| Notable | México | 0.98% | 5,253 | 5,210 | 3,385 | 3,191 |
+| Notable | Appalachia | 0.87% | 4,654 | 4,618 | 2,998 | 2,826 |
+| Notable | Lithuania | 0.79% | 4,250 | 4,216 | 2,737 | 2,582 |
+| Notable | Latvia | 0.76% | 4,086 | 4,051 | 2,632 | 2,482 |
+| Notable | Cascadia | 0.75% | 4,054 | 4,021 | 2,612 | 2,465 |
+| Notable | New England | 0.71% | 3,806 | 3,777 | 2,453 | 2,314 |
+| Notable | Sweden | 0.71% | 3,792 | 3,763 | 2,445 | 2,306 |
+| Notable | Bulgaria | 0.68% | 3,637 | 3,609 | 2,345 | 2,210 |
+| Notable | Künnarantaiga | 0.62% | 3,351 | 3,325 | 2,158 | 2,035 |
+| Notable | Slovakia | 0.62% | 3,335 | 3,306 | 2,147 | 2,025 |
+| Notable | Romania | 0.58% | 3,123 | 3,098 | 2,011 | 1,897 |
+| Notable | Manchuria | 0.49% | 2,629 | 2,608 | 1,694 | 1,596 |
+| Notable | Germany | 0.46% | 2,443 | 2,423 | 1,571 | 1,484 |
+| Notable | Ukraine | 0.43% | 2,327 | 2,307 | 1,499 | 1,414 |
+| Notable | Magna Lombardia | 0.40% | 2,147 | 2,132 | 1,385 | 1,305 |
+| Notable | Midwest Republic | 0.27% | 1,449 | 1,437 | 932 | 879 |
+| Notable | Slovenia | 0.26% | 1,428 | 1,416 | 920 | 866 |
+| Notable | Meridia | 0.25% | 1,320 | 1,308 | 849 | 800 |
+| Notable | Catalonia | 0.23% | 1,233 | 1,223 | 794 | 747 |
+| Notable | Mongolia | 0.21% | 1,151 | 1,143 | 742 | 701 |
+| Notable | Demilitarized Zone (s. Ontario; not a nation) | 0.21% | 1,150 | 1,140 | 739 | 698 |
+| Notable | Colorado | 0.20% | 1,088 | 1,080 | 702 | 661 |
+| Notable | Dagestan | 0.19% | 1,031 | 1,023 | 663 | 625 |
+| Notable | Sonora | 0.18% | 984 | 978 | 633 | 598 |
+| Notable | Quebec | 0.16% | 879 | 871 | 565 | 532 |
+| Notable | West Papua | 0.15% | 798 | 792 | 512 | 485 |
+| Notable | Aceh | 0.14% | 771 | 765 | 498 | 467 |
+| Notable | East Turkestan | 0.14% | 724 | 718 | 468 | 442 |
+| Notable | Yucatán | 0.13% | 674 | 668 | 435 | 410 |
+| Notable | Prairie Federation | 0.12% | 645 | 641 | 418 | 393 |
+| Notable | Chechnya | 0.092% | 490 | 486 | 316 | 298 |
+| Notable | Austro-Bavaria | 0.088% | 470 | 466 | 303 | 286 |
+| Notable | Basque Country | 0.083% | 443 | 441 | 286 | 270 |
+| Notable | Sicilia (autonomous zone within Meridia) | 0.057% | 306 | 304 | 197 | 185 |
+| Notable | Kabardino-Balkaria | 0.054% | 293 | 290 | 188 | 178 |
+| Notable | Patani | 0.042% | 228 | 226 | 147 | 139 |
+| Notable | North Ossetia-Alania | 0.041% | 223 | 221 | 145 | 136 |
+| Notable | Northern Ireland | 0.034% | 185 | 183 | 120 | 114 |
+| Notable | Ingushetia | 0.031% | 165 | 164 | 107 | 101 |
+| Notable | Karachay-Cherkessia | 0.029% | 152 | 152 | 99 | 92 |
+| Notable | Tuva | 0.021% | 110 | 108 | 70 | 66 |
+| Notable | Tibet | 0.019% | 103 | 102 | 66 | 62 |
+| Notable | Hawaii | 0.018% | 94 | 94 | 60 | 58 |
+| Notable | Alaska | 0.010% | 52 | 52 | 35 | 32 |
 
 *Tier labels follow the final shares: Primary and Significant end at the largest ratio gaps among the rows at 4.5% or more (Primary never more than six rows), no row at 4.5% or more is Notable, and Notable is the rest (the composition file's own rule, "boundaries fall at the largest ratio gaps"; the 8 / 3 / 1 share weights no longer produce the figures). Percentages are of this city's own human and robot population (identical between censuses), not Tepenia-wide. Robot figures apply the same proportions as the human population. Shares are rounded; they sum to 100% within rounding.*
 

@@ -12,21 +12,21 @@
 | Universe repo `Worldspace/Locations/` — directory enumerated | 4 `.md` files read; **1 name the city** | `…/Worldspace/Locations/` (enumerated 2026-10-23) |
 | ↳ README.md | - **Mawson subnet:** Dome Fuji, Mawson, Sayowa *[Sayowa is now Temirötkel (`DR-37`); the quoted rows of this sheet print the former name]* | `…/Worldspace/Locations/README.md` L19 |
 | `Access type:` | SPUR | `Specs/Temirotkel.md` L9 |
-| Spec climate — climate data source | Japanese Antarctic Research Expedition (JARE) / NIPR — BAS READER (1991–2020 WMO standard normal, 30 years; full record 1957–2026)  _https://legacy.bas.ac.uk/met/READER/_ | `Specs/Temirotkel.md` L164 |
-| Spec climate — climate type | East Antarctic island coast — Lützow-Holm Bay influence; sea ice dominant in winter *[the line's last clause compares the city with other places; not copied]* | `Specs/Temirotkel.md` L166 |
-| Spec climate — mean annual temperature | -10.5°C  _(READER station: Syowa; 1991–2020 WMO standard normal)_ | `Specs/Temirotkel.md` L167 |
-| Spec climate — prevailing winds | **maximum instantaneous wind 61.2 m/s (220 km/h)**, recorded 27 May 1996 *(researched 2026-09-04)* | `Specs/Temirotkel.md` L168 |
-| Spec climate — record extremes | record high **+10.0 °C** (January); record low **−45.3 °C** (September) *(researched 2026-09-04)* | `Specs/Temirotkel.md` L169 |
-| Spec climate — temperature range | coldest months avg −22°C; warmest month avg −1°C | `Specs/Temirotkel.md` L170 |
-| Spec climate — polar night | approximately Jun 1 → Jul 13 (~43 days) | `Specs/Temirotkel.md` L171 |
-| Spec climate — midnight sun | approximately Nov 23 → Jan 20 (~59 days) | `Specs/Temirotkel.md` L172 |
-| Spec climate — winter solstice daylight minimum | N/A — polar night in effect; 0 hours | `Specs/Temirotkel.md` L173 |
-| Spec climate — summer solstice daylight maximum | N/A — midnight sun in effect; 24 hours | `Specs/Temirotkel.md` L174 |
-| Spec climate — annual precipitation | approximately 250–350mm | `Specs/Temirotkel.md` L175 |
-| Spec climate — regime | **KATABATIC MARGIN** — *snow flux, not snowfall* | `Specs/Temirotkel.md` L179 |
-| Spec climate — falls (reaches the surface) | ~350 mm/yr | `Specs/Temirotkel.md` L180 |
-| Spec climate — lands (accumulates and stays) | **~133 mm/yr** *(~38% retention)* | `Specs/Temirotkel.md` L181 |
-| Spec climate — lost to sublimation and wind transport | ~217 mm/yr | `Specs/Temirotkel.md` L182 |
+| Spec climate — climate data source | Japanese Antarctic Research Expedition (JARE) / NIPR — BAS READER (1991–2020 WMO standard normal, 30 years; full record 1957–2026)  _https://legacy.bas.ac.uk/met/READER/_ | `Specs/Temirotkel.md` L165 |
+| Spec climate — climate type | East Antarctic island coast — Lützow-Holm Bay influence; sea ice dominant in winter *[the line's last clause compares the city with other places; not copied]* | `Specs/Temirotkel.md` L167 |
+| Spec climate — mean annual temperature | -10.5°C  _(READER station: Syowa; 1991–2020 WMO standard normal)_ | `Specs/Temirotkel.md` L168 |
+| Spec climate — prevailing winds | **maximum instantaneous wind 61.2 m/s (220 km/h)**, recorded 27 May 1996 *(researched 2026-09-04)* | `Specs/Temirotkel.md` L169 |
+| Spec climate — record extremes | record high **+10.0 °C** (January); record low **−45.3 °C** (September) *(researched 2026-09-04)* | `Specs/Temirotkel.md` L170 |
+| Spec climate — temperature range | coldest months avg −22°C; warmest month avg −1°C | `Specs/Temirotkel.md` L171 |
+| Spec climate — polar night | approximately Jun 1 → Jul 13 (~43 days) | `Specs/Temirotkel.md` L172 |
+| Spec climate — midnight sun | approximately Nov 23 → Jan 20 (~59 days) | `Specs/Temirotkel.md` L173 |
+| Spec climate — winter solstice daylight minimum | N/A — polar night in effect; 0 hours | `Specs/Temirotkel.md` L174 |
+| Spec climate — summer solstice daylight maximum | N/A — midnight sun in effect; 24 hours | `Specs/Temirotkel.md` L175 |
+| Spec climate — annual precipitation | approximately 250–350mm | `Specs/Temirotkel.md` L176 |
+| Spec climate — regime | **KATABATIC MARGIN** — *snow flux, not snowfall* | `Specs/Temirotkel.md` L180 |
+| Spec climate — falls (reaches the surface) | ~350 mm/yr | `Specs/Temirotkel.md` L181 |
+| Spec climate — lands (accumulates and stays) | **~133 mm/yr** *(~38% retention)* | `Specs/Temirotkel.md` L182 |
+| Spec climate — lost to sublimation and wind transport | ~217 mm/yr | `Specs/Temirotkel.md` L183 |
 | READER — climate authority | Japanese Antarctic Research Expedition (JARE) / NIPR | `READER/Sayowa.md` L4 |
 | READER — station notes | Syowa Station | `READER/Sayowa.md` L5 |
 | READER — data period | 1991–2020 WMO standard normal (30 years in normal period) | `READER/Sayowa.md` L6 |
@@ -40,9 +40,9 @@
 | `16_Per_City_Three_Tier_Run.md` §31 — the city's own determination (heading `## 31. ✅ SAYOWA — DETERMINED`, upper case, so a name search misses it); supersedes Half B's MAND% / FREE% | Baseline (D=1.43) 70,244 workers (**39.3%**) · Mandated 75,918 (**42.5%**) · FREE 32,536 (**18.2%**) · distinctive tier 108,454 (60.7%). The mandate is the whole chain, as shares of the distinctive tier: Maritime trade — INTAKE 15% (16,268) · Industrial fabrication — PROCESSING 30% (32,536) · Trucking & dispatch — OUTBOUND 25% (27,114) = 70% (75,918). The three counts sum to 178,698, the workforce in Half B (L253) and in `09` L82. *Counts are on the flat ABCC working value; they re-run when per-city ABCC values are set (`16_Per_City_Three_Tier_Run.md` L1287–L1304)* | `16_Per_City_Three_Tier_Run.md` L3096 (heading), L3098–L3102 (tier table), L3104 (distinctive tier), L3109–L3114 (the mandate chain) |
 | `Energy_Grid_Failure_Rationale.md` | Checked by name (`Temirotkel`, `Sayowa`, `Temirötkel`, `Syowa`): **zero hits** in a 145-line file | `Energy_Grid_Failure_Rationale.md` |
 | Founding Register — the city's row (founders are decided only here, `DR-19`) | **City:** Temirötkel · **Subnet:** Mawson · **Solar UTC:** +3 · **Status:** ✅ · **Founders:** **Founded and established by Kazakhstan**, later assisted in a joint venture, with the **CIN providing follow-up support**; then **industrialized primarily by Kazakh industrialists**, who made it the heavy-industry and shipping city it is in the Second Interwar Period · **Basis:** Time-zone proximity: *"near-perfect alignment"* (the CIN ≈ +1…+2, Kazakhstan ≈ +3…+6) · **Source:** `DR-30`, `DR-62` · **Not founders:** Japanese | `Founding_Register.md` L55 |
-| Spec — `Settled:` (as stated; the Founding Register governs, GPS law applies) | *[source line excluded: later-era content, outside the Second Interwar default scope; not copied]* | `Specs/Temirotkel.md` L216 |
-| Spec — `Founding population:` (as stated; the Founding Register governs) | Founded and established by Kazakhstan, later assisted in a joint venture, with the CIN providing follow-up support, then industrialized primarily by Kazakh industrialists (`DR-30`, `DR-62`). The earlier Japanese-founding claim, and the 2026-07-06 note built on it, are superseded; the census figures cited there (Japan 2.71 %, China 17.39 %) are composition, not founding, and are unchanged. *(Updated 2026-10-28 to match `Founding_Register.md`; other passages in this file were written around the earlier founding and are revisit items.)* | `Specs/Temirotkel.md` L218 |
-| Composition tiers (as stated in the spec; full detail in `Phase_2.md`) | Primary: Sinian Federation, Australia, Indonesia, United Kingdom, Germany · Significant: Korea, France · Notable: Serbia, Netherlands, Slovenia, Croatia, Austro-Bavaria, Lithuania, Norway, Belarus, Latvia, Japan, Romania, Hungary, Czechia, South Africa, Bulgaria, Poland, Estonia, Ukraine, Slovakia, Russia (core state), East Turkestan, Northern Ireland, West Papua, Aceh, Tibet | `Specs/Temirotkel.md` L60–62 |
-| Spec — Economy & Industry section | Present at L234–L238; **not quoted** (it belongs to later phases; admitted spans are Step −1's ruling) | `Specs/Temirotkel.md` L234 |
+| Spec — `Settled:` (as stated; the Founding Register governs, GPS law applies) | *[source line excluded: later-era content, outside the Second Interwar default scope; not copied]* | `Specs/Temirotkel.md` L217 |
+| Spec — `Founding population:` (as stated; the Founding Register governs) | Founded and established by Kazakhstan, later assisted in a joint venture, with the CIN providing follow-up support, then industrialized primarily by Kazakh industrialists (`DR-30`, `DR-62`). The earlier Japanese-founding claim, and the 2026-07-06 note built on it, are superseded; the census figures cited there (Japan 2.71 %, China 17.39 %) are composition, not founding, and are unchanged. *(Updated 2026-10-28 to match `Founding_Register.md`; other passages in this file were written around the earlier founding and are revisit items.)* | `Specs/Temirotkel.md` L219 |
+| Composition tiers (as stated in the spec; full detail in `Phase_2.md`) | Primary: Australia, Indonesia, United Kingdom, Germany · Significant: Sinian Federation, Korea, France, Kazakhstan *(founding wave)* · Notable: Serbia, Netherlands, Slovenia, Croatia, Austro-Bavaria, Lithuania, Norway, Belarus, Latvia, Japan, Romania, Hungary, Czechia, South Africa, Bulgaria, Poland, Estonia, Ukraine, Slovakia, Russia (core state), East Turkestan, Northern Ireland, West Papua, Aceh, Tibet | `Specs/Temirotkel.md` L60–62 |
+| Spec — Economy & Industry section | Present at L235–L239; **not quoted** (it belongs to later phases; admitted spans are Step −1's ruling) | `Specs/Temirotkel.md` L235 |
 
 **Not mechanical / not included here:** the Gate 9 asymmetry audit, the inheritance classification, the shape reading, generator selection, the spine sentence, the three-generator four-quadrant capability profile — none of this exists until Temirotkel's own pass runs.

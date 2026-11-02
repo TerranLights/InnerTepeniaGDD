@@ -12,7 +12,7 @@
 | Category | Value | Citation |
 |---|---|---|
 | Census I | 692,971 H / 710,578 R / **1,403,549** (revised 2026-07-04; `DR-68` 2026-10-28, was 665,901 / 685,529 / 1,351,430) | `Official_Population_Census.md` L500 — cross-verified against `Specs/Mirny.md` L15, exact match (re-checked 2026-10-30) |
-| Census II | 524,022 H / 528,352 R / **1,052,374** *(was 507,344 / 509,151 / 1,016,495)* | `Official_Population_Census.md` L641 — cross-verified against `Specs/Mirny.md` L16, exact match (re-checked 2026-10-30) |
+| Census II | 524,022 H / 528,352 R / **1,052,374** *(was 507,344 / 509,151 / 1,016,495)* | `Official_Population_Census.md` L642 — cross-verified against `Specs/Mirny.md` L16, exact match (re-checked 2026-10-30) |
 | Retention (computed; formula = retained ÷ Census-I count) | combined 74.98% · human 75.62% · robot 74.36% · spread **1.89 pp toward humans** | Computed from the two rows above: 1,052,374÷1,403,549 = 74.98%; 524,022÷692,971 = 75.62%; 528,352÷710,578 = 74.36% |
 | Extent *(2026-09-05 snapshot; the census is live — note L631)* | Mirny · Subnet Mirny · Census I (snapshot) 1,351,430 · @10,000/km² **135 km²** · @7,000/km² **193 km²** · Site: coastal ice | `Extent_and_Density_Per_City.md` L611 (table header L603; snapshot note L631) |
 | Extent at the live Census I (computed) | 137.5 km² @10,000/km² · 196.5 km² @7,000/km² | Computed: 1,403,549÷10,000 = 137.5; 1,403,549÷7,000 = 196.5 (Census I from `Official_Population_Census.md` L500; the two densities are the extent table's column heads) |

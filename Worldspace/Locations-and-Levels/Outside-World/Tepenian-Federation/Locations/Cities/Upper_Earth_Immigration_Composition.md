@@ -215,7 +215,7 @@ dominant T3 presence; **Belarus (UTC+3, distance=3) just qualifies; Romania/Ukra
 | 2 — Significant | **Germany** (46M), **France** (35M), **UK** (32M), **Italy** (27M), **Spain** (20M) | European cluster; Spain at 20M elevated by cultural proximity to T3 Latin American population; Italy at 27M |
 | 3 — Notable | **Mexico** (~18M), **Brazil** (17M), **Argentina** (6M), **Chile** (2.3M) | Mexico drops below European nations despite 128M raw population due to high Gini + medium GDP; South Shetlands are most proximate Peninsula location for South American founding wave |
 
-**Final composition after the 2026-11-02 rework (`DR-85`):** Primary — United Kingdom, Spain, CSA, France, Magna Lombardia; Significant — Appalachia, New England, Meridia, Argentina (without Patagonia), Cascadia, Germany, Chile; Notable — 15 nations and smaller successor rows (all of them, with shares and counts, in the city's Specs file). The pool-based table above is the derivation before the rework.
+**Final composition after the 2026-11-02 rework (`DR-85`):** Primary — Spain, CSA, United Kingdom, France, Magna Lombardia; Significant — Appalachia, New England, Meridia, Argentina (without Patagonia), Cascadia, Uruguay, Germany, Chile; Notable — 15 nations and smaller successor rows (all of them, with shares and counts, in the city's Specs file). The pool-based table above is the derivation before the rework.
 
 ---
 
@@ -347,7 +347,7 @@ dominant T3 presence; **Belarus (UTC+3, distance=3) just qualifies; Romania/Ukra
 
 *Key note: Utstein is the only Halley subnet city with meaningful eastern-approach immigration (Japan, Australia). Utstein's founders are the Scandinavian Trade Union nations (Founding Register, `DR-22`); the earlier Belgian-founding note is superseded, and Belgium's composition tier is unchanged.*
 
-**Final composition after the 2026-11-02 rework (`DR-85`):** Primary — France, Brazil, Australia; Significant — Finland, Japan, Norway, CSA, Germany; Notable — 34 nations and smaller successor rows (all of them, with shares and counts, in the city's Specs file). The pool-based table above is the derivation before the rework.
+**Final composition after the 2026-11-02 rework (`DR-85`):** Primary — France, Brazil, Australia; Significant — Finland, Japan, Norway, CSA, Germany; Notable — 35 nations and smaller successor rows (all of them, with shares and counts, in the city's Specs file). The pool-based table above is the derivation before the rework.
 
 ---
 
@@ -540,7 +540,7 @@ Same geographic position as Janbogo.
 | 2 — Significant | **Japan** (65M), **Germany** (46M), **France** (35M), **UK** (32M), **South Korea** (26M), **Indonesia** (16M), **Australia** (13M) | Japan leads (65M, ~8,500km Fremantle); Germany and France via Cape Town approach (~9,500km); Australia (~4,500km Hobart/Fremantle) sets the founding wave character |
 | 3 — Notable | **Poland** (12M), **Netherlands** (10M), **Thailand** (8M), **Czech Republic** (5M), **Ukraine** (5M), **Vietnam** (5M), **Romania** (4.5M), **Norway** (3.3M), **Hungary** (3M), **South Africa** (3M), **Slovakia** (2.2M), **Belarus** (1.5M), **Croatia** (1.3M), **Bulgaria** (1.2M), **Lithuania** (1M), **Slovenia** (1M), **Latvia** (0.6M), **Estonia** (0.6M) | Mawson is uniquely dual-gateway: full Intermarium (UTC+1–3 nations, all within ±3 of UTC+4) meet SE Asian corridor (Thailand and Vietnam, UTC+7, just within ±3); South Africa T3 despite Cape Town approach |
 
-**Final composition after the 2026-11-02 rework (`DR-85`):** Primary — United Kingdom, Australia, Sinian Federation, Indonesia, Japan; Significant — France, Korea; Notable — 28 nations and smaller successor rows (all of them, with shares and counts, in the city's Specs file). The pool-based table above is the derivation before the rework.
+**Final composition after the 2026-11-02 rework (`DR-85`):** Primary — Australia, Sinian Federation, Indonesia, Japan; Significant — France, Korea, Kazakhstan, United Kingdom, Russia (core state), Estonia, South Africa, Norway, Vietnam, Belarus, Netherlands, Thailand, Slovenia, Bulgaria, Austro-Bavaria, Czechia, Germany, Slovakia, Hungary, Lithuania, Poland, Croatia, Latvia, Romania; Notable — 8 nations and smaller successor rows (all of them, with shares and counts, in the city's Specs file). The pool-based table above is the derivation before the rework.
 
 ---
 
@@ -552,7 +552,7 @@ Same geographic position as Janbogo.
 | 2 — Significant | **Japan** (65M), **Germany** (46M), **UK** (32M), **South Korea** (26M), **Russia** (25M), **Indonesia** (16M), **Australia** (13M) | Russia at 25M: ordinary Gini-adjusted effective pool; Australia sets founding wave character |
 | 3 — Notable | **Thailand** (8M), **Ukraine** (5M), **Vietnam** (5M), **Philippines** (5M), **Malaysia** (5M), **Romania** (4.5M), **South Africa** (3M), **Belarus** (1.5M), **Bulgaria** (1.2M), **Lithuania** (1M), **Latvia** (0.6M), **Estonia** (0.6M) | SE Asian + Intermarium east corridor as per Prydz Bay UTC+5 cluster; South Africa gateway proximity cannot overcome extreme Gini reduction |
 
-**Final composition after the 2026-11-02 rework (`DR-85`):** Primary — Korea; Significant — Japan, Germany, Sinian Federation; Notable — 34 nations and smaller successor rows (all of them, with shares and counts, in the city's Specs file). The pool-based table above is the derivation before the rework.
+**Final composition after the 2026-11-02 rework (`DR-85`):** Primary — Korea; Significant — Japan, Germany, Sinian Federation; Notable — 35 nations and smaller successor rows (all of them, with shares and counts, in the city's Specs file). The pool-based table above is the derivation before the rework.
 
 ---
 
@@ -566,7 +566,7 @@ Same Prydz Bay geographic cluster as Zhongshan and Davis.
 | 2 — Significant | **Japan** (65M), **Germany** (46M), **UK** (32M), **South Korea** (26M), **Russia** (25M), **Indonesia** (16M), **Australia** (13M) | Same Prydz Bay T2 cluster; Australia sets founding wave character |
 | 3 — Notable | **Thailand** (8M), **Ukraine** (5M), **Vietnam** (5M), **Philippines** (5M), **Malaysia** (5M), **Romania** (4.5M), **South Africa** (3M), **New Zealand** (2.6M), **Belarus** (1.5M), **Bulgaria** (1.2M), **Lithuania** (1M), **Latvia** (0.6M), **Estonia** (0.6M) | Same SE Asian + Intermarium east as Prydz Bay UTC+5 cluster |
 
-**Final composition after the 2026-11-02 rework (`DR-85`):** Primary — Japan; Significant — Australia, Korea, Sinian Federation; Notable — 33 nations and smaller successor rows (all of them, with shares and counts, in the city's Specs file). The pool-based table above is the derivation before the rework.
+**Final composition after the 2026-11-02 rework (`DR-85`):** Primary — Japan; Significant — Australia, Korea; Notable — 35 nations and smaller successor rows (all of them, with shares and counts, in the city's Specs file). The pool-based table above is the derivation before the rework.
 
 ---
 
@@ -580,7 +580,7 @@ Same Prydz Bay geographic cluster as Zhongshan and Davis.
 
 *Key note: Temirötkel is the only Mawson subnet city where Cape Town and Fremantle approaches are genuinely equally competitive. The T2 composition reflects this dual-gateway character: European (Germany, France, UK via Cape Town) alongside East Asian (Japan, South Korea, Indonesia via Fremantle).*
 
-**Final composition after the 2026-11-02 rework (`DR-85`):** Primary — Sinian Federation, Australia, Indonesia, United Kingdom, Germany; Significant — Korea, France; Notable — 25 nations and smaller successor rows (all of them, with shares and counts, in the city's Specs file). The pool-based table above is the derivation before the rework.
+**Final composition after the 2026-11-02 rework (`DR-85`):** Primary — Australia, Indonesia, United Kingdom, Germany; Significant — Sinian Federation, Korea, France, Kazakhstan; Notable — 25 nations and smaller successor rows (all of them, with shares and counts, in the city's Specs file). The pool-based table above is the derivation before the rework.
 
 ---
 
@@ -598,7 +598,7 @@ Same Prydz Bay geographic cluster as Zhongshan and Davis.
 | 2 — Significant | **Japan** (65M), **Germany** (46M), **UK** (32M), **South Korea** (26M), ⭐ **Russia** (25M), **Indonesia** (16M), **Australia** (13M) | Japan leads T2; Germany and UK via Cape Town approach competing with Hobart at this longitude; Australia (~4,000–4,500km Hobart/Fremantle) sets founding wave character. ⭐ **RUSSIA ADDED 2026-09-05** — *25M Gini-adjusted and **distance 0** from Davis's solar UTC+5 (Yekaterinburg, Perm), while Davis's Notable tier already carried **Estonia and Latvia at 0.6M and distance 3**. Davis was the only city in the Prydz Bay / Wilkes Land cluster without it; see `National_Origin_Composition_Audit_2026-09-05.md`.* ⛔ **AND THE 2026-07-13 NOTE HERE IS RETRACTED.** *It read that "Japan is actually the smallest of the six Significant-tier nations (5.31%) and Indonesia genuinely leads (10.08%). The Specs table is authoritative."* ***That was not a finding — it was a scrambled de-stack being blessed as canon.*** **Davis's Significant tier was ordered almost perfectly INVERSE to pool (Spearman −0.83), and its Notable tier put Thailand — the largest pool at 8M — on the SMALLEST share at 1.35%.** *Re-ordered 2026-09-05 at the developer's direction, tier totals preserved exactly; this raw ranking and the Specs table now agree.* |
 | 3 — Notable | **Thailand** (8M), **Ukraine** (5M), **Vietnam** (5M), **Philippines** (5M), **Malaysia** (5M), **Romania** (4.5M), **South Africa** (3M), **New Zealand** (2.6M), **Belarus** (1.5M), **Bulgaria** (1.2M), **Lithuania** (1M), **Latvia** (0.6M), **Estonia** (0.6M) | SE Asian corridor (Thailand, Vietnam, Philippines, Malaysia — UTC+7–8, all within ±3 of Davis's UTC+5) meets Intermarium east (Ukraine, Romania, Bulgaria, Baltic states, Belarus — UTC+2–3); SA via Cape Town (long at this longitude); NZ via Hobart |
 
-**Final composition after the 2026-11-02 rework (`DR-85`):** Primary — Japan, Sinian Federation, United Kingdom, Germany, Korea; Significant — Indonesia, Australia; Notable — 37 nations and smaller successor rows (all of them, with shares and counts, in the city's Specs file). The pool-based table above is the derivation before the rework.
+**Final composition after the 2026-11-02 rework (`DR-85`):** Primary — Japan, Sinian Federation, United Kingdom, Germany, Korea; Significant — Indonesia, Australia; Notable — 38 nations and smaller successor rows (all of them, with shares and counts, in the city's Specs file). The pool-based table above is the derivation before the rework.
 
 ---
 
@@ -624,7 +624,7 @@ Same geographic cluster as Davis.
 | 2 — Significant | **Japan** (65M), **UK** (32M), **South Korea** (26M), **Russia** (25M), **Indonesia** (16M), **Australia** (13M) | Japan leads T2; Australia (~3,500–4,000km Hobart — a direct sea route from Australia) sets founding wave character |
 | 3 — Notable | **Thailand** (8M), **Vietnam** (5M), **Philippines** (5M), **Malaysia** (5M), **South Africa** (3M), **New Zealand** (2.6M), **Belarus** (1.5M) | SE Asian corridor (all UTC+7–8, within ±3 of Mirny's UTC+6) is the dominant T3 presence; Belarus (UTC+3, distance=3) just qualifies; Romania/Ukraine outside ±3 window; SA via Cape Town long at 93°E |
 
-**Final composition after the 2026-11-02 rework (`DR-85`):** Primary — United Kingdom, Korea, Indonesia, Sinian Federation; Significant — Japan, Australia, Philippines, New Zealand, Malaysia, Thailand, Taiwan, Idelsk-Uralia, Russia (core state), Vietnam, Manchuria, Belarus, South Africa; Notable — 18 nations and smaller successor rows (all of them, with shares and counts, in the city's Specs file). The pool-based table above is the derivation before the rework.
+**Final composition after the 2026-11-02 rework (`DR-85`):** Primary — United Kingdom, Korea, Indonesia, Sinian Federation; Significant — Japan, Australia, Philippines, New Zealand, Malaysia, Thailand, Taiwan, Idelsk-Uralia, Russia (core state), Vietnam, Manchuria, Belarus, South Africa, Kazakhstan; Notable — 18 nations and smaller successor rows (all of them, with shares and counts, in the city's Specs file). The pool-based table above is the derivation before the rework.
 
 ---
 
@@ -636,7 +636,7 @@ Same geographic cluster as Davis.
 | 2 — Significant | **Japan** (65M), **France** (35M), **South Korea** (26M), **Russia** (25M), **Indonesia** (16M), **Australia** (13M) | Japan leads T2; France at 35M; Australia (~3,400km Hobart — a direct sea route from Australia) sets founding wave character |
 | 3 — Notable | **Thailand** (8M), **Vietnam** (5M), **Philippines** (5M), **Malaysia** (5M), **New Zealand** (2.6M) | SE Asian corridor (UTC+7–8) dominant in T3; Thailand and Vietnam share the same solar UTC as Casey; Philippines and Malaysia one step east; NZ via Hobart elevated by Casey's boundary position between Ross Sea and East Antarctic corridors |
 
-**Final composition after the 2026-11-02 rework (`DR-85`):** Primary — Korea, France, Australia, Sinian Federation, CSA; Significant — Japan, Indonesia, Appalachia, New England, New Zealand, Philippines, Cascadia, Vietnam, Taiwan; Notable — 27 nations and smaller successor rows (all of them, with shares and counts, in the city's Specs file). The pool-based table above is the derivation before the rework.
+**Final composition after the 2026-11-02 rework (`DR-85`):** Primary — Korea, France, Australia, Sinian Federation, CSA; Significant — Japan, Indonesia, Appalachia, New England, New Zealand, Philippines, Cascadia, Vietnam, Taiwan; Notable — 28 nations and smaller successor rows (all of them, with shares and counts, in the city's Specs file). The pool-based table above is the derivation before the rework.
 
 ---
 
@@ -705,7 +705,7 @@ if ownership is irrelevant." The same holds for a station's fate.***
 Australian station lineage is a coordinate, not an identity.* ⭐ *Australia and Russia both land in
 this table anyway — by meridian and gateway, never by whose flag was on the hut.*
 
-**Final composition after the 2026-11-02 rework (`DR-85`):** Primary — Japan, Indonesia, Korea, Sinian Federation, Australia; Significant — Thailand, Vietnam, Idelsk-Uralia, Russia (core state), Malaysia, Philippines, Taiwan, New Zealand; Notable — 18 nations and smaller successor rows (all of them, with shares and counts, in the city's Specs file). The pool-based table above is the derivation before the rework.
+**Final composition after the 2026-11-02 rework (`DR-85`):** Primary — Japan, Indonesia, Korea, Sinian Federation, Australia; Significant — Thailand, Vietnam, Idelsk-Uralia, Russia (core state), Malaysia, Philippines, Taiwan, New Zealand; Notable — 19 nations and smaller successor rows (all of them, with shares and counts, in the city's Specs file). The pool-based table above is the derivation before the rework.
 
 ---
 
@@ -721,7 +721,7 @@ this table anyway — by meridian and gateway, never by whose flag was on the hu
 
 *Key note: Chile's Union Glacier route makes it prominent at the South Pole in a way not seen at any other Tepenian city. Despite only 2.3M Gini-adjusted effective, Chile's geographic advantage here is unique and GDD-justified. Norway's Amundsen heritage (Saint Roald) gives it cultural significance disproportionate to its T3 effective population.*
 
-**Final composition after the 2026-11-02 rework (`DR-85`):** Primary — United Kingdom, Sinian Federation, Japan, Germany, CSA; Significant — Korea, Australia, Appalachia, Cascadia, New England, New Zealand, Austro-Bavaria, Argentina (without Patagonia), Taiwan, Demilitarized Zone (s. Ontario; not a nation), Quebec, Norway, Midwest Republic, Chile, Manchuria, Prairie Federation, Colorado; Notable — 8 nations and smaller successor rows (all of them, with shares and counts, in the city's Specs file). The pool-based table above is the derivation before the rework.
+**Final composition after the 2026-11-02 rework (`DR-85`):** Primary — United Kingdom, Sinian Federation, Japan, Germany, CSA; Significant — Korea, Australia, Appalachia, Cascadia, New England, New Zealand, Austro-Bavaria, Argentina (without Patagonia), Taiwan, Demilitarized Zone (s. Ontario; not a nation), Quebec, Norway, Kazakhstan, Midwest Republic, Chile, Manchuria, Prairie Federation, Colorado; Notable — 8 nations and smaller successor rows (all of them, with shares and counts, in the city's Specs file). The pool-based table above is the derivation before the rework.
 
 ---
 

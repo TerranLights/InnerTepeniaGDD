@@ -216,6 +216,10 @@
 - Pergamino, Puerto Abrigo, Contrapunto, Signy, Dumont d'Urville, Denison and Relung Panen now carry researched wording in the Register; with Zukelli and Scott, **no Register row says "gateway claim not yet researched"**. The Puerto Abrigo, Signy and Pergamino corrections were approved by the developer.
 - Remaining open list: see S.0h, S.0l and S.0n (Kazakhstan, Uruguay and Malaysia as founders; the Demilitarized Zone; Zukelli's Italian share; Kunlun's heritage rows; whether China's pieces and Taiwan decline; Troll's faction line; the language work in the evenings).
 
+### S.0p Founders: Kazakhstan, Uruguay, Malaysia (2026-11-02, late afternoon; `DR-93`)
+- Kazakhstan added to the pool (4.13 million; 13 cities at 1.45%); founder boosts at Temirötkel (Kazakhstan 5.13%), Mawson (Kazakhstan 4.80%, Russia core state 3.35%) and Pergamino (Uruguay 4.53%); Malaysia at Relung Panen left at 3.16% (Indonesia led).
+- **Next open items, in order:** the Demilitarized Zone; Zukelli's Italian share; Kunlun's old-name heritage rows (draft in scratch file 15); whether China's four pieces and Taiwan decline; Troll's faction line (evening work); the language work (parallel session).
+
 ### S.1 What was done on the evening of 2026-11-01 (after the Byrd plan below)
 - **Byrd research finished:** T3, T7, T8, T9 ran together (215 of 250 budgeted searches, none refused); all 13 units written. Results in the 0.8 second-session table; status and flags in 0.9. Commit `e368cc3b`.
 - **Ruling `DR-84`** (in `Universal_Location_Methodology/DEVELOPER_RULINGS_LOG.md`): a pending new name does **not** hold up a city's ULM, CST or RWBEM run or its data synthesis. Developer: *"The cities that need to be renamed, we can still do the ULM/CST/RWBEM runs and all of the data synthesis for those cities. The naming can come later. i.e, Dumont d'Urville, Zukelli, Dome Fuji, etc, all those cities can be done during the ULM runs."*

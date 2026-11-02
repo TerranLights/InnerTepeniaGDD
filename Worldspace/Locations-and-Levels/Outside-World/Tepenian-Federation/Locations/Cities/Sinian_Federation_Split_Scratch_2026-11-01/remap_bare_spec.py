@@ -8,7 +8,8 @@ sys.path.insert(0, str(HERE.parents[4] / "Universal_Location_Methodology" / "Too
 import remap_line_citations as R
 from apply_final import SPEC_PATH
 from write_datasheet_tiers import DIRKEY, PASSES
-BASE = "593510ab"
+import os
+BASE = os.environ.get("REMAP_BASE", "593510ab")
 PAT = re.compile(r"(\b[Ss]pec\s+)(L\d+(?:[–-]\d+)?(?:,\s*L?\d+(?:[–-]\d+)?)*)")
 apply = "--apply" in sys.argv
 moved, left = 0, []

@@ -11,8 +11,8 @@
 | Category | Value | Citation |
 |---|---|---|
 | Census I | 156,685 H / 284,693 R / **441,378** combined | `Specs/Mirny subnet/Ariun_Nuur.md` L17; cross-verified `Official_Population_Census.md` L520 — exact match |
-| Census II | **Not yet computed for this city** — Vostok's Census I figures are new, but no Census II figures have been computed for it yet. ⚠ A genuine not-yet-done gap, not a structural non-applicability | `Official_Population_Census.md` L674 |
-| Coordinates / real-world basis | Vostok Station (USSR/Russia), East Antarctic Plateau, near the Southern Pole of Inaccessibility, elevation 3,488m | `Specs/Mirny subnet/Ariun_Nuur.md` L5, L65 |
+| Census II | **Not yet computed for this city** — Vostok's Census I figures are new, but no Census II figures have been computed for it yet. ⚠ A genuine not-yet-done gap, not a structural non-applicability | `Official_Population_Census.md` L675 |
+| Coordinates / real-world basis | Vostok Station (USSR/Russia), East Antarctic Plateau, near the Southern Pole of Inaccessibility, elevation 3,488m | `Specs/Mirny subnet/Ariun_Nuur.md` L5, L66 |
 | Extent / area (Gate 11 input) | Mirny · Census I 389,261 (the 2026-09-05 population) · **39 km²** at 10,000/km² · **56 km²** at 7,000/km² · site: plateau. At the live Census I 441,378 the same arithmetic gives **41.3 km²** at 10,000/km² (441,378 ÷ 10,000 = 41.3177) and **59.0 km²** at 7,000/km² (441,378 ÷ 7,000 = 59.0253) | `Extent_and_Density_Per_City.md` row L625 (2026-09-05 snapshot; the census is live — note L631); live Census I `Official_Population_Census.md` L520 |
 | Timeline Era (Tier U) | The Second Interwar Period, corpus-wide, not a per-city judgment | `Corpus_Reference_Sheets/Second_Interwar_Period_Quick_Reference.md` |
 | Arcanet Subnet | Mirny ("Australian") | `Specs/Mirny subnet/Ariun_Nuur.md` L7 |

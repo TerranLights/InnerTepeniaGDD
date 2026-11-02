@@ -8,7 +8,7 @@
 | Category | Value | Citation |
 |---|---|---|
 | Census I | 580,839 H / 609,199 R / **1,190,038** combined (status cell: revised 2026-07-04) | `Official_Population_Census.md` L507 |
-| Census II | 418,082 H / 384,561 R / **802,643** combined | `Official_Population_Census.md` L650 |
+| Census II | 418,082 H / 384,561 R / **802,643** combined | `Official_Population_Census.md` L651 |
 | Retention (computed; formula = Census II count ÷ Census I count) | combined 67.45% · human 71.98% · robot 63.13% | Computed from the two rows above: 802,643÷1,190,038 · 418,082÷580,839 · 384,561÷609,199 |
 | Extent (2026-09-05 snapshot; the census is live — note L631) | City: Princess Elisabeth *(the file's live label)* · Subnet: Halley · Census I (snapshot): 1,137,917 · @10,000/km²: 114 km² · @7,000/km²: 163 km² · Site: Utsteinen ridge | `Extent_and_Density_Per_City.md` L618 (header L603; snapshot note L631) |
 | Extent at the live Census I (computed) | @10,000/km²: 116.2 km² · @7,000/km²: 166.0 km² | Computed: 1,190,038 (`Official_Population_Census.md` L507) ÷ 10,000 = 116.1834 → 116.2; ÷ 7,000 = 165.9763 → 166.0 |

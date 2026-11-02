@@ -423,7 +423,7 @@ corroboration, risks a pass writing quietly toward an answer a fuller read would
 
 **Developer, verbatim:** *"Exiles from a combination of Russia, China, and Australia."*
 
-**What it settled:** the spec contradicted itself — "Primarily Russian exiles" (`Specs/Mirny.md` L173), Russia at
+**What it settled:** the spec contradicted itself — "Primarily Russian exiles" (`Specs/Mirny.md` L174), Russia at
 "the same non-founding status it holds here at Mirny" (L229), and Australia as a "founding wave" (L21). **The
 founding population is all three.**
 
@@ -439,7 +439,7 @@ founding population is all three.**
 **Developer, verbatim:** *"That's for later. The 'developer vision' notes only happen after the entire ULM is
 completely finished, so that's not something to worry about now."*
 
-**Operative effect for Mirny:** `Specs/Mirny.md` L189 (*"Developer vision, established 2026-07-05"*) is **not an
+**Operative effect for Mirny:** `Specs/Mirny.md` L190 (*"Developer vision, established 2026-07-05"*) is **not an
 input at any step of the pass, Step 5 included.** It belongs to the post-ULM annotation stage (see
 `MASTER_Process_Tracker.md` §"SEQUENCING DECISION", item 1).
 ⚠ **Read as corpus-wide by its wording** ("only happen after the entire ULM is completely finished") — every
@@ -1593,5 +1593,14 @@ directly underneath Kazakhstan, so that could very well be a valid option for a 
 | **Recorded as** | The Basis cells of **Pergamino, Puerto Abrigo, Contrapunto, Signy, Dumont d'Urville, Denison and Relung Panen** in `Founding_Register.md` now carry the researched geography instead of "(Gateway claim not yet researched.)"; no founder changed and no line moved. **Three wordings corrected the Register, with the developer's approval:** Puerto Abrigo no longer says Chile's Magallanes coast is "the nearest populous gateway" (Puerto Williams, in Chile, is the nearest settlement; Ushuaia, in Argentina, the nearest town; Punta Arenas, in Chile, the farthest); Signy no longer says Brazil is "the nearest large populous Atlantic coast" (Argentina, Uruguay and the Falklands are nearer, and no Brazilian, South African or Uruguayan operational link to the South Orkneys was found); Pergamino now says the Río de la Plata is "a logistics node", not "the gateway". The datasheet copies of the seven cells (Phase 2, Step 1 and 2) were updated. **All nine gateway labels (with Zukelli and Scott, `DR-88`) are now written; none says "not yet researched".** |
 | **Not decided** | Whether Brazil's and South Africa's founding at Signy needs another basis now that "nearest" is withdrawn (they remain founders by the developer's ruling and the stated zone gap and Cape Town crossing); the Register's dated log has no line for this (adding one would shift later lines). |
 | **Files** | `Founding_Register.md` (seven cells, in place); the seven cities' Phase 2 and Step 1 and 2 datasheets; this log. |
+
+## `DR-93` · ✅ **KAZAKHSTAN ENTERS THE POOL; THE FOUNDERS OF TEMIRÖTKEL, MAWSON AND PERGAMINO ARE GIVEN THEIR SHARES; RELUNG PANEN'S MALAYSIA STAYS** *(2026-11-02)*
+
+| | |
+|---|---|
+| **Developer, verbatim** | *"excellent, yes please"* (to the proposal for Kazakhstan, Uruguay and Malaysia, put after: *"Let's go through the currently-open items, in order, starting with addressing the founders for Kazakhstan, Uruguay and Malaysia"*). |
+| **Recorded as** | **Kazakhstan** (never in the 43-nation roster) is a pool of 4.13 million (World Bank, 2025: 20,843,754 people; $14,692 GDP per person; Gini 29.2 in 2021; three nearest nations on income and inequality Romania, Serbia and Russia; humans 2% of the pool = **110,627**), placed by the time-zone rule (Kazakhstan about UTC+5, within three zones) at **1.4538%** in 13 cities: Utstein, Temirötkel, Dome Fuji, Mawson, Davis, Shirayuki, Sinheung, Mirny, Casey, Ariun Nuur, Relung Panen, Concordia and Amundsen Station (Zhongshan and Kunlun exempt). **Founder boosts**, taken from each city's leader before the boosts, random draws with seed 2026110214 fixed before any draw was seen: Temirötkel, Kazakhstan the main founder, **+3.6735** points from the Sinian Federation (Kazakhstan now 5.13%); Mawson, Kazakhstan **+3.3461** and Russia (the core state) **+2.9991** from the United Kingdom, co-founders with Australia (Kazakhstan 4.80%, Russia 3.35%); Pergamino, Uruguay, the first founder, a new row of **+4.5253** from the United Kingdom (4.53%). The founders carry "(founding wave)". **Malaysia at Relung Panen stays at 3.16%**: the Register says Indonesia led and Malaysia was in support (Indonesia 12.78%). Applied to the specs of the 14 changed cities (tier rows and nation tables), the census (Section A, the national-origin table, Section E), the composition file's final-composition lines, and the datasheets and Pre-Trips; line citations remapped against the previous commit. National totals unchanged. |
+| **Not decided** | Whether other nations should be added to the pool the same way (the roster of 43 was built before the successor-state rework; Kazakhstan was the one a Register founder required). |
+| **Files** | `Specs/` (14), `Official_Population_Census.md`, `Upper_Earth_Immigration_Composition.md`, the datasheets and Pre-Trips of the changed cities, `Sinian_Federation_Split_Scratch_2026-11-01/` (`founders_*.py`, the remap report `13b`), this log. |
 
 > 📎 **Derivation Mechanisms (line added 2026-10-29; nothing was moved).** This is a **tracking or results file: it belongs in this repo.** A snapshot copy taken 2026-10-29 sits in the universe-wide methods repo `DerivationMechanisms` at `/home/kuroskalacs/Documents/Doll-Fi/media/Reference/DerivationMechanisms/Environment/ULM [Universal Location Methodology]/from InnerTepeniaGDD/DEVELOPER_RULINGS_LOG.md`; that snapshot is not kept current and is to be cleaned out later. **If you arrived here from a line reference: the pointer sits at the very END on purpose, because inserting it mid-file would have shifted every cited line.**

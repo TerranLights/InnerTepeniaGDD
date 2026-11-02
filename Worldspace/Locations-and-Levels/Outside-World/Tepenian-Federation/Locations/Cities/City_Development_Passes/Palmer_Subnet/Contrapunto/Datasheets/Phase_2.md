@@ -14,7 +14,7 @@
 | Spec table vs census table (nation lists, annotations ignored) | **Agree** — the census entry was brought to the spec on 2026-10-31 (China was removed from the spec on 2026-07-13 and the census still listed it as Primary; the composition file agrees with the spec) | Compared 2026-10-21; re-compared 2026-10-31 |
 | Per-nation breakdown (spec) | Present at L44–L90 (a model output per the spec's own note, not a measured count) — **not quoted**; cite by range | `Specs/Contrapunto.md` L44 |
 | Census I | 316,691 H / 328,142 R / **644,833** combined | `Official_Population_Census.md` L515 |
-| Census II | 234,304 H / 279,766 R / **514,070** combined | `Official_Population_Census.md` L657 |
+| Census II | 234,304 H / 279,766 R / **514,070** combined | `Official_Population_Census.md` L658 |
 | Retention (computed; cross-ref `Step_0.md`) | combined 79.72% · human 73.99% · robot 85.26% | Computed from the two rows above |
 | `Upper_Earth_Immigration_Composition.md` — the city's own section (the registered composition address) | Present at L236–L244: the section heading `### Contrapunto` at L236, then the tier table and key note. **Cited by range, not quoted**: which spans are admissible is Step −1's ruling | `Upper_Earth_Immigration_Composition.md` L236–L230 |
 | `Upper_Earth_Immigration_Composition.md` — the solar-UTC rule (how the ±3 window is measured) | Present at L23–L65: the section heading at L23, the list "Recording it so it stops being reconstructed from examples" at L28–L35 (rule 1 at L30), and the refinement box at L37–L65. **Cited by range, not quoted** | `Upper_Earth_Immigration_Composition.md` L23–L63 |

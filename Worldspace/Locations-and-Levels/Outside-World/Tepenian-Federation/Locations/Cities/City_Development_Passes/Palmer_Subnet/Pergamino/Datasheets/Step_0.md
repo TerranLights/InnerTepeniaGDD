@@ -8,7 +8,7 @@
 | Category | Value | Citation |
 |---|---|---|
 | Census I | 189,742 H / 196,950 R / **386,692** combined (status cell: revised 2026-07-04; the "island cap" tag was removed 2026-10-31) | `Official_Population_Census.md` L521 |
-| Census II | 118,910 H / 127,462 R / **246,372** combined (status cell: the "island cap" tag was removed 2026-10-31) | `Official_Population_Census.md` L665 |
+| Census II | 118,910 H / 127,462 R / **246,372** combined (status cell: the "island cap" tag was removed 2026-10-31) | `Official_Population_Census.md` L666 |
 | Retention (computed; formula = Census II count ÷ Census I count) | combined 63.71% · human 62.67% · robot 64.72% | Computed from the two rows above: 246,372÷386,692 · 118,910÷189,742 · 127,462÷196,950 |
 | Extent (declared 2026-09-05; population unchanged) | **~48 km²**; 386,692 ÷ 48 = **8,056/km²**. Band-derived, not site-derived: the Hurd Peninsula is confirmed ice-free and Byers Peninsula is "the largest ice-free area in the South Shetland Islands", but no published km² was found for either; anything in 39–55 km² is equally defensible *(2026-09-05 snapshot; the census is live — note L631)* | `Specs/Pergamino.md` L21–L22, L34; `Extent_and_Density_Per_City.md` L510 |
 | Livingston Island, whole-island area (the earlier first-pass figure) | 798 km²; 386,692 ÷ 798 = 485/km² *(2026-09-05 snapshot; the census is live — note L631)* | `Extent_and_Density_Per_City.md` L62, L700; `Specs/Pergamino.md` L22 |

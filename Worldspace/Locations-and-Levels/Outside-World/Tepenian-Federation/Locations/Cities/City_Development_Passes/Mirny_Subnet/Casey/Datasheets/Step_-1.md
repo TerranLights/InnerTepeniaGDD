@@ -22,7 +22,7 @@
 | Significance field | "Highway junction city — the meeting point of the inland route to Concordia (Hwy 110) and the Dumont coast route (Hwy 2); last coastal city before the long drive to the deep interior" | `Specs/Casey.md` L8 |
 | ⚠ Three further later-era fields present in this Specs file, same exclusion as `Status:` | Three additional named sections of the Specs file, all later-era, none admissible to a Second Interwar pass by default | `Specs/Casey.md`, per the standing four-field default-scope exclusion rule |
 | Census I | 760,865 H / 786,985 R / 1,547,850 | `Specs/Casey.md` L14; cross-verified against `Official_Population_Census.md` L497 — **exact match, no discrepancy** (that row also carries its own *"revised 2026-07-04"* tag and the Scenario `DR-68` revision of 2026-10-28, +12,140 H / +11,778 R, *was 733,795 / 761,936 / 1,495,731* — facts about the census source, not about Casey) |
-| Census II | 453,600 H / 624,310 R / 1,077,910 *(Scenario `DR-68`, 2026-10-28: +8,108 H / +7,739 R, was 436,922 / 605,109 / 1,042,031)* | `Specs/Casey.md` L15; cross-verified against `Official_Population_Census.md` L640 — **exact match** (that row carries the same `DR-68` note) |
+| Census II | 453,600 H / 624,310 R / 1,077,910 *(Scenario `DR-68`, 2026-10-28: +8,108 H / +7,739 R, was 436,922 / 605,109 / 1,042,031)* | `Specs/Casey.md` L15; cross-verified against `Official_Population_Census.md` L641 — **exact match** (that row carries the same `DR-68` note) |
 
 **Not mechanical / not included here:** the admitted read-range (Step −1's own derivation), the four-category
 classification (PROVIDED/RESERVED/PRODUCED/REQUESTED), any generator presence/absence call, the type-modifier

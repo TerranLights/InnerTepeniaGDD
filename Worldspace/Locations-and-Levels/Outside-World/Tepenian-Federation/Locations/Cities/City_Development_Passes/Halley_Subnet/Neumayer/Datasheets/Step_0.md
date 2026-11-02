@@ -8,7 +8,7 @@
 | Category | Value | Citation |
 |---|---|---|
 | Census I | 640,806 H / 663,395 R / **1,304,201** combined (status cell: revised 2026-07-04) | `Official_Population_Census.md` L504 |
-| Census II | 401,750 H / 464,878 R / **866,628** combined | `Official_Population_Census.md` L648 |
+| Census II | 401,750 H / 464,878 R / **866,628** combined | `Official_Population_Census.md` L649 |
 | Retention (computed; formula = Census II count ÷ Census I count) | combined 66.45% · human 62.69% · robot 70.08% | Computed from the two rows above: 866,628÷1,304,201 · 401,750÷640,806 · 464,878÷663,395 |
 | **Extent (2026-09-05 snapshot; census is live — note L631)** | City: Neumayer · Subnet: Halley · Census I (snapshot): 1,252,080 · @10,000/km²: 125 km² · @7,000/km²: 179 km² · Site: Ekström ice shelf | `Extent_and_Density_Per_City.md` L615 (header L603; snapshot note L631) |
 | **Extent at the live Census I (computed)** | 127.6 km² @10,000/km² · 182.3 km² @7,000/km² | Computed: 1,304,201 ÷ 10,000 · 1,304,201 ÷ 7,000 (Census I, `Official_Population_Census.md` L504) |

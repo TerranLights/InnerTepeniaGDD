@@ -9,7 +9,7 @@
 | Category | Value | Citation |
 |---|---|---|
 | Census I | 736,799 H / 762,053 R / **1,498,852** combined (status cell: revised 2026-07-04) | `Official_Population_Census.md` L499 |
-| Census II | 443,999 H / 544,326 R / **988,325** combined | `Official_Population_Census.md` L644 |
+| Census II | 443,999 H / 544,326 R / **988,325** combined | `Official_Population_Census.md` L645 |
 | Retention (computed; formula = Census II count ÷ Census I count) | combined 65.94% · human 60.26% · robot 71.43% | Computed from the two rows above: 988,325÷1,498,852 · 443,999÷736,799 · 544,326÷762,053 |
 | **Extent (2026-09-05 snapshot; the census is live — note L631):** Mawson · Subnet Mawson | Census I (snapshot) 1,446,733 · @10k 145 km² · @7k 207 km² · Site Holme Bay | `Extent_and_Density_Per_City.md` L610 (table header L603; snapshot note L631) |
 | **Extent at the live Census I (computed)** | @10k 147.1 km² · @7k 210.1 km² | Computed from the Census I row above: 1,498,852÷10,000 = 147.07 · 1,498,852÷7,000 = 210.09 (the table's `@10k` / `@7k` columns, L603) |

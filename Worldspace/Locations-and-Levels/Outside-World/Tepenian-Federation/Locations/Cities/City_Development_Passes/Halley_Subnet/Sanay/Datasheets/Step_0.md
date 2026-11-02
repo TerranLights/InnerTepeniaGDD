@@ -8,7 +8,7 @@
 | Category | Value | Citation |
 |---|---|---|
 | Census I | 258,646 H / 257,143 R / **515,789** combined (status cell: revised 2026-07-04; the live row also carries a `DR-68` note of 2026-10-28: +12,138 H / +11,778 R) | `Official_Population_Census.md` L517 |
-| Census II | 162,476 H / 148,520 R / **310,996** combined | `Official_Population_Census.md` L663 |
+| Census II | 162,476 H / 148,520 R / **310,996** combined | `Official_Population_Census.md` L664 |
 | Retention (computed; formula = Census II count ÷ Census I count) | combined 60.30% · human 62.82% · robot 57.76% | Computed from the two rows above: 310,996÷515,789 · 162,476÷258,646 · 148,520÷257,143 |
 | **Extent (2026-09-05 snapshot; the census is live — note L631)** | Sanay · Subnet Halley · Census I (snapshot) 463,669 · @10,000/km² 46 km² · @7,000/km² 66 km² · Site: inland bedrock + coastal port | `Extent_and_Density_Per_City.md` L624 (header L603; snapshot note L631) |
 | **Extent at the live Census I (computed)** | 515,789 ÷ 10,000 = 48.8 km² · 515,789 ÷ 7,000 = 69.7 km² | Computed from the Census I row above (`Official_Population_Census.md` L517) |

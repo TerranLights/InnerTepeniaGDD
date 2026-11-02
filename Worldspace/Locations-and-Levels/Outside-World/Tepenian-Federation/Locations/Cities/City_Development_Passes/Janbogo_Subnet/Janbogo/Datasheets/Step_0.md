@@ -9,7 +9,7 @@
 | Category | Value | Citation |
 |---|---|---|
 | Census I | 673,610 H / 689,019 R / **1,362,629** combined (status cell: revised 2026-07-04) | `Official_Population_Census.md` L501 |
-| Census II | 507,242 H / 486,208 R / **993,450** combined (status cell: revised 2026-07-03) | `Official_Population_Census.md` L643 |
+| Census II | 507,242 H / 486,208 R / **993,450** combined (status cell: revised 2026-07-03) | `Official_Population_Census.md` L644 |
 | Retention (computed; formula = Census II count ÷ Census I count) | combined 72.91% · human 75.30% · robot 70.57% | Computed from the two rows above: 993,450÷1,362,629 · 507,242÷673,610 · 486,208÷689,019 |
 | `Extent_and_Density_Per_City.md` — the city's own row *(2026-09-05 snapshot; the census is live — note L631)* | City: Janbogo · Subnet: Janbogo · Census I: 1,310,511 · @10k: 131 · @7k: 187 *(km² required at 10,000 and at 7,000 people per km²)* · Site: Terra Nova Bay | `Extent_and_Density_Per_City.md` L612 (table header L603–L604; the band, L84) |
 | ↳ same file, at the live Census I (computed) | 1,362,629÷10,000 = 133.4 km² · 1,362,629÷7,000 = 190.6 km² | Computed from `Official_Population_Census.md` L501 and the band at `Extent_and_Density_Per_City.md` L84 |

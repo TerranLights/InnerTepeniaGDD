@@ -89,8 +89,8 @@ National communities are classified by tier based on long-run population share. 
 
 | Tier | Nations |
 |------|---------|
-| Primary | United Kingdom, Spain, CSA, France, Magna Lombardia |
-| Significant | Appalachia, New England, Meridia, Argentina (without Patagonia), Cascadia, Germany, Chile |
+| Primary | Spain, CSA, United Kingdom, France, Magna Lombardia |
+| Significant | Appalachia, New England, Meridia, Argentina (without Patagonia), Cascadia, Uruguay *(founding wave)*, Germany, Chile |
 | Notable | Catalonia, México, Brazil, Midwest Republic, Colorado, Sicilia (autonomous zone within Meridia), Sonora, Araucanía-Patagonia, Basque Country, Austro-Bavaria, Northern Ireland, Yucatán, Amazonia, Hawaii, Alaska |
 
 ---
@@ -191,7 +191,7 @@ National communities are classified by tier based on long-run population share. 
 |------|---------|
 | Primary | France, Brazil, Australia |
 | Significant | Finland *(founding wave)*, Japan, Norway *(founding wave)*, CSA, Germany |
-| Notable | Denmark *(founding wave)*, Netherlands, Appalachia, Serbia, Poland, Sweden *(founding wave)*, Bulgaria, Czechia, Latvia, Austro-Bavaria, New England, Romania, Cascadia, Ukraine, United Kingdom, Hungary, Belarus, Croatia, Lithuania, Slovakia, Estonia, South Africa, Slovenia, Argentina (without Patagonia), Midwest Republic, Russia (core state), Amazonia, Colorado, Iceland *(founding wave)*, Sonora, Araucanía-Patagonia, Hawaii, Northern Ireland, Alaska |
+| Notable | Denmark *(founding wave)*, Netherlands, Appalachia, Serbia, Poland, Sweden *(founding wave)*, Bulgaria, Czechia, Latvia, Austro-Bavaria, New England, Romania, Cascadia, Ukraine, United Kingdom, Hungary, Kazakhstan, Belarus, Croatia, Lithuania, Slovakia, Estonia, South Africa, Slovenia, Argentina (without Patagonia), Midwest Republic, Russia (core state), Amazonia, Colorado, Iceland *(founding wave)*, Sonora, Araucanía-Patagonia, Hawaii, Northern Ireland, Alaska |
 
 *Note: Princess Elisabeth is the only Halley subnet city with meaningful eastern-approach immigration (Japan, Australia).*
 
@@ -305,7 +305,7 @@ National communities are classified by tier based on long-run population share. 
 |------|---------|
 | Primary | Korea, Japan, Australia, Indonesia |
 | Significant | Sinian Federation, Vietnam, Belarus, New Zealand, Russia (core state), Taiwan, Idelsk-Uralia, Philippines, France, Malaysia |
-| Notable | Serbia, Estonia, Thailand, Hungary, Netherlands, Finland, Croatia, CSA, Czechia, Norway, Poland, United Kingdom, Siberia, Spain, Donska-Kubania, México, Appalachia, Lithuania, Latvia, Cascadia, New England, Sweden, Bulgaria, Künnarantaiga, Slovakia, Romania, Manchuria, Germany, Ukraine, Magna Lombardia, Midwest Republic, Slovenia, Meridia, Catalonia, Mongolia, Demilitarized Zone (s. Ontario; not a nation), Colorado, Dagestan, Sonora, Quebec, West Papua, Aceh, East Turkestan, Yucatán, Prairie Federation, Chechnya, Austro-Bavaria, Basque Country, Sicilia (autonomous zone within Meridia), Kabardino-Balkaria, Patani, North Ossetia-Alania, Northern Ireland, Ingushetia, Karachay-Cherkessia, Tuva, Tibet, Hawaii, Alaska |
+| Notable | Serbia, Estonia, Kazakhstan, Thailand, Hungary, Netherlands, Finland, Croatia, CSA, Czechia, Norway, Poland, United Kingdom, Siberia, Spain, Donska-Kubania, México, Appalachia, Lithuania, Latvia, Cascadia, New England, Sweden, Bulgaria, Künnarantaiga, Slovakia, Romania, Manchuria, Germany, Ukraine, Magna Lombardia, Midwest Republic, Slovenia, Meridia, Catalonia, Mongolia, Demilitarized Zone (s. Ontario; not a nation), Colorado, Dagestan, Sonora, Quebec, West Papua, Aceh, East Turkestan, Yucatán, Prairie Federation, Chechnya, Austro-Bavaria, Basque Country, Sicilia (autonomous zone within Meridia), Kabardino-Balkaria, Patani, North Ossetia-Alania, Northern Ireland, Ingushetia, Karachay-Cherkessia, Tuva, Tibet, Hawaii, Alaska |
 
 *Note: France and Italy land in Concordia's Notable tier despite falling outside the standard solar-timezone eligibility window used elsewhere, a deliberate developer choice rather than an oversight. A genuine founding-wave-vs-long-run-majority tension, the same pattern used at several other Tepenian cities (see `Cities/Local_Cultures/*/*.md` "founding tension" sections).*
 
@@ -329,9 +329,9 @@ National communities are classified by tier based on long-run population share. 
 
 | Tier | Nations |
 |------|---------|
-| Primary | United Kingdom, Australia *(founding wave)*, Sinian Federation, Indonesia, Japan |
-| Significant | France, Korea |
-| Notable | Estonia, South Africa, Norway, Vietnam, Belarus, Netherlands, Thailand, Slovenia, Bulgaria, Austro-Bavaria, Czechia, Germany, Slovakia, Hungary, Lithuania, Poland, Croatia, Latvia, Romania, Ukraine, Mongolia, Russia (core state), East Turkestan, Northern Ireland, West Papua, Aceh, Patani, Tibet |
+| Primary | Australia *(founding wave)*, Sinian Federation, Indonesia, Japan |
+| Significant | France, Korea, Kazakhstan *(founding wave)*, United Kingdom, Russia (core state) *(founding wave)*, Estonia, South Africa, Norway, Vietnam, Belarus, Netherlands, Thailand, Slovenia, Bulgaria, Austro-Bavaria, Czechia, Germany, Slovakia, Hungary, Lithuania, Poland, Croatia, Latvia, Romania |
+| Notable | Ukraine, Mongolia, East Turkestan, Northern Ireland, West Papua, Aceh, Patani, Tibet |
 
 ---
 
@@ -343,8 +343,8 @@ National communities are classified by tier based on long-run population share. 
 
 | Tier | Nations |
 |------|---------|
-| Primary | Sinian Federation, Australia, Indonesia, United Kingdom, Germany |
-| Significant | Korea, France |
+| Primary | Australia, Indonesia, United Kingdom, Germany |
+| Significant | Sinian Federation, Korea, France, Kazakhstan *(founding wave)* |
 | Notable | Serbia, Netherlands, Slovenia, Croatia, Austro-Bavaria, Lithuania, Norway, Belarus, Latvia, Japan, Romania, Hungary, Czechia, South Africa, Bulgaria, Poland, Estonia, Ukraine, Slovakia, Russia (core state), East Turkestan, Northern Ireland, West Papua, Aceh, Tibet |
 
 *Note: Sayowa is the only Mawson subnet city where Cape Town (European) and Fremantle (East Asian) approaches are equally competitive — the T2 composition reflects this dual-gateway character.*
@@ -358,7 +358,7 @@ National communities are classified by tier based on long-run population share. 
 | Tier | Nations |
 |------|---------|
 | Primary | France, Indonesia, Australia, Korea, Sinian Federation |
-| Significant | Germany, CSA, Brazil, Japan, Austro-Bavaria, United Kingdom, Netherlands, Appalachia, Cascadia, Hungary, Malaysia, New England, Slovenia, Belarus, Croatia, Serbia, Czechia, Latvia, Philippines, Estonia, Norway, Romania, México, Spain |
+| Significant | Germany, CSA, Brazil, Japan, Austro-Bavaria, United Kingdom, Netherlands, Appalachia, Cascadia, Hungary, Malaysia, New England, Slovenia, Belarus, Croatia, Serbia, Czechia, Latvia, Philippines, Estonia, Norway, Romania, México, Kazakhstan, Spain |
 | Notable | Russia (core state), Finland, Slovakia, Bulgaria, Sweden, Vietnam, Chile, New Zealand, Thailand, South Africa, Argentina (without Patagonia), Uruguay, Poland, Lithuania, Midwest Republic, Idelsk-Uralia, Demilitarized Zone (s. Ontario; not a nation), Ukraine, Colorado, Quebec, Magna Lombardia, Sonora, Prairie Federation, Amazonia, Catalonia, Siberia, Meridia, Donska-Kubania, Yucatán, East Turkestan, Araucanía-Patagonia, Künnarantaiga, West Papua, Basque Country, Aceh, Northern Ireland, Sicilia (autonomous zone within Meridia), Dagestan, Hawaii, Alaska, Tibet, Patani, Chechnya, Kabardino-Balkaria, North Ossetia-Alania, Ingushetia, Karachay-Cherkessia, Tuva |
 
 ---
@@ -372,7 +372,7 @@ National communities are classified by tier based on long-run population share. 
 | Tier | Nations |
 |------|---------|
 | Primary | United Kingdom, Korea, Indonesia, Sinian Federation |
-| Significant | Japan, Australia, Philippines, New Zealand, Malaysia, Thailand, Taiwan, Idelsk-Uralia *(founding wave)*, Russia (core state), Vietnam, Manchuria, Belarus, South Africa |
+| Significant | Japan, Australia, Philippines, New Zealand, Malaysia, Thailand, Taiwan, Idelsk-Uralia *(founding wave)*, Russia (core state), Vietnam, Manchuria, Belarus, South Africa, Kazakhstan |
 | Notable | Siberia, Donska-Kubania, Künnarantaiga, Mongolia, East Turkestan, Northern Ireland, West Papua, Aceh, Dagestan, Patani, Chechnya, Tibet, Kabardino-Balkaria, North Ossetia-Alania, Finland, Ingushetia, Karachay-Cherkessia, Tuva |
 
 ---
@@ -383,7 +383,7 @@ National communities are classified by tier based on long-run population share. 
 |------|---------|
 | Primary | Korea, France, Australia *(founding wave — a direct sea route from Australia)*, Sinian Federation, CSA |
 | Significant | Japan, Indonesia, Appalachia, New England, New Zealand, Philippines, Cascadia, Vietnam, Taiwan |
-| Notable | Idelsk-Uralia, Russia (core state), Malaysia, Midwest Republic, Manchuria, Thailand, Colorado, Siberia, Donska-Kubania, Sonora, Künnarantaiga, Mongolia, East Turkestan, Dagestan, West Papua, Aceh, Hawaii, Chechnya, Tibet, Alaska, Kabardino-Balkaria, Patani, North Ossetia-Alania, Finland, Ingushetia, Karachay-Cherkessia, Tuva |
+| Notable | Idelsk-Uralia, Russia (core state), Malaysia, Kazakhstan, Midwest Republic, Manchuria, Thailand, Colorado, Siberia, Donska-Kubania, Sonora, Künnarantaiga, Mongolia, East Turkestan, Dagestan, West Papua, Aceh, Hawaii, Chechnya, Tibet, Alaska, Kabardino-Balkaria, Patani, North Ossetia-Alania, Finland, Ingushetia, Karachay-Cherkessia, Tuva |
 
 ---
 
@@ -393,7 +393,7 @@ National communities are classified by tier based on long-run population share. 
 |------|---------|
 | Primary | Japan, Sinian Federation, United Kingdom, Germany, Korea |
 | Significant | Indonesia, Australia *(founding wave)* |
-| Notable | Thailand, Vietnam, Philippines, Malaysia, Taiwan, Russia (core state), South Africa, Romania, Ukraine, New Zealand, Idelsk-Uralia, Belarus, Bulgaria, Austro-Bavaria, Manchuria, Lithuania, Estonia, Latvia, Siberia, Donska-Kubania, Mongolia, Künnarantaiga, East Turkestan, Hungary, Northern Ireland, Dagestan, West Papua, Aceh, Patani, Chechnya, Tibet, Kabardino-Balkaria, North Ossetia-Alania, Finland, Ingushetia, Karachay-Cherkessia, Tuva |
+| Notable | Thailand, Vietnam, Philippines, Malaysia, Taiwan, Russia (core state), South Africa, Romania, Ukraine, New Zealand, Idelsk-Uralia, Belarus, Kazakhstan, Bulgaria, Austro-Bavaria, Manchuria, Lithuania, Estonia, Latvia, Siberia, Donska-Kubania, Mongolia, Künnarantaiga, East Turkestan, Hungary, Northern Ireland, Dagestan, West Papua, Aceh, Patani, Chechnya, Tibet, Kabardino-Balkaria, North Ossetia-Alania, Finland, Ingushetia, Karachay-Cherkessia, Tuva |
 
 ---
 
@@ -415,7 +415,7 @@ National communities are classified by tier based on long-run population share. 
 |------|---------|
 | Primary | Korea *(founding wave)* |
 | Significant | Japan, Germany, Sinian Federation |
-| Notable | Indonesia, Australia, Thailand, Estonia, Hungary, Lithuania, Taiwan, Malaysia, Idelsk-Uralia, Russia (core state), Vietnam, Philippines, Bulgaria, Austro-Bavaria, Latvia, South Africa, Siberia, Donska-Kubania, Manchuria, Künnarantaiga, Mongolia, East Turkestan, Dagestan, Patani, West Papua, Aceh, Chechnya, Kabardino-Balkaria, North Ossetia-Alania, Tibet, Finland, Ingushetia, Karachay-Cherkessia, Tuva |
+| Notable | Indonesia, Australia, Thailand, Estonia, Hungary, Lithuania, Taiwan, Malaysia, Idelsk-Uralia, Russia (core state), Vietnam, Philippines, Kazakhstan, Bulgaria, Austro-Bavaria, Latvia, South Africa, Siberia, Donska-Kubania, Manchuria, Künnarantaiga, Mongolia, East Turkestan, Dagestan, Patani, West Papua, Aceh, Chechnya, Kabardino-Balkaria, North Ossetia-Alania, Tibet, Finland, Ingushetia, Karachay-Cherkessia, Tuva |
 
 ---
 
@@ -424,8 +424,8 @@ National communities are classified by tier based on long-run population share. 
 | Tier | Nations |
 |------|---------|
 | Primary | Japan *(founding population — Jeju-do diplomatic allocation)* |
-| Significant | Australia, Korea, Sinian Federation |
-| Notable | Germany, Russia (core state), Romania, Vietnam, Taiwan, Belarus, New Zealand, Thailand, Idelsk-Uralia, Ukraine, Lithuania, South Africa, Bulgaria, Latvia, Estonia, Siberia, Donska-Kubania, Austro-Bavaria, Künnarantaiga, Manchuria, Hungary, Mongolia, Dagestan, East Turkestan, Chechnya, Patani, Kabardino-Balkaria, North Ossetia-Alania, Finland, Ingushetia, Karachay-Cherkessia, Tuva, Tibet |
+| Significant | Australia, Korea |
+| Notable | Sinian Federation, Germany, Russia (core state), Romania, Vietnam, Taiwan, Belarus, New Zealand, Thailand, Idelsk-Uralia, Ukraine, Lithuania, South Africa, Bulgaria, Kazakhstan, Latvia, Estonia, Siberia, Donska-Kubania, Austro-Bavaria, Künnarantaiga, Manchuria, Hungary, Mongolia, Dagestan, East Turkestan, Chechnya, Patani, Kabardino-Balkaria, North Ossetia-Alania, Finland, Ingushetia, Karachay-Cherkessia, Tuva, Tibet |
 
 ---
 
@@ -434,7 +434,7 @@ National communities are classified by tier based on long-run population share. 
 | Tier | Nations |
 |------|---------|
 | Primary | Japan, Indonesia |
-| Significant | CSA, Korea, Australia, Cascadia, Appalachia, Demilitarized Zone (s. Ontario; not a nation), New England, Mongolia *(founding wave)*, Chile, Quebec, Künnarantaiga *(founding wave)*, Taiwan, Prairie Federation, Midwest Republic, New Zealand, Colorado |
+| Significant | CSA, Korea, Australia, Cascadia, Appalachia, Demilitarized Zone (s. Ontario; not a nation), New England, Mongolia *(founding wave)*, Chile, Quebec, Künnarantaiga *(founding wave)*, Taiwan, Prairie Federation, Midwest Republic, New Zealand, Kazakhstan, Colorado |
 | Notable | Sonora, Araucanía-Patagonia, West Papua, Aceh, Hawaii, Alaska |
 
 *Note: Vostok's current population composition is a genuine, deliberate tension with `Specs/Vostok.md`'s own founding story, which describes Vostok's founding population as "primarily Russian exiles" — the population that actually exists today carries none of that Russian heritage at all. The gap itself is ambient, unexplained fact rather than a traceable historical event. See `Local_Cultures/Mirny_Subnet/Vostok.md` for this tension developed as a cultural feature, not an oversight.*
@@ -459,7 +459,7 @@ National communities are classified by tier based on long-run population share. 
 |------|---------|
 | Primary | Japan, Indonesia *(founding wave)*, Korea, Sinian Federation, Australia |
 | Significant | Thailand, Vietnam, Idelsk-Uralia, Russia (core state), Malaysia *(founding wave)*, Philippines, Taiwan, New Zealand *(via the Hobart gateway)* |
-| Notable | Siberia, Donska-Kubania, Manchuria, Künnarantaiga, Mongolia, East Turkestan, Dagestan, West Papua, Aceh, Patani, Chechnya, Kabardino-Balkaria, North Ossetia-Alania, Tibet, Finland, Ingushetia, Karachay-Cherkessia, Tuva |
+| Notable | Siberia, Kazakhstan, Donska-Kubania, Manchuria, Künnarantaiga, Mongolia, East Turkestan, Dagestan, West Papua, Aceh, Patani, Chechnya, Kabardino-Balkaria, North Ossetia-Alania, Tibet, Finland, Ingushetia, Karachay-Cherkessia, Tuva |
 
 *Note: Relung Panen's population and its Census I and II figures are in Sections B and C; its full per-nation table is in `Specs/Mirny subnet/Relung_Panen.md`.*
 
@@ -474,7 +474,7 @@ National communities are classified by tier based on long-run population share. 
 | Tier | Nations |
 |------|---------|
 | Primary | United Kingdom, Sinian Federation, Japan, Germany, CSA |
-| Significant | Korea, Australia, Appalachia, Cascadia, New England, New Zealand, Austro-Bavaria, Argentina (without Patagonia), Taiwan, Demilitarized Zone (s. Ontario; not a nation), Quebec, Norway *(Amundsen heritage — Saint Roald)*, Midwest Republic, Chile *(unique Union Glacier route advantage)*, Manchuria, Prairie Federation, Colorado |
+| Significant | Korea, Australia, Appalachia, Cascadia, New England, New Zealand, Austro-Bavaria, Argentina (without Patagonia), Taiwan, Demilitarized Zone (s. Ontario; not a nation), Quebec, Norway *(Amundsen heritage — Saint Roald)*, Kazakhstan, Midwest Republic, Chile *(unique Union Glacier route advantage)*, Manchuria, Prairie Federation, Colorado |
 | Notable | Sonora, Araucanía-Patagonia, Mongolia, East Turkestan, Northern Ireland, Hawaii, Alaska, Tibet |
 
 *Note: Amundsen Station is a research and relay outpost, not a residential city. Human population is a skeleton crew embedded in a robot-majority operational facility.*
@@ -571,52 +571,53 @@ National communities are classified by tier based on long-run population share. 
 
 ***Adjusted again 2026-07-06, same day*** — *Byrd's own City Vision Notes session produced a hand-specified re-tiering: a six-way rotation moved USA and Canada into Primary tier (the USA, then thought to be Byrd's founding nation, had been buried behind Japan; superseded: Byrd's founders are a joint team of first-wave Tepenians, `Founding_Register.md`, `DR-44`), with Australia, Japan, South Korea, and China filling Significant; a further swap moved China above Indonesia; a final −0.01% rounding correction was applied to China. Deltas computed directly from `Specs/Byrd.md`'s old vs. new per-nation figures: USA +3,987 (2,525,235 → 2,529,222); Canada +15,356 (309,118 → 324,474); Australia +6,453 (693,290 → 699,743); China +1,388 (1,673,586 → 1,674,974); Japan −13,747 (931,974 → 918,227); South Korea −5,586 (875,846 → 870,260); Indonesia −7,840 (558,311 → 550,471). Off by 11 (15,623,532 vs. 15,623,521) due to rounding across 7 affected nations; immaterial.*
 
-***Rebuilt 2026-11-02 (`DR-85`)*** — *superseding every version above and the table below as it stood. Every nation is now written in its latest-period form (successor states and renamed countries; names are explained in Section E), and the humans are the sum of each city's final per-nation table in its Specs file, Census I human column. New places were added (Taiwan, Hong Kong, Macau, today's Mongolia, North Korea, Luxembourg, Kosovo, Austria, Petén), Jeju-do's people count as Korea's, and the Sinian Federation's share in the cities where it was reduced was refilled by the other nations. Every city's total is unchanged, so the grand total equals the sum of the city rows plus the maritime fleet. The earlier table is in git commit `593510ab`. **Rebuilt again 2026-11-02 (`DR-90`)** after the Esperanza relocation (Esperanza 1,200,000; the difference spread across the other cities; the totals are unchanged).*
+***Rebuilt 2026-11-02 (`DR-85`)*** — *superseding every version above and the table below as it stood. Every nation is now written in its latest-period form (successor states and renamed countries; names are explained in Section E), and the humans are the sum of each city's final per-nation table in its Specs file, Census I human column. New places were added (Taiwan, Hong Kong, Macau, today's Mongolia, North Korea, Luxembourg, Kosovo, Austria, Petén), Jeju-do's people count as Korea's, and the Sinian Federation's share in the cities where it was reduced was refilled by the other nations. Every city's total is unchanged, so the grand total equals the sum of the city rows plus the maritime fleet. The earlier table is in git commit `593510ab`. **Rebuilt again 2026-11-02 (`DR-90`)** after the Esperanza relocation (Esperanza 1,200,000; the difference spread across the other cities; the totals are unchanged). **Rebuilt a third time 2026-11-02 (`DR-93`)** after Kazakhstan was added (82,544 humans placed at 1.45% in the 13 cities of its time-zone window) and the founder boosts at Temirötkel, Mawson and Pergamino; the totals are unchanged.*
 
 | Nation | Human Exiles | | Nation | Human Exiles |
 |--------|-------------|---|--------|-------------|
-| Korea | 1,021,489 | | Demilitarized Zone (s. Ontario; not a nation) | 120,968 |
-| Sinian Federation | 1,019,216 | | Latvia | 118,663 |
-| Japan | 951,358 | | Magna Lombardia | 114,191 |
-| United Kingdom | 839,665 | | Colorado | 112,692 |
-| Australia | 825,444 | | Uruguay | 95,959 |
-| CSA | 800,215 | | Quebec | 92,499 |
-| Indonesia | 664,021 | | Ukraine | 87,079 |
-| Germany | 640,205 | | Manchuria | 86,330 |
-| Brazil | 577,018 | | Sonora | 77,672 |
-| France | 509,177 | | Prairie Federation | 68,048 |
-| Appalachia | 485,568 | | Amazonia | 63,645 |
-| Cascadia | 403,758 | | Meridia | 61,540 |
-| New England | 394,111 | | Siberia | 61,185 |
-| Austro-Bavaria | 234,257 | | Spain | 59,755 |
-| New Zealand | 222,741 | | Donska-Kubania | 58,663 |
-| Taiwan | 216,579 | | Sweden | 55,439 |
-| Argentina (without Patagonia) | 198,874 | | Araucanía-Patagonia | 42,471 |
-| Vietnam | 198,775 | | Künnarantaiga | 41,198 |
-| Russia (core state) | 198,000 | | Mongolia | 35,629 |
-| Malaysia | 195,661 | | Yucatán | 23,331 |
-| Philippines | 193,388 | | Northern Ireland | 22,738 |
-| Chile | 189,134 | | Denmark | 17,825 |
-| Hungary | 183,761 | | East Turkestan | 15,248 |
-| México | 174,525 | | Sicilia (autonomous zone within Meridia) | 13,158 |
-| Thailand | 170,256 | | Catalonia | 12,797 |
-| Estonia | 166,549 | | West Papua | 12,269 |
-| South Africa | 162,581 | | Aceh | 11,854 |
-| Netherlands | 154,948 | | Dagestan | 10,869 |
-| Idelsk-Uralia | 153,930 | | Hawaii | 9,725 |
-| Serbia | 152,303 | | Alaska | 5,463 |
-| Slovenia | 151,075 | | Chechnya | 5,164 |
-| Poland | 150,911 | | Patani | 4,881 |
-| Midwest Republic | 149,848 | | Basque Country | 4,600 |
-| Czechia | 144,442 | | Iceland | 3,219 |
-| Slovakia | 141,398 | | Kabardino-Balkaria | 3,088 |
-| Romania | 141,319 | | North Ossetia-Alania | 2,351 |
-| Lithuania | 137,108 | | Tibet | 2,154 |
-| Bulgaria | 136,738 | | Ingushetia | 1,745 |
-| Norway | 135,780 | | Karachay-Cherkessia | 1,608 |
-| Croatia | 130,358 | | Tuva | 1,154 |
-| Finland | 121,642 | | *Maritime fleet (no nation assigned)* | 24,942 |
-| Belarus | 121,588 | | **TOTAL** | **15,623,523** |
+| Korea | 1,012,380 | | Belarus | 120,334 |
+| Sinian Federation | 1,009,593 | | Latvia | 117,963 |
+| Japan | 942,145 | | Magna Lombardia | 114,160 |
+| Australia | 818,744 | | Colorado | 112,475 |
+| CSA | 798,637 | | Kazakhstan | 110,627 |
+| United Kingdom | 780,675 | | Uruguay | 104,545 |
+| Indonesia | 658,575 | | Quebec | 92,400 |
+| Germany | 637,889 | | Ukraine | 86,457 |
+| Brazil | 576,408 | | Manchuria | 85,710 |
+| France | 506,291 | | Sonora | 77,540 |
+| Appalachia | 484,638 | | Prairie Federation | 67,975 |
+| Cascadia | 403,029 | | Amazonia | 63,578 |
+| New England | 393,350 | | Meridia | 61,521 |
+| Austro-Bavaria | 233,509 | | Siberia | 60,626 |
+| New Zealand | 221,060 | | Spain | 59,671 |
+| Russia (core state) | 218,380 | | Donska-Kubania | 58,129 |
+| Taiwan | 214,777 | | Sweden | 55,159 |
+| Argentina (without Patagonia) | 198,780 | | Araucanía-Patagonia | 42,450 |
+| Vietnam | 196,624 | | Künnarantaiga | 40,791 |
+| Malaysia | 194,293 | | Mongolia | 35,278 |
+| Philippines | 191,799 | | Yucatán | 23,321 |
+| Chile | 189,040 | | Northern Ireland | 22,649 |
+| Hungary | 183,046 | | Denmark | 17,566 |
+| México | 174,448 | | East Turkestan | 15,040 |
+| Thailand | 168,240 | | Sicilia (autonomous zone within Meridia) | 13,154 |
+| Estonia | 165,548 | | Catalonia | 12,779 |
+| South Africa | 161,538 | | West Papua | 12,167 |
+| Netherlands | 154,238 | | Aceh | 11,757 |
+| Idelsk-Uralia | 152,525 | | Dagestan | 10,772 |
+| Serbia | 151,914 | | Hawaii | 9,706 |
+| Slovenia | 150,633 | | Alaska | 5,453 |
+| Poland | 150,437 | | Chechnya | 5,117 |
+| Midwest Republic | 149,560 | | Patani | 4,825 |
+| Czechia | 143,946 | | Basque Country | 4,594 |
+| Slovakia | 141,074 | | Iceland | 3,172 |
+| Romania | 140,472 | | Kabardino-Balkaria | 3,061 |
+| Lithuania | 136,305 | | North Ossetia-Alania | 2,331 |
+| Bulgaria | 135,827 | | Tibet | 2,124 |
+| Norway | 134,888 | | Ingushetia | 1,729 |
+| Croatia | 129,972 | | Karachay-Cherkessia | 1,594 |
+| Finland | 121,074 | | Tuva | 1,142 |
+| Demilitarized Zone (s. Ontario; not a nation) | 120,838 | | *Maritime fleet (no nation assigned)* | 24,942 |
+|  |  | | **TOTAL** | **15,623,523** |
 
 *Note: Dome Fuji and Kunlun are both exceptions to the "100% robot, excluded" framing above — both have zero humans, so both are excluded from this humans-only table, but **both now have their own nationally-diverse robots-only breakdowns** (see `Specs/Dome_Fuji.md` and `Specs/Kunlun.md`, the latter re-resolved 2026-07-06 from its original single-nation Chinese figure to a curated 19-nation space/astronomy/comms-heritage population). Neither city contributes to the table above. **Resolved 2026-07-13:** this file's own City Populations table (above) previously did not mark Denison as destroyed, despite Section D below explicitly stating Denison was "Destroyed during the Long Night War" — an inconsistency within this same document. Fixed, adding the "(destroyed)" tag to Denison's row to match Zukelli's own already-correct row. The same gap was found, opportunistically, on Cape Adare's row three lines above Denison's — also fixed, matching `Specs/Cape_Adare.md`'s own already-established "Destroyed" status.* *Updated 2026-10-29 (`DR-83`): Santa Luce's composition now names the post-war states Magna Lombardia and Meridia, so the table lists them as separate nations; the other cities still list "Italy" until the post-war nation reorganization, and the three rows sit side by side.*
 
@@ -876,6 +877,7 @@ Destroyed during the Long Night War — the site of the first permanent Antarcti
 - **Korea:** South Korea and North Korea. Jeju-do is the International Court of Diplomacy's neutral ground and nobody comes from it (developer, 2026-11-02): its people count as Korea's.
 - **Demilitarized Zone (s. Ontario; not a nation):** Canada's former southern-Ontario territory. Its treatment is **still open** (developer, 2026-11-02: to be decided).
 - **Sicilia (autonomous zone within Meridia):** listed on its own as the atlas lists it.
+- **Kazakhstan** (added 2026-11-02, `DR-93`): a nation never counted before; its pool (4.13 million, estimated from Romania, Serbia and Russia on income and inequality) is placed at 1.45% in the 13 cities within three zones of UTC+5, and it is a founder at Temirötkel and Mawson (boosted there).
 - **Neutral Scientific Territory:** no one is from it, so it has no row (developer, 2026-11-01).
 - **Kunlun's heritage rows** (USA, Russia, Canada, UK, Italy, Germany, South Korea, Argentina, Intermarium/Intermaria) keep their old names, because Kunlun's rows follow space-program heritage and not headcount; which successor carries which program is still to be decided.
 - **Where the numbers come from:** `Sinian_Federation_Split_Scratch_2026-11-01/` (file `12_Rebalance_Run4.md`, the research in `Run4_Research/`, and `apply_final.py` for the last changes).

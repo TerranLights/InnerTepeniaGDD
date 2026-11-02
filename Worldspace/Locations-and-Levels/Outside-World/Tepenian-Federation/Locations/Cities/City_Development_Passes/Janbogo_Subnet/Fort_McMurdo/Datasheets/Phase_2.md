@@ -14,7 +14,7 @@
 | Spec table vs census table (nation lists, annotations ignored) | Identical | Compared 2026-10-21 |
 | Per-nation breakdown (spec) | Present at L48–L90 (a model output per the spec's own note, not a measured count) — **not quoted**; cite by range | `Specs/Fort_McMurdo.md` L48 |
 | Census I | 222,190 H / 223,120 R / **445,310** combined | `Official_Population_Census.md` L519 |
-| Census II | 173,548 H / 164,621 R / **338,169** combined | `Official_Population_Census.md` L659 |
+| Census II | 173,548 H / 164,621 R / **338,169** combined | `Official_Population_Census.md` L660 |
 | Retention (computed; cross-ref `Step_0.md`) | combined 75.94% · human 78.11% · robot 73.78% | Computed from the two rows above |
 | `Upper_Earth_Immigration_Composition.md` — the city's own section (the registered composition address) | Present at L471–L479: the section heading (L471), the tier table (L473–L477) and the key note (L479). **Cited by range, not quoted**: which spans are admissible is Step −1's ruling | `Upper_Earth_Immigration_Composition.md` L471–L439 |
 | `Upper_Earth_Immigration_Composition.md` — the solar-UTC rule (how the ±3 window is measured) | Present at L23–L65: the section heading at L23, the list "Recording it so it stops being reconstructed from examples" at L28–L35 (rule 1 at L30), and the refinement box at L37–L65. **Cited by range, not quoted** | `Upper_Earth_Immigration_Composition.md` L23–L63 |

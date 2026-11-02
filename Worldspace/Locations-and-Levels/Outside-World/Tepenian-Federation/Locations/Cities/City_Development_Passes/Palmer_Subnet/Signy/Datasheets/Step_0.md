@@ -8,7 +8,7 @@
 | Category | Value | Citation |
 |---|---|---|
 | Census I | 93,134 H / 95,560 R / **188,694** combined (status cell: revised 2026-07-04; the "island cap" tag was removed 2026-10-31) | `Official_Population_Census.md` L527 |
-| Census II | 53,928 H / 79,827 R / **133,755** combined (status cell: the "island cap" tag was removed 2026-10-31) | `Official_Population_Census.md` L667 |
+| Census II | 53,928 H / 79,827 R / **133,755** combined (status cell: the "island cap" tag was removed 2026-10-31) | `Official_Population_Census.md` L668 |
 | Retention (computed; formula = Census II count ÷ Census I count) | combined 70.88% · human 57.90% · robot 83.54% | Computed from the two rows above: 133,755÷188,694 · 53,928÷93,134 · 79,827÷95,560 |
 | Extent (the sources' own declaration; 2026-09-05 snapshot; the census is live — note L631) | Spec extent band: Signy Island 19 km² + a moored floating settlement around Coronation Island; population unchanged · Extent file §7: Signy I. 19 km² + a moored settlement around Coronation I.; population 188,694, unchanged; density on Signy I. alone 9,931/km² · first-pass table row: Signy I. · 19 km² · 188,694 · 9,931/km² | `Extent_and_Density_Per_City.md` L296–L306 (§7 heading L296; ruling L298–L300; table L302–L306), L511 (status row), L59 (first-pass table row) · `Specs/Signy.md` L29–L50 (extent band L30) |
 | **Temporal frame — the Second Interwar Period** | **2564–2812. 248 years, beginning at the Falkland Treaty.** The default frame for worldbuilding a Tepenian location; a corpus-wide constant, not a per-city judgment | ⭐ `Corpus_Reference_Sheets/Second_Interwar_Period_Quick_Reference.md`, in full |

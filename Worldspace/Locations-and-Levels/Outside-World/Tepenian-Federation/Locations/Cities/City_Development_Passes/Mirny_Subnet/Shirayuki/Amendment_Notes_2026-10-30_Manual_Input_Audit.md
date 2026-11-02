@@ -15,7 +15,7 @@
 **The live Register row** (`Founding_Register.md` **L61**, re-read 2026-10-30; it was also L61 at audit time). The table's header is `City | Subnet | Solar UTC | Status | Founders | Basis | Source | Not founders` (L36). The row, quoted exactly:
 
 ```
-| Shirayuki | Mirny | +5 | ✅ | Japan, by the Jeju-do court's diplomatic allocation | The Jeju-do court's diplomatic allocation, **and, in addition, geography**: zone gap 3 to the Prydz Bay coast (the edge of the rule). Developer: geography is an *additional* factor, not a replacement. | `Specs/Mirny subnet/Shirayuki.md` L202; `DR-44` | — |
+| Shirayuki | Mirny | +5 | ✅ | Japan, by the Jeju-do court's diplomatic allocation | The Jeju-do court's diplomatic allocation, **and, in addition, geography**: zone gap 3 to the Prydz Bay coast (the edge of the rule). Developer: geography is an *additional* factor, not a replacement. | `Specs/Mirny subnet/Shirayuki.md` L203; `DR-44` | — |
 ```
 
 The Register's change log (L90) records the same ruling: "Shirayuki and Sinheung (the Jeju-do allocation, plus geography)". **Earlier text of the same row (from git, as recorded when the Register was created on 2026-10-01, commit `ede29386`, L61):** Status 🟡, Basis "Allocation, not geography". The live text above replaced it when `DR-44` (ruled 2026-10-03) was entered; it is in the Register by the commit of 2026-10-04, `582cb682`.

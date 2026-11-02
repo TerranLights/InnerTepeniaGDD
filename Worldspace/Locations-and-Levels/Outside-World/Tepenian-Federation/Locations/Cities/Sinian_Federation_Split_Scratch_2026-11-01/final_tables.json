@@ -21,12 +21,12 @@
     {
      "tier": "Primary",
      "nation": "United Kingdom",
-     "share": 11.014,
+     "share": 10.853873056623394,
      "counts": [
-      629,
-      123,
-      436,
-      98
+      620,
+      121,
+      430,
+      97
      ],
      "from": "UK",
      "anno": ""
@@ -34,12 +34,12 @@
     {
      "tier": "Primary",
      "nation": "Sinian Federation",
-     "share": 11.005,
+     "share": 10.845003903045257,
      "counts": [
-      631,
-      122,
-      437,
-      99
+      622,
+      120,
+      431,
+      98
      ],
      "from": "China + Hong Kong + Macau",
      "anno": ""
@@ -47,12 +47,12 @@
     {
      "tier": "Primary",
      "nation": "Japan",
-     "share": 10.279,
+     "share": 10.129558847742134,
      "counts": [
-      588,
-      114,
-      408,
-      93
+      579,
+      112,
+      402,
+      92
      ],
      "from": "",
      "anno": ""
@@ -60,12 +60,12 @@
     {
      "tier": "Primary",
      "nation": "Germany",
-     "share": 9.072,
+     "share": 8.940106806762977,
      "counts": [
-      520,
-      100,
-      358,
-      83
+      512,
+      99,
+      353,
+      82
      ],
      "from": "",
      "anno": ""
@@ -73,12 +73,12 @@
     {
      "tier": "Primary",
      "nation": "CSA",
-     "share": 7.906,
+     "share": 7.791058687639781,
      "counts": [
-      451,
-      90,
-      315,
-      72
+      444,
+      89,
+      310,
+      71
      ],
      "from": "USA",
      "anno": ""
@@ -86,12 +86,12 @@
     {
      "tier": "Significant",
      "nation": "Korea",
-     "share": 6.503,
+     "share": 6.4084561909589555,
      "counts": [
-      375,
-      73,
-      260,
-      58
+      370,
+      72,
+      256,
+      57
      ],
      "from": "South Korea + North Korea + Jeju-do",
      "anno": ""
@@ -99,12 +99,12 @@
     {
      "tier": "Significant",
      "nation": "Australia",
-     "share": 5.595,
+     "share": 5.513657141075711,
      "counts": [
-      321,
-      62,
-      223,
-      51
+      316,
+      61,
+      220,
+      50
      ],
      "from": "",
      "anno": ""
@@ -112,12 +112,12 @@
     {
      "tier": "Significant",
      "nation": "Appalachia",
-     "share": 4.452,
+     "share": 4.387274636652202,
      "counts": [
-      256,
-      49,
-      177,
-      40
+      252,
+      48,
+      174,
+      39
      ],
      "from": "USA",
      "anno": ""
@@ -125,12 +125,12 @@
     {
      "tier": "Significant",
      "nation": "Cascadia",
-     "share": 4.043,
+     "share": 3.9842208796012697,
      "counts": [
-      233,
-      46,
-      160,
-      38
+      230,
+      45,
+      158,
+      37
      ],
      "from": "USA + Canada",
      "anno": ""
@@ -138,12 +138,12 @@
     {
      "tier": "Significant",
      "nation": "New England",
-     "share": 3.642,
+     "share": 3.589050814619793,
      "counts": [
-      209,
-      41,
-      145,
-      33
+      206,
+      40,
+      143,
+      32
      ],
      "from": "USA",
      "anno": ""
@@ -151,12 +151,12 @@
     {
      "tier": "Significant",
      "nation": "New Zealand",
-     "share": 3.376,
+     "share": 3.3269180533103846,
      "counts": [
-      194,
-      38,
-      135,
-      31
+      191,
+      37,
+      133,
+      30
      ],
      "from": "",
      "anno": ""
@@ -164,12 +164,12 @@
     {
      "tier": "Significant",
      "nation": "Austro-Bavaria",
-     "share": 3.248,
+     "share": 3.200778980199091,
      "counts": [
-      186,
-      36,
-      129,
-      30
+      183,
+      35,
+      127,
+      29
      ],
      "from": "Germany + Austria",
      "anno": ""
@@ -177,12 +177,12 @@
     {
      "tier": "Significant",
      "nation": "Argentina (without Patagonia)",
-     "share": 3.185,
+     "share": 3.1386949051521253,
      "counts": [
-      182,
-      36,
-      127,
-      29
+      179,
+      35,
+      125,
+      28
      ],
      "from": "Argentina",
      "anno": ""
@@ -190,11 +190,11 @@
     {
      "tier": "Significant",
      "nation": "Taiwan",
-     "share": 2.855,
+     "share": 2.81349260728707,
      "counts": [
-      163,
+      161,
       32,
-      114,
+      112,
       26
      ],
      "from": "Taiwan",
@@ -203,11 +203,11 @@
     {
      "tier": "Significant",
      "nation": "Demilitarized Zone (s. Ontario; not a nation)",
-     "share": 2.155,
+     "share": 2.1236695512096797,
      "counts": [
-      123,
+      121,
       24,
-      85,
+      84,
       20
      ],
      "from": "Canada",
@@ -216,11 +216,11 @@
     {
      "tier": "Significant",
      "nation": "Quebec",
-     "share": 1.648,
+     "share": 1.624040566307913,
      "counts": [
-      95,
+      94,
       19,
-      66,
+      65,
       15
      ],
      "from": "Canada",
@@ -229,11 +229,11 @@
     {
      "tier": "Significant",
      "nation": "Norway",
-     "share": 1.571,
+     "share": 1.5481600301394,
      "counts": [
-      90,
+      89,
       18,
-      62,
+      61,
       14
      ],
      "from": "",
@@ -241,12 +241,25 @@
     },
     {
      "tier": "Significant",
-     "nation": "Midwest Republic",
-     "share": 1.385,
+     "nation": "Kazakhstan",
+     "share": 1.4538491318013997,
      "counts": [
-      80,
+      83,
       16,
-      55,
+      58,
+      13
+     ],
+     "from": "Kazakhstan",
+     "anno": ""
+    },
+    {
+     "tier": "Significant",
+     "nation": "Midwest Republic",
+     "share": 1.3648641895245506,
+     "counts": [
+      79,
+      16,
+      54,
       14
      ],
      "from": "USA",
@@ -255,11 +268,11 @@
     {
      "tier": "Significant",
      "nation": "Chile",
-     "share": 1.353,
+     "share": 1.333329421246727,
      "counts": [
-      79,
+      78,
       15,
-      54,
+      53,
       13
      ],
      "from": "",
@@ -268,11 +281,11 @@
     {
      "tier": "Significant",
      "nation": "Manchuria",
-     "share": 1.227,
+     "share": 1.2091612711527968,
      "counts": [
-      71,
+      70,
       15,
-      49,
+      48,
       12
      ],
      "from": "China",
@@ -281,11 +294,11 @@
     {
      "tier": "Significant",
      "nation": "Prairie Federation",
-     "share": 1.212,
+     "share": 1.194379348522567,
      "counts": [
-      70,
+      69,
       14,
-      48,
+      47,
       12
      ],
      "from": "Canada",
@@ -294,11 +307,11 @@
     {
      "tier": "Significant",
      "nation": "Colorado",
-     "share": 1.041,
+     "share": 1.0258654305379473,
      "counts": [
-      61,
+      60,
       12,
-      42,
+      41,
       10
      ],
      "from": "USA",
@@ -307,9 +320,9 @@
     {
      "tier": "Notable",
      "nation": "Sonora",
-     "share": 0.612,
+     "share": 0.6031024433133755,
      "counts": [
-      35,
+      34,
       7,
       25,
       6
@@ -320,7 +333,7 @@
     {
      "tier": "Notable",
      "nation": "Araucanía-Patagonia",
-     "share": 0.41,
+     "share": 0.4040392185596142,
      "counts": [
       23,
       5,
@@ -333,7 +346,7 @@
     {
      "tier": "Notable",
      "nation": "Mongolia",
-     "share": 0.4,
+     "share": 0.39418460347279444,
      "counts": [
       23,
       5,
@@ -346,7 +359,7 @@
     {
      "tier": "Notable",
      "nation": "East Turkestan",
-     "share": 0.339,
+     "share": 0.3340714514431933,
      "counts": [
       19,
       4,
@@ -359,7 +372,7 @@
     {
      "tier": "Notable",
      "nation": "Northern Ireland",
-     "share": 0.277,
+     "share": 0.27297283790491017,
      "counts": [
       17,
       3,
@@ -372,7 +385,7 @@
     {
      "tier": "Notable",
      "nation": "Hawaii",
-     "share": 0.09,
+     "share": 0.08869153578137874,
      "counts": [
       5,
       1,
@@ -385,7 +398,7 @@
     {
      "tier": "Notable",
      "nation": "Alaska",
-     "share": 0.058,
+     "share": 0.057156767503555195,
      "counts": [
       4,
       1,
@@ -398,7 +411,7 @@
     {
      "tier": "Notable",
      "nation": "Tibet",
-     "share": 0.048,
+     "share": 0.04730215241673533,
      "counts": [
       3,
       0,
@@ -4960,12 +4973,12 @@
     {
      "tier": "Primary",
      "nation": "France",
-     "share": 8.891,
+     "share": 8.761738273691538,
      "counts": [
-      54161,
-      51639,
-      34190,
-      37170
+      53374,
+      50888,
+      33693,
+      36630
      ],
      "from": "Belgium + Luxembourg",
      "anno": ""
@@ -4973,12 +4986,12 @@
     {
      "tier": "Primary",
      "nation": "Brazil",
-     "share": 7.223,
+     "share": 7.117988477209985,
      "counts": [
-      44004,
-      41955,
-      27777,
-      30198
+      43364,
+      41345,
+      27373,
+      29759
      ],
      "from": "",
      "anno": ""
@@ -4986,12 +4999,12 @@
     {
      "tier": "Primary",
      "nation": "Australia",
-     "share": 7.05,
+     "share": 6.947503636208001,
      "counts": [
-      42920,
-      40921,
-      27095,
-      29455
+      42296,
+      40326,
+      26701,
+      29027
      ],
      "from": "",
      "anno": ""
@@ -4999,12 +5012,12 @@
     {
      "tier": "Significant",
      "nation": "Finland",
-     "share": 5.29,
+     "share": 5.213091380927706,
      "counts": [
-      32246,
-      30745,
-      20356,
-      22131
+      31777,
+      30298,
+      20060,
+      21809
      ],
      "from": "",
      "anno": "founding wave"
@@ -5012,12 +5025,12 @@
     {
      "tier": "Significant",
      "nation": "Japan",
-     "share": 5.155,
+     "share": 5.080054077255638,
      "counts": [
-      31401,
-      29939,
-      19823,
-      21550
+      30945,
+      29504,
+      19535,
+      21237
      ],
      "from": "",
      "anno": ""
@@ -5025,12 +5038,12 @@
     {
      "tier": "Significant",
      "nation": "Norway",
-     "share": 5.12,
+     "share": 5.045562924451769,
      "counts": [
-      31211,
-      29756,
-      19701,
-      21420
+      30757,
+      29323,
+      19415,
+      21109
      ],
      "from": "",
      "anno": "founding wave"
@@ -5038,12 +5051,12 @@
     {
      "tier": "Significant",
      "nation": "CSA",
-     "share": 4.577,
+     "share": 4.51045732523745,
      "counts": [
-      27887,
-      26588,
-      17604,
-      19137
+      27482,
+      26201,
+      17348,
+      18859
      ],
      "from": "USA",
      "anno": ""
@@ -5051,12 +5064,12 @@
     {
      "tier": "Significant",
      "nation": "Germany",
-     "share": 3.767,
+     "share": 3.712233503205041,
      "counts": [
-      22941,
-      21873,
-      14481,
-      15743
+      22607,
+      21555,
+      14271,
+      15514
      ],
      "from": "",
      "anno": ""
@@ -5064,12 +5077,12 @@
     {
      "tier": "Notable",
      "nation": "Denmark",
-     "share": 3.069,
+     "share": 3.024381370145015,
      "counts": [
-      18695,
-      17825,
-      11802,
-      12830
+      18423,
+      17566,
+      11630,
+      12644
      ],
      "from": "",
      "anno": "founding wave"
@@ -5077,12 +5090,12 @@
     {
      "tier": "Notable",
      "nation": "Netherlands",
-     "share": 2.975,
+     "share": 2.9317479883289086,
      "counts": [
-      18113,
-      17269,
-      11434,
-      12429
+      17850,
+      17018,
+      11268,
+      12248
      ],
      "from": "Belgium",
      "anno": ""
@@ -5090,12 +5103,12 @@
     {
      "tier": "Notable",
      "nation": "Appalachia",
-     "share": 2.938,
+     "share": 2.895285912507675,
      "counts": [
-      17899,
-      17066,
-      11299,
-      12285
+      17639,
+      16818,
+      11135,
+      12106
      ],
      "from": "USA",
      "anno": ""
@@ -5103,12 +5116,12 @@
     {
      "tier": "Notable",
      "nation": "Serbia",
-     "share": 2.685,
+     "share": 2.6459641508111327,
      "counts": [
-      16339,
-      15578,
-      10312,
-      11213
+      16101,
+      15351,
+      10162,
+      11050
      ],
      "from": "Kosovo",
      "anno": ""
@@ -5116,12 +5129,12 @@
     {
      "tier": "Notable",
      "nation": "Poland",
-     "share": 2.677,
+     "share": 2.6380804587416766,
      "counts": [
-      16299,
-      15539,
-      10290,
-      11186
+      16062,
+      15313,
+      10140,
+      11023
      ],
      "from": "",
      "anno": ""
@@ -5129,12 +5142,12 @@
     {
      "tier": "Notable",
      "nation": "Sweden",
-     "share": 2.648,
+     "share": 2.609502074989899,
      "counts": [
-      16129,
-      15378,
-      10181,
-      11069
+      15895,
+      15154,
+      10033,
+      10908
      ],
      "from": "",
      "anno": "founding wave"
@@ -5142,12 +5155,12 @@
     {
      "tier": "Notable",
      "nation": "Bulgaria",
-     "share": 2.52,
+     "share": 2.4833630018786046,
      "counts": [
-      15350,
-      14634,
-      9689,
-      10534
+      15127,
+      14421,
+      9548,
+      10381
      ],
      "from": "",
      "anno": ""
@@ -5155,12 +5168,12 @@
     {
      "tier": "Notable",
      "nation": "Czechia",
-     "share": 2.461,
+     "share": 2.4252207728663673,
      "counts": [
-      14966,
-      14270,
-      9449,
-      10271
+      14748,
+      14063,
+      9312,
+      10122
      ],
      "from": "Czech Republic",
      "anno": ""
@@ -5168,12 +5181,12 @@
     {
      "tier": "Notable",
      "nation": "Latvia",
-     "share": 2.461,
+     "share": 2.4252207728663673,
      "counts": [
-      15010,
-      14312,
-      9475,
-      10302
+      14792,
+      14104,
+      9337,
+      10152
      ],
      "from": "",
      "anno": ""
@@ -5181,12 +5194,12 @@
     {
      "tier": "Notable",
      "nation": "Austro-Bavaria",
-     "share": 2.442,
+     "share": 2.40649700420141,
      "counts": [
-      14873,
-      14182,
-      9389,
-      10207
+      14657,
+      13976,
+      9253,
+      10059
      ],
      "from": "Germany + Austria",
      "anno": ""
@@ -5194,12 +5207,12 @@
     {
      "tier": "Notable",
      "nation": "New England",
-     "share": 2.403,
+     "share": 2.3680640053628124,
      "counts": [
-      14640,
-      13958,
-      9240,
-      10047
+      14427,
+      13755,
+      9106,
+      9901
      ],
      "from": "USA",
      "anno": ""
@@ -5207,12 +5220,12 @@
     {
      "tier": "Notable",
      "nation": "Romania",
-     "share": 2.217,
+     "share": 2.184768164747963,
      "counts": [
-      13488,
-      12861,
-      8516,
-      9257
+      13292,
+      12674,
+      8392,
+      9122
      ],
      "from": "",
      "anno": ""
@@ -5220,12 +5233,12 @@
     {
      "tier": "Notable",
      "nation": "Cascadia",
-     "share": 2.14,
+     "share": 2.10888762857945,
      "counts": [
-      13040,
-      12434,
-      8230,
-      8949
+      12850,
+      12253,
+      8110,
+      8819
      ],
      "from": "USA",
      "anno": ""
@@ -5233,12 +5246,12 @@
     {
      "tier": "Notable",
      "nation": "Ukraine",
-     "share": 1.764,
+     "share": 1.7383541013150234,
      "counts": [
-      10738,
-      10238,
-      6778,
-      7369
+      10582,
+      10089,
+      6679,
+      7262
      ],
      "from": "",
      "anno": ""
@@ -5246,12 +5259,12 @@
     {
      "tier": "Notable",
      "nation": "United Kingdom",
-     "share": 1.659,
+     "share": 1.6348806429034148,
      "counts": [
-      10103,
-      9633,
-      6378,
-      6933
+      9956,
+      9493,
+      6285,
+      6832
      ],
      "from": "UK",
      "anno": ""
@@ -5259,25 +5272,38 @@
     {
      "tier": "Notable",
      "nation": "Hungary",
-     "share": 1.637,
+     "share": 1.613200489712411,
      "counts": [
-      9960,
-      9496,
-      6286,
-      6834
+      9815,
+      9358,
+      6195,
+      6735
      ],
      "from": "Romania",
      "anno": ""
     },
     {
      "tier": "Notable",
-     "nation": "Belarus",
-     "share": 1.373,
+     "nation": "Kazakhstan",
+     "share": 1.4538491318013997,
      "counts": [
-      8388,
-      7999,
-      5295,
-      5756
+      8857,
+      8445,
+      5591,
+      6078
+     ],
+     "from": "Kazakhstan",
+     "anno": ""
+    },
+    {
+     "tier": "Notable",
+     "nation": "Belarus",
+     "share": 1.3530386514203667,
+     "counts": [
+      8266,
+      7883,
+      5218,
+      5672
      ],
      "from": "",
      "anno": ""
@@ -5285,12 +5311,12 @@
     {
      "tier": "Notable",
      "nation": "Croatia",
-     "share": 1.324,
+     "share": 1.3047510374949496,
      "counts": [
-      8074,
-      7699,
-      5097,
-      5542
+      7957,
+      7587,
+      5023,
+      5461
      ],
      "from": "",
      "anno": ""
@@ -5298,12 +5324,12 @@
     {
      "tier": "Notable",
      "nation": "Lithuania",
-     "share": 1.324,
+     "share": 1.3047510374949496,
      "counts": [
-      8050,
-      7676,
-      5083,
-      5524
+      7933,
+      7564,
+      5009,
+      5444
      ],
      "from": "",
      "anno": ""
@@ -5311,12 +5337,12 @@
     {
      "tier": "Notable",
      "nation": "Slovakia",
-     "share": 1.235,
+     "share": 1.2170449632222529,
      "counts": [
-      7496,
-      7147,
-      4732,
-      5144
+      7387,
+      7043,
+      4663,
+      5069
      ],
      "from": "",
      "anno": ""
@@ -5324,12 +5350,12 @@
     {
      "tier": "Notable",
      "nation": "Estonia",
-     "share": 1.186,
+     "share": 1.1687573492968353,
      "counts": [
-      7249,
-      6911,
-      4575,
-      4975
+      7144,
+      6811,
+      4509,
+      4903
      ],
      "from": "",
      "anno": ""
@@ -5337,12 +5363,12 @@
     {
      "tier": "Notable",
      "nation": "South Africa",
-     "share": 1.137,
+     "share": 1.1204697353714181,
      "counts": [
-      6917,
-      6597,
-      4367,
-      4748
+      6816,
+      6501,
+      4304,
+      4679
      ],
      "from": "",
      "anno": ""
@@ -5350,12 +5376,12 @@
     {
      "tier": "Notable",
      "nation": "Slovenia",
-     "share": 1.118,
+     "share": 1.1017459667064604,
      "counts": [
-      6791,
-      6475,
-      4287,
-      4661
+      6692,
+      6381,
+      4225,
+      4593
      ],
      "from": "",
      "anno": ""
@@ -5363,12 +5389,12 @@
     {
      "tier": "Notable",
      "nation": "Argentina (without Patagonia)",
-     "share": 1.1,
+     "share": 1.0840076595501846,
      "counts": [
-      6718,
-      6407,
-      4240,
-      4612
+      6620,
+      6314,
+      4178,
+      4545
      ],
      "from": "Argentina",
      "anno": ""
@@ -5376,12 +5402,12 @@
     {
      "tier": "Notable",
      "nation": "Midwest Republic",
-     "share": 0.914,
+     "share": 0.9007118189353353,
      "counts": [
-      5566,
-      5307,
-      3514,
-      3819
+      5485,
+      5230,
+      3463,
+      3764
      ],
      "from": "USA",
      "anno": ""
@@ -5389,12 +5415,12 @@
     {
      "tier": "Notable",
      "nation": "Russia (core state)",
-     "share": 0.893,
+     "share": 0.8800171272530135,
      "counts": [
-      5436,
-      5184,
-      3432,
-      3732
+      5357,
+      5109,
+      3382,
+      3678
      ],
      "from": "Ukraine",
      "anno": ""
@@ -5402,12 +5428,12 @@
     {
      "tier": "Notable",
      "nation": "Amazonia",
-     "share": 0.797,
+     "share": 0.7854128224195429,
      "counts": [
-      4855,
-      4628,
-      3064,
-      3331
+      4784,
+      4561,
+      3019,
+      3283
      ],
      "from": "Brazil",
      "anno": ""
@@ -5415,12 +5441,12 @@
     {
      "tier": "Notable",
      "nation": "Colorado",
-     "share": 0.687,
+     "share": 0.6770120564645244,
      "counts": [
-      4186,
-      3991,
-      2642,
-      2873
+      4125,
+      3933,
+      2604,
+      2831
      ],
      "from": "USA",
      "anno": ""
@@ -5428,12 +5454,12 @@
     {
      "tier": "Notable",
      "nation": "Iceland",
-     "share": 0.554,
+     "share": 0.5459456758098203,
      "counts": [
-      3376,
-      3219,
-      2131,
-      2316
+      3327,
+      3172,
+      2100,
+      2282
      ],
      "from": "",
      "anno": "founding wave"
@@ -5441,12 +5467,12 @@
     {
      "tier": "Notable",
      "nation": "Sonora",
-     "share": 0.404,
+     "share": 0.39812644950752235,
      "counts": [
-      2459,
-      2344,
-      1552,
-      1688
+      2423,
+      2310,
+      1529,
+      1663
      ],
      "from": "USA",
      "anno": ""
@@ -5454,12 +5480,12 @@
     {
      "tier": "Notable",
      "nation": "Araucanía-Patagonia",
-     "share": 0.066,
+     "share": 0.06504045957301108,
      "counts": [
-      405,
-      386,
-      257,
-      278
+      399,
+      380,
+      253,
+      274
      ],
      "from": "Argentina",
      "anno": ""
@@ -5467,12 +5493,12 @@
     {
      "tier": "Notable",
      "nation": "Hawaii",
-     "share": 0.059,
+     "share": 0.05814222901223717,
      "counts": [
-      362,
-      344,
-      229,
-      249
+      357,
+      339,
+      226,
+      245
      ],
      "from": "USA",
      "anno": ""
@@ -5480,12 +5506,12 @@
     {
      "tier": "Notable",
      "nation": "Northern Ireland",
-     "share": 0.047,
+     "share": 0.04631669090805334,
      "counts": [
-      289,
-      276,
-      183,
-      199
+      285,
+      272,
+      180,
+      196
      ],
      "from": "UK",
      "anno": ""
@@ -5493,12 +5519,12 @@
     {
      "tier": "Notable",
      "nation": "Alaska",
-     "share": 0.028,
+     "share": 0.02759292224309561,
      "counts": [
-      169,
-      160,
-      106,
-      116
+      167,
+      158,
+      104,
+      114
      ],
      "from": "USA",
      "anno": ""
@@ -5903,12 +5929,12 @@
     {
      "tier": "Primary",
      "nation": "Korea",
-     "share": 10.116000000000001,
+     "share": 9.968928621826972,
      "counts": [
-      54216,
-      53778,
-      34929,
-      32938
+      53428,
+      52996,
+      34421,
+      32459
      ],
      "from": "South Korea + North Korea + Jeju-do",
      "anno": ""
@@ -5916,12 +5942,12 @@
     {
      "tier": "Primary",
      "nation": "Japan",
-     "share": 9.743,
+     "share": 9.60135147908859,
      "counts": [
-      52266,
-      51845,
-      33672,
-      31752
+      51506,
+      51091,
+      33183,
+      31290
      ],
      "from": "",
      "anno": ""
@@ -5929,12 +5955,12 @@
     {
      "tier": "Primary",
      "nation": "Australia",
-     "share": 8.175,
+     "share": 8.056147833475237,
      "counts": [
-      43825,
-      43471,
-      28234,
-      26625
+      43188,
+      42839,
+      27824,
+      26238
      ],
      "from": "",
      "anno": ""
@@ -5942,12 +5968,12 @@
     {
      "tier": "Primary",
      "nation": "Indonesia",
-     "share": 7.746,
+     "share": 7.633384846250664,
      "counts": [
-      41506,
-      41169,
-      26737,
-      25215
+      40903,
+      40570,
+      26348,
+      24848
      ],
      "from": "",
      "anno": ""
@@ -5955,12 +5981,12 @@
     {
      "tier": "Significant",
      "nation": "Sinian Federation",
-     "share": 4.518,
+     "share": 4.452315096225212,
      "counts": [
-      24215,
-      24017,
-      15600,
-      14711
+      23863,
+      23668,
+      15373,
+      14497
      ],
      "from": "China + Hong Kong + Macau",
      "anno": ""
@@ -5968,12 +5994,12 @@
     {
      "tier": "Significant",
      "nation": "Vietnam",
-     "share": 4.048,
+     "share": 3.9891481871446794,
      "counts": [
-      21685,
-      21509,
-      13969,
-      13175
+      21370,
+      21196,
+      13766,
+      12983
      ],
      "from": "",
      "anno": ""
@@ -5981,12 +6007,12 @@
     {
      "tier": "Significant",
      "nation": "Belarus",
-     "share": 3.608,
+     "share": 3.5555451233246056,
      "counts": [
-      19334,
-      19177,
-      12455,
-      11745
+      19053,
+      18898,
+      12274,
+      11574
      ],
      "from": "",
      "anno": ""
@@ -5994,12 +6020,12 @@
     {
      "tier": "Significant",
      "nation": "New Zealand",
-     "share": 3.598,
+     "share": 3.5456905082377856,
      "counts": [
-      19316,
-      19162,
-      12444,
-      11735
+      19035,
+      18883,
+      12263,
+      11564
      ],
      "from": "",
      "anno": ""
@@ -6007,12 +6033,12 @@
     {
      "tier": "Significant",
      "nation": "Russia (core state)",
-     "share": 2.983,
+     "share": 2.939631680398364,
      "counts": [
-      16004,
-      15873,
-      10310,
-      9722
+      15771,
+      15642,
+      10160,
+      9581
      ],
      "from": "Russia + Ukraine",
      "anno": ""
@@ -6020,12 +6046,12 @@
     {
      "tier": "Significant",
      "nation": "Taiwan",
-     "share": 2.905,
+     "share": 2.8627656827211694,
      "counts": [
-      15578,
-      15452,
-      10035,
-      9463
+      15352,
+      15227,
+      9889,
+      9325
      ],
      "from": "Taiwan",
      "anno": ""
@@ -6033,12 +6059,12 @@
     {
      "tier": "Significant",
      "nation": "Idelsk-Uralia",
-     "share": 2.761,
+     "share": 2.7208592254709636,
      "counts": [
-      14810,
-      14689,
-      9541,
-      8997
+      14595,
+      14475,
+      9402,
+      8866
      ],
      "from": "Russia",
      "anno": ""
@@ -6046,12 +6072,12 @@
     {
      "tier": "Significant",
      "nation": "Philippines",
-     "share": 2.507,
+     "share": 2.4705520022657392,
      "counts": [
-      13419,
-      13309,
-      8646,
-      8151
+      13224,
+      13116,
+      8520,
+      8033
      ],
      "from": "",
      "anno": ""
@@ -6059,12 +6085,12 @@
     {
      "tier": "Significant",
      "nation": "France",
-     "share": 2.063,
+     "share": 2.033007092410937,
      "counts": [
-      11074,
-      10985,
-      7134,
-      6728
+      10913,
+      10825,
+      7030,
+      6630
      ],
      "from": "Belgium",
      "anno": ""
@@ -6072,12 +6098,12 @@
     {
      "tier": "Significant",
      "nation": "Malaysia",
-     "share": 1.866,
+     "share": 1.838871175200586,
      "counts": [
-      10004,
-      9924,
-      6444,
-      6077
+      9859,
+      9780,
+      6350,
+      5989
      ],
      "from": "",
      "anno": ""
@@ -6085,12 +6111,12 @@
     {
      "tier": "Notable",
      "nation": "Serbia",
-     "share": 1.522,
+     "share": 1.4998724162139827,
      "counts": [
-      8165,
-      8100,
-      5260,
-      4959
+      8046,
+      7982,
+      5184,
+      4887
      ],
      "from": "",
      "anno": ""
@@ -6098,25 +6124,38 @@
     {
      "tier": "Notable",
      "nation": "Estonia",
-     "share": 1.483,
+     "share": 1.4614394173753853,
      "counts": [
-      7963,
-      7898,
-      5129,
-      4838
+      7847,
+      7783,
+      5054,
+      4768
      ],
      "from": "",
      "anno": ""
     },
     {
      "tier": "Notable",
-     "nation": "Thailand",
-     "share": 1.469,
+     "nation": "Kazakhstan",
+     "share": 1.4538491318013997,
      "counts": [
-      7896,
-      7831,
-      5087,
-      4796
+      7796,
+      7733,
+      5022,
+      4736
+     ],
+     "from": "Kazakhstan",
+     "anno": ""
+    },
+    {
+     "tier": "Notable",
+     "nation": "Thailand",
+     "share": 1.4476429562538375,
+     "counts": [
+      7781,
+      7717,
+      5013,
+      4726
      ],
      "from": "",
      "anno": ""
@@ -6124,12 +6163,12 @@
     {
      "tier": "Notable",
      "nation": "Hungary",
-     "share": 1.436,
+     "share": 1.4151227264673318,
      "counts": [
-      7726,
-      7664,
-      4978,
-      4693
+      7614,
+      7553,
+      4906,
+      4625
      ],
      "from": "Romania",
      "anno": ""
@@ -6137,12 +6176,12 @@
     {
      "tier": "Notable",
      "nation": "Netherlands",
-     "share": 1.42,
+     "share": 1.39935534232842,
      "counts": [
-      7603,
-      7543,
-      4898,
-      4619
+      7492,
+      7433,
+      4827,
+      4552
      ],
      "from": "Belgium",
      "anno": ""
@@ -6150,12 +6189,12 @@
     {
      "tier": "Notable",
      "nation": "Finland",
-     "share": 1.382,
+     "share": 1.3619078049985045,
      "counts": [
-      7400,
-      7341,
-      4767,
-      4496
+      7292,
+      7234,
+      4698,
+      4431
      ],
      "from": "Russia",
      "anno": ""
@@ -6163,12 +6202,12 @@
     {
      "tier": "Notable",
      "nation": "Croatia",
-     "share": 1.378,
+     "share": 1.3579659589637767,
      "counts": [
-      7386,
-      7325,
-      4757,
-      4487
+      7279,
+      7219,
+      4688,
+      4422
      ],
      "from": "",
      "anno": ""
@@ -6176,12 +6215,12 @@
     {
      "tier": "Notable",
      "nation": "CSA",
-     "share": 1.371,
+     "share": 1.3510677284030028,
      "counts": [
-      7358,
-      7298,
-      4741,
-      4472
+      7251,
+      7192,
+      4672,
+      4407
      ],
      "from": "USA",
      "anno": ""
@@ -6189,12 +6228,12 @@
     {
      "tier": "Notable",
      "nation": "Czechia",
-     "share": 1.321,
+     "share": 1.3017946529689035,
      "counts": [
-      7090,
-      7033,
-      4569,
-      4307
+      6987,
+      6931,
+      4503,
+      4244
      ],
      "from": "Czech Republic",
      "anno": ""
@@ -6202,12 +6241,12 @@
     {
      "tier": "Notable",
      "nation": "Norway",
-     "share": 1.321,
+     "share": 1.3017946529689035,
      "counts": [
-      7067,
-      7010,
-      4553,
-      4294
+      6964,
+      6908,
+      4487,
+      4232
      ],
      "from": "",
      "anno": ""
@@ -6215,12 +6254,12 @@
     {
      "tier": "Notable",
      "nation": "Poland",
-     "share": 1.263,
+     "share": 1.2446378854653481,
      "counts": [
-      6760,
-      6707,
-      4356,
-      4108
+      6662,
+      6609,
+      4293,
+      4048
      ],
      "from": "",
      "anno": ""
@@ -6228,12 +6267,12 @@
     {
      "tier": "Notable",
      "nation": "United Kingdom",
-     "share": 1.228,
+     "share": 1.2101467326614788,
      "counts": [
-      6584,
-      6529,
-      4240,
-      3998
+      6488,
+      6434,
+      4178,
+      3940
      ],
      "from": "UK",
      "anno": ""
@@ -6241,12 +6280,12 @@
     {
      "tier": "Notable",
      "nation": "Siberia",
-     "share": 1.098,
+     "share": 1.0820367365328207,
      "counts": [
-      5887,
-      5840,
-      3792,
-      3577
+      5801,
+      5755,
+      3737,
+      3525
      ],
      "from": "Russia",
      "anno": ""
@@ -6254,12 +6293,12 @@
     {
      "tier": "Notable",
      "nation": "Spain",
-     "share": 1.09,
+     "share": 1.074153044463365,
      "counts": [
-      5834,
-      5788,
-      3760,
-      3545
+      5749,
+      5704,
+      3705,
+      3493
      ],
      "from": "",
      "anno": ""
@@ -6267,12 +6306,12 @@
     {
      "tier": "Notable",
      "nation": "Donska-Kubania",
-     "share": 1.052,
+     "share": 1.0367055071334492,
      "counts": [
-      5645,
-      5599,
-      3637,
-      3429
+      5563,
+      5518,
+      3584,
+      3379
      ],
      "from": "Russia",
      "anno": ""
@@ -6280,12 +6319,12 @@
     {
      "tier": "Notable",
      "nation": "México",
-     "share": 0.996,
+     "share": 0.9815196626472581,
      "counts": [
-      5331,
-      5287,
-      3435,
-      3238
+      5253,
+      5210,
+      3385,
+      3191
      ],
      "from": "Mexico",
      "anno": ""
@@ -6293,12 +6332,12 @@
     {
      "tier": "Notable",
      "nation": "Appalachia",
-     "share": 0.88,
+     "share": 0.8672061276401477,
      "counts": [
-      4723,
-      4686,
-      3042,
-      2868
+      4654,
+      4618,
+      2998,
+      2826
      ],
      "from": "USA",
      "anno": ""
@@ -6306,12 +6345,12 @@
     {
      "tier": "Notable",
      "nation": "Lithuania",
-     "share": 0.804,
+     "share": 0.7923110529803168,
      "counts": [
-      4313,
-      4278,
-      2777,
-      2620
+      4250,
+      4216,
+      2737,
+      2582
      ],
      "from": "",
      "anno": ""
@@ -6319,12 +6358,12 @@
     {
      "tier": "Notable",
      "nation": "Latvia",
-     "share": 0.775,
+     "share": 0.7637326692285392,
      "counts": [
-      4146,
-      4111,
-      2671,
-      2519
+      4086,
+      4051,
+      2632,
+      2482
      ],
      "from": "",
      "anno": ""
@@ -6332,12 +6371,12 @@
     {
      "tier": "Notable",
      "nation": "Cascadia",
-     "share": 0.766,
+     "share": 0.7548635156504013,
      "counts": [
-      4114,
-      4080,
-      2651,
-      2501
+      4054,
+      4021,
+      2612,
+      2465
      ],
      "from": "USA + Mexico + Canada",
      "anno": ""
@@ -6345,12 +6384,12 @@
     {
      "tier": "Notable",
      "nation": "New England",
-     "share": 0.72,
+     "share": 0.7095322862510299,
      "counts": [
-      3862,
-      3833,
-      2489,
-      2348
+      3806,
+      3777,
+      2453,
+      2314
      ],
      "from": "USA",
      "anno": ""
@@ -6358,12 +6397,12 @@
     {
      "tier": "Notable",
      "nation": "Sweden",
-     "share": 0.718,
+     "share": 0.7075613632336659,
      "counts": [
-      3848,
-      3819,
-      2481,
-      2340
+      3792,
+      3763,
+      2445,
+      2306
      ],
      "from": "",
      "anno": ""
@@ -6371,12 +6410,12 @@
     {
      "tier": "Notable",
      "nation": "Bulgaria",
-     "share": 0.689,
+     "share": 0.6789829794818883,
      "counts": [
-      3691,
-      3662,
-      2380,
-      2243
+      3637,
+      3609,
+      2345,
+      2210
      ],
      "from": "",
      "anno": ""
@@ -6384,12 +6423,12 @@
     {
      "tier": "Notable",
      "nation": "Künnarantaiga",
-     "share": 0.634,
+     "share": 0.6247825965043792,
      "counts": [
-      3400,
-      3374,
-      2190,
-      2065
+      3351,
+      3325,
+      2158,
+      2035
      ],
      "from": "Russia",
      "anno": ""
@@ -6397,12 +6436,12 @@
     {
      "tier": "Notable",
      "nation": "Slovakia",
-     "share": 0.632,
+     "share": 0.6228116734870152,
      "counts": [
-      3384,
-      3355,
-      2179,
-      2055
+      3335,
+      3306,
+      2147,
+      2025
      ],
      "from": "",
      "anno": ""
@@ -6410,12 +6449,12 @@
     {
      "tier": "Notable",
      "nation": "Romania",
-     "share": 0.592,
+     "share": 0.5833932131397357,
      "counts": [
-      3169,
-      3144,
-      2041,
-      1925
+      3123,
+      3098,
+      2011,
+      1897
      ],
      "from": "",
      "anno": ""
@@ -6423,12 +6462,12 @@
     {
      "tier": "Notable",
      "nation": "Manchuria",
-     "share": 0.498,
+     "share": 0.49075983132362905,
      "counts": [
-      2668,
-      2646,
-      1719,
-      1619
+      2629,
+      2608,
+      1694,
+      1596
      ],
      "from": "China",
      "anno": ""
@@ -6436,12 +6475,12 @@
     {
      "tier": "Notable",
      "nation": "Germany",
-     "share": 0.466,
+     "share": 0.4592250630458055,
      "counts": [
-      2479,
-      2459,
-      1594,
-      1506
+      2443,
+      2423,
+      1571,
+      1484
      ],
      "from": "",
      "anno": ""
@@ -6449,12 +6488,12 @@
     {
      "tier": "Notable",
      "nation": "Ukraine",
-     "share": 0.438,
+     "share": 0.4316321408027099,
      "counts": [
-      2361,
-      2341,
-      1521,
-      1435
+      2327,
+      2307,
+      1499,
+      1414
      ],
      "from": "",
      "anno": ""
@@ -6462,12 +6501,12 @@
     {
      "tier": "Notable",
      "nation": "Magna Lombardia",
-     "share": 0.409,
+     "share": 0.40305375705093227,
      "counts": [
-      2179,
-      2163,
-      1405,
-      1324
+      2147,
+      2132,
+      1385,
+      1305
      ],
      "from": "Italy",
      "anno": ""
@@ -6475,12 +6514,12 @@
     {
      "tier": "Notable",
      "nation": "Midwest Republic",
-     "share": 0.274,
+     "share": 0.2700164533788642,
      "counts": [
-      1470,
-      1458,
-      946,
-      892
+      1449,
+      1437,
+      932,
+      879
      ],
      "from": "USA",
      "anno": ""
@@ -6488,12 +6527,12 @@
     {
      "tier": "Notable",
      "nation": "Slovenia",
-     "share": 0.268,
+     "share": 0.2641036843267723,
      "counts": [
-      1449,
-      1437,
-      934,
-      879
+      1428,
+      1416,
+      920,
+      866
      ],
      "from": "",
      "anno": ""
@@ -6501,12 +6540,12 @@
     {
      "tier": "Notable",
      "nation": "Meridia",
-     "share": 0.251,
+     "share": 0.24735083867917848,
      "counts": [
-      1339,
-      1327,
-      862,
-      812
+      1320,
+      1308,
+      849,
+      800
      ],
      "from": "Italy",
      "anno": ""
@@ -6514,12 +6553,12 @@
     {
      "tier": "Notable",
      "nation": "Catalonia",
-     "share": 0.233,
+     "share": 0.22961253152290276,
      "counts": [
-      1251,
-      1241,
-      806,
-      758
+      1233,
+      1223,
+      794,
+      747
      ],
      "from": "Spain",
      "anno": ""
@@ -6527,12 +6566,12 @@
     {
      "tier": "Notable",
      "nation": "Mongolia",
-     "share": 0.218,
+     "share": 0.21483060889267294,
      "counts": [
-      1168,
-      1160,
-      753,
-      711
+      1151,
+      1143,
+      742,
+      701
      ],
      "from": "China",
      "anno": ""
@@ -6540,12 +6579,12 @@
     {
      "tier": "Notable",
      "nation": "Demilitarized Zone (s. Ontario; not a nation)",
-     "share": 0.216,
+     "share": 0.21285968587530898,
      "counts": [
-      1167,
-      1157,
-      750,
-      708
+      1150,
+      1140,
+      739,
+      698
      ],
      "from": "Canada",
      "anno": ""
@@ -6553,12 +6592,12 @@
     {
      "tier": "Notable",
      "nation": "Colorado",
-     "share": 0.206,
+     "share": 0.20300507078848912,
      "counts": [
-      1104,
-      1096,
-      712,
-      671
+      1088,
+      1080,
+      702,
+      661
      ],
      "from": "USA",
      "anno": ""
@@ -6566,12 +6605,12 @@
     {
      "tier": "Notable",
      "nation": "Dagestan",
-     "share": 0.195,
+     "share": 0.19216499419298727,
      "counts": [
-      1046,
-      1038,
-      673,
-      634
+      1031,
+      1023,
+      663,
+      625
      ],
      "from": "Russia",
      "anno": ""
@@ -6579,12 +6618,12 @@
     {
      "tier": "Notable",
      "nation": "Sonora",
-     "share": 0.186,
+     "share": 0.1832958406148494,
      "counts": [
-      999,
-      992,
-      642,
-      607
+      984,
+      978,
+      633,
+      598
      ],
      "from": "USA + Mexico",
      "anno": ""
@@ -6592,12 +6631,12 @@
     {
      "tier": "Notable",
      "nation": "Quebec",
-     "share": 0.165,
+     "share": 0.1626011489325277,
      "counts": [
-      892,
-      884,
-      573,
-      540
+      879,
+      871,
+      565,
+      532
      ],
      "from": "Canada",
      "anno": ""
@@ -6605,12 +6644,12 @@
     {
      "tier": "Notable",
      "nation": "West Papua",
-     "share": 0.151,
+     "share": 0.14880468781097989,
      "counts": [
-      810,
-      804,
-      520,
-      492
+      798,
+      792,
+      512,
+      485
      ],
      "from": "Indonesia",
      "anno": ""
@@ -6618,12 +6657,12 @@
     {
      "tier": "Notable",
      "nation": "Aceh",
-     "share": 0.146,
+     "share": 0.14387738026756994,
      "counts": [
-      782,
-      776,
-      505,
-      474
+      771,
+      765,
+      498,
+      467
      ],
      "from": "Indonesia",
      "anno": ""
@@ -6631,12 +6670,12 @@
     {
      "tier": "Notable",
      "nation": "East Turkestan",
-     "share": 0.137,
+     "share": 0.1350082266894321,
      "counts": [
-      735,
-      729,
-      475,
-      448
+      724,
+      718,
+      468,
+      442
      ],
      "from": "China",
      "anno": ""
@@ -6644,12 +6683,12 @@
     {
      "tier": "Notable",
      "nation": "Yucatán",
-     "share": 0.128,
+     "share": 0.12613907311129421,
      "counts": [
-      684,
-      678,
-      441,
-      416
+      674,
+      668,
+      435,
+      410
      ],
      "from": "Mexico",
      "anno": ""
@@ -6657,12 +6696,12 @@
     {
      "tier": "Notable",
      "nation": "Prairie Federation",
-     "share": 0.121,
+     "share": 0.11924084255052031,
      "counts": [
-      655,
-      650,
-      424,
-      399
+      645,
+      641,
+      418,
+      393
      ],
      "from": "Canada",
      "anno": ""
@@ -6670,12 +6709,12 @@
     {
      "tier": "Notable",
      "nation": "Chechnya",
-     "share": 0.093,
+     "share": 0.0916479203074247,
      "counts": [
-      497,
-      493,
-      321,
-      302
+      490,
+      486,
+      316,
+      298
      ],
      "from": "Russia",
      "anno": ""
@@ -6683,12 +6722,12 @@
     {
      "tier": "Notable",
      "nation": "Austro-Bavaria",
-     "share": 0.089,
+     "share": 0.08770607427269675,
      "counts": [
-      477,
-      473,
-      307,
-      290
+      470,
+      466,
+      303,
+      286
      ],
      "from": "Germany",
      "anno": ""
@@ -6696,12 +6735,12 @@
     {
      "tier": "Notable",
      "nation": "Basque Country",
-     "share": 0.084,
+     "share": 0.08277876672928683,
      "counts": [
-      450,
-      447,
-      290,
-      274
+      443,
+      441,
+      286,
+      270
      ],
      "from": "Spain",
      "anno": ""
@@ -6709,12 +6748,12 @@
     {
      "tier": "Notable",
      "nation": "Sicilia (autonomous zone within Meridia)",
-     "share": 0.058,
+     "share": 0.057156767503555195,
      "counts": [
-      311,
-      308,
-      200,
-      188
+      306,
+      304,
+      197,
+      185
      ],
      "from": "Italy",
      "anno": ""
@@ -6722,12 +6761,12 @@
     {
      "tier": "Notable",
      "nation": "Kabardino-Balkaria",
-     "share": 0.055,
+     "share": 0.05420038297750923,
      "counts": [
-      297,
-      294,
-      191,
-      181
+      293,
+      290,
+      188,
+      178
      ],
      "from": "Russia",
      "anno": ""
@@ -6735,12 +6774,12 @@
     {
      "tier": "Notable",
      "nation": "Patani",
-     "share": 0.043,
+     "share": 0.04237484487332539,
      "counts": [
-      231,
-      229,
-      149,
-      141
+      228,
+      226,
+      147,
+      139
      ],
      "from": "Thailand",
      "anno": ""
@@ -6748,12 +6787,12 @@
     {
      "tier": "Notable",
      "nation": "North Ossetia-Alania",
-     "share": 0.042,
+     "share": 0.041389383364643414,
      "counts": [
-      226,
-      224,
-      147,
-      138
+      223,
+      221,
+      145,
+      136
      ],
      "from": "Russia",
      "anno": ""
@@ -6761,12 +6800,12 @@
     {
      "tier": "Notable",
      "nation": "Northern Ireland",
-     "share": 0.035,
+     "share": 0.03449115280386952,
      "counts": [
-      188,
-      186,
-      122,
-      116
+      185,
+      183,
+      120,
+      114
      ],
      "from": "UK",
      "anno": ""
@@ -6774,12 +6813,12 @@
     {
      "tier": "Notable",
      "nation": "Ingushetia",
-     "share": 0.031,
+     "share": 0.030549306769141565,
      "counts": [
-      167,
-      166,
-      109,
-      102
+      165,
+      164,
+      107,
+      101
      ],
      "from": "Russia",
      "anno": ""
@@ -6787,12 +6826,12 @@
     {
      "tier": "Notable",
      "nation": "Karachay-Cherkessia",
-     "share": 0.029,
+     "share": 0.028578383751777597,
      "counts": [
-      154,
-      154,
-      100,
-      93
+      152,
+      152,
+      99,
+      92
      ],
      "from": "Russia",
      "anno": ""
@@ -6800,12 +6839,12 @@
     {
      "tier": "Notable",
      "nation": "Tuva",
-     "share": 0.021,
+     "share": 0.020694691682321707,
      "counts": [
-      112,
       110,
-      71,
-      67
+      108,
+      70,
+      66
      ],
      "from": "Russia",
      "anno": ""
@@ -6813,12 +6852,12 @@
     {
      "tier": "Notable",
      "nation": "Tibet",
-     "share": 0.019,
+     "share": 0.018723768664957733,
      "counts": [
-      105,
-      104,
-      67,
-      63
+      103,
+      102,
+      66,
+      62
      ],
      "from": "China",
      "anno": ""
@@ -6826,12 +6865,12 @@
     {
      "tier": "Notable",
      "nation": "Hawaii",
-     "share": 0.018,
+     "share": 0.017738307156275748,
      "counts": [
-      95,
-      95,
-      61,
-      59
+      94,
+      94,
+      60,
+      58
      ],
      "from": "USA",
      "anno": ""
@@ -6839,10 +6878,10 @@
     {
      "tier": "Notable",
      "nation": "Alaska",
-     "share": 0.01,
+     "share": 0.009854615086819861,
      "counts": [
-      53,
-      53,
+      52,
+      52,
       35,
       32
      ],
@@ -9249,9 +9288,9 @@
     {
      "tier": "Primary",
      "nation": "France",
-     "share": 6.578,
+     "share": 6.482365804110104,
      "counts": [
-      5271,
+      5194,
       null,
       null,
       null
@@ -9262,9 +9301,9 @@
     {
      "tier": "Primary",
      "nation": "Indonesia",
-     "share": 6.296,
+     "share": 6.204465658661785,
      "counts": [
-      5043,
+      4970,
       null,
       null,
       null
@@ -9275,9 +9314,9 @@
     {
      "tier": "Primary",
      "nation": "Australia",
-     "share": 6.144,
+     "share": 6.054675509342122,
      "counts": [
-      4924,
+      4852,
       null,
       null,
       null
@@ -9288,9 +9327,9 @@
     {
      "tier": "Primary",
      "nation": "Korea",
-     "share": 5.679,
+     "share": 5.596435907804999,
      "counts": [
-      4550,
+      4484,
       null,
       null,
       null
@@ -9301,9 +9340,9 @@
     {
      "tier": "Primary",
      "nation": "Sinian Federation",
-     "share": 5.372,
+     "share": 5.293899224639628,
      "counts": [
-      4304,
+      4241,
       null,
       null,
       null
@@ -9314,9 +9353,9 @@
     {
      "tier": "Significant",
      "nation": "Germany",
-     "share": 3.972,
+     "share": 3.9142531124848485,
      "counts": [
-      3182,
+      3136,
       null,
       null,
       null
@@ -9327,9 +9366,9 @@
     {
      "tier": "Significant",
      "nation": "CSA",
-     "share": 3.552,
+     "share": 3.500359278838414,
      "counts": [
-      2846,
+      2805,
       null,
       null,
       null
@@ -9340,9 +9379,9 @@
     {
      "tier": "Significant",
      "nation": "Brazil",
-     "share": 2.799,
+     "share": 2.7583067628008786,
      "counts": [
-      2242,
+      2209,
       null,
       null,
       null
@@ -9353,9 +9392,9 @@
     {
      "tier": "Significant",
      "nation": "Japan",
-     "share": 2.785,
+     "share": 2.7445103016793313,
      "counts": [
-      2232,
+      2200,
       null,
       null,
       null
@@ -9366,9 +9405,9 @@
     {
      "tier": "Significant",
      "nation": "Austro-Bavaria",
-     "share": 2.481,
+     "share": 2.444930003040007,
      "counts": [
-      1988,
+      1959,
       null,
       null,
       null
@@ -9379,9 +9418,9 @@
     {
      "tier": "Significant",
      "nation": "United Kingdom",
-     "share": 2.373,
+     "share": 2.338500160102353,
      "counts": [
-      1902,
+      1874,
       null,
       null,
       null
@@ -9392,9 +9431,9 @@
     {
      "tier": "Significant",
      "nation": "Netherlands",
-     "share": 2.341,
+     "share": 2.3069653918245296,
      "counts": [
-      1876,
+      1849,
       null,
       null,
       null
@@ -9405,9 +9444,9 @@
     {
      "tier": "Significant",
      "nation": "Appalachia",
-     "share": 2.28,
+     "share": 2.246852239794928,
      "counts": [
-      1827,
+      1800,
       null,
       null,
       null
@@ -9418,9 +9457,9 @@
     {
      "tier": "Significant",
      "nation": "Cascadia",
-     "share": 1.961,
+     "share": 1.9324900185253746,
      "counts": [
-      1571,
+      1548,
       null,
       null,
       null
@@ -9431,9 +9470,9 @@
     {
      "tier": "Significant",
      "nation": "Hungary",
-     "share": 1.958,
+     "share": 1.9295336339993285,
      "counts": [
-      1569,
+      1546,
       null,
       null,
       null
@@ -9444,9 +9483,9 @@
     {
      "tier": "Significant",
      "nation": "Malaysia",
-     "share": 1.873,
+     "share": 1.8457694057613598,
      "counts": [
-      1501,
+      1479,
       null,
       null,
       null
@@ -9457,9 +9496,9 @@
     {
      "tier": "Significant",
      "nation": "New England",
-     "share": 1.865,
+     "share": 1.8378857136919038,
      "counts": [
-      1493,
+      1471,
       null,
       null,
       null
@@ -9470,9 +9509,9 @@
     {
      "tier": "Significant",
      "nation": "Slovenia",
-     "share": 1.833,
+     "share": 1.8063509454140803,
      "counts": [
-      1469,
+      1448,
       null,
       null,
       null
@@ -9483,9 +9522,9 @@
     {
      "tier": "Significant",
      "nation": "Belarus",
-     "share": 1.794,
+     "share": 1.7679179465754828,
      "counts": [
-      1437,
+      1416,
       null,
       null,
       null
@@ -9496,9 +9535,9 @@
     {
      "tier": "Significant",
      "nation": "Croatia",
-     "share": 1.784,
+     "share": 1.7580633314886631,
      "counts": [
-      1430,
+      1409,
       null,
       null,
       null
@@ -9509,9 +9548,9 @@
     {
      "tier": "Significant",
      "nation": "Serbia",
-     "share": 1.754,
+     "share": 1.7284994862282035,
      "counts": [
-      1406,
+      1386,
       null,
       null,
       null
@@ -9522,9 +9561,9 @@
     {
      "tier": "Significant",
      "nation": "Czechia",
-     "share": 1.706,
+     "share": 1.681197333811468,
      "counts": [
-      1366,
+      1346,
       null,
       null,
       null
@@ -9535,9 +9574,9 @@
     {
      "tier": "Significant",
      "nation": "Latvia",
-     "share": 1.696,
+     "share": 1.6713427187246481,
      "counts": [
-      1359,
+      1339,
       null,
       null,
       null
@@ -9548,9 +9587,9 @@
     {
      "tier": "Significant",
      "nation": "Philippines",
-     "share": 1.677,
+     "share": 1.6526189500596906,
      "counts": [
-      1342,
+      1323,
       null,
       null,
       null
@@ -9561,9 +9600,9 @@
     {
      "tier": "Significant",
      "nation": "Estonia",
-     "share": 1.657,
+     "share": 1.632909719886051,
      "counts": [
-      1328,
+      1309,
       null,
       null,
       null
@@ -9574,9 +9613,9 @@
     {
      "tier": "Significant",
      "nation": "Norway",
-     "share": 1.637,
+     "share": 1.613200489712411,
      "counts": [
-      1311,
+      1292,
       null,
       null,
       null
@@ -9587,9 +9626,9 @@
     {
      "tier": "Significant",
      "nation": "Romania",
-     "share": 1.601,
+     "share": 1.5777238753998595,
      "counts": [
-      1282,
+      1263,
       null,
       null,
       null
@@ -9600,9 +9639,9 @@
     {
      "tier": "Significant",
      "nation": "México",
-     "share": 1.496,
+     "share": 1.474250416988251,
      "counts": [
-      1198,
+      1181,
       null,
       null,
       null
@@ -9612,10 +9651,23 @@
     },
     {
      "tier": "Significant",
-     "nation": "Spain",
-     "share": 1.435,
+     "nation": "Kazakhstan",
+     "share": 1.4538491318013997,
      "counts": [
-      1149,
+      1165,
+      null,
+      null,
+      null
+     ],
+     "from": "Kazakhstan",
+     "anno": ""
+    },
+    {
+     "tier": "Significant",
+     "nation": "Spain",
+     "share": 1.4141372649586499,
+     "counts": [
+      1132,
       null,
       null,
       null
@@ -9626,9 +9678,9 @@
     {
      "tier": "Notable",
      "nation": "Russia (core state)",
-     "share": 0.986,
+     "share": 0.9716650475604381,
      "counts": [
-      790,
+      779,
       null,
       null,
       null
@@ -9639,9 +9691,9 @@
     {
      "tier": "Notable",
      "nation": "Finland",
-     "share": 0.969,
+     "share": 0.9549122019128444,
      "counts": [
-      777,
+      766,
       null,
       null,
       null
@@ -9652,9 +9704,9 @@
     {
      "tier": "Notable",
      "nation": "Slovakia",
-     "share": 0.941,
+     "share": 0.9273192796697488,
      "counts": [
-      754,
+      743,
       null,
       null,
       null
@@ -9665,9 +9717,9 @@
     {
      "tier": "Notable",
      "nation": "Bulgaria",
-     "share": 0.931,
+     "share": 0.917464664582929,
      "counts": [
-      745,
+      734,
       null,
       null,
       null
@@ -9678,9 +9730,9 @@
     {
      "tier": "Notable",
      "nation": "Sweden",
-     "share": 0.922,
+     "share": 0.9085955110047912,
      "counts": [
-      737,
+      726,
       null,
       null,
       null
@@ -9691,9 +9743,9 @@
     {
      "tier": "Notable",
      "nation": "Vietnam",
-     "share": 0.922,
+     "share": 0.9085955110047912,
      "counts": [
-      737,
+      726,
       null,
       null,
       null
@@ -9704,9 +9756,9 @@
     {
      "tier": "Notable",
      "nation": "Chile",
-     "share": 0.836,
+     "share": 0.8238458212581403,
      "counts": [
-      670,
+      660,
       null,
       null,
       null
@@ -9717,9 +9769,9 @@
     {
      "tier": "Notable",
      "nation": "New Zealand",
-     "share": 0.833,
+     "share": 0.8208894367320944,
      "counts": [
-      668,
+      658,
       null,
       null,
       null
@@ -9730,9 +9782,9 @@
     {
      "tier": "Notable",
      "nation": "Thailand",
-     "share": 0.8,
+     "share": 0.7883692069455889,
      "counts": [
-      642,
+      633,
       null,
       null,
       null
@@ -9743,9 +9795,9 @@
     {
      "tier": "Notable",
      "nation": "South Africa",
-     "share": 0.784,
+     "share": 0.7726018228066771,
      "counts": [
-      629,
+      620,
       null,
       null,
       null
@@ -9756,9 +9808,9 @@
     {
      "tier": "Notable",
      "nation": "Argentina (without Patagonia)",
-     "share": 0.777,
+     "share": 0.7657035922459031,
      "counts": [
-      623,
+      614,
       null,
       null,
       null
@@ -9769,9 +9821,9 @@
     {
      "tier": "Notable",
      "nation": "Uruguay",
-     "share": 0.755,
+     "share": 0.7440234390548994,
      "counts": [
-      605,
+      596,
       null,
       null,
       null
@@ -9782,9 +9834,9 @@
     {
      "tier": "Notable",
      "nation": "Poland",
-     "share": 0.755,
+     "share": 0.7440234390548994,
      "counts": [
-      605,
+      596,
       null,
       null,
       null
@@ -9795,9 +9847,9 @@
     {
      "tier": "Notable",
      "nation": "Lithuania",
-     "share": 0.745,
+     "share": 0.7341688239680796,
      "counts": [
-      597,
+      588,
       null,
       null,
       null
@@ -9808,9 +9860,9 @@
     {
      "tier": "Notable",
      "nation": "Midwest Republic",
-     "share": 0.709,
+     "share": 0.698692209655528,
      "counts": [
-      568,
+      560,
       null,
       null,
       null
@@ -9821,9 +9873,9 @@
     {
      "tier": "Notable",
      "nation": "Idelsk-Uralia",
-     "share": 0.683,
+     "share": 0.6730702104297965,
      "counts": [
-      547,
+      539,
       null,
       null,
       null
@@ -9834,9 +9886,9 @@
     {
      "tier": "Notable",
      "nation": "Demilitarized Zone (s. Ontario; not a nation)",
-     "share": 0.627,
+     "share": 0.6178843659436052,
      "counts": [
-      503,
+      496,
       null,
       null,
       null
@@ -9847,9 +9899,9 @@
     {
      "tier": "Notable",
      "nation": "Ukraine",
-     "share": 0.599,
+     "share": 0.5902914437005096,
      "counts": [
-      479,
+      472,
       null,
       null,
       null
@@ -9860,9 +9912,9 @@
     {
      "tier": "Notable",
      "nation": "Colorado",
-     "share": 0.533,
+     "share": 0.5252509841274986,
      "counts": [
-      428,
+      422,
       null,
       null,
       null
@@ -9873,9 +9925,9 @@
     {
      "tier": "Notable",
      "nation": "Quebec",
-     "share": 0.479,
+     "share": 0.47203606265867126,
      "counts": [
-      384,
+      378,
       null,
       null,
       null
@@ -9886,9 +9938,9 @@
     {
      "tier": "Notable",
      "nation": "Magna Lombardia",
-     "share": 0.435,
+     "share": 0.42867575627666393,
      "counts": [
-      349,
+      344,
       null,
       null,
       null
@@ -9899,9 +9951,9 @@
     {
      "tier": "Notable",
      "nation": "Sonora",
-     "share": 0.412,
+     "share": 0.40601014157697823,
      "counts": [
-      330,
+      325,
       null,
       null,
       null
@@ -9912,9 +9964,9 @@
     {
      "tier": "Notable",
      "nation": "Prairie Federation",
-     "share": 0.353,
+     "share": 0.34786791256474103,
      "counts": [
-      282,
+      278,
       null,
       null,
       null
@@ -9925,9 +9977,9 @@
     {
      "tier": "Notable",
      "nation": "Amazonia",
-     "share": 0.309,
+     "share": 0.30450760618273365,
      "counts": [
-      248,
+      244,
       null,
       null,
       null
@@ -9938,9 +9990,9 @@
     {
      "tier": "Notable",
      "nation": "Catalonia",
-     "share": 0.307,
+     "share": 0.3025366831653697,
      "counts": [
-      247,
+      243,
       null,
       null,
       null
@@ -9951,9 +10003,9 @@
     {
      "tier": "Notable",
      "nation": "Siberia",
-     "share": 0.271,
+     "share": 0.26706006885281824,
      "counts": [
-      218,
+      215,
       null,
       null,
       null
@@ -9964,9 +10016,9 @@
     {
      "tier": "Notable",
      "nation": "Meridia",
-     "share": 0.267,
+     "share": 0.2631182228180903,
      "counts": [
-      216,
+      213,
       null,
       null,
       null
@@ -9977,9 +10029,9 @@
     {
      "tier": "Notable",
      "nation": "Donska-Kubania",
-     "share": 0.26,
+     "share": 0.2562199922573164,
      "counts": [
-      209,
+      206,
       null,
       null,
       null
@@ -9990,9 +10042,9 @@
     {
      "tier": "Notable",
      "nation": "Yucatán",
-     "share": 0.192,
+     "share": 0.1892086096669413,
      "counts": [
-      155,
+      153,
       null,
       null,
       null
@@ -10003,9 +10055,9 @@
     {
      "tier": "Notable",
      "nation": "East Turkestan",
-     "share": 0.185,
+     "share": 0.1823103791061674,
      "counts": [
-      149,
+      147,
       null,
       null,
       null
@@ -10016,9 +10068,9 @@
     {
      "tier": "Notable",
      "nation": "Araucanía-Patagonia",
-     "share": 0.182,
+     "share": 0.17935399458012144,
      "counts": [
-      146,
+      144,
       null,
       null,
       null
@@ -10029,9 +10081,9 @@
     {
      "tier": "Notable",
      "nation": "Künnarantaiga",
-     "share": 0.157,
+     "share": 0.1547174568630718,
      "counts": [
-      126,
+      124,
       null,
       null,
       null
@@ -10042,9 +10094,9 @@
     {
      "tier": "Notable",
      "nation": "West Papua",
-     "share": 0.111,
+     "share": 0.10938622746370044,
      "counts": [
-      89,
+      88,
       null,
       null,
       null
@@ -10055,9 +10107,9 @@
     {
      "tier": "Notable",
      "nation": "Basque Country",
-     "share": 0.11,
+     "share": 0.10840076595501846,
      "counts": [
-      89,
+      88,
       null,
       null,
       null
@@ -10068,9 +10120,9 @@
     {
      "tier": "Notable",
      "nation": "Aceh",
-     "share": 0.107,
+     "share": 0.1054443814289725,
      "counts": [
-      86,
+      85,
       null,
       null,
       null
@@ -10081,9 +10133,9 @@
     {
      "tier": "Notable",
      "nation": "Northern Ireland",
-     "share": 0.068,
+     "share": 0.06701138259037505,
      "counts": [
-      54,
+      53,
       null,
       null,
       null
@@ -10094,9 +10146,9 @@
     {
      "tier": "Notable",
      "nation": "Sicilia (autonomous zone within Meridia)",
-     "share": 0.062,
+     "share": 0.06109861353828313,
      "counts": [
-      49,
+      48,
       null,
       null,
       null
@@ -10107,9 +10159,9 @@
     {
      "tier": "Notable",
      "nation": "Dagestan",
-     "share": 0.048,
+     "share": 0.04730215241673533,
      "counts": [
-      38,
+      37,
       null,
       null,
       null
@@ -10120,9 +10172,9 @@
     {
      "tier": "Notable",
      "nation": "Hawaii",
-     "share": 0.046,
+     "share": 0.045331229399371356,
      "counts": [
-      36,
+      35,
       null,
       null,
       null
@@ -10133,7 +10185,7 @@
     {
      "tier": "Notable",
      "nation": "Alaska",
-     "share": 0.026,
+     "share": 0.025621999225731634,
      "counts": [
       22,
       null,
@@ -10146,7 +10198,7 @@
     {
      "tier": "Notable",
      "nation": "Tibet",
-     "share": 0.026,
+     "share": 0.025621999225731634,
      "counts": [
       22,
       null,
@@ -10159,7 +10211,7 @@
     {
      "tier": "Notable",
      "nation": "Patani",
-     "share": 0.023,
+     "share": 0.022665614699685678,
      "counts": [
       19,
       null,
@@ -10172,7 +10224,7 @@
     {
      "tier": "Notable",
      "nation": "Chechnya",
-     "share": 0.023,
+     "share": 0.022665614699685678,
      "counts": [
       19,
       null,
@@ -10185,7 +10237,7 @@
     {
      "tier": "Notable",
      "nation": "Kabardino-Balkaria",
-     "share": 0.014,
+     "share": 0.013796461121547804,
      "counts": [
       11,
       null,
@@ -10198,7 +10250,7 @@
     {
      "tier": "Notable",
      "nation": "North Ossetia-Alania",
-     "share": 0.01,
+     "share": 0.009854615086819861,
      "counts": [
       8,
       null,
@@ -10211,7 +10263,7 @@
     {
      "tier": "Notable",
      "nation": "Ingushetia",
-     "share": 0.008,
+     "share": 0.007883692069455888,
      "counts": [
       6,
       null,
@@ -10224,7 +10276,7 @@
     {
      "tier": "Notable",
      "nation": "Karachay-Cherkessia",
-     "share": 0.007,
+     "share": 0.006898230560773902,
      "counts": [
       6,
       null,
@@ -10237,7 +10289,7 @@
     {
      "tier": "Notable",
      "nation": "Tuva",
-     "share": 0.005,
+     "share": 0.0049273075434099305,
      "counts": [
       5,
       null,
@@ -10259,26 +10311,13 @@
    "rows": [
     {
      "tier": "Primary",
-     "nation": "United Kingdom",
-     "share": 10.033,
-     "counts": [
-      76484,
-      73950,
-      54632,
-      44562
-     ],
-     "from": "UK",
-     "anno": ""
-    },
-    {
-     "tier": "Primary",
      "nation": "Australia",
-     "share": 9.517,
+     "share": 9.37863717812646,
      "counts": [
-      72558,
-      70153,
-      51828,
-      42275
+      71503,
+      69133,
+      51074,
+      41660
      ],
      "from": "",
      "anno": "founding wave"
@@ -10286,12 +10325,12 @@
     {
      "tier": "Primary",
      "nation": "Sinian Federation",
-     "share": 9.068,
+     "share": 8.936164960728249,
      "counts": [
-      69111,
-      66819,
-      49363,
-      40265
+      68106,
+      65848,
+      48645,
+      39680
      ],
      "from": "China",
      "anno": ""
@@ -10299,12 +10338,12 @@
     {
      "tier": "Primary",
      "nation": "Indonesia",
-     "share": 8.693,
+     "share": 8.566616894972505,
      "counts": [
-      66279,
-      64081,
-      47341,
-      38614
+      65315,
+      63149,
+      46653,
+      38053
      ],
      "from": "",
      "anno": ""
@@ -10312,12 +10351,12 @@
     {
      "tier": "Primary",
      "nation": "Japan",
-     "share": 8.587,
+     "share": 8.462157975052214,
      "counts": [
-      65409,
-      63243,
-      46720,
-      38110
+      64458,
+      62324,
+      46041,
+      37556
      ],
      "from": "",
      "anno": ""
@@ -10325,12 +10364,12 @@
     {
      "tier": "Significant",
      "nation": "France",
-     "share": 6.073,
+     "share": 5.984707742225702,
      "counts": [
-      46268,
-      44733,
-      33048,
-      26957
+      45595,
+      44083,
+      32568,
+      26565
      ],
      "from": "",
      "anno": ""
@@ -10338,259 +10377,298 @@
     {
      "tier": "Significant",
      "nation": "Korea",
-     "share": 5.58,
+     "share": 5.498875218445482,
      "counts": [
-      42538,
-      41128,
-      30384,
-      24783
+      41920,
+      40530,
+      29942,
+      24423
      ],
      "from": "South Korea + Jeju-do",
      "anno": ""
     },
     {
-     "tier": "Notable",
+     "tier": "Significant",
+     "nation": "Kazakhstan",
+     "share": 4.799951462709701,
+     "counts": [
+      36578,
+      35366,
+      26128,
+      21312
+     ],
+     "from": "Kazakhstan",
+     "anno": "founding wave"
+    },
+    {
+     "tier": "Significant",
+     "nation": "United Kingdom",
+     "share": 3.5419358587279683,
+     "counts": [
+      27018,
+      26124,
+      19299,
+      15741
+     ],
+     "from": "UK",
+     "anno": ""
+    },
+    {
+     "tier": "Significant",
+     "nation": "Russia (core state)",
+     "share": 3.3499214240608826,
+     "counts": [
+      25538,
+      24693,
+      18243,
+      14881
+     ],
+     "from": "Ukraine",
+     "anno": "founding wave"
+    },
+    {
+     "tier": "Significant",
      "nation": "Estonia",
-     "share": 3.113,
+     "share": 3.0677416765270222,
      "counts": [
-      23736,
-      22950,
-      16954,
-      13829
+      23391,
+      22616,
+      16707,
+      13628
      ],
      "from": "",
      "anno": ""
     },
     {
-     "tier": "Notable",
+     "tier": "Significant",
      "nation": "South Africa",
-     "share": 3.034,
+     "share": 2.9898902173411455,
      "counts": [
-      23156,
-      22391,
-      16541,
-      13492
+      22819,
+      22065,
+      16300,
+      13296
      ],
      "from": "",
      "anno": ""
     },
     {
-     "tier": "Notable",
+     "tier": "Significant",
      "nation": "Norway",
-     "share": 2.995,
+     "share": 2.951457218502548,
      "counts": [
-      22789,
-      22033,
-      16278,
-      13278
+      22458,
+      21713,
+      16041,
+      13085
      ],
      "from": "",
      "anno": ""
     },
     {
-     "tier": "Notable",
+     "tier": "Significant",
      "nation": "Vietnam",
-     "share": 2.936,
+     "share": 2.8933149894903107,
      "counts": [
-      22336,
-      21596,
-      15954,
-      13014
+      22011,
+      21282,
+      15722,
+      12825
      ],
      "from": "",
      "anno": ""
     },
     {
-     "tier": "Notable",
+     "tier": "Significant",
      "nation": "Belarus",
-     "share": 2.877,
+     "share": 2.8351727604780734,
      "counts": [
-      21945,
-      21219,
-      15675,
-      12787
+      21626,
+      20911,
+      15447,
+      12601
      ],
      "from": "",
      "anno": ""
     },
     {
-     "tier": "Notable",
+     "tier": "Significant",
      "nation": "Netherlands",
-     "share": 2.867,
+     "share": 2.825318145391254,
      "counts": [
-      21823,
-      21101,
-      15588,
-      12715
+      21506,
+      20794,
+      15361,
+      12530
      ],
      "from": "",
      "anno": ""
     },
     {
-     "tier": "Notable",
+     "tier": "Significant",
      "nation": "Thailand",
-     "share": 2.833,
+     "share": 2.7918124540960667,
      "counts": [
-      21595,
-      20879,
-      15425,
-      12582
+      21281,
+      20575,
+      15201,
+      12399
      ],
      "from": "",
      "anno": ""
     },
     {
-     "tier": "Notable",
+     "tier": "Significant",
      "nation": "Slovenia",
-     "share": 2.661,
+     "share": 2.622313074602765,
      "counts": [
-      20264,
-      19592,
-      14474,
-      11807
+      19969,
+      19307,
+      14264,
+      11635
      ],
      "from": "",
      "anno": ""
     },
     {
-     "tier": "Notable",
+     "tier": "Significant",
      "nation": "Bulgaria",
-     "share": 2.632,
+     "share": 2.5937346908509875,
      "counts": [
-      20064,
-      19399,
-      14332,
-      11690
+      19772,
+      19117,
+      14124,
+      11520
      ],
      "from": "",
      "anno": ""
     },
     {
-     "tier": "Notable",
+     "tier": "Significant",
      "nation": "Austro-Bavaria",
-     "share": 2.012,
+     "share": 1.9827485554681559,
      "counts": [
-      15336,
-      14827,
-      10955,
-      8936
+      15113,
+      14611,
+      10796,
+      8806
      ],
      "from": "Germany + Austria",
      "anno": ""
     },
     {
-     "tier": "Notable",
+     "tier": "Significant",
      "nation": "Czechia",
-     "share": 1.542,
+     "share": 1.5195816463876224,
      "counts": [
-      11776,
-      11386,
-      8412,
-      6861
+      11605,
+      11220,
+      8290,
+      6761
      ],
      "from": "Czech Republic",
      "anno": ""
     },
     {
-     "tier": "Notable",
+     "tier": "Significant",
      "nation": "Germany",
-     "share": 1.532,
+     "share": 1.5097270313008027,
      "counts": [
-      11680,
-      11295,
-      8344,
-      6805
+      11510,
+      11131,
+      8223,
+      6706
      ],
      "from": "",
      "anno": ""
     },
     {
-     "tier": "Notable",
+     "tier": "Significant",
      "nation": "Slovakia",
-     "share": 1.522,
+     "share": 1.4998724162139827,
      "counts": [
-      11577,
-      11194,
-      8270,
-      6745
+      11409,
+      11031,
+      8150,
+      6647
      ],
      "from": "",
      "anno": ""
     },
     {
-     "tier": "Notable",
+     "tier": "Significant",
      "nation": "Hungary",
-     "share": 1.425,
+     "share": 1.4042826498718302,
      "counts": [
-      10885,
-      10523,
-      7775,
-      6341
+      10727,
+      10370,
+      7662,
+      6249
      ],
      "from": "Romania",
      "anno": ""
     },
     {
-     "tier": "Notable",
+     "tier": "Significant",
      "nation": "Lithuania",
-     "share": 1.316,
+     "share": 1.2968673454254938,
      "counts": [
-      10017,
-      9684,
-      7156,
-      5838
+      9871,
+      9543,
+      7052,
+      5753
      ],
      "from": "",
      "anno": ""
     },
     {
-     "tier": "Notable",
+     "tier": "Significant",
      "nation": "Poland",
-     "share": 1.247,
+     "share": 1.2288705013264367,
      "counts": [
-      9506,
-      9190,
-      6790,
-      5538
+      9368,
+      9056,
+      6691,
+      5458
      ],
      "from": "",
      "anno": ""
     },
     {
-     "tier": "Notable",
+     "tier": "Significant",
      "nation": "Croatia",
-     "share": 1.188,
+     "share": 1.1707282723141994,
      "counts": [
-      9052,
-      8752,
-      6466,
-      5275
-     ],
-     "from": "",
-     "anno": ""
-    },
-    {
-     "tier": "Notable",
-     "nation": "Latvia",
-     "share": 1.139,
-     "counts": [
-      8684,
-      8395,
-      6203,
-      5059
-     ],
-     "from": "",
-     "anno": ""
-    },
-    {
-     "tier": "Notable",
-     "nation": "Romania",
-     "share": 1.128,
-     "counts": [
+      8920,
       8625,
-      8340,
-      6161,
-      5025
+      6372,
+      5198
+     ],
+     "from": "",
+     "anno": ""
+    },
+    {
+     "tier": "Significant",
+     "nation": "Latvia",
+     "share": 1.122440658388782,
+     "counts": [
+      8558,
+      8273,
+      6113,
+      4985
+     ],
+     "from": "",
+     "anno": ""
+    },
+    {
+     "tier": "Significant",
+     "nation": "Romania",
+     "share": 1.1116005817932801,
+     "counts": [
+      8500,
+      8219,
+      6071,
+      4952
      ],
      "from": "",
      "anno": ""
@@ -10598,12 +10676,12 @@
     {
      "tier": "Notable",
      "nation": "Ukraine",
-     "share": 0.704,
+     "share": 0.6937649021121182,
      "counts": [
-      5382,
-      5202,
-      3843,
-      3136
+      5304,
+      5126,
+      3787,
+      3090
      ],
      "from": "",
      "anno": ""
@@ -10611,38 +10689,25 @@
     {
      "tier": "Notable",
      "nation": "Mongolia",
-     "share": 0.376,
+     "share": 0.37053352726442673,
      "counts": [
-      2862,
-      2768,
-      2045,
-      1668
+      2820,
+      2728,
+      2015,
+      1644
      ],
      "from": "China",
      "anno": ""
     },
     {
      "tier": "Notable",
-     "nation": "Russia (core state)",
-     "share": 0.356,
-     "counts": [
-      2723,
-      2634,
-      1946,
-      1588
-     ],
-     "from": "Ukraine",
-     "anno": ""
-    },
-    {
-     "tier": "Notable",
      "nation": "East Turkestan",
-     "share": 0.312,
+     "share": 0.3074639907087796,
      "counts": [
-      2375,
-      2298,
-      1697,
-      1384
+      2341,
+      2265,
+      1672,
+      1364
      ],
      "from": "China",
      "anno": ""
@@ -10650,12 +10715,12 @@
     {
      "tier": "Notable",
      "nation": "Northern Ireland",
-     "share": 0.246,
+     "share": 0.24242353113576856,
      "counts": [
-      1874,
-      1811,
-      1338,
-      1091
+      1847,
+      1785,
+      1319,
+      1075
      ],
      "from": "UK",
      "anno": ""
@@ -10663,12 +10728,12 @@
     {
      "tier": "Notable",
      "nation": "West Papua",
-     "share": 0.159,
+     "share": 0.15668837988043577,
      "counts": [
-      1209,
-      1170,
-      863,
-      705
+      1192,
+      1153,
+      850,
+      695
      ],
      "from": "Indonesia",
      "anno": ""
@@ -10676,12 +10741,12 @@
     {
      "tier": "Notable",
      "nation": "Aceh",
-     "share": 0.153,
+     "share": 0.15077561082834387,
      "counts": [
-      1168,
-      1130,
-      834,
-      680
+      1151,
+      1114,
+      822,
+      670
      ],
      "from": "Indonesia",
      "anno": ""
@@ -10689,12 +10754,12 @@
     {
      "tier": "Notable",
      "nation": "Patani",
-     "share": 0.083,
+     "share": 0.08179330522060484,
      "counts": [
-      631,
-      609,
-      451,
-      368
+      622,
+      600,
+      444,
+      363
      ],
      "from": "Thailand",
      "anno": ""
@@ -10702,12 +10767,12 @@
     {
      "tier": "Notable",
      "nation": "Tibet",
-     "share": 0.044,
+     "share": 0.043360306382007385,
      "counts": [
-      336,
-      324,
-      240,
-      196
+      331,
+      319,
+      237,
+      193
      ],
      "from": "China",
      "anno": ""
@@ -10724,26 +10789,13 @@
    "rows": [
     {
      "tier": "Primary",
-     "nation": "Sinian Federation",
-     "share": 9.728,
-     "counts": [
-      12843,
-      9081,
-      7760,
-      8290
-     ],
-     "from": "China",
-     "anno": ""
-    },
-    {
-     "tier": "Primary",
      "nation": "Australia",
-     "share": 9.507,
+     "share": 9.368782563039641,
      "counts": [
-      12551,
-      8876,
-      7582,
-      8099
+      12369,
+      8747,
+      7472,
+      7981
      ],
      "from": "",
      "anno": ""
@@ -10751,12 +10803,12 @@
     {
      "tier": "Primary",
      "nation": "Indonesia",
-     "share": 9.477,
+     "share": 9.339218717779183,
      "counts": [
-      12509,
-      8846,
-      7558,
-      8073
+      12327,
+      8717,
+      7448,
+      7956
      ],
      "from": "",
      "anno": ""
@@ -10764,12 +10816,12 @@
     {
      "tier": "Primary",
      "nation": "United Kingdom",
-     "share": 8.907,
+     "share": 8.77750565783045,
      "counts": [
-      11765,
-      8320,
-      7108,
-      7593
+      11594,
+      8199,
+      7005,
+      7483
      ],
      "from": "UK",
      "anno": ""
@@ -10777,25 +10829,38 @@
     {
      "tier": "Primary",
      "nation": "Germany",
-     "share": 7.926,
+     "share": 7.810767917813421,
      "counts": [
-      10463,
-      7399,
-      6321,
-      6751
+      10311,
+      7291,
+      6229,
+      6653
      ],
      "from": "",
      "anno": ""
     },
     {
      "tier": "Significant",
-     "nation": "Korea",
-     "share": 5.817,
+     "nation": "Sinian Federation",
+     "share": 5.91310734670096,
      "counts": [
-      7679,
-      5431,
-      4640,
-      4957
+      7806,
+      5520,
+      4717,
+      5039
+     ],
+     "from": "China",
+     "anno": ""
+    },
+    {
+     "tier": "Significant",
+     "nation": "Korea",
+     "share": 5.732429596003112,
+     "counts": [
+      7567,
+      5352,
+      4573,
+      4885
      ],
      "from": "South Korea + Jeju-do",
      "anno": ""
@@ -10803,25 +10868,38 @@
     {
      "tier": "Significant",
      "nation": "France",
-     "share": 5.739,
+     "share": 5.655563598325918,
      "counts": [
-      7583,
-      5362,
-      4581,
-      4893
+      7473,
+      5284,
+      4514,
+      4822
      ],
      "from": "Luxembourg",
      "anno": ""
     },
     {
+     "tier": "Significant",
+     "nation": "Kazakhstan",
+     "share": 5.127311341558799,
+     "counts": [
+      6769,
+      4786,
+      4090,
+      4369
+     ],
+     "from": "Kazakhstan",
+     "anno": "founding wave"
+    },
+    {
      "tier": "Notable",
      "nation": "Serbia",
-     "share": 3.225,
+     "share": 3.178113365499405,
      "counts": [
-      4262,
-      3014,
-      2575,
-      2750
+      4200,
+      2970,
+      2538,
+      2710
      ],
      "from": "Kosovo",
      "anno": ""
@@ -10829,12 +10907,12 @@
     {
      "tier": "Notable",
      "nation": "Netherlands",
-     "share": 3.079,
+     "share": 3.034235985231835,
      "counts": [
-      4061,
-      2872,
-      2453,
-      2620
+      4002,
+      2830,
+      2417,
+      2582
      ],
      "from": "",
      "anno": ""
@@ -10842,12 +10920,12 @@
     {
      "tier": "Notable",
      "nation": "Slovenia",
-     "share": 3.059,
+     "share": 3.0145267550581956,
      "counts": [
-      4041,
-      2858,
-      2441,
-      2607
+      3982,
+      2816,
+      2406,
+      2569
      ],
      "from": "",
      "anno": ""
@@ -10855,12 +10933,12 @@
     {
      "tier": "Notable",
      "nation": "Croatia",
-     "share": 3.049,
+     "share": 3.004672139971375,
      "counts": [
-      4021,
-      2843,
-      2428,
-      2594
+      3962,
+      2802,
+      2393,
+      2556
      ],
      "from": "",
      "anno": ""
@@ -10868,12 +10946,12 @@
     {
      "tier": "Notable",
      "nation": "Austro-Bavaria",
-     "share": 3.017,
+     "share": 2.973137371693552,
      "counts": [
-      3983,
-      2817,
-      2406,
-      2570
+      3925,
+      2776,
+      2371,
+      2533
      ],
      "from": "Germany + Austria",
      "anno": ""
@@ -10881,12 +10959,12 @@
     {
      "tier": "Notable",
      "nation": "Lithuania",
-     "share": 2.755,
+     "share": 2.7149464564188714,
      "counts": [
-      3639,
-      2573,
-      2198,
-      2348
+      3586,
+      2536,
+      2166,
+      2314
      ],
      "from": "",
      "anno": ""
@@ -10894,37 +10972,11 @@
     {
      "tier": "Notable",
      "nation": "Norway",
-     "share": 2.745,
+     "share": 2.7050918413320515,
      "counts": [
-      3626,
-      2563,
-      2191,
-      2340
-     ],
-     "from": "",
-     "anno": ""
-    },
-    {
-     "tier": "Notable",
-     "nation": "Belarus",
-     "share": 2.735,
-     "counts": [
-      3614,
-      2555,
-      2184,
-      2332
-     ],
-     "from": "",
-     "anno": ""
-    },
-    {
-     "tier": "Notable",
-     "nation": "Latvia",
-     "share": 2.706,
-     "counts": [
-      3571,
+      3573,
       2526,
-      2158,
+      2159,
       2306
      ],
      "from": "",
@@ -10932,13 +10984,39 @@
     },
     {
      "tier": "Notable",
-     "nation": "Japan",
-     "share": 2.657,
+     "nation": "Belarus",
+     "share": 2.6952372262452315,
      "counts": [
-      3504,
-      2478,
-      2117,
-      2262
+      3561,
+      2518,
+      2152,
+      2298
+     ],
+     "from": "",
+     "anno": ""
+    },
+    {
+     "tier": "Notable",
+     "nation": "Latvia",
+     "share": 2.666658842493454,
+     "counts": [
+      3519,
+      2489,
+      2127,
+      2273
+     ],
+     "from": "",
+     "anno": ""
+    },
+    {
+     "tier": "Notable",
+     "nation": "Japan",
+     "share": 2.6183712285680367,
+     "counts": [
+      3453,
+      2442,
+      2086,
+      2229
      ],
      "from": "",
      "anno": ""
@@ -10946,12 +11024,12 @@
     {
      "tier": "Notable",
      "nation": "Romania",
-     "share": 2.472,
+     "share": 2.436060849461869,
      "counts": [
-      3261,
-      2305,
-      1970,
-      2104
+      3214,
+      2272,
+      1941,
+      2073
      ],
      "from": "",
      "anno": ""
@@ -10959,12 +11037,12 @@
     {
      "tier": "Notable",
      "nation": "Hungary",
-     "share": 1.793,
+     "share": 1.766932485066801,
      "counts": [
-      2367,
-      1675,
-      1429,
-      1527
+      2333,
+      1651,
+      1408,
+      1505
      ],
      "from": "Romania",
      "anno": ""
@@ -10972,12 +11050,12 @@
     {
      "tier": "Notable",
      "nation": "Czechia",
-     "share": 1.53,
+     "share": 1.5077561082834385,
      "counts": [
-      2014,
-      1423,
-      1217,
-      1299
+      1985,
+      1402,
+      1199,
+      1280
      ],
      "from": "Czech Republic",
      "anno": ""
@@ -10985,12 +11063,12 @@
     {
      "tier": "Notable",
      "nation": "South Africa",
-     "share": 1.51,
+     "share": 1.4880468781097989,
      "counts": [
-      1988,
-      1406,
-      1201,
-      1284
+      1959,
+      1386,
+      1184,
+      1265
      ],
      "from": "",
      "anno": ""
@@ -10998,12 +11076,12 @@
     {
      "tier": "Notable",
      "nation": "Bulgaria",
-     "share": 1.216,
+     "share": 1.198321194557295,
      "counts": [
-      1607,
-      1136,
-      970,
-      1037
+      1584,
+      1119,
+      956,
+      1022
      ],
      "from": "",
      "anno": ""
@@ -11011,12 +11089,12 @@
     {
      "tier": "Notable",
      "nation": "Poland",
-     "share": 1.206,
+     "share": 1.1884665794704752,
      "counts": [
-      1586,
-      1121,
-      958,
-      1023
+      1563,
+      1105,
+      944,
+      1008
      ],
      "from": "",
      "anno": ""
@@ -11024,12 +11102,12 @@
     {
      "tier": "Notable",
      "nation": "Estonia",
-     "share": 1.098,
+     "share": 1.0820367365328207,
      "counts": [
-      1455,
-      1028,
-      878,
-      939
+      1434,
+      1013,
+      865,
+      925
      ],
      "from": "",
      "anno": ""
@@ -11037,12 +11115,12 @@
     {
      "tier": "Notable",
      "nation": "Ukraine",
-     "share": 1.009,
+     "share": 0.9943306622601238,
      "counts": [
-      1330,
-      940,
-      803,
-      859
+      1311,
+      926,
+      791,
+      847
      ],
      "from": "",
      "anno": ""
@@ -11050,12 +11128,12 @@
     {
      "tier": "Notable",
      "nation": "Slovakia",
-     "share": 0.618,
+     "share": 0.6090152123654673,
      "counts": [
-      809,
-      573,
-      489,
-      523
+      797,
+      565,
+      482,
+      515
      ],
      "from": "",
      "anno": ""
@@ -11063,12 +11141,12 @@
     {
      "tier": "Notable",
      "nation": "Russia (core state)",
-     "share": 0.511,
+     "share": 0.5035708309364949,
      "counts": [
-      673,
-      476,
-      407,
-      434
+      663,
+      469,
+      401,
+      428
      ],
      "from": "Ukraine",
      "anno": ""
@@ -11076,12 +11154,12 @@
     {
      "tier": "Notable",
      "nation": "East Turkestan",
-     "share": 0.318,
+     "share": 0.31337675976087154,
      "counts": [
-      420,
-      297,
-      254,
-      271
+      414,
+      293,
+      250,
+      267
      ],
      "from": "China",
      "anno": ""
@@ -11089,12 +11167,12 @@
     {
      "tier": "Notable",
      "nation": "Northern Ireland",
-     "share": 0.218,
+     "share": 0.21483060889267294,
      "counts": [
-      287,
-      203,
-      174,
-      186
+      283,
+      200,
+      171,
+      183
      ],
      "from": "UK",
      "anno": ""
@@ -11102,12 +11180,12 @@
     {
      "tier": "Notable",
      "nation": "West Papua",
-     "share": 0.172,
+     "share": 0.16949937949330157,
      "counts": [
-      228,
-      161,
-      138,
-      147
+      225,
+      159,
+      136,
+      145
      ],
      "from": "Indonesia",
      "anno": ""
@@ -11115,12 +11193,12 @@
     {
      "tier": "Notable",
      "nation": "Aceh",
-     "share": 0.167,
+     "share": 0.16457207194989168,
      "counts": [
-      220,
-      156,
-      134,
-      143
+      217,
+      154,
+      132,
+      141
      ],
      "from": "Indonesia",
      "anno": ""
@@ -11128,12 +11206,12 @@
     {
      "tier": "Notable",
      "nation": "Tibet",
-     "share": 0.045,
+     "share": 0.04434576789068937,
      "counts": [
-      60,
-      42,
+      59,
+      41,
       35,
-      38
+      37
      ],
      "from": "China",
      "anno": ""
@@ -11151,10 +11229,10 @@
     {
      "tier": "Primary",
      "nation": "Japan",
-     "share": 16.207,
+     "share": 15.971374671208949,
      "counts": [
-      46153,
-      25401,
+      45482,
+      25032,
       null,
       null
      ],
@@ -11164,10 +11242,10 @@
     {
      "tier": "Primary",
      "nation": "Indonesia",
-     "share": 12.568,
+     "share": 12.3852802411152,
      "counts": [
-      35774,
-      19689,
+      35254,
+      19403,
       null,
       null
      ],
@@ -11177,10 +11255,10 @@
     {
      "tier": "Significant",
      "nation": "CSA",
-     "share": 8.866,
+     "share": 8.737101735974488,
      "counts": [
-      25238,
-      13891,
+      24871,
+      13689,
       null,
       null
      ],
@@ -11190,10 +11268,10 @@
     {
      "tier": "Significant",
      "nation": "Korea",
-     "share": 6.255,
+     "share": 6.164061736805823,
      "counts": [
-      17806,
-      9800,
+      17547,
+      9657,
       null,
       null
      ],
@@ -11203,10 +11281,10 @@
     {
      "tier": "Significant",
      "nation": "Australia",
-     "share": 6.233,
+     "share": 6.142381583614818,
      "counts": [
-      17752,
-      9770,
+      17494,
+      9628,
       null,
       null
      ],
@@ -11216,10 +11294,10 @@
     {
      "tier": "Significant",
      "nation": "Cascadia",
-     "share": 5.988,
+     "share": 5.900943513987733,
      "counts": [
-      17046,
-      9382,
+      16798,
+      9246,
       null,
       null
      ],
@@ -11229,10 +11307,10 @@
     {
      "tier": "Significant",
      "nation": "Appalachia",
-     "share": 5.691,
+     "share": 5.608261445909182,
      "counts": [
-      16201,
-      8915,
+      15965,
+      8785,
       null,
       null
      ],
@@ -11242,10 +11320,10 @@
     {
      "tier": "Significant",
      "nation": "Demilitarized Zone (s. Ontario; not a nation)",
-     "share": 4.965,
+     "share": 4.89281639060606,
      "counts": [
-      14134,
-      7779,
+      13929,
+      7666,
       null,
       null
      ],
@@ -11255,10 +11333,10 @@
     {
      "tier": "Significant",
      "nation": "New England",
-     "share": 4.654,
+     "share": 4.586337861405963,
      "counts": [
-      13249,
-      7292,
+      13056,
+      7186,
       null,
       null
      ],
@@ -11268,10 +11346,10 @@
     {
      "tier": "Significant",
      "nation": "Mongolia",
-     "share": 4.286,
+     "share": 4.223688026210992,
      "counts": [
-      12202,
-      6715,
+      12025,
+      6617,
       null,
       null
      ],
@@ -11281,10 +11359,10 @@
     {
      "tier": "Significant",
      "nation": "Chile",
-     "share": 4.128,
+     "share": 4.067985107839238,
      "counts": [
-      11748,
-      6465,
+      11577,
+      6371,
       null,
       null
      ],
@@ -11294,10 +11372,10 @@
     {
      "tier": "Significant",
      "nation": "Quebec",
-     "share": 3.796,
+     "share": 3.7408118869568185,
      "counts": [
-      10808,
-      5948,
+      10651,
+      5862,
       null,
       null
      ],
@@ -11307,10 +11385,10 @@
     {
      "tier": "Significant",
      "nation": "Künnarantaiga",
-     "share": 3.732,
+     "share": 3.677742350401172,
      "counts": [
-      10624,
-      5847,
+      10470,
+      5762,
       null,
       null
      ],
@@ -11320,10 +11398,10 @@
     {
      "tier": "Significant",
      "nation": "Taiwan",
-     "share": 2.905,
+     "share": 2.8627656827211694,
      "counts": [
-      8272,
-      4552,
+      8152,
+      4486,
       null,
       null
      ],
@@ -11333,10 +11411,10 @@
     {
      "tier": "Significant",
      "nation": "Prairie Federation",
-     "share": 2.793,
+     "share": 2.752393993748787,
      "counts": [
-      7952,
-      4376,
+      7836,
+      4312,
       null,
       null
      ],
@@ -11346,10 +11424,10 @@
     {
      "tier": "Significant",
      "nation": "Midwest Republic",
-     "share": 1.77,
+     "share": 1.7442668703671154,
      "counts": [
-      5038,
-      2773,
+      4965,
+      2733,
       null,
       null
      ],
@@ -11359,10 +11437,10 @@
     {
      "tier": "Significant",
      "nation": "New Zealand",
-     "share": 1.653,
+     "share": 1.628967873851323,
      "counts": [
-      4702,
-      2586,
+      4634,
+      2548,
       null,
       null
      ],
@@ -11371,11 +11449,24 @@
     },
     {
      "tier": "Significant",
-     "nation": "Colorado",
-     "share": 1.331,
+     "nation": "Kazakhstan",
+     "share": 1.4538491318013997,
      "counts": [
-      3790,
-      2085,
+      4139,
+      2278,
+      null,
+      null
+     ],
+     "from": "Kazakhstan",
+     "anno": ""
+    },
+    {
+     "tier": "Significant",
+     "nation": "Colorado",
+     "share": 1.3116492680557232,
+     "counts": [
+      3735,
+      2055,
       null,
       null
      ],
@@ -11385,10 +11476,10 @@
     {
      "tier": "Notable",
      "nation": "Sonora",
-     "share": 0.782,
+     "share": 0.7706308997893131,
      "counts": [
-      2225,
-      1226,
+      2193,
+      1208,
       null,
       null
      ],
@@ -11398,10 +11489,10 @@
     {
      "tier": "Notable",
      "nation": "Araucanía-Patagonia",
-     "share": 0.666,
+     "share": 0.6563173647822027,
      "counts": [
-      1893,
-      1043,
+      1865,
+      1028,
       null,
       null
      ],
@@ -11411,10 +11502,10 @@
     {
      "tier": "Notable",
      "nation": "West Papua",
-     "share": 0.268,
+     "share": 0.2641036843267723,
      "counts": [
-      762,
-      421,
+      751,
+      415,
       null,
       null
      ],
@@ -11424,10 +11515,10 @@
     {
      "tier": "Notable",
      "nation": "Aceh",
-     "share": 0.259,
+     "share": 0.2552345307486344,
      "counts": [
-      736,
-      407,
+      725,
+      401,
       null,
       null
      ],
@@ -11437,10 +11528,10 @@
     {
      "tier": "Notable",
      "nation": "Hawaii",
-     "share": 0.115,
+     "share": 0.1133280734984284,
      "counts": [
-      328,
-      179,
+      323,
+      176,
       null,
       null
      ],
@@ -11450,10 +11541,10 @@
     {
      "tier": "Notable",
      "nation": "Alaska",
-     "share": 0.091,
+     "share": 0.08967699729006072,
      "counts": [
-      260,
-      143,
+      256,
+      141,
       null,
       null
      ],
@@ -11473,12 +11564,12 @@
     {
      "tier": "Primary",
      "nation": "Korea",
-     "share": 12.131,
+     "share": 11.954633561821172,
      "counts": [
-      95494,
-      92327,
-      75756,
-      55042
+      94106,
+      90985,
+      74655,
+      54242
      ],
      "from": "South Korea + North Korea + Jeju-do",
      "anno": ""
@@ -11486,12 +11577,12 @@
     {
      "tier": "Primary",
      "nation": "France",
-     "share": 11.271,
+     "share": 11.107136664354664,
      "counts": [
-      88739,
-      85794,
-      70395,
-      51148
+      87449,
+      84547,
+      69372,
+      50404
      ],
      "from": "",
      "anno": ""
@@ -11499,12 +11590,12 @@
     {
      "tier": "Primary",
      "nation": "Australia",
-     "share": 10.385,
+     "share": 10.234017767662424,
      "counts": [
-      81701,
-      78988,
-      64812,
-      47089
+      80513,
+      77840,
+      63870,
+      46404
      ],
      "from": "",
      "anno": "founding wave — a direct sea route from Australia"
@@ -11512,12 +11603,12 @@
     {
      "tier": "Primary",
      "nation": "Sinian Federation",
-     "share": 9.493,
+     "share": 9.354986101918094,
      "counts": [
-      74713,
-      72233,
-      59269,
-      43063
+      73627,
+      71183,
+      58407,
+      42437
      ],
      "from": "China + Hong Kong + Macau",
      "anno": ""
@@ -11525,12 +11616,12 @@
     {
      "tier": "Primary",
      "nation": "CSA",
-     "share": 7.967,
+     "share": 7.851171839669382,
      "counts": [
-      62710,
-      60628,
-      49747,
-      36145
+      61798,
+      59746,
+      49024,
+      35619
      ],
      "from": "USA",
      "anno": ""
@@ -11538,12 +11629,12 @@
     {
      "tier": "Significant",
      "nation": "Japan",
-     "share": 5.978,
+     "share": 5.891088898900912,
      "counts": [
-      47049,
-      45487,
-      37324,
-      27118
+      46365,
+      44826,
+      36781,
+      26724
      ],
      "from": "",
      "anno": ""
@@ -11551,12 +11642,12 @@
     {
      "tier": "Significant",
      "nation": "Indonesia",
-     "share": 5.296,
+     "share": 5.219004149979798,
      "counts": [
-      41691,
-      40307,
-      33073,
-      24029
+      41085,
+      39721,
+      32592,
+      23680
      ],
      "from": "",
      "anno": ""
@@ -11564,12 +11655,12 @@
     {
      "tier": "Significant",
      "nation": "Appalachia",
-     "share": 4.363,
+     "share": 4.2995685623795055,
      "counts": [
-      34344,
-      33204,
-      27245,
-      19797
+      33845,
+      32721,
+      26849,
+      19509
      ],
      "from": "USA",
      "anno": ""
@@ -11577,12 +11668,12 @@
     {
      "tier": "Significant",
      "nation": "New England",
-     "share": 3.569,
+     "share": 3.517112124486008,
      "counts": [
-      28090,
-      27158,
-      22282,
-      16190
+      27682,
+      26763,
+      21958,
+      15955
      ],
      "from": "USA",
      "anno": ""
@@ -11590,12 +11681,12 @@
     {
      "tier": "Significant",
      "nation": "New Zealand",
-     "share": 3.215,
+     "share": 3.1682587504125848,
      "counts": [
-      25280,
-      24441,
-      20057,
-      14570
+      24912,
+      24086,
+      19765,
+      14358
      ],
      "from": "",
      "anno": ""
@@ -11603,12 +11694,12 @@
     {
      "tier": "Significant",
      "nation": "Philippines",
-     "share": 3.206,
+     "share": 3.159389596834447,
      "counts": [
-      25248,
-      24409,
-      20030,
-      14552
+      24881,
+      24054,
+      19739,
+      14340
      ],
      "from": "",
      "anno": ""
@@ -11616,12 +11707,12 @@
     {
      "tier": "Significant",
      "nation": "Cascadia",
-     "share": 3.179,
+     "share": 3.132782136100033,
      "counts": [
-      25021,
-      24191,
-      19849,
-      14421
+      24657,
+      23839,
+      19560,
+      14211
      ],
      "from": "USA",
      "anno": ""
@@ -11629,12 +11720,12 @@
     {
      "tier": "Significant",
      "nation": "Vietnam",
-     "share": 3.072,
+     "share": 3.027337754671061,
      "counts": [
-      24168,
-      23363,
-      19171,
-      13929
+      23817,
+      23023,
+      18892,
+      13726
      ],
      "from": "",
      "anno": ""
@@ -11642,12 +11733,12 @@
     {
      "tier": "Significant",
      "nation": "Taiwan",
-     "share": 2.905,
+     "share": 2.8627656827211694,
      "counts": [
-      22863,
-      22105,
-      18137,
-      13177
+      22531,
+      21784,
+      17873,
+      12985
      ],
      "from": "Taiwan",
      "anno": ""
@@ -11655,12 +11746,12 @@
     {
      "tier": "Notable",
      "nation": "Idelsk-Uralia",
-     "share": 1.84,
+     "share": 1.8132491759748544,
      "counts": [
-      14474,
-      13993,
-      11482,
-      8342
+      14264,
+      13789,
+      11315,
+      8221
      ],
      "from": "Russia",
      "anno": ""
@@ -11668,12 +11759,12 @@
     {
      "tier": "Notable",
      "nation": "Russia (core state)",
-     "share": 1.84,
+     "share": 1.8132491759748544,
      "counts": [
-      14474,
-      13992,
-      11481,
-      8341
+      14263,
+      13789,
+      11314,
+      8220
      ],
      "from": "Russia",
      "anno": ""
@@ -11681,25 +11772,38 @@
     {
      "tier": "Notable",
      "nation": "Malaysia",
-     "share": 1.703,
+     "share": 1.6782409492854222,
      "counts": [
-      13373,
-      12930,
-      10609,
-      7709
+      13179,
+      12742,
+      10455,
+      7597
      ],
      "from": "",
      "anno": ""
     },
     {
      "tier": "Notable",
-     "nation": "Midwest Republic",
-     "share": 1.357,
+     "nation": "Kazakhstan",
+     "share": 1.4538491318013997,
      "counts": [
-      10681,
-      10325,
-      8473,
-      6155
+      11442,
+      11062,
+      9077,
+      6595
+     ],
+     "from": "Kazakhstan",
+     "anno": ""
+    },
+    {
+     "tier": "Notable",
+     "nation": "Midwest Republic",
+     "share": 1.337271267281455,
+     "counts": [
+      10526,
+      10175,
+      8350,
+      6065
      ],
      "from": "USA",
      "anno": ""
@@ -11707,12 +11811,12 @@
     {
      "tier": "Notable",
      "nation": "Manchuria",
-     "share": 1.232,
+     "share": 1.2140885786962068,
      "counts": [
-      9700,
-      9377,
-      7694,
-      5590
+      9559,
+      9241,
+      7582,
+      5509
      ],
      "from": "China",
      "anno": ""
@@ -11720,12 +11824,12 @@
     {
      "tier": "Notable",
      "nation": "Thailand",
-     "share": 1.051,
+     "share": 1.0357200456247673,
      "counts": [
-      8242,
-      7969,
-      6539,
-      4751
+      8122,
+      7853,
+      6444,
+      4682
      ],
      "from": "",
      "anno": ""
@@ -11733,12 +11837,12 @@
     {
      "tier": "Notable",
      "nation": "Colorado",
-     "share": 1.02,
+     "share": 1.0051707388556257,
      "counts": [
-      8031,
-      7765,
-      6371,
-      4629
+      7914,
+      7652,
+      6278,
+      4562
      ],
      "from": "USA",
      "anno": ""
@@ -11746,12 +11850,12 @@
     {
      "tier": "Notable",
      "nation": "Siberia",
-     "share": 0.731,
+     "share": 0.7203723628465317,
      "counts": [
-      5754,
-      5562,
-      4566,
-      3317
+      5670,
+      5481,
+      4500,
+      3269
      ],
      "from": "Russia",
      "anno": ""
@@ -11759,12 +11863,12 @@
     {
      "tier": "Notable",
      "nation": "Donska-Kubania",
-     "share": 0.701,
+     "share": 0.6908085175860722,
      "counts": [
-      5516,
-      5334,
-      4375,
-      3180
+      5436,
+      5256,
+      4311,
+      3134
      ],
      "from": "Russia",
      "anno": ""
@@ -11772,12 +11876,12 @@
     {
      "tier": "Notable",
      "nation": "Sonora",
-     "share": 0.599,
+     "share": 0.5902914437005096,
      "counts": [
-      4718,
-      4562,
-      3743,
-      2717
+      4649,
+      4496,
+      3689,
+      2677
      ],
      "from": "USA",
      "anno": ""
@@ -11785,12 +11889,12 @@
     {
      "tier": "Notable",
      "nation": "Künnarantaiga",
-     "share": 0.422,
+     "share": 0.4158647566637981,
      "counts": [
-      3323,
-      3214,
-      2637,
-      1915
+      3275,
+      3167,
+      2599,
+      1887
      ],
      "from": "Russia",
      "anno": ""
@@ -11798,12 +11902,12 @@
     {
      "tier": "Notable",
      "nation": "Mongolia",
-     "share": 0.403,
+     "share": 0.3971409879988404,
      "counts": [
-      3171,
-      3066,
-      2514,
-      1829
+      3125,
+      3021,
+      2477,
+      1802
      ],
      "from": "China",
      "anno": ""
@@ -11811,12 +11915,12 @@
     {
      "tier": "Notable",
      "nation": "East Turkestan",
-     "share": 0.34,
+     "share": 0.3350569129518753,
      "counts": [
-      2678,
-      2589,
-      2124,
-      1542
+      2639,
+      2551,
+      2093,
+      1520
      ],
      "from": "China",
      "anno": ""
@@ -11824,12 +11928,12 @@
     {
      "tier": "Notable",
      "nation": "Dagestan",
-     "share": 0.13,
+     "share": 0.1281099961286582,
      "counts": [
-      1022,
-      988,
-      811,
-      589
+      1007,
+      974,
+      799,
+      580
      ],
      "from": "Russia",
      "anno": ""
@@ -11837,12 +11941,12 @@
     {
      "tier": "Notable",
      "nation": "West Papua",
-     "share": 0.096,
+     "share": 0.09460430483347065,
      "counts": [
-      759,
-      732,
-      602,
-      438
+      748,
+      721,
+      593,
+      432
      ],
      "from": "Indonesia",
      "anno": ""
@@ -11850,12 +11954,12 @@
     {
      "tier": "Notable",
      "nation": "Aceh",
-     "share": 0.093,
+     "share": 0.0916479203074247,
      "counts": [
-      731,
-      709,
-      581,
-      423
+      720,
+      699,
+      573,
+      417
      ],
      "from": "Indonesia",
      "anno": ""
@@ -11863,12 +11967,12 @@
     {
      "tier": "Notable",
      "nation": "Hawaii",
-     "share": 0.088,
+     "share": 0.08672061276401477,
      "counts": [
-      693,
-      670,
-      549,
-      401
+      683,
+      660,
+      541,
+      395
      ],
      "from": "USA",
      "anno": ""
@@ -11876,12 +11980,12 @@
     {
      "tier": "Notable",
      "nation": "Chechnya",
-     "share": 0.062,
+     "share": 0.06109861353828313,
      "counts": [
-      485,
-      470,
-      387,
-      281
+      478,
+      463,
+      381,
+      277
      ],
      "from": "Russia",
      "anno": ""
@@ -11889,12 +11993,12 @@
     {
      "tier": "Notable",
      "nation": "Tibet",
-     "share": 0.048,
+     "share": 0.04730215241673533,
      "counts": [
-      378,
-      366,
-      300,
-      218
+      372,
+      361,
+      296,
+      215
      ],
      "from": "China",
      "anno": ""
@@ -11902,12 +12006,12 @@
     {
      "tier": "Notable",
      "nation": "Alaska",
-     "share": 0.041,
+     "share": 0.04040392185596143,
      "counts": [
-      323,
-      313,
-      257,
-      186
+      318,
+      308,
+      253,
+      183
      ],
      "from": "USA",
      "anno": ""
@@ -11915,12 +12019,12 @@
     {
      "tier": "Notable",
      "nation": "Kabardino-Balkaria",
-     "share": 0.037,
+     "share": 0.03646207582123348,
      "counts": [
-      290,
-      281,
-      230,
-      168
+      286,
+      277,
+      227,
+      166
      ],
      "from": "Russia",
      "anno": ""
@@ -11928,12 +12032,12 @@
     {
      "tier": "Notable",
      "nation": "Patani",
-     "share": 0.031,
+     "share": 0.030549306769141565,
      "counts": [
-      242,
-      234,
-      191,
-      139
+      238,
+      231,
+      188,
+      137
      ],
      "from": "Thailand",
      "anno": ""
@@ -11941,12 +12045,12 @@
     {
      "tier": "Notable",
      "nation": "North Ossetia-Alania",
-     "share": 0.028,
+     "share": 0.02759292224309561,
      "counts": [
-      221,
-      214,
-      175,
-      127
+      218,
+      211,
+      173,
+      125
      ],
      "from": "Russia",
      "anno": ""
@@ -11954,12 +12058,12 @@
     {
      "tier": "Notable",
      "nation": "Finland",
-     "share": 0.022,
+     "share": 0.021680153191003693,
      "counts": [
-      171,
-      165,
-      136,
-      99
+      168,
+      163,
+      134,
+      98
      ],
      "from": "Russia",
      "anno": ""
@@ -11967,12 +12071,12 @@
     {
      "tier": "Notable",
      "nation": "Ingushetia",
-     "share": 0.021,
+     "share": 0.020694691682321707,
      "counts": [
-      163,
-      158,
-      130,
-      95
+      161,
+      156,
+      128,
+      94
      ],
      "from": "Russia",
      "anno": ""
@@ -11980,12 +12084,12 @@
     {
      "tier": "Notable",
      "nation": "Karachay-Cherkessia",
-     "share": 0.019,
+     "share": 0.018723768664957733,
      "counts": [
-      152,
-      147,
-      120,
-      87
+      150,
+      145,
+      118,
+      86
      ],
      "from": "Russia",
      "anno": ""
@@ -11993,12 +12097,12 @@
     {
      "tier": "Notable",
      "nation": "Tuva",
-     "share": 0.014,
+     "share": 0.013796461121547804,
      "counts": [
-      109,
-      105,
-      86,
-      62
+      107,
+      103,
+      85,
+      61
      ],
      "from": "Russia",
      "anno": ""
@@ -12016,12 +12120,12 @@
     {
      "tier": "Primary",
      "nation": "Japan",
-     "share": 10.574,
+     "share": 10.42026999280332,
      "counts": [
-      65529,
-      62455,
-      38421,
-      48016
+      64576,
+      61547,
+      37862,
+      47318
      ],
      "from": "",
      "anno": ""
@@ -12029,12 +12133,12 @@
     {
      "tier": "Primary",
      "nation": "Sinian Federation",
-     "share": 9.859,
+     "share": 9.7156650140957,
      "counts": [
-      61100,
-      58231,
-      35822,
-      44768
+      60212,
+      57384,
+      35301,
+      44117
      ],
      "from": "China + Hong Kong + Macau",
      "anno": ""
@@ -12042,12 +12146,12 @@
     {
      "tier": "Primary",
      "nation": "United Kingdom",
-     "share": 9.499,
+     "share": 9.360898870970185,
      "counts": [
-      58875,
-      56110,
-      34517,
-      43136
+      58019,
+      55294,
+      34015,
+      42509
      ],
      "from": "UK",
      "anno": ""
@@ -12055,12 +12159,12 @@
     {
      "tier": "Primary",
      "nation": "Germany",
-     "share": 8.67,
+     "share": 8.543951280272818,
      "counts": [
-      53732,
-      51209,
-      31504,
-      39371
+      52951,
+      50465,
+      31046,
+      38799
      ],
      "from": "",
      "anno": ""
@@ -12068,12 +12172,12 @@
     {
      "tier": "Primary",
      "nation": "Korea",
-     "share": 8.475,
+     "share": 8.35178628607983,
      "counts": [
-      52527,
-      50060,
-      30797,
-      38485
+      51763,
+      49332,
+      30349,
+      37925
      ],
      "from": "South Korea + North Korea + Jeju-do",
      "anno": ""
@@ -12081,12 +12185,12 @@
     {
      "tier": "Significant",
      "nation": "Indonesia",
-     "share": 5.573,
+     "share": 5.4919769878847084,
      "counts": [
-      34534,
-      32916,
-      20250,
-      25307
+      34032,
+      32437,
+      19956,
+      24939
      ],
      "from": "",
      "anno": ""
@@ -12094,12 +12198,12 @@
     {
      "tier": "Significant",
      "nation": "Australia",
-     "share": 5.569,
+     "share": 5.48803514184998,
      "counts": [
-      34517,
-      32895,
-      20238,
-      25289
+      34015,
+      32417,
+      19944,
+      24921
      ],
      "from": "",
      "anno": "founding wave"
@@ -12107,12 +12211,12 @@
     {
      "tier": "Notable",
      "nation": "Thailand",
-     "share": 3.273,
+     "share": 3.22541551791614,
      "counts": [
-      20284,
-      19331,
-      11892,
-      14861
+      19989,
+      19050,
+      11719,
+      14645
      ],
      "from": "",
      "anno": ""
@@ -12120,12 +12224,12 @@
     {
      "tier": "Notable",
      "nation": "Vietnam",
-     "share": 3.148,
+     "share": 3.1022328293308923,
      "counts": [
-      19512,
-      18596,
-      11440,
-      14296
+      19228,
+      18326,
+      11274,
+      14088
      ],
      "from": "",
      "anno": ""
@@ -12133,12 +12237,12 @@
     {
      "tier": "Notable",
      "nation": "Philippines",
-     "share": 3.11,
+     "share": 3.0647852920009764,
      "counts": [
-      19275,
-      18370,
-      11302,
-      14123
+      18995,
+      18103,
+      11138,
+      13918
      ],
      "from": "",
      "anno": ""
@@ -12146,12 +12250,12 @@
     {
      "tier": "Notable",
      "nation": "Malaysia",
-     "share": 2.995,
+     "share": 2.951457218502548,
      "counts": [
-      18563,
-      17693,
-      10884,
-      13602
+      18293,
+      17436,
+      10726,
+      13404
      ],
      "from": "",
      "anno": ""
@@ -12159,12 +12263,12 @@
     {
      "tier": "Notable",
      "nation": "Taiwan",
-     "share": 2.905,
+     "share": 2.8627656827211694,
      "counts": [
-      18005,
-      17159,
-      10556,
-      13192
+      17743,
+      16910,
+      10403,
+      13000
      ],
      "from": "Taiwan",
      "anno": ""
@@ -12172,12 +12276,12 @@
     {
      "tier": "Notable",
      "nation": "Russia (core state)",
-     "share": 2.822,
+     "share": 2.7809723775005644,
      "counts": [
-      17486,
-      16665,
-      10252,
-      12814
+      17232,
+      16423,
+      10103,
+      12628
      ],
      "from": "Russia + Ukraine",
      "anno": ""
@@ -12185,12 +12289,12 @@
     {
      "tier": "Notable",
      "nation": "South Africa",
-     "share": 2.794,
+     "share": 2.753379455257469,
      "counts": [
-      17318,
-      16504,
-      10153,
-      12689
+      17066,
+      16264,
+      10005,
+      12504
      ],
      "from": "",
      "anno": ""
@@ -12198,12 +12302,12 @@
     {
      "tier": "Notable",
      "nation": "Romania",
-     "share": 2.55,
+     "share": 2.512926847139064,
      "counts": [
-      15803,
-      15061,
-      9265,
-      11577
+      15573,
+      14842,
+      9130,
+      11409
      ],
      "from": "",
      "anno": ""
@@ -12211,12 +12315,12 @@
     {
      "tier": "Notable",
      "nation": "Ukraine",
-     "share": 2.23,
+     "share": 2.1975791643608287,
      "counts": [
-      13821,
-      13171,
-      8104,
-      10126
+      13620,
+      12979,
+      7986,
+      9979
      ],
      "from": "",
      "anno": ""
@@ -12224,12 +12328,12 @@
     {
      "tier": "Notable",
      "nation": "New Zealand",
-     "share": 1.713,
+     "share": 1.6880955643722422,
      "counts": [
-      10615,
-      10117,
-      6224,
-      7779
+      10461,
+      9970,
+      6133,
+      7666
      ],
      "from": "",
      "anno": ""
@@ -12237,12 +12341,12 @@
     {
      "tier": "Notable",
      "nation": "Idelsk-Uralia",
-     "share": 1.693,
+     "share": 1.6683863341986023,
      "counts": [
-      10490,
-      9999,
-      6149,
-      7685
+      10338,
+      9854,
+      6060,
+      7573
      ],
      "from": "Russia",
      "anno": ""
@@ -12250,25 +12354,38 @@
     {
      "tier": "Notable",
      "nation": "Belarus",
-     "share": 1.56,
+     "share": 1.5373199535438982,
      "counts": [
-      9668,
-      9214,
-      5667,
-      7083
+      9528,
+      9080,
+      5585,
+      6980
      ],
      "from": "",
      "anno": ""
     },
     {
      "tier": "Notable",
-     "nation": "Bulgaria",
-     "share": 1.445,
+     "nation": "Kazakhstan",
+     "share": 1.4538491318013997,
      "counts": [
-      8955,
-      8535,
-      5251,
-      6563
+      9010,
+      8587,
+      5283,
+      6602
+     ],
+     "from": "Kazakhstan",
+     "anno": ""
+    },
+    {
+     "tier": "Notable",
+     "nation": "Bulgaria",
+     "share": 1.4239918800454698,
+     "counts": [
+      8825,
+      8411,
+      5175,
+      6468
      ],
      "from": "",
      "anno": ""
@@ -12276,12 +12393,12 @@
     {
      "tier": "Notable",
      "nation": "Austro-Bavaria",
-     "share": 1.412,
+     "share": 1.3914716502589641,
      "counts": [
-      8749,
-      8339,
-      5129,
-      6410
+      8622,
+      8218,
+      5054,
+      6317
      ],
      "from": "Germany",
      "anno": ""
@@ -12289,12 +12406,12 @@
     {
      "tier": "Notable",
      "nation": "Manchuria",
-     "share": 1.231,
+     "share": 1.2131031171875248,
      "counts": [
-      7629,
-      7271,
-      4473,
-      5589
+      7518,
+      7165,
+      4408,
+      5508
      ],
      "from": "China",
      "anno": ""
@@ -12302,12 +12419,12 @@
     {
      "tier": "Notable",
      "nation": "Lithuania",
-     "share": 1.196,
+     "share": 1.1786119643836552,
      "counts": [
-      7414,
-      7066,
-      4347,
-      5433
+      7306,
+      6963,
+      4284,
+      5354
      ],
      "from": "",
      "anno": ""
@@ -12315,12 +12432,12 @@
     {
      "tier": "Notable",
      "nation": "Estonia",
-     "share": 1.187,
+     "share": 1.1697428108055175,
      "counts": [
-      7354,
-      7010,
-      4312,
-      5389
+      7247,
+      6908,
+      4249,
+      5311
      ],
      "from": "",
      "anno": ""
@@ -12328,12 +12445,12 @@
     {
      "tier": "Notable",
      "nation": "Latvia",
-     "share": 0.9,
+     "share": 0.8869153578137874,
      "counts": [
-      5575,
-      5313,
-      3269,
-      4084
+      5494,
+      5236,
+      3221,
+      4025
      ],
      "from": "",
      "anno": ""
@@ -12341,12 +12458,12 @@
     {
      "tier": "Notable",
      "nation": "Siberia",
-     "share": 0.673,
+     "share": 0.6632155953429766,
      "counts": [
-      4169,
-      3973,
-      2445,
-      3056
+      4108,
+      3915,
+      2409,
+      3011
      ],
      "from": "Russia",
      "anno": ""
@@ -12354,12 +12471,12 @@
     {
      "tier": "Notable",
      "nation": "Donska-Kubania",
-     "share": 0.645,
+     "share": 0.635622673099881,
      "counts": [
-      3998,
-      3811,
-      2344,
-      2928
+      3940,
+      3756,
+      2310,
+      2885
      ],
      "from": "Russia",
      "anno": ""
@@ -12367,12 +12484,12 @@
     {
      "tier": "Notable",
      "nation": "Mongolia",
-     "share": 0.402,
+     "share": 0.3961555264901584,
      "counts": [
-      2493,
-      2378,
-      1463,
-      1827
+      2457,
+      2343,
+      1442,
+      1800
      ],
      "from": "China",
      "anno": ""
@@ -12380,12 +12497,12 @@
     {
      "tier": "Notable",
      "nation": "Künnarantaiga",
-     "share": 0.389,
+     "share": 0.3833445268772926,
      "counts": [
-      2409,
-      2295,
-      1413,
-      1765
+      2374,
+      2262,
+      1392,
+      1739
      ],
      "from": "Russia",
      "anno": ""
@@ -12393,12 +12510,12 @@
     {
      "tier": "Notable",
      "nation": "East Turkestan",
-     "share": 0.34,
+     "share": 0.3350569129518753,
      "counts": [
-      2107,
-      2008,
-      1236,
-      1543
+      2076,
+      1979,
+      1218,
+      1520
      ],
      "from": "China",
      "anno": ""
@@ -12406,12 +12523,12 @@
     {
      "tier": "Notable",
      "nation": "Hungary",
-     "share": 0.292,
+     "share": 0.2877547605351399,
      "counts": [
-      1812,
-      1727,
-      1063,
-      1329
+      1786,
+      1702,
+      1048,
+      1310
      ],
      "from": "Romania",
      "anno": ""
@@ -12419,12 +12536,12 @@
     {
      "tier": "Notable",
      "nation": "Northern Ireland",
-     "share": 0.23,
+     "share": 0.2266561469968568,
      "counts": [
-      1429,
-      1361,
-      837,
-      1047
+      1408,
+      1341,
+      825,
+      1032
      ],
      "from": "UK",
      "anno": ""
@@ -12432,12 +12549,12 @@
     {
      "tier": "Notable",
      "nation": "Dagestan",
-     "share": 0.12,
+     "share": 0.11825538104183832,
      "counts": [
-      740,
-      705,
-      434,
-      542
+      729,
+      695,
+      428,
+      534
      ],
      "from": "Russia",
      "anno": ""
@@ -12445,12 +12562,12 @@
     {
      "tier": "Notable",
      "nation": "West Papua",
-     "share": 0.101,
+     "share": 0.09953161237688059,
      "counts": [
-      623,
-      595,
-      367,
-      458
+      614,
+      586,
+      362,
+      451
      ],
      "from": "Indonesia",
      "anno": ""
@@ -12458,12 +12575,12 @@
     {
      "tier": "Notable",
      "nation": "Aceh",
-     "share": 0.097,
+     "share": 0.09558976634215265,
      "counts": [
-      604,
-      575,
-      355,
-      441
+      595,
+      567,
+      350,
+      435
      ],
      "from": "Indonesia",
      "anno": ""
@@ -12471,12 +12588,12 @@
     {
      "tier": "Notable",
      "nation": "Patani",
-     "share": 0.096,
+     "share": 0.09460430483347065,
      "counts": [
-      594,
-      565,
-      349,
-      433
+      585,
+      557,
+      344,
+      427
      ],
      "from": "Thailand",
      "anno": ""
@@ -12484,12 +12601,12 @@
     {
      "tier": "Notable",
      "nation": "Chechnya",
-     "share": 0.057,
+     "share": 0.0561713059948732,
      "counts": [
-      354,
-      336,
-      207,
-      258
+      349,
+      331,
+      204,
+      254
      ],
      "from": "Russia",
      "anno": ""
@@ -12497,12 +12614,12 @@
     {
      "tier": "Notable",
      "nation": "Tibet",
-     "share": 0.048,
+     "share": 0.04730215241673533,
      "counts": [
-      297,
-      283,
-      173,
-      218
+      293,
+      279,
+      170,
+      215
      ],
      "from": "China",
      "anno": ""
@@ -12510,12 +12627,12 @@
     {
      "tier": "Notable",
      "nation": "Kabardino-Balkaria",
-     "share": 0.034,
+     "share": 0.033505691295187524,
      "counts": [
-      211,
-      200,
-      124,
-      154
+      208,
+      197,
+      122,
+      152
      ],
      "from": "Russia",
      "anno": ""
@@ -12523,12 +12640,12 @@
     {
      "tier": "Notable",
      "nation": "North Ossetia-Alania",
-     "share": 0.026,
+     "share": 0.025621999225731634,
      "counts": [
-      160,
-      153,
-      94,
-      118
+      158,
+      151,
+      93,
+      116
      ],
      "from": "Russia",
      "anno": ""
@@ -12536,12 +12653,12 @@
     {
      "tier": "Notable",
      "nation": "Finland",
-     "share": 0.02,
+     "share": 0.019709230173639722,
      "counts": [
-      125,
-      119,
-      73,
-      91
+      123,
+      117,
+      72,
+      90
      ],
      "from": "Russia",
      "anno": ""
@@ -12549,12 +12666,12 @@
     {
      "tier": "Notable",
      "nation": "Ingushetia",
-     "share": 0.019,
+     "share": 0.018723768664957733,
      "counts": [
-      120,
-      114,
-      69,
-      87
+      118,
+      112,
+      68,
+      86
      ],
      "from": "Russia",
      "anno": ""
@@ -12562,12 +12679,12 @@
     {
      "tier": "Notable",
      "nation": "Karachay-Cherkessia",
-     "share": 0.018,
+     "share": 0.017738307156275748,
      "counts": [
-      110,
-      105,
-      64,
-      81
+      109,
+      103,
+      63,
+      80
      ],
      "from": "Russia",
      "anno": ""
@@ -12575,12 +12692,12 @@
     {
      "tier": "Notable",
      "nation": "Tuva",
-     "share": 0.013,
+     "share": 0.012810999612865817,
      "counts": [
-      79,
-      75,
-      46,
-      58
+      78,
+      74,
+      45,
+      57
      ],
      "from": "Russia",
      "anno": ""
@@ -12894,12 +13011,12 @@
     {
      "tier": "Primary",
      "nation": "United Kingdom",
-     "share": 13.931,
+     "share": 13.728464277448746,
      "counts": [
-      98994,
-      96539,
-      73606,
-      73003
+      97555,
+      95135,
+      72536,
+      71942
      ],
      "from": "UK",
      "anno": ""
@@ -12907,12 +13024,12 @@
     {
      "tier": "Primary",
      "nation": "Korea",
-     "share": 13.912,
+     "share": 13.70974050878379,
      "counts": [
-      98877,
-      96425,
-      73518,
-      72915
+      97439,
+      95023,
+      72449,
+      71855
      ],
      "from": "South Korea + North Korea + Jeju-do",
      "anno": ""
@@ -12920,12 +13037,12 @@
     {
      "tier": "Primary",
      "nation": "Indonesia",
-     "share": 12.205,
+     "share": 12.02755771346364,
      "counts": [
-      86705,
-      84557,
-      64468,
-      63940
+      85444,
+      83328,
+      63531,
+      63010
      ],
      "from": "",
      "anno": ""
@@ -12933,12 +13050,12 @@
     {
      "tier": "Primary",
      "nation": "Sinian Federation",
-     "share": 12.179,
+     "share": 12.001935714237908,
      "counts": [
-      86551,
-      84407,
-      64355,
-      63827
+      85293,
+      83180,
+      63419,
+      62899
      ],
      "from": "China + Hong Kong + Macau",
      "anno": ""
@@ -12946,12 +13063,12 @@
     {
      "tier": "Significant",
      "nation": "Japan",
-     "share": 7.588,
+     "share": 7.47768192787891,
      "counts": [
-      53917,
-      52582,
-      40091,
-      39762
+      53133,
+      51817,
+      39508,
+      39184
      ],
      "from": "",
      "anno": ""
@@ -12959,12 +13076,12 @@
     {
      "tier": "Significant",
      "nation": "Australia",
-     "share": 6.765,
+     "share": 6.666647106233635,
      "counts": [
-      48081,
-      46890,
-      35753,
-      35458
+      47382,
+      46208,
+      35233,
+      34943
      ],
      "from": "",
      "anno": ""
@@ -12972,12 +13089,12 @@
     {
      "tier": "Significant",
      "nation": "Philippines",
-     "share": 4.306,
+     "share": 4.243397256384632,
      "counts": [
-      30622,
-      29865,
-      22770,
-      22584
+      30177,
+      29431,
+      22439,
+      22256
      ],
      "from": "",
      "anno": ""
@@ -12985,12 +13102,12 @@
     {
      "tier": "Significant",
      "nation": "New Zealand",
-     "share": 4.287,
+     "share": 4.224673487719674,
      "counts": [
-      30462,
-      29707,
-      22649,
-      22463
+      30019,
+      29275,
+      22320,
+      22136
      ],
      "from": "",
      "anno": ""
@@ -12998,12 +13115,12 @@
     {
      "tier": "Significant",
      "nation": "Malaysia",
-     "share": 3.493,
+     "share": 3.442217049826177,
      "counts": [
-      24793,
-      24180,
-      18434,
-      18284
+      24432,
+      23828,
+      18166,
+      18018
      ],
      "from": "",
      "anno": ""
@@ -13011,12 +13128,12 @@
     {
      "tier": "Significant",
      "nation": "Thailand",
-     "share": 3.44,
+     "share": 3.3899875898660317,
      "counts": [
-      24412,
-      23809,
-      18154,
-      18003
+      24057,
+      23463,
+      17890,
+      17741
      ],
      "from": "",
      "anno": ""
@@ -13024,12 +13141,12 @@
     {
      "tier": "Significant",
      "nation": "Taiwan",
-     "share": 2.905,
+     "share": 2.8627656827211694,
      "counts": [
-      20644,
-      20132,
-      15349,
-      15223
+      20344,
+      19839,
+      15126,
+      15002
      ],
      "from": "Taiwan",
      "anno": ""
@@ -13037,12 +13154,12 @@
     {
      "tier": "Significant",
      "nation": "Idelsk-Uralia",
-     "share": 2.167,
+     "share": 2.1354950893138636,
      "counts": [
-      15406,
-      15024,
-      11455,
-      11362
+      15182,
+      14806,
+      11288,
+      11197
      ],
      "from": "Russia",
      "anno": "founding wave"
@@ -13050,12 +13167,12 @@
     {
      "tier": "Significant",
      "nation": "Russia (core state)",
-     "share": 2.167,
+     "share": 2.1354950893138636,
      "counts": [
-      15405,
-      15024,
-      11455,
-      11363
+      15181,
+      14806,
+      11288,
+      11198
      ],
      "from": "Russia",
      "anno": ""
@@ -13063,12 +13180,12 @@
     {
      "tier": "Significant",
      "nation": "Vietnam",
-     "share": 1.675,
+     "share": 1.6506480270423267,
      "counts": [
-      11896,
-      11602,
-      8846,
-      8775
+      11723,
+      11433,
+      8717,
+      8647
      ],
      "from": "",
      "anno": ""
@@ -13076,12 +13193,12 @@
     {
      "tier": "Significant",
      "nation": "Manchuria",
-     "share": 1.567,
+     "share": 1.544218184104672,
      "counts": [
-      11138,
-      10861,
-      8281,
-      8212
+      10976,
+      10703,
+      8161,
+      8093
      ],
      "from": "China",
      "anno": ""
@@ -13089,12 +13206,12 @@
     {
      "tier": "Significant",
      "nation": "Belarus",
-     "share": 1.512,
+     "share": 1.4900178011271628,
      "counts": [
-      10751,
-      10483,
-      7993,
-      7929
+      10595,
+      10331,
+      7877,
+      7814
      ],
      "from": "",
      "anno": ""
@@ -13102,25 +13219,38 @@
     {
      "tier": "Significant",
      "nation": "South Africa",
-     "share": 1.493,
+     "share": 1.4712940324622052,
      "counts": [
-      10587,
-      10324,
-      7873,
-      7808
+      10433,
+      10174,
+      7759,
+      7695
      ],
      "from": "",
      "anno": ""
     },
     {
+     "tier": "Significant",
+     "nation": "Kazakhstan",
+     "share": 1.4538491318013997,
+     "counts": [
+      10331,
+      10075,
+      7681,
+      7618
+     ],
+     "from": "Kazakhstan",
+     "anno": ""
+    },
+    {
      "tier": "Notable",
      "nation": "Siberia",
-     "share": 0.861,
+     "share": 0.84848235897519,
      "counts": [
-      6123,
-      5973,
-      4555,
-      4517
+      6034,
+      5886,
+      4489,
+      4451
      ],
      "from": "Russia",
      "anno": ""
@@ -13128,12 +13258,12 @@
     {
      "tier": "Notable",
      "nation": "Donska-Kubania",
-     "share": 0.826,
+     "share": 0.8139912061713204,
      "counts": [
-      5872,
-      5726,
-      4367,
-      4331
+      5787,
+      5643,
+      4304,
+      4268
      ],
      "from": "Russia",
      "anno": ""
@@ -13141,12 +13271,12 @@
     {
      "tier": "Notable",
      "nation": "Künnarantaiga",
-     "share": 0.498,
+     "share": 0.49075983132362905,
      "counts": [
-      3538,
-      3451,
-      2630,
-      2610
+      3487,
+      3401,
+      2592,
+      2572
      ],
      "from": "Russia",
      "anno": ""
@@ -13154,12 +13284,12 @@
     {
      "tier": "Notable",
      "nation": "Mongolia",
-     "share": 0.487,
+     "share": 0.4799197547281272,
      "counts": [
-      3460,
-      3373,
-      2574,
-      2552
+      3410,
+      3324,
+      2537,
+      2515
      ],
      "from": "China",
      "anno": ""
@@ -13167,12 +13297,12 @@
     {
      "tier": "Notable",
      "nation": "East Turkestan",
-     "share": 0.433,
+     "share": 0.4267048332592999,
      "counts": [
-      3074,
-      2998,
-      2287,
-      2268
+      3029,
+      2954,
+      2254,
+      2235
      ],
      "from": "China",
      "anno": ""
@@ -13180,12 +13310,12 @@
     {
      "tier": "Notable",
      "nation": "Northern Ireland",
-     "share": 0.329,
+     "share": 0.32421683635637344,
      "counts": [
-      2339,
-      2280,
-      1738,
-      1723
+      2305,
+      2247,
+      1713,
+      1698
      ],
      "from": "UK",
      "anno": ""
@@ -13193,12 +13323,12 @@
     {
      "tier": "Notable",
      "nation": "West Papua",
-     "share": 0.215,
+     "share": 0.21187422436662698,
      "counts": [
-      1526,
-      1489,
-      1135,
-      1126
+      1504,
+      1467,
+      1119,
+      1110
      ],
      "from": "Indonesia",
      "anno": ""
@@ -13206,12 +13336,12 @@
     {
      "tier": "Notable",
      "nation": "Aceh",
-     "share": 0.207,
+     "share": 0.2039905322971711,
      "counts": [
-      1475,
-      1438,
-      1096,
-      1087
+      1454,
+      1417,
+      1080,
+      1071
      ],
      "from": "Indonesia",
      "anno": ""
@@ -13219,12 +13349,12 @@
     {
      "tier": "Notable",
      "nation": "Dagestan",
-     "share": 0.153,
+     "share": 0.15077561082834387,
      "counts": [
-      1088,
-      1061,
-      808,
-      802
+      1072,
+      1046,
+      796,
+      790
      ],
      "from": "Russia",
      "anno": ""
@@ -13232,12 +13362,12 @@
     {
      "tier": "Notable",
      "nation": "Patani",
-     "share": 0.101,
+     "share": 0.09953161237688059,
      "counts": [
-      713,
-      696,
-      528,
-      525
+      703,
+      686,
+      520,
+      517
      ],
      "from": "Thailand",
      "anno": ""
@@ -13245,12 +13375,12 @@
     {
      "tier": "Notable",
      "nation": "Chechnya",
-     "share": 0.073,
+     "share": 0.07193869013378497,
      "counts": [
-      516,
-      503,
-      386,
-      383
+      508,
+      496,
+      380,
+      377
      ],
      "from": "Russia",
      "anno": ""
@@ -13258,12 +13388,12 @@
     {
      "tier": "Notable",
      "nation": "Tibet",
-     "share": 0.061,
+     "share": 0.060113152029601144,
      "counts": [
-      435,
-      424,
-      323,
-      320
+      429,
+      418,
+      318,
+      315
      ],
      "from": "China",
      "anno": ""
@@ -13271,12 +13401,12 @@
     {
      "tier": "Notable",
      "nation": "Kabardino-Balkaria",
-     "share": 0.043,
+     "share": 0.04237484487332539,
      "counts": [
-      310,
-      301,
-      230,
-      228
+      305,
+      297,
+      227,
+      225
      ],
      "from": "Russia",
      "anno": ""
@@ -13284,12 +13414,12 @@
     {
      "tier": "Notable",
      "nation": "North Ossetia-Alania",
-     "share": 0.033,
+     "share": 0.03252022978650554,
      "counts": [
-      235,
-      229,
-      175,
-      174
+      232,
+      226,
+      172,
+      172
      ],
      "from": "Russia",
      "anno": ""
@@ -13297,12 +13427,12 @@
     {
      "tier": "Notable",
      "nation": "Finland",
-     "share": 0.026,
+     "share": 0.025621999225731634,
      "counts": [
-      182,
-      178,
-      136,
-      134
+      179,
+      175,
+      134,
+      132
      ],
      "from": "Russia",
      "anno": ""
@@ -13310,12 +13440,12 @@
     {
      "tier": "Notable",
      "nation": "Ingushetia",
-     "share": 0.025,
+     "share": 0.024636537717049652,
      "counts": [
-      174,
       171,
-      129,
-      128
+      168,
+      127,
+      126
      ],
      "from": "Russia",
      "anno": ""
@@ -13323,12 +13453,12 @@
     {
      "tier": "Notable",
      "nation": "Karachay-Cherkessia",
-     "share": 0.023,
+     "share": 0.022665614699685678,
      "counts": [
-      161,
-      156,
-      119,
-      119
+      159,
+      154,
+      117,
+      117
      ],
      "from": "Russia",
      "anno": ""
@@ -13336,12 +13466,12 @@
     {
      "tier": "Notable",
      "nation": "Tuva",
-     "share": 0.016,
+     "share": 0.015767384138911777,
      "counts": [
-      116,
-      113,
-      86,
-      84
+      114,
+      111,
+      85,
+      83
      ],
      "from": "Russia",
      "anno": ""
@@ -13359,12 +13489,12 @@
     {
      "tier": "Primary",
      "nation": "Japan",
-     "share": 13.045,
+     "share": 12.855345380756507,
      "counts": [
-      66252,
-      64212,
-      47554,
-      45598
+      65289,
+      63279,
+      46863,
+      44935
      ],
      "from": "",
      "anno": ""
@@ -13372,12 +13502,12 @@
     {
      "tier": "Primary",
      "nation": "Indonesia",
-     "share": 12.782,
+     "share": 12.596169003973145,
      "counts": [
-      64910,
-      62912,
-      46593,
-      44673
+      63966,
+      61997,
+      45915,
+      44023
      ],
      "from": "",
      "anno": "founding wave"
@@ -13385,12 +13515,12 @@
     {
      "tier": "Primary",
      "nation": "Korea",
-     "share": 12.609,
+     "share": 12.425684162971162,
      "counts": [
-      64033,
-      62061,
-      45959,
-      44069
+      63102,
+      61159,
+      45291,
+      43428
      ],
      "from": "South Korea + North Korea + Jeju-do",
      "anno": ""
@@ -13398,12 +13528,12 @@
     {
      "tier": "Primary",
      "nation": "Sinian Federation",
-     "share": 12.026,
+     "share": 11.851160103409564,
      "counts": [
-      61073,
-      59191,
-      43837,
-      42033
+      60185,
+      58330,
+      43200,
+      41422
      ],
      "from": "China + Hong Kong + Macau",
      "anno": ""
@@ -13411,12 +13541,12 @@
     {
      "tier": "Primary",
      "nation": "Australia",
-     "share": 12.011,
+     "share": 11.836378180779333,
      "counts": [
-      61000,
-      59120,
-      43784,
-      41980
+      60113,
+      58261,
+      43147,
+      41370
      ],
      "from": "",
      "anno": ""
@@ -13424,12 +13554,12 @@
     {
      "tier": "Significant",
      "nation": "Thailand",
-     "share": 5.449,
+     "share": 5.369779760808141,
      "counts": [
-      27673,
-      26821,
-      19864,
-      19044
+      27271,
+      26431,
+      19575,
+      18767
      ],
      "from": "",
      "anno": ""
@@ -13437,12 +13567,12 @@
     {
      "tier": "Significant",
      "nation": "Vietnam",
-     "share": 5.183,
+     "share": 5.1076469994987335,
      "counts": [
-      26326,
-      25513,
-      18893,
-      18116
+      25943,
+      25142,
+      18618,
+      17853
      ],
      "from": "",
      "anno": ""
@@ -13450,12 +13580,12 @@
     {
      "tier": "Significant",
      "nation": "Idelsk-Uralia",
-     "share": 3.781,
+     "share": 3.7260299643265893,
      "counts": [
-      19202,
-      18613,
-      13784,
-      13216
+      18923,
+      18342,
+      13584,
+      13024
      ],
      "from": "Russia",
      "anno": ""
@@ -13463,12 +13593,12 @@
     {
      "tier": "Significant",
      "nation": "Russia (core state)",
-     "share": 3.781,
+     "share": 3.7260299643265893,
      "counts": [
-      19201,
-      18611,
-      13783,
-      13215
+      18922,
+      18340,
+      13583,
+      13023
      ],
      "from": "Russia",
      "anno": ""
@@ -13476,12 +13606,12 @@
     {
      "tier": "Significant",
      "nation": "Malaysia",
-     "share": 3.158,
+     "share": 3.112087444417712,
      "counts": [
-      16039,
-      15545,
-      11511,
-      11038
+      15806,
+      15319,
+      11344,
+      10877
      ],
      "from": "",
      "anno": "founding wave"
@@ -13489,12 +13619,12 @@
     {
      "tier": "Significant",
      "nation": "Philippines",
-     "share": 3.043,
+     "share": 2.9987593709192835,
      "counts": [
-      15455,
-      14978,
-      11093,
-      10637
+      15230,
+      14760,
+      10932,
+      10482
      ],
      "from": "",
      "anno": ""
@@ -13502,12 +13632,12 @@
     {
      "tier": "Significant",
      "nation": "Taiwan",
-     "share": 2.905,
+     "share": 2.8627656827211694,
      "counts": [
-      14753,
-      14300,
-      10589,
-      10154
+      14538,
+      14092,
+      10435,
+      10006
      ],
      "from": "Taiwan",
      "anno": ""
@@ -13515,12 +13645,12 @@
     {
      "tier": "Significant",
      "nation": "New Zealand",
-     "share": 2.842,
+     "share": 2.8006816076742043,
      "counts": [
-      14434,
-      13990,
-      10361,
-      9933
+      14224,
+      13787,
+      10210,
+      9789
      ],
      "from": "",
      "anno": "via the Hobart gateway"
@@ -13528,25 +13658,38 @@
     {
      "tier": "Notable",
      "nation": "Siberia",
-     "share": 1.503,
+     "share": 1.4811486475490248,
      "counts": [
-      7633,
-      7398,
-      5480,
-      5254
+      7522,
+      7290,
+      5400,
+      5178
      ],
      "from": "Russia",
      "anno": ""
     },
     {
      "tier": "Notable",
-     "nation": "Donska-Kubania",
-     "share": 1.441,
+     "nation": "Kazakhstan",
+     "share": 1.4538491318013997,
      "counts": [
-      7318,
-      7092,
-      5253,
-      5037
+      7383,
+      7156,
+      5300,
+      5082
+     ],
+     "from": "Kazakhstan",
+     "anno": ""
+    },
+    {
+     "tier": "Notable",
+     "nation": "Donska-Kubania",
+     "share": 1.4200500340107418,
+     "counts": [
+      7212,
+      6989,
+      5177,
+      4964
      ],
      "from": "Russia",
      "anno": ""
@@ -13554,12 +13697,12 @@
     {
      "tier": "Notable",
      "nation": "Manchuria",
-     "share": 1.395,
+     "share": 1.3747188046113705,
      "counts": [
-      7086,
-      6867,
-      5085,
-      4876
+      6983,
+      6767,
+      5011,
+      4805
      ],
      "from": "China",
      "anno": ""
@@ -13567,12 +13710,12 @@
     {
      "tier": "Notable",
      "nation": "Künnarantaiga",
-     "share": 0.868,
+     "share": 0.8553805895359639,
      "counts": [
-      4409,
-      4275,
-      3166,
-      3035
+      4345,
+      4213,
+      3120,
+      2991
      ],
      "from": "Russia",
      "anno": ""
@@ -13580,12 +13723,12 @@
     {
      "tier": "Notable",
      "nation": "Mongolia",
-     "share": 0.444,
+     "share": 0.43754490985480177,
      "counts": [
-      2253,
-      2183,
-      1619,
-      1551
+      2220,
+      2151,
+      1595,
+      1528
      ],
      "from": "China",
      "anno": ""
@@ -13593,12 +13736,12 @@
     {
      "tier": "Notable",
      "nation": "East Turkestan",
-     "share": 0.385,
+     "share": 0.3794026808425646,
      "counts": [
-      1955,
-      1894,
-      1404,
-      1346
+      1927,
+      1867,
+      1383,
+      1326
      ],
      "from": "China",
      "anno": ""
@@ -13606,12 +13749,12 @@
     {
      "tier": "Notable",
      "nation": "Dagestan",
-     "share": 0.267,
+     "share": 0.2631182228180903,
      "counts": [
-      1356,
-      1315,
-      974,
-      934
+      1336,
+      1296,
+      960,
+      920
      ],
      "from": "Russia",
      "anno": ""
@@ -13619,12 +13762,12 @@
     {
      "tier": "Notable",
      "nation": "West Papua",
-     "share": 0.24,
+     "share": 0.23651076208367663,
      "counts": [
-      1218,
-      1179,
-      872,
-      836
+      1200,
+      1162,
+      859,
+      824
      ],
      "from": "Indonesia",
      "anno": ""
@@ -13632,12 +13775,12 @@
     {
      "tier": "Notable",
      "nation": "Aceh",
-     "share": 0.231,
+     "share": 0.22764160850553877,
      "counts": [
-      1175,
-      1141,
-      842,
-      809
+      1158,
+      1124,
+      830,
+      797
      ],
      "from": "Indonesia",
      "anno": ""
@@ -13645,12 +13788,12 @@
     {
      "tier": "Notable",
      "nation": "Patani",
-     "share": 0.14,
+     "share": 0.13796461121547807,
      "counts": [
-      711,
-      689,
-      509,
-      491
+      701,
+      679,
+      502,
+      484
      ],
      "from": "Thailand",
      "anno": ""
@@ -13658,12 +13801,12 @@
     {
      "tier": "Notable",
      "nation": "Chechnya",
-     "share": 0.127,
+     "share": 0.12515361160261224,
      "counts": [
-      644,
-      623,
-      463,
-      444
+      635,
+      614,
+      456,
+      438
      ],
      "from": "Russia",
      "anno": ""
@@ -13671,12 +13814,12 @@
     {
      "tier": "Notable",
      "nation": "Kabardino-Balkaria",
-     "share": 0.076,
+     "share": 0.07489507465983093,
      "counts": [
-      387,
-      374,
-      278,
-      265
+      381,
+      369,
+      274,
+      261
      ],
      "from": "Russia",
      "anno": ""
@@ -13684,12 +13827,12 @@
     {
      "tier": "Notable",
      "nation": "North Ossetia-Alania",
-     "share": 0.058,
+     "share": 0.057156767503555195,
      "counts": [
-      293,
-      285,
-      211,
-      202
+      289,
+      281,
+      208,
+      199
      ],
      "from": "Russia",
      "anno": ""
@@ -13697,12 +13840,12 @@
     {
      "tier": "Notable",
      "nation": "Tibet",
-     "share": 0.054,
+     "share": 0.053214921468827246,
      "counts": [
-      277,
-      268,
-      197,
-      190
+      273,
+      264,
+      194,
+      187
      ],
      "from": "China",
      "anno": ""
@@ -13710,12 +13853,12 @@
     {
      "tier": "Notable",
      "nation": "Finland",
-     "share": 0.045,
+     "share": 0.04434576789068937,
      "counts": [
-      227,
-      221,
-      163,
-      156
+      224,
+      218,
+      161,
+      154
      ],
      "from": "Russia",
      "anno": ""
@@ -13723,12 +13866,12 @@
     {
      "tier": "Notable",
      "nation": "Ingushetia",
-     "share": 0.043,
+     "share": 0.04237484487332539,
      "counts": [
-      218,
-      210,
-      156,
-      151
+      215,
+      207,
+      154,
+      149
      ],
      "from": "Russia",
      "anno": ""
@@ -13736,12 +13879,12 @@
     {
      "tier": "Notable",
      "nation": "Karachay-Cherkessia",
-     "share": 0.039,
+     "share": 0.03843299883859745,
      "counts": [
-      200,
-      194,
-      144,
-      139
+      197,
+      191,
+      142,
+      137
      ],
      "from": "Russia",
      "anno": ""
@@ -13749,12 +13892,12 @@
     {
      "tier": "Notable",
      "nation": "Tuva",
-     "share": 0.028,
+     "share": 0.02759292224309561,
      "counts": [
-      145,
-      140,
-      103,
-      99
+      143,
+      138,
+      101,
+      98
      ],
      "from": "Russia",
      "anno": ""
@@ -13772,12 +13915,12 @@
     {
      "tier": "Primary",
      "nation": "Japan",
-     "share": 34.709,
+     "share": 34.20438350484306,
      "counts": [
-      196699,
-      189472,
-      129184,
-      110792
+      193839,
+      186718,
+      127306,
+      109181
      ],
      "from": "",
      "anno": "founding population — Jeju-do diplomatic allocation"
@@ -13785,12 +13928,12 @@
     {
      "tier": "Significant",
      "nation": "Australia",
-     "share": 9.694,
+     "share": 9.553063865163173,
      "counts": [
-      54937,
-      52920,
-      36084,
-      30946
+      54138,
+      52151,
+      35559,
+      30496
      ],
      "from": "",
      "anno": ""
@@ -13798,25 +13941,25 @@
     {
      "tier": "Significant",
      "nation": "Korea",
-     "share": 9.133000000000001,
+     "share": 9.000219958792579,
      "counts": [
-      51755,
-      49853,
-      33994,
-      29153
+      51003,
+      49128,
+      33500,
+      28729
      ],
      "from": "South Korea + North Korea + Jeju-do",
      "anno": ""
     },
     {
-     "tier": "Significant",
+     "tier": "Notable",
      "nation": "Sinian Federation",
-     "share": 4.556,
+     "share": 4.489762633555128,
      "counts": [
-      25820,
-      24871,
-      16958,
-      14542
+      25445,
+      24509,
+      16711,
+      14331
      ],
      "from": "China + Hong Kong + Macau",
      "anno": ""
@@ -13824,12 +13967,12 @@
     {
      "tier": "Notable",
      "nation": "Germany",
-     "share": 3.957,
+     "share": 3.8994711898546184,
      "counts": [
-      22426,
-      21602,
-      14736,
-      12637
+      22100,
+      21288,
+      14522,
+      12453
      ],
      "from": "",
      "anno": ""
@@ -13837,12 +13980,12 @@
     {
      "tier": "Notable",
      "nation": "Russia (core state)",
-     "share": 3.584,
+     "share": 3.531894047116238,
      "counts": [
-      20311,
-      19564,
-      13336,
-      11438
+      20016,
+      19280,
+      13142,
+      11272
      ],
      "from": "Russia + Ukraine",
      "anno": ""
@@ -13850,12 +13993,12 @@
     {
      "tier": "Notable",
      "nation": "Romania",
-     "share": 3.039,
+     "share": 2.9948175248845557,
      "counts": [
-      17222,
-      16591,
-      11301,
-      9693
+      16972,
+      16350,
+      11137,
+      9552
      ],
      "from": "",
      "anno": ""
@@ -13863,12 +14006,12 @@
     {
      "tier": "Notable",
      "nation": "Vietnam",
-     "share": 3.024,
+     "share": 2.9800356022543255,
      "counts": [
-      17137,
-      16509,
-      11247,
-      9646
+      16888,
+      16269,
+      11084,
+      9506
      ],
      "from": "",
      "anno": ""
@@ -13876,12 +14019,12 @@
     {
      "tier": "Notable",
      "nation": "Taiwan",
-     "share": 2.905,
+     "share": 2.8627656827211694,
      "counts": [
-      16464,
-      15858,
-      10812,
-      9272
+      16225,
+      15627,
+      10655,
+      9137
      ],
      "from": "Taiwan",
      "anno": ""
@@ -13889,12 +14032,12 @@
     {
      "tier": "Notable",
      "nation": "Belarus",
-     "share": 2.871,
+     "share": 2.8292599914259817,
      "counts": [
-      16269,
-      15673,
-      10702,
-      9178
+      16032,
+      15445,
+      10546,
+      9045
      ],
      "from": "",
      "anno": ""
@@ -13902,12 +14045,12 @@
     {
      "tier": "Notable",
      "nation": "New Zealand",
-     "share": 2.842,
+     "share": 2.8006816076742043,
      "counts": [
-      16107,
-      15515,
-      10575,
-      9069
+      15873,
+      15289,
+      10421,
+      8937
      ],
      "from": "",
      "anno": ""
@@ -13915,12 +14058,12 @@
     {
      "tier": "Notable",
      "nation": "Thailand",
-     "share": 2.78,
+     "share": 2.739582994135921,
      "counts": [
-      15754,
-      15175,
-      10340,
-      8867
+      15525,
+      14954,
+      10190,
+      8738
      ],
      "from": "",
      "anno": ""
@@ -13928,12 +14071,12 @@
     {
      "tier": "Notable",
      "nation": "Idelsk-Uralia",
-     "share": 2.584,
+     "share": 2.546432538434252,
      "counts": [
-      14644,
-      14106,
-      9618,
-      8248
+      14431,
+      13901,
+      9478,
+      8128
      ],
      "from": "Russia",
      "anno": ""
@@ -13941,12 +14084,12 @@
     {
      "tier": "Notable",
      "nation": "Ukraine",
-     "share": 1.976,
+     "share": 1.9472719411556043,
      "counts": [
-      11197,
-      10785,
-      7343,
-      6298
+      11034,
+      10628,
+      7236,
+      6206
      ],
      "from": "",
      "anno": ""
@@ -13954,12 +14097,12 @@
     {
      "tier": "Notable",
      "nation": "Lithuania",
-     "share": 1.684,
+     "share": 1.6595171806204643,
      "counts": [
-      9544,
-      9194,
-      6259,
-      5368
+      9405,
+      9060,
+      6168,
+      5290
      ],
      "from": "",
      "anno": ""
@@ -13967,12 +14110,12 @@
     {
      "tier": "Notable",
      "nation": "South Africa",
-     "share": 1.589,
+     "share": 1.5658983372956758,
      "counts": [
-      9004,
-      8671,
-      5897,
-      5058
+      8873,
+      8545,
+      5811,
+      4984
      ],
      "from": "",
      "anno": ""
@@ -13980,25 +14123,38 @@
     {
      "tier": "Notable",
      "nation": "Bulgaria",
-     "share": 1.531,
+     "share": 1.5087415697921205,
      "counts": [
-      8677,
-      8360,
-      5714,
-      4900
+      8551,
+      8238,
+      5631,
+      4829
      ],
      "from": "",
      "anno": ""
     },
     {
      "tier": "Notable",
-     "nation": "Latvia",
-     "share": 1.292,
+     "nation": "Kazakhstan",
+     "share": 1.4538491318013997,
      "counts": [
-      7320,
-      7053,
-      4801,
-      4117
+      8239,
+      7936,
+      5411,
+      4641
+     ],
+     "from": "Kazakhstan",
+     "anno": ""
+    },
+    {
+     "tier": "Notable",
+     "nation": "Latvia",
+     "share": 1.273216269217126,
+     "counts": [
+      7214,
+      6950,
+      4731,
+      4057
      ],
      "from": "",
      "anno": ""
@@ -14006,12 +14162,12 @@
     {
      "tier": "Notable",
      "nation": "Estonia",
-     "share": 1.167,
+     "share": 1.1500335806318778,
      "counts": [
-      6617,
-      6374,
-      4363,
-      3740
+      6521,
+      6281,
+      4300,
+      3686
      ],
      "from": "",
      "anno": ""
@@ -14019,12 +14175,12 @@
     {
      "tier": "Notable",
      "nation": "Siberia",
-     "share": 1.027,
+     "share": 1.0120689694163996,
      "counts": [
-      5820,
-      5607,
-      3823,
-      3279
+      5735,
+      5526,
+      3767,
+      3231
      ],
      "from": "Russia",
      "anno": ""
@@ -14032,12 +14188,12 @@
     {
      "tier": "Notable",
      "nation": "Donska-Kubania",
-     "share": 0.985,
+     "share": 0.9706795860517562,
      "counts": [
-      5581,
-      5376,
-      3665,
-      3144
+      5500,
+      5298,
+      3612,
+      3098
      ],
      "from": "Russia",
      "anno": ""
@@ -14045,12 +14201,12 @@
     {
      "tier": "Notable",
      "nation": "Austro-Bavaria",
-     "share": 0.761,
+     "share": 0.7499362081069914,
      "counts": [
-      4311,
-      4152,
-      2832,
-      2429
+      4248,
+      4092,
+      2791,
+      2394
      ],
      "from": "Germany",
      "anno": ""
@@ -14058,12 +14214,12 @@
     {
      "tier": "Notable",
      "nation": "Künnarantaiga",
-     "share": 0.593,
+     "share": 0.5843786746484176,
      "counts": [
-      3363,
-      3240,
-      2208,
-      1893
+      3314,
+      3193,
+      2176,
+      1865
      ],
      "from": "Russia",
      "anno": ""
@@ -14071,12 +14227,12 @@
     {
      "tier": "Notable",
      "nation": "Manchuria",
-     "share": 0.464,
+     "share": 0.45725414002844156,
      "counts": [
-      2631,
-      2535,
-      1727,
-      1482
+      2593,
+      2498,
+      1702,
+      1460
      ],
      "from": "China",
      "anno": ""
@@ -14084,12 +14240,12 @@
     {
      "tier": "Notable",
      "nation": "Hungary",
-     "share": 0.349,
+     "share": 0.3439260665300131,
      "counts": [
-      1975,
-      1902,
-      1296,
-      1112
+      1946,
+      1874,
+      1277,
+      1096
      ],
      "from": "Romania",
      "anno": ""
@@ -14097,12 +14253,12 @@
     {
      "tier": "Notable",
      "nation": "Mongolia",
-     "share": 0.21,
+     "share": 0.20694691682321706,
      "counts": [
-      1189,
-      1143,
-      781,
-      671
+      1172,
+      1126,
+      770,
+      661
      ],
      "from": "China",
      "anno": ""
@@ -14110,12 +14266,12 @@
     {
      "tier": "Notable",
      "nation": "Dagestan",
-     "share": 0.182,
+     "share": 0.17935399458012144,
      "counts": [
-      1034,
-      996,
-      679,
-      582
+      1019,
+      982,
+      669,
+      574
      ],
      "from": "Russia",
      "anno": ""
@@ -14123,12 +14279,12 @@
     {
      "tier": "Notable",
      "nation": "East Turkestan",
-     "share": 0.128,
+     "share": 0.12613907311129421,
      "counts": [
-      725,
-      699,
-      477,
-      410
+      714,
+      689,
+      470,
+      404
      ],
      "from": "China",
      "anno": ""
@@ -14136,12 +14292,12 @@
     {
      "tier": "Notable",
      "nation": "Chechnya",
-     "share": 0.087,
+     "share": 0.08573515125533278,
      "counts": [
-      493,
-      474,
-      324,
-      277
+      486,
+      467,
+      319,
+      273
      ],
      "from": "Russia",
      "anno": ""
@@ -14149,12 +14305,12 @@
     {
      "tier": "Notable",
      "nation": "Patani",
-     "share": 0.081,
+     "share": 0.07982238220324087,
      "counts": [
-      461,
-      444,
-      302,
-      260
+      454,
+      438,
+      298,
+      256
      ],
      "from": "Thailand",
      "anno": ""
@@ -14162,12 +14318,12 @@
     {
      "tier": "Notable",
      "nation": "Kabardino-Balkaria",
-     "share": 0.052,
+     "share": 0.05124399845146327,
      "counts": [
-      294,
-      284,
-      192,
-      165
+      290,
+      280,
+      189,
+      163
      ],
      "from": "Russia",
      "anno": ""
@@ -14175,12 +14331,12 @@
     {
      "tier": "Notable",
      "nation": "North Ossetia-Alania",
-     "share": 0.039,
+     "share": 0.03843299883859745,
      "counts": [
-      223,
-      216,
-      148,
-      125
+      220,
+      213,
+      146,
+      123
      ],
      "from": "Russia",
      "anno": ""
@@ -14188,12 +14344,12 @@
     {
      "tier": "Notable",
      "nation": "Finland",
-     "share": 0.031,
+     "share": 0.030549306769141565,
      "counts": [
-      173,
-      167,
-      115,
-      98
+      170,
+      165,
+      113,
+      97
      ],
      "from": "Russia",
      "anno": ""
@@ -14201,12 +14357,12 @@
     {
      "tier": "Notable",
      "nation": "Ingushetia",
-     "share": 0.029,
+     "share": 0.028578383751777597,
      "counts": [
-      165,
-      158,
-      109,
-      94
+      163,
+      156,
+      107,
+      93
      ],
      "from": "Russia",
      "anno": ""
@@ -14214,12 +14370,12 @@
     {
      "tier": "Notable",
      "nation": "Karachay-Cherkessia",
-     "share": 0.027,
+     "share": 0.026607460734413623,
      "counts": [
-      154,
-      147,
-      100,
-      87
+      152,
+      145,
+      99,
+      86
      ],
      "from": "Russia",
      "anno": ""
@@ -14227,12 +14383,12 @@
     {
      "tier": "Notable",
      "nation": "Tuva",
-     "share": 0.019,
+     "share": 0.018723768664957733,
      "counts": [
-      111,
-      106,
-      72,
-      62
+      109,
+      104,
+      71,
+      61
      ],
      "from": "Russia",
      "anno": ""
@@ -14240,12 +14396,12 @@
     {
      "tier": "Notable",
      "nation": "Tibet",
-     "share": 0.018,
+     "share": 0.017738307156275748,
      "counts": [
-      102,
-      99,
-      67,
-      58
+      100,
+      98,
+      66,
+      57
      ],
      "from": "China",
      "anno": ""
@@ -14263,12 +14419,12 @@
     {
      "tier": "Primary",
      "nation": "Korea",
-     "share": 33.491,
+     "share": 33.004091387268396,
      "counts": [
-      174217,
-      165558,
-      142195,
-      137559
+      171684,
+      163151,
+      140128,
+      135559
      ],
      "from": "South Korea + North Korea + Jeju-do",
      "anno": "founding wave"
@@ -14276,12 +14432,12 @@
     {
      "tier": "Significant",
      "nation": "Japan",
-     "share": 9.421,
+     "share": 9.28403287329299,
      "counts": [
-      49005,
-      46569,
-      40000,
-      38696
+      48293,
+      45892,
+      39418,
+      38133
      ],
      "from": "",
      "anno": ""
@@ -14289,12 +14445,12 @@
     {
      "tier": "Significant",
      "nation": "Germany",
-     "share": 8.775,
+     "share": 8.647424738684428,
      "counts": [
-      45650,
-      43380,
-      37260,
-      36044
+      44986,
+      42749,
+      36718,
+      35520
      ],
      "from": "",
      "anno": ""
@@ -14302,12 +14458,12 @@
     {
      "tier": "Significant",
      "nation": "Sinian Federation",
-     "share": 5.464,
+     "share": 5.384561683438372,
      "counts": [
-      28424,
-      27010,
-      23200,
-      22444
+      28011,
+      26617,
+      22863,
+      22118
      ],
      "from": "China + Hong Kong + Macau",
      "anno": ""
@@ -14315,12 +14471,12 @@
     {
      "tier": "Notable",
      "nation": "Indonesia",
-     "share": 4.05,
+     "share": 3.9911191101620433,
      "counts": [
-      21070,
-      20024,
-      17196,
-      16637
+      20764,
+      19733,
+      16946,
+      16395
      ],
      "from": "",
      "anno": ""
@@ -14328,12 +14484,12 @@
     {
      "tier": "Notable",
      "nation": "Australia",
-     "share": 3.416,
+     "share": 3.366336513657664,
      "counts": [
-      17771,
-      16889,
-      14507,
-      14031
+      17513,
+      16644,
+      14296,
+      13827
      ],
      "from": "",
      "anno": ""
@@ -14341,12 +14497,12 @@
     {
      "tier": "Notable",
      "nation": "Thailand",
-     "share": 3.394,
+     "share": 3.3446563604666606,
      "counts": [
-      17654,
-      16777,
-      14411,
-      13941
+      17397,
+      16533,
+      14201,
+      13738
      ],
      "from": "",
      "anno": ""
@@ -14354,12 +14510,12 @@
     {
      "tier": "Notable",
      "nation": "Estonia",
-     "share": 3.368,
+     "share": 3.3190343612409285,
      "counts": [
-      17522,
-      16652,
-      14302,
-      13836
+      17267,
+      16410,
+      14094,
+      13635
      ],
      "from": "",
      "anno": ""
@@ -14367,12 +14523,12 @@
     {
      "tier": "Notable",
      "nation": "Hungary",
-     "share": 3.282,
+     "share": 3.234284671494278,
      "counts": [
-      17075,
-      16225,
-      13936,
-      13481
+      16827,
+      15989,
+      13733,
+      13285
      ],
      "from": "",
      "anno": ""
@@ -14380,12 +14536,12 @@
     {
      "tier": "Notable",
      "nation": "Lithuania",
-     "share": 2.976,
+     "share": 2.9327334498375905,
      "counts": [
-      15481,
-      14712,
-      12637,
-      12224
+      15256,
+      14498,
+      12453,
+      12046
      ],
      "from": "",
      "anno": ""
@@ -14393,12 +14549,12 @@
     {
      "tier": "Notable",
      "nation": "Taiwan",
-     "share": 2.905,
+     "share": 2.8627656827211694,
      "counts": [
-      15112,
-      14362,
-      12335,
-      11933
+      14892,
+      14153,
+      12156,
+      11759
      ],
      "from": "Taiwan",
      "anno": ""
@@ -14406,12 +14562,12 @@
     {
      "tier": "Notable",
      "nation": "Malaysia",
-     "share": 2.804,
+     "share": 2.763234070344289,
      "counts": [
-      14587,
-      13861,
-      11904,
-      11516
+      14375,
+      13660,
+      11731,
+      11349
      ],
      "from": "",
      "anno": ""
@@ -14419,12 +14575,12 @@
     {
      "tier": "Notable",
      "nation": "Idelsk-Uralia",
-     "share": 2.056,
+     "share": 2.0261088618501635,
      "counts": [
-      10694,
-      10162,
-      8730,
-      8443
+      10539,
+      10014,
+      8603,
+      8320
      ],
      "from": "Russia",
      "anno": ""
@@ -14432,12 +14588,12 @@
     {
      "tier": "Notable",
      "nation": "Russia (core state)",
-     "share": 2.056,
+     "share": 2.0261088618501635,
      "counts": [
-      10693,
-      10162,
-      8729,
-      8443
+      10538,
+      10014,
+      8602,
+      8320
      ],
      "from": "Russia",
      "anno": ""
@@ -14445,12 +14601,12 @@
     {
      "tier": "Notable",
      "nation": "Vietnam",
-     "share": 1.866,
+     "share": 1.838871175200586,
      "counts": [
-      9708,
-      9225,
-      7924,
-      7665
+      9567,
+      9091,
+      7809,
+      7554
      ],
      "from": "",
      "anno": ""
@@ -14458,25 +14614,38 @@
     {
      "tier": "Notable",
      "nation": "Philippines",
-     "share": 1.694,
+     "share": 1.6693717957072842,
      "counts": [
-      8811,
-      8374,
-      7192,
-      6956
+      8683,
+      8252,
+      7087,
+      6855
      ],
      "from": "",
      "anno": ""
     },
     {
      "tier": "Notable",
-     "nation": "Bulgaria",
-     "share": 1.388,
+     "nation": "Kazakhstan",
+     "share": 1.4538491318013997,
      "counts": [
-      7218,
-      6858,
-      5891,
-      5700
+      7563,
+      7187,
+      6173,
+      5972
+     ],
+     "from": "Kazakhstan",
+     "anno": ""
+    },
+    {
+     "tier": "Notable",
+     "nation": "Bulgaria",
+     "share": 1.3678205740505964,
+     "counts": [
+      7113,
+      6758,
+      5805,
+      5617
      ],
      "from": "",
      "anno": ""
@@ -14484,12 +14653,12 @@
     {
      "tier": "Notable",
      "nation": "Austro-Bavaria",
-     "share": 1.333,
+     "share": 1.3136201910730874,
      "counts": [
-      6934,
-      6590,
-      5660,
-      5475
+      6833,
+      6494,
+      5578,
+      5395
      ],
      "from": "Germany",
      "anno": ""
@@ -14497,12 +14666,12 @@
     {
      "tier": "Notable",
      "nation": "Latvia",
-     "share": 1.292,
+     "share": 1.273216269217126,
      "counts": [
-      6718,
-      6387,
-      5487,
-      5306
+      6620,
+      6294,
+      5407,
+      5229
      ],
      "from": "",
      "anno": ""
@@ -14510,12 +14679,12 @@
     {
      "tier": "Notable",
      "nation": "South Africa",
-     "share": 1.177,
+     "share": 1.1598881957186975,
      "counts": [
-      6122,
-      5819,
-      4996,
-      4834
+      6033,
+      5734,
+      4923,
+      4764
      ],
      "from": "",
      "anno": ""
@@ -14523,12 +14692,12 @@
     {
      "tier": "Notable",
      "nation": "Siberia",
-     "share": 0.817,
+     "share": 0.8051220525931825,
      "counts": [
-      4251,
-      4040,
-      3471,
-      3357
+      4189,
+      3981,
+      3421,
+      3308
      ],
      "from": "Russia",
      "anno": ""
@@ -14536,12 +14705,12 @@
     {
      "tier": "Notable",
      "nation": "Donska-Kubania",
-     "share": 0.783,
+     "share": 0.771616361297995,
      "counts": [
-      4075,
-      3872,
-      3326,
-      3218
+      4016,
+      3816,
+      3278,
+      3171
      ],
      "from": "Russia",
      "anno": ""
@@ -14549,12 +14718,12 @@
     {
      "tier": "Notable",
      "nation": "Manchuria",
-     "share": 0.63,
+     "share": 0.6208407504696511,
      "counts": [
-      3276,
-      3113,
-      2674,
-      2588
+      3228,
+      3068,
+      2635,
+      2550
      ],
      "from": "China",
      "anno": ""
@@ -14562,12 +14731,12 @@
     {
      "tier": "Notable",
      "nation": "Künnarantaiga",
-     "share": 0.472,
+     "share": 0.4651378320978974,
      "counts": [
-      2456,
-      2334,
-      2004,
-      1939
+      2420,
+      2300,
+      1975,
+      1911
      ],
      "from": "Russia",
      "anno": ""
@@ -14575,12 +14744,12 @@
     {
      "tier": "Notable",
      "nation": "Mongolia",
-     "share": 0.251,
+     "share": 0.24735083867917848,
      "counts": [
-      1306,
-      1242,
-      1066,
-      1032
+      1287,
+      1224,
+      1051,
+      1017
      ],
      "from": "China",
      "anno": ""
@@ -14588,12 +14757,12 @@
     {
      "tier": "Notable",
      "nation": "East Turkestan",
-     "share": 0.174,
+     "share": 0.17147030251066556,
      "counts": [
-      904,
-      859,
-      736,
-      714
+      891,
+      847,
+      725,
+      704
      ],
      "from": "China",
      "anno": ""
@@ -14601,12 +14770,12 @@
     {
      "tier": "Notable",
      "nation": "Dagestan",
-     "share": 0.145,
+     "share": 0.14289191875888796,
      "counts": [
-      754,
-      716,
-      617,
-      595
+      743,
+      706,
+      608,
+      586
      ],
      "from": "Russia",
      "anno": ""
@@ -14614,12 +14783,12 @@
     {
      "tier": "Notable",
      "nation": "Patani",
-     "share": 0.099,
+     "share": 0.09756068935951662,
      "counts": [
-      515,
-      490,
-      421,
-      408
+      507,
+      483,
+      415,
+      402
      ],
      "from": "Thailand",
      "anno": ""
@@ -14627,12 +14796,12 @@
     {
      "tier": "Notable",
      "nation": "West Papua",
-     "share": 0.086,
+     "share": 0.08474968974665079,
      "counts": [
-      448,
-      427,
-      368,
-      356
+      441,
+      421,
+      363,
+      351
      ],
      "from": "Indonesia",
      "anno": ""
@@ -14640,12 +14809,12 @@
     {
      "tier": "Notable",
      "nation": "Aceh",
-     "share": 0.083,
+     "share": 0.08179330522060484,
      "counts": [
-      434,
-      412,
-      355,
-      344
+      428,
+      406,
+      350,
+      339
      ],
      "from": "Indonesia",
      "anno": ""
@@ -14653,12 +14822,12 @@
     {
      "tier": "Notable",
      "nation": "Chechnya",
-     "share": 0.069,
+     "share": 0.06799684409905704,
      "counts": [
-      359,
-      341,
-      293,
-      284
+      354,
+      336,
+      289,
+      280
      ],
      "from": "Russia",
      "anno": ""
@@ -14666,12 +14835,12 @@
     {
      "tier": "Notable",
      "nation": "Kabardino-Balkaria",
-     "share": 0.041,
+     "share": 0.04040392185596143,
      "counts": [
-      216,
-      204,
-      175,
-      170
+      213,
+      201,
+      172,
+      167
      ],
      "from": "Russia",
      "anno": ""
@@ -14679,12 +14848,12 @@
     {
      "tier": "Notable",
      "nation": "North Ossetia-Alania",
-     "share": 0.031,
+     "share": 0.030549306769141565,
      "counts": [
-      162,
-      155,
-      133,
-      129
+      160,
+      153,
+      131,
+      127
      ],
      "from": "Russia",
      "anno": ""
@@ -14692,12 +14861,12 @@
     {
      "tier": "Notable",
      "nation": "Tibet",
-     "share": 0.025,
+     "share": 0.024636537717049652,
      "counts": [
-      128,
-      121,
-      105,
-      101
+      126,
+      119,
+      103,
+      100
      ],
      "from": "China",
      "anno": ""
@@ -14705,12 +14874,12 @@
     {
      "tier": "Notable",
      "nation": "Finland",
-     "share": 0.024,
+     "share": 0.023651076208367663,
      "counts": [
-      127,
-      121,
-      104,
-      100
+      125,
+      119,
+      103,
+      99
      ],
      "from": "Russia",
      "anno": ""
@@ -14718,12 +14887,12 @@
     {
      "tier": "Notable",
      "nation": "Ingushetia",
-     "share": 0.023,
+     "share": 0.022665614699685678,
      "counts": [
-      122,
-      116,
-      99,
-      96
+      120,
+      114,
+      98,
+      95
      ],
      "from": "Russia",
      "anno": ""
@@ -14731,12 +14900,12 @@
     {
      "tier": "Notable",
      "nation": "Karachay-Cherkessia",
-     "share": 0.021,
+     "share": 0.020694691682321707,
      "counts": [
-      113,
-      106,
-      91,
-      88
+      111,
+      105,
+      90,
+      87
      ],
      "from": "Russia",
      "anno": ""
@@ -14744,12 +14913,12 @@
     {
      "tier": "Notable",
      "nation": "Tuva",
-     "share": 0.015,
+     "share": 0.01478192263022979,
      "counts": [
-      80,
-      76,
-      65,
-      63
+      79,
+      75,
+      64,
+      62
      ],
      "from": "Russia",
      "anno": ""
@@ -17351,19 +17520,6 @@
    "rows": [
     {
      "tier": "Primary",
-     "nation": "United Kingdom",
-     "share": 13.332,
-     "counts": [
-      26248,
-      25288,
-      16986,
-      15847
-     ],
-     "from": "UK",
-     "anno": ""
-    },
-    {
-     "tier": "Primary",
      "nation": "Spain",
      "share": 10.885,
      "counts": [
@@ -17386,6 +17542,19 @@
       11391
      ],
      "from": "USA",
+     "anno": ""
+    },
+    {
+     "tier": "Primary",
+     "nation": "United Kingdom",
+     "share": 8.806736539747,
+     "counts": [
+      17335,
+      16702,
+      11218,
+      10466
+     ],
+     "from": "UK",
      "anno": ""
     },
     {
@@ -17478,6 +17647,19 @@
      ],
      "from": "USA + Mexico",
      "anno": ""
+    },
+    {
+     "tier": "Significant",
+     "nation": "Uruguay",
+     "share": 4.525263460253001,
+     "counts": [
+      8913,
+      8586,
+      5768,
+      5381
+     ],
+     "from": "",
+     "anno": "founding wave"
     },
     {
      "tier": "Significant",

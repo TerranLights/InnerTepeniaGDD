@@ -48,7 +48,7 @@
 
 | ID | Result | File | Old → New (short) | Check |
 |---|---|---|---|---|
-| SH-001 | ALREADY-RIGHT (old text not present) | Pre-Trip §G | §G row "No invented person names" cites `00_RUNBOOK.md`, Phase 10/Step 10, with **no line number**; no sheet cites `03_The_Phase_Spine.md` L127 | grep for `L127` hits only `Specs/Davis.md` L150 |
+| SH-001 | ALREADY-RIGHT (old text not present) | Pre-Trip §G | §G row "No invented person names" cites `00_RUNBOOK.md`, Phase 10/Step 10, with **no line number**; no sheet cites `03_The_Phase_Spine.md` L127 | grep for `L127` hits only `Specs/Davis.md` L151 |
 | SH-002 | ALREADY-RIGHT (not present) | Pre-Trip §G | no "Divergence operator" row | — |
 | SH-003 | ALREADY-RIGHT (not present) | Pre-Trip §C Step 5 | T8 reads "§5.3/§6.1/§6.3" with no line range | — |
 | SH-004 | ALREADY-RIGHT (not present) | Pre-Trip §C | no procedure items 4 and 5 (older trial format) | — |

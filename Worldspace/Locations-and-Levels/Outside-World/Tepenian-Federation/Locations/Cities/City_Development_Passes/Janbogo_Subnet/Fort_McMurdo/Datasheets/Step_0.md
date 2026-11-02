@@ -8,7 +8,7 @@
 | Category | Value | Citation |
 |---|---|---|
 | Census I | 222,190 H / 223,120 R / **445,310** combined (status cell: revised 2026-07-04; the "island cap" tag was removed 2026-10-30) | `Official_Population_Census.md` L519 |
-| Census II | 173,548 H / 164,621 R / **338,169** combined (status cell: the "island cap" tag was removed 2026-10-30) | `Official_Population_Census.md` L659 |
+| Census II | 173,548 H / 164,621 R / **338,169** combined (status cell: the "island cap" tag was removed 2026-10-30) | `Official_Population_Census.md` L660 |
 | Retention (computed; formula = Census II count ÷ Census I count) | combined 75.94% · human 78.11% · robot 73.78% | Computed from the two rows above: 338,169÷445,310 · 173,548÷222,190 · 164,621÷223,120 |
 | Extent — the spec's own declaration (2026-09-05; population unchanged) | **Extent band ~55 km²**; 445,310 ÷ 55 = **8,097/km²** *(the spec states: inside the 7,000–10,000 band; was 181/km² measured against Ross Island entire)*. The block states that the city stands on rock and its own heat keeps it bare; one of the six geothermal cities. Hut Point Peninsula measures 3.7–5.6 km wide by 28 km long, ≈104–157 km², shared with Scott; Mount Erebus is the heat both cities share | `Specs/Fort_McMurdo.md` L18–L38 (extent band L19; terrain finding L21–L24; peninsula L30–L38) |
 | Extent file — the city's row (**2026-09-05 snapshot; the census is live — note L631**) | Ross I. · 2,460 km² · Census I 445,310 · **181/km²** · *rural* *(the whole island's area)* | `Extent_and_Density_Per_City.md` L63; Ross I. area row L697 |

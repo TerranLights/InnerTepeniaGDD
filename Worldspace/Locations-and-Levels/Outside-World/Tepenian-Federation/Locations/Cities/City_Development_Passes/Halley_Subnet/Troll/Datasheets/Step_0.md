@@ -10,7 +10,7 @@
 | Category | Value | Citation |
 |---|---|---|
 | Census I | 502,791 H / 503,779 R / **1,006,570** combined (status cell: revised 2026-07-04) | `Official_Population_Census.md` L513 |
-| Census II | 340,328 H / 367,383 R / **707,711** combined | `Official_Population_Census.md` L654 |
+| Census II | 340,328 H / 367,383 R / **707,711** combined | `Official_Population_Census.md` L655 |
 | Retention (computed; formula = Census II count ÷ Census I count) | combined 70.31% · human 67.69% · robot 72.93% | Computed from the two rows above: 707,711÷1,006,570 · 340,328÷502,791 · 367,383÷503,779 |
 | Extent — Troll's row in the required-area table *(the table is the 2026-09-05 snapshot; the census is live — note L631)* | Troll · Census I 954,450 · required area **95 km²** at 10,000/km² · **136 km²** at 7,000/km² · site: Jutulsessen. The same arithmetic at the live Census I 1,006,570: 97.8 km² at 10,000/km² · 139.8 km² at 7,000/km² | `Extent_and_Density_Per_City.md` L623 (table header L603; snapshot note L631) · live figures computed from `Official_Population_Census.md` L513: 1,006,570÷10,000 · 1,006,570÷7,000 |
 | **Temporal frame — the Second Interwar Period** | **2564–2812. 248 years, beginning at the Falkland Treaty.** The default frame for worldbuilding a Tepenian location; a corpus-wide constant, not a per-city judgment | ⭐ `Corpus_Reference_Sheets/Second_Interwar_Period_Quick_Reference.md`, in full |

@@ -9,7 +9,7 @@
 | Category | Value | Citation |
 |---|---|---|
 | Census I | 736,821 H / 767,646 R / **1,504,467** combined (status cell: revised 2026-07-04) | `Official_Population_Census.md` L498 |
-| Census II | 525,888 H / 598,062 R / **1,123,950** combined | `Official_Population_Census.md` L638 |
+| Census II | 525,888 H / 598,062 R / **1,123,950** combined | `Official_Population_Census.md` L639 |
 | Retention (computed; formula = Census II count ÷ Census I count) | combined 74.71% · human 71.37% · robot 77.91% | Computed from the two rows above: 1,123,950÷1,504,467 · 525,888÷736,821 · 598,062÷767,646 |
 | Extent — required area at the band (table row; **2026-09-05 snapshot**, the census is live — note L631) | City: Halley · Subnet: Halley · Census I (snapshot): 1,452,345 · @10k: 145 km² · @7k: 207 km² · Site: Brunt ice shelf — MIGRATING | `Extent_and_Density_Per_City.md` L609 (header L603; snapshot note L631) |
 | Extent at the live Census I (computed: population ÷ band) | 1,504,467 ÷ 10,000 = 147.6 km² · 1,504,467 ÷ 7,000 = 210.9 km² | Computed from `Official_Population_Census.md` L498 and the two bands of `Extent_and_Density_Per_City.md` L603 |

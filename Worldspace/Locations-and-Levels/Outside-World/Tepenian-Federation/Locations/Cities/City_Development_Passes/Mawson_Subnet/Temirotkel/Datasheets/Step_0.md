@@ -8,7 +8,7 @@
 | Category | Value | Citation |
 |---|---|---|
 | Census I | 93,356 H / 132,020 R / **225,376** combined *(a long status cell is present: an authoring note, not copied)* | `Official_Population_Census.md` L526 |
-| Census II | 85,199 H / 79,758 R / **164,957** combined (status cell: ⭐ **unchanged** — *extent declared, no population correction.* ⛔ `island cap` removed) | `Official_Population_Census.md` L666 |
+| Census II | 85,199 H / 79,758 R / **164,957** combined (status cell: ⭐ **unchanged** — *extent declared, no population correction.* ⛔ `island cap` removed) | `Official_Population_Census.md` L667 |
 | Retention (computed; formula = Census II count ÷ Census I count) | combined 73.19% · human 91.26% · robot 60.41% | Computed from the two rows above: 164,957÷225,376 · 85,199÷93,356 · 79,758÷132,020 |
 | Extent — as declared 2026-09-05 (Extent file §6) | East Ongul Island 1.5 km² + mainland ice apron at the Spur landfall 25 km² + coastal corridor (10 km × 500 m) 5 km² = **~31.5 km²** → **7,155/km²** (as written there); population unchanged at 225,376 (Census I) / 164,957 (Census II) | `Extent_and_Density_Per_City.md` §6: heading L231, table L236–241, population line L243–244; summary row L506 *(2026-09-05 snapshot; the census is live — note L631)* |
 | Density at that extent (computed; formula = population ÷ ~31.5 km²) | Census I 225,376÷31.5 = 7,155/km² (equals the file's figure) · Census II 164,957÷31.5 = 5,237/km² | Computed from the Extent row above and the Census I / Census II rows of this sheet |

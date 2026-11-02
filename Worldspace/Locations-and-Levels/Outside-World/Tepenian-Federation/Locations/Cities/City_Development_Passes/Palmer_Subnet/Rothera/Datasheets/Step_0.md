@@ -8,7 +8,7 @@
 | Category | Value | Citation |
 |---|---|---|
 | Census I | 153,760 H / 163,689 R / **317,449** combined (status cell: revised 2026-07-04; the "island cap" tag was removed 2026-10-31) | `Official_Population_Census.md` L525 |
-| Census II | 121,784 H / 134,073 R / **255,857** combined (status cell: the "island cap" tag was removed 2026-10-31) | `Official_Population_Census.md` L664 |
+| Census II | 121,784 H / 134,073 R / **255,857** combined (status cell: the "island cap" tag was removed 2026-10-31) | `Official_Population_Census.md` L665 |
 | Retention (computed; formula = Census II count ÷ Census I count) | combined 80.60% · human 79.20% · robot 81.91% | Computed from the two rows above: 255,857÷317,449 · 121,784÷153,760 · 134,073÷163,689 |
 | Extent — declared band *(2026-09-05 snapshot; the census is live — note L631)* | ~40 km²; 317,449 ÷ 40 = 7,936/km²; population unchanged at 317,449 (developer ruling, as the spec states); the spec states the 40 km² is derived from the band, not from the site, and that anything in 32–45 km² is equally defensible | `Specs/Palmer subnet/Rothera.md` L26–L32, L50; `Extent_and_Density_Per_City.md` L507 |
 | Extent — whole-island first-pass row *(2026-09-05 snapshot; the census is live — note L631)* | Adelaide Island 4,663 km²; 317,449 ÷ 4,663 = 68.08 → 68/km² | `Extent_and_Density_Per_City.md` L66 (row), L696 (island area); `Specs/Palmer subnet/Rothera.md` L27 |
