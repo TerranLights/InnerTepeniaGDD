@@ -11,7 +11,7 @@
 | Category | Status |
 |---|---|
 | `Local_Cultures/Halley_Subnet/Santa_Luce.md` | ✅ Confirmed to EXIST (existence check only) — ⛔ **WITHHELD FOR THIS PASS (`DR-67`, 2026-10-28): it rests on the superseded Finnish-Swedish founding, so it is NOT opened at Step 5 or anywhere else in the November run** (the Pre-Trip carries the same ruling); it is revisited afterward |
-| `Local_Robot_Culture/Halley_Subnet/Santa_Luce.md` | ⬜ **does not exist** (existence check only) |
+| `Local_Robot_Culture/Halley_Subnet/Santa_Luce.md` | ✅ Confirmed to EXIST (existence check only) — a **Draft** written 2026-11-02, awaiting the developer's review; read-last at Step 5 like the others, not opened before |
 | The deferred own-eras three-way set, the Zodiac Lens's person-shaped amendment, the strongest-finding check | All require prior phases' content and this step's own timing — not mechanical, not pre-stageable |
 
 **When Step 5 actually opens:** read both files for the first time as a check against everything already written.

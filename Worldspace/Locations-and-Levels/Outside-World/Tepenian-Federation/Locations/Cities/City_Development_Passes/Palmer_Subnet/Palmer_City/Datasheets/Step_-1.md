@@ -17,6 +17,6 @@
 | Specs `Status:` field | States a later-era condition; per the standing default-scope rule (`00_RUNBOOK.md`, the Second Interwar default) this is **never an input** to a Second Interwar pass — not copied | `Specs/Palmer_City.md` L4 |
 | Later-era sections present in the Specs file (same exclusion as `Status:`) | 3 section(s), by heading position: L285, L299, L307 — not copied, not described | `Specs/Palmer_City.md` L321, L335, L343 |
 | Census I (spec's own line) | 165,912 humans / 166,896 robots / **332,808** combined *(island cap)* | `Specs/Palmer_City.md` L14 |
-| Census II (spec's own line) | 180,688 humans / 151,482 robots / **332,170** combined *(island cap)* | `Specs/Palmer_City.md` L15 |
+| Census II (spec's own line) | 180,688 humans / 151,482 robots / **332,170** combined *(island cap)*; the spec line carries the developer's note of 2026-11-02 (`DR-91`): keep the numbers, Census II's humans exceeding Census I's | `Specs/Palmer_City.md` L15 |
 
 **Not mechanical / not included here:** the admitted read-range, the four-category classification (PROVIDED/RESERVED/PRODUCED/REQUESTED), any generator presence/absence call, the type-modifier declaration — none of this exists until Palmer City's own pass runs.

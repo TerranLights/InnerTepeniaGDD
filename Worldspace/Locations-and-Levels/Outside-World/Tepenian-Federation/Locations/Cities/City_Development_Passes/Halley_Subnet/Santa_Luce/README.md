@@ -24,7 +24,7 @@ the Position-Coverage ledger and the 19 datasheets (inputs, not output); the pas
 | `10_Readiness_Check.md` | ULM Step 10 — ⚠ **verify, do not assert** |
 | `CST_01…17e_*.md` | Cultural Synthesis — **one file per technique** |
 | `HANDOVER_to_Worldbuilding_Session_Two_Italys_2026-10-23.md` | Hand-over note (2026-10-23) from the GDD session to the novel repo's worldbuilding session: Santa Luce and the "two Italys" — a record, not a pass output |
-| `ROBOT_CULTURE_REVISIT_TRACKER_2026-10-23.md` | Work list for the Santa Luce revisit and its robot-culture sheet (founders re-ruled, `DR-60`); research paused until the allotment resets |
+| `ROBOT_CULTURE_REVISIT_TRACKER_2026-10-23.md` | Work list for the Santa Luce revisit and its robot-culture sheet (founders re-ruled, `DR-60`); the sheet itself was written as a Draft on 2026-11-02 (`Local_Robot_Culture/Halley_Subnet/Santa_Luce.md`, awaiting the developer's review) |
 | `RWBEM_A…F_*.md` | Real-World Basis Extrapolation — **one file per step** |
 
 ⭐ **Flat, not foldered by process** — *developer instruction: "organize by subnet/city/city-files, instead of
