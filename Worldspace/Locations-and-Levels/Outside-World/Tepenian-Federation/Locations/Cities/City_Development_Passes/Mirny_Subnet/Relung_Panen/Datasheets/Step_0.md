@@ -7,10 +7,10 @@
 
 | Category | Value | Citation |
 |---|---|---|
-| Census I | **477,285** H / **494,585** R / **971,870** combined *(a long status cell is present: an authoring note, not copied)* | `Official_Population_Census.md` L514 |
-| Census II | **340,951** H / **353,062** R / **694,013** combined *(a long status cell is present: an authoring note, not copied)* | `Official_Population_Census.md` L653 |
-| Retention (computed; formula = Census II count ÷ Census I count) | combined 71.41% · human 71.44% · robot 71.39% | Computed from the two rows above: 694,013÷971,870 · 340,951÷477,285 · 353,062÷494,585 |
-| Extent band (as stated in the spec; the sentence's comparison with other places is not copied) | **~450 km²** — the ice-free oasis; up to **942 km²** including marine areas · density **2,160/km²** *(971,870 ÷ 450 = 2,159.7)* | `Specs/Relung_Panen.md` L30–L31 |
+| Census I | **492,215** H / **507,856** R / **1,000,071** combined *(a long status cell is present: an authoring note, not copied)* | `Official_Population_Census.md` L514 |
+| Census II | **349,521** H / **364,524** R / **714,045** combined *(a long status cell is present: an authoring note, not copied)* | `Official_Population_Census.md` L653 |
+| Retention (computed; formula = Census II count ÷ Census I count) | combined 71.40% · human 71.01% · robot 71.78% | Computed from the two rows above: 714,045÷1,000,071 · 349,521÷492,215 · 364,524÷507,856 |
+| Extent band (as stated in the spec; the sentence's comparison with other places is not copied) | **~450 km²** — the ice-free oasis; up to **942 km²** including marine areas · density **2,160/km²** *(1,000,071 ÷ 450 = 2,159.7)* | `Specs/Relung_Panen.md` L30–L31 |
 | Extent record — `Extent_and_Density_Per_City.md` §11 (**2026-09-05 snapshot; the census is live — note L631**) | §11 heading at L642; "2,107/km² on the oasis's 450 km² of ice-free rock" *(on the 2026-09-05 founding population of 947,954; 947,954 ÷ 450 = 2,106.6)* — the rest of that sentence compares the city with other places: not copied | `Extent_and_Density_Per_City.md` L642, L660 (snapshot note L631) |
 | **Temporal frame — the Second Interwar Period** | **2564–2812. 248 years, beginning at the Falkland Treaty.** The default frame for worldbuilding a Tepenian location; a corpus-wide constant, not a per-city judgment | ⭐ `Corpus_Reference_Sheets/Second_Interwar_Period_Quick_Reference.md`, in full |
 | Act structure within the frame | Act 1: 2564 → somewhere in the 2600s (a hazy range, not yet dated) — national-ethnic-origin cultures still fresh. Act 2: by the late 2600s / early 2700s, onward — properly Tepenian; origin is ancestry, not identity | `Corpus_Reference_Sheets/Second_Interwar_Period_Quick_Reference.md` |

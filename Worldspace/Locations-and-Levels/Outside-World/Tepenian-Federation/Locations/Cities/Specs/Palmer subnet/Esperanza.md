@@ -12,8 +12,8 @@
 
 ## Population & Composition
 
-**Census I (Pre-Orbital Era):** 967,477 humans / 934,728 robots / **1,902,205** combined *(was 955,337 / 922,950 / 1,878,287; census updated 2026-10-28, `DR-68`)*
-**Census II (Orbital Era):** 510,762 humans / 683,124 robots / **1,193,886** combined *(was 502,654 / 675,385 / 1,178,039)*
+**Census I (Pre-Orbital Era):** 610,330 humans / 589,670 robots / **1,200,000** combined *(Esperanza relocation 2026-11-02, `DR-90`: was 967,477 humans / 934,728 robots / 1,902,205 combined)* *(was 955,337 / 922,950 / 1,878,287; census updated 2026-10-28, `DR-68`)*
+**Census II (Orbital Era):** 322,213 humans / 430,946 robots / **753,159** combined *(Esperanza relocation 2026-11-02, `DR-90`: was 510,762 humans / 683,124 robots / 1,193,886 combined)* *(was 502,654 / 675,385 / 1,178,039)*
 
 | Tier | Nations |
 |------|---------|
@@ -31,25 +31,25 @@
 
 | Tier | Nation | Share % | Census I Robots | Census I Humans | Census II Robots | Census II Humans |
 |------|--------|---------|------------------|------------------|-------------------|-------------------|
-| Primary | Brazil | 17.03% | 159,238 | 164,816 | 116,375 | 87,011 |
-| Primary | México | 14.08% | 131,552 | 136,162 | 96,142 | 71,884 |
-| Primary | CSA | 11.76% | 109,900 | 113,750 | 80,318 | 60,052 |
-| Significant | United Kingdom | 9.55% | 89,253 | 92,379 | 65,227 | 48,770 |
-| Significant | Argentina (without Patagonia) *(founding wave)* | 7.87% | 73,566 | 76,144 | 53,764 | 40,199 |
-| Significant | Appalachia | 7.55% | 70,540 | 73,011 | 51,553 | 38,545 |
-| Significant | Uruguay | 6.60% | 61,652 | 63,812 | 45,057 | 33,689 |
-| Significant | New England | 6.17% | 57,694 | 59,716 | 42,165 | 31,526 |
-| Significant | Cascadia | 6.13% | 57,298 | 59,305 | 41,875 | 31,310 |
-| Notable | Midwest Republic | 2.35% | 21,936 | 22,705 | 16,032 | 11,987 |
-| Notable | Chile | 2.14% | 20,049 | 20,752 | 14,652 | 10,956 |
-| Notable | Sonora | 1.96% | 18,340 | 18,982 | 13,403 | 10,021 |
-| Notable | Amazonia | 1.88% | 17,566 | 18,182 | 12,839 | 9,599 |
-| Notable | Yucatán | 1.85% | 17,339 | 17,946 | 12,671 | 9,474 |
-| Notable | Colorado | 1.76% | 16,497 | 17,076 | 12,056 | 9,015 |
-| Notable | Araucanía-Patagonia | 0.82% | 7,664 | 7,932 | 5,601 | 4,187 |
-| Notable | Northern Ireland | 0.27% | 2,556 | 2,646 | 1,868 | 1,396 |
-| Notable | Hawaii | 0.15% | 1,424 | 1,474 | 1,041 | 779 |
-| Notable | Alaska | 0.071% | 664 | 687 | 485 | 362 |
+| Primary | Brazil | 17.03% | 100,455 | 103,974 | 73,415 | 54,891 |
+| Primary | México | 14.08% | 82,989 | 85,898 | 60,651 | 45,348 |
+| Primary | CSA | 11.76% | 69,330 | 71,759 | 50,668 | 37,884 |
+| Significant | United Kingdom | 9.55% | 56,305 | 58,277 | 41,148 | 30,766 |
+| Significant | Argentina (without Patagonia) *(founding wave)* | 7.87% | 46,409 | 48,035 | 33,917 | 25,359 |
+| Significant | Appalachia | 7.55% | 44,500 | 46,059 | 32,522 | 24,316 |
+| Significant | Uruguay | 6.60% | 38,893 | 40,256 | 28,424 | 21,253 |
+| Significant | New England | 6.17% | 36,396 | 37,672 | 26,600 | 19,888 |
+| Significant | Cascadia | 6.13% | 36,146 | 37,412 | 26,417 | 19,752 |
+| Notable | Midwest Republic | 2.35% | 13,838 | 14,323 | 10,114 | 7,562 |
+| Notable | Chile | 2.14% | 12,648 | 13,091 | 9,243 | 6,912 |
+| Notable | Sonora | 1.96% | 11,570 | 11,975 | 8,455 | 6,322 |
+| Notable | Amazonia | 1.88% | 11,082 | 11,470 | 8,099 | 6,055 |
+| Notable | Yucatán | 1.85% | 10,938 | 11,321 | 7,993 | 5,977 |
+| Notable | Colorado | 1.76% | 10,407 | 10,772 | 7,606 | 5,687 |
+| Notable | Araucanía-Patagonia | 0.82% | 4,835 | 5,004 | 3,533 | 2,641 |
+| Notable | Northern Ireland | 0.27% | 1,612 | 1,669 | 1,178 | 881 |
+| Notable | Hawaii | 0.15% | 898 | 930 | 657 | 491 |
+| Notable | Alaska | 0.071% | 419 | 433 | 306 | 228 |
 
 *Tier labels follow the final shares: Primary and Significant end at the largest ratio gaps among the rows at 4.5% or more (Primary never more than six rows), no row at 4.5% or more is Notable, and Notable is the rest (the composition file's own rule, "boundaries fall at the largest ratio gaps"; the 8 / 3 / 1 share weights no longer produce the figures). Percentages are of this city's own human and robot population (identical between censuses), not Tepenia-wide. Robot figures apply the same proportions as the human population. Shares are rounded; they sum to 100% within rounding.*
 

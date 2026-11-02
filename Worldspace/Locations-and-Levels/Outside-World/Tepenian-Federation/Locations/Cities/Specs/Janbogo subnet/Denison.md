@@ -14,10 +14,10 @@
 
 ## Population & Composition
 
-**Census I (Pre-Orbital Era):** 456,668 humans / 473,471 robots / **930,139** combined *(was 444,529 / 461,693 / 906,222; census updated 2026-10-28, `DR-68`)*
-**Census II (Orbital Era):** 293,192 humans / 346,130 robots / **639,322** combined *(was 285,085 / 338,392 / 623,477)* *(destroyed)*
+**Census I (Pre-Orbital Era):** 471,598 humans / 486,742 robots / **958,340** combined *(Esperanza relocation 2026-11-02, `DR-90`: was 456,668 humans / 473,471 robots / 930,139 combined)* *(was 444,529 / 461,693 / 906,222; census updated 2026-10-28, `DR-68`)*
+**Census II (Orbital Era):** 301,762 humans / 357,593 robots / **659,355** combined *(Esperanza relocation 2026-11-02, `DR-90`: was 293,192 humans / 346,130 robots / 639,322 combined)* *(was 285,085 / 338,392 / 623,477)* *(destroyed)*
 
-> ### ⭐⭐ RESOLVED 2026-09-05 — **EXTENT DECLARED, POPULATION REDUCED 15%** *(2026-09-05 snapshot. At 2026-10-30 the live total is 930,139 people, 18,603/km² over ~50 km²; the "15%" headline is 12.8% at the live total, which is 87.2% of 1,066,143. The zones below were not re-split.)*
+> ### ⭐⭐ RESOLVED 2026-09-05 — **EXTENT DECLARED, POPULATION REDUCED 15%** *(2026-09-05 snapshot. At 2026-10-30 the live total is 958,340 people, 18,603/km² over ~50 km²; the "15%" headline is 12.8% at the live total, which is 87.2% of 1,066,143. The zones below were not re-split.)*
 > **Extent band: ~50 km² — TWO ZONES.**
 >
 > | Zone | Area | Population | Density |
@@ -65,31 +65,31 @@
 
 | Tier | Nation | Share % | Census I Robots | Census I Humans | Census II Robots | Census II Humans |
 |------|--------|---------|------------------|------------------|-------------------|-------------------|
-| Primary | Korea | 13.95% | 66,073 | 63,728 | 48,302 | 40,916 |
-| Primary | Sinian Federation | 13.23% | 62,673 | 60,448 | 45,817 | 38,810 |
-| Primary | Indonesia | 11.39% | 53,935 | 52,023 | 39,430 | 33,399 |
-| Primary | CSA | 9.33% | 44,189 | 42,621 | 32,303 | 27,364 |
-| Primary | Japan | 8.16% | 38,633 | 37,262 | 28,242 | 23,923 |
-| Significant | Australia *(founding wave)* | 6.47% | 30,612 | 29,525 | 22,379 | 18,956 |
-| Significant | Appalachia | 5.99% | 28,364 | 27,357 | 20,735 | 17,564 |
-| Significant | New England | 4.26% | 20,153 | 19,437 | 14,733 | 12,479 |
-| Significant | Cascadia | 3.79% | 17,950 | 17,313 | 13,124 | 11,116 |
-| Significant | New Zealand | 3.75% | 17,770 | 17,139 | 12,990 | 11,004 |
-| Significant | Vietnam | 3.56% | 16,841 | 16,244 | 12,310 | 10,428 |
-| Significant | Philippines | 3.48% | 16,512 | 15,926 | 12,072 | 10,225 |
-| Significant | Taiwan | 2.90% | 13,754 | 13,267 | 10,056 | 8,517 |
-| Significant | Malaysia | 2.32% | 10,948 | 10,559 | 8,002 | 6,778 |
-| Significant | Midwest Republic | 1.62% | 7,662 | 7,391 | 5,602 | 4,744 |
-| Significant | Manchuria | 1.44% | 6,825 | 6,581 | 4,989 | 4,226 |
-| Significant | Thailand | 1.35% | 6,393 | 6,166 | 4,673 | 3,958 |
-| Significant | Colorado | 1.22% | 5,762 | 5,559 | 4,213 | 3,568 |
-| Notable | Sonora | 0.71% | 3,386 | 3,265 | 2,475 | 2,096 |
-| Notable | Mongolia | 0.46% | 2,154 | 2,079 | 1,575 | 1,335 |
-| Notable | West Papua | 0.21% | 1,000 | 965 | 730 | 618 |
-| Notable | Aceh | 0.20% | 966 | 931 | 706 | 598 |
-| Notable | Hawaii | 0.10% | 498 | 479 | 365 | 309 |
-| Notable | Alaska | 0.049% | 232 | 223 | 169 | 144 |
-| Notable | Patani | 0.039% | 186 | 180 | 138 | 117 |
+| Primary | Korea | 13.95% | 67,925 | 65,812 | 49,902 | 42,112 |
+| Primary | Sinian Federation | 13.23% | 64,430 | 62,424 | 47,334 | 39,944 |
+| Primary | Indonesia | 11.39% | 55,447 | 53,724 | 40,736 | 34,375 |
+| Primary | CSA | 9.33% | 45,428 | 44,014 | 33,373 | 28,164 |
+| Primary | Japan | 8.16% | 39,716 | 38,480 | 29,177 | 24,622 |
+| Significant | Australia *(founding wave)* | 6.47% | 31,470 | 30,490 | 23,120 | 19,510 |
+| Significant | Appalachia | 5.99% | 29,159 | 28,251 | 21,422 | 18,077 |
+| Significant | New England | 4.26% | 20,718 | 20,072 | 15,221 | 12,844 |
+| Significant | Cascadia | 3.79% | 18,453 | 17,879 | 13,559 | 11,441 |
+| Significant | New Zealand | 3.75% | 18,268 | 17,699 | 13,420 | 11,326 |
+| Significant | Vietnam | 3.56% | 17,313 | 16,775 | 12,718 | 10,733 |
+| Significant | Philippines | 3.48% | 16,975 | 16,447 | 12,472 | 10,524 |
+| Significant | Taiwan | 2.90% | 14,140 | 13,701 | 10,389 | 8,766 |
+| Significant | Malaysia | 2.32% | 11,255 | 10,904 | 8,267 | 6,976 |
+| Significant | Midwest Republic | 1.62% | 7,877 | 7,633 | 5,787 | 4,883 |
+| Significant | Manchuria | 1.44% | 7,016 | 6,796 | 5,154 | 4,350 |
+| Significant | Thailand | 1.35% | 6,572 | 6,368 | 4,828 | 4,074 |
+| Significant | Colorado | 1.22% | 5,923 | 5,741 | 4,352 | 3,672 |
+| Notable | Sonora | 0.71% | 3,481 | 3,372 | 2,557 | 2,157 |
+| Notable | Mongolia | 0.46% | 2,214 | 2,147 | 1,627 | 1,374 |
+| Notable | West Papua | 0.21% | 1,028 | 997 | 754 | 636 |
+| Notable | Aceh | 0.20% | 993 | 961 | 729 | 616 |
+| Notable | Hawaii | 0.10% | 512 | 495 | 377 | 318 |
+| Notable | Alaska | 0.049% | 238 | 230 | 175 | 148 |
+| Notable | Patani | 0.039% | 191 | 186 | 143 | 120 |
 
 *Tier labels follow the final shares: Primary and Significant end at the largest ratio gaps among the rows at 4.5% or more (Primary never more than six rows), no row at 4.5% or more is Notable, and Notable is the rest (the composition file's own rule, "boundaries fall at the largest ratio gaps"; the 8 / 3 / 1 share weights no longer produce the figures). Percentages are of this city's own human and robot population (identical between censuses), not Tepenia-wide. Robot figures apply the same proportions as the human population. Shares are rounded; they sum to 100% within rounding.*
 

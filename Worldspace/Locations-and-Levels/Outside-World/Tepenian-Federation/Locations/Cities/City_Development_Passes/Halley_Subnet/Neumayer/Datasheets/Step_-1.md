@@ -16,7 +16,7 @@
 | Coordinates (as written in the same field) | ~70°41'S, 8°16'W | `Specs/Neumayer.md` L3 |
 | Specs `Status:` field | States a later-era condition; per the standing default-scope rule (`00_RUNBOOK.md`, the Second Interwar default) this is **never an input** to a Second Interwar pass — not copied | `Specs/Neumayer.md` L4 |
 | Later-era sections present in the Specs file (same exclusion as `Status:`) | 2 section(s), by heading position: L172, L177 — not copied, not described | `Specs/Neumayer.md` L184, L189 |
-| Census I (spec's own line) | 625,874 humans / 650,123 robots / **1,275,997** combined | `Specs/Neumayer.md` L15 |
-| Census II (spec's own line) | 393,179 humans / 453,415 robots / **846,594** combined | `Specs/Neumayer.md` L16 |
+| Census I (spec's own line) | 640,806 humans / 663,395 robots / **1,304,201** combined | `Specs/Neumayer.md` L15 |
+| Census II (spec's own line) | 401,750 humans / 464,878 robots / **866,628** combined | `Specs/Neumayer.md` L16 |
 
 **Not mechanical / not included here:** the admitted read-range, the four-category classification (PROVIDED/RESERVED/PRODUCED/REQUESTED), any generator presence/absence call, the type-modifier declaration — none of this exists until Neumayer's own pass runs.

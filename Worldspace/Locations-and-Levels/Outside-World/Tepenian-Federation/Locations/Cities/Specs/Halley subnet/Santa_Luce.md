@@ -14,8 +14,8 @@
 
 ## Population & Composition
 
-**Census I (Pre-Orbital Era):** 213,834 humans / 223,780 robots / **437,614** combined *(was 504,237 / 530,004 / 1,034,241; scenario adopted 2026-10-28, `DR-67`/`DR-68`)*
-**Census II (Orbital Era):** 132,423 humans / 126,398 robots / **258,821** combined *(was 310,791 / 296,650 / 607,441)*
+**Census I (Pre-Orbital Era):** 228,766 humans / 237,052 robots / **465,818** combined *(Esperanza relocation 2026-11-02, `DR-90`: was 213,834 humans / 223,780 robots / 437,614 combined)* *(was 504,237 / 530,004 / 1,034,241; scenario adopted 2026-10-28, `DR-67`/`DR-68`)*
+**Census II (Orbital Era):** 140,994 humans / 137,861 robots / **278,855** combined *(Esperanza relocation 2026-11-02, `DR-90`: was 132,423 humans / 126,398 robots / 258,821 combined)* *(was 310,791 / 296,650 / 607,441)*
 
 | Tier | Nations |
 |------|---------|
@@ -31,56 +31,56 @@
 
 | Tier | Nation | Share % | Census I Robots | Census I Humans | Census II Robots | Census II Humans |
 |------|--------|---------|------------------|------------------|-------------------|-------------------|
-| Primary | Brazil | 7.89% | 17,648 | 16,863 | 9,967 | 10,444 |
-| Primary | United Kingdom | 7.44% | 16,662 | 15,922 | 9,411 | 9,861 |
-| Primary | Magna Lombardia | 6.25% | 14,004 | 13,382 | 7,910 | 8,287 |
-| Primary | CSA | 5.40% | 12,081 | 11,544 | 6,824 | 7,148 |
-| Significant | France | 4.45% | 9,976 | 9,532 | 5,634 | 5,903 |
-| Significant | Netherlands | 3.73% | 8,359 | 7,987 | 4,723 | 4,947 |
-| Significant | Russia (core state) | 3.71% | 8,313 | 7,944 | 4,697 | 4,920 |
-| Significant | Appalachia | 3.46% | 7,754 | 7,410 | 4,380 | 4,589 |
-| Significant | Latvia | 2.98% | 6,656 | 6,361 | 3,759 | 3,939 |
-| Significant | Hungary | 2.89% | 6,467 | 6,179 | 3,652 | 3,825 |
-| Significant | New England | 2.83% | 6,342 | 6,060 | 3,582 | 3,752 |
-| Significant | Argentina (without Patagonia) | 2.83% | 6,349 | 6,068 | 3,586 | 3,756 |
-| Significant | Serbia | 2.80% | 6,282 | 6,004 | 3,549 | 3,718 |
-| Significant | Croatia | 2.79% | 6,232 | 5,954 | 3,520 | 3,688 |
-| Significant | Estonia | 2.79% | 6,216 | 5,940 | 3,512 | 3,679 |
-| Significant | Idelsk-Uralia | 2.78% | 6,220 | 5,943 | 3,513 | 3,681 |
-| Significant | Czechia | 2.66% | 5,947 | 5,682 | 3,358 | 3,519 |
-| Significant | Cascadia | 2.52% | 5,649 | 5,398 | 3,190 | 3,344 |
-| Significant | Romania | 2.30% | 5,146 | 4,917 | 2,907 | 3,046 |
-| Significant | Austro-Bavaria | 2.10% | 4,694 | 4,487 | 2,652 | 2,779 |
-| Significant | Meridia | 2.09% | 4,668 | 4,461 | 2,636 | 2,763 |
-| Significant | Germany | 1.98% | 4,430 | 4,232 | 2,502 | 2,620 |
-| Significant | Ukraine | 1.85% | 4,138 | 3,953 | 2,336 | 2,448 |
-| Significant | Sweden | 1.61% | 3,600 | 3,441 | 2,033 | 2,130 |
-| Significant | Lithuania | 1.54% | 3,461 | 3,306 | 1,956 | 2,048 |
-| Significant | Bulgaria | 1.43% | 3,205 | 3,062 | 1,810 | 1,897 |
-| Significant | Norway | 1.39% | 3,105 | 2,967 | 1,754 | 1,838 |
-| Significant | Slovakia | 1.39% | 3,120 | 2,982 | 1,763 | 1,847 |
-| Significant | South Africa | 1.39% | 3,105 | 2,967 | 1,754 | 1,838 |
-| Significant | Finland | 1.35% | 3,019 | 2,885 | 1,704 | 1,786 |
-| Significant | Slovenia | 1.20% | 2,679 | 2,560 | 1,513 | 1,585 |
-| Significant | Poland | 1.17% | 2,604 | 2,489 | 1,470 | 1,541 |
-| Significant | Siberia | 1.10% | 2,473 | 2,363 | 1,396 | 1,462 |
-| Significant | Midwest Republic | 1.08% | 2,411 | 2,304 | 1,362 | 1,426 |
-| Significant | Donska-Kubania | 1.06% | 2,371 | 2,264 | 1,340 | 1,403 |
-| Notable | Amazonia | 0.87% | 1,948 | 1,860 | 1,100 | 1,152 |
-| Notable | Colorado | 0.81% | 1,814 | 1,733 | 1,024 | 1,073 |
-| Notable | Künnarantaiga | 0.64% | 1,428 | 1,365 | 807 | 844 |
-| Notable | Sonora | 0.48% | 1,064 | 1,017 | 603 | 631 |
-| Notable | Northern Ireland | 0.21% | 478 | 456 | 269 | 282 |
-| Notable | Dagestan | 0.20% | 439 | 420 | 249 | 260 |
-| Notable | Araucanía-Patagonia | 0.17% | 382 | 366 | 216 | 227 |
-| Notable | Chechnya | 0.093% | 209 | 200 | 118 | 124 |
-| Notable | Hawaii | 0.070% | 157 | 150 | 88 | 92 |
-| Notable | Kabardino-Balkaria | 0.056% | 125 | 120 | 71 | 74 |
-| Notable | North Ossetia-Alania | 0.042% | 95 | 90 | 54 | 56 |
-| Notable | Alaska | 0.033% | 73 | 70 | 41 | 43 |
-| Notable | Ingushetia | 0.031% | 71 | 68 | 40 | 42 |
-| Notable | Karachay-Cherkessia | 0.029% | 65 | 62 | 36 | 38 |
-| Notable | Tuva | 0.021% | 46 | 44 | 27 | 28 |
+| Primary | Brazil | 7.89% | 18,695 | 18,041 | 10,871 | 11,120 |
+| Primary | United Kingdom | 7.44% | 17,650 | 17,034 | 10,264 | 10,499 |
+| Primary | Magna Lombardia | 6.25% | 14,835 | 14,316 | 8,627 | 8,823 |
+| Primary | CSA | 5.40% | 12,797 | 12,350 | 7,443 | 7,611 |
+| Significant | France | 4.45% | 10,568 | 10,198 | 6,145 | 6,285 |
+| Significant | Netherlands | 3.73% | 8,855 | 8,545 | 5,151 | 5,267 |
+| Significant | Russia (core state) | 3.71% | 8,806 | 8,499 | 5,123 | 5,238 |
+| Significant | Appalachia | 3.46% | 8,214 | 7,927 | 4,777 | 4,886 |
+| Significant | Latvia | 2.98% | 7,051 | 6,805 | 4,100 | 4,194 |
+| Significant | Hungary | 2.89% | 6,850 | 6,611 | 3,983 | 4,072 |
+| Significant | New England | 2.83% | 6,718 | 6,483 | 3,907 | 3,995 |
+| Significant | Argentina (without Patagonia) | 2.83% | 6,726 | 6,492 | 3,911 | 3,999 |
+| Significant | Serbia | 2.80% | 6,655 | 6,423 | 3,871 | 3,959 |
+| Significant | Croatia | 2.79% | 6,602 | 6,370 | 3,839 | 3,927 |
+| Significant | Estonia | 2.79% | 6,585 | 6,355 | 3,830 | 3,917 |
+| Significant | Idelsk-Uralia | 2.78% | 6,589 | 6,358 | 3,832 | 3,919 |
+| Significant | Czechia | 2.66% | 6,300 | 6,079 | 3,663 | 3,747 |
+| Significant | Cascadia | 2.52% | 5,984 | 5,775 | 3,479 | 3,560 |
+| Significant | Romania | 2.30% | 5,451 | 5,260 | 3,171 | 3,243 |
+| Significant | Austro-Bavaria | 2.10% | 4,972 | 4,800 | 2,892 | 2,959 |
+| Significant | Meridia | 2.09% | 4,945 | 4,773 | 2,875 | 2,942 |
+| Significant | Germany | 1.98% | 4,693 | 4,528 | 2,729 | 2,790 |
+| Significant | Ukraine | 1.85% | 4,383 | 4,229 | 2,548 | 2,606 |
+| Significant | Sweden | 1.61% | 3,813 | 3,681 | 2,217 | 2,268 |
+| Significant | Lithuania | 1.54% | 3,666 | 3,537 | 2,133 | 2,180 |
+| Significant | Bulgaria | 1.43% | 3,395 | 3,276 | 1,974 | 2,020 |
+| Significant | Norway | 1.39% | 3,289 | 3,174 | 1,913 | 1,957 |
+| Significant | Slovakia | 1.39% | 3,305 | 3,190 | 1,923 | 1,966 |
+| Significant | South Africa | 1.39% | 3,289 | 3,174 | 1,913 | 1,957 |
+| Significant | Finland | 1.35% | 3,198 | 3,086 | 1,859 | 1,902 |
+| Significant | Slovenia | 1.20% | 2,838 | 2,739 | 1,650 | 1,688 |
+| Significant | Poland | 1.17% | 2,758 | 2,663 | 1,603 | 1,641 |
+| Significant | Siberia | 1.10% | 2,620 | 2,528 | 1,523 | 1,557 |
+| Significant | Midwest Republic | 1.08% | 2,554 | 2,465 | 1,486 | 1,518 |
+| Significant | Donska-Kubania | 1.06% | 2,512 | 2,422 | 1,462 | 1,494 |
+| Notable | Amazonia | 0.87% | 2,063 | 1,990 | 1,200 | 1,226 |
+| Notable | Colorado | 0.81% | 1,922 | 1,854 | 1,117 | 1,142 |
+| Notable | Künnarantaiga | 0.64% | 1,513 | 1,460 | 880 | 899 |
+| Notable | Sonora | 0.48% | 1,127 | 1,088 | 658 | 672 |
+| Notable | Northern Ireland | 0.21% | 506 | 488 | 293 | 300 |
+| Notable | Dagestan | 0.20% | 465 | 449 | 272 | 277 |
+| Notable | Araucanía-Patagonia | 0.17% | 405 | 392 | 236 | 242 |
+| Notable | Chechnya | 0.093% | 221 | 214 | 129 | 132 |
+| Notable | Hawaii | 0.070% | 166 | 160 | 96 | 98 |
+| Notable | Kabardino-Balkaria | 0.056% | 132 | 128 | 77 | 79 |
+| Notable | North Ossetia-Alania | 0.042% | 101 | 96 | 59 | 60 |
+| Notable | Alaska | 0.033% | 77 | 75 | 45 | 46 |
+| Notable | Ingushetia | 0.031% | 75 | 73 | 44 | 45 |
+| Notable | Karachay-Cherkessia | 0.029% | 69 | 66 | 39 | 40 |
+| Notable | Tuva | 0.021% | 49 | 47 | 29 | 30 |
 
 *Tier labels follow the final shares: Primary and Significant end at the largest ratio gaps among the rows at 4.5% or more (Primary never more than six rows), no row at 4.5% or more is Notable, and Notable is the rest (the composition file's own rule, "boundaries fall at the largest ratio gaps"; the 8 / 3 / 1 share weights no longer produce the figures). Percentages are of this city's own human and robot population (identical between censuses), not Tepenia-wide. Robot figures apply the same proportions as the human population. Shares are rounded; they sum to 100% within rounding.*
 
@@ -151,7 +151,7 @@ Formerly named for the two real stations (Aboa is Latin for Turku; Wasa); a name
 
 #### Gameplay Notes
 - **Small but holding on:** Santa Luce's small size and its damaged-but-functional status in DLC 5 makes it a particular kind of location — not strategically important enough to have been a priority target, hit but not erased, still running with a tight, diminished community
-- **Two-community character:** the Italian–CIN coexistence is a social texture of a small city where two founding communities share close quarters *(not yet derived; the earlier Finnish-Swedish version is superseded)*
+- **Italian–CIN coexistence:** the Italian-descended and CIN-descended communities live partly in mixed or shared spaces but, in general, in separate neighborhoods *(developer ruling, 2026-11-02, `DR-89`; the finer day-to-day texture is not yet derived; the earlier Finnish-Swedish two-station version and its "close quarters" wording are superseded)*
 
 ---
 

@@ -16,7 +16,7 @@
 
 | Category | Value | Citation |
 |---|---|---|
-| `09_Per_City_Baseline_Run.md` §2 — Kunlun's own row | *(the Rank cell is not carried: no peer comparison)* Difficulty 2.70 · Humans 0 · Residents 135,226 · Required workforce 38,674 · Workforce 135,226 · **% of workforce required: 28.6%** *[`09` L1: only Humans, Residents and Workforce were refreshed on 2026-10-28; its Required and % WF columns remain the superseded old-B1 model]* | `09_Per_City_Baseline_Run.md` L89 |
+| `09_Per_City_Baseline_Run.md` §2 — Kunlun's own row | *(the Rank cell is not carried: no peer comparison)* Difficulty 2.70 · Humans 0 · Residents 148,497 · Required workforce 38,674 · Workforce 148,497 · **% of workforce required: 28.6%** *[`09` L1: only Humans, Residents and Workforce were refreshed on 2026-10-28; its Required and % WF columns remain the superseded old-B1 model]* | `09_Per_City_Baseline_Run.md` L89 |
 | Cross-check against `16`'s own row | Baseline 28.6% matches exactly between the two sources — no discrepancy. *On the flat ABCC working value; counts re-run when per-city ABCC values are set.* | `16_Per_City_Three_Tier_Run.md` §22 (L2260) vs `09_Per_City_Baseline_Run.md` L89; `16` L1287–1304 |
 | `11_Caloric_Rebuild_and_Livestock_Tier.md` — Kunlun's own row | D 2.70 · OLD 28.6% · **NEW 28.6% — unchanged.** Mechanism: Kunlun has zero humans, and robots do not eat | `11_Caloric_Rebuild_and_Livestock_Tier.md` L334, L339 |
 | `National_Medical_and_Care_Institutes.md` — does Kunlun appear | **Yes.** Kunlun holds NONE of the three national institutes (checked, zero). Additional content found names Kunlun alongside other cities and is FLAGGED, not extracted — see the row below | Re-verified this turn |

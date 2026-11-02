@@ -12,8 +12,8 @@
 
 ## Population & Composition
 
-**Census I (Pre-Orbital Era):** 721,889 humans / 754,374 robots / **1,476,263** combined *(was 709,749 / 742,596 / 1,452,345; census updated 2026-10-28, `DR-68`)*
-**Census II (Orbital Era):** 517,317 humans / 586,599 robots / **1,103,916** combined *(was 509,209 / 578,860 / 1,088,069)*
+**Census I (Pre-Orbital Era):** 736,821 humans / 767,646 robots / **1,504,467** combined *(Esperanza relocation 2026-11-02, `DR-90`: was 721,889 humans / 754,374 robots / 1,476,263 combined)* *(was 709,749 / 742,596 / 1,452,345; census updated 2026-10-28, `DR-68`)*
+**Census II (Orbital Era):** 525,888 humans / 598,062 robots / **1,123,950** combined *(Esperanza relocation 2026-11-02, `DR-90`: was 517,317 humans / 586,599 robots / 1,103,916 combined)* *(was 509,209 / 578,860 / 1,088,069)*
 
 | Tier | Nations |
 |------|---------|
@@ -29,37 +29,37 @@
 
 | Tier | Nation | Share % | Census I Robots | Census I Humans | Census II Robots | Census II Humans |
 |------|--------|---------|------------------|------------------|-------------------|-------------------|
-| Primary | Brazil | 10.32% | 77,864 | 74,511 | 60,547 | 53,396 |
-| Primary | United Kingdom *(founding wave)* | 10.07% | 76,031 | 72,756 | 59,121 | 52,139 |
-| Primary | CSA | 7.46% | 56,296 | 53,872 | 43,775 | 38,605 |
-| Primary | France | 7.34% | 55,351 | 52,966 | 43,040 | 37,957 |
-| Significant | Cascadia | 4.88% | 36,807 | 35,221 | 28,621 | 25,240 |
-| Significant | Appalachia | 4.79% | 36,135 | 34,579 | 28,098 | 24,780 |
-| Significant | Netherlands | 4.22% | 31,828 | 30,457 | 24,750 | 21,827 |
-| Significant | Serbia | 4.09% | 30,853 | 29,525 | 23,991 | 21,157 |
-| Significant | Croatia | 4.08% | 30,736 | 29,411 | 23,899 | 21,077 |
-| Significant | Slovenia | 4.00% | 30,167 | 28,867 | 23,459 | 20,687 |
-| Significant | New England | 3.92% | 29,554 | 28,281 | 22,981 | 20,267 |
-| Significant | Demilitarized Zone (s. Ontario; not a nation) | 3.75% | 28,252 | 27,036 | 21,970 | 19,373 |
-| Significant | Poland | 3.49% | 26,332 | 25,197 | 20,475 | 18,056 |
-| Significant | Germany | 3.46% | 26,106 | 24,982 | 20,299 | 17,902 |
-| Significant | Chile | 3.23% | 24,330 | 23,282 | 18,919 | 16,684 |
-| Significant | Quebec | 2.87% | 21,603 | 20,674 | 16,798 | 14,815 |
-| Significant | Austro-Bavaria | 2.38% | 17,975 | 17,202 | 13,978 | 12,327 |
-| Significant | Argentina (without Patagonia) | 2.15% | 16,202 | 15,504 | 12,598 | 11,110 |
-| Significant | Prairie Federation | 2.11% | 15,892 | 15,208 | 12,358 | 10,899 |
-| Significant | South Africa | 1.76% | 13,341 | 12,767 | 10,374 | 9,149 |
-| Significant | Czechia | 1.75% | 13,165 | 12,597 | 10,237 | 9,027 |
-| Significant | Hungary | 1.55% | 11,681 | 11,178 | 9,083 | 8,010 |
-| Significant | Midwest Republic | 1.49% | 11,237 | 10,752 | 8,738 | 7,706 |
-| Significant | Amazonia | 1.14% | 8,590 | 8,220 | 6,678 | 5,891 |
-| Significant | Colorado | 1.12% | 8,450 | 8,087 | 6,571 | 5,796 |
-| Notable | Slovakia | 0.83% | 6,274 | 6,004 | 4,878 | 4,302 |
-| Notable | Sonora | 0.66% | 4,963 | 4,751 | 3,860 | 3,405 |
-| Notable | Araucanía-Patagonia | 0.65% | 4,898 | 4,688 | 3,809 | 3,359 |
-| Notable | Northern Ireland | 0.29% | 2,176 | 2,084 | 1,693 | 1,493 |
-| Notable | Hawaii | 0.097% | 729 | 698 | 568 | 500 |
-| Notable | Alaska | 0.074% | 556 | 532 | 433 | 381 |
+| Primary | Brazil | 10.32% | 79,234 | 76,052 | 61,730 | 54,281 |
+| Primary | United Kingdom *(founding wave)* | 10.07% | 77,369 | 74,261 | 60,276 | 53,003 |
+| Primary | CSA | 7.46% | 57,286 | 54,986 | 44,630 | 39,245 |
+| Primary | France | 7.34% | 56,325 | 54,062 | 43,881 | 38,586 |
+| Significant | Cascadia | 4.88% | 37,454 | 35,950 | 29,180 | 25,658 |
+| Significant | Appalachia | 4.79% | 36,771 | 35,294 | 28,647 | 25,190 |
+| Significant | Netherlands | 4.22% | 32,388 | 31,087 | 25,234 | 22,189 |
+| Significant | Serbia | 4.09% | 31,396 | 30,136 | 24,460 | 21,507 |
+| Significant | Croatia | 4.08% | 31,277 | 30,019 | 24,366 | 21,426 |
+| Significant | Slovenia | 4.00% | 30,698 | 29,464 | 23,917 | 21,030 |
+| Significant | New England | 3.92% | 30,074 | 28,866 | 23,430 | 20,603 |
+| Significant | Demilitarized Zone (s. Ontario; not a nation) | 3.75% | 28,749 | 27,595 | 22,399 | 19,694 |
+| Significant | Poland | 3.49% | 26,795 | 25,718 | 20,875 | 18,355 |
+| Significant | Germany | 3.46% | 26,565 | 25,499 | 20,696 | 18,199 |
+| Significant | Chile | 3.23% | 24,758 | 23,764 | 19,289 | 16,960 |
+| Significant | Quebec | 2.87% | 21,983 | 21,102 | 17,126 | 15,060 |
+| Significant | Austro-Bavaria | 2.38% | 18,291 | 17,558 | 14,251 | 12,531 |
+| Significant | Argentina (without Patagonia) | 2.15% | 16,487 | 15,825 | 12,844 | 11,294 |
+| Significant | Prairie Federation | 2.11% | 16,172 | 15,523 | 12,600 | 11,080 |
+| Significant | South Africa | 1.76% | 13,576 | 13,031 | 10,577 | 9,301 |
+| Significant | Czechia | 1.75% | 13,397 | 12,858 | 10,437 | 9,176 |
+| Significant | Hungary | 1.55% | 11,886 | 11,409 | 9,261 | 8,143 |
+| Significant | Midwest Republic | 1.49% | 11,435 | 10,974 | 8,909 | 7,834 |
+| Significant | Amazonia | 1.14% | 8,741 | 8,390 | 6,809 | 5,989 |
+| Significant | Colorado | 1.12% | 8,599 | 8,254 | 6,699 | 5,892 |
+| Notable | Slovakia | 0.83% | 6,384 | 6,128 | 4,973 | 4,373 |
+| Notable | Sonora | 0.66% | 5,050 | 4,849 | 3,935 | 3,461 |
+| Notable | Araucanía-Patagonia | 0.65% | 4,984 | 4,785 | 3,884 | 3,415 |
+| Notable | Northern Ireland | 0.29% | 2,214 | 2,127 | 1,726 | 1,518 |
+| Notable | Hawaii | 0.097% | 742 | 712 | 579 | 508 |
+| Notable | Alaska | 0.074% | 566 | 543 | 442 | 387 |
 
 *Tier labels follow the final shares: Primary and Significant end at the largest ratio gaps among the rows at 4.5% or more (Primary never more than six rows), no row at 4.5% or more is Notable, and Notable is the rest (the composition file's own rule, "boundaries fall at the largest ratio gaps"; the 8 / 3 / 1 share weights no longer produce the figures). Percentages are of this city's own human and robot population (identical between censuses), not Tepenia-wide. Robot figures apply the same proportions as the human population. Shares are rounded; they sum to 100% within rounding.*
 

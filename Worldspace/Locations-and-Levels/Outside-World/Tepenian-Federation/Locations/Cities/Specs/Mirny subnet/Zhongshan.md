@@ -12,8 +12,8 @@
 
 ## Population & Composition
 
-**Census I (Pre-Orbital Era):** 580,925 humans / 594,481 robots / **1,175,406** combined *(was 568,786 / 582,703 / 1,151,489; census updated 2026-10-28, `DR-68`)* ⭐ **−10% 2026-09-05, developer ruling** — *was 631,985 / 647,448 / **1,279,433***. ⛔ **Released to Relung Panen, the 38th city** *(`Official_Population_Census.md` §D-OVERFLOW)*. **H/R ratio preserved.** ⚠⚠ ***An authoring adjustment, NOT an event.*** *Nobody left this city; there is no departure, no diaspora, and Relung Panen inherits **no** population, composition or memory from here.*
-**Census II (Orbital Era):** 478,243 humans / 434,620 robots / **912,863** combined *(was 470,135 / 426,881 / 897,016)* ⭐ **−10% 2026-09-05, developer ruling** — *was 522,372 / 474,312 / **996,684***. ⛔ **Released to Relung Panen, the 38th city** *(`Official_Population_Census.md` §D-OVERFLOW)*. **H/R ratio preserved.** ⚠⚠ ***An authoring adjustment, NOT an event.*** *Nobody left this city; there is no departure, no diaspora, and Relung Panen inherits **no** population, composition or memory from here.*
+**Census I (Pre-Orbital Era):** 595,855 humans / 607,752 robots / **1,203,607** combined *(Esperanza relocation 2026-11-02, `DR-90`: was 580,925 humans / 594,481 robots / 1,175,406 combined)* *(was 568,786 / 582,703 / 1,151,489; census updated 2026-10-28, `DR-68`)* ⭐ **−10% 2026-09-05, developer ruling** — *was 631,985 / 647,448 / **1,279,433***. ⛔ **Released to Relung Panen, the 38th city** *(`Official_Population_Census.md` §D-OVERFLOW)*. **H/R ratio preserved.** ⚠⚠ ***An authoring adjustment, NOT an event.*** *Nobody left this city; there is no departure, no diaspora, and Relung Panen inherits **no** population, composition or memory from here.*
+**Census II (Orbital Era):** 486,813 humans / 446,082 robots / **932,895** combined *(Esperanza relocation 2026-11-02, `DR-90`: was 478,243 humans / 434,620 robots / 912,863 combined)* *(was 470,135 / 426,881 / 897,016)* ⭐ **−10% 2026-09-05, developer ruling** — *was 522,372 / 474,312 / **996,684***. ⛔ **Released to Relung Panen, the 38th city** *(`Official_Population_Census.md` §D-OVERFLOW)*. **H/R ratio preserved.** ⚠⚠ ***An authoring adjustment, NOT an event.*** *Nobody left this city; there is no departure, no diaspora, and Relung Panen inherits **no** population, composition or memory from here.*
 
 | Tier | Nations |
 |------|---------|
@@ -33,41 +33,41 @@
 
 | Tier | Nation | Share % | Census I Robots | Census I Humans | Census II Robots | Census II Humans |
 |------|--------|---------|------------------|------------------|-------------------|-------------------|
-| Primary | Sinian Federation *(founding wave)* | 35.83% | 213,003 | 208,145 | 155,725 | 171,355 |
-| Significant | Korea | 9.70% | 57,664 | 56,351 | 42,158 | 46,389 |
-| Significant | Japan | 7.30% | 43,397 | 42,408 | 31,727 | 34,912 |
-| Significant | Germany | 7.10% | 42,235 | 41,271 | 30,877 | 33,977 |
-| Notable | Australia | 3.66% | 21,758 | 21,262 | 15,907 | 17,504 |
-| Notable | Vietnam | 3.56% | 21,163 | 20,681 | 15,472 | 17,025 |
-| Notable | Estonia | 3.55% | 21,104 | 20,622 | 15,429 | 16,978 |
-| Notable | Lithuania | 3.14% | 18,667 | 18,241 | 13,647 | 15,017 |
-| Notable | Thailand | 3.09% | 18,368 | 17,948 | 13,428 | 14,776 |
-| Notable | Malaysia | 3.04% | 18,072 | 17,660 | 13,212 | 14,538 |
-| Notable | Indonesia | 2.86% | 17,003 | 16,615 | 12,431 | 13,678 |
-| Notable | Romania | 2.58% | 15,359 | 15,009 | 11,229 | 12,356 |
-| Notable | Idelsk-Uralia | 1.79% | 10,664 | 10,421 | 7,797 | 8,579 |
-| Notable | Russia (core state) | 1.79% | 10,663 | 10,420 | 7,796 | 8,579 |
-| Notable | Philippines | 1.72% | 10,225 | 9,992 | 7,475 | 8,226 |
-| Notable | Latvia | 1.58% | 9,393 | 9,178 | 6,867 | 7,556 |
-| Notable | Austro-Bavaria | 1.37% | 8,118 | 7,933 | 5,935 | 6,531 |
-| Notable | New Zealand | 1.28% | 7,609 | 7,435 | 5,563 | 6,121 |
-| Notable | Bulgaria | 1.21% | 7,193 | 7,029 | 5,259 | 5,787 |
-| Notable | South Africa | 1.20% | 7,133 | 6,972 | 5,216 | 5,738 |
-| Notable | Siberia | 0.71% | 4,239 | 4,142 | 3,099 | 3,410 |
-| Notable | Donska-Kubania | 0.68% | 4,064 | 3,972 | 2,971 | 3,270 |
-| Notable | Künnarantaiga | 0.41% | 2,449 | 2,393 | 1,790 | 1,970 |
-| Notable | Hungary | 0.30% | 1,762 | 1,722 | 1,288 | 1,417 |
-| Notable | Dagestan | 0.13% | 753 | 736 | 551 | 606 |
-| Notable | Patani | 0.090% | 537 | 525 | 393 | 432 |
-| Notable | West Papua | 0.061% | 363 | 355 | 265 | 292 |
-| Notable | Chechnya | 0.060% | 358 | 349 | 262 | 288 |
-| Notable | Aceh | 0.059% | 350 | 342 | 256 | 282 |
-| Notable | Kabardino-Balkaria | 0.036% | 214 | 209 | 157 | 172 |
-| Notable | North Ossetia-Alania | 0.027% | 163 | 159 | 119 | 131 |
-| Notable | Finland | 0.021% | 126 | 123 | 92 | 101 |
-| Notable | Ingushetia | 0.020% | 121 | 118 | 88 | 97 |
-| Notable | Karachay-Cherkessia | 0.019% | 111 | 109 | 81 | 89 |
-| Notable | Tuva | 0.013% | 80 | 78 | 58 | 64 |
+| Primary | Sinian Federation *(founding wave)* | 35.83% | 217,758 | 213,494 | 159,832 | 174,426 |
+| Significant | Korea | 9.70% | 58,951 | 57,799 | 43,270 | 47,220 |
+| Significant | Japan | 7.30% | 44,366 | 43,498 | 32,564 | 35,538 |
+| Significant | Germany | 7.10% | 43,178 | 42,332 | 31,691 | 34,586 |
+| Notable | Australia | 3.66% | 22,244 | 21,808 | 16,326 | 17,818 |
+| Notable | Vietnam | 3.56% | 21,635 | 21,213 | 15,880 | 17,330 |
+| Notable | Estonia | 3.55% | 21,575 | 21,152 | 15,836 | 17,282 |
+| Notable | Lithuania | 3.14% | 19,084 | 18,710 | 14,007 | 15,286 |
+| Notable | Thailand | 3.09% | 18,778 | 18,409 | 13,782 | 15,041 |
+| Notable | Malaysia | 3.04% | 18,475 | 18,114 | 13,560 | 14,798 |
+| Notable | Indonesia | 2.86% | 17,382 | 17,042 | 12,759 | 13,923 |
+| Notable | Romania | 2.58% | 15,702 | 15,395 | 11,525 | 12,577 |
+| Notable | Idelsk-Uralia | 1.79% | 10,902 | 10,689 | 8,003 | 8,733 |
+| Notable | Russia (core state) | 1.79% | 10,901 | 10,688 | 8,002 | 8,733 |
+| Notable | Philippines | 1.72% | 10,453 | 10,249 | 7,672 | 8,373 |
+| Notable | Latvia | 1.58% | 9,603 | 9,414 | 7,048 | 7,691 |
+| Notable | Austro-Bavaria | 1.37% | 8,299 | 8,137 | 6,091 | 6,648 |
+| Notable | New Zealand | 1.28% | 7,779 | 7,626 | 5,710 | 6,231 |
+| Notable | Bulgaria | 1.21% | 7,353 | 7,210 | 5,398 | 5,891 |
+| Notable | South Africa | 1.20% | 7,292 | 7,151 | 5,354 | 5,841 |
+| Notable | Siberia | 0.71% | 4,334 | 4,248 | 3,181 | 3,471 |
+| Notable | Donska-Kubania | 0.68% | 4,155 | 4,074 | 3,049 | 3,329 |
+| Notable | Künnarantaiga | 0.41% | 2,504 | 2,455 | 1,837 | 2,005 |
+| Notable | Hungary | 0.30% | 1,801 | 1,766 | 1,322 | 1,442 |
+| Notable | Dagestan | 0.13% | 770 | 755 | 566 | 617 |
+| Notable | Patani | 0.090% | 549 | 538 | 403 | 440 |
+| Notable | West Papua | 0.061% | 371 | 364 | 272 | 297 |
+| Notable | Chechnya | 0.060% | 366 | 358 | 269 | 293 |
+| Notable | Aceh | 0.059% | 358 | 351 | 263 | 287 |
+| Notable | Kabardino-Balkaria | 0.036% | 219 | 214 | 161 | 175 |
+| Notable | North Ossetia-Alania | 0.027% | 167 | 163 | 122 | 133 |
+| Notable | Finland | 0.021% | 129 | 126 | 94 | 103 |
+| Notable | Ingushetia | 0.020% | 124 | 121 | 90 | 99 |
+| Notable | Karachay-Cherkessia | 0.019% | 113 | 112 | 83 | 91 |
+| Notable | Tuva | 0.013% | 82 | 80 | 60 | 65 |
 
 *Tier labels follow the final shares: Primary and Significant end at the largest ratio gaps among the rows at 4.5% or more (Primary never more than six rows), no row at 4.5% or more is Notable, and Notable is the rest (the composition file's own rule, "boundaries fall at the largest ratio gaps"; the 8 / 3 / 1 share weights no longer produce the figures). Percentages are of this city's own human and robot population (identical between censuses), not Tepenia-wide. Robot figures apply the same proportions as the human population. Shares are rounded; they sum to 100% within rounding.*
 

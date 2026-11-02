@@ -41,9 +41,9 @@ def build_national(data):
     return tot
 
 
-def national_table(tot):
+def national_table(tot, maritime=MARITIME):
     items = sorted(tot.items(), key=lambda kv: (-kv[1], kv[0]))
-    items.append(("*Maritime fleet (no nation assigned)*", MARITIME))
+    items.append(("*Maritime fleet (no nation assigned)*", maritime))
     grand = sum(v for _, v in items)
     half = (len(items) + 1) // 2
     left, right = items[:half], items[half:]

@@ -12,8 +12,8 @@
 
 ## Population & Composition
 
-**Census I (Pre-Orbital Era):** 575,738 humans / 606,493 robots / **1,182,231** combined *(was 563,599 / 594,715 / 1,158,314; census updated 2026-10-28, `DR-68`)*
-**Census II (Orbital Era):** 445,531 humans / 351,912 robots / **797,443** combined *(was 437,423 / 344,173 / 781,596)*
+**Census I (Pre-Orbital Era):** 590,668 humans / 619,764 robots / **1,210,432** combined *(Esperanza relocation 2026-11-02, `DR-90`: was 575,738 humans / 606,493 robots / 1,182,231 combined)* *(was 563,599 / 594,715 / 1,158,314; census updated 2026-10-28, `DR-68`)*
+**Census II (Orbital Era):** 454,101 humans / 363,374 robots / **817,475** combined *(Esperanza relocation 2026-11-02, `DR-90`: was 445,531 humans / 351,912 robots / 797,443 combined)* *(was 437,423 / 344,173 / 781,596)*
 
 | Tier | Nations |
 |------|---------|
@@ -29,50 +29,50 @@
 
 | Tier | Nation | Share % | Census I Robots | Census I Humans | Census II Robots | Census II Humans |
 |------|--------|---------|------------------|------------------|-------------------|-------------------|
-| Primary | Japan | 10.57% | 64,126 | 60,876 | 37,209 | 47,110 |
-| Primary | Sinian Federation | 9.86% | 59,792 | 56,759 | 34,692 | 43,923 |
-| Primary | United Kingdom | 9.50% | 57,614 | 54,692 | 33,428 | 42,322 |
-| Primary | Germany | 8.67% | 52,581 | 49,915 | 30,510 | 38,628 |
-| Primary | Korea | 8.47% | 51,402 | 48,795 | 29,826 | 37,759 |
-| Significant | Indonesia | 5.57% | 33,795 | 32,084 | 19,611 | 24,829 |
-| Significant | Australia *(founding wave)* | 5.57% | 33,778 | 32,064 | 19,600 | 24,812 |
-| Notable | Thailand | 3.27% | 19,850 | 18,842 | 11,517 | 14,581 |
-| Notable | Vietnam | 3.15% | 19,094 | 18,126 | 11,079 | 14,026 |
-| Notable | Philippines | 3.11% | 18,862 | 17,906 | 10,945 | 13,856 |
-| Notable | Malaysia | 3.00% | 18,166 | 17,246 | 10,541 | 13,345 |
-| Notable | Taiwan | 2.90% | 17,619 | 16,725 | 10,223 | 12,943 |
-| Notable | Russia (core state) | 2.82% | 17,112 | 16,244 | 9,929 | 12,572 |
-| Notable | South Africa | 2.79% | 16,947 | 16,087 | 9,833 | 12,450 |
-| Notable | Romania | 2.55% | 15,465 | 14,680 | 8,973 | 11,359 |
-| Notable | Ukraine | 2.23% | 13,525 | 12,838 | 7,848 | 9,935 |
-| Notable | New Zealand | 1.71% | 10,388 | 9,861 | 6,028 | 7,632 |
-| Notable | Idelsk-Uralia | 1.69% | 10,265 | 9,746 | 5,955 | 7,540 |
-| Notable | Belarus | 1.56% | 9,461 | 8,981 | 5,488 | 6,949 |
-| Notable | Bulgaria | 1.45% | 8,763 | 8,319 | 5,085 | 6,439 |
-| Notable | Austro-Bavaria | 1.41% | 8,562 | 8,128 | 4,967 | 6,289 |
-| Notable | Manchuria | 1.23% | 7,466 | 7,087 | 4,332 | 5,484 |
-| Notable | Lithuania | 1.20% | 7,255 | 6,887 | 4,210 | 5,330 |
-| Notable | Estonia | 1.19% | 7,197 | 6,833 | 4,176 | 5,287 |
-| Notable | Latvia | 0.90% | 5,456 | 5,179 | 3,166 | 4,007 |
-| Notable | Siberia | 0.67% | 4,080 | 3,873 | 2,368 | 2,998 |
-| Notable | Donska-Kubania | 0.65% | 3,912 | 3,715 | 2,270 | 2,873 |
-| Notable | Mongolia | 0.40% | 2,440 | 2,318 | 1,417 | 1,793 |
-| Notable | Künnarantaiga | 0.39% | 2,357 | 2,237 | 1,368 | 1,732 |
-| Notable | East Turkestan | 0.34% | 2,062 | 1,957 | 1,197 | 1,514 |
-| Notable | Hungary | 0.29% | 1,773 | 1,683 | 1,029 | 1,304 |
-| Notable | Northern Ireland | 0.23% | 1,398 | 1,327 | 811 | 1,027 |
-| Notable | Dagestan | 0.12% | 724 | 687 | 420 | 532 |
-| Notable | West Papua | 0.10% | 610 | 580 | 355 | 449 |
-| Notable | Aceh | 0.097% | 591 | 560 | 344 | 433 |
-| Notable | Patani | 0.096% | 581 | 551 | 338 | 425 |
-| Notable | Chechnya | 0.057% | 346 | 328 | 200 | 253 |
-| Notable | Tibet | 0.048% | 291 | 276 | 168 | 214 |
-| Notable | Kabardino-Balkaria | 0.034% | 206 | 195 | 120 | 151 |
-| Notable | North Ossetia-Alania | 0.026% | 157 | 149 | 91 | 116 |
-| Notable | Finland | 0.020% | 122 | 116 | 71 | 89 |
-| Notable | Ingushetia | 0.019% | 117 | 111 | 67 | 85 |
-| Notable | Karachay-Cherkessia | 0.018% | 108 | 102 | 62 | 79 |
-| Notable | Tuva | 0.013% | 77 | 73 | 45 | 57 |
+| Primary | Japan | 10.57% | 65,529 | 62,455 | 38,421 | 48,016 |
+| Primary | Sinian Federation | 9.86% | 61,100 | 58,231 | 35,822 | 44,768 |
+| Primary | United Kingdom | 9.50% | 58,875 | 56,110 | 34,517 | 43,136 |
+| Primary | Germany | 8.67% | 53,732 | 51,209 | 31,504 | 39,371 |
+| Primary | Korea | 8.47% | 52,527 | 50,060 | 30,797 | 38,485 |
+| Significant | Indonesia | 5.57% | 34,534 | 32,916 | 20,250 | 25,307 |
+| Significant | Australia *(founding wave)* | 5.57% | 34,517 | 32,895 | 20,238 | 25,289 |
+| Notable | Thailand | 3.27% | 20,284 | 19,331 | 11,892 | 14,861 |
+| Notable | Vietnam | 3.15% | 19,512 | 18,596 | 11,440 | 14,296 |
+| Notable | Philippines | 3.11% | 19,275 | 18,370 | 11,302 | 14,123 |
+| Notable | Malaysia | 3.00% | 18,563 | 17,693 | 10,884 | 13,602 |
+| Notable | Taiwan | 2.90% | 18,005 | 17,159 | 10,556 | 13,192 |
+| Notable | Russia (core state) | 2.82% | 17,486 | 16,665 | 10,252 | 12,814 |
+| Notable | South Africa | 2.79% | 17,318 | 16,504 | 10,153 | 12,689 |
+| Notable | Romania | 2.55% | 15,803 | 15,061 | 9,265 | 11,577 |
+| Notable | Ukraine | 2.23% | 13,821 | 13,171 | 8,104 | 10,126 |
+| Notable | New Zealand | 1.71% | 10,615 | 10,117 | 6,224 | 7,779 |
+| Notable | Idelsk-Uralia | 1.69% | 10,490 | 9,999 | 6,149 | 7,685 |
+| Notable | Belarus | 1.56% | 9,668 | 9,214 | 5,667 | 7,083 |
+| Notable | Bulgaria | 1.45% | 8,955 | 8,535 | 5,251 | 6,563 |
+| Notable | Austro-Bavaria | 1.41% | 8,749 | 8,339 | 5,129 | 6,410 |
+| Notable | Manchuria | 1.23% | 7,629 | 7,271 | 4,473 | 5,589 |
+| Notable | Lithuania | 1.20% | 7,414 | 7,066 | 4,347 | 5,433 |
+| Notable | Estonia | 1.19% | 7,354 | 7,010 | 4,312 | 5,389 |
+| Notable | Latvia | 0.90% | 5,575 | 5,313 | 3,269 | 4,084 |
+| Notable | Siberia | 0.67% | 4,169 | 3,973 | 2,445 | 3,056 |
+| Notable | Donska-Kubania | 0.65% | 3,998 | 3,811 | 2,344 | 2,928 |
+| Notable | Mongolia | 0.40% | 2,493 | 2,378 | 1,463 | 1,827 |
+| Notable | Künnarantaiga | 0.39% | 2,409 | 2,295 | 1,413 | 1,765 |
+| Notable | East Turkestan | 0.34% | 2,107 | 2,008 | 1,236 | 1,543 |
+| Notable | Hungary | 0.29% | 1,812 | 1,727 | 1,063 | 1,329 |
+| Notable | Northern Ireland | 0.23% | 1,429 | 1,361 | 837 | 1,047 |
+| Notable | Dagestan | 0.12% | 740 | 705 | 434 | 542 |
+| Notable | West Papua | 0.10% | 623 | 595 | 367 | 458 |
+| Notable | Aceh | 0.097% | 604 | 575 | 355 | 441 |
+| Notable | Patani | 0.096% | 594 | 565 | 349 | 433 |
+| Notable | Chechnya | 0.057% | 354 | 336 | 207 | 258 |
+| Notable | Tibet | 0.048% | 297 | 283 | 173 | 218 |
+| Notable | Kabardino-Balkaria | 0.034% | 211 | 200 | 124 | 154 |
+| Notable | North Ossetia-Alania | 0.026% | 160 | 153 | 94 | 118 |
+| Notable | Finland | 0.020% | 125 | 119 | 73 | 91 |
+| Notable | Ingushetia | 0.019% | 120 | 114 | 69 | 87 |
+| Notable | Karachay-Cherkessia | 0.018% | 110 | 105 | 64 | 81 |
+| Notable | Tuva | 0.013% | 79 | 75 | 46 | 58 |
 
 *Tier labels follow the final shares: Primary and Significant end at the largest ratio gaps among the rows at 4.5% or more (Primary never more than six rows), no row at 4.5% or more is Notable, and Notable is the rest (the composition file's own rule, "boundaries fall at the largest ratio gaps"; the 8 / 3 / 1 share weights no longer produce the figures). Percentages are of this city's own human and robot population (identical between censuses), not Tepenia-wide. Robot figures apply the same proportions as the human population. Shares are rounded; they sum to 100% within rounding.*
 

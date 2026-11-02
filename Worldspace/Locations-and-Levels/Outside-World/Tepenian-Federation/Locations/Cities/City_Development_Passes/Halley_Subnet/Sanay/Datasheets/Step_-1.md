@@ -16,7 +16,7 @@
 | Coordinates (as written in the same field) | ~71°40'S, 2°51'W | `Specs/Sanay.md` L3 |
 | Specs `Status:` field | States a later-era condition; per the standing default-scope rule (`00_RUNBOOK.md`, the Second Interwar default) this is **never an input** to a Second Interwar pass — not copied | `Specs/Sanay.md` L5 |
 | Later-era sections present in the Specs file (same exclusion as `Status:`) | 3 section(s), by heading position: L179, L184, L192 — not copied, not described | `Specs/Sanay.md` L184, L189, L197 |
-| Census I (spec's own line) | 243,714 humans / 243,871 robots / **487,585** combined | `Specs/Sanay.md` L16 |
-| Census II (spec's own line) | 153,905 humans / 137,057 robots / **290,962** combined | `Specs/Sanay.md` L17 |
+| Census I (spec's own line) | 258,646 humans / 257,143 robots / **515,789** combined | `Specs/Sanay.md` L16 |
+| Census II (spec's own line) | 162,476 humans / 148,520 robots / **310,996** combined | `Specs/Sanay.md` L17 |
 
 **Not mechanical / not included here:** the admitted read-range, the four-category classification (PROVIDED/RESERVED/PRODUCED/REQUESTED), any generator presence/absence call, the type-modifier declaration — none of this exists until Sanay's own pass runs.

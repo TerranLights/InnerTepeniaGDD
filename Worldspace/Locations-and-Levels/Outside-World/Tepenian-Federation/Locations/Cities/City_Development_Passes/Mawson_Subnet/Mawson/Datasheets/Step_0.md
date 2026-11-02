@@ -8,11 +8,11 @@
 
 | Category | Value | Citation |
 |---|---|---|
-| Census I | 721,869 H / 748,782 R / **1,470,651** combined (status cell: revised 2026-07-04) | `Official_Population_Census.md` L499 |
-| Census II | 435,429 H / 532,864 R / **968,293** combined | `Official_Population_Census.md` L644 |
-| Retention (computed; formula = Census II count ÷ Census I count) | combined 65.84% · human 60.32% · robot 71.16% | Computed from the two rows above: 968,293÷1,470,651 · 435,429÷721,869 · 532,864÷748,782 |
+| Census I | 736,799 H / 762,053 R / **1,498,852** combined (status cell: revised 2026-07-04) | `Official_Population_Census.md` L499 |
+| Census II | 443,999 H / 544,326 R / **988,325** combined | `Official_Population_Census.md` L644 |
+| Retention (computed; formula = Census II count ÷ Census I count) | combined 65.94% · human 60.26% · robot 71.43% | Computed from the two rows above: 988,325÷1,498,852 · 443,999÷736,799 · 544,326÷762,053 |
 | **Extent (2026-09-05 snapshot; the census is live — note L631):** Mawson · Subnet Mawson | Census I (snapshot) 1,446,733 · @10k 145 km² · @7k 207 km² · Site Holme Bay | `Extent_and_Density_Per_City.md` L610 (table header L603; snapshot note L631) |
-| **Extent at the live Census I (computed)** | @10k 147.1 km² · @7k 210.1 km² | Computed from the Census I row above: 1,470,651÷10,000 = 147.07 · 1,470,651÷7,000 = 210.09 (the table's `@10k` / `@7k` columns, L603) |
+| **Extent at the live Census I (computed)** | @10k 147.1 km² · @7k 210.1 km² | Computed from the Census I row above: 1,498,852÷10,000 = 147.07 · 1,498,852÷7,000 = 210.09 (the table's `@10k` / `@7k` columns, L603) |
 | **Temporal frame — the Second Interwar Period** | **2564–2812. 248 years, beginning at the Falkland Treaty.** The default frame for worldbuilding a Tepenian location; a corpus-wide constant, not a per-city judgment | ⭐ `Corpus_Reference_Sheets/Second_Interwar_Period_Quick_Reference.md`, in full |
 | Act structure within the frame | Act 1: 2564 → somewhere in the 2600s (a hazy range, not yet dated) — national-ethnic-origin cultures still fresh. Act 2: by the late 2600s / early 2700s, onward — properly Tepenian; origin is ancestry, not identity | `Corpus_Reference_Sheets/Second_Interwar_Period_Quick_Reference.md` |
 | The consolidating mechanism | Interconnection, decisively solidified by Amundsen Tower's completion (~2688) — not a switch, not the creation of unity, not the Tower's only effect | `Corpus_Reference_Sheets/Second_Interwar_Period_Quick_Reference.md` §"The consolidating mechanism" |

@@ -171,10 +171,10 @@ sizes the workforces these institutes exist to supply.
 ## The Institute is a fraction of its host city's education economy
 
 **Esperanza at ~12,600 graduates a year on ~3-year programs carries a standing student body of ~37,800 —
-about 2% of a 1.88 M city.** *(Oxford runs near 20%.)* **One campus handles that comfortably.**
+about 3% of a 1.2 M city.** *(figures updated 2026-11-02, `DR-90`, for the 1,200,000-person Esperanza; they were 1.88 M, 350,155 and four million)* *(Oxford runs near 20%.)* **One campus handles that comfortably.**
 
-**⚠ Which settles something:** Esperanza's §15 education sector of ~25% is **350,155 workers** — enough, at a
-1:12 ratio, to teach four million students. **The Institute is one part of a much broader education economy**
+**⚠ Which settles something:** Esperanza's §15 education sector of ~25% is **134,897 workers** — enough, at a
+1:12 ratio, to teach about 1.6 million students. **The Institute is one part of a much broader education economy**
 *(local schooling, childcare, family services, general tertiary export)*, **not the whole of it.**
 
 ## ⭐ Satellite campuses — the case is RESILIENCE and ACCESS, not capacity

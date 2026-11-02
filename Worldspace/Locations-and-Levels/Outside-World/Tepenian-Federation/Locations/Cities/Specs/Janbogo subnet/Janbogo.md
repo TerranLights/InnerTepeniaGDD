@@ -12,8 +12,8 @@
 
 ## Population & Composition
 
-**Census I (Pre-Orbital Era):** 658,680 humans / 675,748 robots / **1,334,428** combined *(was 646,541 / 663,970 / 1,310,511; census updated 2026-10-28, `DR-68`)*
-**Census II (Orbital Era):** 498,672 humans / 474,745 robots / **973,417** combined *(was 490,564 / 467,006 / 957,570)*
+**Census I (Pre-Orbital Era):** 673,610 humans / 689,019 robots / **1,362,629** combined *(Esperanza relocation 2026-11-02, `DR-90`: was 658,680 humans / 675,748 robots / 1,334,428 combined)* *(was 646,541 / 663,970 / 1,310,511; census updated 2026-10-28, `DR-68`)*
+**Census II (Orbital Era):** 507,242 humans / 486,208 robots / **993,450** combined *(Esperanza relocation 2026-11-02, `DR-90`: was 498,672 humans / 474,745 robots / 973,417 combined)* *(was 490,564 / 467,006 / 957,570)*
 
 | Tier | Nations |
 |------|---------|
@@ -29,38 +29,38 @@
 
 | Tier | Nation | Share % | Census I Robots | Census I Humans | Census II Robots | Census II Humans |
 |------|--------|---------|------------------|------------------|-------------------|-------------------|
-| Primary | Korea *(founding wave)* | 12.37% | 83,572 | 81,461 | 58,713 | 61,672 |
-| Primary | Australia | 11.68% | 78,919 | 76,924 | 55,444 | 58,238 |
-| Primary | Sinian Federation | 10.57% | 71,404 | 69,599 | 50,164 | 52,692 |
-| Primary | Indonesia | 9.96% | 67,305 | 65,605 | 47,284 | 49,668 |
-| Primary | CSA | 6.95% | 46,998 | 45,812 | 33,018 | 34,682 |
-| Primary | Magna Lombardia | 6.08% | 41,091 | 40,053 | 28,869 | 30,323 |
-| Significant | Japan | 4.22% | 28,520 | 27,798 | 20,037 | 21,046 |
-| Significant | Germany | 3.73% | 25,208 | 24,570 | 17,710 | 18,602 |
-| Significant | Appalachia | 3.66% | 24,719 | 24,095 | 17,367 | 18,242 |
-| Significant | Cascadia | 3.18% | 21,503 | 20,960 | 15,107 | 15,867 |
-| Significant | Meridia | 3.06% | 20,670 | 20,147 | 14,523 | 15,254 |
-| Significant | Malaysia | 3.00% | 20,281 | 19,769 | 14,247 | 14,966 |
-| Significant | New England | 2.99% | 20,217 | 19,707 | 14,205 | 14,919 |
-| Significant | Taiwan | 2.91% | 19,649 | 19,153 | 13,804 | 14,500 |
-| Significant | Chile | 2.66% | 17,921 | 17,469 | 12,590 | 13,225 |
-| Notable | Philippines | 1.67% | 11,293 | 11,008 | 7,934 | 8,335 |
-| Notable | New Zealand | 1.59% | 10,762 | 10,492 | 7,561 | 7,942 |
-| Notable | Demilitarized Zone (s. Ontario; not a nation) | 1.40% | 9,420 | 9,182 | 6,617 | 6,951 |
-| Notable | Manchuria | 1.33% | 9,022 | 8,794 | 6,338 | 6,657 |
-| Notable | Midwest Republic | 1.14% | 7,686 | 7,494 | 5,400 | 5,673 |
-| Notable | Quebec | 1.07% | 7,202 | 7,020 | 5,059 | 5,316 |
-| Notable | Colorado | 0.85% | 5,782 | 5,635 | 4,061 | 4,267 |
-| Notable | Prairie Federation | 0.79% | 5,299 | 5,164 | 3,723 | 3,910 |
-| Notable | Austro-Bavaria | 0.72% | 4,845 | 4,723 | 3,405 | 3,576 |
-| Notable | Sicilia (autonomous zone within Meridia) | 0.71% | 4,790 | 4,669 | 3,366 | 3,535 |
-| Notable | Sonora | 0.50% | 3,397 | 3,311 | 2,386 | 2,506 |
-| Notable | Araucanía-Patagonia | 0.43% | 2,889 | 2,817 | 2,031 | 2,133 |
-| Notable | Mongolia | 0.34% | 2,268 | 2,211 | 1,592 | 1,674 |
-| Notable | West Papua | 0.17% | 1,176 | 1,146 | 826 | 868 |
-| Notable | Aceh | 0.17% | 1,137 | 1,109 | 799 | 839 |
-| Notable | Hawaii | 0.074% | 498 | 486 | 351 | 370 |
-| Notable | Alaska | 0.045% | 305 | 297 | 214 | 224 |
+| Primary | Korea *(founding wave)* | 12.37% | 85,213 | 83,307 | 60,131 | 62,732 |
+| Primary | Australia | 11.68% | 80,469 | 78,668 | 56,783 | 59,239 |
+| Primary | Sinian Federation | 10.57% | 72,806 | 71,177 | 51,375 | 53,598 |
+| Primary | Indonesia | 9.96% | 68,627 | 67,092 | 48,426 | 50,522 |
+| Primary | CSA | 6.95% | 47,921 | 46,850 | 33,815 | 35,278 |
+| Primary | Magna Lombardia | 6.08% | 41,898 | 40,961 | 29,566 | 30,844 |
+| Significant | Japan | 4.22% | 29,080 | 28,428 | 20,521 | 21,408 |
+| Significant | Germany | 3.73% | 25,703 | 25,127 | 18,138 | 18,922 |
+| Significant | Appalachia | 3.66% | 25,205 | 24,641 | 17,786 | 18,556 |
+| Significant | Cascadia | 3.18% | 21,925 | 21,435 | 15,472 | 16,140 |
+| Significant | Meridia | 3.06% | 21,076 | 20,604 | 14,874 | 15,516 |
+| Significant | Malaysia | 3.00% | 20,679 | 20,217 | 14,591 | 15,223 |
+| Significant | New England | 2.99% | 20,614 | 20,154 | 14,548 | 15,175 |
+| Significant | Taiwan | 2.91% | 20,035 | 19,587 | 14,137 | 14,749 |
+| Significant | Chile | 2.66% | 18,273 | 17,865 | 12,894 | 13,452 |
+| Notable | Philippines | 1.67% | 11,515 | 11,257 | 8,126 | 8,478 |
+| Notable | New Zealand | 1.59% | 10,973 | 10,730 | 7,744 | 8,079 |
+| Notable | Demilitarized Zone (s. Ontario; not a nation) | 1.40% | 9,605 | 9,390 | 6,777 | 7,070 |
+| Notable | Manchuria | 1.33% | 9,199 | 8,993 | 6,491 | 6,771 |
+| Notable | Midwest Republic | 1.14% | 7,837 | 7,664 | 5,530 | 5,771 |
+| Notable | Quebec | 1.07% | 7,343 | 7,179 | 5,181 | 5,407 |
+| Notable | Colorado | 0.85% | 5,896 | 5,763 | 4,159 | 4,340 |
+| Notable | Prairie Federation | 0.79% | 5,403 | 5,281 | 3,813 | 3,977 |
+| Notable | Austro-Bavaria | 0.72% | 4,940 | 4,830 | 3,487 | 3,637 |
+| Notable | Sicilia (autonomous zone within Meridia) | 0.71% | 4,884 | 4,775 | 3,447 | 3,596 |
+| Notable | Sonora | 0.50% | 3,464 | 3,386 | 2,444 | 2,549 |
+| Notable | Araucanía-Patagonia | 0.43% | 2,946 | 2,881 | 2,080 | 2,170 |
+| Notable | Mongolia | 0.34% | 2,313 | 2,261 | 1,630 | 1,703 |
+| Notable | West Papua | 0.17% | 1,199 | 1,172 | 846 | 883 |
+| Notable | Aceh | 0.17% | 1,159 | 1,134 | 818 | 853 |
+| Notable | Hawaii | 0.074% | 508 | 497 | 359 | 376 |
+| Notable | Alaska | 0.045% | 311 | 304 | 219 | 228 |
 
 *Tier labels follow the final shares: Primary and Significant end at the largest ratio gaps among the rows at 4.5% or more (Primary never more than six rows), no row at 4.5% or more is Notable, and Notable is the rest (the composition file's own rule, "boundaries fall at the largest ratio gaps"; the 8 / 3 / 1 share weights no longer produce the figures). Percentages are of this city's own human and robot population (identical between censuses), not Tepenia-wide. Robot figures apply the same proportions as the human population. Shares are rounded; they sum to 100% within rounding.*
 

@@ -33,14 +33,14 @@
 **Access type:** ON
 **Highway access:** **Corrected 2026-07-06** — Dome Fuji is a confirmed stop on **Hwy 37 (the Mountain Cut Throughway)**, sitting between the highway's junction with Hwy 7-ext (just before Temirötkel) and its dual-junction with Hwy 22, before the road continues on to Kunlun, Ariun Nuur, and Concordia. See `Locations/Infrastructure/Highways.md`. This had been missed in this file — Kunlun's own equivalent "no highway access" claim was already corrected 2026-07-06 for the same reason.
 **Significance:** Tepenian city on the East Antarctic Plateau; at approximately 3,810 meters; the altitude causes physiological impairment for any human and rules out human habitation, so the city is robot-only; survived the Long Night War but functions at reduced capacity due to altitude effects
-**Population:** 0 humans / 66,849 robots (Census I) — resolved 2026-07-04, Dome Fuji's first population figures; see Founding Population Resolution, below
+**Population:** 0 humans / 80,120 robots (Census I) — resolved 2026-07-04, Dome Fuji's first population figures; see Founding Population Resolution, below
 **DLC:** Mawson subnet *(corrected 2026-07-03, see above)*; interior plateau location; whether reachable in gameplay is TBD
 
 ---
 
 ## Population & Composition
 
-**Census I (Pre-Orbital Era):** 0 humans / 66,849 robots / **66,849** combined *(was 0 / 55,072 / 55,072; census updated 2026-10-28, `DR-68`)* *(entirely robot; new 2026-07-04)*
+**Census I (Pre-Orbital Era):** 0 humans / 80,120 robots / **80,120** combined *(Esperanza relocation 2026-11-02, `DR-90`: was 0 humans / 66,849 robots / 66,849 combined)* *(was 0 / 55,072 / 55,072; census updated 2026-10-28, `DR-68`)* *(entirely robot; new 2026-07-04)*
 **Census II (Orbital Era):** Not yet computed for this city (see `Official_Population_Census.md`)
 
 | Tier | Nations |
@@ -57,83 +57,83 @@
 
 | Tier | Nation | Share % | Census I Robots |
 |------|--------|---------|------------------|
-| Primary | France | 6.58% | 4,398 |
-| Primary | Indonesia | 6.30% | 4,208 |
-| Primary | Australia | 6.14% | 4,108 |
-| Primary | Korea | 5.68% | 3,796 |
-| Primary | Sinian Federation | 5.37% | 3,591 |
-| Significant | Germany | 3.97% | 2,655 |
-| Significant | CSA | 3.55% | 2,375 |
-| Significant | Brazil | 2.80% | 1,871 |
-| Significant | Japan | 2.79% | 1,862 |
-| Significant | Austro-Bavaria | 2.48% | 1,659 |
-| Significant | United Kingdom | 2.37% | 1,587 |
-| Significant | Netherlands | 2.34% | 1,565 |
-| Significant | Appalachia | 2.28% | 1,524 |
-| Significant | Cascadia | 1.96% | 1,311 |
-| Significant | Hungary | 1.96% | 1,309 |
-| Significant | Malaysia | 1.87% | 1,252 |
-| Significant | New England | 1.86% | 1,246 |
-| Significant | Slovenia | 1.83% | 1,226 |
-| Significant | Belarus | 1.79% | 1,199 |
-| Significant | Croatia | 1.78% | 1,193 |
-| Significant | Serbia | 1.75% | 1,173 |
-| Significant | Czechia | 1.71% | 1,140 |
-| Significant | Latvia | 1.70% | 1,134 |
-| Significant | Philippines | 1.68% | 1,120 |
-| Significant | Estonia | 1.66% | 1,108 |
-| Significant | Norway | 1.64% | 1,094 |
-| Significant | Romania | 1.60% | 1,070 |
-| Significant | México | 1.50% | 1,000 |
-| Significant | Spain | 1.44% | 959 |
-| Notable | Russia (core state) | 0.99% | 659 |
-| Notable | Finland | 0.97% | 648 |
-| Notable | Slovakia | 0.94% | 629 |
-| Notable | Bulgaria | 0.93% | 622 |
-| Notable | Sweden | 0.92% | 615 |
-| Notable | Vietnam | 0.92% | 615 |
-| Notable | Chile | 0.84% | 559 |
-| Notable | New Zealand | 0.83% | 557 |
-| Notable | Thailand | 0.80% | 536 |
-| Notable | South Africa | 0.78% | 525 |
-| Notable | Argentina (without Patagonia) | 0.78% | 520 |
-| Notable | Uruguay | 0.76% | 505 |
-| Notable | Poland | 0.76% | 505 |
-| Notable | Lithuania | 0.74% | 498 |
-| Notable | Midwest Republic | 0.71% | 474 |
-| Notable | Idelsk-Uralia | 0.68% | 456 |
-| Notable | Demilitarized Zone (s. Ontario; not a nation) | 0.63% | 420 |
-| Notable | Ukraine | 0.60% | 400 |
-| Notable | Colorado | 0.53% | 357 |
-| Notable | Quebec | 0.48% | 320 |
-| Notable | Magna Lombardia | 0.43% | 291 |
-| Notable | Sonora | 0.41% | 275 |
-| Notable | Prairie Federation | 0.35% | 235 |
-| Notable | Amazonia | 0.31% | 207 |
-| Notable | Catalonia | 0.31% | 206 |
-| Notable | Siberia | 0.27% | 182 |
-| Notable | Meridia | 0.27% | 180 |
-| Notable | Donska-Kubania | 0.26% | 174 |
-| Notable | Yucatán | 0.19% | 129 |
-| Notable | East Turkestan | 0.18% | 124 |
-| Notable | Araucanía-Patagonia | 0.18% | 122 |
-| Notable | Künnarantaiga | 0.16% | 105 |
-| Notable | West Papua | 0.11% | 74 |
-| Notable | Basque Country | 0.11% | 74 |
-| Notable | Aceh | 0.11% | 72 |
-| Notable | Northern Ireland | 0.068% | 45 |
-| Notable | Sicilia (autonomous zone within Meridia) | 0.062% | 41 |
-| Notable | Dagestan | 0.048% | 32 |
-| Notable | Hawaii | 0.046% | 30 |
-| Notable | Alaska | 0.026% | 18 |
-| Notable | Tibet | 0.026% | 18 |
-| Notable | Patani | 0.023% | 16 |
-| Notable | Chechnya | 0.023% | 16 |
-| Notable | Kabardino-Balkaria | 0.014% | 9 |
-| Notable | North Ossetia-Alania | 0.010% | 7 |
-| Notable | Ingushetia | 0.008% | 5 |
-| Notable | Karachay-Cherkessia | 0.007% | 5 |
-| Notable | Tuva | 0.005% | 4 |
+| Primary | France | 6.58% | 5,271 |
+| Primary | Indonesia | 6.30% | 5,043 |
+| Primary | Australia | 6.14% | 4,924 |
+| Primary | Korea | 5.68% | 4,550 |
+| Primary | Sinian Federation | 5.37% | 4,304 |
+| Significant | Germany | 3.97% | 3,182 |
+| Significant | CSA | 3.55% | 2,846 |
+| Significant | Brazil | 2.80% | 2,242 |
+| Significant | Japan | 2.79% | 2,232 |
+| Significant | Austro-Bavaria | 2.48% | 1,988 |
+| Significant | United Kingdom | 2.37% | 1,902 |
+| Significant | Netherlands | 2.34% | 1,876 |
+| Significant | Appalachia | 2.28% | 1,827 |
+| Significant | Cascadia | 1.96% | 1,571 |
+| Significant | Hungary | 1.96% | 1,569 |
+| Significant | Malaysia | 1.87% | 1,501 |
+| Significant | New England | 1.86% | 1,493 |
+| Significant | Slovenia | 1.83% | 1,469 |
+| Significant | Belarus | 1.79% | 1,437 |
+| Significant | Croatia | 1.78% | 1,430 |
+| Significant | Serbia | 1.75% | 1,406 |
+| Significant | Czechia | 1.71% | 1,366 |
+| Significant | Latvia | 1.70% | 1,359 |
+| Significant | Philippines | 1.68% | 1,342 |
+| Significant | Estonia | 1.66% | 1,328 |
+| Significant | Norway | 1.64% | 1,311 |
+| Significant | Romania | 1.60% | 1,282 |
+| Significant | México | 1.50% | 1,198 |
+| Significant | Spain | 1.44% | 1,149 |
+| Notable | Russia (core state) | 0.99% | 790 |
+| Notable | Finland | 0.97% | 777 |
+| Notable | Slovakia | 0.94% | 754 |
+| Notable | Bulgaria | 0.93% | 745 |
+| Notable | Sweden | 0.92% | 737 |
+| Notable | Vietnam | 0.92% | 737 |
+| Notable | Chile | 0.84% | 670 |
+| Notable | New Zealand | 0.83% | 668 |
+| Notable | Thailand | 0.80% | 642 |
+| Notable | South Africa | 0.78% | 629 |
+| Notable | Argentina (without Patagonia) | 0.78% | 623 |
+| Notable | Uruguay | 0.76% | 605 |
+| Notable | Poland | 0.76% | 605 |
+| Notable | Lithuania | 0.74% | 597 |
+| Notable | Midwest Republic | 0.71% | 568 |
+| Notable | Idelsk-Uralia | 0.68% | 547 |
+| Notable | Demilitarized Zone (s. Ontario; not a nation) | 0.63% | 503 |
+| Notable | Ukraine | 0.60% | 479 |
+| Notable | Colorado | 0.53% | 428 |
+| Notable | Quebec | 0.48% | 384 |
+| Notable | Magna Lombardia | 0.43% | 349 |
+| Notable | Sonora | 0.41% | 330 |
+| Notable | Prairie Federation | 0.35% | 282 |
+| Notable | Amazonia | 0.31% | 248 |
+| Notable | Catalonia | 0.31% | 247 |
+| Notable | Siberia | 0.27% | 218 |
+| Notable | Meridia | 0.27% | 216 |
+| Notable | Donska-Kubania | 0.26% | 209 |
+| Notable | Yucatán | 0.19% | 155 |
+| Notable | East Turkestan | 0.18% | 149 |
+| Notable | Araucanía-Patagonia | 0.18% | 146 |
+| Notable | Künnarantaiga | 0.16% | 126 |
+| Notable | West Papua | 0.11% | 89 |
+| Notable | Basque Country | 0.11% | 89 |
+| Notable | Aceh | 0.11% | 86 |
+| Notable | Northern Ireland | 0.068% | 54 |
+| Notable | Sicilia (autonomous zone within Meridia) | 0.062% | 49 |
+| Notable | Dagestan | 0.048% | 38 |
+| Notable | Hawaii | 0.046% | 36 |
+| Notable | Alaska | 0.026% | 22 |
+| Notable | Tibet | 0.026% | 22 |
+| Notable | Patani | 0.023% | 19 |
+| Notable | Chechnya | 0.023% | 19 |
+| Notable | Kabardino-Balkaria | 0.014% | 11 |
+| Notable | North Ossetia-Alania | 0.010% | 8 |
+| Notable | Ingushetia | 0.008% | 6 |
+| Notable | Karachay-Cherkessia | 0.007% | 6 |
+| Notable | Tuva | 0.005% | 5 |
 
 *Tier labels follow the final shares: Primary and Significant end at the largest ratio gaps among the rows at 4.5% or more (Primary never more than six rows), no row at 4.5% or more is Notable, and Notable is the rest (the composition file's own rule, "boundaries fall at the largest ratio gaps"; the 8 / 3 / 1 share weights no longer produce the figures). Percentages are of this city's own robot population (identical between censuses), not Tepenia-wide. Shares are rounded; they sum to 100% within rounding.*
 
@@ -294,7 +294,7 @@ Dome Fuji's legacy is endurance under conditions that were never fully hospitabl
 ## Open Questions
 
 - **DLC 4 alternate access route — established 2026-07-04:** alongside the dangerous overland trip, a player with 10 Calculation + 10 Investigation plus a gate item can fix up a broken plane at the Sinheung airstrip and fly to Dome Fuji instead. The gate item is a specifically-shaped aircraft part found through optional side-content in Belgrano (DLC 5) — a player who already has it from that DLC can skip the stat-gate entirely. See `Specs/Sinheung.md`, `Specs/Belgrano.md`, and `TODO.md`'s Decision Required section for the full mechanic.
-- **Current human population — RESOLVED 2026-07-04:** zero. Dome Fuji's confirmed current population (66,849) is 100% robot, drawn from the "Ice Cold Buddhism" pilgrimage — see Founding Population Resolution, above. **The founding population's fate — RESOLVED 2026-07-05:** no die-off or ambiguous attrition — the site sat unoccupied after the Falkland Treaty, and the pilgrimage population later relocated it via accounts/manifests/maps (paralleling Byrd's own rediscovery) and moved in fresh, robot-only from that point forward. See Founding, above. Human presence at Dome Fuji is also outright forbidden today, alongside Kunlun (see `Robot_Biology_and_Culture/Robot_Physiology_and_Cultural_Practices.md`, "Human-Robot Relations — Project-Wide Baseline") — a matter of combined altitude/cold lethality, not any anti-human sentiment.
+- **Current human population — RESOLVED 2026-07-04:** zero. Dome Fuji's confirmed current population (80,120) is 100% robot, drawn from the "Ice Cold Buddhism" pilgrimage — see Founding Population Resolution, above. **The founding population's fate — RESOLVED 2026-07-05:** no die-off or ambiguous attrition — the site sat unoccupied after the Falkland Treaty, and the pilgrimage population later relocated it via accounts/manifests/maps (paralleling Byrd's own rediscovery) and moved in fresh, robot-only from that point forward. See Founding, above. Human presence at Dome Fuji is also outright forbidden today, alongside Kunlun (see `Robot_Biology_and_Culture/Robot_Physiology_and_Cultural_Practices.md`, "Human-Robot Relations — Project-Wide Baseline") — a matter of combined altitude/cold lethality, not any anti-human sentiment.
 - **Robot-to-human demographic shift — RESOLVED 2026-07-04:** fully robot, per the above. The mechanism (altitude attrition vs. deliberate pilgrimage influx) remains an open narrative question even though the end state is now confirmed.
 - **The ice core archive survival** — whether this scientific record survived the Long Night War
 - **Mawson subnet Arcanet connection** *(corrected 2026-07-04 — this line previously said "Halley subnet," another leftover from before the subnet header field was corrected; see Geographic Basis, above)* — is the cable link between Dome Fuji and the Mawson subnet hub intact? Given the distance and the post-war infrastructure damage, this is uncertain

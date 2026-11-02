@@ -181,7 +181,7 @@ interesting result, not a failure.***
 | City | Humans | Assessment |
 |---|--:|---|
 | **Dumont d'Urville** | 223,549 | §15: *"the city was small, and its economic significance was **more cultural and historical than industrial**."* **Minor coastal logistics on the Australia corridor; no national mandate.** ⭐ Canon says this plainly — take it at its word |
-| **Port Lockroy** | 63,338 | Fourth-smallest city. §15: sheltered harbor + heritage. **⚠ One thread: its post office was *"a genuine, active civic courier institution"*** — a **national courier node** is a small but real mandate. Otherwise: itself |
+| **Port Lockroy** | 457 | Smallest city (929 since 2026-09-05). §15: sheltered harbor + heritage. **⚠ One thread: its post office was *"a genuine, active civic courier institution"*** — a **national courier node** is a small but real mandate. Otherwise: itself |
 | **Kunlun** | **0** | §15: *"astronomy, ice core science… the observatory program was Kunlun's primary scientific output."* **⭐ Dome A is the best astronomical site on Earth** — but astronomy is not something the nation would *starve* without. **Discretionary, and its 71.4% free tier is genuine.** ⚠ Its engineering capacity turned Neumayer's Calethina design into a buildable schematic — capability that could be mandated if the developer wants it to be |
 
 ## 🔴 Group 4 — LAZAR. The one genuine open question, and canon says so itself
@@ -249,41 +249,41 @@ than as a class.**
 | **Amundsen Station** | Amundsen | 2.50 | 6,296 | 31.8% | **61.4%** | **6.8%** | C |
 | **Fort McMurdo** | Janbogo | 1.25 | 334,215 | 41.5% | 35.1% | **23.4%** | C |
 | **Marambio** | Palmer | 1.25 | 428,548 | 41.3% | 35.2% | **23.5%** | C |
-| **Belgrano** | Halley | 1.43 | 823,775 | 44.3% | 30.6% | **25.1%** | C |
+| **Belgrano** | Halley | 1.43 | 844,513 | 44.3% | 30.6% | **25.1%** | C |
 | **Sayowa** | Mawson | 1.43 | 178,698 | 39.3% | 33.4% | 27.3% | C |
-| **Sanay** | Halley | 1.43 | 365,728 | 44.5% | 27.8% | 27.8% | C |
-| **Byrd** | Byrd | 1.67 | 301,602 | 36.2% | 35.1% | 28.7% | C |
-| **Janbogo** | Janbogo | 1.25 | 1,005,088 | 41.1% | 29.4% | 29.4% | C |
-| Sinheung | Mirny | 1.25 | 746,626 | 40.7% | 26.7% | 32.6% | C |
-| **Relung Panen** | Mirny | 1.43 | 733,228 | 43.9% | 21.3% | 34.8%* | R |
-| Denison | Janbogo | **2.00** | 701,805 | **53.2%** | 11.7% | 35.1% | C |
-| Esperanza | Palmer | 1.11 | 1,418,466 | 39.7% | 24.1% | 36.2% | C |
+| **Sanay** | Halley | 1.43 | 386,466 | 44.5% | 27.8% | 27.8% | C |
+| **Byrd** | Byrd | 1.67 | 322,340 | 36.2% | 35.1% | 28.7% | C |
+| **Janbogo** | Janbogo | 1.25 | 1,025,824 | 41.1% | 29.4% | 29.4% | C |
+| Sinheung | Mirny | 1.25 | 767,363 | 40.7% | 26.7% | 32.6% | C |
+| **Relung Panen** | Mirny | 1.43 | 753,964 | 43.9% | 21.3% | 34.8%* | R |
+| Denison | Janbogo | **2.00** | 722,541 | **53.2%** | 11.7% | 35.1% | C |
+| Esperanza | Palmer | 1.11 | 894,835 | 39.7% | 24.1% | 36.2% | C |
 | Rothera | Palmer | 1.15 | 240,569 | 39.0% | 24.4% | 36.6% | C |
-| Davis | Mirny | 1.25 | 894,362 | 40.8% | 20.7% | 38.5% | C |
-| Troll | Halley | 1.43 | 734,436 | 44.4% | 16.7% | 38.9% | C |
+| Davis | Mirny | 1.25 | 915,098 | 40.8% | 20.7% | 38.5% | C |
+| Troll | Halley | 1.43 | 755,175 | 44.4% | 16.7% | 38.9% | C |
 | Signy | Palmer | 1.25 | 142,127 | 41.1% | 17.7% | 41.2% | C |
-| Princess Elisabeth | Halley | 1.43 | 878,880 | 43.7% | 14.1% | 42.2% | H |
+| Princess Elisabeth | Halley | 1.43 | 899,619 | 43.7% | 14.1% | 42.2% | H |
 | Juan Carlos | Palmer | 1.15 | 291,821 | 39.3% | 18.2% | 42.5% | C |
-| Casey | Mirny | 1.11 | 1,146,682 | 38.7% | 18.4% | 42.9% | C |
-| Zukelli | Janbogo | 1.25 | 962,706 | 41.5% | 14.6% | 43.9% | C |
-| Cape Adare | Janbogo | 1.25 | 1,144,518 | 41.4% | 14.7% | 44.0% | C |
-| **Concordia** | Janbogo | 1.67 | 781,394 | 48.3% | 7.8% | **44.0%** | H |
-| Mawson | Mawson | 1.25 | 1,109,716 | 41.0% | 14.8% | 44.3% | C |
+| Casey | Mirny | 1.11 | 1,167,418 | 38.7% | 18.4% | 42.9% | C |
+| Zukelli | Janbogo | 1.25 | 983,443 | 41.5% | 14.6% | 43.9% | C |
+| Cape Adare | Janbogo | 1.25 | 1,165,257 | 41.4% | 14.7% | 44.0% | C |
+| **Concordia** | Janbogo | 1.67 | 802,132 | 48.3% | 7.8% | **44.0%** | H |
+| Mawson | Mawson | 1.25 | 1,130,453 | 41.0% | 14.8% | 44.3% | C |
 | Sejong | Palmer | 1.15 | 486,488 | 39.4% | 15.2% | 45.5% | H |
-| Neumayer | Halley | 2.50 | 963,060 | 43.7% | 9.4% | 46.9% | D |
-| Halley | Halley | 2.50 | 1,115,318 | 43.7% | 9.4% | 47.0% | D |
-| Zhongshan | Mirny | 1.25 | 884,944 | 41.2% | 11.8% | 47.1% | H |
-| Mirny | Mirny | 1.25 | 1,036,328 | 41.1% | 11.8% | 47.1% | C |
-| Shirayuki | Mirny | 1.25 | 818,918 | 40.9% | 11.8% | 47.3% | C |
-| {{Abowasa}} | Halley | 1.54 | 330,697 | 45.6% | 5.4% | 49.0% | H |
+| Neumayer | Halley | 2.50 | 983,798 | 43.7% | 9.4% | 46.9% | D |
+| Halley | Halley | 2.50 | 1,136,057 | 43.7% | 9.4% | 47.0% | D |
+| Zhongshan | Mirny | 1.25 | 905,680 | 41.2% | 11.8% | 47.1% | H |
+| Mirny | Mirny | 1.25 | 1,057,064 | 41.1% | 11.8% | 47.1% | C |
+| Shirayuki | Mirny | 1.25 | 839,655 | 40.9% | 11.8% | 47.3% | C |
+| {{Abowasa}} | Halley | 1.54 | 351,435 | 45.6% | 5.4% | 49.0% | H |
 | Dumont d'Urville | Janbogo | 1.67 | 341,560 *(pre-trim; the live workforce is 307,404)* | 48.0% | **0.0%** | 52.0% | – |
 | Scott | Janbogo | 1.25 | 291,102 | 41.0% | 2.9% | 56.0% | H |
-| Port Lockroy | Palmer | 1.25 | 97,218 | 41.0% | 2.9% | 56.0% | H |
-| Vostok | Mirny | 2.50 | 342,300 | 37.8% | 5.8% | 56.5% | D |
-| Dome Fuji | Mawson | 2.50 | 66,849 | 27.3% | 14.5% | 58.1% | H |
-| **Lazar** | Halley | 1.25 | **1,796,984** | 41.0% | **0.0% ⚠** | **59.0%** | – |
+| Port Lockroy | Palmer | 1.25 | 701 | 41.0% | 2.9% | 56.0% | H |
+| Vostok | Mirny | 2.50 | 363,036 | 37.8% | 5.8% | 56.5% | D |
+| Dome Fuji | Mawson | 2.50 | 80,120 | 27.3% | 14.5% | 58.1% | H |
+| **Lazar** | Halley | 1.25 | **1,817,722** | 41.0% | **0.0% ⚠** | **59.0%** | – |
 | Palmer City | Palmer | 1.11 | 249,852 | 39.1% | **0.0%** | 60.9% | – |
-| **Kunlun** | Mirny | 2.70 | 135,226 | 28.6% | **0.0%** | **71.4%** | – |
+| **Kunlun** | Mirny | 2.70 | 148,497 | 28.6% | **0.0%** | **71.4%** | – |
 | **NATIONAL** | | | **24,214,838** | **42.0%** | **15.2%** | **42.8%** | |
 
 > **Relung Panen row added 2026-10-29** (it was excluded here as `{{Bunger Hills City}}`, deferred). `R` = a developer-ruled determination, not a Half A estimate: the food role (`DR-71`), the difficulty (`DR-72`) and the other mandated roles (`DR-75`) are rulings; the working is in `18_Relung_Panen_Determination_2026-10-29.md`. `*` = **before the cold-chain logistics share, which is still pending** (it waits on the port and airport question); the free tier will fall by that share. The mandated figure is a share of the whole workforce: 38% of the distinctive tier (`DR-73`, convention B). **The NATIONAL row above and the "37-city" count in this heading were not recomputed with this row.**
@@ -1333,11 +1333,11 @@ established in the 2026-07-06 vision session)*.
 
 | Tier | Workers | Share |
 |---|--:|--:|
-| **Baseline** *(D=1.11, **GROWER** — mainland Peninsula, food term 100%)* | 555,826 | **39.7%** |
-| **Mandated** | 359,037 | **25.6%** |
-| **FREE — the character budget** | 485,756 | **34.7%** |
+| **Baseline** *(D=1.11, **GROWER** — mainland Peninsula, food term 100%)* | 355,249 | **39.7%** |
+| **Mandated** | 229,324 | **25.6%** |
+| **FREE — the character budget** | 310,262 | **34.7%** |
 
-**Distinctive tier: 844,793 (60.3%).** Canon §15: Education/childcare/family ~25% · Maritime/harbor trade
+**Distinctive tier: 539,586 (60.3%)** *(counts in this section refreshed 2026-11-02, `DR-90`, from the 1,418,467-worker city to the 1,200,000-person city, workforce 894,835; shares and rulings held; rounded)*. Canon §15: Education/childcare/family ~25% · Maritime/harbor trade
 ~20% · Commercial ~15% · Technical/scientific ~15% · Agricultural/food production ~15% ·
 Other/administrative ~10%.
 
@@ -1347,11 +1347,11 @@ Other/administrative ~10%.
 
 | Share of distinctive | Workers | Sector | Basis |
 |--:|--:|---|---|
-| **12.5%** | 105,599 | **Education/childcare/family — HALF** | The Esperanza Institute of Medicine **+ standard schooling**, per the ruling below |
-| **15%** | 126,719 | **Agricultural/food production — FULL** | ✅ `04` §3 national FOOD provider |
-| **10%** | 84,479 | **Maritime/harbor trade — HALF** | Hwy 1's northern terminus + Halley↔Palmer trans-shipment |
-| **5%** | 42,240 | **Other/administrative — HALF (the birth registry)** | ✅ Developer ruling: **national by this era** — see below |
-| **42.5%** | **359,037** | | |
+| **12.5%** | 67,448 | **Education/childcare/family — HALF** | The Esperanza Institute of Medicine **+ standard schooling**, per the ruling below |
+| **15%** | 80,938 | **Agricultural/food production — FULL** | ✅ `04` §3 national FOOD provider |
+| **10%** | 53,959 | **Maritime/harbor trade — HALF** | Hwy 1's northern terminus + Halley↔Palmer trans-shipment |
+| **5%** | 26,979 | **Other/administrative — HALF (the birth registry)** | ✅ Developer ruling: **national by this era** — see below |
+| **42.5%** | **229,324** | | |
 
 ### ⭐ The education correction — this file's own Half B flag was right
 
@@ -1362,9 +1362,9 @@ Other/administrative ~10%.
 > about 2% of a 1.88 M city… **The Institute is one part of a much broader education economy** (local
 > schooling, childcare, family services, general tertiary export), **not the whole of it.**"*
 
-**At a 1:12 ratio the Institute is ~3,150 teaching staff — 1.5% of its own host sector.** The national
+**At a 1:12 ratio the Institute is ~3,150 teaching staff — about 2.3% of its own host sector (it was 1.5% on the old city).** The national
 medical school is a rounding error inside the sector named after it. **Baseline separately already holds
-24,839 schooling + 4,777 childcare workers** for Esperanza's own humans.
+15,670 schooling + 3,014 childcare workers** for Esperanza's own humans.
 
 **Developer ruled HALF rather than the analyst's proposed one-third — and the reasoning changes what the
 mandate MEANS:**
@@ -1613,18 +1613,18 @@ budget is work with no relationship to Upper Earth at all.**
 
 | Tier | Workers | Share |
 |---|--:|--:|
-| **Baseline** *(D=1.25, **GROWER** — Goudier/Wiencke I., rock-founded, food term 100%)* | 39,879 | **41.0%** |
-| **Mandated** | 2,867 | **2.9%** |
-| **FREE — the character budget** | 54,472 | **56.0%** |
+| **Baseline** *(D=1.25, **GROWER** — Goudier/Wiencke I., rock-founded, food term 100%)* | 287 | **41.0%** |
+| **Mandated** | 21 | **2.9%** |
+| **FREE — the character budget** | 393 | **56.0%** |
 
-**Distinctive tier: 57,339 (59.0%).** Canon §15: Maritime trade 30% · Heritage/cultural preservation 25% ·
+**Distinctive tier: 414 (59.0%)** *(counts in this section refreshed 2026-11-02, `DR-89`, from the old 97,218-worker city to the 929-person city: workforce 701; shares held; counts rounded)*. Canon §15: Maritime trade 30% · Heritage/cultural preservation 25% ·
 Commercial/small trade 20% · Technical/maintenance 15% · Other 10%.
 
 ### The mandate
 
 | Share of distinctive | Workers | Role | Basis |
 |--:|--:|---|---|
-| **5%** | 2,867 | **The courier node** — the Peninsula corridor's postal/parcel/archive transit point | ⚠ Vision Notes + ✅ Specs L105. **Developer ruling A, 2026-09-02** |
+| **5%** | 21 | **The courier node** — the Peninsula corridor's postal/parcel/archive transit point | ⚠ Vision Notes + ✅ Specs L105. **Developer ruling A, 2026-09-02** |
 
 ### The courier function is better established than the estimate that priced it
 
@@ -1644,7 +1644,7 @@ last-mile delivery anywhere. **A node is a small operation even when the network
 
 **For scale:** a full courier service across the Palmer subnet's **~4.13 M people** *(7 known cities, Rothera
 excluded)* would run **4,100–6,200 workers** at real-world rates — **but almost all of that is local delivery
-already sitting inside seven cities' baselines.** **2,867 for the node itself is proportionate.**
+already sitting inside seven cities' baselines.** **21 for the node itself (2,867 on the old 128,887-person city) is proportionate.**
 
 ### What stays FREE, and why
 
@@ -1654,7 +1654,7 @@ already sitting inside seven cities' baselines.** **2,867 for the node itself is
   work the way Signy's roadlessness does.
 - **⭐ Heritage/cultural preservation 25%** — *"a genuine civic function inherited from the museum era."*
   **Same call as Palmer City's arts: identity, not provider work.** It is a very large sector for a city of
-  128,887 — **and it should be.** Custodianship of **Tepenia's oldest standing structures** *(the 1944
+  929 (it was 128,887) — **and it should be.** Custodianship of **Tepenia's oldest standing structures** *(the 1944
   Operation Tabarin buildings, incorporated into the growing city and never demolished — a genuine
   architectural palimpsest)* **is what this city IS.**
 
@@ -1665,7 +1665,7 @@ read:** *"whether the city maintained a post office as a functioning institution
 **TBD**."*
 
 **It is not TBD.** Both the Vision Notes and the Calethina shipping lore settle it as **a genuine, active
-civic institution.** **The resolution never propagated.** *(Not fixed here — culture-file corrections are
+civic institution.** **The resolution never propagated** *(propagated 2026-11-02, `DR-87`)*. *(Not fixed here — culture-file corrections are
 deferred until after the division-of-industry pass, consistent with the Sejong handling.)*
 
 ---

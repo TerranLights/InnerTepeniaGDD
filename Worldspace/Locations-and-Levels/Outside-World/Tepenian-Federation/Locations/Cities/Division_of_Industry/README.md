@@ -186,7 +186,7 @@ anywhere in the project**, and this would be the route to its economic half.
 - **Davis exports 269,442 food producers** *(306,780 total, minus its own 37,338 need)* — enough to feed
   **~5.1 million, roughly a third of Tepenia, from one city.** The breadbasket title is earned; it is simply
   not the whole supply.
-- **⭐ Esperanza's education sector is twelve times its own need** *(350,155 vs 29,615)*. **Children cannot
+- **⭐ Esperanza's education sector is about seven times its own need** *(134,897 vs 18,684; it was twelve times, 350,155 vs 29,615, before the 2026-11-02 relocation, `DR-90`)*. **Children cannot
   commute, so this cannot be primary schooling for other cities — it must be tertiary.** **The model
   independently explains why the Esperanza Institute of Medicine is at Esperanza:** it found a city with
   twelve times more teaching capacity than pupils and no way to export a classroom. **Shirayuki is a second

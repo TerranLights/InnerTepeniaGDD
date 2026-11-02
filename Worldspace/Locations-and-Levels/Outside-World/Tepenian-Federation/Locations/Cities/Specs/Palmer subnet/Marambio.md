@@ -55,7 +55,7 @@
 > #### ⛔⛔ AND IT DELIBERATELY LEAVES JAMES ROSS ISLAND ALONE — **because Esperanza needs it**
 > 🔬 *James Ross is ~2,400 km², and its **Ulu Peninsula holds ~250–312 km² of ice-free ground — the largest
 > deglaciated area in the Antarctic Peninsula region**, facing the Trinity Peninsula across the Prince Gustav
-> Channel.* ⚠ **Esperanza carries 1,878,287 people with no declared extent, on Hope Bay, already flagged as
+> Channel.* ⚠ **Esperanza carries 1,200,000 people (1,878,287, then 1,902,205, until the 2026-11-02 relocation, `DR-90`) with no declared extent yet, on Hope Bay plus Tabarin Peninsula plus ice (Option D, 2026-11-01), earlier flagged as
 > possibly too big for its site — and it is Hwy 1's northern terminus.**
 >
 > > ⭐⭐⭐ ***The Palmer subnet's two worst extent problems sit at opposite ends of the same road, and the

@@ -12,9 +12,9 @@
 | Spec table vs census table (nation lists, annotations ignored) | Identical | Compared 2026-10-21 |
 | Annotations in the tier tables | None | Read 2026-10-21 |
 | Per-nation breakdown (spec) | Present at L34–L83 (a model output per the spec's own note, not a measured count) — **not quoted**; cite by range | `Specs/Utstein.md` L34 |
-| Census I | 565,907 H / 595,927 R / **1,161,834** combined | `Official_Population_Census.md` L507 |
-| Census II | 409,511 H / 373,098 R / **782,609** combined | `Official_Population_Census.md` L650 |
-| Retention (computed; cross-ref `Step_0.md`) | combined 67.36% · human 72.36% · robot 62.61% | Computed from the two rows above |
+| Census I | 580,839 H / 609,199 R / **1,190,038** combined | `Official_Population_Census.md` L507 |
+| Census II | 418,082 H / 384,561 R / **802,643** combined | `Official_Population_Census.md` L650 |
+| Retention (computed; cross-ref `Step_0.md`) | combined 67.45% · human 71.98% · robot 63.13% | Computed from the two rows above |
 | `Upper_Earth_Immigration_Composition.md` — the city's own section (the registered composition address) | Present at L340–L348: the tier table and key note. **Cited by range, not quoted**: which spans are admissible is Step −1's ruling | `Upper_Earth_Immigration_Composition.md` L340–L320 |
 | `Upper_Earth_Immigration_Composition.md` — the solar-UTC rule (how the ±3 window is measured) | Present at L23–L65: the section heading at L23, the list "Recording it so it stops being reconstructed from examples" at L28–L35 (rule 1 at L30), and the refinement box at L37–L65. **Cited by range, not quoted** | `Upper_Earth_Immigration_Composition.md` L23–L63 |
 | Falkland Treaty — the human admission route | Art. II.2.3: humans admitted on **prior association with the robot population, communal or personal** — four grounds, the fourth a broad residual (*"or otherwise established their life among the robot population"*). Not a relationship requirement — humans were free to self-exile alongside the robots | `Corpus_Reference_Sheets/Falkland_Treaty_Quick_Reference.md` |

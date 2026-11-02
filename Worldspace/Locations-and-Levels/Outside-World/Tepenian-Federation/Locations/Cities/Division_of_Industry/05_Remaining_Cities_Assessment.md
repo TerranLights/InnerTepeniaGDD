@@ -256,7 +256,7 @@ Blizzard,"* mean annual winds around 22 m/s. **Denison's §15 already carries `S
 - **Scott** *(386,011)* — the corpus's clearest **labor-externalization** case after Santa Luce: a bedroom
   city sharing a municipal border with Fort McMurdo. **Daily commute, not rotation.** Its LAW G weird-industry
   share should sit at the **0.5% floor**, deliberately.
-- **Puerto Abrigo** *(128,887)* — smallest human city; **heritage 25% + technical/maintenance 15% = 40%**, the
+- **Puerto Abrigo** *(929; was 128,887 until 2026-09-05)* — smallest human city; **heritage 25% + technical/maintenance 15% = 40%**, the
   corpus's highest heritage concentration. **The 2026-08-31 sweep flagged this as a judgment call, not a bug**
   *(its real-world basis genuinely was a museum)*. **Still unresolved.**
 - **Contrapunto · Dumont d'Urville** — no distinctive concern surfaced. **Contrapunto sits near the Scotia Sea krill

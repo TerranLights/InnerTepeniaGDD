@@ -6,9 +6,9 @@
 
 | Category | Value | Citation |
 |---|---|---|
-| Census I | 456,668 H / 473,471 R / **930,139** | `Official_Population_Census.md` L510 — cross-verified against `Specs/Denison.md`, exact match |
-| Census II | 293,192 H / 346,130 R / **639,322** | `Official_Population_Census.md` L651 — cross-verified against `Specs/Denison.md`, exact match |
-| Retention (computed; formula = retained ÷ Census-I count) | combined 68.73% · human 64.20% · robot 73.10% · spread **8.90 pp toward robots** | Computed from the two rows above: 639,322÷930,139 = 68.7340%; 293,192÷456,668 = 64.2024%; 346,130÷473,471 = 73.1048% |
+| Census I | 471,598 H / 486,742 R / **958,340** | `Official_Population_Census.md` L510 — cross-verified against `Specs/Denison.md`, exact match |
+| Census II | 301,762 H / 357,593 R / **659,355** | `Official_Population_Census.md` L651 — cross-verified against `Specs/Denison.md`, exact match |
+| Retention (computed; formula = retained ÷ Census-I count) | combined 68.80% · human 63.99% · robot 73.47% · spread **9.48 pp toward robots** | Computed from the two rows above: 659,355÷958,340 = 68.8018%; 301,762÷471,598 = 63.9871%; 357,593÷486,742 = 73.4666% |
 | **Temporal frame — the Second Interwar Period** | **2564–2812. 248 years, beginning at the Falkland Treaty.** The default frame for worldbuilding a Tepenian location. Corpus-wide constant, not a per-city judgment | ⭐ `Corpus_Reference_Sheets/Second_Interwar_Period_Quick_Reference.md`, in full |
 | Act structure within the frame | Act 1: 2564 → somewhere in the 2600s (a hazy range, not yet dated) — national-ethnic-origin cultures still fresh. Act 2: by the late 2600s/early 2700s, onward (most of the period) — properly Tepenian, origin is ancestry not identity | `Corpus_Reference_Sheets/Second_Interwar_Period_Quick_Reference.md` §"The Act structure" |
 | The consolidating mechanism | Interconnection, decisively solidified by Amundsen Tower's completion (~2688) — not a switch, not the creation of unity, not the Tower's only effect | `Corpus_Reference_Sheets/Second_Interwar_Period_Quick_Reference.md` §"The consolidating mechanism" |

@@ -7,11 +7,11 @@
 
 | Category | Value | Citation |
 |---|---|---|
-| Census I | 565,907 H / 595,927 R / **1,161,834** combined (status cell: revised 2026-07-04) | `Official_Population_Census.md` L507 |
-| Census II | 409,511 H / 373,098 R / **782,609** combined | `Official_Population_Census.md` L650 |
-| Retention (computed; formula = Census II count ÷ Census I count) | combined 67.36% · human 72.36% · robot 62.61% | Computed from the two rows above: 782,609÷1,161,834 · 409,511÷565,907 · 373,098÷595,927 |
+| Census I | 580,839 H / 609,199 R / **1,190,038** combined (status cell: revised 2026-07-04) | `Official_Population_Census.md` L507 |
+| Census II | 418,082 H / 384,561 R / **802,643** combined | `Official_Population_Census.md` L650 |
+| Retention (computed; formula = Census II count ÷ Census I count) | combined 67.45% · human 71.98% · robot 63.13% | Computed from the two rows above: 802,643÷1,190,038 · 418,082÷580,839 · 384,561÷609,199 |
 | Extent (2026-09-05 snapshot; the census is live — note L631) | City: Princess Elisabeth *(the file's live label)* · Subnet: Halley · Census I (snapshot): 1,137,917 · @10,000/km²: 114 km² · @7,000/km²: 163 km² · Site: Utsteinen ridge | `Extent_and_Density_Per_City.md` L618 (header L603; snapshot note L631) |
-| Extent at the live Census I (computed) | @10,000/km²: 116.2 km² · @7,000/km²: 166.0 km² | Computed: 1,161,834 (`Official_Population_Census.md` L507) ÷ 10,000 = 116.1834 → 116.2; ÷ 7,000 = 165.9763 → 166.0 |
+| Extent at the live Census I (computed) | @10,000/km²: 116.2 km² · @7,000/km²: 166.0 km² | Computed: 1,190,038 (`Official_Population_Census.md` L507) ÷ 10,000 = 116.1834 → 116.2; ÷ 7,000 = 165.9763 → 166.0 |
 | **Temporal frame — the Second Interwar Period** | **2564–2812. 248 years, beginning at the Falkland Treaty.** The default frame for worldbuilding a Tepenian location; a corpus-wide constant, not a per-city judgment | ⭐ `Corpus_Reference_Sheets/Second_Interwar_Period_Quick_Reference.md`, in full |
 | Act structure within the frame | Act 1: 2564 → somewhere in the 2600s (a hazy range, not yet dated) — national-ethnic-origin cultures still fresh. Act 2: by the late 2600s / early 2700s, onward — properly Tepenian; origin is ancestry, not identity | `Corpus_Reference_Sheets/Second_Interwar_Period_Quick_Reference.md` |
 | The consolidating mechanism | Interconnection, decisively solidified by Amundsen Tower's completion (~2688) — not a switch, not the creation of unity, not the Tower's only effect | `Corpus_Reference_Sheets/Second_Interwar_Period_Quick_Reference.md` §"The consolidating mechanism" |

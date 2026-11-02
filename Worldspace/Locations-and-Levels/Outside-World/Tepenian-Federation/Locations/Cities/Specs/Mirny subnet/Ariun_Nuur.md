@@ -14,7 +14,7 @@
 
 ## Population & Composition
 
-**Census I (Pre-Orbital Era):** 141,755 humans / 271,422 robots / **413,177** combined *(was 129,617 / 259,644 / 389,261; census updated 2026-10-28, `DR-68`)*
+**Census I (Pre-Orbital Era):** 156,685 humans / 284,693 robots / **441,378** combined *(Esperanza relocation 2026-11-02, `DR-90`: was 141,755 humans / 271,422 robots / 413,177 combined)* *(was 129,617 / 259,644 / 389,261; census updated 2026-10-28, `DR-68`)*
 **Census II (Orbital Era):** Not yet computed for this city (see `Official_Population_Census.md`)
 
 | Tier | Nations |
@@ -31,30 +31,30 @@
 
 | Tier | Nation | Share % | Census I Robots | Census I Humans | Census II Robots | Census II Humans |
 |------|--------|---------|------------------|------------------|-------------------|-------------------|
-| Primary | Japan | 16.21% | 44,002 | 22,981 | *(N/A)* | *(N/A)* |
-| Primary | Indonesia | 12.57% | 34,106 | 17,813 | *(N/A)* | *(N/A)* |
-| Significant | CSA | 8.87% | 24,062 | 12,567 | *(N/A)* | *(N/A)* |
-| Significant | Korea | 6.25% | 16,976 | 8,866 | *(N/A)* | *(N/A)* |
-| Significant | Australia | 6.23% | 16,925 | 8,839 | *(N/A)* | *(N/A)* |
-| Significant | Cascadia | 5.99% | 16,251 | 8,488 | *(N/A)* | *(N/A)* |
-| Significant | Appalachia | 5.69% | 15,446 | 8,066 | *(N/A)* | *(N/A)* |
-| Significant | Demilitarized Zone (s. Ontario; not a nation) | 4.96% | 13,475 | 7,038 | *(N/A)* | *(N/A)* |
-| Significant | New England | 4.65% | 12,631 | 6,597 | *(N/A)* | *(N/A)* |
-| Significant | Mongolia *(founding wave)* | 4.29% | 11,633 | 6,075 | *(N/A)* | *(N/A)* |
-| Significant | Chile | 4.13% | 11,200 | 5,849 | *(N/A)* | *(N/A)* |
-| Significant | Quebec | 3.80% | 10,304 | 5,381 | *(N/A)* | *(N/A)* |
-| Significant | Künnarantaiga *(founding wave)* | 3.73% | 10,129 | 5,290 | *(N/A)* | *(N/A)* |
-| Significant | Taiwan | 2.90% | 7,886 | 4,118 | *(N/A)* | *(N/A)* |
-| Significant | Prairie Federation | 2.79% | 7,581 | 3,959 | *(N/A)* | *(N/A)* |
-| Significant | Midwest Republic | 1.77% | 4,803 | 2,509 | *(N/A)* | *(N/A)* |
-| Significant | New Zealand | 1.65% | 4,483 | 2,340 | *(N/A)* | *(N/A)* |
-| Significant | Colorado | 1.33% | 3,613 | 1,886 | *(N/A)* | *(N/A)* |
-| Notable | Sonora | 0.78% | 2,121 | 1,109 | *(N/A)* | *(N/A)* |
-| Notable | Araucanía-Patagonia | 0.67% | 1,805 | 944 | *(N/A)* | *(N/A)* |
-| Notable | West Papua | 0.27% | 727 | 381 | *(N/A)* | *(N/A)* |
-| Notable | Aceh | 0.26% | 702 | 368 | *(N/A)* | *(N/A)* |
-| Notable | Hawaii | 0.12% | 313 | 162 | *(N/A)* | *(N/A)* |
-| Notable | Alaska | 0.091% | 248 | 129 | *(N/A)* | *(N/A)* |
+| Primary | Japan | 16.21% | 46,153 | 25,401 | *(N/A)* | *(N/A)* |
+| Primary | Indonesia | 12.57% | 35,774 | 19,689 | *(N/A)* | *(N/A)* |
+| Significant | CSA | 8.87% | 25,238 | 13,891 | *(N/A)* | *(N/A)* |
+| Significant | Korea | 6.25% | 17,806 | 9,800 | *(N/A)* | *(N/A)* |
+| Significant | Australia | 6.23% | 17,752 | 9,770 | *(N/A)* | *(N/A)* |
+| Significant | Cascadia | 5.99% | 17,046 | 9,382 | *(N/A)* | *(N/A)* |
+| Significant | Appalachia | 5.69% | 16,201 | 8,915 | *(N/A)* | *(N/A)* |
+| Significant | Demilitarized Zone (s. Ontario; not a nation) | 4.96% | 14,134 | 7,779 | *(N/A)* | *(N/A)* |
+| Significant | New England | 4.65% | 13,249 | 7,292 | *(N/A)* | *(N/A)* |
+| Significant | Mongolia *(founding wave)* | 4.29% | 12,202 | 6,715 | *(N/A)* | *(N/A)* |
+| Significant | Chile | 4.13% | 11,748 | 6,465 | *(N/A)* | *(N/A)* |
+| Significant | Quebec | 3.80% | 10,808 | 5,948 | *(N/A)* | *(N/A)* |
+| Significant | Künnarantaiga *(founding wave)* | 3.73% | 10,624 | 5,847 | *(N/A)* | *(N/A)* |
+| Significant | Taiwan | 2.90% | 8,272 | 4,552 | *(N/A)* | *(N/A)* |
+| Significant | Prairie Federation | 2.79% | 7,952 | 4,376 | *(N/A)* | *(N/A)* |
+| Significant | Midwest Republic | 1.77% | 5,038 | 2,773 | *(N/A)* | *(N/A)* |
+| Significant | New Zealand | 1.65% | 4,702 | 2,586 | *(N/A)* | *(N/A)* |
+| Significant | Colorado | 1.33% | 3,790 | 2,085 | *(N/A)* | *(N/A)* |
+| Notable | Sonora | 0.78% | 2,225 | 1,226 | *(N/A)* | *(N/A)* |
+| Notable | Araucanía-Patagonia | 0.67% | 1,893 | 1,043 | *(N/A)* | *(N/A)* |
+| Notable | West Papua | 0.27% | 762 | 421 | *(N/A)* | *(N/A)* |
+| Notable | Aceh | 0.26% | 736 | 407 | *(N/A)* | *(N/A)* |
+| Notable | Hawaii | 0.12% | 328 | 179 | *(N/A)* | *(N/A)* |
+| Notable | Alaska | 0.091% | 260 | 143 | *(N/A)* | *(N/A)* |
 
 *Tier labels follow the final shares: Primary and Significant end at the largest ratio gaps among the rows at 4.5% or more (Primary never more than six rows), no row at 4.5% or more is Notable, and Notable is the rest (the composition file's own rule, "boundaries fall at the largest ratio gaps"; the 8 / 3 / 1 share weights no longer produce the figures). Percentages are of this city's own human and robot population (identical between censuses), not Tepenia-wide. Robot figures apply the same proportions as the human population. Shares are rounded; they sum to 100% within rounding.*
 

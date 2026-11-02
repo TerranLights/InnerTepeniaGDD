@@ -11,8 +11,8 @@
 
 ## Population & Composition
 
-**Census I (Pre-Orbital Era):** 745,935 humans / 773,714 robots / **1,519,649** combined *(was 733,795 / 761,936 / 1,495,731; census updated 2026-10-28, `DR-68`)*
-**Census II (Orbital Era):** 445,030 humans / 612,848 robots / **1,057,878** combined *(was 436,922 / 605,109 / 1,042,031)*
+**Census I (Pre-Orbital Era):** 760,865 humans / 786,985 robots / **1,547,850** combined *(Esperanza relocation 2026-11-02, `DR-90`: was 745,935 humans / 773,714 robots / 1,519,649 combined)* *(was 733,795 / 761,936 / 1,495,731; census updated 2026-10-28, `DR-68`)*
+**Census II (Orbital Era):** 453,600 humans / 624,310 robots / **1,077,910** combined *(Esperanza relocation 2026-11-02, `DR-90`: was 445,030 humans / 612,848 robots / 1,057,878 combined)* *(was 436,922 / 605,109 / 1,042,031)*
 
 | Tier | Nations |
 |------|---------|
@@ -28,47 +28,47 @@
 
 | Tier | Nation | Share % | Census I Robots | Census I Humans | Census II Robots | Census II Humans |
 |------|--------|---------|------------------|------------------|-------------------|-------------------|
-| Primary | Korea | 12.13% | 93,884 | 90,515 | 74,365 | 54,002 |
-| Primary | France | 11.27% | 87,243 | 84,111 | 69,103 | 50,182 |
-| Primary | Australia *(founding wave — a direct sea route from Australia)* | 10.38% | 80,323 | 77,438 | 63,622 | 46,199 |
-| Primary | Sinian Federation | 9.49% | 73,453 | 70,816 | 58,181 | 42,249 |
-| Primary | CSA | 7.97% | 61,653 | 59,438 | 48,834 | 35,462 |
-| Significant | Japan | 5.98% | 46,256 | 44,594 | 36,639 | 26,606 |
-| Significant | Indonesia | 5.30% | 40,988 | 39,516 | 32,466 | 23,575 |
-| Significant | Appalachia | 4.36% | 33,765 | 32,552 | 26,745 | 19,423 |
-| Significant | New England | 3.57% | 27,616 | 26,625 | 21,873 | 15,884 |
-| Significant | New Zealand | 3.21% | 24,854 | 23,961 | 19,689 | 14,295 |
-| Significant | Philippines | 3.21% | 24,822 | 23,930 | 19,662 | 14,277 |
-| Significant | Cascadia | 3.18% | 24,599 | 23,716 | 19,485 | 14,149 |
-| Significant | Vietnam | 3.07% | 23,760 | 22,905 | 18,819 | 13,666 |
-| Significant | Taiwan | 2.90% | 22,477 | 21,671 | 17,804 | 12,928 |
-| Notable | Idelsk-Uralia | 1.84% | 14,230 | 13,718 | 11,271 | 8,184 |
-| Notable | Russia (core state) | 1.84% | 14,230 | 13,717 | 11,270 | 8,183 |
-| Notable | Malaysia | 1.70% | 13,147 | 12,676 | 10,414 | 7,563 |
-| Notable | Midwest Republic | 1.36% | 10,501 | 10,122 | 8,317 | 6,039 |
-| Notable | Manchuria | 1.23% | 9,536 | 9,193 | 7,553 | 5,484 |
-| Notable | Thailand | 1.05% | 8,103 | 7,813 | 6,419 | 4,661 |
-| Notable | Colorado | 1.02% | 7,896 | 7,613 | 6,254 | 4,542 |
-| Notable | Siberia | 0.73% | 5,657 | 5,453 | 4,482 | 3,254 |
-| Notable | Donska-Kubania | 0.70% | 5,423 | 5,229 | 4,295 | 3,120 |
-| Notable | Sonora | 0.60% | 4,638 | 4,473 | 3,674 | 2,666 |
-| Notable | Künnarantaiga | 0.42% | 3,267 | 3,151 | 2,589 | 1,879 |
-| Notable | Mongolia | 0.40% | 3,118 | 3,006 | 2,468 | 1,794 |
-| Notable | East Turkestan | 0.34% | 2,633 | 2,538 | 2,085 | 1,513 |
-| Notable | Dagestan | 0.13% | 1,005 | 969 | 796 | 578 |
-| Notable | West Papua | 0.096% | 746 | 718 | 591 | 430 |
-| Notable | Aceh | 0.093% | 719 | 695 | 570 | 415 |
-| Notable | Hawaii | 0.088% | 681 | 657 | 539 | 393 |
-| Notable | Chechnya | 0.062% | 477 | 461 | 380 | 276 |
-| Notable | Tibet | 0.048% | 372 | 359 | 294 | 214 |
-| Notable | Alaska | 0.041% | 318 | 307 | 252 | 183 |
-| Notable | Kabardino-Balkaria | 0.037% | 285 | 276 | 226 | 165 |
-| Notable | Patani | 0.031% | 238 | 229 | 187 | 136 |
-| Notable | North Ossetia-Alania | 0.028% | 217 | 210 | 172 | 125 |
-| Notable | Finland | 0.022% | 168 | 162 | 133 | 97 |
-| Notable | Ingushetia | 0.021% | 160 | 155 | 128 | 93 |
-| Notable | Karachay-Cherkessia | 0.019% | 149 | 144 | 118 | 85 |
-| Notable | Tuva | 0.014% | 107 | 103 | 84 | 61 |
+| Primary | Korea | 12.13% | 95,494 | 92,327 | 75,756 | 55,042 |
+| Primary | France | 11.27% | 88,739 | 85,794 | 70,395 | 51,148 |
+| Primary | Australia *(founding wave — a direct sea route from Australia)* | 10.38% | 81,701 | 78,988 | 64,812 | 47,089 |
+| Primary | Sinian Federation | 9.49% | 74,713 | 72,233 | 59,269 | 43,063 |
+| Primary | CSA | 7.97% | 62,710 | 60,628 | 49,747 | 36,145 |
+| Significant | Japan | 5.98% | 47,049 | 45,487 | 37,324 | 27,118 |
+| Significant | Indonesia | 5.30% | 41,691 | 40,307 | 33,073 | 24,029 |
+| Significant | Appalachia | 4.36% | 34,344 | 33,204 | 27,245 | 19,797 |
+| Significant | New England | 3.57% | 28,090 | 27,158 | 22,282 | 16,190 |
+| Significant | New Zealand | 3.21% | 25,280 | 24,441 | 20,057 | 14,570 |
+| Significant | Philippines | 3.21% | 25,248 | 24,409 | 20,030 | 14,552 |
+| Significant | Cascadia | 3.18% | 25,021 | 24,191 | 19,849 | 14,421 |
+| Significant | Vietnam | 3.07% | 24,168 | 23,363 | 19,171 | 13,929 |
+| Significant | Taiwan | 2.90% | 22,863 | 22,105 | 18,137 | 13,177 |
+| Notable | Idelsk-Uralia | 1.84% | 14,474 | 13,993 | 11,482 | 8,342 |
+| Notable | Russia (core state) | 1.84% | 14,474 | 13,992 | 11,481 | 8,341 |
+| Notable | Malaysia | 1.70% | 13,373 | 12,930 | 10,609 | 7,709 |
+| Notable | Midwest Republic | 1.36% | 10,681 | 10,325 | 8,473 | 6,155 |
+| Notable | Manchuria | 1.23% | 9,700 | 9,377 | 7,694 | 5,590 |
+| Notable | Thailand | 1.05% | 8,242 | 7,969 | 6,539 | 4,751 |
+| Notable | Colorado | 1.02% | 8,031 | 7,765 | 6,371 | 4,629 |
+| Notable | Siberia | 0.73% | 5,754 | 5,562 | 4,566 | 3,317 |
+| Notable | Donska-Kubania | 0.70% | 5,516 | 5,334 | 4,375 | 3,180 |
+| Notable | Sonora | 0.60% | 4,718 | 4,562 | 3,743 | 2,717 |
+| Notable | Künnarantaiga | 0.42% | 3,323 | 3,214 | 2,637 | 1,915 |
+| Notable | Mongolia | 0.40% | 3,171 | 3,066 | 2,514 | 1,829 |
+| Notable | East Turkestan | 0.34% | 2,678 | 2,589 | 2,124 | 1,542 |
+| Notable | Dagestan | 0.13% | 1,022 | 988 | 811 | 589 |
+| Notable | West Papua | 0.096% | 759 | 732 | 602 | 438 |
+| Notable | Aceh | 0.093% | 731 | 709 | 581 | 423 |
+| Notable | Hawaii | 0.088% | 693 | 670 | 549 | 401 |
+| Notable | Chechnya | 0.062% | 485 | 470 | 387 | 281 |
+| Notable | Tibet | 0.048% | 378 | 366 | 300 | 218 |
+| Notable | Alaska | 0.041% | 323 | 313 | 257 | 186 |
+| Notable | Kabardino-Balkaria | 0.037% | 290 | 281 | 230 | 168 |
+| Notable | Patani | 0.031% | 242 | 234 | 191 | 139 |
+| Notable | North Ossetia-Alania | 0.028% | 221 | 214 | 175 | 127 |
+| Notable | Finland | 0.022% | 171 | 165 | 136 | 99 |
+| Notable | Ingushetia | 0.021% | 163 | 158 | 130 | 95 |
+| Notable | Karachay-Cherkessia | 0.019% | 152 | 147 | 120 | 87 |
+| Notable | Tuva | 0.014% | 109 | 105 | 86 | 62 |
 
 *Tier labels follow the final shares: Primary and Significant end at the largest ratio gaps among the rows at 4.5% or more (Primary never more than six rows), no row at 4.5% or more is Notable, and Notable is the rest (the composition file's own rule, "boundaries fall at the largest ratio gaps"; the 8 / 3 / 1 share weights no longer produce the figures). Percentages are of this city's own human and robot population (identical between censuses), not Tepenia-wide. Robot figures apply the same proportions as the human population. Shares are rounded; they sum to 100% within rounding.*
 

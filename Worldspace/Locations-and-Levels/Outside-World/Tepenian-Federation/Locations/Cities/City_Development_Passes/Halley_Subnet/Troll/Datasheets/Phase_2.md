@@ -14,9 +14,9 @@
 | Spec table vs census table (nation lists, annotations ignored) | Identical | Compared 2026-10-21 |
 | Annotations in the tier tables | None | Read 2026-10-21 |
 | Per-nation breakdown (spec) | Present at L26–L82 (a model output per the spec's own note, not a measured count) — **not quoted**; cite by range | `Specs/Troll.md` L26 |
-| Census I | 487,859 H / 490,507 R / **978,366** combined | `Official_Population_Census.md` L513 |
-| Census II | 331,757 H / 355,920 R / **687,677** combined | `Official_Population_Census.md` L654 |
-| Retention (computed; cross-ref `Step_0.md`) | combined 70.29% · human 68.00% · robot 72.56% | Computed from the two rows above |
+| Census I | 502,791 H / 503,779 R / **1,006,570** combined | `Official_Population_Census.md` L513 |
+| Census II | 340,328 H / 367,383 R / **707,711** combined | `Official_Population_Census.md` L654 |
+| Retention (computed; cross-ref `Step_0.md`) | combined 70.31% · human 67.69% · robot 72.93% | Computed from the two rows above |
 | `Upper_Earth_Immigration_Composition.md` — the city's own section (the registered composition address) | Present at L298–L306: the section heading (L298), the tier table (L300–L304) and the key note (L306). **Cited by range, not quoted**: which spans are admissible is Step −1's ruling | `Upper_Earth_Immigration_Composition.md` L298–L284 |
 | `Upper_Earth_Immigration_Composition.md` — the solar-UTC rule (how the ±3 window is measured) | Present at L23–L65: the section heading at L23, the list "Recording it so it stops being reconstructed from examples" at L28–L35 (rule 1 at L30), and the refinement box at L37–L65. **Cited by range, not quoted** | `Upper_Earth_Immigration_Composition.md` L23–L63 |
 | Falkland Treaty — the human admission route | Art. II.2.3: humans admitted on **prior association with the robot population, communal or personal** — four grounds, the fourth a broad residual (*"or otherwise established their life among the robot population"*). Not a relationship requirement — humans were free to self-exile alongside the robots | `Corpus_Reference_Sheets/Falkland_Treaty_Quick_Reference.md` |

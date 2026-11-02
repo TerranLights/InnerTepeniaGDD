@@ -6,7 +6,7 @@
 
 **Subnet:** Palmer ("American")
 **Status:** Damaged; partially operational — Tepenia's second-smallest city by population, spared not through resilience but through strategic irrelevance, and plausibly through simple misidentification as part of neighboring Palmer City's strike zone
-**Census Population:** 63,338 humans / 65,549 robots / 128,887 combined (Census I, rank 34th of ~35, *corrected 2026-07-03, again 2026-07-05*); 53,703 humans / 42,203 robots / 95,906 combined (Census II, rank 32nd, *corrected 2026-07-17 — was "31st," stale against the current `Official_Population_Census.md` Census II ranking table*)
+**Census Population:** 457 humans / 472 robots / 929 combined (Census I); 387 humans / 304 robots / 691 combined (Census II) *(updated 2026-11-02, `DR-89`: reduced on 2026-09-05 from 63,338 / 65,549 / 128,887 and 53,703 / 42,203 / 95,906, because Goudier Island is 0.024 km²)*
 **Location:** Goudier Island, Port Lockroy harbor, Wiencke Island, Antarctic Peninsula (~64°49'S, 63°29'W)
 
 **One-liner:** *The city too small and too old to be worth the trouble of destroying — a palimpsest of a place, military base to memorial to living community, that survived the Long Night War the same quiet way it survived every era before it: by simply not mattering enough to erase.*
@@ -149,7 +149,7 @@ Modest and personal, consistent with the city's small, intimate scale — no lar
 
 ## 16. Human-Robot Relations
 
-With robots slightly outnumbering humans (65,549 to 63,338 Census I) in Tepenia's second-smallest city, human-robot relations at Puerto Abrigo are shaped by genuine intimacy — a community this small doesn't have room for impersonal hierarchy of any kind.
+With robots slightly outnumbering humans (472 to 457, Census I) in Tepenia's smallest city, human-robot relations at Puerto Abrigo are shaped by genuine intimacy — a community this small doesn't have room for impersonal hierarchy of any kind.
 
 ---
 

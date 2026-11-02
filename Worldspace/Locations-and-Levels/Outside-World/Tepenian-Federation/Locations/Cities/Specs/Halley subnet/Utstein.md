@@ -20,8 +20,8 @@
 
 ## Population & Composition
 
-**Census I (Pre-Orbital Era):** 565,907 humans / 595,927 robots / **1,161,834** combined *(was 553,768 / 584,149 / 1,137,917; census updated 2026-10-28, `DR-68`)*
-**Census II (Orbital Era):** 409,511 humans / 373,098 robots / **782,609** combined *(was 401,403 / 365,359 / 766,762)*
+**Census I (Pre-Orbital Era):** 580,839 humans / 609,199 robots / **1,190,038** combined *(Esperanza relocation 2026-11-02, `DR-90`: was 565,907 humans / 595,927 robots / 1,161,834 combined)* *(was 553,768 / 584,149 / 1,137,917; census updated 2026-10-28, `DR-68`)*
+**Census II (Orbital Era):** 418,082 humans / 384,561 robots / **802,643** combined *(Esperanza relocation 2026-11-02, `DR-90`: was 409,511 humans / 373,098 robots / 782,609 combined)* *(was 401,403 / 365,359 / 766,762)*
 
 | Tier | Nations |
 |------|---------|
@@ -37,48 +37,48 @@
 
 | Tier | Nation | Share % | Census I Robots | Census I Humans | Census II Robots | Census II Humans |
 |------|--------|---------|------------------|------------------|-------------------|-------------------|
-| Primary | France | 8.89% | 52,981 | 50,312 | 33,171 | 36,408 |
-| Primary | Brazil | 7.22% | 43,045 | 40,876 | 26,949 | 29,579 |
-| Primary | Australia | 7.05% | 41,985 | 39,869 | 26,287 | 28,851 |
-| Significant | Finland *(founding wave)* | 5.29% | 31,544 | 29,955 | 19,749 | 21,677 |
-| Significant | Japan | 5.16% | 30,717 | 29,169 | 19,232 | 21,108 |
-| Significant | Norway *(founding wave)* | 5.12% | 30,531 | 28,991 | 19,114 | 20,981 |
-| Significant | CSA | 4.58% | 27,279 | 25,905 | 17,079 | 18,745 |
-| Significant | Germany | 3.77% | 22,441 | 21,311 | 14,049 | 15,420 |
-| Notable | Denmark *(founding wave)* | 3.07% | 18,288 | 17,367 | 11,450 | 12,567 |
-| Notable | Netherlands | 2.98% | 17,718 | 16,825 | 11,093 | 12,174 |
-| Notable | Appalachia | 2.94% | 17,509 | 16,627 | 10,962 | 12,033 |
-| Notable | Serbia | 2.69% | 15,983 | 15,178 | 10,005 | 10,983 |
-| Notable | Poland | 2.68% | 15,944 | 15,140 | 9,983 | 10,957 |
-| Notable | Sweden *(founding wave)* | 2.65% | 15,778 | 14,983 | 9,878 | 10,842 |
-| Notable | Bulgaria | 2.52% | 15,016 | 14,258 | 9,400 | 10,318 |
-| Notable | Czechia | 2.46% | 14,640 | 13,903 | 9,167 | 10,060 |
-| Notable | Latvia | 2.46% | 14,683 | 13,944 | 9,193 | 10,091 |
-| Notable | Austro-Bavaria | 2.44% | 14,549 | 13,817 | 9,109 | 9,998 |
-| Notable | New England | 2.40% | 14,321 | 13,599 | 8,965 | 9,841 |
-| Notable | Romania | 2.22% | 13,194 | 12,530 | 8,262 | 9,067 |
-| Notable | Cascadia | 2.14% | 12,756 | 12,114 | 7,985 | 8,766 |
-| Notable | Ukraine | 1.76% | 10,504 | 9,975 | 6,576 | 7,218 |
-| Notable | United Kingdom | 1.66% | 9,883 | 9,385 | 6,188 | 6,791 |
-| Notable | Hungary | 1.64% | 9,743 | 9,252 | 6,099 | 6,694 |
-| Notable | Belarus | 1.37% | 8,205 | 7,793 | 5,137 | 5,638 |
-| Notable | Croatia | 1.32% | 7,898 | 7,501 | 4,945 | 5,428 |
-| Notable | Lithuania | 1.32% | 7,875 | 7,479 | 4,931 | 5,411 |
-| Notable | Slovakia | 1.24% | 7,333 | 6,963 | 4,591 | 5,039 |
-| Notable | Estonia | 1.19% | 7,091 | 6,733 | 4,439 | 4,873 |
-| Notable | South Africa | 1.14% | 6,766 | 6,427 | 4,237 | 4,651 |
-| Notable | Slovenia | 1.12% | 6,643 | 6,309 | 4,159 | 4,565 |
-| Notable | Argentina (without Patagonia) | 1.10% | 6,572 | 6,242 | 4,114 | 4,517 |
-| Notable | Midwest Republic | 0.91% | 5,445 | 5,171 | 3,409 | 3,741 |
-| Notable | Russia (core state) | 0.89% | 5,318 | 5,051 | 3,330 | 3,655 |
-| Notable | Amazonia | 0.80% | 4,749 | 4,509 | 2,973 | 3,263 |
-| Notable | Colorado | 0.69% | 4,095 | 3,888 | 2,563 | 2,814 |
-| Notable | Iceland *(founding wave)* | 0.55% | 3,302 | 3,136 | 2,067 | 2,269 |
-| Notable | Sonora | 0.40% | 2,405 | 2,284 | 1,506 | 1,653 |
-| Notable | Araucanía-Patagonia | 0.066% | 396 | 376 | 249 | 272 |
-| Notable | Hawaii | 0.059% | 354 | 335 | 222 | 244 |
-| Notable | Northern Ireland | 0.047% | 283 | 269 | 178 | 195 |
-| Notable | Alaska | 0.028% | 165 | 156 | 103 | 114 |
+| Primary | France | 8.89% | 54,161 | 51,639 | 34,190 | 37,170 |
+| Primary | Brazil | 7.22% | 44,004 | 41,955 | 27,777 | 30,198 |
+| Primary | Australia | 7.05% | 42,920 | 40,921 | 27,095 | 29,455 |
+| Significant | Finland *(founding wave)* | 5.29% | 32,246 | 30,745 | 20,356 | 22,131 |
+| Significant | Japan | 5.16% | 31,401 | 29,939 | 19,823 | 21,550 |
+| Significant | Norway *(founding wave)* | 5.12% | 31,211 | 29,756 | 19,701 | 21,420 |
+| Significant | CSA | 4.58% | 27,887 | 26,588 | 17,604 | 19,137 |
+| Significant | Germany | 3.77% | 22,941 | 21,873 | 14,481 | 15,743 |
+| Notable | Denmark *(founding wave)* | 3.07% | 18,695 | 17,825 | 11,802 | 12,830 |
+| Notable | Netherlands | 2.98% | 18,113 | 17,269 | 11,434 | 12,429 |
+| Notable | Appalachia | 2.94% | 17,899 | 17,066 | 11,299 | 12,285 |
+| Notable | Serbia | 2.69% | 16,339 | 15,578 | 10,312 | 11,213 |
+| Notable | Poland | 2.68% | 16,299 | 15,539 | 10,290 | 11,186 |
+| Notable | Sweden *(founding wave)* | 2.65% | 16,129 | 15,378 | 10,181 | 11,069 |
+| Notable | Bulgaria | 2.52% | 15,350 | 14,634 | 9,689 | 10,534 |
+| Notable | Czechia | 2.46% | 14,966 | 14,270 | 9,449 | 10,271 |
+| Notable | Latvia | 2.46% | 15,010 | 14,312 | 9,475 | 10,302 |
+| Notable | Austro-Bavaria | 2.44% | 14,873 | 14,182 | 9,389 | 10,207 |
+| Notable | New England | 2.40% | 14,640 | 13,958 | 9,240 | 10,047 |
+| Notable | Romania | 2.22% | 13,488 | 12,861 | 8,516 | 9,257 |
+| Notable | Cascadia | 2.14% | 13,040 | 12,434 | 8,230 | 8,949 |
+| Notable | Ukraine | 1.76% | 10,738 | 10,238 | 6,778 | 7,369 |
+| Notable | United Kingdom | 1.66% | 10,103 | 9,633 | 6,378 | 6,933 |
+| Notable | Hungary | 1.64% | 9,960 | 9,496 | 6,286 | 6,834 |
+| Notable | Belarus | 1.37% | 8,388 | 7,999 | 5,295 | 5,756 |
+| Notable | Croatia | 1.32% | 8,074 | 7,699 | 5,097 | 5,542 |
+| Notable | Lithuania | 1.32% | 8,050 | 7,676 | 5,083 | 5,524 |
+| Notable | Slovakia | 1.24% | 7,496 | 7,147 | 4,732 | 5,144 |
+| Notable | Estonia | 1.19% | 7,249 | 6,911 | 4,575 | 4,975 |
+| Notable | South Africa | 1.14% | 6,917 | 6,597 | 4,367 | 4,748 |
+| Notable | Slovenia | 1.12% | 6,791 | 6,475 | 4,287 | 4,661 |
+| Notable | Argentina (without Patagonia) | 1.10% | 6,718 | 6,407 | 4,240 | 4,612 |
+| Notable | Midwest Republic | 0.91% | 5,566 | 5,307 | 3,514 | 3,819 |
+| Notable | Russia (core state) | 0.89% | 5,436 | 5,184 | 3,432 | 3,732 |
+| Notable | Amazonia | 0.80% | 4,855 | 4,628 | 3,064 | 3,331 |
+| Notable | Colorado | 0.69% | 4,186 | 3,991 | 2,642 | 2,873 |
+| Notable | Iceland *(founding wave)* | 0.55% | 3,376 | 3,219 | 2,131 | 2,316 |
+| Notable | Sonora | 0.40% | 2,459 | 2,344 | 1,552 | 1,688 |
+| Notable | Araucanía-Patagonia | 0.066% | 405 | 386 | 257 | 278 |
+| Notable | Hawaii | 0.059% | 362 | 344 | 229 | 249 |
+| Notable | Northern Ireland | 0.047% | 289 | 276 | 183 | 199 |
+| Notable | Alaska | 0.028% | 169 | 160 | 106 | 116 |
 
 *Tier labels follow the final shares: Primary and Significant end at the largest ratio gaps among the rows at 4.5% or more (Primary never more than six rows), no row at 4.5% or more is Notable, and Notable is the rest (the composition file's own rule, "boundaries fall at the largest ratio gaps"; the 8 / 3 / 1 share weights no longer produce the figures). Percentages are of this city's own human and robot population (identical between censuses), not Tepenia-wide. Robot figures apply the same proportions as the human population. Shares are rounded; they sum to 100% within rounding.*
 

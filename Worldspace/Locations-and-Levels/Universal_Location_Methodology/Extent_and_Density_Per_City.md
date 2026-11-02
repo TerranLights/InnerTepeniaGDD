@@ -461,7 +461,7 @@ load-bearing: the strait stops being something a highway crosses and becomes som
 
 🔬 *James Ross is ~2,400 km²; its **Ulu Peninsula holds ~250–312 km² of ice-free ground — the largest
 deglaciated area in the Antarctic Peninsula region** — facing the Trinity Peninsula across the Prince Gustav
-Channel.* ⚠ **Esperanza carries 1,878,287 with no declared extent, on Hope Bay, already flagged as possibly
+Channel.* ⚠ **Esperanza carries 1,200,000 (1,878,287, then 1,902,205, until the 2026-11-02 relocation, `DR-90`) with no declared extent yet, on Hope Bay plus Tabarin Peninsula plus ice (Option D, 2026-11-01; 120–171 km² needed at 7,000–10,000/km²), earlier flagged as possibly
 too big for its site — and it is Hwy 1's northern TERMINUS.**
 
 > ⭐⭐⭐ ***The Palmer subnet's two worst extent problems sit at opposite ends of the same road, and the
@@ -603,7 +603,7 @@ Foothills. *Same shape, one subnet over.*
 | City | Subnet | Census I | @10k | @7k | Site |
 |---|---|--:|--:|--:|---|
 | Lazar | Halley | 2,620,319 | 262 | 374 | Schirmacher Oasis ~34 km² |
-| Esperanza | Palmer | 1,878,287 | 188 | 268 | Hope Bay ⚠ *James Ross I. reserved for it — §8* |
+| Esperanza | Palmer | 1,200,000 | 120 | 171 | Hope Bay + Tabarin + ice (Option D, `DR-90`) ⚠ *James Ross I.'s role open — §8* |
 | Cape Adare | Janbogo | 1,499,654 | 150 | 214 | Cape Adare |
 | Casey | Mirny | 1,495,731 | 150 | 214 | Bailey Pen., Windmill Is. |
 | **Halley** | Halley | 1,452,345 | 145 | 207 | **Brunt ice shelf — MIGRATING** |

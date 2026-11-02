@@ -12,8 +12,8 @@
 
 ## Population & Composition
 
-**Census I (Pre-Orbital Era):** 639,723 humans / 642,845 robots / **1,282,568** combined *(was 627,584 / 631,067 / 1,258,651; census updated 2026-10-28, `DR-68`)* *(destroyed)*
-**Census II (Orbital Era):** 451,862 humans / 501,644 robots / **953,506** combined *(was 443,754 / 493,905 / 937,659)* *(destroyed in Long Night War)*
+**Census I (Pre-Orbital Era):** 654,653 humans / 656,116 robots / **1,310,769** combined *(Esperanza relocation 2026-11-02, `DR-90`: was 639,723 humans / 642,845 robots / 1,282,568 combined)* *(was 627,584 / 631,067 / 1,258,651; census updated 2026-10-28, `DR-68`)* *(destroyed)*
+**Census II (Orbital Era):** 460,432 humans / 513,107 robots / **973,539** combined *(Esperanza relocation 2026-11-02, `DR-90`: was 451,862 humans / 501,644 robots / 953,506 combined)* *(was 443,754 / 493,905 / 937,659)* *(destroyed in Long Night War)*
 
 | Tier | Nations |
 |------|---------|
@@ -29,36 +29,36 @@
 
 | Tier | Nation | Share % | Census I Robots | Census I Humans | Census II Robots | Census II Humans |
 |------|--------|---------|------------------|------------------|-------------------|-------------------|
-| Primary | Korea | 13.94% | 89,617 | 89,183 | 69,934 | 62,990 |
-| Primary | Sinian Federation | 12.25% | 78,783 | 78,400 | 61,478 | 55,377 |
-| Primary | Australia *(founding wave)* | 11.63% | 74,794 | 74,430 | 58,366 | 52,573 |
-| Primary | CSA | 7.67% | 49,314 | 49,074 | 38,483 | 34,663 |
-| Primary | Indonesia | 6.88% | 44,257 | 44,041 | 34,535 | 31,109 |
-| Significant | Japan | 4.49% | 28,864 | 28,723 | 22,524 | 20,289 |
-| Significant | Cascadia | 4.12% | 26,496 | 26,367 | 20,675 | 18,624 |
-| Significant | Appalachia | 3.87% | 24,895 | 24,775 | 19,428 | 17,500 |
-| Significant | Demilitarized Zone (s. Ontario; not a nation) | 3.50% | 22,528 | 22,419 | 17,580 | 15,835 |
-| Significant | Magna Lombardia | 3.40% | 21,863 | 21,758 | 17,061 | 15,368 |
-| Significant | Malaysia | 3.29% | 21,189 | 21,086 | 16,534 | 14,894 |
-| Significant | New Zealand | 3.23% | 20,765 | 20,665 | 16,204 | 14,596 |
-| Significant | New England | 3.17% | 20,362 | 20,264 | 15,889 | 14,312 |
-| Significant | Taiwan | 2.91% | 18,692 | 18,602 | 14,586 | 13,140 |
-| Significant | Quebec | 2.68% | 17,225 | 17,142 | 13,442 | 12,108 |
-| Significant | Meridia | 2.09% | 13,421 | 13,357 | 10,474 | 9,434 |
-| Significant | Prairie Federation | 1.97% | 12,673 | 12,611 | 9,889 | 8,908 |
-| Significant | Philippines | 1.81% | 11,644 | 11,585 | 9,085 | 8,184 |
-| Significant | Chile | 1.50% | 9,661 | 9,613 | 7,539 | 6,791 |
-| Significant | Manchuria | 1.46% | 9,416 | 9,370 | 7,347 | 6,617 |
-| Significant | Midwest Republic | 1.20% | 7,742 | 7,704 | 6,041 | 5,442 |
-| Notable | Colorado | 0.91% | 5,821 | 5,794 | 4,543 | 4,093 |
-| Notable | Sonora | 0.53% | 3,421 | 3,404 | 2,668 | 2,405 |
-| Notable | Sicilia (autonomous zone within Meridia) | 0.48% | 3,111 | 3,096 | 2,428 | 2,187 |
-| Notable | Mongolia | 0.37% | 2,367 | 2,356 | 1,846 | 1,664 |
-| Notable | Araucanía-Patagonia | 0.24% | 1,557 | 1,549 | 1,216 | 1,095 |
-| Notable | West Papua | 0.12% | 742 | 739 | 580 | 521 |
-| Notable | Aceh | 0.11% | 716 | 712 | 559 | 504 |
-| Notable | Hawaii | 0.078% | 502 | 499 | 393 | 354 |
-| Notable | Alaska | 0.063% | 407 | 405 | 317 | 285 |
+| Primary | Korea | 13.94% | 91,467 | 91,264 | 71,532 | 64,185 |
+| Primary | Sinian Federation | 12.25% | 80,409 | 80,230 | 62,883 | 56,427 |
+| Primary | Australia *(founding wave)* | 11.63% | 76,338 | 76,167 | 59,700 | 53,570 |
+| Primary | CSA | 7.67% | 50,332 | 50,219 | 39,362 | 35,320 |
+| Primary | Indonesia | 6.88% | 45,171 | 45,069 | 35,324 | 31,699 |
+| Significant | Japan | 4.49% | 29,460 | 29,393 | 23,039 | 20,674 |
+| Significant | Cascadia | 4.12% | 27,043 | 26,982 | 21,147 | 18,977 |
+| Significant | Appalachia | 3.87% | 25,409 | 25,353 | 19,872 | 17,832 |
+| Significant | Demilitarized Zone (s. Ontario; not a nation) | 3.50% | 22,993 | 22,942 | 17,982 | 16,135 |
+| Significant | Magna Lombardia | 3.40% | 22,314 | 22,266 | 17,451 | 15,659 |
+| Significant | Malaysia | 3.29% | 21,627 | 21,578 | 16,912 | 15,176 |
+| Significant | New Zealand | 3.23% | 21,194 | 21,147 | 16,574 | 14,873 |
+| Significant | New England | 3.17% | 20,782 | 20,737 | 16,252 | 14,583 |
+| Significant | Taiwan | 2.91% | 19,078 | 19,036 | 14,919 | 13,389 |
+| Significant | Quebec | 2.68% | 17,581 | 17,542 | 13,749 | 12,338 |
+| Significant | Meridia | 2.09% | 13,698 | 13,669 | 10,713 | 9,613 |
+| Significant | Prairie Federation | 1.97% | 12,935 | 12,905 | 10,115 | 9,077 |
+| Significant | Philippines | 1.81% | 11,884 | 11,856 | 9,293 | 8,339 |
+| Significant | Chile | 1.50% | 9,861 | 9,837 | 7,711 | 6,920 |
+| Significant | Manchuria | 1.46% | 9,610 | 9,589 | 7,515 | 6,743 |
+| Significant | Midwest Republic | 1.20% | 7,902 | 7,884 | 6,179 | 5,545 |
+| Notable | Colorado | 0.91% | 5,941 | 5,929 | 4,647 | 4,171 |
+| Notable | Sonora | 0.53% | 3,492 | 3,484 | 2,729 | 2,451 |
+| Notable | Sicilia (autonomous zone within Meridia) | 0.48% | 3,175 | 3,168 | 2,484 | 2,228 |
+| Notable | Mongolia | 0.37% | 2,416 | 2,411 | 1,888 | 1,696 |
+| Notable | Araucanía-Patagonia | 0.24% | 1,589 | 1,585 | 1,244 | 1,116 |
+| Notable | West Papua | 0.12% | 757 | 756 | 593 | 531 |
+| Notable | Aceh | 0.11% | 731 | 729 | 572 | 514 |
+| Notable | Hawaii | 0.078% | 512 | 511 | 402 | 361 |
+| Notable | Alaska | 0.063% | 415 | 415 | 324 | 290 |
 
 *Tier labels follow the final shares: Primary and Significant end at the largest ratio gaps among the rows at 4.5% or more (Primary never more than six rows), no row at 4.5% or more is Notable, and Notable is the rest (the composition file's own rule, "boundaries fall at the largest ratio gaps"; the 8 / 3 / 1 share weights no longer produce the figures). Percentages are of this city's own human and robot population (identical between censuses), not Tepenia-wide. Robot figures apply the same proportions as the human population. Shares are rounded; they sum to 100% within rounding.*
 

@@ -12,8 +12,8 @@
 
 ## Population & Composition
 
-**Census I (Pre-Orbital Era):** 758,107 humans / 765,465 robots / **1,523,572** combined *(was 745,967 / 753,687 / 1,499,654; census updated 2026-10-28, `DR-68`)*
-**Census II (Orbital Era):** 434,451 humans / 631,447 robots / **1,065,898** combined *(was 426,343 / 623,708 / 1,050,051)* *(destroyed)*
+**Census I (Pre-Orbital Era):** 773,039 humans / 778,737 robots / **1,551,776** combined *(Esperanza relocation 2026-11-02, `DR-90`: was 758,107 humans / 765,465 robots / 1,523,572 combined)* *(was 745,967 / 753,687 / 1,499,654; census updated 2026-10-28, `DR-68`)*
+**Census II (Orbital Era):** 443,021 humans / 642,910 robots / **1,085,931** combined *(Esperanza relocation 2026-11-02, `DR-90`: was 434,451 humans / 631,447 robots / 1,065,898 combined)* *(was 426,343 / 623,708 / 1,050,051)* *(destroyed)*
 
 | Tier | Nations |
 |------|---------|
@@ -29,35 +29,35 @@
 
 | Tier | Nation | Share % | Census I Robots | Census I Humans | Census II Robots | Census II Humans |
 |------|--------|---------|------------------|------------------|-------------------|-------------------|
-| Primary | Australia | 11.82% | 90,458 | 89,589 | 74,620 | 51,341 |
-| Primary | Sinian Federation | 11.62% | 88,953 | 88,098 | 73,379 | 50,486 |
-| Primary | Japan | 11.52% | 88,248 | 87,398 | 72,795 | 50,085 |
-| Primary | Indonesia | 9.78% | 74,880 | 74,159 | 61,770 | 42,500 |
-| Primary | CSA | 7.91% | 60,542 | 59,960 | 49,942 | 34,362 |
-| Significant | Korea | 6.21% | 47,606 | 47,152 | 39,274 | 27,020 |
-| Significant | United Kingdom | 5.37% | 41,131 | 40,734 | 33,929 | 23,344 |
-| Significant | Appalachia | 4.43% | 33,884 | 33,560 | 27,952 | 19,231 |
-| Significant | Cascadia | 4.08% | 31,231 | 30,932 | 25,764 | 17,725 |
-| Significant | New England | 3.62% | 27,714 | 27,448 | 22,860 | 15,730 |
-| Significant | Chile | 3.08% | 23,633 | 23,405 | 19,495 | 13,414 |
-| Significant | New Zealand | 3.06% | 23,361 | 23,136 | 19,272 | 13,259 |
-| Significant | Taiwan | 2.91% | 22,259 | 22,044 | 18,362 | 12,633 |
-| Significant | Demilitarized Zone (s. Ontario; not a nation) | 2.31% | 17,643 | 17,473 | 14,554 | 10,014 |
-| Significant | Philippines | 1.99% | 15,228 | 15,081 | 12,563 | 8,642 |
-| Significant | Quebec | 1.76% | 13,490 | 13,361 | 11,127 | 7,655 |
-| Significant | Malaysia | 1.46% | 11,147 | 11,040 | 9,196 | 6,327 |
-| Significant | Midwest Republic | 1.38% | 10,538 | 10,436 | 8,692 | 5,981 |
-| Significant | Prairie Federation | 1.30% | 9,924 | 9,829 | 8,186 | 5,633 |
-| Significant | Manchuria | 1.28% | 9,830 | 9,737 | 8,110 | 5,581 |
-| Significant | Colorado | 1.03% | 7,924 | 7,849 | 6,538 | 4,498 |
-| Notable | Sonora | 0.61% | 4,655 | 4,609 | 3,840 | 2,641 |
-| Notable | Araucanía-Patagonia | 0.50% | 3,811 | 3,773 | 3,144 | 2,163 |
-| Notable | Mongolia | 0.32% | 2,471 | 2,447 | 2,039 | 1,403 |
-| Notable | West Papua | 0.18% | 1,393 | 1,380 | 1,149 | 791 |
-| Notable | Aceh | 0.18% | 1,346 | 1,333 | 1,110 | 763 |
-| Notable | Northern Ireland | 0.13% | 1,027 | 1,017 | 846 | 583 |
-| Notable | Hawaii | 0.089% | 684 | 678 | 564 | 388 |
-| Notable | Alaska | 0.059% | 454 | 449 | 375 | 258 |
+| Primary | Australia | 11.82% | 92,026 | 91,354 | 75,975 | 52,354 |
+| Primary | Sinian Federation | 11.62% | 90,495 | 89,833 | 74,711 | 51,482 |
+| Primary | Japan | 11.52% | 89,778 | 89,119 | 74,116 | 51,073 |
+| Primary | Indonesia | 9.78% | 76,178 | 75,620 | 62,891 | 43,338 |
+| Primary | CSA | 7.91% | 61,592 | 61,141 | 50,849 | 35,040 |
+| Significant | Korea | 6.21% | 48,431 | 48,081 | 39,987 | 27,553 |
+| Significant | United Kingdom | 5.37% | 41,844 | 41,536 | 34,545 | 23,804 |
+| Significant | Appalachia | 4.43% | 34,472 | 34,221 | 28,459 | 19,610 |
+| Significant | Cascadia | 4.08% | 31,773 | 31,541 | 26,232 | 18,075 |
+| Significant | New England | 3.62% | 28,195 | 27,989 | 23,275 | 16,040 |
+| Significant | Chile | 3.08% | 24,043 | 23,866 | 19,849 | 13,679 |
+| Significant | New Zealand | 3.06% | 23,766 | 23,592 | 19,622 | 13,521 |
+| Significant | Taiwan | 2.91% | 22,645 | 22,478 | 18,695 | 12,882 |
+| Significant | Demilitarized Zone (s. Ontario; not a nation) | 2.31% | 17,949 | 17,817 | 14,818 | 10,211 |
+| Significant | Philippines | 1.99% | 15,492 | 15,378 | 12,791 | 8,812 |
+| Significant | Quebec | 1.76% | 13,724 | 13,624 | 11,329 | 7,806 |
+| Significant | Malaysia | 1.46% | 11,340 | 11,257 | 9,363 | 6,452 |
+| Significant | Midwest Republic | 1.38% | 10,721 | 10,642 | 8,850 | 6,099 |
+| Significant | Prairie Federation | 1.30% | 10,096 | 10,023 | 8,335 | 5,744 |
+| Significant | Manchuria | 1.28% | 10,000 | 9,929 | 8,257 | 5,691 |
+| Significant | Colorado | 1.03% | 8,061 | 8,004 | 6,657 | 4,587 |
+| Notable | Sonora | 0.61% | 4,736 | 4,700 | 3,910 | 2,693 |
+| Notable | Araucanía-Patagonia | 0.50% | 3,877 | 3,847 | 3,201 | 2,206 |
+| Notable | Mongolia | 0.32% | 2,514 | 2,495 | 2,076 | 1,431 |
+| Notable | West Papua | 0.18% | 1,417 | 1,407 | 1,170 | 807 |
+| Notable | Aceh | 0.18% | 1,369 | 1,359 | 1,130 | 778 |
+| Notable | Northern Ireland | 0.13% | 1,045 | 1,037 | 861 | 594 |
+| Notable | Hawaii | 0.089% | 696 | 691 | 574 | 396 |
+| Notable | Alaska | 0.059% | 462 | 458 | 382 | 263 |
 
 *Tier labels follow the final shares: Primary and Significant end at the largest ratio gaps among the rows at 4.5% or more (Primary never more than six rows), no row at 4.5% or more is Notable, and Notable is the rest (the composition file's own rule, "boundaries fall at the largest ratio gaps"; the 8 / 3 / 1 share weights no longer produce the figures). Percentages are of this city's own human and robot population (identical between censuses), not Tepenia-wide. Robot figures apply the same proportions as the human population. Shares are rounded; they sum to 100% within rounding.*
 
@@ -85,7 +85,7 @@ run because no area figure existed anywhere)*:
 | Ridley Beach *(site of Borchgrevink's hut)* | a triangle roughly **1.9 km per side**, ~1.6 km SW of the cape |
 
 **The derived constraint — Cape Adare cannot be confined to the cape proper.** Checked against every other
-Tepenian city whose own Spec states the ice-free terrain it occupies: *(Added 2026-10-30: the Census II figure in the last row of this table, 1,050,051, and the density figures in the table at L127–131 were computed on pre-change values — the census file now lists 1,065,898 for Cape Adare (Census II, L607). The comparison frame itself is superseded at L83–98; the datasheets do not carry either table.)*
+Tepenian city whose own Spec states the ice-free terrain it occupies: *(Added 2026-10-30: the Census II figure in the last row of this table, 1,050,051, and the density figures in the table at L127–131 were computed on pre-change values — the census file now lists 1,085,931 for Cape Adare (Census II, L607). The comparison frame itself is superseded at L83–98; the datasheets do not carry either table.)*
 
 | City | Ice-free terrain | km² | Census II | People per km² |
 |---|---|---|---|---|

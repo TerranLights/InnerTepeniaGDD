@@ -1,0 +1,318 @@
+{
+ "target": 1200000,
+ "factor": 0.6308468330174718,
+ "esperanza_old": [
+  934728,
+  967477,
+  683124,
+  510762
+ ],
+ "esperanza_new": [
+  589670,
+  610330,
+  430946,
+  322213
+ ],
+ "removed": [
+  345058,
+  357147,
+  252178,
+  188549
+ ],
+ "add": {
+  "Amundsen Station": [
+   0,
+   0,
+   0,
+   0
+  ],
+  "Byrd": [
+   13272,
+   14932,
+   0,
+   0
+  ],
+  "Belgrano": [
+   13272,
+   14932,
+   11463,
+   8571
+  ],
+  "Halley": [
+   13272,
+   14932,
+   11463,
+   8571
+  ],
+  "Lazar": [
+   13272,
+   14932,
+   11463,
+   8571
+  ],
+  "Neumayer": [
+   13272,
+   14932,
+   11463,
+   8571
+  ],
+  "Sanay": [
+   13272,
+   14932,
+   11463,
+   8571
+  ],
+  "Santa Luce": [
+   13272,
+   14932,
+   11463,
+   8571
+  ],
+  "Troll": [
+   13272,
+   14932,
+   11463,
+   8571
+  ],
+  "Utstein": [
+   13272,
+   14932,
+   11463,
+   8571
+  ],
+  "Cape Adare": [
+   13272,
+   14932,
+   11463,
+   8570
+  ],
+  "Concordia": [
+   13272,
+   14930,
+   11463,
+   8570
+  ],
+  "Denison": [
+   13271,
+   14930,
+   11463,
+   8570
+  ],
+  "Dumont d'Urville": [
+   0,
+   0,
+   0,
+   0
+  ],
+  "Fort McMurdo": [
+   0,
+   0,
+   0,
+   0
+  ],
+  "Janbogo": [
+   13271,
+   14930,
+   11463,
+   8570
+  ],
+  "Scott": [
+   0,
+   0,
+   0,
+   0
+  ],
+  "Zukelli": [
+   13271,
+   14930,
+   11463,
+   8570
+  ],
+  "Dome Fuji": [
+   13271,
+   0,
+   0,
+   0
+  ],
+  "Mawson": [
+   13271,
+   14930,
+   11462,
+   8570
+  ],
+  "Temirötkel": [
+   0,
+   0,
+   0,
+   0
+  ],
+  "Ariun Nuur": [
+   13271,
+   14930,
+   0,
+   0
+  ],
+  "Casey": [
+   13271,
+   14930,
+   11462,
+   8570
+  ],
+  "Davis": [
+   13271,
+   14930,
+   11462,
+   8570
+  ],
+  "Kunlun": [
+   13271,
+   0,
+   0,
+   0
+  ],
+  "Mirny": [
+   13271,
+   14930,
+   11462,
+   8570
+  ],
+  "Relung Panen": [
+   13271,
+   14930,
+   11462,
+   8570
+  ],
+  "Shirayuki": [
+   13271,
+   14930,
+   11462,
+   8570
+  ],
+  "Sinheung": [
+   13271,
+   14930,
+   11462,
+   8570
+  ],
+  "Zhongshan": [
+   13271,
+   14930,
+   11462,
+   8570
+  ],
+  "Contrapunto": [
+   0,
+   0,
+   0,
+   0
+  ],
+  "Esperanza": [
+   0,
+   0,
+   0,
+   0
+  ],
+  "Marambio": [
+   0,
+   0,
+   0,
+   0
+  ],
+  "Palmer City": [
+   0,
+   0,
+   0,
+   0
+  ],
+  "Pergamino": [
+   0,
+   0,
+   0,
+   0
+  ],
+  "Puerto Abrigo": [
+   0,
+   0,
+   0,
+   0
+  ],
+  "Rothera": [
+   0,
+   0,
+   0,
+   0
+  ],
+  "Signy": [
+   0,
+   0,
+   0,
+   0
+  ]
+ },
+ "groups": {
+  "maritime": [
+   13272,
+   13737,
+   5731,
+   4285
+  ],
+  "space": [
+   0,
+   0,
+   5732,
+   4286
+  ]
+ },
+ "recipients_I": [
+  "Amundsen Station",
+  "Byrd",
+  "Belgrano",
+  "Halley",
+  "Lazar",
+  "Neumayer",
+  "Sanay",
+  "Santa Luce",
+  "Troll",
+  "Utstein",
+  "Cape Adare",
+  "Concordia",
+  "Denison",
+  "Janbogo",
+  "Zukelli",
+  "Dome Fuji",
+  "Mawson",
+  "Ariun Nuur",
+  "Casey",
+  "Davis",
+  "Kunlun",
+  "Mirny",
+  "Relung Panen",
+  "Shirayuki",
+  "Sinheung",
+  "Zhongshan"
+ ],
+ "recipients_II": [
+  "Amundsen Station",
+  "Belgrano",
+  "Halley",
+  "Lazar",
+  "Neumayer",
+  "Sanay",
+  "Santa Luce",
+  "Troll",
+  "Utstein",
+  "Cape Adare",
+  "Concordia",
+  "Denison",
+  "Janbogo",
+  "Zukelli",
+  "Mawson",
+  "Casey",
+  "Davis",
+  "Mirny",
+  "Relung Panen",
+  "Shirayuki",
+  "Sinheung",
+  "Zhongshan"
+ ]
+}

@@ -16,9 +16,9 @@
 | Per-nation breakdown (spec) | Present at L26–L65 (a model output per the spec's own note, not a measured count) — **not quoted**; cite by range | `Specs/Janbogo.md` L26 |
 | `Upper_Earth_Immigration_Composition.md` — the city's own section (the registered composition address) | Present at L431–L439: the section heading at L431 (`### Janbogo *(Terra Nova Bay, ~74°37'S 164°13'E)*`), the tier table and the key note. **Cited by range, not quoted**: which spans are admissible is Step −1's ruling | `Upper_Earth_Immigration_Composition.md` L431–L405 |
 | `Upper_Earth_Immigration_Composition.md` — the solar-UTC rule (how the ±3 window is measured) | Present at L23–L65: the section heading at L23, the list "Recording it so it stops being reconstructed from examples" at L28–L35 (rule 1 at L30), and the refinement box at L37–L65. **Cited by range, not quoted** | `Upper_Earth_Immigration_Composition.md` L23–L63 |
-| Census I | 658,680 H / 675,748 R / **1,334,428** combined | `Official_Population_Census.md` L501 |
-| Census II | 498,672 H / 474,745 R / **973,417** combined | `Official_Population_Census.md` L643 |
-| Retention (computed; cross-ref `Step_0.md`) | combined 72.95% · human 75.71% · robot 70.25% | Computed from the two rows above |
+| Census I | 673,610 H / 689,019 R / **1,362,629** combined | `Official_Population_Census.md` L501 |
+| Census II | 507,242 H / 486,208 R / **993,450** combined | `Official_Population_Census.md` L643 |
+| Retention (computed; cross-ref `Step_0.md`) | combined 72.91% · human 75.30% · robot 70.57% | Computed from the two rows above |
 | Falkland Treaty — the human admission route | Art. II.2.3: humans admitted on **prior association with the robot population, communal or personal** — four grounds, the fourth a broad residual (*"or otherwise established their life among the robot population"*). Not a relationship requirement — humans were free to self-exile alongside the robots | `Corpus_Reference_Sheets/Falkland_Treaty_Quick_Reference.md` |
 | Falkland Treaty — station assignment is not nationality-based, in the treaty's own words | Art. II.3.3: *"Nothing in this Article requires that a population assigned to a given station share the national origin of the Power that formerly maintained it"* | `Corpus_Reference_Sheets/Falkland_Treaty_Quick_Reference.md` |
 | Falkland Treaty — the allocation was staged, not instant | Art. II.3.2: populations assigned to stations "in the years following this Treaty's signing" | `Corpus_Reference_Sheets/Falkland_Treaty_Quick_Reference.md` |

@@ -13,7 +13,7 @@
 
 | Category | Value | Citation |
 |---|---|---|
-| `16` Half B — the city's own row | City: Lazar · Subnet: Halley · D: 1.25 · Workforce: 1,796,984 · base%: 41.0% · MAND%: 0.0% · FREE%: 59.0% · src: – *(on the flat ABCC working value; counts re-run when per-city ABCC values are set — `16` L1287–L1304)* | `16_Per_City_Three_Tier_Run.md` L284; ABCC note L1287–L1304 |
+| `16` Half B — the city's own row | City: Lazar · Subnet: Halley · D: 1.25 · Workforce: 1,817,722 · base%: 41.0% · MAND%: 0.0% · FREE%: 59.0% · src: – *(on the flat ABCC working value; counts re-run when per-city ABCC values are set — `16` L1287–L1304)* | `16_Per_City_Three_Tier_Run.md` L284; ABCC note L1287–L1304 |
 | `16` — other lines naming the city (per-city passages and tables) | 19 line(s): L187, L189, L200, L202, L204, L206–207, L212, L323, L326, L364, L472, L474, L828, L894, L936, L1420, L1588, L2541 *(line numbers only; open the file's own status header first, then read each with its section)* | `16_Per_City_Three_Tier_Run.md` L187, L189, L200, L202, L204, L206–207, L212, L323, L326, L364, L472, L474, L828, L894, L936, L1420, L1588, L2541 |
 | `Division_of_Industry_Sweep_2026-08-31.md` | \| Lazar \| . \| Y \| . \| Y \| . \| . \| 4/6 \| | `Division_of_Industry_Sweep_2026-08-31.md` L148 |
 | `01_Burden_Scoring_Model.md` — status stamp in the folder README | `\| `01`, `03`, `07` \| SUPERSEDED. The share-first model and its failed validation. Kept as the record of why the method changed — do not use their figures \|` | `README.md` L49 |

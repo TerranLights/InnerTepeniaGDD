@@ -13,7 +13,7 @@
 
 ## Population Note (2026-07-03)
 
-Lazar's population was deliberately, substantially rebalanced this session — it went from a modest, mid-pack Halley subnet city (Census I: 976,095 combined, rank 18th of ~30) to Tepenia's single largest city (Census I: **2,382,205** combined; Census II: **1,639,426** combined; both after the −10% ruling of 2026-09-05 and the census update of 2026-10-28, `DR-68` — see L36–37). *(Census I figure corrected 2026-07-05 — this line had drifted to a stale 2,646,068, traced to an unreconciled per-nation table in `Upper_Earth_Immigration_Composition.md`; see the Population & Composition section below for the authoritative figure.)*
+Lazar's population was deliberately, substantially rebalanced this session — it went from a modest, mid-pack Halley subnet city (Census I: 976,095 combined, rank 18th of ~30) to Tepenia's single largest city (Census I: **2,410,409** combined; Census II: **1,659,460** combined; both after the −10% ruling of 2026-09-05 and the census update of 2026-10-28, `DR-68` — see L36–37). *(Census I figure corrected 2026-07-05 — this line had drifted to a stale 2,646,068, traced to an unreconciled per-nation table in `Upper_Earth_Immigration_Composition.md`; see the Population & Composition section below for the authoritative figure.)*
 
 This reflects genuine organic immigration, consistent with Lazar's own established character — a city built and continually reshaped by relentless waves of arrivals drawn from across the country, most heavily from Janbogo, Zukelli, and Esperanza. All three source cities' own national/ethnic tier compositions remain structurally unchanged — only their relative share of the national population shifted, as their own people moved to Lazar over time. Full current figures are documented in `Official_Population_Census.md`. Janbogo, Zukelli, and Esperanza's own cultural spec sheets and Specs files were updated to match — see `Local_Cultures/Janbogo_Subnet/Janbogo.md`, `Zukelli.md`, and `Local_Cultures/Palmer_Subnet/Esperanza.md`.
 
@@ -33,8 +33,8 @@ See also: `Specs/Shirayuki.md` (Mirny subnet as of 2026-07-05, moved from Mawson
 
 ## Population & Composition
 
-**Census I (Pre-Orbital Era):** 1,170,443 humans / 1,211,762 robots / **2,382,205** combined *(was 1,158,303 / 1,199,984 / 2,358,287; census updated 2026-10-28, `DR-68`)* ⭐ **−10% 2026-09-05, developer ruling** — *was 1,287,003 / 1,333,316 / **2,620,319***. ⛔ **Released to Relung Panen, the 38th city** *(`Official_Population_Census.md` §D-OVERFLOW)*. **H/R ratio preserved.** ⚠⚠ ***An authoring adjustment, NOT an event.*** *Nobody left this city; there is no departure, no diaspora, and Relung Panen inherits **no** population, composition or memory from here.*
-**Census II (Orbital Era):** 783,193 humans / 856,233 robots / **1,639,426** combined *(was 775,085 / 848,494 / 1,623,579)* ⭐ **−10% 2026-09-05, developer ruling** — *was 861,206 / 942,771 / **1,803,977***. ⛔ **Released to Relung Panen, the 38th city** *(`Official_Population_Census.md` §D-OVERFLOW)*. **H/R ratio preserved.** ⚠⚠ ***An authoring adjustment, NOT an event.*** *Nobody left this city; there is no departure, no diaspora, and Relung Panen inherits **no** population, composition or memory from here.*
+**Census I (Pre-Orbital Era):** 1,185,375 humans / 1,225,034 robots / **2,410,409** combined *(Esperanza relocation 2026-11-02, `DR-90`: was 1,170,443 humans / 1,211,762 robots / 2,382,205 combined)* *(was 1,158,303 / 1,199,984 / 2,358,287; census updated 2026-10-28, `DR-68`)* ⭐ **−10% 2026-09-05, developer ruling** — *was 1,287,003 / 1,333,316 / **2,620,319***. ⛔ **Released to Relung Panen, the 38th city** *(`Official_Population_Census.md` §D-OVERFLOW)*. **H/R ratio preserved.** ⚠⚠ ***An authoring adjustment, NOT an event.*** *Nobody left this city; there is no departure, no diaspora, and Relung Panen inherits **no** population, composition or memory from here.*
+**Census II (Orbital Era):** 791,764 humans / 867,696 robots / **1,659,460** combined *(Esperanza relocation 2026-11-02, `DR-90`: was 783,193 humans / 856,233 robots / 1,639,426 combined)* *(was 775,085 / 848,494 / 1,623,579)* ⭐ **−10% 2026-09-05, developer ruling** — *was 861,206 / 942,771 / **1,803,977***. ⛔ **Released to Relung Panen, the 38th city** *(`Official_Population_Census.md` §D-OVERFLOW)*. **H/R ratio preserved.** ⚠⚠ ***An authoring adjustment, NOT an event.*** *Nobody left this city; there is no departure, no diaspora, and Relung Panen inherits **no** population, composition or memory from here.*
 
 | Tier | Nations |
 |------|---------|
@@ -50,54 +50,54 @@ See also: `Specs/Shirayuki.md` (Mirny subnet as of 2026-07-05, moved from Mawson
 
 | Tier | Nation | Share % | Census I Robots | Census I Humans | Census II Robots | Census II Humans |
 |------|--------|---------|------------------|------------------|-------------------|-------------------|
-| Primary | United Kingdom | 9.61% | 116,372 | 112,403 | 82,229 | 75,213 |
-| Primary | Brazil | 7.99% | 96,843 | 93,543 | 68,429 | 62,593 |
-| Primary | Germany | 7.80% | 94,461 | 91,240 | 66,747 | 61,053 |
-| Primary | CSA | 6.04% | 73,206 | 70,709 | 51,727 | 47,314 |
-| Significant | Appalachia | 3.88% | 46,988 | 45,385 | 33,202 | 30,369 |
-| Significant | Norway | 3.35% | 40,632 | 39,246 | 28,711 | 26,261 |
-| Significant | Hungary | 3.31% | 40,075 | 38,707 | 28,315 | 25,901 |
-| Significant | Finland | 3.29% | 39,841 | 38,482 | 28,151 | 25,750 |
-| Significant | Czechia | 3.24% | 39,239 | 37,900 | 27,725 | 25,361 |
-| Significant | Estonia | 3.23% | 39,098 | 37,765 | 27,628 | 25,270 |
-| Significant | Austro-Bavaria | 3.22% | 38,971 | 37,642 | 27,537 | 25,188 |
-| Significant | New England | 3.17% | 38,430 | 37,120 | 27,154 | 24,839 |
-| Significant | Poland | 3.15% | 38,169 | 36,869 | 26,972 | 24,671 |
-| Significant | Slovenia | 3.01% | 36,423 | 35,179 | 25,736 | 23,542 |
-| Significant | Serbia | 2.96% | 35,842 | 34,619 | 25,326 | 23,164 |
-| Significant | Slovakia | 2.94% | 35,645 | 34,431 | 25,187 | 23,039 |
-| Significant | Cascadia | 2.83% | 34,231 | 33,064 | 24,188 | 22,124 |
-| Significant | Romania | 2.52% | 30,597 | 29,553 | 21,621 | 19,775 |
-| Significant | France | 2.42% | 29,402 | 28,401 | 20,775 | 19,004 |
-| Significant | Russia (core state) | 2.04% | 24,683 | 23,840 | 17,440 | 15,952 |
-| Significant | Belarus | 1.77% | 21,552 | 20,817 | 15,228 | 13,930 |
-| Significant | Lithuania | 1.73% | 20,929 | 20,217 | 14,788 | 13,527 |
-| Significant | South Africa | 1.52% | 18,405 | 17,777 | 13,006 | 11,896 |
-| Significant | Idelsk-Uralia | 1.48% | 17,909 | 17,300 | 12,655 | 11,576 |
-| Significant | Croatia | 1.44% | 17,477 | 16,882 | 12,349 | 11,296 |
-| Significant | Latvia | 1.40% | 16,946 | 16,369 | 11,975 | 10,954 |
-| Significant | Argentina (without Patagonia) | 1.35% | 16,352 | 15,795 | 11,554 | 10,568 |
-| Significant | Bulgaria | 1.31% | 15,944 | 15,401 | 11,266 | 10,305 |
-| Significant | Midwest Republic | 1.21% | 14,612 | 14,113 | 10,326 | 9,444 |
-| Significant | Netherlands | 1.17% | 14,192 | 13,707 | 10,029 | 9,173 |
-| Significant | Ukraine | 1.11% | 13,379 | 12,923 | 9,453 | 8,647 |
-| Notable | Colorado | 0.91% | 10,989 | 10,614 | 7,765 | 7,103 |
-| Notable | Amazonia | 0.88% | 10,683 | 10,320 | 7,550 | 6,905 |
-| Notable | Siberia | 0.59% | 7,120 | 6,876 | 5,029 | 4,602 |
-| Notable | Donska-Kubania | 0.56% | 6,826 | 6,593 | 4,824 | 4,411 |
-| Notable | Sonora | 0.53% | 6,455 | 6,235 | 4,561 | 4,172 |
-| Notable | Künnarantaiga | 0.34% | 4,112 | 3,972 | 2,906 | 2,658 |
-| Notable | Northern Ireland | 0.28% | 3,333 | 3,219 | 2,354 | 2,153 |
-| Notable | Dagestan | 0.10% | 1,265 | 1,222 | 892 | 818 |
-| Notable | Araucanía-Patagonia | 0.081% | 985 | 950 | 696 | 637 |
-| Notable | Hawaii | 0.078% | 948 | 916 | 671 | 613 |
-| Notable | Chechnya | 0.050% | 601 | 581 | 425 | 388 |
-| Notable | Alaska | 0.036% | 442 | 427 | 312 | 285 |
-| Notable | Kabardino-Balkaria | 0.030% | 360 | 347 | 255 | 233 |
-| Notable | North Ossetia-Alania | 0.023% | 274 | 264 | 194 | 177 |
-| Notable | Ingushetia | 0.017% | 203 | 197 | 143 | 132 |
-| Notable | Karachay-Cherkessia | 0.015% | 187 | 181 | 133 | 121 |
-| Notable | Tuva | 0.011% | 134 | 130 | 94 | 86 |
+| Primary | United Kingdom | 9.61% | 117,647 | 113,837 | 83,330 | 76,036 |
+| Primary | Brazil | 7.99% | 97,904 | 94,736 | 69,345 | 63,278 |
+| Primary | Germany | 7.80% | 95,496 | 92,404 | 67,641 | 61,721 |
+| Primary | CSA | 6.04% | 74,008 | 71,611 | 52,420 | 47,832 |
+| Significant | Appalachia | 3.88% | 47,503 | 45,964 | 33,646 | 30,701 |
+| Significant | Norway | 3.35% | 41,077 | 39,747 | 29,095 | 26,548 |
+| Significant | Hungary | 3.31% | 40,514 | 39,201 | 28,694 | 26,184 |
+| Significant | Finland | 3.29% | 40,277 | 38,973 | 28,528 | 26,032 |
+| Significant | Czechia | 3.24% | 39,669 | 38,383 | 28,096 | 25,638 |
+| Significant | Estonia | 3.23% | 39,526 | 38,247 | 27,998 | 25,547 |
+| Significant | Austro-Bavaria | 3.22% | 39,398 | 38,122 | 27,906 | 25,464 |
+| Significant | New England | 3.17% | 38,851 | 37,594 | 27,518 | 25,111 |
+| Significant | Poland | 3.15% | 38,587 | 37,339 | 27,333 | 24,941 |
+| Significant | Slovenia | 3.01% | 36,822 | 35,628 | 26,081 | 23,800 |
+| Significant | Serbia | 2.96% | 36,235 | 35,061 | 25,665 | 23,417 |
+| Significant | Slovakia | 2.94% | 36,035 | 34,870 | 25,524 | 23,291 |
+| Significant | Cascadia | 2.83% | 34,606 | 33,486 | 24,512 | 22,366 |
+| Significant | Romania | 2.52% | 30,932 | 29,930 | 21,910 | 19,991 |
+| Significant | France | 2.42% | 29,724 | 28,763 | 21,053 | 19,212 |
+| Significant | Russia (core state) | 2.04% | 24,953 | 24,144 | 17,673 | 16,127 |
+| Significant | Belarus | 1.77% | 21,788 | 21,083 | 15,432 | 14,082 |
+| Significant | Lithuania | 1.73% | 21,158 | 20,475 | 14,986 | 13,675 |
+| Significant | South Africa | 1.52% | 18,607 | 18,004 | 13,180 | 12,026 |
+| Significant | Idelsk-Uralia | 1.48% | 18,105 | 17,521 | 12,824 | 11,703 |
+| Significant | Croatia | 1.44% | 17,668 | 17,097 | 12,514 | 11,420 |
+| Significant | Latvia | 1.40% | 17,132 | 16,578 | 12,135 | 11,074 |
+| Significant | Argentina (without Patagonia) | 1.35% | 16,531 | 15,996 | 11,709 | 10,684 |
+| Significant | Bulgaria | 1.31% | 16,119 | 15,597 | 11,417 | 10,418 |
+| Significant | Midwest Republic | 1.21% | 14,772 | 14,293 | 10,464 | 9,547 |
+| Significant | Netherlands | 1.17% | 14,347 | 13,882 | 10,163 | 9,273 |
+| Significant | Ukraine | 1.11% | 13,525 | 13,088 | 9,580 | 8,742 |
+| Notable | Colorado | 0.91% | 11,109 | 10,749 | 7,869 | 7,181 |
+| Notable | Amazonia | 0.88% | 10,800 | 10,452 | 7,651 | 6,981 |
+| Notable | Siberia | 0.59% | 7,198 | 6,964 | 5,096 | 4,652 |
+| Notable | Donska-Kubania | 0.56% | 6,901 | 6,677 | 4,889 | 4,459 |
+| Notable | Sonora | 0.53% | 6,526 | 6,315 | 4,622 | 4,218 |
+| Notable | Künnarantaiga | 0.34% | 4,157 | 4,023 | 2,945 | 2,687 |
+| Notable | Northern Ireland | 0.28% | 3,369 | 3,260 | 2,386 | 2,177 |
+| Notable | Dagestan | 0.10% | 1,279 | 1,238 | 904 | 827 |
+| Notable | Araucanía-Patagonia | 0.081% | 996 | 962 | 705 | 644 |
+| Notable | Hawaii | 0.078% | 958 | 928 | 680 | 620 |
+| Notable | Chechnya | 0.050% | 608 | 588 | 431 | 392 |
+| Notable | Alaska | 0.036% | 447 | 432 | 316 | 288 |
+| Notable | Kabardino-Balkaria | 0.030% | 364 | 351 | 258 | 236 |
+| Notable | North Ossetia-Alania | 0.023% | 277 | 267 | 197 | 179 |
+| Notable | Ingushetia | 0.017% | 205 | 200 | 145 | 133 |
+| Notable | Karachay-Cherkessia | 0.015% | 189 | 183 | 135 | 122 |
+| Notable | Tuva | 0.011% | 135 | 132 | 95 | 87 |
 
 *Tier labels follow the final shares: Primary and Significant end at the largest ratio gaps among the rows at 4.5% or more (Primary never more than six rows), no row at 4.5% or more is Notable, and Notable is the rest (the composition file's own rule, "boundaries fall at the largest ratio gaps"; the 8 / 3 / 1 share weights no longer produce the figures). Percentages are of this city's own human and robot population (identical between censuses), not Tepenia-wide. Robot figures apply the same proportions as the human population. Shares are rounded; they sum to 100% within rounding.*
 
@@ -169,7 +169,7 @@ At ~70°46'S, the city sits at a latitude comparable to Neumayer, with similar p
 #### Gameplay Notes
 - **The oasis environment:** visually and environmentally unlike any other Halley subnet city; exposed rock, meltwater lakes, the contrast between ice-free terrain and the surrounding ice plateau — now layered with real war damage
 - **Twin-settlement urban layout:** unlike any other Tepenian city, Lazar's layout could visibly reflect its two-settlement origin — an older, denser core (former Novolazarevskaya) and a newer, more sprawling secondary district (former Maitri), joined by whatever connective development happened as they coalesced. A strong candidate for environmental storytelling about the city's actual founding history — and for showing uneven war damage between the two former settlements.
-- **A damaged megacity:** Tepenia's single largest city by population (Census I: 2,382,205 combined; Census II: 1,639,426 — see `Official_Population_Census.md`), badly bombed during the Long Night War but not destroyed — its scale gave it a resilience no other Tepenian city has. Should read visually as a city that took a serious beating and kept functioning, distinct from both the fully-ruined cities and the lightly-scarred smaller ones, and should feel genuinely, visibly bigger than every other DLC 5 location.
+- **A damaged megacity:** Tepenia's single largest city by population (Census I: 2,410,409 combined; Census II: 1,659,460 — see `Official_Population_Census.md`), badly bombed during the Long Night War but not destroyed — its scale gave it a resilience no other Tepenian city has. Should read visually as a city that took a serious beating and kept functioning, distinct from both the fully-ruined cities and the lightly-scarred smaller ones, and should feel genuinely, visibly bigger than every other DLC 5 location.
 
 ---
 

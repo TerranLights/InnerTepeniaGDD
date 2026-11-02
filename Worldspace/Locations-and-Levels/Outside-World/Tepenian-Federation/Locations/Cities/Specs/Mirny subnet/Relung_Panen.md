@@ -17,8 +17,8 @@
 
 ## Population & Composition
 
-**Census I (Pre-Orbital Era):** 477,285 humans / 494,585 robots / **971,870** combined *(was 465,147 / 482,807 / 947,954; census updated 2026-10-28, `DR-68`)*
-**Census II (Orbital Era):** 340,951 humans / 353,062 robots / **694,013** combined *(was 332,844 / 345,324 / 678,168)* *(retention 71.4%)*
+**Census I (Pre-Orbital Era):** 492,215 humans / 507,856 robots / **1,000,071** combined *(Esperanza relocation 2026-11-02, `DR-90`: was 477,285 humans / 494,585 robots / 971,870 combined)* *(was 465,147 / 482,807 / 947,954; census updated 2026-10-28, `DR-68`)*
+**Census II (Orbital Era):** 349,521 humans / 364,524 robots / **714,045** combined *(Esperanza relocation 2026-11-02, `DR-90`: was 340,951 humans / 353,062 robots / 694,013 combined)* *(was 332,844 / 345,324 / 678,168)* *(retention 71.4%)*
 
 > ### ⛔⛔ THE FOUNDING RULE — **THIS CITY INHERITS NOTHING FROM ITS SOURCE ROWS.**
 > **Its population is the redistribution pool, discharged in full on 2026-09-05** *(Puerto Abrigo · Dumont
@@ -56,37 +56,37 @@ approach, so distant nations are filtered rather than diluted.* **Full derivatio
 
 | Tier | Nation | Share % | Census I Robots | Census I Humans | Census II Robots | Census II Humans |
 |------|--------|---------|------------------|------------------|-------------------|-------------------|
-| Primary | Japan | 13.04% | 64,521 | 62,264 | 46,059 | 44,480 |
-| Primary | Indonesia *(founding wave)* | 12.78% | 63,214 | 61,004 | 45,128 | 43,578 |
-| Primary | Korea | 12.61% | 62,360 | 60,179 | 44,514 | 42,988 |
-| Primary | Sinian Federation | 12.03% | 59,477 | 57,396 | 42,459 | 41,002 |
-| Primary | Australia | 12.01% | 59,406 | 57,327 | 42,407 | 40,951 |
-| Significant | Thailand | 5.45% | 26,950 | 26,007 | 19,239 | 18,577 |
-| Significant | Vietnam | 5.18% | 25,638 | 24,739 | 18,299 | 17,672 |
-| Significant | Idelsk-Uralia | 3.78% | 18,700 | 18,048 | 13,351 | 12,892 |
-| Significant | Russia (core state) | 3.78% | 18,699 | 18,046 | 13,350 | 12,891 |
-| Significant | Malaysia *(founding wave)* | 3.16% | 15,620 | 15,073 | 11,149 | 10,767 |
-| Significant | Philippines | 3.04% | 15,051 | 14,524 | 10,744 | 10,376 |
-| Significant | Taiwan | 2.90% | 14,367 | 13,866 | 10,256 | 9,905 |
-| Significant | New Zealand *(via the Hobart gateway)* | 2.84% | 14,057 | 13,566 | 10,035 | 9,689 |
-| Notable | Siberia | 1.50% | 7,434 | 7,174 | 5,308 | 5,125 |
-| Notable | Donska-Kubania | 1.44% | 7,127 | 6,877 | 5,088 | 4,914 |
-| Notable | Manchuria | 1.40% | 6,901 | 6,659 | 4,925 | 4,756 |
-| Notable | Künnarantaiga | 0.87% | 4,294 | 4,145 | 3,066 | 2,961 |
-| Notable | Mongolia | 0.44% | 2,194 | 2,117 | 1,568 | 1,513 |
-| Notable | East Turkestan | 0.39% | 1,904 | 1,837 | 1,360 | 1,313 |
-| Notable | Dagestan | 0.27% | 1,321 | 1,275 | 943 | 911 |
-| Notable | West Papua | 0.24% | 1,186 | 1,143 | 845 | 816 |
-| Notable | Aceh | 0.23% | 1,144 | 1,106 | 816 | 789 |
-| Notable | Patani | 0.14% | 692 | 668 | 493 | 479 |
-| Notable | Chechnya | 0.13% | 627 | 604 | 448 | 433 |
-| Notable | Kabardino-Balkaria | 0.076% | 377 | 363 | 269 | 259 |
-| Notable | North Ossetia-Alania | 0.058% | 285 | 276 | 204 | 197 |
-| Notable | Tibet | 0.054% | 270 | 260 | 191 | 185 |
-| Notable | Finland | 0.045% | 221 | 214 | 158 | 152 |
-| Notable | Ingushetia | 0.043% | 212 | 204 | 151 | 147 |
-| Notable | Karachay-Cherkessia | 0.039% | 195 | 188 | 139 | 136 |
-| Notable | Tuva | 0.028% | 141 | 136 | 100 | 97 |
+| Primary | Japan | 13.04% | 66,252 | 64,212 | 47,554 | 45,598 |
+| Primary | Indonesia *(founding wave)* | 12.78% | 64,910 | 62,912 | 46,593 | 44,673 |
+| Primary | Korea | 12.61% | 64,033 | 62,061 | 45,959 | 44,069 |
+| Primary | Sinian Federation | 12.03% | 61,073 | 59,191 | 43,837 | 42,033 |
+| Primary | Australia | 12.01% | 61,000 | 59,120 | 43,784 | 41,980 |
+| Significant | Thailand | 5.45% | 27,673 | 26,821 | 19,864 | 19,044 |
+| Significant | Vietnam | 5.18% | 26,326 | 25,513 | 18,893 | 18,116 |
+| Significant | Idelsk-Uralia | 3.78% | 19,202 | 18,613 | 13,784 | 13,216 |
+| Significant | Russia (core state) | 3.78% | 19,201 | 18,611 | 13,783 | 13,215 |
+| Significant | Malaysia *(founding wave)* | 3.16% | 16,039 | 15,545 | 11,511 | 11,038 |
+| Significant | Philippines | 3.04% | 15,455 | 14,978 | 11,093 | 10,637 |
+| Significant | Taiwan | 2.90% | 14,753 | 14,300 | 10,589 | 10,154 |
+| Significant | New Zealand *(via the Hobart gateway)* | 2.84% | 14,434 | 13,990 | 10,361 | 9,933 |
+| Notable | Siberia | 1.50% | 7,633 | 7,398 | 5,480 | 5,254 |
+| Notable | Donska-Kubania | 1.44% | 7,318 | 7,092 | 5,253 | 5,037 |
+| Notable | Manchuria | 1.40% | 7,086 | 6,867 | 5,085 | 4,876 |
+| Notable | Künnarantaiga | 0.87% | 4,409 | 4,275 | 3,166 | 3,035 |
+| Notable | Mongolia | 0.44% | 2,253 | 2,183 | 1,619 | 1,551 |
+| Notable | East Turkestan | 0.39% | 1,955 | 1,894 | 1,404 | 1,346 |
+| Notable | Dagestan | 0.27% | 1,356 | 1,315 | 974 | 934 |
+| Notable | West Papua | 0.24% | 1,218 | 1,179 | 872 | 836 |
+| Notable | Aceh | 0.23% | 1,175 | 1,141 | 842 | 809 |
+| Notable | Patani | 0.14% | 711 | 689 | 509 | 491 |
+| Notable | Chechnya | 0.13% | 644 | 623 | 463 | 444 |
+| Notable | Kabardino-Balkaria | 0.076% | 387 | 374 | 278 | 265 |
+| Notable | North Ossetia-Alania | 0.058% | 293 | 285 | 211 | 202 |
+| Notable | Tibet | 0.054% | 277 | 268 | 197 | 190 |
+| Notable | Finland | 0.045% | 227 | 221 | 163 | 156 |
+| Notable | Ingushetia | 0.043% | 218 | 210 | 156 | 151 |
+| Notable | Karachay-Cherkessia | 0.039% | 200 | 194 | 144 | 139 |
+| Notable | Tuva | 0.028% | 145 | 140 | 103 | 99 |
 
 *Tier labels follow the final shares: Primary and Significant end at the largest ratio gaps among the rows at 4.5% or more (Primary never more than six rows), no row at 4.5% or more is Notable, and Notable is the rest (the composition file's own rule, "boundaries fall at the largest ratio gaps"; the 8 / 3 / 1 share weights no longer produce the figures). Percentages are of this city's own human and robot population (identical between censuses), not Tepenia-wide. Robot figures apply the same proportions as the human population. Shares are rounded; they sum to 100% within rounding.*
 
@@ -117,7 +117,7 @@ level***; and the **Shackleton Ice Shelf** seals the whole northern approach fro
 > ### ⭐⭐⭐ THE TWO FACTS THAT DEFINE THE SITE, AND THEY PULL AGAINST EACH OTHER
 > **1 · It has more usable ground than anywhere else in the Federation.** *At the comfortable band it could
 > hold 3,375,000 people; at Manila's density, 20,780,100 — **two-thirds of the entire country, on bare
-> rock**.* **It carries 971,870 *(947,954 before 2026-10-28)*, which is about 29% of what it could take comfortably.**
+> rock**.* **It carries 1,000,071 *(947,954 before 2026-10-28)*, which is about 29% of what it could take comfortably.**
 >
 > **2 · It is the hardest place in the Federation to reach.** *No sea access, one road, and the road runs
 > 300+ km east to Casey before it meets anything.* ***Land to spare and no way to ship — the exact inverse of
@@ -252,7 +252,7 @@ is an equally good reason to build it and to have argued against building it.**
 
 ⭐⭐⭐ **The Federation's second agricultural region, ruled a Strong (25%) food role (`DR-71`, 2026-10-28).** *`Division_of_Industry/13` §7 (2026-09-01), working from human caloric need and knowing nothing of this
 city's population, found a **26.0% national food deficit** (import need 545,902 against supply 404,191) and sized a second region at **~765,007 residents
-with a Davis-like 35% agricultural sector**. **§15 (2026-09-02) superseded that:** with every city classified geologically the nation has a **surplus**, so the city is **optional**, desirable for an uncorrelated second supply. At the current population (971,870 in Census I), with difficulty **D = 1.43** (`DR-72`) and the shares of the distinctive tier ruled in `DR-71` and `DR-75`, the city's mandated roles are food production 25% (**102,758 workers**), agricultural research 4% (16,441), seed breeding 3% (12,331) and phosphorus and soil recovery 6% (24,662): **156,192 workers in all, 21.3% of a workforce of 733,228**. The baseline load is 43.9% and the free tier 34.8% before cold-chain logistics (`Division_of_Industry/18_Relung_Panen_Determination_2026-10-29.md`; national figures at D = 1.43 in `Division_of_Industry/17_National_Balance_Refresh_2026-10-28.md` section 5). (Updated 2026-10-29: this passage earlier gave a provisional D = 1.25, 108,149 workers and a "feeds N people" figure. All three are superseded, and a "feeds N people" claim is not citable under `Corpus_Reference_Sheets/Division_of_Industry_Reliability_Quick_Reference.md`.)*
+with a Davis-like 35% agricultural sector**. **§15 (2026-09-02) superseded that:** with every city classified geologically the nation has a **surplus**, so the city is **optional**, desirable for an uncorrelated second supply. At the current population (1,000,071 in Census I), with difficulty **D = 1.43** (`DR-72`) and the shares of the distinctive tier ruled in `DR-71` and `DR-75`, the city's mandated roles are food production 25% (**102,758 workers**), agricultural research 4% (16,441), seed breeding 3% (12,331) and phosphorus and soil recovery 6% (24,662): **156,192 workers in all, 21.3% of a workforce of 753,964**. The baseline load is 43.9% and the free tier 34.8% before cold-chain logistics (`Division_of_Industry/18_Relung_Panen_Determination_2026-10-29.md`; national figures at D = 1.43 in `Division_of_Industry/17_National_Balance_Refresh_2026-10-28.md` section 5). (Updated 2026-10-29: this passage earlier gave a provisional D = 1.25, 108,149 workers and a "feeds N people" figure. All three are superseded, and a "feeds N people" claim is not citable under `Corpus_Reference_Sheets/Division_of_Industry_Reliability_Quick_Reference.md`.)*
 
 **Growing here is indoor stacked hydroponics, as everywhere** *(the criterion is power, footprint and
 foundation — **not** soil, sunlight or mild weather)*. ⭐ **This site has the footprint and the foundation in

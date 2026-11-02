@@ -17,7 +17,7 @@
 | Coordinates (as written in the same field) | ~74°37'S, 164°13'E | `Specs/Janbogo.md` L3 |
 | Specs `Status:` field | States a later-era condition; per the standing default-scope rule (`00_RUNBOOK.md`, the Second Interwar default) this is **never an input** to a Second Interwar pass — not copied | `Specs/Janbogo.md` L4 |
 | Later-era sections present in the Specs file (same exclusion as `Status:`) | 3 section(s), by heading position: L182, L195, L203 — not copied, not described | `Specs/Janbogo.md` L201, L214, L222 |
-| Census I (spec's own line) | 658,680 humans / 675,748 robots / **1,334,428** combined | `Specs/Janbogo.md` L15 |
-| Census II (spec's own line) | 498,672 humans / 474,745 robots / **973,417** combined | `Specs/Janbogo.md` L16 |
+| Census I (spec's own line) | 673,610 humans / 689,019 robots / **1,362,629** combined | `Specs/Janbogo.md` L15 |
+| Census II (spec's own line) | 507,242 humans / 486,208 robots / **993,450** combined | `Specs/Janbogo.md` L16 |
 
 **Not mechanical / not included here:** the admitted read-range, the four-category classification (PROVIDED/RESERVED/PRODUCED/REQUESTED), any generator presence/absence call, the type-modifier declaration — none of this exists until Janbogo's own pass runs.

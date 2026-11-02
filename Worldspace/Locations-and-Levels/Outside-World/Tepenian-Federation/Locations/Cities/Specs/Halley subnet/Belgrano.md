@@ -12,8 +12,8 @@
 
 ## Population & Composition
 
-**Census I (Pre-Orbital Era):** 544,064 humans / 551,743 robots / **1,095,807** combined *(was 531,925 / 539,965 / 1,071,890; census updated 2026-10-28, `DR-68`)* *(ruins, DLC 5)*
-**Census II (Orbital Era):** 437,927 humans / 415,687 robots / **853,614** combined *(was 429,820 / 407,948 / 837,768)* *(ruins, DLC 5)*
+**Census I (Pre-Orbital Era):** 558,996 humans / 565,015 robots / **1,124,011** combined *(Esperanza relocation 2026-11-02, `DR-90`: was 544,064 humans / 551,743 robots / 1,095,807 combined)* *(was 531,925 / 539,965 / 1,071,890; census updated 2026-10-28, `DR-68`)* *(ruins, DLC 5)*
+**Census II (Orbital Era):** 446,498 humans / 427,150 robots / **873,648** combined *(Esperanza relocation 2026-11-02, `DR-90`: was 437,927 humans / 415,687 robots / 853,614 combined)* *(was 429,820 / 407,948 / 837,768)* *(ruins, DLC 5)*
 
 | Tier | Nations |
 |------|---------|
@@ -29,33 +29,33 @@
 
 | Tier | Nation | Share % | Census I Robots | Census I Humans | Census II Robots | Census II Humans |
 |------|--------|---------|------------------|------------------|-------------------|-------------------|
-| Primary | Brazil | 12.14% | 66,994 | 66,062 | 50,474 | 53,175 |
-| Primary | Germany | 11.07% | 61,094 | 60,243 | 46,029 | 48,491 |
-| Primary | CSA | 9.08% | 50,084 | 49,387 | 37,735 | 39,752 |
-| Significant | Appalachia | 5.83% | 32,146 | 31,700 | 24,220 | 25,515 |
-| Significant | Hungary | 5.22% | 28,837 | 28,435 | 21,726 | 22,887 |
-| Significant | Poland | 5.09% | 28,088 | 27,698 | 21,162 | 22,293 |
-| Significant | Uruguay | 4.82% | 26,633 | 26,264 | 20,066 | 21,141 |
-| Significant | New England | 4.76% | 26,293 | 25,927 | 19,809 | 20,868 |
-| Significant | United Kingdom | 4.75% | 26,208 | 25,843 | 19,744 | 20,800 |
-| Significant | Slovakia | 4.58% | 25,276 | 24,925 | 19,044 | 20,062 |
-| Significant | Cascadia | 4.24% | 23,420 | 23,094 | 17,645 | 18,589 |
-| Significant | Argentina (without Patagonia) *(founding wave)* | 4.08% | 22,486 | 22,172 | 16,941 | 17,847 |
-| Significant | Austro-Bavaria | 3.85% | 21,220 | 20,926 | 15,987 | 16,842 |
-| Significant | Chile | 3.67% | 20,273 | 19,990 | 15,272 | 16,091 |
-| Significant | Czechia | 2.75% | 15,165 | 14,954 | 11,426 | 12,038 |
-| Significant | Slovenia | 2.69% | 14,866 | 14,660 | 11,200 | 11,800 |
-| Significant | South Africa | 2.44% | 13,430 | 13,244 | 10,118 | 10,660 |
-| Significant | Serbia | 1.85% | 10,242 | 10,099 | 7,717 | 8,131 |
-| Significant | Midwest Republic | 1.81% | 9,997 | 9,858 | 7,532 | 7,934 |
-| Significant | Colorado | 1.36% | 7,519 | 7,413 | 5,664 | 5,968 |
-| Significant | Amazonia | 1.34% | 7,391 | 7,288 | 5,568 | 5,866 |
-| Notable | Araucanía-Patagonia | 0.84% | 4,624 | 4,559 | 3,483 | 3,670 |
-| Notable | Sonora | 0.80% | 4,417 | 4,355 | 3,328 | 3,506 |
-| Notable | Croatia | 0.61% | 3,338 | 3,291 | 2,514 | 2,649 |
-| Notable | Northern Ireland | 0.14% | 750 | 739 | 565 | 596 |
-| Notable | Hawaii | 0.12% | 649 | 640 | 490 | 516 |
-| Notable | Alaska | 0.055% | 303 | 298 | 228 | 240 |
+| Primary | Brazil | 12.14% | 68,606 | 67,875 | 51,866 | 54,216 |
+| Primary | Germany | 11.07% | 62,564 | 61,896 | 47,298 | 49,440 |
+| Primary | CSA | 9.08% | 51,289 | 50,742 | 38,776 | 40,530 |
+| Significant | Appalachia | 5.83% | 32,919 | 32,570 | 24,888 | 26,014 |
+| Significant | Hungary | 5.22% | 29,531 | 29,215 | 22,325 | 23,335 |
+| Significant | Poland | 5.09% | 28,764 | 28,458 | 21,746 | 22,729 |
+| Significant | Uruguay | 4.82% | 27,274 | 26,985 | 20,619 | 21,555 |
+| Significant | New England | 4.76% | 26,925 | 26,639 | 20,355 | 21,276 |
+| Significant | United Kingdom | 4.75% | 26,838 | 26,552 | 20,288 | 21,207 |
+| Significant | Slovakia | 4.58% | 25,884 | 25,609 | 19,569 | 20,455 |
+| Significant | Cascadia | 4.24% | 23,983 | 23,728 | 18,132 | 18,953 |
+| Significant | Argentina (without Patagonia) *(founding wave)* | 4.08% | 23,027 | 22,781 | 17,408 | 18,196 |
+| Significant | Austro-Bavaria | 3.85% | 21,730 | 21,500 | 16,428 | 17,172 |
+| Significant | Chile | 3.67% | 20,761 | 20,539 | 15,693 | 16,406 |
+| Significant | Czechia | 2.75% | 15,530 | 15,364 | 11,741 | 12,273 |
+| Significant | Slovenia | 2.69% | 15,224 | 15,062 | 11,509 | 12,031 |
+| Significant | South Africa | 2.44% | 13,753 | 13,608 | 10,397 | 10,869 |
+| Significant | Serbia | 1.85% | 10,488 | 10,376 | 7,930 | 8,290 |
+| Significant | Midwest Republic | 1.81% | 10,237 | 10,129 | 7,740 | 8,089 |
+| Significant | Colorado | 1.36% | 7,700 | 7,617 | 5,820 | 6,085 |
+| Significant | Amazonia | 1.34% | 7,569 | 7,488 | 5,722 | 5,981 |
+| Notable | Araucanía-Patagonia | 0.84% | 4,735 | 4,684 | 3,579 | 3,742 |
+| Notable | Sonora | 0.80% | 4,523 | 4,475 | 3,420 | 3,574 |
+| Notable | Croatia | 0.61% | 3,418 | 3,381 | 2,583 | 2,701 |
+| Notable | Northern Ireland | 0.14% | 768 | 759 | 581 | 608 |
+| Notable | Hawaii | 0.12% | 665 | 658 | 503 | 526 |
+| Notable | Alaska | 0.055% | 310 | 306 | 234 | 245 |
 
 *Tier labels follow the final shares: Primary and Significant end at the largest ratio gaps among the rows at 4.5% or more (Primary never more than six rows), no row at 4.5% or more is Notable, and Notable is the rest (the composition file's own rule, "boundaries fall at the largest ratio gaps"; the 8 / 3 / 1 share weights no longer produce the figures). Percentages are of this city's own human and robot population (identical between censuses), not Tepenia-wide. Robot figures apply the same proportions as the human population. Shares are rounded; they sum to 100% within rounding.*
 
