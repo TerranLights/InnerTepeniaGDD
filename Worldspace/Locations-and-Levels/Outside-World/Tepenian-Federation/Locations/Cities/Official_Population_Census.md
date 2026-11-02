@@ -48,8 +48,8 @@ National communities are classified by tier based on long-run population share. 
 | Tier | Nations |
 |------|---------|
 | Primary | France, Brazil, Germany, CSA |
-| Significant | United Kingdom, México, Appalachia, Cascadia, Uruguay *(founding wave)*, New England, Argentina (without Patagonia) *(founding wave)* |
-| Notable | Demilitarized Zone (s. Ontario; not a nation), Quebec, Austro-Bavaria, Netherlands, Estonia, Czechia, Australia, Midwest Republic, Slovakia, Thailand, Prairie Federation, Serbia, Korea, Norway, Colorado, Croatia, Amazonia, South Africa, Sonora, Slovenia, Philippines, Romania, Chile *(founding wave)*, Japan, Poland, New Zealand, Yucatán, Bulgaria, Magna Lombardia, Sinian Federation, Vietnam, Russia (core state), Latvia, Sweden, Belarus, Spain, Idelsk-Uralia, Meridia, Indonesia, Finland, Hungary, Araucanía-Patagonia, Lithuania, Malaysia, Ukraine, Northern Ireland, Siberia, Donska-Kubania, Catalonia, Künnarantaiga, Sicilia (autonomous zone within Meridia), Hawaii, Alaska, Patani, Basque Country, Dagestan, Chechnya, West Papua, Kabardino-Balkaria, Aceh, North Ossetia-Alania, Ingushetia, Karachay-Cherkessia, Tuva |
+| Significant | United Kingdom, México, Appalachia, Cascadia, Uruguay, New England, Argentina (without Patagonia) |
+| Notable | Demilitarized Zone (s. Ontario; not a nation), Quebec, Austro-Bavaria, Netherlands, Estonia, Czechia, Australia, Midwest Republic, Slovakia, Thailand, Prairie Federation, Serbia, Korea, Norway, Colorado, Croatia, Amazonia, South Africa, Sonora, Slovenia, Philippines, Romania, Chile, Japan, Poland, New Zealand, Yucatán, Bulgaria, Magna Lombardia, Sinian Federation, Vietnam, Russia (core state), Latvia, Sweden, Belarus, Spain, Idelsk-Uralia, Meridia, Indonesia, Finland, Hungary, Araucanía-Patagonia, Lithuania, Malaysia, Ukraine, Northern Ireland, Siberia, Donska-Kubania, Catalonia, Künnarantaiga, Sicilia (autonomous zone within Meridia), Hawaii, Alaska, Patani, Basque Country, Dagestan, Chechnya, West Papua, Kabardino-Balkaria, Aceh, North Ossetia-Alania, Ingushetia, Karachay-Cherkessia, Tuva |
 
 ---
 
@@ -58,7 +58,7 @@ National communities are classified by tier based on long-run population share. 
 | Tier | Nations |
 |------|---------|
 | Primary | Brazil, Germany |
-| Significant | CSA, France, United Kingdom, Cascadia, Appalachia, México, Demilitarized Zone (s. Ontario; not a nation), New England, Chile *(founding wave)*, Quebec, Prairie Federation, Austro-Bavaria, Midwest Republic, Argentina (without Patagonia) *(founding wave)*, Amazonia, Colorado, Sonora |
+| Significant | CSA, France, United Kingdom, Cascadia, Appalachia, México, Demilitarized Zone (s. Ontario; not a nation), New England, Chile, Quebec, Prairie Federation, Austro-Bavaria, Midwest Republic, Argentina (without Patagonia) *(founding wave)*, Amazonia, Colorado, Sonora |
 | Notable | Araucanía-Patagonia, Yucatán, Northern Ireland, Hawaii, Alaska |
 
 ---
@@ -69,7 +69,7 @@ National communities are classified by tier based on long-run population share. 
 |------|---------|
 | Primary | Brazil, México, CSA |
 | Significant | United Kingdom, Argentina (without Patagonia) *(founding wave)*, Appalachia, Uruguay, New England, Cascadia |
-| Notable | Midwest Republic, Chile *(founding wave)*, Sonora, Amazonia, Yucatán, Colorado, Araucanía-Patagonia, Northern Ireland, Hawaii, Alaska |
+| Notable | Midwest Republic, Chile, Sonora, Amazonia, Yucatán, Colorado, Araucanía-Patagonia, Northern Ireland, Hawaii, Alaska |
 
 *Note: Argentina set the founding wave character of Esperanza — the city closest to Buenos Aires embarkation ports. Argentine cultural identity is strongest here of any Peninsula city.*
 
@@ -80,7 +80,7 @@ National communities are classified by tier based on long-run population share. 
 | Tier | Nations |
 |------|---------|
 | Primary | United Kingdom, México, Spain, CSA |
-| Significant | Brazil, Appalachia, Cascadia, Germany, Uruguay, New England, Chile *(founding wave)* |
+| Significant | Brazil, Appalachia, Cascadia, Germany, Uruguay, New England, Chile |
 | Notable | Demilitarized Zone (s. Ontario; not a nation), Catalonia, Quebec, Midwest Republic, Sonora, Yucatán, Prairie Federation, Colorado, Austro-Bavaria, Basque Country, Araucanía-Patagonia, Argentina (without Patagonia) *(founding wave)*, Amazonia, Northern Ireland, Hawaii, Alaska |
 
 ---
@@ -90,7 +90,7 @@ National communities are classified by tier based on long-run population share. 
 | Tier | Nations |
 |------|---------|
 | Primary | United Kingdom, Spain, CSA, France, Magna Lombardia |
-| Significant | Appalachia, New England, Meridia, Argentina (without Patagonia) *(founding wave)*, Cascadia, Germany, Chile *(founding wave)* |
+| Significant | Appalachia, New England, Meridia, Argentina (without Patagonia), Cascadia, Germany, Chile |
 | Notable | Catalonia, México, Brazil, Midwest Republic, Colorado, Sicilia (autonomous zone within Meridia), Sonora, Araucanía-Patagonia, Basque Country, Austro-Bavaria, Northern Ireland, Yucatán, Amazonia, Hawaii, Alaska |
 
 ---
@@ -101,7 +101,7 @@ National communities are classified by tier based on long-run population share. 
 |------|---------|
 | Primary | France, United Kingdom, Germany, CSA, Brazil |
 | Significant | Appalachia, New England, Cascadia, Chile *(founding wave)*, México |
-| Notable | Austro-Bavaria, Argentina (without Patagonia) *(founding wave)*, Midwest Republic, Colorado, Sonora, Amazonia, Araucanía-Patagonia, Yucatán, Northern Ireland, Hawaii, Alaska |
+| Notable | Austro-Bavaria, Argentina (without Patagonia), Midwest Republic, Colorado, Sonora, Amazonia, Araucanía-Patagonia, Yucatán, Northern Ireland, Hawaii, Alaska |
 
 ---
 
@@ -110,7 +110,7 @@ National communities are classified by tier based on long-run population share. 
 | Tier | Nations |
 |------|---------|
 | Primary | France, United Kingdom, México, Germany |
-| Significant | CSA, Brazil, Korea, Appalachia, Argentina (without Patagonia) *(founding wave)*, Cascadia, New England, Magna Lombardia, Chile *(founding wave)* |
+| Significant | CSA, Brazil, Korea, Appalachia, Argentina (without Patagonia), Cascadia, New England, Magna Lombardia, Chile *(founding wave)* |
 | Notable | Meridia, Idelsk-Uralia, Russia (core state), Austro-Bavaria, Midwest Republic, Yucatán, Sonora, Colorado, Uruguay, Siberia, Araucanía-Patagonia, Donska-Kubania, Amazonia, Sicilia (autonomous zone within Meridia), Künnarantaiga, Northern Ireland, Dagestan, Hawaii, Chechnya, Alaska, Kabardino-Balkaria, North Ossetia-Alania, Finland, Ingushetia, Karachay-Cherkessia, Tuva |
 
 ---
@@ -135,8 +135,8 @@ National communities are classified by tier based on long-run population share. 
 
 | Tier | Nations |
 |------|---------|
-| Primary | Brazil, United Kingdom, CSA, France |
-| Significant | Cascadia, Appalachia, Netherlands, Serbia, Croatia, Slovenia, New England, Demilitarized Zone (s. Ontario; not a nation), Poland, Germany, Chile, Quebec, Austro-Bavaria, Argentina (without Patagonia), Prairie Federation, South Africa *(founding wave)*, Czechia, Hungary, Midwest Republic, Amazonia, Colorado |
+| Primary | Brazil, United Kingdom *(founding wave)*, CSA, France |
+| Significant | Cascadia, Appalachia, Netherlands, Serbia, Croatia, Slovenia, New England, Demilitarized Zone (s. Ontario; not a nation), Poland, Germany, Chile, Quebec, Austro-Bavaria, Argentina (without Patagonia), Prairie Federation, South Africa, Czechia, Hungary, Midwest Republic, Amazonia, Colorado |
 | Notable | Slovakia, Sonora, Araucanía-Patagonia, Northern Ireland, Hawaii, Alaska |
 
 *Note: South Africa set Halley's founding wave character via the Cape Town gateway.*
@@ -241,9 +241,9 @@ National communities are classified by tier based on long-run population share. 
 
 | Tier | Nations |
 |------|---------|
-| Primary | Korea, Australia *(founding wave)*, Sinian Federation, Indonesia, CSA, Magna Lombardia |
+| Primary | Korea *(founding wave)*, Australia, Sinian Federation, Indonesia, CSA, Magna Lombardia |
 | Significant | Japan, Germany, Appalachia, Cascadia, Meridia, Malaysia, New England, Taiwan, Chile |
-| Notable | Philippines, New Zealand *(earliest founding wave)*, Demilitarized Zone (s. Ontario; not a nation), Manchuria, Midwest Republic, Quebec, Colorado, Prairie Federation, Austro-Bavaria, Sicilia (autonomous zone within Meridia), Sonora, Araucanía-Patagonia, Mongolia, West Papua, Aceh, Hawaii, Alaska |
+| Notable | Philippines, New Zealand, Demilitarized Zone (s. Ontario; not a nation), Manchuria, Midwest Republic, Quebec, Colorado, Prairie Federation, Austro-Bavaria, Sicilia (autonomous zone within Meridia), Sonora, Araucanía-Patagonia, Mongolia, West Papua, Aceh, Hawaii, Alaska |
 
 ---
 
@@ -252,7 +252,7 @@ National communities are classified by tier based on long-run population share. 
 | Tier | Nations |
 |------|---------|
 | Primary | Korea, Sinian Federation, Australia *(founding wave)*, CSA, Indonesia |
-| Significant | Japan, Cascadia, Appalachia, Demilitarized Zone (s. Ontario; not a nation), Magna Lombardia, Malaysia, New Zealand *(earliest founding wave)*, New England, Taiwan, Quebec, Meridia, Prairie Federation, Philippines, Chile, Manchuria, Midwest Republic |
+| Significant | Japan, Cascadia, Appalachia, Demilitarized Zone (s. Ontario; not a nation), Magna Lombardia, Malaysia, New Zealand, New England, Taiwan, Quebec, Meridia, Prairie Federation, Philippines, Chile, Manchuria, Midwest Republic |
 | Notable | Colorado, Sonora, Sicilia (autonomous zone within Meridia), Mongolia, Araucanía-Patagonia, West Papua, Aceh, Hawaii, Alaska |
 
 ---
@@ -261,8 +261,8 @@ National communities are classified by tier based on long-run population share. 
 
 | Tier | Nations |
 |------|---------|
-| Primary | Australia *(founding wave)*, Sinian Federation, Japan, Indonesia, CSA |
-| Significant | Korea, United Kingdom, Appalachia, Cascadia, New England, Chile, New Zealand *(earliest founding wave — geographically closest nation to Cape Adare)*, Taiwan, Demilitarized Zone (s. Ontario; not a nation), Philippines, Quebec, Malaysia, Midwest Republic, Prairie Federation, Manchuria, Colorado |
+| Primary | Australia, Sinian Federation, Japan, Indonesia, CSA |
+| Significant | Korea, United Kingdom, Appalachia, Cascadia, New England, Chile, New Zealand, Taiwan, Demilitarized Zone (s. Ontario; not a nation), Philippines, Quebec, Malaysia, Midwest Republic, Prairie Federation, Manchuria, Colorado |
 | Notable | Sonora, Araucanía-Patagonia, Mongolia, West Papua, Aceh, Northern Ireland, Hawaii, Alaska |
 
 ---
@@ -272,8 +272,8 @@ National communities are classified by tier based on long-run population share. 
 | Tier | Nations |
 |------|---------|
 | Primary | France, Japan, Germany, Sinian Federation, CSA |
-| Significant | Appalachia, United Kingdom, Cascadia, New England, Malaysia, New Zealand *(founding wave)*, Chile, Taiwan, Magna Lombardia |
-| Notable | Korea, Australia *(founding wave)*, Indonesia, Meridia, Austro-Bavaria, Philippines, Midwest Republic, Manchuria, Demilitarized Zone (s. Ontario; not a nation), Colorado, Quebec, Prairie Federation, Sonora, Araucanía-Patagonia, Sicilia (autonomous zone within Meridia), Mongolia, Northern Ireland, Hawaii, Alaska, West Papua, Aceh |
+| Significant | Appalachia, United Kingdom, Cascadia, New England, Malaysia, New Zealand, Chile, Taiwan, Magna Lombardia |
+| Notable | Korea, Australia, Indonesia, Meridia, Austro-Bavaria, Philippines, Midwest Republic, Manchuria, Demilitarized Zone (s. Ontario; not a nation), Colorado, Quebec, Prairie Federation, Sonora, Araucanía-Patagonia, Sicilia (autonomous zone within Meridia), Mongolia, Northern Ireland, Hawaii, Alaska, West Papua, Aceh |
 
 ---
 
@@ -281,7 +281,7 @@ National communities are classified by tier based on long-run population share. 
 
 | Tier | Nations |
 |------|---------|
-| Primary | Sinian Federation, France, Japan, Australia *(founding wave)* |
+| Primary | Sinian Federation, France, Japan *(founding wave)*, Australia |
 | Significant | CSA, Indonesia |
 | Notable | Appalachia, New Zealand, Vietnam, New England, Philippines, Cascadia, Taiwan, Malaysia, Korea, Manchuria, Midwest Republic, Colorado, Sonora, Mongolia, East Turkestan, Thailand, West Papua, Aceh, Hawaii, Tibet, Alaska, Patani |
 
@@ -372,7 +372,7 @@ National communities are classified by tier based on long-run population share. 
 | Tier | Nations |
 |------|---------|
 | Primary | United Kingdom, Korea, Indonesia, Sinian Federation |
-| Significant | Japan, Australia *(founding wave)*, Philippines, New Zealand, Malaysia, Thailand, Taiwan, Idelsk-Uralia, Russia (core state), Vietnam, Manchuria, Belarus, South Africa |
+| Significant | Japan, Australia, Philippines, New Zealand, Malaysia, Thailand, Taiwan, Idelsk-Uralia *(founding wave)*, Russia (core state), Vietnam, Manchuria, Belarus, South Africa |
 | Notable | Siberia, Donska-Kubania, Künnarantaiga, Mongolia, East Turkestan, Northern Ireland, West Papua, Aceh, Dagestan, Patani, Chechnya, Tibet, Kabardino-Balkaria, North Ossetia-Alania, Finland, Ingushetia, Karachay-Cherkessia, Tuva |
 
 ---
@@ -401,9 +401,9 @@ National communities are classified by tier based on long-run population share. 
 
 | Tier | Nations |
 |------|---------|
-| Primary | Sinian Federation |
+| Primary | Sinian Federation *(founding wave)* |
 | Significant | Korea, Japan, Germany |
-| Notable | Australia *(founding wave)*, Vietnam, Estonia, Lithuania, Thailand, Malaysia, Indonesia, Romania, Idelsk-Uralia, Russia (core state), Philippines, Latvia, Austro-Bavaria, New Zealand, Bulgaria, South Africa, Siberia, Donska-Kubania, Künnarantaiga, Hungary, Dagestan, Patani, West Papua, Chechnya, Aceh, Kabardino-Balkaria, North Ossetia-Alania, Finland, Ingushetia, Karachay-Cherkessia, Tuva |
+| Notable | Australia, Vietnam, Estonia, Lithuania, Thailand, Malaysia, Indonesia, Romania, Idelsk-Uralia, Russia (core state), Philippines, Latvia, Austro-Bavaria, New Zealand, Bulgaria, South Africa, Siberia, Donska-Kubania, Künnarantaiga, Hungary, Dagestan, Patani, West Papua, Chechnya, Aceh, Kabardino-Balkaria, North Ossetia-Alania, Finland, Ingushetia, Karachay-Cherkessia, Tuva |
 
 *Note: Chinese cultural identity at Zhongshan is continuous from founding through present. **Strengthened further 2026-07-06** — see `Specs/Zhongshan.md`'s Founding Population Adjustment; China's share moved from 19.05% to 35.83% across three rounds of hand-specified adjustments.*
 
@@ -413,9 +413,9 @@ National communities are classified by tier based on long-run population share. 
 
 | Tier | Nations |
 |------|---------|
-| Primary | Korea |
+| Primary | Korea *(founding wave)* |
 | Significant | Japan, Germany, Sinian Federation |
-| Notable | Indonesia, Australia *(founding wave)*, Thailand, Estonia, Hungary, Lithuania, Taiwan, Malaysia, Idelsk-Uralia, Russia (core state), Vietnam, Philippines, Bulgaria, Austro-Bavaria, Latvia, South Africa, Siberia, Donska-Kubania, Manchuria, Künnarantaiga, Mongolia, East Turkestan, Dagestan, Patani, West Papua, Aceh, Chechnya, Kabardino-Balkaria, North Ossetia-Alania, Tibet, Finland, Ingushetia, Karachay-Cherkessia, Tuva |
+| Notable | Indonesia, Australia, Thailand, Estonia, Hungary, Lithuania, Taiwan, Malaysia, Idelsk-Uralia, Russia (core state), Vietnam, Philippines, Bulgaria, Austro-Bavaria, Latvia, South Africa, Siberia, Donska-Kubania, Manchuria, Künnarantaiga, Mongolia, East Turkestan, Dagestan, Patani, West Papua, Aceh, Chechnya, Kabardino-Balkaria, North Ossetia-Alania, Tibet, Finland, Ingushetia, Karachay-Cherkessia, Tuva |
 
 ---
 
@@ -457,8 +457,8 @@ National communities are classified by tier based on long-run population share. 
 
 | Tier | Nations |
 |------|---------|
-| Primary | Japan, Indonesia, Korea, Sinian Federation, Australia *(founding wave — the gateway and the road)* |
-| Significant | Thailand, Vietnam, Idelsk-Uralia, Russia (core state), Malaysia, Philippines, Taiwan, New Zealand *(via the Hobart gateway)* |
+| Primary | Japan, Indonesia *(founding wave)*, Korea, Sinian Federation, Australia |
+| Significant | Thailand, Vietnam, Idelsk-Uralia, Russia (core state), Malaysia *(founding wave)*, Philippines, Taiwan, New Zealand *(via the Hobart gateway)* |
 | Notable | Siberia, Donska-Kubania, Manchuria, Künnarantaiga, Mongolia, East Turkestan, Dagestan, West Papua, Aceh, Patani, Chechnya, Kabardino-Balkaria, North Ossetia-Alania, Tibet, Finland, Ingushetia, Karachay-Cherkessia, Tuva |
 
 *Note: Relung Panen's population and its Census I and II figures are in Sections B and C; its full per-nation table is in `Specs/Mirny subnet/Relung_Panen.md`.*

@@ -36,7 +36,7 @@
 | Tier | Nations |
 |------|---------|
 | Primary | France, United Kingdom, México, Germany |
-| Significant | CSA, Brazil, Korea, Appalachia, Argentina (without Patagonia) *(founding wave)*, Cascadia, New England, Magna Lombardia, Chile *(founding wave)* |
+| Significant | CSA, Brazil, Korea, Appalachia, Argentina (without Patagonia), Cascadia, New England, Magna Lombardia, Chile *(founding wave)* |
 | Notable | Meridia, Idelsk-Uralia, Russia (core state), Austro-Bavaria, Midwest Republic, Yucatán, Sonora, Colorado, Uruguay, Siberia, Araucanía-Patagonia, Donska-Kubania, Amazonia, Sicilia (autonomous zone within Meridia), Künnarantaiga, Northern Ireland, Dagestan, Hawaii, Chechnya, Alaska, Kabardino-Balkaria, North Ossetia-Alania, Finland, Ingushetia, Karachay-Cherkessia, Tuva |
 
 *Source: `Official_Population_Census.md` Sections A–C.*
@@ -55,7 +55,7 @@
 | Significant | Brazil | 6.02% | 19,761 | 19,072 | 16,851 | 14,114 |
 | Significant | Korea | 5.79% | 18,991 | 18,326 | 16,190 | 13,560 |
 | Significant | Appalachia | 4.49% | 14,743 | 14,229 | 12,570 | 10,527 |
-| Significant | Argentina (without Patagonia) *(founding wave)* | 4.02% | 13,179 | 12,718 | 11,235 | 9,410 |
+| Significant | Argentina (without Patagonia) | 4.02% | 13,179 | 12,718 | 11,235 | 9,410 |
 | Significant | Cascadia | 3.68% | 12,081 | 11,660 | 10,301 | 8,627 |
 | Significant | New England | 3.67% | 12,058 | 11,637 | 10,281 | 8,610 |
 | Significant | Magna Lombardia | 3.49% | 11,448 | 11,048 | 9,760 | 8,175 |
@@ -128,7 +128,7 @@ The Janbogo connection is withdrawn: Contrapunto was settled first by Chile (`DR
 **Lost to sublimation and wind transport:** ~140 mm/yr
 
 > ##### ⚠ WIND vs COLD — which hazard actually defines this city
-> ⭐ **NEITHER, in the Antarctic sense — the hazard here is WATER.** At **-1.7 °C** this is among the mildest cities in the Federation (**36 of the 37 are colder**), and **retention ~80%** means precipitation behaves as it does in temperate latitudes. **Rain as well as snow; melt, saturation, freeze-thaw and slush** rather than scouring. *The engineering problem is drainage and damp, not drift.*
+> ⭐ **NEITHER, in the Antarctic sense — the hazard here is WATER.** At **-1.7 °C** this is a mild site, and **retention ~80%** means precipitation behaves as it does in temperate latitudes. **Rain as well as snow; melt, saturation, freeze-thaw and slush** rather than scouring. *The engineering problem is drainage and damp, not drift.*
 
 *Mechanism, published coefficients and the full 37-city comparison: `Reference/Real-World/Climate Data/Precipitation_Falls_vs_Lands.md`*
 

@@ -215,7 +215,7 @@ section used to carry is now discharged.)*
 **Lost to sublimation and wind transport:** ~403 mm/yr
 
 > ##### ⚠ WIND vs COLD — which hazard actually defines this city
-> ⭐⭐ **WIND, decisively — the cold is NOT what defines this city.** At **-11.0 °C** **21 of the 37 Tepenian cities are colder than this one.** What sets it apart is **mean wind 19.3 m/s**: **up to a third of snowfall evaporates before it lands, and most of the remainder is entrained and carried past.** ⚠ **Whiteout here routinely occurs under a clear sky**, because the snow is *lifted*, not falling. **Retention ~38% — residents dig out from what arrived from upwind, not from what fell on them.**
+> ⭐⭐ **WIND, decisively — the cold is NOT what defines this city.** At **-11.0 °C** the cold is a backdrop. What sets it apart is **mean wind 19.3 m/s**: **up to a third of snowfall evaporates before it lands, and most of the remainder is entrained and carried past.** ⚠ **Whiteout here routinely occurs under a clear sky**, because the snow is *lifted*, not falling. **Retention ~38% — residents dig out from what arrived from upwind, not from what fell on them.**
 
 *Mechanism, published coefficients and the full 37-city comparison: `Reference/Real-World/Climate Data/Precipitation_Falls_vs_Lands.md`*
 **Polar night:** ⛔ **none.** *(Corrected below.)*
@@ -319,7 +319,7 @@ Denison's culture is built around a specific, almost defiant relationship to ext
 
 **Developer vision, established 2026-07-05 — a city as one continuous structure:** Denison takes wind-engineering further than any other Tepenian city by treating its built environment as a single connected system rather than a collection of individual buildings. Structures are physically joined throughout the city — a comprehensive, city-wide interlinking, not just occasional covered connections the way Zukelli or Janbogo use them — so that moving through Denison means moving through one continuous, load-sharing, aerodynamically coherent structure. A handful of landmark structures are distinctive and recognizable even at real distance, visible through blowing snow, giving Denison a skyline that reads as deliberate and unified at a glance in a way no other wind-exposed Tepenian city achieves. Full detail in `Local_Cultures/Janbogo_Subnet/Denison.md`.
 
-**Nationally known for:** Being the windiest city in Tepenia and being proud of it. The Mawson expedition legacy. Wind-engineering expertise. The one Tepenian city that dissents from the rest of the Federation's shared "don't talk about your own toughness" instinct.
+**Nationally known for:** Being a city defined by wind (mean 19.3 m/s) and being proud of it. The Mawson expedition legacy. Wind-engineering expertise. The one Tepenian city that dissents from the rest of the Federation's shared "don't talk about your own toughness" instinct.
 
 ---
 

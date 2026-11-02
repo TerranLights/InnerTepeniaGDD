@@ -184,6 +184,11 @@
 - **Also found and fixed on the way:** 147 datasheet "Present at L…" ranges and three hand-added Pre-Trip composition rows that the earlier remap had missed.
 - **Next in the developer's order:** Santa Luce's robot-culture sheet, then Puerto Abrigo's post office, then the Zukelli and Scott gateway labels.
 
+### S.0j The three proposals applied (2026-11-02, midday; `DR-88`; also `DR-87`, Puerto Abrigo's post office)
+- **Applied:** comparison sentences (specs), the "(founding wave)" tag narrowed to Register founders (17 cities), Zukelli's and Scott's gateway wording in the Register.
+- **Open:** Rothera's "North America"; seven Register rows still carry the stale "(Gateway claim not yet researched.)" label (research exists); Fort McMurdo's "largest city" claims; every item in S.0h's open list.
+- **In progress:** Santa Luce's robot-culture sheet (`Local_Robot_Culture/Halley_Subnet/Santa_Luce.md`), being drafted by a background agent under the contamination rule (nothing resting on the superseded Finnish–Swedish founding may be used).
+
 ### S.1 What was done on the evening of 2026-11-01 (after the Byrd plan below)
 - **Byrd research finished:** T3, T7, T8, T9 ran together (215 of 250 budgeted searches, none refused); all 13 units written. Results in the 0.8 second-session table; status and flags in 0.9. Commit `e368cc3b`.
 - **Ruling `DR-84`** (in `Universal_Location_Methodology/DEVELOPER_RULINGS_LOG.md`): a pending new name does **not** hold up a city's ULM, CST or RWBEM run or its data synthesis. Developer: *"The cities that need to be renamed, we can still do the ULM/CST/RWBEM runs and all of the data synthesis for those cities. The naming can come later. i.e, Dumont d'Urville, Zukelli, Dome Fuji, etc, all those cities can be done during the ULM runs."*

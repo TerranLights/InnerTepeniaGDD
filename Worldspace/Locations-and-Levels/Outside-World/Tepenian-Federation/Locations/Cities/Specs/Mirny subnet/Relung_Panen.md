@@ -32,8 +32,8 @@
 
 | Tier | Nations |
 |------|---------|
-| Primary | Japan, Indonesia, Korea, Sinian Federation, Australia *(founding wave — the gateway and the road)* |
-| Significant | Thailand, Vietnam, Idelsk-Uralia, Russia (core state), Malaysia, Philippines, Taiwan, New Zealand *(via the Hobart gateway)* |
+| Primary | Japan, Indonesia *(founding wave)*, Korea, Sinian Federation, Australia |
+| Significant | Thailand, Vietnam, Idelsk-Uralia, Russia (core state), Malaysia *(founding wave)*, Philippines, Taiwan, New Zealand *(via the Hobart gateway)* |
 | Notable | Siberia, Donska-Kubania, Manchuria, Künnarantaiga, Mongolia, East Turkestan, Dagestan, West Papua, Aceh, Patani, Chechnya, Kabardino-Balkaria, North Ossetia-Alania, Tibet, Finland, Ingushetia, Karachay-Cherkessia, Tuva |
 
 ⭐⭐ **Computed PROXIMITY-FIRST at the developer's direction**, applying the method's ±3 solar-UTC window to
@@ -57,15 +57,15 @@ approach, so distant nations are filtered rather than diluted.* **Full derivatio
 | Tier | Nation | Share % | Census I Robots | Census I Humans | Census II Robots | Census II Humans |
 |------|--------|---------|------------------|------------------|-------------------|-------------------|
 | Primary | Japan | 13.04% | 64,521 | 62,264 | 46,059 | 44,480 |
-| Primary | Indonesia | 12.78% | 63,214 | 61,004 | 45,128 | 43,578 |
+| Primary | Indonesia *(founding wave)* | 12.78% | 63,214 | 61,004 | 45,128 | 43,578 |
 | Primary | Korea | 12.61% | 62,360 | 60,179 | 44,514 | 42,988 |
 | Primary | Sinian Federation | 12.03% | 59,477 | 57,396 | 42,459 | 41,002 |
-| Primary | Australia *(founding wave — the gateway and the road)* | 12.01% | 59,406 | 57,327 | 42,407 | 40,951 |
+| Primary | Australia | 12.01% | 59,406 | 57,327 | 42,407 | 40,951 |
 | Significant | Thailand | 5.45% | 26,950 | 26,007 | 19,239 | 18,577 |
 | Significant | Vietnam | 5.18% | 25,638 | 24,739 | 18,299 | 17,672 |
 | Significant | Idelsk-Uralia | 3.78% | 18,700 | 18,048 | 13,351 | 12,892 |
 | Significant | Russia (core state) | 3.78% | 18,699 | 18,046 | 13,350 | 12,891 |
-| Significant | Malaysia | 3.16% | 15,620 | 15,073 | 11,149 | 10,767 |
+| Significant | Malaysia *(founding wave)* | 3.16% | 15,620 | 15,073 | 11,149 | 10,767 |
 | Significant | Philippines | 3.04% | 15,051 | 14,524 | 10,744 | 10,376 |
 | Significant | Taiwan | 2.90% | 14,367 | 13,866 | 10,256 | 9,905 |
 | Significant | New Zealand *(via the Hobart gateway)* | 2.84% | 14,057 | 13,566 | 10,035 | 9,689 |

@@ -19,7 +19,7 @@
 |------|---------|
 | Primary | Brazil, México, CSA |
 | Significant | United Kingdom, Argentina (without Patagonia) *(founding wave)*, Appalachia, Uruguay, New England, Cascadia |
-| Notable | Midwest Republic, Chile *(founding wave)*, Sonora, Amazonia, Yucatán, Colorado, Araucanía-Patagonia, Northern Ireland, Hawaii, Alaska |
+| Notable | Midwest Republic, Chile, Sonora, Amazonia, Yucatán, Colorado, Araucanía-Patagonia, Northern Ireland, Hawaii, Alaska |
 
 *(Argentina is the founding nation per the Founding section below, while Chile's presence reflects independent geographic-proximity early arrival, the same distinction already established at Signy for South Africa.)*
 
@@ -41,7 +41,7 @@
 | Significant | New England | 6.17% | 57,694 | 59,716 | 42,165 | 31,526 |
 | Significant | Cascadia | 6.13% | 57,298 | 59,305 | 41,875 | 31,310 |
 | Notable | Midwest Republic | 2.35% | 21,936 | 22,705 | 16,032 | 11,987 |
-| Notable | Chile *(founding wave)* | 2.14% | 20,049 | 20,752 | 14,652 | 10,956 |
+| Notable | Chile | 2.14% | 20,049 | 20,752 | 14,652 | 10,956 |
 | Notable | Sonora | 1.96% | 18,340 | 18,982 | 13,403 | 10,021 |
 | Notable | Amazonia | 1.88% | 17,566 | 18,182 | 12,839 | 9,599 |
 | Notable | Yucatán | 1.85% | 17,339 | 17,946 | 12,671 | 9,474 |
@@ -81,7 +81,7 @@ The name the Argentine military gave this station — Esperanza, Hope — was ch
 **Lost to sublimation and wind transport:** ~145 mm/yr
 
 > ##### ⚠ WIND vs COLD — which hazard actually defines this city
-> ⭐ **NEITHER, in the Antarctic sense — the hazard here is WATER.** At **-4.5 °C** this is among the mildest cities in the Federation (**30 of the 37 are colder**), and **retention ~80%** means precipitation behaves as it does in temperate latitudes. **Rain as well as snow; melt, saturation, freeze-thaw and slush** rather than scouring. *The engineering problem is drainage and damp, not drift.*
+> ⭐ **NEITHER, in the Antarctic sense — the hazard here is WATER.** At **-4.5 °C** this is a mild site, and **retention ~80%** means precipitation behaves as it does in temperate latitudes. **Rain as well as snow; melt, saturation, freeze-thaw and slush** rather than scouring. *The engineering problem is drainage and damp, not drift.*
 
 *Mechanism, published coefficients and the full 37-city comparison: `Reference/Real-World/Climate Data/Precipitation_Falls_vs_Lands.md`*
 **Polar night:** none

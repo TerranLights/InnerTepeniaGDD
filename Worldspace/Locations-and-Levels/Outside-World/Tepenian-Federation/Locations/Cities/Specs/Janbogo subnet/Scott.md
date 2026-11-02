@@ -121,7 +121,7 @@ The proximity to Fort McMurdo was both the defining fact of Scott's existence an
 **Lost to sublimation and wind transport:** ~114 mm/yr
 
 > ##### ⚠ WIND vs COLD — which hazard actually defines this city
-> ⭐⭐ **WIND, decisively — the cold is NOT what defines this city.** At **-19.6 °C** **9 of the 37 Tepenian cities are colder than this one.** What sets it apart is **mean wind 7.5 m/s**: **up to a third of snowfall evaporates before it lands, and most of the remainder is entrained and carried past.** ⚠ **Whiteout here routinely occurs under a clear sky**, because the snow is *lifted*, not falling. **Retention ~38% — residents dig out from what arrived from upwind, not from what fell on them.**
+> ⭐⭐ **WIND, decisively — the cold is NOT what defines this city.** At **-19.6 °C** the cold is a backdrop. What sets it apart is **mean wind 7.5 m/s**: **up to a third of snowfall evaporates before it lands, and most of the remainder is entrained and carried past.** ⚠ **Whiteout here routinely occurs under a clear sky**, because the snow is *lifted*, not falling. **Retention ~38% — residents dig out from what arrived from upwind, not from what fell on them.**
 
 *Mechanism, published coefficients and the full 37-city comparison: `Reference/Real-World/Climate Data/Precipitation_Falls_vs_Lands.md`*
 **Polar night:** approximately April 26 → August 19 (~116 days)

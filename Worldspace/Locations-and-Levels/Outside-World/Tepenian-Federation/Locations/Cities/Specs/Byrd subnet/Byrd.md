@@ -164,7 +164,7 @@ Byrd's original tiering (superseded) had Japan at Primary (13.57%) ahead of the 
 
 ## Geographic Basis
 
-Byrd sits in the deep interior of Marie Byrd Land, West Antarctica — not on a coast, not at a dramatic geographic feature, but in the relatively featureless interior of the West Antarctic Ice Sheet at approximately 1,530 meters above sea level. This altitude is substantially lower than Concordia (3,233m) and makes Byrd far more habitable from a physiological standpoint, but it is still deep inland, still isolated, and still Antarctic.
+Byrd sits in the deep interior of Marie Byrd Land, West Antarctica — not on a coast, not at a dramatic geographic feature, but in the relatively featureless interior of the West Antarctic Ice Sheet at approximately 1,530 meters above sea level. This altitude is low enough to be far more habitable from a physiological standpoint than the plateau, but it is still deep inland, still isolated, and still Antarctic.
 
 West Antarctica is geologically and glaciologically distinct from East Antarctica. The East Antarctic Ice Sheet sits on a continental landmass; the West Antarctic Ice Sheet sits largely on bedrock that lies below sea level, making it a marine ice sheet — inherently less stable, subject to different long-term dynamics, and sitting above geology that in some areas is volcanically active. The ground beneath Byrd is not the ancient, stable bedrock of the East Antarctic plateau. It shifts, slowly, in ways that the city's engineers have had to account for since the founding.
 

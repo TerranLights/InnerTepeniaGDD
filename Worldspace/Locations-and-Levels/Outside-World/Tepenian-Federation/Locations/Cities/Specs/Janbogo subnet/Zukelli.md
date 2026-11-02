@@ -18,7 +18,7 @@
 | Tier | Nations |
 |------|---------|
 | Primary | Korea, Sinian Federation, Australia *(founding wave)*, CSA, Indonesia |
-| Significant | Japan, Cascadia, Appalachia, Demilitarized Zone (s. Ontario; not a nation), Magna Lombardia, Malaysia, New Zealand *(earliest founding wave)*, New England, Taiwan, Quebec, Meridia, Prairie Federation, Philippines, Chile, Manchuria, Midwest Republic |
+| Significant | Japan, Cascadia, Appalachia, Demilitarized Zone (s. Ontario; not a nation), Magna Lombardia, Malaysia, New Zealand, New England, Taiwan, Quebec, Meridia, Prairie Federation, Philippines, Chile, Manchuria, Midwest Republic |
 | Notable | Colorado, Sonora, Sicilia (autonomous zone within Meridia), Mongolia, Araucanía-Patagonia, West Papua, Aceh, Hawaii, Alaska |
 
 *Source: `Official_Population_Census.md` Sections A–C.*
@@ -40,7 +40,7 @@
 | Significant | Demilitarized Zone (s. Ontario; not a nation) | 3.50% | 22,528 | 22,419 | 17,580 | 15,835 |
 | Significant | Magna Lombardia | 3.40% | 21,863 | 21,758 | 17,061 | 15,368 |
 | Significant | Malaysia | 3.29% | 21,189 | 21,086 | 16,534 | 14,894 |
-| Significant | New Zealand *(earliest founding wave)* | 3.23% | 20,765 | 20,665 | 16,204 | 14,596 |
+| Significant | New Zealand | 3.23% | 20,765 | 20,665 | 16,204 | 14,596 |
 | Significant | New England | 3.17% | 20,362 | 20,264 | 15,889 | 14,312 |
 | Significant | Taiwan | 2.91% | 18,692 | 18,602 | 14,586 | 13,140 |
 | Significant | Quebec | 2.68% | 17,225 | 17,142 | 13,442 | 12,108 |
@@ -95,7 +95,7 @@ The city is named for Zucchelli — specifically Mario Zucchelli, the Italian An
 **Lost to sublimation and wind transport:** ~90 mm/yr
 
 > ##### ⚠ WIND vs COLD — which hazard actually defines this city
-> ⭐⭐ **WIND, decisively — the cold is NOT what defines this city.** At **-14.0 °C** **16 of the 37 Tepenian cities are colder than this one.** What sets it apart is **mean wind 10.0 m/s**: **up to a third of snowfall evaporates before it lands, and most of the remainder is entrained and carried past.** ⚠ **Whiteout here routinely occurs under a clear sky**, because the snow is *lifted*, not falling. **Retention ~38% — residents dig out from what arrived from upwind, not from what fell on them.**
+> ⭐⭐ **WIND, decisively — the cold is NOT what defines this city.** At **-14.0 °C** the cold is a backdrop. What sets it apart is **mean wind 10.0 m/s**: **up to a third of snowfall evaporates before it lands, and most of the remainder is entrained and carried past.** ⚠ **Whiteout here routinely occurs under a clear sky**, because the snow is *lifted*, not falling. **Retention ~38% — residents dig out from what arrived from upwind, not from what fell on them.**
 
 *Mechanism, published coefficients and the full 37-city comparison: `Reference/Real-World/Climate Data/Precipitation_Falls_vs_Lands.md`*
 **Polar night:** approximately May 6 → August 8 (~95 days)

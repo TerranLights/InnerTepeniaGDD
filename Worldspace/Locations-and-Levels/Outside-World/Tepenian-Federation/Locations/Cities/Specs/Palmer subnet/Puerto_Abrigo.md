@@ -14,7 +14,7 @@
 
 ## Population / Destructibility Note (2026-07-03)
 
-Puerto Abrigo is Tepenia's smallest settlement by population (929 since the 2026-09-05 reduction, below Amundsen Station's 6,857; it ranked second-smallest, 34th of ~35, at the 2026-07-03 figure) on a genuinely tiny island (Goudier Island, inside a small natural harbor) — smaller than Marambio's Seymour Island, with no mountainous terrain, no room to decentralize, and no realistic underground vault potential. On pure physical-resilience grounds, this argues against survival even more strongly than Marambio's case did.
+Puerto Abrigo is Tepenia's smallest settlement by population (929 since the 2026-09-05 reduction, below Amundsen Station's 6,857; it ranked second-smallest, 34th of ~35, at the 2026-07-03 figure) on a genuinely tiny island (Goudier Island, inside a small natural harbor) — a very small island with no mountainous terrain, no room to decentralize, and no realistic underground vault potential. On pure physical-resilience grounds, this argues against survival even more strongly than Marambio's case did.
 
 What resolves it instead is strategic irrelevance, not physical resilience — the same mechanism that saved Santa Luce earlier this session. Puerto Abrigo's actual character was never military or industrial: a small harbor city with a maritime-trade niche, built around older structures it kept, nothing resembling Marambio's high-value airfield or Rothera's industrial base. There was no strategic reason to target it. Compounding this, Puerto Abrigo sits immediately adjacent to Palmer City on the highway network (its direct northern neighbor) — a real, plausible possibility that Upper Earth's targeting or reconnaissance conflated the two, assuming Puerto Abrigo's tiny footprint was simply part of Palmer City's strike zone rather than a distinct target requiring its own attention. Missed by insignificance and by proximity-driven misidentification, rather than surviving by resilience.
 
@@ -62,7 +62,7 @@ so a mechanical sweep read this city as having no declared extent.*
 |------|---------|
 | Primary | France, United Kingdom, Germany, CSA, Brazil |
 | Significant | Appalachia, New England, Cascadia, Chile *(founding wave)*, México |
-| Notable | Austro-Bavaria, Argentina (without Patagonia) *(founding wave)*, Midwest Republic, Colorado, Sonora, Amazonia, Araucanía-Patagonia, Yucatán, Northern Ireland, Hawaii, Alaska |
+| Notable | Austro-Bavaria, Argentina (without Patagonia), Midwest Republic, Colorado, Sonora, Amazonia, Araucanía-Patagonia, Yucatán, Northern Ireland, Hawaii, Alaska |
 
 *Source: `Official_Population_Census.md` Sections A–C.*
 
@@ -83,7 +83,7 @@ so a mechanical sweep read this city as having no declared extent.*
 | Significant | Chile *(founding wave)* | 4.94% | 23 | 22 | 15 | 19 |
 | Significant | México | 3.60% | 17 | 16 | 11 | 14 |
 | Notable | Austro-Bavaria | 2.39% | 11 | 11 | 7 | 9 |
-| Notable | Argentina (without Patagonia) *(founding wave)* | 2.13% | 10 | 9 | 7 | 8 |
+| Notable | Argentina (without Patagonia) | 2.13% | 10 | 9 | 7 | 8 |
 | Notable | Midwest Republic | 2.06% | 10 | 10 | 6 | 8 |
 | Notable | Colorado | 1.55% | 7 | 7 | 5 | 6 |
 | Notable | Sonora | 1.15% | 5 | 5 | 4 | 5 |
@@ -153,7 +153,7 @@ _https://legacy.bas.ac.uk/met/READER/_
 **Lost to sublimation and wind transport:** ~131 mm/yr
 
 > ##### ⚠ WIND vs COLD — which hazard actually defines this city
-> ⭐ **NEITHER, in the Antarctic sense — the hazard here is WATER.** At **-1.7 °C** this is among the mildest cities in the Federation (**35 of the 37 are colder**), and **retention ~80%** means precipitation behaves as it does in temperate latitudes. **Rain as well as snow; melt, saturation, freeze-thaw and slush** rather than scouring. *The engineering problem is drainage and damp, not drift.*
+> ⭐ **NEITHER, in the Antarctic sense — the hazard here is WATER.** At **-1.7 °C** this is a mild site, and **retention ~80%** means precipitation behaves as it does in temperate latitudes. **Rain as well as snow; melt, saturation, freeze-thaw and slush** rather than scouring. *The engineering problem is drainage and damp, not drift.*
 
 *Mechanism, published coefficients and the full 37-city comparison: `Reference/Real-World/Climate Data/Precipitation_Falls_vs_Lands.md`*
 **Polar night:** ⛔ **none** — 195 km north of the Antarctic Circle

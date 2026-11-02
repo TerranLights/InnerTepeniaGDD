@@ -105,7 +105,7 @@ Inland from the coast, the Budd Coast katabatic system funnels cold air from the
 **Lost to sublimation and wind transport:** ~139 mm/yr
 
 > ##### ⚠ WIND vs COLD — which hazard actually defines this city
-> ⭐⭐ **WIND, decisively — the cold is NOT what defines this city.** At **-9.3 °C** **28 of the 37 Tepenian cities are colder than this one.** What sets it apart is **persistent katabatic drainage**: **up to a third of snowfall evaporates before it lands, and most of the remainder is entrained and carried past.** ⚠ **Whiteout here routinely occurs under a clear sky**, because the snow is *lifted*, not falling. **Retention ~38% — residents dig out from what arrived from upwind, not from what fell on them.**
+> ⭐⭐ **WIND, decisively — the cold is NOT what defines this city.** At **-9.3 °C** the cold is a backdrop. What sets it apart is **persistent katabatic drainage**: **up to a third of snowfall evaporates before it lands, and most of the remainder is entrained and carried past.** ⚠ **Whiteout here routinely occurs under a clear sky**, because the snow is *lifted*, not falling. **Retention ~38% — residents dig out from what arrived from upwind, not from what fell on them.**
 
 *Mechanism, published coefficients and the full 37-city comparison: `Reference/Real-World/Climate Data/Precipitation_Falls_vs_Lands.md`*
 **Polar night:** ⛔ **None** — Casey (66°16'S) is just north of the Antarctic Circle (66°33'S); the sun rises every day of the year

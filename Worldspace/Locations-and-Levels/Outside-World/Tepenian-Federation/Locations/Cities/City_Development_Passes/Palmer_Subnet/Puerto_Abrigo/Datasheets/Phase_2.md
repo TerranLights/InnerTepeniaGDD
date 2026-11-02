@@ -7,11 +7,11 @@
 
 | Category | Value | Citation |
 |---|---|---|
-| Composition tier table (spec) | **Primary:** France, United Kingdom, Germany, CSA, Brazil · **Significant:** Appalachia, New England, Cascadia, Chile *(founding wave)*, México · **Notable:** Austro-Bavaria, Argentina (without Patagonia) *(founding wave)*, Midwest Republic, Colorado, Sonora, Amazonia, Araucanía-Patagonia, Yucatán, Northern Ireland, Hawaii, Alaska | `Specs/Puerto_Abrigo.md` L63–65 |
-| Composition tier table (census Section A entry) | **Primary:** France, United Kingdom, Germany, CSA, Brazil · **Significant:** Appalachia, New England, Cascadia, Chile *(founding wave)*, México · **Notable:** Austro-Bavaria, Argentina (without Patagonia) *(founding wave)*, Midwest Republic, Colorado, Sonora, Amazonia, Araucanía-Patagonia, Yucatán, Northern Ireland, Hawaii, Alaska | `Official_Population_Census.md` L102–104 |
+| Composition tier table (spec) | **Primary:** France, United Kingdom, Germany, CSA, Brazil · **Significant:** Appalachia, New England, Cascadia, Chile *(founding wave)*, México · **Notable:** Austro-Bavaria, Argentina (without Patagonia), Midwest Republic, Colorado, Sonora, Amazonia, Araucanía-Patagonia, Yucatán, Northern Ireland, Hawaii, Alaska | `Specs/Puerto_Abrigo.md` L63–65 |
+| Composition tier table (census Section A entry) | **Primary:** France, United Kingdom, Germany, CSA, Brazil · **Significant:** Appalachia, New England, Cascadia, Chile *(founding wave)*, México · **Notable:** Austro-Bavaria, Argentina (without Patagonia), Midwest Republic, Colorado, Sonora, Amazonia, Araucanía-Patagonia, Yucatán, Northern Ireland, Hawaii, Alaska | `Official_Population_Census.md` L102–104 |
+| Annotation in the spec tier table | `(founding wave)` on Chile — the Founding Register's founder(s); **no date**; the tag was narrowed to Register founders 2026-11-02 (`DR-88`) | `Specs/Puerto_Abrigo.md` L63–L65 |
+| Annotation in the census tier table | `(founding wave)` on Chile — the Founding Register's founder(s); **no date**; the tag was narrowed to Register founders 2026-11-02 (`DR-88`) | `Official_Population_Census.md` L102–L104 |
 | Spec table vs census table (nation lists, annotations ignored) | Identical | Compared 2026-10-21 |
-| Annotations in the spec tier table (two: Argentina, Chile) | `(founding wave)` on each — **no date** | `Specs/Puerto_Abrigo.md` L65 |
-| Annotations in the census tier table (two: Argentina, Chile) | `(founding wave)` on each — **no date** | `Official_Population_Census.md` L104 |
 | Per-nation breakdown (spec) | Present at L69–L97 (a model output per the spec's own note, not a measured count) — **not quoted**; cite by range | `Specs/Puerto_Abrigo.md` L69 |
 | Census I | 457 H / 472 R / **929** combined | `Official_Population_Census.md` L528 |
 | Census II | 387 H / 304 R / **691** combined | `Official_Population_Census.md` L668 |

@@ -109,7 +109,7 @@ Named after John King Davis — not an explorer in the Mawson/Scott/Amundsen sen
 **Lost to sublimation and wind transport:** ~45 mm/yr
 
 > ##### ⚠ WIND vs COLD — which hazard actually defines this city
-> ⚠ **NEITHER dominates — and that is what distinguishes Davis.** At **-10.0 °C** (24 of the 37 are colder) with **~5.6 m/s** mean wind, ⭐ **Davis is the mildest-conditions site on the East Antarctic coast**: an ice-free oasis out of the katabatic regime, very dry (**73 mm/yr**), and comparatively sheltered. *Neither the plateau's cold nor the margin's scouring. The hazard here is dryness and isolation rather than violence.*
+> ⚠ **NEITHER dominates — and that is what distinguishes Davis.** At **-10.0 °C** with **~5.6 m/s** mean wind, ⭐ **Davis has the mildest conditions on the East Antarctic coast it sits on**: an ice-free oasis out of the katabatic regime, very dry (**73 mm/yr**), and comparatively sheltered. *Neither the plateau's cold nor the margin's scouring. The hazard here is dryness and isolation rather than violence.*
 
 *Mechanism, published coefficients and the full 37-city comparison: `Reference/Real-World/Climate Data/Precipitation_Falls_vs_Lands.md`*
 

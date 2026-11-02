@@ -5,7 +5,7 @@
 **Arcanet Subnet:** Janbogo
 **Access type:** SPUR
 **Highway access:** Near Hwy 183 — connected via spur road; not directly on the main highway. Hwy 183 runs along the mainland Ross Sea coast; Fort McMurdo sits on Ross Island across McMurdo Sound, accessed via a spur that crosses to the island. Exact crossing type (sea ice road / permanent causeway / ferry connection) TBD.
-**Significance:** **The National Capital of Tepenia (historical) — RESOLVED 2026-07-07, timeline clarified 2026-07-08.** See `National_Capital_Candidates.md` for the full analysis; two independent passes (2026-07-03/04 geopolitical, 2026-07-06/07 grounded in established city character) both converged on Fort McMurdo. **The status had two distinct phases, not one:** Fort McMurdo began as Tepenia's *informal, de facto* capital — real operational gravity, no formal title — and only later in the Second Interwar Period was it formally, officially designated the national capital by name, a title it then held through to the Long Night War. **Fully resolved, same day (2026-07-07):** this status is historical only — Fort McMurdo was the official seat of government up through the war, but present-day Tepenia (≈2822–2827) has no capital of any kind; the title did not survive the war and does not transfer to Concordia or anywhere else. Also: Tepenia's largest city by industrial/physical footprint (matching real McMurdo Station's building count and infrastructure scale) — but capped well below its industrial-scale peers in raw population by Ross Island's limited land area (Census II rank ~24th of ~30 cities, explicitly marked "island cap" in `Official_Population_Census.md`); industrial and resource-extraction capital; the city that powered Tepenia's physical infrastructure *(corrected 2026-07-03 — this file previously claimed Fort McMurdo was also the largest city by population, which conflicts with the official census)*
+**Significance:** **The National Capital of Tepenia (historical) — RESOLVED 2026-07-07, timeline clarified 2026-07-08.** See `National_Capital_Candidates.md` for the full analysis; two independent passes (2026-07-03/04 geopolitical, 2026-07-06/07 grounded in established city character) both converged on Fort McMurdo. **The status had two distinct phases, not one:** Fort McMurdo began as Tepenia's *informal, de facto* capital — real operational gravity, no formal title — and only later in the Second Interwar Period was it formally, officially designated the national capital by name, a title it then held through to the Long Night War. **Fully resolved, same day (2026-07-07):** this status is historical only — Fort McMurdo was the official seat of government up through the war, but present-day Tepenia (≈2822–2827) has no capital of any kind; the title did not survive the war and does not transfer to Concordia or anywhere else. Also: Tepenia's largest city by industrial/physical footprint (matching real McMurdo Station's building count and infrastructure scale) — but capped well below its industrial-scale peers in raw population by Ross Island's limited land area (explicitly marked "island cap" in `Official_Population_Census.md`); industrial and resource-extraction capital; the city that powered Tepenia's physical infrastructure *(corrected 2026-07-03 — this file previously claimed Fort McMurdo was also the largest city by population, which conflicts with the official census)*
 **DLC:** Janbogo subnet — DLC 6 (Janbogo Region); damaged but partially operational
 
 ---
@@ -40,8 +40,8 @@
 | Tier | Nations |
 |------|---------|
 | Primary | France, Japan, Germany, Sinian Federation, CSA |
-| Significant | Appalachia, United Kingdom, Cascadia, New England, Malaysia, New Zealand *(founding wave)*, Chile, Taiwan, Magna Lombardia |
-| Notable | Korea, Australia *(founding wave)*, Indonesia, Meridia, Austro-Bavaria, Philippines, Midwest Republic, Manchuria, Demilitarized Zone (s. Ontario; not a nation), Colorado, Quebec, Prairie Federation, Sonora, Araucanía-Patagonia, Sicilia (autonomous zone within Meridia), Mongolia, Northern Ireland, Hawaii, Alaska, West Papua, Aceh |
+| Significant | Appalachia, United Kingdom, Cascadia, New England, Malaysia, New Zealand, Chile, Taiwan, Magna Lombardia |
+| Notable | Korea, Australia, Indonesia, Meridia, Austro-Bavaria, Philippines, Midwest Republic, Manchuria, Demilitarized Zone (s. Ontario; not a nation), Colorado, Quebec, Prairie Federation, Sonora, Araucanía-Patagonia, Sicilia (autonomous zone within Meridia), Mongolia, Northern Ireland, Hawaii, Alaska, West Papua, Aceh |
 
 *Source: `Official_Population_Census.md` Sections A–C.*
 
@@ -61,12 +61,12 @@
 | Significant | Cascadia | 3.60% | 8,034 | 8,000 | 5,927 | 6,249 |
 | Significant | New England | 3.53% | 7,870 | 7,839 | 5,807 | 6,122 |
 | Significant | Malaysia | 3.17% | 7,074 | 7,044 | 5,220 | 5,503 |
-| Significant | New Zealand *(founding wave)* | 3.06% | 6,846 | 6,817 | 5,052 | 5,326 |
+| Significant | New Zealand | 3.06% | 6,846 | 6,817 | 5,052 | 5,326 |
 | Significant | Chile | 2.92% | 6,518 | 6,491 | 4,809 | 5,070 |
 | Significant | Taiwan | 2.91% | 6,488 | 6,461 | 4,787 | 5,047 |
 | Significant | Magna Lombardia | 2.67% | 5,961 | 5,937 | 4,398 | 4,636 |
 | Notable | Korea | 1.93% | 4,304 | 4,286 | 3,176 | 3,347 |
-| Notable | Australia *(founding wave)* | 1.84% | 4,113 | 4,095 | 3,034 | 3,200 |
+| Notable | Australia | 1.84% | 4,113 | 4,095 | 3,034 | 3,200 |
 | Notable | Indonesia | 1.67% | 3,730 | 3,714 | 2,752 | 2,900 |
 | Notable | Meridia | 1.64% | 3,660 | 3,643 | 2,700 | 2,846 |
 | Notable | Austro-Bavaria | 1.62% | 3,613 | 3,597 | 2,665 | 2,810 |
@@ -122,7 +122,7 @@ Scott Base — New Zealand's Antarctic station, now the Tepenian city of **Scott
 **Lost to sublimation and wind transport:** ~132 mm/yr
 
 > ##### ⚠ WIND vs COLD — which hazard actually defines this city
-> ⭐⭐ **WIND, decisively — the cold is NOT what defines this city.** At **-16.2 °C** **13 of the 37 Tepenian cities are colder than this one.** What sets it apart is **mean wind 7.5 m/s**: **up to a third of snowfall evaporates before it lands, and most of the remainder is entrained and carried past.** ⚠ **Whiteout here routinely occurs under a clear sky**, because the snow is *lifted*, not falling. **Retention ~38% — residents dig out from what arrived from upwind, not from what fell on them.**
+> ⭐⭐ **WIND, decisively — the cold is NOT what defines this city.** At **-16.2 °C** the cold is a backdrop. What sets it apart is **mean wind 7.5 m/s**: **up to a third of snowfall evaporates before it lands, and most of the remainder is entrained and carried past.** ⚠ **Whiteout here routinely occurs under a clear sky**, because the snow is *lifted*, not falling. **Retention ~38% — residents dig out from what arrived from upwind, not from what fell on them.**
 
 *Mechanism, published coefficients and the full 37-city comparison: `Reference/Real-World/Climate Data/Precipitation_Falls_vs_Lands.md`*
 **Polar night:** approximately Apr 26 → Aug 19 (~116 days — one of the longest polar nights of any coastal city in Tepenia)

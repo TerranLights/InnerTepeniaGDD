@@ -18,7 +18,7 @@
 | Tier | Nations |
 |------|---------|
 | Primary | United Kingdom, Korea, Indonesia, Sinian Federation |
-| Significant | Japan, Australia *(founding wave)*, Philippines, New Zealand, Malaysia, Thailand, Taiwan, Idelsk-Uralia, Russia (core state), Vietnam, Manchuria, Belarus, South Africa |
+| Significant | Japan, Australia, Philippines, New Zealand, Malaysia, Thailand, Taiwan, Idelsk-Uralia *(founding wave)*, Russia (core state), Vietnam, Manchuria, Belarus, South Africa |
 | Notable | Siberia, Donska-Kubania, Künnarantaiga, Mongolia, East Turkestan, Northern Ireland, West Papua, Aceh, Dagestan, Patani, Chechnya, Tibet, Kabardino-Balkaria, North Ossetia-Alania, Finland, Ingushetia, Karachay-Cherkessia, Tuva |
 
 *Source: `Official_Population_Census.md` Sections A–C.*
@@ -34,13 +34,13 @@
 | Primary | Indonesia | 12.21% | 85,086 | 82,735 | 63,070 | 62,894 |
 | Primary | Sinian Federation | 12.18% | 84,935 | 82,588 | 62,959 | 62,783 |
 | Significant | Japan | 7.59% | 52,910 | 51,449 | 39,221 | 39,112 |
-| Significant | Australia *(founding wave)* | 6.76% | 47,183 | 45,880 | 34,977 | 34,878 |
+| Significant | Australia | 6.76% | 47,183 | 45,880 | 34,977 | 34,878 |
 | Significant | Philippines | 4.31% | 30,050 | 29,222 | 22,276 | 22,215 |
 | Significant | New Zealand | 4.29% | 29,893 | 29,067 | 22,158 | 22,096 |
 | Significant | Malaysia | 3.49% | 24,330 | 23,659 | 18,034 | 17,985 |
 | Significant | Thailand | 3.44% | 23,956 | 23,296 | 17,760 | 17,709 |
 | Significant | Taiwan | 2.90% | 20,258 | 19,698 | 15,016 | 14,974 |
-| Significant | Idelsk-Uralia | 2.17% | 15,118 | 14,700 | 11,207 | 11,176 |
+| Significant | Idelsk-Uralia *(founding wave)* | 2.17% | 15,118 | 14,700 | 11,207 | 11,176 |
 | Significant | Russia (core state) | 2.17% | 15,117 | 14,700 | 11,207 | 11,177 |
 | Significant | Vietnam | 1.68% | 11,674 | 11,352 | 8,654 | 8,631 |
 | Significant | Manchuria | 1.57% | 10,930 | 10,627 | 8,101 | 8,078 |
@@ -100,7 +100,7 @@ The station is named after the sloop *Mirny* — one of the two ships in Fabian 
 **Lost to sublimation and wind transport:** ~327 mm/yr
 
 > ##### ⚠ WIND vs COLD — which hazard actually defines this city
-> ⭐⭐ **WIND, decisively — the cold is NOT what defines this city.** At **-11.2 °C** **20 of the 37 Tepenian cities are colder than this one.** What sets it apart is **mean wind 12.0 m/s**: **up to a third of snowfall evaporates before it lands, and most of the remainder is entrained and carried past.** ⚠ **Whiteout here routinely occurs under a clear sky**, because the snow is *lifted*, not falling. **Retention ~38% — residents dig out from what arrived from upwind, not from what fell on them.**
+> ⭐⭐ **WIND, decisively — the cold is NOT what defines this city.** At **-11.2 °C** the cold is a backdrop. What sets it apart is **mean wind 12.0 m/s**: **up to a third of snowfall evaporates before it lands, and most of the remainder is entrained and carried past.** ⚠ **Whiteout here routinely occurs under a clear sky**, because the snow is *lifted*, not falling. **Retention ~38% — residents dig out from what arrived from upwind, not from what fell on them.**
 
 *Mechanism, published coefficients and the full 37-city comparison: `Reference/Real-World/Climate Data/Precipitation_Falls_vs_Lands.md`*
 **Polar night:** ⛔ **none** *(corrected 2026-09-04 — previously "approximately June 19 → June 23, roughly 4–5 days")*

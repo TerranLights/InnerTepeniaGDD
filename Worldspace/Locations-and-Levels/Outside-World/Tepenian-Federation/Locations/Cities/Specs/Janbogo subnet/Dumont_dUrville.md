@@ -45,7 +45,7 @@
 
 | Tier | Nations |
 |------|---------|
-| Primary | Sinian Federation, France, Japan, Australia *(founding wave)* |
+| Primary | Sinian Federation, France, Japan *(founding wave)*, Australia |
 | Significant | CSA, Indonesia |
 | Notable | Appalachia, New Zealand, Vietnam, New England, Philippines, Cascadia, Taiwan, Malaysia, Korea, Manchuria, Midwest Republic, Colorado, Sonora, Mongolia, East Turkestan, Thailand, West Papua, Aceh, Hawaii, Tibet, Alaska, Patani |
 
@@ -59,8 +59,8 @@
 |------|--------|---------|------------------|------------------|-------------------|-------------------|
 | Primary | Sinian Federation | 13.56% | 28,054 | 27,291 | 21,654 | 16,436 |
 | Primary | France | 13.37% | 27,642 | 26,894 | 21,338 | 16,197 |
-| Primary | Japan | 13.28% | 27,470 | 26,724 | 21,203 | 16,095 |
-| Primary | Australia *(founding wave)* | 12.55% | 25,955 | 25,252 | 20,035 | 15,206 |
+| Primary | Japan *(founding wave)* | 13.28% | 27,470 | 26,724 | 21,203 | 16,095 |
+| Primary | Australia | 12.55% | 25,955 | 25,252 | 20,035 | 15,206 |
 | Significant | CSA | 7.38% | 15,259 | 14,845 | 11,779 | 8,941 |
 | Significant | Indonesia | 6.08% | 12,573 | 12,230 | 9,704 | 7,366 |
 | Notable | Appalachia | 4.00% | 8,272 | 8,047 | 6,385 | 4,846 |
@@ -121,7 +121,7 @@ The station is named for Jules Sébastien César Dumont d'Urville, the French na
 **Lost to sublimation and wind transport:** ~406 mm/yr
 
 > ##### ⚠ WIND vs COLD — which hazard actually defines this city
-> ⭐⭐ **WIND, decisively — the cold is NOT what defines this city.** At **-11.0 °C** **22 of the 37 Tepenian cities are colder than this one.** What sets it apart is **mean wind 9.7 m/s**: **up to a third of snowfall evaporates before it lands, and most of the remainder is entrained and carried past.** ⚠ **Whiteout here routinely occurs under a clear sky**, because the snow is *lifted*, not falling. **Retention ~38% — residents dig out from what arrived from upwind, not from what fell on them.**
+> ⭐⭐ **WIND, decisively — the cold is NOT what defines this city.** At **-11.0 °C** the cold is a backdrop. What sets it apart is **mean wind 9.7 m/s**: **up to a third of snowfall evaporates before it lands, and most of the remainder is entrained and carried past.** ⚠ **Whiteout here routinely occurs under a clear sky**, because the snow is *lifted*, not falling. **Retention ~38% — residents dig out from what arrived from upwind, not from what fell on them.**
 
 *Mechanism, published coefficients and the full 37-city comparison: `Reference/Real-World/Climate Data/Precipitation_Falls_vs_Lands.md`*
 **Polar night:** ⛔ **none** *(corrected 2026-09-04 — previously "~10 days")*. **Note the mechanism: Dumont d'Urville is 7' SOUTH of the geometric Antarctic Circle and still has no polar night**, because refraction and the sun's semidiameter exceed that margin. *Being south of the Circle is not sufficient; the polar-night boundary sits ~0.8° further south than the Circle itself.*

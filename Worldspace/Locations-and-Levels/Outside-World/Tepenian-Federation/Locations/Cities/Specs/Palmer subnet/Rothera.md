@@ -12,7 +12,7 @@
 
 ## Population / Destructibility Note (2026-07-03)
 
-By population, Rothera (317,449 Census I, rank 31st *corrected 2026-07-03, again 2026-07-05*) is actually *smaller* than Contrapunto (644,833) and only barely smaller than Palmer City (332,808) — both cities were fully destroyed. Population size alone doesn't explain survival here; if anything, Palmer City's own population dropping to nearly the same size as Rothera's, while remaining destroyed regardless, makes the point more starkly: two cities of near-identical population, opposite fates. What does explain it: Adelaide Island is by far the largest landmass in the Palmer subnet (~139km long, mountainous, peaks roughly 2,300m) — significantly bigger than Contrapunto's King George Island or Palmer City's Anvers Island. Rothera's industrial base is genuinely **decentralized** across that much larger landmass — processing sites, mining operations, and distributed facilities spread across dozens of kilometers rather than concentrated in one dense urban core. A concentrated city can be erased in a single strike; an industrial base scattered across 139km of mountainous terrain cannot. That physical decentralization, not population size, is why Rothera survived as damaged-but-functional rather than being wiped out entirely.
+By population, Rothera (317,449 Census I, rank 31st *corrected 2026-07-03, again 2026-07-05*) is a small city, 317,449 — a size at which two other fully destroyed cities also stood. Population size alone doesn't explain survival here; if anything, Palmer City's own population dropping to nearly the same size as Rothera's, while remaining destroyed regardless, makes the point more starkly: two cities of near-identical population, opposite fates. What does explain it: Adelaide Island is by far the largest landmass in the Palmer subnet (~139km long, mountainous, peaks roughly 2,300m) — significantly bigger than Contrapunto's King George Island or Palmer City's Anvers Island. Rothera's industrial base is genuinely **decentralized** across that much larger landmass — processing sites, mining operations, and distributed facilities spread across dozens of kilometers rather than concentrated in one dense urban core. A concentrated city can be erased in a single strike; an industrial base scattered across 139km of mountainous terrain cannot. That physical decentralization, not population size, is why Rothera survived as damaged-but-functional rather than being wiped out entirely.
 
 **Underground expansion, added same day:** the same abundance of space — both landmass and diameter, room to expand in every direction rather than being boxed in by a small island's limits — also made large-scale underground construction realistic here in a way it wasn't for Palmer City or Contrapunto. Rothera's industrial development plausibly included genuine subterranean facilities: large excavated chambers functioning as shelters and protected production space, significantly larger in scale than the small, iconic vaults of other post-apocalyptic media (Fallout, etc.) — Tepenia's version of the concept, built at a scale Adelaide Island's size actually supports rather than the compact, single-purpose shelters that genre usually depicts. This gives Rothera a third, compounding layer of resilience beyond decentralization alone: surface damage doesn't necessarily touch what's built underground, and underground production could plausibly continue even when surface facilities are hit. Exact scale, number, and current status of these underground sections are TBD for DLC 3 design, but the premise is now established as part of why Rothera specifically (and not Palmer City or Contrapunto) survived as damaged-but-functional.
 
@@ -53,7 +53,7 @@ By population, Rothera (317,449 Census I, rank 31st *corrected 2026-07-03, again
 | Tier | Nations |
 |------|---------|
 | Primary | Brazil, Germany |
-| Significant | CSA, France, United Kingdom, Cascadia, Appalachia, México, Demilitarized Zone (s. Ontario; not a nation), New England, Chile *(founding wave)*, Quebec, Prairie Federation, Austro-Bavaria, Midwest Republic, Argentina (without Patagonia) *(founding wave)*, Amazonia, Colorado, Sonora |
+| Significant | CSA, France, United Kingdom, Cascadia, Appalachia, México, Demilitarized Zone (s. Ontario; not a nation), New England, Chile, Quebec, Prairie Federation, Austro-Bavaria, Midwest Republic, Argentina (without Patagonia) *(founding wave)*, Amazonia, Colorado, Sonora |
 | Notable | Araucanía-Patagonia, Yucatán, Northern Ireland, Hawaii, Alaska |
 
 *Source: `Official_Population_Census.md` Sections A–C.*
@@ -74,7 +74,7 @@ By population, Rothera (317,449 Census I, rank 31st *corrected 2026-07-03, again
 | Significant | México | 5.75% | 9,416 | 8,845 | 7,712 | 7,006 |
 | Significant | Demilitarized Zone (s. Ontario; not a nation) | 5.28% | 8,646 | 8,121 | 7,082 | 6,432 |
 | Significant | New England | 4.85% | 7,938 | 7,456 | 6,502 | 5,906 |
-| Significant | Chile *(founding wave)* | 4.50% | 7,370 | 6,924 | 6,037 | 5,483 |
+| Significant | Chile | 4.50% | 7,370 | 6,924 | 6,037 | 5,483 |
 | Significant | Quebec | 4.04% | 6,611 | 6,210 | 5,414 | 4,919 |
 | Significant | Prairie Federation | 2.97% | 4,864 | 4,569 | 3,983 | 3,618 |
 | Significant | Austro-Bavaria | 2.31% | 3,774 | 3,545 | 3,091 | 2,808 |
@@ -114,7 +114,7 @@ Rothera was one of the few Antarctic stations with a runway built of rock rather
 **Temperature range:** coldest months (July/August) mean −9.8°C and −9.7°C; warmest month (January) mean +1.3°C; above-freezing temperatures possible in summer
 **Record extremes:** record high **+12.0 °C** (Jan); record low **-39.1 °C** (Sep) _(NOAA NCEI GHCN-Daily station `AYM00089062` — direct, 0 km; daily observations 1977-2025)_ *(researched 2026-09-04)*
 **Prevailing winds:** westerly and northwesterly off the Bellingshausen Sea; moderate to strong; the island position and surrounding topography create local wind variations; no severe katabatic regime
-**Annual precipitation:** approximately 500–700mm water equivalent; mix of snow and rain; among the highest precipitation of any Tepenian city; frequent cloud cover
+**Annual precipitation:** approximately 500–700mm water equivalent; mix of snow and rain; high precipitation; frequent cloud cover
 
 #### ⭐ Precipitation regime — what falls vs what lands
 
@@ -124,7 +124,7 @@ Rothera was one of the few Antarctic stations with a runway built of rock rather
 **Lost to sublimation and wind transport:** ~140 mm/yr
 
 > ##### ⚠ WIND vs COLD — which hazard actually defines this city
-> ⭐ **NEITHER, in the Antarctic sense — the hazard here is WATER.** At **-4.0 °C** this is among the mildest cities in the Federation (**31 of the 37 are colder**), and **retention ~80%** means precipitation behaves as it does in temperate latitudes. **Rain as well as snow; melt, saturation, freeze-thaw and slush** rather than scouring. *The engineering problem is drainage and damp, not drift.*
+> ⭐ **NEITHER, in the Antarctic sense — the hazard here is WATER.** At **-4.0 °C** this is a mild site, and **retention ~80%** means precipitation behaves as it does in temperate latitudes. **Rain as well as snow; melt, saturation, freeze-thaw and slush** rather than scouring. *The engineering problem is drainage and damp, not drift.*
 
 *Mechanism, published coefficients and the full 37-city comparison: `Reference/Real-World/Climate Data/Precipitation_Falls_vs_Lands.md`*
 **Polar night:** approximately Jun 15 → Jun 29 (~15 days around the winter solstice — slightly longer than Mirny's minimal polar night; at 67°34'S, about 1° south of the Antarctic Circle)
@@ -155,7 +155,7 @@ Rothera was one of the few Antarctic stations with a runway built of rock rather
 ***NCEI supplement (2026-09-04)** — monthly figures added from **NOAA NCEI Global Summary of the Month**, station **AYM00089062** (ROTHERA), computed across that station's full period of record. **Rec High / Rec Low:* extreme max/min actually observed in each calendar month (`EMXT`/`EMNT`). ⚠ *Where a published climate box already supplied records, those were kept — they cover longer periods than NCEI's holdings.**
 
 
-***Column provenance (checked 2026-09-04)** — **Avg Temp:* BAS READER WMO 1991–2020 normal *(measured)*. **Avg Daylight:* computed from this city's own latitude *(reproducible)*. ⚠ **Temp Range · Avg Precip · Precip Probability:* **DERIVED, NOT MEASURED.** No published monthly normals for max/min temperature, precipitation or precipitation-days were obtainable for this station in the 2026-09-04 sweep. **Treat these three columns as design-grade estimates, not data.** ⚠ **Checked by script 2026-10-31:** in March, April, May, June and July the Avg High (day) is below the month's Mean, which cannot be right, and the Avg Low (night) is below the Rec Low in January, February, March and May. **The Avg High and Avg Low columns are estimates not to be cited; no figures were invented to replace them.** *(19 of the 37 cities now carry measured values in these columns; this is one of the 18 that does not.) **Monthly Precip column, labeled 2026-11-02 (`DR-86`):** ⚠ design-grade — the twelve months sum to 634 mm, while the annual text above says 500–700 mm, "falls ~700 mm"; both figures are kept and neither is the station's gauge.*
+***Column provenance (checked 2026-09-04)** — **Avg Temp:* BAS READER WMO 1991–2020 normal *(measured)*. **Avg Daylight:* computed from this city's own latitude *(reproducible)*. ⚠ **Temp Range · Avg Precip · Precip Probability:* **DERIVED, NOT MEASURED.** No published monthly normals for max/min temperature, precipitation or precipitation-days were obtainable for this station in the 2026-09-04 sweep. **Treat these three columns as design-grade estimates, not data.** ⚠ **Checked by script 2026-10-31:** in March, April, May, June and July the Avg High (day) is below the month's Mean, which cannot be right, and the Avg Low (night) is below the Rec Low in January, February, March and May. **The Avg High and Avg Low columns are estimates not to be cited; no figures were invented to replace them.** **Monthly Precip column, labeled 2026-11-02 (`DR-86`):** ⚠ design-grade — the twelve months sum to 634 mm, while the annual text above says 500–700 mm, "falls ~700 mm"; both figures are kept and neither is the station's gauge.*
 
 
 #### Notable Weather Phenomena

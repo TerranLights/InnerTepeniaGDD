@@ -77,7 +77,7 @@
 | Tier | Nations |
 |------|---------|
 | Primary | United Kingdom, México, Spain, CSA |
-| Significant | Brazil, Appalachia, Cascadia, Germany, Uruguay, New England, Chile *(founding wave)* |
+| Significant | Brazil, Appalachia, Cascadia, Germany, Uruguay, New England, Chile |
 | Notable | Demilitarized Zone (s. Ontario; not a nation), Catalonia, Quebec, Midwest Republic, Sonora, Yucatán, Prairie Federation, Colorado, Austro-Bavaria, Basque Country, Araucanía-Patagonia, Argentina (without Patagonia) *(founding wave)*, Amazonia, Northern Ireland, Hawaii, Alaska |
 
 *Source: `Official_Population_Census.md` Sections A–C.*
@@ -98,7 +98,7 @@
 | Significant | Germany | 5.53% | 15,842 | 15,654 | 12,953 | 10,804 |
 | Significant | Uruguay | 4.74% | 13,580 | 13,420 | 11,104 | 9,262 |
 | Significant | New England | 4.68% | 13,430 | 13,272 | 10,982 | 9,160 |
-| Significant | Chile *(founding wave)* | 4.19% | 12,014 | 11,872 | 9,822 | 8,193 |
+| Significant | Chile | 4.19% | 12,014 | 11,872 | 9,822 | 8,193 |
 | Notable | Demilitarized Zone (s. Ontario; not a nation) | 2.66% | 7,642 | 7,552 | 6,249 | 5,212 |
 | Notable | Catalonia | 2.35% | 6,746 | 6,666 | 5,515 | 4,601 |
 | Notable | Quebec | 2.04% | 5,844 | 5,775 | 4,778 | 3,985 |
@@ -150,7 +150,7 @@ The Argentine Air Force chose Seymour Island for the runway — flat terrain, re
 **Lost to sublimation and wind transport:** ~73 mm/yr
 
 > ##### ⚠ WIND vs COLD — which hazard actually defines this city
-> ⭐ **NEITHER, in the Antarctic sense — the hazard here is WATER.** At **-8.0 °C** this is among the mildest cities in the Federation (**29 of the 37 are colder**), and **retention ~80%** means precipitation behaves as it does in temperate latitudes. **Rain as well as snow; melt, saturation, freeze-thaw and slush** rather than scouring. *The engineering problem is drainage and damp, not drift.*
+> ⭐ **NEITHER, in the Antarctic sense — the hazard here is WATER.** At **-8.0 °C** this is a mild site, and **retention ~80%** means precipitation behaves as it does in temperate latitudes. **Rain as well as snow; melt, saturation, freeze-thaw and slush** rather than scouring. *The engineering problem is drainage and damp, not drift.*
 
 *Mechanism, published coefficients and the full 37-city comparison: `Reference/Real-World/Climate Data/Precipitation_Falls_vs_Lands.md`*
 

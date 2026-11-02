@@ -60,8 +60,8 @@
 | Tier | Nations |
 |------|---------|
 | Primary | France, Brazil, Germany, CSA |
-| Significant | United Kingdom, México, Appalachia, Cascadia, Uruguay *(founding wave)*, New England, Argentina (without Patagonia) *(founding wave)* |
-| Notable | Demilitarized Zone (s. Ontario; not a nation), Quebec, Austro-Bavaria, Netherlands, Estonia, Czechia, Australia, Midwest Republic, Slovakia, Thailand, Prairie Federation, Serbia, Korea, Norway, Colorado, Croatia, Amazonia, South Africa, Sonora, Slovenia, Philippines, Romania, Chile *(founding wave)*, Japan, Poland, New Zealand, Yucatán, Bulgaria, Magna Lombardia, Sinian Federation, Vietnam, Russia (core state), Latvia, Sweden, Belarus, Spain, Idelsk-Uralia, Meridia, Indonesia, Finland, Hungary, Araucanía-Patagonia, Lithuania, Malaysia, Ukraine, Northern Ireland, Siberia, Donska-Kubania, Catalonia, Künnarantaiga, Sicilia (autonomous zone within Meridia), Hawaii, Alaska, Patani, Basque Country, Dagestan, Chechnya, West Papua, Kabardino-Balkaria, Aceh, North Ossetia-Alania, Ingushetia, Karachay-Cherkessia, Tuva |
+| Significant | United Kingdom, México, Appalachia, Cascadia, Uruguay, New England, Argentina (without Patagonia) |
+| Notable | Demilitarized Zone (s. Ontario; not a nation), Quebec, Austro-Bavaria, Netherlands, Estonia, Czechia, Australia, Midwest Republic, Slovakia, Thailand, Prairie Federation, Serbia, Korea, Norway, Colorado, Croatia, Amazonia, South Africa, Sonora, Slovenia, Philippines, Romania, Chile, Japan, Poland, New Zealand, Yucatán, Bulgaria, Magna Lombardia, Sinian Federation, Vietnam, Russia (core state), Latvia, Sweden, Belarus, Spain, Idelsk-Uralia, Meridia, Indonesia, Finland, Hungary, Araucanía-Patagonia, Lithuania, Malaysia, Ukraine, Northern Ireland, Siberia, Donska-Kubania, Catalonia, Künnarantaiga, Sicilia (autonomous zone within Meridia), Hawaii, Alaska, Patani, Basque Country, Dagestan, Chechnya, West Papua, Kabardino-Balkaria, Aceh, North Ossetia-Alania, Ingushetia, Karachay-Cherkessia, Tuva |
 
 *Palmer City is the only Tepenian city with all 43 master-list nations present — see `Upper_Earth_Immigration_Composition.md`'s Palmer City section and `Local_Cultures/Palmer_Subnet/Palmer_City.md` Section 1 for the full account of the 2026-07-03 expansion.*
 
@@ -87,9 +87,9 @@
 | Significant | México | 4.64% | 7,748 | 7,701 | 7,628 | 9,101 |
 | Significant | Appalachia | 4.21% | 7,028 | 6,987 | 6,936 | 8,274 |
 | Significant | Cascadia | 4.05% | 6,766 | 6,725 | 6,677 | 7,963 |
-| Significant | Uruguay *(founding wave)* | 3.70% | 6,174 | 6,138 | 6,093 | 7,268 |
+| Significant | Uruguay | 3.70% | 6,174 | 6,138 | 6,093 | 7,268 |
 | Significant | New England | 3.44% | 5,748 | 5,714 | 5,673 | 6,767 |
-| Significant | Argentina (without Patagonia) *(founding wave)* | 2.88% | 4,800 | 4,771 | 4,738 | 5,650 |
+| Significant | Argentina (without Patagonia) | 2.88% | 4,800 | 4,771 | 4,738 | 5,650 |
 | Notable | Demilitarized Zone (s. Ontario; not a nation) | 2.10% | 3,501 | 3,481 | 3,456 | 4,122 |
 | Notable | Quebec | 1.60% | 2,678 | 2,662 | 2,643 | 3,152 |
 | Notable | Austro-Bavaria | 1.53% | 2,557 | 2,542 | 2,524 | 3,009 |
@@ -112,7 +112,7 @@
 | Notable | Slovenia | 0.86% | 1,440 | 1,431 | 989 | 1,180 |
 | Notable | Philippines | 0.82% | 1,360 | 1,352 | 935 | 1,115 |
 | Notable | Romania | 0.77% | 1,280 | 1,272 | 879 | 1,049 |
-| Notable | Chile *(founding wave)* | 0.74% | 1,231 | 1,224 | 1,215 | 1,450 |
+| Notable | Chile | 0.74% | 1,231 | 1,224 | 1,215 | 1,450 |
 | Notable | Japan | 0.73% | 1,215 | 1,208 | 836 | 996 |
 | Notable | Poland | 0.70% | 1,175 | 1,168 | 808 | 963 |
 | Notable | New Zealand | 0.67% | 1,123 | 1,116 | 772 | 921 |
@@ -173,7 +173,7 @@ The same accessibility that made it Tepenia's beginning made it Tepenia's first 
 
 *(Research note: verify all figures against Palmer Station climate records — the US Antarctic Program (USAP) / NSF is the operating authority. NOAA and the Scientific Committee on Antarctic Research (SCAR) also publish Peninsula climate data.)*
 
-**Climate type:** Maritime subpolar — the most temperate climate of any Tepenian city; the only one where above-freezing temperatures are a regular occurrence
+**Climate type:** Maritime subpolar — a temperate climate where above-freezing temperatures are a regular occurrence
 **Mean annual temperature:** -1.7°C  _(READER station: Palmer; 1991–2020 WMO standard normal)_
 **Temperature range:** coldest months (July/August) mean −5.3°C and −5.9°C; warmest month (January) mean +2.2°C
 **Record extremes:** record high **+14.8 °C**; record low **−40.8 °C** *(researched 2026-09-04)*
@@ -188,7 +188,7 @@ The same accessibility that made it Tepenia's beginning made it Tepenia's first 
 **Lost to sublimation and wind transport:** ~131 mm/yr
 
 > ##### ⚠ WIND vs COLD — which hazard actually defines this city
-> ⭐ **NEITHER, in the Antarctic sense — the hazard here is WATER.** At **-1.7 °C** this is among the mildest cities in the Federation (**34 of the 37 are colder**), and **retention ~80%** means precipitation behaves as it does in temperate latitudes. **Rain as well as snow; melt, saturation, freeze-thaw and slush** rather than scouring. *The engineering problem is drainage and damp, not drift.*
+> ⭐ **NEITHER, in the Antarctic sense — the hazard here is WATER.** At **-1.7 °C** this is a mild site, and **retention ~80%** means precipitation behaves as it does in temperate latitudes. **Rain as well as snow; melt, saturation, freeze-thaw and slush** rather than scouring. *The engineering problem is drainage and damp, not drift.*
 
 *Mechanism, published coefficients and the full 37-city comparison: `Reference/Real-World/Climate Data/Precipitation_Falls_vs_Lands.md`*
 **Polar night:** None — Palmer Station (64°46'S) is north of the Antarctic Circle (66°33'S); the sun rises every day of the year regardless of season

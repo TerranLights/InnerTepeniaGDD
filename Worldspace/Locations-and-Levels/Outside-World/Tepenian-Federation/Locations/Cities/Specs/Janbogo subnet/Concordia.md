@@ -149,7 +149,7 @@ Two districts break significantly from this pattern: **Capricorn** (the industri
 **Lost to sublimation and wind transport:** ~3 mm/yr
 
 > ##### ⚠ WIND vs COLD — which hazard actually defines this city
-> ⭐ **COLD, overwhelmingly — and this city is one of the few where that is true.** At **-52.7 °C** it is the **#4 coldest of the 37**, but it sits *above* the katabatic regime rather than in it (**mean wind 2.8 m/s**). **Retention is ~90%: what falls, stays.** ⛔ *There is no whiteout-under-clear-sky here — when visibility closes, something is actually falling.* **The hazard is temperature and altitude. Air movement is close to irrelevant.**
+> ⭐ **COLD, overwhelmingly — and this city is one of the few where that is true.** At **-52.7 °C** it is extremely cold, but it sits *above* the katabatic regime rather than in it (**mean wind 2.8 m/s**). **Retention is ~90%: what falls, stays.** ⛔ *There is no whiteout-under-clear-sky here — when visibility closes, something is actually falling.* **The hazard is temperature and altitude. Air movement is close to irrelevant.**
 
 *Mechanism, published coefficients and the full 37-city comparison: `Reference/Real-World/Climate Data/Precipitation_Falls_vs_Lands.md`*
 **Polar night:** approximately May 5 → Aug 10 (~98 days of no sun)

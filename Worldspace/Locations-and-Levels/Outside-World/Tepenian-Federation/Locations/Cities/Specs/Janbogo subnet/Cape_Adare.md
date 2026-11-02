@@ -17,8 +17,8 @@
 
 | Tier | Nations |
 |------|---------|
-| Primary | Australia *(founding wave)*, Sinian Federation, Japan, Indonesia, CSA |
-| Significant | Korea, United Kingdom, Appalachia, Cascadia, New England, Chile, New Zealand *(earliest founding wave — geographically closest nation to Cape Adare)*, Taiwan, Demilitarized Zone (s. Ontario; not a nation), Philippines, Quebec, Malaysia, Midwest Republic, Prairie Federation, Manchuria, Colorado |
+| Primary | Australia, Sinian Federation, Japan, Indonesia, CSA |
+| Significant | Korea, United Kingdom, Appalachia, Cascadia, New England, Chile, New Zealand, Taiwan, Demilitarized Zone (s. Ontario; not a nation), Philippines, Quebec, Malaysia, Midwest Republic, Prairie Federation, Manchuria, Colorado |
 | Notable | Sonora, Araucanía-Patagonia, Mongolia, West Papua, Aceh, Northern Ireland, Hawaii, Alaska |
 
 *Source: `Official_Population_Census.md` Sections A–C.*
@@ -29,7 +29,7 @@
 
 | Tier | Nation | Share % | Census I Robots | Census I Humans | Census II Robots | Census II Humans |
 |------|--------|---------|------------------|------------------|-------------------|-------------------|
-| Primary | Australia *(founding wave)* | 11.82% | 90,458 | 89,589 | 74,620 | 51,341 |
+| Primary | Australia | 11.82% | 90,458 | 89,589 | 74,620 | 51,341 |
 | Primary | Sinian Federation | 11.62% | 88,953 | 88,098 | 73,379 | 50,486 |
 | Primary | Japan | 11.52% | 88,248 | 87,398 | 72,795 | 50,085 |
 | Primary | Indonesia | 9.78% | 74,880 | 74,159 | 61,770 | 42,500 |
@@ -40,7 +40,7 @@
 | Significant | Cascadia | 4.08% | 31,231 | 30,932 | 25,764 | 17,725 |
 | Significant | New England | 3.62% | 27,714 | 27,448 | 22,860 | 15,730 |
 | Significant | Chile | 3.08% | 23,633 | 23,405 | 19,495 | 13,414 |
-| Significant | New Zealand *(earliest founding wave — geographically closest nation to Cape Adare)* | 3.06% | 23,361 | 23,136 | 19,272 | 13,259 |
+| Significant | New Zealand | 3.06% | 23,361 | 23,136 | 19,272 | 13,259 |
 | Significant | Taiwan | 2.91% | 22,259 | 22,044 | 18,362 | 12,633 |
 | Significant | Demilitarized Zone (s. Ontario; not a nation) | 2.31% | 17,643 | 17,473 | 14,554 | 10,014 |
 | Significant | Philippines | 1.99% | 15,228 | 15,081 | 12,563 | 8,642 |
@@ -110,8 +110,8 @@ Earth.
 > plausibility failure is recorded here as a corrected error rather than quietly dropped.
 >
 > **What survives the correction, and is genuinely useful:** the 2.94 km² cape is now understood as **Cape
-> Adare's core**, making it — on current figures — **the smallest downtown core of any Tepenian city whose
-> terrain is documented**, against a very large population. That is a real and characterizing fact, and a far
+> Adare's core**, making it — on current figures — **a very small downtown core (2.94 km²)
+> given the documented terrain**, against a very large population. That is a real and characterizing fact, and a far
 > more interesting one than a density error.
 
 **Not settled here:** the exact figure is a worldbuilding decision, not an arithmetic one — **~20–40 km² is the
@@ -206,7 +206,7 @@ are internally consistent; they simply produce different cities.
 ***NCEI supplement (2026-09-04)** — monthly figures added from **NOAA NCEI Global Summary of the Month**, station **AYM00089879** (POSSESSION IS), computed across that station's full period of record. **Rec High / Rec Low:* extreme max/min actually observed in each calendar month (`EMXT`/`EMNT`). ⚠ *Where a published climate box already supplied records, those were kept — they cover longer periods than NCEI's holdings.**
 
 
-***Column provenance (checked 2026-09-04)** — **Avg Temp:* ⭐ **measured at a proxy** — the BAS READER 1991–2025 normal of the Possession Island AWS (`DR-70`, 2026-10-28); Cape Adare has no station of its own. **Avg High · Avg Low:* ⚠ still the earlier derived figures, not measured (the proxy has daily maxima and minima for 2025–26 only). **Avg Daylight:* computed from this city's own latitude *(reproducible)*. ⚠ **Temp Range · Avg Precip · Precip Probability:* **DERIVED, NOT MEASURED.** No published monthly normals for max/min temperature, precipitation or precipitation-days were obtainable for this station in the 2026-09-04 sweep. **Treat these three columns as design-grade estimates, not data.** *(19 of the 37 cities now carry measured values in these columns; this is one of the 18 that does not.)* ⚠ *(Added 2026-10-30: in nine months — Jan, Feb, Mar, May, Jun, Aug, Sep, Oct, Dec — the Avg Low column sits below the Rec Low column, and in August the Avg High sits above the Rec High. The record extremes come from two proxy stations (L148: Possession Is. for eleven months, Adare Hallett for July), while Avg High and Avg Low are the earlier derived figures, so the three columns cannot be read together as one record. No figures were re-derived; the columns are design-grade estimates, as the line above says.) **Monthly Precip column, labeled 2026-11-02 (`DR-86`):** ⚠ design-grade — the twelve months sum to 289 mm, while the annual text above says 200–350 mm, "falls ~350 mm"; both figures are kept and neither is the station's gauge.*
+***Column provenance (checked 2026-09-04)** — **Avg Temp:* ⭐ **measured at a proxy** — the BAS READER 1991–2025 normal of the Possession Island AWS (`DR-70`, 2026-10-28); Cape Adare has no station of its own. **Avg High · Avg Low:* ⚠ still the earlier derived figures, not measured (the proxy has daily maxima and minima for 2025–26 only). **Avg Daylight:* computed from this city's own latitude *(reproducible)*. ⚠ **Temp Range · Avg Precip · Precip Probability:* **DERIVED, NOT MEASURED.** No published monthly normals for max/min temperature, precipitation or precipitation-days were obtainable for this station in the 2026-09-04 sweep. **Treat these three columns as design-grade estimates, not data.*** ⚠ *(Added 2026-10-30: in nine months — Jan, Feb, Mar, May, Jun, Aug, Sep, Oct, Dec — the Avg Low column sits below the Rec Low column, and in August the Avg High sits above the Rec High. The record extremes come from two proxy stations (L148: Possession Is. for eleven months, Adare Hallett for July), while Avg High and Avg Low are the earlier derived figures, so the three columns cannot be read together as one record. No figures were re-derived; the columns are design-grade estimates, as the line above says.) **Monthly Precip column, labeled 2026-11-02 (`DR-86`):** ⚠ design-grade — the twelve months sum to 289 mm, while the annual text above says 200–350 mm, "falls ~350 mm"; both figures are kept and neither is the station's gauge.*
 
 
 #### Notable Weather Phenomena

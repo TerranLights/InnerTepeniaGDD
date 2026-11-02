@@ -17,9 +17,9 @@
 
 | Tier | Nations |
 |------|---------|
-| Primary | Korea, Australia *(founding wave)*, Sinian Federation, Indonesia, CSA, Magna Lombardia |
+| Primary | Korea *(founding wave)*, Australia, Sinian Federation, Indonesia, CSA, Magna Lombardia |
 | Significant | Japan, Germany, Appalachia, Cascadia, Meridia, Malaysia, New England, Taiwan, Chile |
-| Notable | Philippines, New Zealand *(earliest founding wave)*, Demilitarized Zone (s. Ontario; not a nation), Manchuria, Midwest Republic, Quebec, Colorado, Prairie Federation, Austro-Bavaria, Sicilia (autonomous zone within Meridia), Sonora, Araucanía-Patagonia, Mongolia, West Papua, Aceh, Hawaii, Alaska |
+| Notable | Philippines, New Zealand, Demilitarized Zone (s. Ontario; not a nation), Manchuria, Midwest Republic, Quebec, Colorado, Prairie Federation, Austro-Bavaria, Sicilia (autonomous zone within Meridia), Sonora, Araucanía-Patagonia, Mongolia, West Papua, Aceh, Hawaii, Alaska |
 
 *Source: `Official_Population_Census.md` Sections A–C.*
 
@@ -29,8 +29,8 @@
 
 | Tier | Nation | Share % | Census I Robots | Census I Humans | Census II Robots | Census II Humans |
 |------|--------|---------|------------------|------------------|-------------------|-------------------|
-| Primary | Korea | 12.37% | 83,572 | 81,461 | 58,713 | 61,672 |
-| Primary | Australia *(founding wave)* | 11.68% | 78,919 | 76,924 | 55,444 | 58,238 |
+| Primary | Korea *(founding wave)* | 12.37% | 83,572 | 81,461 | 58,713 | 61,672 |
+| Primary | Australia | 11.68% | 78,919 | 76,924 | 55,444 | 58,238 |
 | Primary | Sinian Federation | 10.57% | 71,404 | 69,599 | 50,164 | 52,692 |
 | Primary | Indonesia | 9.96% | 67,305 | 65,605 | 47,284 | 49,668 |
 | Primary | CSA | 6.95% | 46,998 | 45,812 | 33,018 | 34,682 |
@@ -45,7 +45,7 @@
 | Significant | Taiwan | 2.91% | 19,649 | 19,153 | 13,804 | 14,500 |
 | Significant | Chile | 2.66% | 17,921 | 17,469 | 12,590 | 13,225 |
 | Notable | Philippines | 1.67% | 11,293 | 11,008 | 7,934 | 8,335 |
-| Notable | New Zealand *(earliest founding wave)* | 1.59% | 10,762 | 10,492 | 7,561 | 7,942 |
+| Notable | New Zealand | 1.59% | 10,762 | 10,492 | 7,561 | 7,942 |
 | Notable | Demilitarized Zone (s. Ontario; not a nation) | 1.40% | 9,420 | 9,182 | 6,617 | 6,951 |
 | Notable | Manchuria | 1.33% | 9,022 | 8,794 | 6,338 | 6,657 |
 | Notable | Midwest Republic | 1.14% | 7,686 | 7,494 | 5,400 | 5,673 |
@@ -93,7 +93,7 @@ Approximately 8km north on the same bay *(corrected 2026-07-03 from ~10km — GP
 **Lost to sublimation and wind transport:** ~90 mm/yr
 
 > ##### ⚠ WIND vs COLD — which hazard actually defines this city
-> ⭐⭐ **WIND, decisively — the cold is NOT what defines this city.** At **-14.0 °C** **15 of the 37 Tepenian cities are colder than this one.** What sets it apart is **mean wind 10.0 m/s**: **up to a third of snowfall evaporates before it lands, and most of the remainder is entrained and carried past.** ⚠ **Whiteout here routinely occurs under a clear sky**, because the snow is *lifted*, not falling. **Retention ~38% — residents dig out from what arrived from upwind, not from what fell on them.**
+> ⭐⭐ **WIND, decisively — the cold is NOT what defines this city.** At **-14.0 °C** the cold is a backdrop. What sets it apart is **mean wind 10.0 m/s**: **up to a third of snowfall evaporates before it lands, and most of the remainder is entrained and carried past.** ⚠ **Whiteout here routinely occurs under a clear sky**, because the snow is *lifted*, not falling. **Retention ~38% — residents dig out from what arrived from upwind, not from what fell on them.**
 
 *Mechanism, published coefficients and the full 37-city comparison: `Reference/Real-World/Climate Data/Precipitation_Falls_vs_Lands.md`*
 **Polar night:** approximately May 6 → Aug 8 (~95 days)

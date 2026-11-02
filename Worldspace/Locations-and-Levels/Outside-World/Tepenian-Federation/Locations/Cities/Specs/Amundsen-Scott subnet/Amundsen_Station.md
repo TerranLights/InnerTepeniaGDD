@@ -113,7 +113,7 @@ The South Pole's position — equidistant from all six subnet regions, at the te
 **Lost to sublimation and wind transport:** ~0 mm/yr
 
 > ##### ⚠ WIND vs COLD — which hazard actually defines this city
-> ⭐ **COLD, overwhelmingly — and this city is one of the few where that is true.** At **-49.1 °C** it is the **#5 coldest of the 37**, but it sits *above* the katabatic regime rather than in it. **Retention is ~100%: what falls, stays.** ⛔ *There is no whiteout-under-clear-sky here — when visibility closes, something is actually falling.* **The hazard is temperature and altitude. Air movement is close to irrelevant.**
+> ⭐ **COLD, overwhelmingly — and this city is one of the few where that is true.** At **-49.1 °C** it is extremely cold, but it sits *above* the katabatic regime rather than in it. **Retention is ~100%: what falls, stays.** ⛔ *There is no whiteout-under-clear-sky here — when visibility closes, something is actually falling.* **The hazard is temperature and altitude. Air movement is close to irrelevant.**
 
 *Mechanism, published coefficients and the full 37-city comparison: `Reference/Real-World/Climate Data/Precipitation_Falls_vs_Lands.md`*
 **Polar night:** approximately Mar 24 → Sep 21 (~182 days — six months of continuous darkness; the South Pole has the longest polar night of any location on Earth)

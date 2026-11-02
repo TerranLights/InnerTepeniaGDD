@@ -73,9 +73,9 @@ Brainstormed purely from the city's own established nature, setting, and persona
 
 | Tier | Nations |
 |------|---------|
-| Primary | Korea |
+| Primary | Korea *(founding wave)* |
 | Significant | Japan, Germany, Sinian Federation |
-| Notable | Indonesia, Australia *(founding wave)*, Thailand, Estonia, Hungary, Lithuania, Taiwan, Malaysia, Idelsk-Uralia, Russia (core state), Vietnam, Philippines, Bulgaria, Austro-Bavaria, Latvia, South Africa, Siberia, Donska-Kubania, Manchuria, Künnarantaiga, Mongolia, East Turkestan, Dagestan, Patani, West Papua, Aceh, Chechnya, Kabardino-Balkaria, North Ossetia-Alania, Tibet, Finland, Ingushetia, Karachay-Cherkessia, Tuva |
+| Notable | Indonesia, Australia, Thailand, Estonia, Hungary, Lithuania, Taiwan, Malaysia, Idelsk-Uralia, Russia (core state), Vietnam, Philippines, Bulgaria, Austro-Bavaria, Latvia, South Africa, Siberia, Donska-Kubania, Manchuria, Künnarantaiga, Mongolia, East Turkestan, Dagestan, Patani, West Papua, Aceh, Chechnya, Kabardino-Balkaria, North Ossetia-Alania, Tibet, Finland, Ingushetia, Karachay-Cherkessia, Tuva |
 
 *Source: `Official_Population_Census.md` Sections A–C. Re-derived 2026-07-06, in three rounds — see Founding Population Re-Resolution, below.*
 
@@ -89,12 +89,12 @@ Brainstormed purely from the city's own established nature, setting, and persona
 
 | Tier | Nation | Share % | Census I Robots | Census I Humans | Census II Robots | Census II Humans |
 |------|--------|---------|------------------|------------------|-------------------|-------------------|
-| Primary | Korea | 33.49% | 169,772 | 160,558 | 138,357 | 134,689 |
+| Primary | Korea *(founding wave)* | 33.49% | 169,772 | 160,558 | 138,357 | 134,689 |
 | Significant | Japan | 9.42% | 47,755 | 45,163 | 38,920 | 37,889 |
 | Significant | Germany | 8.78% | 44,485 | 42,070 | 36,254 | 35,292 |
 | Significant | Sinian Federation | 5.46% | 27,699 | 26,194 | 22,574 | 21,976 |
 | Notable | Indonesia | 4.05% | 20,532 | 19,419 | 16,732 | 16,290 |
-| Notable | Australia *(founding wave)* | 3.42% | 17,318 | 16,379 | 14,115 | 13,738 |
+| Notable | Australia | 3.42% | 17,318 | 16,379 | 14,115 | 13,738 |
 | Notable | Thailand | 3.39% | 17,204 | 16,270 | 14,022 | 13,650 |
 | Notable | Estonia | 3.37% | 17,075 | 16,149 | 13,916 | 13,547 |
 | Notable | Hungary | 3.28% | 16,639 | 15,735 | 13,560 | 13,200 |
@@ -171,7 +171,7 @@ Prydz Bay is the Mirny subnet's densest multi-city zone *(corrected 2026-07-05 �
 **Lost to sublimation and wind transport:** ~82 mm/yr
 
 > ##### ⚠ WIND vs COLD — which hazard actually defines this city
-> ⚠ **WIND, on a small budget.** At **-10.0 °C** this is a comparatively mild site (**25 of the 37 are colder**) with **little precipitation to begin with (~149 mm)** — but persistent north-easterly katabatic flow removes over half of it. **Retention ~45%.** ⭐ *Exposed rock, not ice: what the wind moves here is dust and grit as well as snow, and the melt lakes stay well-mixed because of it.*
+> ⚠ **WIND, on a small budget.** At **-10.0 °C** this is a comparatively mild site with **little precipitation to begin with (~149 mm)** — but persistent north-easterly katabatic flow removes over half of it. **Retention ~45%.** ⭐ *Exposed rock, not ice: what the wind moves here is dust and grit as well as snow, and the melt lakes stay well-mixed because of it.*
 
 *Mechanism, published coefficients and the full 37-city comparison: `Reference/Real-World/Climate Data/Precipitation_Falls_vs_Lands.md`*
 

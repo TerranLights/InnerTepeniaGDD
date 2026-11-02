@@ -36,7 +36,7 @@
 | Tier | Nations |
 |------|---------|
 | Primary | United Kingdom, Spain, CSA, France, Magna Lombardia |
-| Significant | Appalachia, New England, Meridia, Argentina (without Patagonia) *(founding wave)*, Cascadia, Germany, Chile *(founding wave)* |
+| Significant | Appalachia, New England, Meridia, Argentina (without Patagonia), Cascadia, Germany, Chile |
 | Notable | Catalonia, México, Brazil, Midwest Republic, Colorado, Sicilia (autonomous zone within Meridia), Sonora, Araucanía-Patagonia, Basque Country, Austro-Bavaria, Northern Ireland, Yucatán, Amazonia, Hawaii, Alaska |
 
 *Source: `Official_Population_Census.md` Sections A–C.*
@@ -55,10 +55,10 @@
 | Significant | Appalachia | 6.15% | 12,111 | 11,667 | 7,838 | 7,312 |
 | Significant | New England | 5.03% | 9,905 | 9,542 | 6,410 | 5,980 |
 | Significant | Meridia | 4.97% | 9,800 | 9,442 | 6,343 | 5,917 |
-| Significant | Argentina (without Patagonia) *(founding wave)* | 4.75% | 9,350 | 9,008 | 6,051 | 5,645 |
+| Significant | Argentina (without Patagonia) | 4.75% | 9,350 | 9,008 | 6,051 | 5,645 |
 | Significant | Cascadia | 4.58% | 9,012 | 8,682 | 5,833 | 5,440 |
 | Significant | Germany | 4.22% | 8,305 | 8,001 | 5,374 | 5,015 |
-| Significant | Chile *(founding wave)* | 4.10% | 8,065 | 7,769 | 5,219 | 4,869 |
+| Significant | Chile | 4.10% | 8,065 | 7,769 | 5,219 | 4,869 |
 | Notable | Catalonia | 2.33% | 4,591 | 4,423 | 2,972 | 2,772 |
 | Notable | México | 2.14% | 4,210 | 4,056 | 2,725 | 2,542 |
 | Notable | Brazil | 2.13% | 4,204 | 4,050 | 2,722 | 2,539 |
@@ -94,7 +94,7 @@ database *(seasonal station; no continuous 30-year normal)*. **Proxy station: `K
 > **⚠ Corrected 2026-09-04 — the adjustment ran the wrong way.** The old text set mean annual temperature
 > at **≈ −3 °C** and instructed the reader to take Contrapunto's monthly figures *"adjusted approximately −1 °C
 > across all months."* **Both the anchor and the sign are wrong.** Contrapunto's normal is **−1.7 °C**, and the
-> Juan Carlos I station's own published annual mean is **−1.2 °C** — **warmer than Contrapunto, not colder.**
+> Juan Carlos I station's own published annual mean is **−1.2 °C** — **warmer than the proxy station's value, not colder.**
 > The proxy therefore needs **no adjustment at all**, and certainly not a downward one; **the old figure was
 > ~1.3–1.8 °C too cold.**
 >
@@ -120,7 +120,7 @@ database *(seasonal station; no continuous 30-year normal)*. **Proxy station: `K
 **Lost to sublimation and wind transport:** ~140 mm/yr
 
 > ##### ⚠ WIND vs COLD — which hazard actually defines this city
-> ⭐ **NEITHER, in the Antarctic sense — the hazard here is WATER.** At **-1.7 °C** this is among the mildest cities in the Federation (**33 of the 37 are colder**), and **retention ~80%** means precipitation behaves as it does in temperate latitudes. **Rain as well as snow; melt, saturation, freeze-thaw and slush** rather than scouring. *The engineering problem is drainage and damp, not drift.*
+> ⭐ **NEITHER, in the Antarctic sense — the hazard here is WATER.** At **-1.7 °C** this is a mild site, and **retention ~80%** means precipitation behaves as it does in temperate latitudes. **Rain as well as snow; melt, saturation, freeze-thaw and slush** rather than scouring. *The engineering problem is drainage and damp, not drift.*
 
 *Mechanism, published coefficients and the full 37-city comparison: `Reference/Real-World/Climate Data/Precipitation_Falls_vs_Lands.md`*
 **Polar night:** ⛔ **none** — at 62°39'S, roughly 435 km north of the Antarctic Circle

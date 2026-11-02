@@ -206,7 +206,7 @@ The Shackleton connection: the Endurance expedition (1914–1916) made its histo
 **Lost to sublimation and wind transport:** ~133 mm/yr
 
 > ##### ⚠ WIND vs COLD — which hazard actually defines this city
-> ⭐ **NEITHER, in the Antarctic sense — the hazard here is WATER.** At **-3.8 °C** this is among the mildest cities in the Federation (**32 of the 37 are colder**), and **retention ~80%** means precipitation behaves as it does in temperate latitudes. **Rain as well as snow; melt, saturation, freeze-thaw and slush** rather than scouring. *The engineering problem is drainage and damp, not drift.*
+> ⭐ **NEITHER, in the Antarctic sense — the hazard here is WATER.** At **-3.8 °C** this is a mild site, and **retention ~80%** means precipitation behaves as it does in temperate latitudes. **Rain as well as snow; melt, saturation, freeze-thaw and slush** rather than scouring. *The engineering problem is drainage and damp, not drift.*
 
 *Mechanism, published coefficients and the full 37-city comparison: `Reference/Real-World/Climate Data/Precipitation_Falls_vs_Lands.md`*
 **Prevailing winds:** ⭐ **dominant direction band 220°–320° — SW through W to NW, the prevailing westerlies.** Mean **~14 knots (~7.2 m/s)**; **gales on ~60 days a year**; extreme recorded gust **115 knots (213 km/h)**; the small-boat working limit of 25 knots *is often exceeded*. ⚠ **The direction is not uniform across the archipelago** — *the eastern end of the chain reads 300°–360° (N/NW) instead, because the islands themselves bend the flow.* **The most wind-exposed Palmer subnet city; the open-ocean position provides no shelter** *(researched 2026-09-05)*
@@ -289,7 +289,7 @@ Maritime biology and ecology research, fishing and maritime resources of the Sco
 ---
 
 ## Connection to Concordia
-The weakest Arcanet link of any Palmer subnet city. Concordia's knowledge of Signy is the thinnest of any Tepenian city with records — the distance, the pre-war signal weakness, the Long Night War disruption. If Signy has something important to say to Concordia, it has to work for it.
+A weak Arcanet link. Concordia's knowledge of Signy is thin — the distance, the pre-war signal weakness, the Long Night War disruption. If Signy has something important to say to Concordia, it has to work for it.
 
 ---
 

@@ -150,7 +150,7 @@ _https://legacy.bas.ac.uk/met/READER/_
 **Lost to sublimation and wind transport:** ~82 mm/yr
 
 > ##### ⚠ WIND vs COLD — which hazard actually defines this city
-> ⚠ **WIND, on a small budget.** At **-9.9 °C** this is a comparatively mild site (**26 of the 37 are colder**) with **little precipitation to begin with (~149 mm)** — but persistent north-easterly katabatic flow removes over half of it. **Retention ~45%.** ⭐ *Exposed rock, not ice: what the wind moves here is dust and grit as well as snow, and the melt lakes stay well-mixed because of it.*
+> ⚠ **WIND, on a small budget.** At **-9.9 °C** this is a comparatively mild site with **little precipitation to begin with (~149 mm)** — but persistent north-easterly katabatic flow removes over half of it. **Retention ~45%.** ⭐ *Exposed rock, not ice: what the wind moves here is dust and grit as well as snow, and the melt lakes stay well-mixed because of it.*
 
 *Mechanism, published coefficients and the full 37-city comparison: `Reference/Real-World/Climate Data/Precipitation_Falls_vs_Lands.md`*
 **Polar night:** approximately May 29 → July 16 (~49 days)

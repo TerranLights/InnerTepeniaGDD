@@ -17,8 +17,8 @@
 
 | Tier | Nations |
 |------|---------|
-| Primary | Brazil, United Kingdom, CSA, France |
-| Significant | Cascadia, Appalachia, Netherlands, Serbia, Croatia, Slovenia, New England, Demilitarized Zone (s. Ontario; not a nation), Poland, Germany, Chile, Quebec, Austro-Bavaria, Argentina (without Patagonia), Prairie Federation, South Africa *(founding wave)*, Czechia, Hungary, Midwest Republic, Amazonia, Colorado |
+| Primary | Brazil, United Kingdom *(founding wave)*, CSA, France |
+| Significant | Cascadia, Appalachia, Netherlands, Serbia, Croatia, Slovenia, New England, Demilitarized Zone (s. Ontario; not a nation), Poland, Germany, Chile, Quebec, Austro-Bavaria, Argentina (without Patagonia), Prairie Federation, South Africa, Czechia, Hungary, Midwest Republic, Amazonia, Colorado |
 | Notable | Slovakia, Sonora, Araucanía-Patagonia, Northern Ireland, Hawaii, Alaska |
 
 *Source: `Official_Population_Census.md` Sections A–C.*
@@ -30,7 +30,7 @@
 | Tier | Nation | Share % | Census I Robots | Census I Humans | Census II Robots | Census II Humans |
 |------|--------|---------|------------------|------------------|-------------------|-------------------|
 | Primary | Brazil | 10.32% | 77,864 | 74,511 | 60,547 | 53,396 |
-| Primary | United Kingdom | 10.07% | 76,031 | 72,756 | 59,121 | 52,139 |
+| Primary | United Kingdom *(founding wave)* | 10.07% | 76,031 | 72,756 | 59,121 | 52,139 |
 | Primary | CSA | 7.46% | 56,296 | 53,872 | 43,775 | 38,605 |
 | Primary | France | 7.34% | 55,351 | 52,966 | 43,040 | 37,957 |
 | Significant | Cascadia | 4.88% | 36,807 | 35,221 | 28,621 | 25,240 |
@@ -48,7 +48,7 @@
 | Significant | Austro-Bavaria | 2.38% | 17,975 | 17,202 | 13,978 | 12,327 |
 | Significant | Argentina (without Patagonia) | 2.15% | 16,202 | 15,504 | 12,598 | 11,110 |
 | Significant | Prairie Federation | 2.11% | 15,892 | 15,208 | 12,358 | 10,899 |
-| Significant | South Africa *(founding wave)* | 1.76% | 13,341 | 12,767 | 10,374 | 9,149 |
+| Significant | South Africa | 1.76% | 13,341 | 12,767 | 10,374 | 9,149 |
 | Significant | Czechia | 1.75% | 13,165 | 12,597 | 10,237 | 9,027 |
 | Significant | Hungary | 1.55% | 11,681 | 11,178 | 9,083 | 8,010 |
 | Significant | Midwest Republic | 1.49% | 11,237 | 10,752 | 8,738 | 7,706 |

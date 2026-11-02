@@ -17,9 +17,9 @@
 
 | Tier | Nations |
 |------|---------|
-| Primary | Sinian Federation |
+| Primary | Sinian Federation *(founding wave)* |
 | Significant | Korea, Japan, Germany |
-| Notable | Australia *(founding wave)*, Vietnam, Estonia, Lithuania, Thailand, Malaysia, Indonesia, Romania, Idelsk-Uralia, Russia (core state), Philippines, Latvia, Austro-Bavaria, New Zealand, Bulgaria, South Africa, Siberia, Donska-Kubania, Künnarantaiga, Hungary, Dagestan, Patani, West Papua, Chechnya, Aceh, Kabardino-Balkaria, North Ossetia-Alania, Finland, Ingushetia, Karachay-Cherkessia, Tuva |
+| Notable | Australia, Vietnam, Estonia, Lithuania, Thailand, Malaysia, Indonesia, Romania, Idelsk-Uralia, Russia (core state), Philippines, Latvia, Austro-Bavaria, New Zealand, Bulgaria, South Africa, Siberia, Donska-Kubania, Künnarantaiga, Hungary, Dagestan, Patani, West Papua, Chechnya, Aceh, Kabardino-Balkaria, North Ossetia-Alania, Finland, Ingushetia, Karachay-Cherkessia, Tuva |
 
 *Source: `Official_Population_Census.md` Sections A–C. Adjusted 2026-07-06, in three rounds — see Founding Population Adjustment, below.*
 
@@ -33,11 +33,11 @@
 
 | Tier | Nation | Share % | Census I Robots | Census I Humans | Census II Robots | Census II Humans |
 |------|--------|---------|------------------|------------------|-------------------|-------------------|
-| Primary | Sinian Federation | 35.83% | 213,003 | 208,145 | 155,725 | 171,355 |
+| Primary | Sinian Federation *(founding wave)* | 35.83% | 213,003 | 208,145 | 155,725 | 171,355 |
 | Significant | Korea | 9.70% | 57,664 | 56,351 | 42,158 | 46,389 |
 | Significant | Japan | 7.30% | 43,397 | 42,408 | 31,727 | 34,912 |
 | Significant | Germany | 7.10% | 42,235 | 41,271 | 30,877 | 33,977 |
-| Notable | Australia *(founding wave)* | 3.66% | 21,758 | 21,262 | 15,907 | 17,504 |
+| Notable | Australia | 3.66% | 21,758 | 21,262 | 15,907 | 17,504 |
 | Notable | Vietnam | 3.56% | 21,163 | 20,681 | 15,472 | 17,025 |
 | Notable | Estonia | 3.55% | 21,104 | 20,622 | 15,429 | 16,978 |
 | Notable | Lithuania | 3.14% | 18,667 | 18,241 | 13,647 | 15,017 |
@@ -110,7 +110,7 @@ The name Zhongshan (中山) honors Sun Yat-sen — the founding father of the Re
 **Lost to sublimation and wind transport:** ~82 mm/yr
 
 > ##### ⚠ WIND vs COLD — which hazard actually defines this city
-> ⚠ **WIND, on a small budget.** At **-9.9 °C** this is a comparatively mild site (**27 of the 37 are colder**) with **little precipitation to begin with (~149 mm)** — but persistent north-easterly katabatic flow removes over half of it. **Retention ~45%.** ⭐ *Exposed rock, not ice: what the wind moves here is dust and grit as well as snow, and the melt lakes stay well-mixed because of it.*
+> ⚠ **WIND, on a small budget.** At **-9.9 °C** this is a comparatively mild site with **little precipitation to begin with (~149 mm)** — but persistent north-easterly katabatic flow removes over half of it. **Retention ~45%.** ⭐ *Exposed rock, not ice: what the wind moves here is dust and grit as well as snow, and the melt lakes stay well-mixed because of it.*
 
 *Mechanism, published coefficients and the full 37-city comparison: `Reference/Real-World/Climate Data/Precipitation_Falls_vs_Lands.md`*
 **Polar night:** approximately May 29 → July 16 (~49 days)
