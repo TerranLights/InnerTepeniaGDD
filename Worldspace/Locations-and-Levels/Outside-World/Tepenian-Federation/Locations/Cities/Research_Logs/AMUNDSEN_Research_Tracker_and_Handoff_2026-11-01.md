@@ -2,9 +2,52 @@
 
 **Read this first in a fresh session.** It says what we are doing, what has been found, what is still open (with the exact searches to run), and the rules that bind the work. The new session has a refilled web-search quota; the old one hit the tool-side limit.
 
+> **As of 2026-11-01 evening this file is also the general handoff,** not only Amundsen's. **A new session starts at the next section ("START HERE").** The Byrd plan (section 0) and the Amundsen sections (1–8) below are finished work, kept as the record.
+
 ---
 
-## ⏭ CURRENT ITEM (written 2026-11-01, ~16:45): Byrd research, course of action
+## ⏭ START HERE (written 2026-11-01, ~21:30): the developer's list for 2026-11-02
+
+**Where things stand in one paragraph.** The real-world research for **Amundsen Station** (16 units) and **Byrd** (13 units) is complete; both places' next steps are developer-led (review digests, the Byrd–Amundsen pair check in 0.7, tiering the picks). The inputs the city runs (ULM, then CST and RWBEM) read are **in place for the 30 cities in the run**; what stands between them and their runs is the list below, which the developer set for 2026-11-02. Everything is committed and pushed (last commits `e368cc3b` and `4bc888d3`); the working tree was clean at handoff.
+
+### S.1 What was done on the evening of 2026-11-01 (after the Byrd plan below)
+- **Byrd research finished:** T3, T7, T8, T9 ran together (215 of 250 budgeted searches, none refused); all 13 units written. Results in the 0.8 second-session table; status and flags in 0.9. Commit `e368cc3b`.
+- **Ruling `DR-84`** (in `Universal_Location_Methodology/DEVELOPER_RULINGS_LOG.md`): a pending new name does **not** hold up a city's ULM, CST or RWBEM run or its data synthesis. Developer: *"The cities that need to be renamed, we can still do the ULM/CST/RWBEM runs and all of the data synthesis for those cities. The naming can come later. i.e, Dumont d'Urville, Zukelli, Dome Fuji, etc, all those cities can be done during the ULM runs."*
+- **Five old README spec links fixed** (Janbogo, Dome Fuji, Davis, Shirayuki, Sinheung). Every other file link in the 39 pass READMEs resolves, except files a run creates itself (each city's `00_Frame.md` … and `<City>_Research_Log.md`).
+- **Scott's record highs and lows: confirmed, no change.** NCEI's monthly summary for station `AYM00089664` (McMurdo Sound) matches all 24 spec values; the four −4.4 °C highs (Jun–Sep) are real whole-°F readings (24 °F). Ledger row SC-S04 updated.
+- **Byrd's monthly climate table: checked and it fails; nothing edited.** File `Research_Logs/Byrd_Climate_Table_Check_2026-11-01.md`. Against the station's measured 1957–1969 record (NCEI `AYW00068201`) and Ohio State's reconstruction (original version), which agree within 0.4 °C: annual mean right (−28.2 °C), monthly means off by up to 6 °C; day and night columns about twice the measured spread (and mislabeled "derived"); record highs 7 of 12 and lows 10 of 12 match (every miss is an older 1957–1960 record); station gauge about 58 mm a year against the spec's 30. Ohio State's corrected early-years series sits on a server that fails its certificate check; not worked around. Options A–C for the developer are in the file (recommendation: A, the station's measured 1957–1969 values).
+- **Megasheet-count wording** ("7 files" → "7 entries, 6 files and 1 subfolder", the wording already approved for Troll) applied in 23 Pre-Trip sheets and 18 `Phase_3` sheets; counts taken with `ls`, no megasheet file opened. Ledger rows BG-005, LZ-005, CA-005 updated.
+- **Population prep file:** `Cities/Population_Work_Prep_2026-11-02.md` (the developer's criteria quoted; China's share in every city; the 15 population items with where each sits).
+- **Weekly To-Do:** the 2026-11-02 list at the top; Byrd research marked done. Commit `4bc888d3`.
+
+### S.2 Where the city-run inputs stand (measured 2026-11-01, ~21:00–21:30)
+- **Input check** (`Universal_Location_Methodology/Tools/audit_city_inputs.py --scope all`, 40 tests per city): among the 30 run cities, the only gap is **Santa Luce's missing robot-culture sheet**. Outside the run: Relung Panen (census entry and per-nation tier table, held for the population work), Amundsen Station (one false positive: its picks entry sits under a double-name heading), Davis (finished pass).
+- **Sheet check** (`Tools/verify_city_sheets.py <key> --quiet` for every key in `build_pretrip.py`'s `CITY` table): **0 failures for all 32 cities still to run**, Amundsen Station included. Davis (12) and Mirny (4) fail on their older-format sheets; both are finished passes.
+- **Also in place:** climate data in every `Phase_3` sheet (2026-10-31); the hand walk-through of all 38 cities (2026-10-30 to 10-31); the master tracker (`Universal_Location_Methodology/MASTER_Process_Tracker.md`, RESUME HERE) still points at **Casey, Step −1, fresh session, 05:00–14:59, three Opus readers**.
+- **Out of the run by ruling:** Concordia (district method), Relung Panen, Amundsen Station (town design first).
+- **Not blocking any run:** Dome Fuji's name (waits for the language), Neumayer's motion (deferred), wording that waits for the megasheet rewrite.
+
+### S.3 The developer's list for 2026-11-02 (all of it stands between the cities and their runs)
+1. **All the population-related issues (15 items).** Start from `Cities/Population_Work_Prep_2026-11-02.md`. **First:** the Sinian Federation research (in the Interwar timelines "China" is the Sinian Federation and some territories fragmented away: which ones, and the successor populations). This is **real web research under LAW 0-R**, which is why this session hands over to a fresh search quota. **Then:** the developer's Russia-split rulings (research done 2026-10-29: `Research_Logs/Russia_Split_Proportions_RS1…RS4_*`), then the rebalance and the city items. **The criteria are the developer's own words** (quoted in the prep file and the Weekly To-Do; never paraphrase the direction, two drafts got it backwards before): rebalance where China clearly dominates; consider raising populations at about 5% **or more** where that makes the mix generally multicultural; populations at about 5% or less stay roughly where they are; **Zhongshan and Kunlun are exempt.** China today is first in 8 non-exempt cities and second in 8; which count as "clearly dominated" is the developer's call. **Follow-on:** every city whose figures change needs its spec table, census entry, composition-file section and datasheet rows (`Step_0`, `Step_-1`, `Phase_2`, `Phase_4`) brought into line, then the sheet check re-run; never rebuild an existing sheet with `--force`.
+2. **The sheets and topics that need the developer's decisions:** the Founding Register row in every Pre-Trip's Phase 2 table; the "data, not pointers" rows (75 `Phase_3` rows citing spec prose by range only, 30 `Step_3` research-pointer rows); monthly precipitation tables versus the annual text (7 cities logged: Santa Luce, Halley, Cape Adare, Dumont d'Urville, Mawson, Temirötkel, Rothera); comparison sentences inside the specs; "column" versus "row" wording in the method files; what the "(founding wave)" tag means (Rothera, Contrapunto, Pergamino, Puerto Abrigo, Palmer City); how to quote each city's own industry shares for the remaining cities (ledger SH-013); **Byrd's climate table** (options A–C) together with Byrd's precipitation question (now three figures: spec 30 mm, station gauge about 58 mm, ice accumulation 67–156 mm water equivalent).
+3. **Puerto Abrigo's "TBD" post office** (spec L219, L241 against `16` §14; ledger PA-S06). A culture claim: in hours.
+4. **The gateway labels for Zukelli and Scott** ("gateway claim not yet researched" on their Founding Register rows; start from `Research_Logs/Founding_Gateway_Research_B_Ross_Sea_2026-10-03.md` and its `B2` rerun). The Register is where founders come from: show any change to the developer before making it.
+5. **Santa Luce's robot-culture sheet** (`Local_Robot_Culture/Halley_Subnet/Santa_Luce.md` does not exist; Step 5 of its run reads it). Culture work: in hours.
+
+Paths in this list are relative to `Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/` (for `Cities/…`) or to `Worldspace/Locations-and-Levels/` (for `Universal_Location_Methodology/…`); ledger IDs are rows of `Universal_Location_Methodology/Manual_Input_Audit_2026-10-29/FIX_LEDGER.md`.
+
+### S.4 An option for the developer: cities the population work does not touch
+Nine cities have **neither China nor Russia** in their nation tables and **none of the 15 population items**: **Belgrano, Halley, Neumayer, Sanay, Utstein, Ariun Nuur, Rothera, Signy, Marambio** (Marambio's spec L58 quotes Esperanza's old population, but its own mix is unaffected). They could run before the population work is finished. That would break the run's geographic order (Mirny subnet first, **Casey** first), and Casey **is** touched (China 19.06% against the USA's 21.96%; its `16` §21 worker counts never recomputed). Keeping the order means the population work comes first. The developer's call.
+
+### S.5 Rules for the next session (in addition to section 7)
+- **Hours:** worldbuilding (ULM, CST, RWBEM, district, character and culture work) only 05:00–14:59, wrap-up from 13:59, unless the developer waives it for a stated task. The 2026-11-01 waivers covered the Byrd research only. The Sinian Federation research was filed on 2026-10-31 as data research with its time set by the developer; ask if unsure. Items 3 and 5 above are culture work.
+- **Web search:** 1,000 calls per session, shared by every subagent; at most four research agents at once, each told an explicit budget; never work around a refused search or a failed certificate check. Agents use only WebSearch and WebFetch.
+- **Commit and push only when the developer asks.** Create freely; ask before changing existing files. American English everywhere (only "judgement" is kept). Plain language with the developer.
+- **Byrd and Amundsen** still owe the developer-led steps: canon inventory and framing (Byrd), review digests, the pair check (0.7), tiering; plus the nine Byrd flags in 0.8 and 0.9 and the Amundsen items in section 5.
+
+---
+
+## ✅ PREVIOUS ITEM (written 2026-11-01, ~16:45; COMPLETE, all 13 units written): Byrd research, course of action
 
 **The Amundsen Station research is complete** (sections 1–8 below; its next steps are developer-led, section 5). **The current item is Byrd.** Developer, 2026-11-01: *"do this same degree and depth of research for the city of Byrd, since Byrd will need to carry an entire DLC on its own."* Written here first so that if the web-search quota runs out mid-run, the next session resumes from this plan and the unit files.
 
