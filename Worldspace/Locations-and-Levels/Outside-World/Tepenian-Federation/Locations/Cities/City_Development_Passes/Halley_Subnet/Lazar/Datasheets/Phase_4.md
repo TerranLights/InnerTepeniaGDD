@@ -9,7 +9,7 @@
 
 | Category | Value | Citation |
 |---|---|---|
-| `09_Per_City_Baseline_Run.md` §2 — the city's own row (the `#` rank column is not carried: no peer comparison) | City: Lazar · Subnet: Halley · D: 1.25 · Humans: 1,185,375 · Residents: 2,410,409 · Required: 637,974 · Workforce: 1,817,722 · % WF: 35.5% *[`09` L1: only Humans, Residents and Workforce were refreshed on 2026-10-28; its Required and % WF columns remain the superseded old-B1 model]* | `09_Per_City_Baseline_Run.md` L52, L74 |
+| `09_Per_City_Baseline_Run.md` §2 — the city's own row (the `#` rank column is not carried: no peer comparison) | City: Lazar · Subnet: Halley · D: 1.25 · Humans: 1,185,375 · Residents: 2,410,409 · Required: 645,690 · Workforce: 1,817,722 · % WF: 35.5% *[`09` L1: only Humans, Residents and Workforce were refreshed on 2026-10-28; its Required and % WF columns remain the superseded old-B1 model]* | `09_Per_City_Baseline_Run.md` L52, L74 |
 | `11_Caloric_Rebuild_and_Livestock_Tier.md` — the city's own row | City: Lazar · D: 1.25 · OLD: 35.5% · NEW: 41.0% | `11_Caloric_Rebuild_and_Livestock_Tier.md` L326, L331 |
 | `16` Half B — the city's own row (cross-ref `Step_1_and_2.md`) | City: Lazar · Subnet: Halley · D: 1.25 · Workforce: 1,817,722 · base%: 41.0% · MAND%: 0.0% · FREE%: 59.0% · src: – *(on the flat ABCC working value; counts re-run when per-city ABCC values are set — `16` L1287–L1304)* | `16_Per_City_Three_Tier_Run.md` L284; ABCC note L1287–L1304 |
 | `National_Medical_and_Care_Institutes.md` — lines naming the city | **Casey** *(subnet hubs)*, **Lazar** *(the largest city, and the Halley subnet's center of population)*. | `National_Medical_and_Care_Institutes.md` L225 |

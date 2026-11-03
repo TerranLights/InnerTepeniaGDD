@@ -1,4 +1,4 @@
-# Per-City Baseline Run — All 38 Cities — 2026-09-01 *(2026-10-28, `DR-68`: refreshed the Humans, Residents, Required, Workforce and % WF cells of section 2 for the cities whose population changed (the Required and % WF columns remain the superseded old-B1 model), from the adopted Santa Luce population scenario; rows for cities whose population did not change are untouched. The per-city determinations further down and the national food balance in files 04 and 13 were NOT recomputed.)*
+# Per-City Baseline Run — All 38 Cities — 2026-09-01 *(2026-10-28, `DR-68`: refreshed the Humans, Residents, Required, Workforce and % WF cells of section 2 for the cities whose population changed (the Required and % WF columns remain the superseded old-B1 model), from the adopted Santa Luce population scenario; rows for cities whose population did not change are untouched. The per-city determinations further down and the national food balance in files 04 and 13 were NOT recomputed.)* *(2026-11-03, `DR-96` and `DR-97`: the Required and % WF cells were refreshed again for 25 rows on the current populations, and the robot-keyed term B3 + B4 defined in section 3.6 now also sits in `16`'s formula, so the two files agree on the definition of the baseline's robot part. `16`, `18` and the national balance in `19` were recomputed; `04`, `13` and `17` carry pointers.)*
 
 **19 of 22 industries. Robot-keyed three (B3 maintenance, B4 coolant/siligel, C5-robot decommissioning)
 excluded — deferred pending the duty-cycle ruling.**
@@ -195,25 +195,25 @@ deliberately not a standing industry.)*
 
 | City | §2 *(19 ind.)* | **COMPLETE** *(21 ind.)* | Δ |
 |---|--:|--:|--:|
-| **Neumayer** | 50.4% | **51.4%** | +1.0 |
-| **Halley** | 50.3% | **51.3%** | +1.0 |
-| **Denison** | 44.4% | **45.5%** | +1.1 |
-| **Vostok** | 41.5% | **42.8%** | **+1.3** |
-| **Concordia** | 40.8% | **41.8%** | +1.0 |
-| **Byrd · Dumont d'Urville** | 40.7 · 40.6% | **41.7%** | +1.0 |
-| **{{Abowasa}}** | 38.8% | **39.8%** | +1.0 |
-| **Sanay · Troll** | 38.0% | **39.1 · 39.0%** | +1.1 |
-| **Belgrano** | 37.9% | **38.9%** | +1.0 |
-| **Princess Elisabeth** | 37.4% | **38.5%** | +1.1 |
-| *the coastal cluster* | 35.2–35.8% | **36.3–36.9%** | +1.1 |
+| **Neumayer** | 50.4% | **51.5%** | +1.1 |
+| **Halley** | 50.3% | **51.4%** | +1.1 |
+| **Denison** | 44.5% | **45.6%** | +1.1 |
+| **Vostok** | 42.6% | **43.9%** | +1.3 |
+| **Concordia** | 40.8% | **41.9%** | +1.1 |
+| **Byrd · Dumont d'Urville** | 40.8 · 40.6% | **41.9 · 41.7%** | +1.1 |
+| **{{Abowasa}}** | 39.0% | **40.0%** | +1.0 |
+| **Sanay · Troll** | 38.1 · 38.0% | **39.2 · 39.1%** | +1.1 |
+| **Belgrano** | 37.9% | **39.0%** | +1.1 |
+| **Princess Elisabeth** | 37.5% | **38.6%** | +1.1 |
+| *the coastal cluster* | 35.3–35.9% | **36.4–36.9%** | +1.0–1.1 |
 | **Esperanza** | 34.6% | **35.6%** | +1.0 |
-| **Sejong · Juan Carlos** | 34.3% | **35.4 · 35.3%** | +1.1 |
+| **Sejong · Juan Carlos** | 34.3 · 34.3% | **35.4 · 35.3%** | +1.0–1.1 |
 | **Palmer City · Rothera** | 34.1 · 34.0% | **35.2 · 35.1%** | +1.1 |
 | **Casey** | 33.8% | **34.9%** | +1.1 |
-| **Kunlun** | 28.6% | **30.2%** | **+1.6** |
-| **Dome Fuji** | 27.3% | **28.9%** | **+1.6** |
+| **Kunlun** | 28.6% | **30.2%** | +1.6 |
+| **Dome Fuji** | 27.3% | **28.9%** | +1.6 |
 
-**New range: 28.9% → 51.4%.**
+**New range: 28.9% → 51.5%.** *(Table values recomputed 2026-11-03 from the current §2 cells plus robots × 15.75 ÷ 1,000; the 2026-09-01 version read 28.9% → 51.4%. Amundsen Station is not in this table; it computes to 35.1%. `16` now carries the same robot term in its formula (`DR-96`), so the two files agree on the term; they still differ on B1, which is 53 in this file's §2 and 120.7 in `16`, so the two baselines are not the same quantity.)*
 
 ## What the completion changes — and what it does not
 

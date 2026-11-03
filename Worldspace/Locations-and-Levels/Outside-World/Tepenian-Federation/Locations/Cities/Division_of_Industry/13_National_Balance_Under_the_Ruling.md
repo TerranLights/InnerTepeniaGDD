@@ -1,4 +1,4 @@
-# The National Balance Under the 10/90 Ruling — and the Framing Error It Exposed *(2026-10-28: refreshed for the new populations in `17_National_Balance_Refresh_2026-10-28.md`; 2026-11-02: refreshed again for Esperanza's relocation in `19_National_Balance_Refresh_2026-11-02.md`; the figures below are the 2026-09 originals.)*
+# The National Balance Under the 10/90 Ruling — and the Framing Error It Exposed *(2026-10-28: refreshed for the new populations in `17_National_Balance_Refresh_2026-10-28.md`; 2026-11-02: refreshed again for Esperanza's relocation in `19_National_Balance_Refresh_2026-11-02.md` (2026-11-03: its section 5 re-runs the balance for the robot term); the figures below are the 2026-09 originals.)*
 
 > **2026-09-01.** `[CGRM 2026-09-01 · Path 2 · derivation]`
 >

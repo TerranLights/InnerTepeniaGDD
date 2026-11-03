@@ -1,4 +1,4 @@
-# Per-City Three-Tier Run — THE CALCULATION SHEET *(2026-10-28, `DR-68`: refreshed the Workforce, base%, MAND% and FREE% cells of Half B for the cities whose population changed (mandate shares held; D unchanged), from the adopted Santa Luce population scenario; rows for cities whose population did not change are untouched. The per-city determinations further down and the national food balance in files 04 and 13 were NOT recomputed.)*
+# Per-City Three-Tier Run — THE CALCULATION SHEET *(2026-10-28, `DR-68`: refreshed the Workforce, base%, MAND% and FREE% cells of Half B for the cities whose population changed (mandate shares held; D unchanged), from the adopted Santa Luce population scenario; rows for cities whose population did not change are untouched. The per-city determinations further down and the national food balance in files 04 and 13 were NOT recomputed.)* *(2026-11-03, `DR-96`: the robot-keyed baseline term (B3 maintenance 12.5 + B4 sustenance 3.25 = 15.75 per 1,000 robots, as `09` §3.6 defines it) is now part of the formula and of every count and percentage below, in Half B and in all 35 city sections; shares held; Abowasa and Princess Elisabeth's hypothetical row recounted on the current population. Before-and-after table: `Research_Logs/Robot_Term_Added_To_16_Before_After_2026-11-03.md`. Narrative sentences that quote older percentages (for example the register rows, the Half B discussion and ranges) were not rewritten.)*
 
 > **Opened 2026-09-02. Results not yet computed — this file currently holds the INPUT
 > REGISTER and the procedure.**
@@ -125,8 +125,8 @@ Outside-World/Tepenian-Federation/Locations/Cities/Division_of_Industry/` — **
 workforce          = robots + 0.5 × humans
 
 baseline           = humans   × (120.7·f·D + 85.6)/1000
-                   + residents × (64·D + 113.2)/1000
-                     where f = 0.10 for the seven forced importers, else 1.00
+                   + residents × (64·D + 113.2)/1000     + robots × 15.75/1000
+                     where f = 0.10 for the forced importers (the seven named above, and Belgrano), else 1.00; robots = residents − humans; 15.75 = B3 12.5 + B4 3.25 per 1,000 robots, added 2026-11-03 (`DR-96`) as `09` §3.6 defines it
 
 distinctive        = workforce − baseline
 mandated           = distinctive × Σ(national provider sector shares)
@@ -246,72 +246,72 @@ than as a class.**
 
 | City | Subnet | D | Workforce | base% | MAND% | **FREE%** | src |
 |---|---|--:|--:|--:|--:|--:|:--|
-| **Amundsen Station** | Amundsen | 2.50 | 6,296 | 31.8% | **61.4%** | **6.8%** | C |
-| **Fort McMurdo** | Janbogo | 1.25 | 334,215 | 41.5% | 35.1% | **23.4%** | C |
-| **Marambio** | Palmer | 1.25 | 428,548 | 41.3% | 35.2% | **23.5%** | C |
-| **Belgrano** | Halley | 1.43 | 844,513 | 44.3% | 30.6% | **25.1%** | C |
-| **Sayowa** | Mawson | 1.43 | 178,698 | 39.3% | 33.4% | 27.3% | C |
-| **Sanay** | Halley | 1.43 | 386,466 | 44.5% | 27.8% | 27.8% | C |
-| **Byrd** | Byrd | 1.67 | 322,340 | 36.2% | 35.1% | 28.7% | C |
-| **Janbogo** | Janbogo | 1.25 | 1,025,824 | 41.1% | 29.4% | 29.4% | C |
-| Sinheung | Mirny | 1.25 | 767,363 | 40.7% | 26.7% | 32.6% | C |
-| **Relung Panen** | Mirny | 1.43 | 753,964 | 44.0% | 21.8% | 34.2% | R |
-| Denison | Janbogo | **2.00** | 722,541 | **53.2%** | 11.7% | 35.1% | C |
-| Esperanza | Palmer | 1.11 | 894,835 | 39.7% | 24.1% | 36.2% | C |
-| Rothera | Palmer | 1.15 | 240,569 | 39.0% | 24.4% | 36.6% | C |
-| Davis | Mirny | 1.25 | 915,098 | 40.8% | 20.7% | 38.5% | C |
-| Troll | Halley | 1.43 | 755,175 | 44.4% | 16.7% | 38.9% | C |
-| Signy | Palmer | 1.25 | 142,127 | 41.1% | 17.7% | 41.2% | C |
-| Princess Elisabeth | Halley | 1.43 | 899,619 | 43.7% | 14.1% | 42.2% | H |
-| Juan Carlos | Palmer | 1.15 | 291,821 | 39.3% | 18.2% | 42.5% | C |
-| Casey | Mirny | 1.11 | 1,167,418 | 38.7% | 18.4% | 42.9% | C |
-| Zukelli | Janbogo | 1.25 | 983,443 | 41.5% | 14.6% | 43.9% | C |
-| Cape Adare | Janbogo | 1.25 | 1,165,257 | 41.4% | 14.7% | 44.0% | C |
-| **Concordia** | Janbogo | 1.67 | 802,132 | 48.3% | 7.8% | **44.0%** | H |
-| Mawson | Mawson | 1.25 | 1,130,453 | 41.0% | 14.8% | 44.3% | C |
-| Sejong | Palmer | 1.15 | 486,488 | 39.4% | 15.2% | 45.5% | H |
-| Neumayer | Halley | 2.50 | 983,798 | 43.7% | 9.4% | 46.9% | D |
-| Halley | Halley | 2.50 | 1,136,057 | 43.7% | 9.4% | 47.0% | D |
-| Zhongshan | Mirny | 1.25 | 905,680 | 41.2% | 11.8% | 47.1% | H |
-| Mirny | Mirny | 1.25 | 1,057,064 | 41.1% | 11.8% | 47.1% | C |
-| Shirayuki | Mirny | 1.25 | 839,655 | 40.9% | 11.8% | 47.3% | C |
-| {{Abowasa}} | Halley | 1.54 | 351,435 | 45.6% | 5.4% | 49.0% | H |
-| Dumont d'Urville | Janbogo | 1.67 | 341,560 *(pre-trim; the live workforce is 307,404)* | 48.0% | **0.0%** | 52.0% | – |
-| Scott | Janbogo | 1.25 | 291,102 | 41.0% | 2.9% | 56.0% | H |
-| Port Lockroy | Palmer | 1.25 | 701 | 41.0% | 2.9% | 56.0% | H |
-| Vostok | Mirny | 2.50 | 363,036 | 37.8% | 5.8% | 56.5% | D |
-| Dome Fuji | Mawson | 2.50 | 80,120 | 27.3% | 14.5% | 58.1% | H |
-| **Lazar** | Halley | 1.25 | **1,817,722** | 41.0% | **0.0% ⚠** | **59.0%** | – |
-| Palmer City | Palmer | 1.11 | 249,852 | 39.1% | **0.0%** | 60.9% | – |
-| **Kunlun** | Mirny | 2.70 | 148,497 | 28.6% | **0.0%** | **71.4%** | – |
-| **NATIONAL** | | | **24,214,838** | **42.0%** | **15.2%** | **42.8%** | |
+| **Amundsen Station** | Amundsen | 2.50 | 6,296 | 33.2% | **60.1%** | **6.7%** | C |
+| **Fort McMurdo** | Janbogo | 1.25 | 334,215 | 42.6% | 34.4% | **23.0%** | C |
+| **Marambio** | Palmer | 1.25 | 428,548 | 42.4% | 34.5% | **23.1%** | C |
+| **Belgrano** | Halley | 1.43 | 844,513 | 45.4% | 30.0% | **24.6%** | C |
+| **Sayowa** | Mawson | 1.43 | 178,698 | 40.5% | 32.7% | 26.8% | C |
+| **Sanay** | Halley | 1.43 | 386,466 | 45.5% | 27.3% | 27.2% | C |
+| **Byrd** | Byrd | 1.67 | 322,340 | 37.3% | 34.5% | 28.2% | C |
+| **Janbogo** | Janbogo | 1.25 | 1,025,824 | 42.2% | 28.9% | 28.9% | C |
+| Sinheung | Mirny | 1.25 | 767,363 | 41.8% | 26.2% | 32.0% | C |
+| **Relung Panen** | Mirny | 1.43 | 753,964 | 45.1% | 21.4% | 33.5% | R |
+| Denison | Janbogo | **2.00** | 722,541 | **54.3%** | 11.4% | 34.3% | C |
+| Esperanza | Palmer | 1.11 | 894,835 | 40.7% | 23.7% | 35.6% | C |
+| Rothera | Palmer | 1.15 | 240,569 | 40.1% | 24.0% | 35.9% | C |
+| Davis | Mirny | 1.25 | 915,098 | 41.9% | 20.3% | 37.8% | C |
+| Troll | Halley | 1.43 | 755,175 | 45.5% | 16.4% | 38.1% | C |
+| Signy | Palmer | 1.25 | 142,127 | 42.2% | 17.4% | 40.4% | C |
+| Princess Elisabeth | Halley | 1.43 | 899,619 | 44.8% | 13.8% | 41.4% | H |
+| Juan Carlos | Palmer | 1.15 | 291,821 | 40.4% | 17.9% | 41.7% | C |
+| Casey | Mirny | 1.11 | 1,167,418 | 39.8% | 18.1% | 42.1% | C |
+| Zukelli | Janbogo | 1.25 | 983,443 | 42.6% | 14.3% | 43.1% | C |
+| Cape Adare | Janbogo | 1.25 | 1,165,257 | 42.5% | 14.4% | 43.1% | C |
+| **Concordia** | Janbogo | 1.67 | 802,132 | 49.4% | 7.6% | **43.0%** | H |
+| Mawson | Mawson | 1.25 | 1,130,453 | 42.1% | 14.5% | 43.4% | C |
+| Sejong | Palmer | 1.15 | 486,488 | 40.5% | 14.9% | 44.6% | H |
+| Neumayer | Halley | 2.50 | 983,798 | 44.8% | 9.2% | 46.0% | D |
+| Halley | Halley | 2.50 | 1,136,057 | 44.8% | 9.2% | 46.0% | D |
+| Zhongshan | Mirny | 1.25 | 905,680 | 42.3% | 11.6% | 46.1% | H |
+| Mirny | Mirny | 1.25 | 1,057,064 | 42.2% | 11.6% | 46.2% | C |
+| Shirayuki | Mirny | 1.25 | 839,655 | 42.0% | 11.6% | 46.4% | C |
+| {{Abowasa}} | Halley | 1.54 | 351,435 | 46.8% | 5.3% | 47.9% | H |
+| Dumont d'Urville | Janbogo | 1.67 | 341,560 *(pre-trim; the live workforce is 307,404)* | 49.1% | **0.0%** | 50.9% | – |
+| Scott | Janbogo | 1.25 | 291,102 | 42.1% | 2.8% | 55.1% | H |
+| Port Lockroy | Palmer | 1.25 | 701 | 42.1% | 2.8% | 55.1% | H |
+| Vostok | Mirny | 2.50 | 363,036 | 39.0% | 5.7% | 55.3% | D |
+| Dome Fuji | Mawson | 2.50 | 80,120 | 28.9% | 14.2% | 56.9% | H |
+| **Lazar** | Halley | 1.25 | **1,817,722** | 42.1% | **0.0% ⚠** | **57.9%** | – |
+| Palmer City | Palmer | 1.11 | 249,852 | 40.2% | **0.0%** | 59.8% | – |
+| **Kunlun** | Mirny | 2.70 | 148,497 | 30.2% | **0.0%** | **69.8%** | – |
+| **NATIONAL** | | | **24,211,482** | **43.1%** | **15.3%** | **41.5%** | |
 
-> **Relung Panen row added 2026-10-29** (it was excluded here as `{{Bunger Hills City}}`, deferred). `R` = a developer-ruled determination, not a Half A estimate: the food role (`DR-71`), the difficulty (`DR-72`) and the other mandated roles (`DR-75`) are rulings; the working is in `18_Relung_Panen_Determination_2026-10-29.md`. *(Updated 2026-11-03, `DR-96`: the cold-chain share is set at 1% of the distinctive tier; the asterisk no longer applies.)* The mandated figure is a share of the whole workforce: 39% of the distinctive tier (`DR-73`, convention B), 21.8%. **The NATIONAL row above and the "37-city" count in this heading were not recomputed with this row.**
+> **Relung Panen row added 2026-10-29** (it was excluded here as `{{Bunger Hills City}}`, deferred). `R` = a developer-ruled determination, not a Half A estimate: the food role (`DR-71`), the difficulty (`DR-72`) and the other mandated roles (`DR-75`) are rulings; the working is in `18_Relung_Panen_Determination_2026-10-29.md`. *(Updated 2026-11-03, `DR-96`: the cold-chain share is set at 1% of the distinctive tier; the asterisk no longer applies.)* The mandated figure is a share of the whole workforce: 39% of the distinctive tier (`DR-73`, convention B), 21.8%. **The NATIONAL row above and the "37-city" count in this heading were not recomputed with this row.** ***Robot term, 2026-11-03 (`DR-96`):** each row's base% now includes robots × 15.75 ÷ 1,000 (percentage points added = that number of workers ÷ the row's workforce); MAND% and FREE% follow with the mandate shares held (Relung Panen and Abowasa rows are set to their recounted section values). Rows keep their 2026-09-02 order, so the 'least free first' sorting no longer holds exactly. The NATIONAL row and the subnet table below are the 2026-09-02 figures and were NOT recomputed (they did not reproduce from the rows even before this change); workforce-weighted from the rows now, the base / mandated / free shares are 43.1% / 15.3% / 41.5% (DERIVED, on the rows' mixed provenance; the same weighting of the rows before the change gave 42.0% / 15.6% / 42.4%).*
 
 ## What the run says
 
-**⚠ The national free tier is 42.8%, not the 46.5% quoted before Half A** — because Half
+**⚠ The national free tier is 41.5% *(42.8% when written; recomputed 2026-11-03 after the robot term and the population recounts, `DR-97`)*, not the 46.5% quoted before Half A** — because Half
 A added mandates to ten more cities. **The character budget has now fallen twice: 59.4%
-→ 46.5% → 42.8%.** *(`09` §3.5's original figure was effectively 62.5%.)*
+→ 46.5% → 42.8%** *(→ 41.5% on 2026-11-03)*.** *(`09` §3.5's original figure was effectively 62.5%.)* *(2026-11-03: the NATIONAL row and the subnet table are workforce-weighted averages of the Half B rows above, DERIVED; one-decimal rounding can make a row sum to 99.9.)*
 
 ### ⭐⭐ 1. The subnet ordering INVERTS `09` §3.5
 
 | Subnet | Workforce | base | mand | **FREE** |
 |---|--:|--:|--:|--:|
-| **Halley** | 7,533,054 | 43.3% | 10.9% | **45.8%** |
-| Mirny | 6,135,002 | 40.1% | 15.7% | 44.2% |
-| Mawson | 1,325,638 | 40.2% | 17.3% | 42.6% |
-| Janbogo | 5,593,850 | 44.4% | 15.6% | 40.0% |
-| **Palmer** | 3,337,241 | 39.8% | **21.0%** | **39.1%** |
-| Byrd | 283,756 | 36.2% | 35.1% | 28.7% |
-| *Amundsen* | *6,296* | *31.8%* | *61.4%* | *6.8%* |
+| **Halley** | 7,174,785 | 44.4% | 11.4% | **44.2%** |
+| Mirny | 6,917,775 | 41.6% | 16.0% | 42.4% |
+| Mawson | 1,389,271 | 41.1% | 16.8% | 42.0% |
+| Janbogo | 5,666,074 | 45.3% | 15.4% | 39.3% |
+| **Palmer** | 2,734,941 | 40.9% | **20.7%** | **38.4%** |
+| Byrd | 322,340 | 37.3% | 34.5% | 28.2% |
+| *Amundsen* | *6,296* | *33.2%* | *60.1%* | *6.7%* |
 
 > ## **`09` §3.5 held that the Peninsula was *"simultaneously the easiest place to live
 > AND where the food comes from,"* while *"the hardest-working cities have the least to
 > show for it."***
 >
-> ## ⛔ **THE PALMER SUBNET NOW HAS THE LOWEST FREE TIER IN THE COUNTRY — 39.1% — and
-> the HALLEY SUBNET THE HIGHEST at 45.8%.** **The resentment engine has reversed
+> ## ⛔ **THE PALMER SUBNET NOW HAS THE LOWEST FREE TIER IN THE COUNTRY — 38.4% *(39.1% when written)* — and
+> the HALLEY SUBNET THE HIGHEST at 44.2% *(45.8%)*.** **The resentment engine has reversed
 > direction.**
 
 **Why:** Palmer is dense with mandated roles — Esperanza *(food + the Institute)*,
@@ -320,22 +320,22 @@ Marambio *(60% logistics)*, Rothera *(40% industrial)*, Signy and Juan Carlos
 in Tepenia and the most heavily committed.** *"Easiest to live"* and *"most spoken for"*
 turn out to be the same fact seen from two sides.
 
-**⚠ SENSITIVE TO LAZAR.** Lazar is 26% of the Halley subnet and carries a **0% mandate
-only because it is unassessed.** **At a 20% mandate the Halley subnet falls to ~42.8%
+**⚠ SENSITIVE TO LAZAR.** Lazar is 25% of the Halley subnet and carries a **0% mandate
+only because it is unassessed.** **At a 20% mandate the Halley subnet falls to ~41.2% *(~42.8% on the 2026-09 figures; DERIVED 2026-11-03: 25.3% × 11.6 points of mandate off 44.2%)*
 and the inversion narrows to near-parity.** **Do not build a faction grievance on this
 ordering until Lazar is ruled.**
 
 ### 2. The least-free cities are the useful ones — confirmed, and sharper
 
-**Fort McMurdo 23.4% · Marambio 23.5% · Belgrano 25.1% · Sayowa 27.3% · Sanay 27.8% ·
-Byrd 28.7% · Janbogo 29.4%.** **Every one is a port, an airfield or a factory.**
+**Fort McMurdo 23.0% · Marambio 23.1% · Belgrano 24.6% · Sayowa 26.8% · Sanay 27.2% ·
+Byrd 28.2% · Janbogo 28.9%** *(2026-11-03, after the robot term; the 2026-09 figures were 23.4 · 23.5 · 25.1 · 27.3 · 27.8 · 28.7 · 29.4)*.** **Every one is a port, an airfield or a factory.**
 
 ### 3. Range
 
-**6.8% – 71.4%, a 64.6-point spread.** ⚠ **But three of those are special cases:**
+**6.7% – 69.8%, a 63.1-point spread** *(2026-11-03; was 6.8% – 71.4%, 64.6 points)*. ⚠ **But three of those are special cases:**
 Amundsen Station is *"not a city"* per `04`, and Kunlun and Dome Fuji have **zero
-humans.** **Excluding all three, the real-city range is 23.4% (Fort McMurdo) to 60.9%
-(Palmer City) — 37.5 points.**
+humans.** **Excluding all three, the real-city range is 23.0% (Fort McMurdo) to 59.8%
+(Palmer City) — 36.8 points** *(was 23.4% to 60.9%, 37.5 points)*.**
 
 ### ⚠ 4. How much of this is canon and how much is mine
 
@@ -357,7 +357,7 @@ humans.** **Excluding all three, the real-city range is 23.4% (Fort McMurdo) to 
 
 > ### ⚠ **These move 688,958 workers — 2.8% of the national workforce. They are the
 > single largest soft spot in the table and should be ruled before any city file is
-> written from them.**
+> written from them.** *[2026-11-03: the worker counts in this section are the 2026-09-02 figures and were not recomputed after the robot term (`DR-97`).]*
 
 ## ⏸️ Still open after Half B
 
@@ -482,21 +482,21 @@ Lazar are excluded** — Bunger Hills deferred by ruling, Lazar's economy explic
 
 | Tier | Workers | Share |
 |---|--:|--:|
-| **Baseline** *(D=2.50, forced importer → food term at 10%)* | 430,497 | **43.7%** |
-| **Mandated** | 189,228 | **19.3%** |
-| **FREE — the character budget** | 364,073 | **37.0%** |
+| **Baseline** *(D=2.50, forced importer → food term at 10%)* | 440,945 | **44.8%** |
+| **Mandated** | 185,655 | **18.9%** |
+| **FREE — the character budget** | 357,198 | **36.3%** |
 
-**Distinctive tier: 553,301 (56.3%).** Canon §15 maps onto it as: Technical/scientific 35% · Technical/
-engineering 20% · Education 15% · Marine 15% · Commercial 10% · Other 5%. *(counts recomputed 2026-11-03 on the current population, shares held; were baseline 413,123, mandated 181,974, free 350,115.)*
+**Distinctive tier: 542,853 (55.2%).** Canon §15 maps onto it as: Technical/scientific 35% · Technical/
+engineering 20% · Education 15% · Marine 15% · Commercial 10% · Other 5%. *(counts recomputed 2026-11-03 on the current population, shares held; were baseline 413,123, mandated 181,974, free 350,115.)* *(Robot term added 2026-11-03, `DR-96`: the baseline now includes robots × 15.75 ÷ 1,000 = 10,448 workers (B3 maintenance 12.5 + B4 sustenance 3.25 per 1,000 robots), as `09` §3.6 defines it; shares held; were baseline 430,497, mandated 189,228, free 364,073, distinctive 553,301.)*
 
 ### The mandate, itemized
 
 | Share of distinctive | Workers | Role | Basis |
 |--:|--:|---|---|
-| **16.7%** | 92,401 | **Scientific research — the EDEN ISS line** | ✅ Ruled floor *(`15` Resolution 4)*, derived from Neumayer's food-import debt |
-| **10.0%** | 55,330 | **National design — half of Technical/engineering** | ⭐ **NEW this pass.** See below |
-| **7.5%** | 41,497 | **Commuter labor — half of Marine 15%** | ✅ Developer ruling, 2026-09-02 |
-| **34.2%** | **189,228** | | |
+| **16.7%** | 90,656 | **Scientific research — the EDEN ISS line** | ✅ Ruled floor *(`15` Resolution 4)*, derived from Neumayer's food-import debt |
+| **10.0%** | 54,285 | **National design — half of Technical/engineering** | ⭐ **NEW this pass.** See below |
+| **7.5%** | 40,714 | **Commuter labor — half of Marine 15%** | ✅ Developer ruling, 2026-09-02 |
+| **34.2%** | **185,655** | | |
 
 ### ⭐⭐ The finding: `16`'s Half B undercounted this city by ~9.9 points
 
@@ -550,12 +550,12 @@ coast — which is Hwy 7's own route. Belgrano is the western terminus, so it co
 
 | Tier | Workers | Share |
 |---|--:|--:|
-| **Baseline** *(D=1.43, **forced importer** → food term at 10%)* | 287,606 | **34.0%** |
-| **Mandated** | 361,989 | **42.9%** |
-| **FREE — the character budget** | 194,918 | **23.1%** |
+| **Baseline** *(D=1.43, **forced importer** → food term at 10%)* | 296,505 | **35.1%** |
+| **Mandated** | 356,205 | **42.2%** |
+| **FREE — the character budget** | 191,803 | **22.7%** |
 
-**Distinctive tier: 556,907 (66.0%).** Canon §15: Aviation/logistics ~35% · Maritime/port ~20% ·
-Technical/mechanical maintenance ~20% · Industrial ~15% · Other ~10%. *(counts recomputed 2026-11-03 on the current population, shares held; were baseline 274,151, mandated 345,654, free 186,122.)*
+**Distinctive tier: 548,008 (64.9%).** Canon §15: Aviation/logistics ~35% · Maritime/port ~20% ·
+Technical/mechanical maintenance ~20% · Industrial ~15% · Other ~10%. *(counts recomputed 2026-11-03 on the current population, shares held; were baseline 274,151, mandated 345,654, free 186,122.)* *(Robot term added 2026-11-03, `DR-96`: the baseline now includes robots × 15.75 ÷ 1,000 = 8,899 workers (B3 maintenance 12.5 + B4 sustenance 3.25 per 1,000 robots), as `09` §3.6 defines it; shares held; were baseline 287,606, mandated 361,989, free 194,918, distinctive 556,907.)*
 
 ### ⚠ GEOLOGY CORRECTED FIRST — Belgrano is ice-shelf, not rock
 
@@ -572,10 +572,10 @@ fully met from sectors it already has. **National balance falls to +89,538, stil
 
 | Share of distinctive | Workers | Role | Basis |
 |--:|--:|---|---|
-| **35%** | 194,917 | **Aviation/logistics — the subnet's primary aviation hub** | ✅ Canon §15. *"Paralleling Marambio's role in the Palmer subnet"*; **medevac is an aviation function, and the Belgrano Institute of Medicine sits downstream of the flight line** |
-| **20%** | 111,381 | **Maritime/port — one of the two South Africa receiving ports** | ✅ Canon §15 + subnet-level canon *(with Sanay, interchangeable by open passage)* |
-| **10%** | 55,691 | **Half of Technical/mechanical maintenance** — the share keeping the airfield and port running | ✅ Developer ruling, 2026-09-02 |
-| **65%** | **361,989** | | |
+| **35%** | 191,803 | **Aviation/logistics — the subnet's primary aviation hub** | ✅ Canon §15. *"Paralleling Marambio's role in the Palmer subnet"*; **medevac is an aviation function, and the Belgrano Institute of Medicine sits downstream of the flight line** |
+| **20%** | 109,601 | **Maritime/port — one of the two South Africa receiving ports** | ✅ Canon §15 + subnet-level canon *(with Sanay, interchangeable by open passage)* |
+| **10%** | 54,801 | **Half of Technical/mechanical maintenance** — the share keeping the airfield and port running | ✅ Developer ruling, 2026-09-02 |
+| **65%** | **356,205** | | |
 
 **Industrial 15% stays FREE** — the *"las Arrastradoras"* / first-Rastra work is historical *(Neumayer
 re-engineered the design)*, and the paused-Cradle-candidate status is potential, not current output.
@@ -586,7 +586,7 @@ re-engineered the design)*, and the paused-Cradle-candidate status is potential,
 - **A heavily mandated city.** 65% of Belgrano's distinctive tier is nationally committed — consistent with
   canon's own framing that **the Airfield itself, not a city hall, was the seat of civic authority.**
 - **⚠ The Institute is strategically load-bearing but numerically tiny** — roughly **1,750 teaching staff**
-  against a 556,907 distinctive tier. It does not move the percentages; it means a small slice of Belgrano's
+  against a 548,008 distinctive tier. It does not move the percentages; it means a small slice of Belgrano's
   mandate matters far out of proportion to its headcount.
 
 > **⚠ NO CROSS-CITY COMPARISONS ARE DRAWN HERE, DELIBERATELY.** *(Developer direction, 2026-09-02.)* **Every
@@ -601,20 +601,20 @@ re-engineered the design)*, and the paused-Cradle-candidate status is potential,
 
 | Tier | Workers | Share |
 |---|--:|--:|
-| **Baseline** *(D=2.50, forced importer → food term at 10%)* | 496,326 | **43.6%** |
-| **Mandated** | 175,926 | **15.5%** |
-| **FREE — the character budget** | 463,804 | **40.9%** |
+| **Baseline** *(D=2.50, forced importer → food term at 10%)* | 508,416 | **44.7%** |
+| **Mandated** | 172,601 | **15.2%** |
+| **FREE — the character budget** | 455,040 | **40.1%** |
 
-**Distinctive tier: 639,730 (56.4%).** Canon §15: Technical/scientific 25% · Marine/resource extraction 20%
-*(indirect — no own docks)* · Commercial 20% · Technical/Arcanet 15% · Industrial 12% · Other 8%. *(counts recomputed 2026-11-03 on the current population, shares held; were baseline 478,952, mandated 170,093, free 448,426.)*
+**Distinctive tier: 627,641 (55.3%).** Canon §15: Technical/scientific 25% · Marine/resource extraction 20%
+*(indirect — no own docks)* · Commercial 20% · Technical/Arcanet 15% · Industrial 12% · Other 8%. *(counts recomputed 2026-11-03 on the current population, shares held; were baseline 478,952, mandated 170,093, free 448,426.)* *(Robot term added 2026-11-03, `DR-96`: the baseline now includes robots × 15.75 ÷ 1,000 = 12,090 workers (B3 maintenance 12.5 + B4 sustenance 3.25 per 1,000 robots), as `09` §3.6 defines it; shares held; were baseline 496,326, mandated 175,926, free 463,804, distinctive 639,730.)*
 
 ### The mandate, itemized
 
 | Share of distinctive | Workers | Role | Basis |
 |--:|--:|---|---|
-| **20%** | 127,946 | **General commuter labor — the FULL Marine sector** | ✅ Ruled 2026-09-02 *(mines, rigs, ports, yards, krilling among them)*. Canon's own parenthetical calls the sector **"indirect — no own docks"**, which is what a commuter export is. Developer ruling 2026-09-02 set it at the full sector rather than the floor |
-| **7.5%** | 47,980 | **Half of Technical/Arcanet — the Hwy 59 cable corridor** | ✅ Developer ruling, 2026-09-02. See below |
-| **27.5%** | **175,926** | | |
+| **20%** | 125,528 | **General commuter labor — the FULL Marine sector** | ✅ Ruled 2026-09-02 *(mines, rigs, ports, yards, krilling among them)*. Canon's own parenthetical calls the sector **"indirect — no own docks"**, which is what a commuter export is. Developer ruling 2026-09-02 set it at the full sector rather than the floor |
+| **7.5%** | 47,073 | **Half of Technical/Arcanet — the Hwy 59 cable corridor** | ✅ Developer ruling, 2026-09-02. See below |
+| **27.5%** | **172,601** | | |
 
 **Commercial 20%, Industrial 12%, Technical/scientific 25%, Other 8% and the remaining half of Arcanet all
 stay FREE.**
@@ -656,13 +656,13 @@ western terminus. Fixed in `City_Master_Reference/Halley_Subnet_Reference.md`.
 
 | Tier | Workers | Share |
 |---|--:|--:|
-| **Baseline** *(D=1.54, **GROWER** — bedrock nunatak, food term 100%)* | 355,900 | **45.5%** |
-| **Mandated** *(held — see below)* | 42,622 | **5.4%** |
-| **FREE** | 383,600 | **49.0%** |
+| **Baseline** *(D=1.54, **GROWER** — bedrock nunatak, food term 100%)* | 164,480 | **46.8%** |
+| **Mandated** *(held — see below)* | 18,696 | **5.3%** |
+| **FREE** | 168,259 | **47.9%** |
 
-**Distinctive tier: 426,222 (54.5%).** Canon §15: Technical/scientific 25% · Marine 15% · Commercial 15% ·
+**Distinctive tier: 186,955 (53.2%).** Canon §15: Technical/scientific 25% · Marine 15% · Commercial 15% ·
 Industrial 15% · Education 15% · Other 15%. **Canon flags this itself** as *"genuinely modest, no dominant
-sector,"* a *"small-scale economy,"* a city *"never a major economic node."*
+sector,"* a *"small-scale economy,"* a city *"never a major economic node."* *(Robot term added 2026-11-03, `DR-96`: the baseline now includes robots × 15.75 ÷ 1,000 = 3,734 workers (B3 maintenance 12.5 + B4 sustenance 3.25 per 1,000 robots), as `09` §3.6 defines it; shares held; were baseline 355,900, mandated 42,622, free 383,600, distinctive 426,222. The mandate share (10% of distinctive) stays HELD as the developer directed (see below); only the counts were recounted, on workforce 351,435 (were computed on 782,122: baseline 355,900, mandated 42,622, free 383,600, distinctive 426,222).)*
 
 ### ⚠ Why this one is HELD rather than determined
 
@@ -686,10 +686,10 @@ research elevated anywhere in canon the way Neumayer's design work or Vostok's b
 
 | Reading | Mandated | Free | Note |
 |---|--:|--:|---|
-| **None — purely itself** | 0.0% | 54.5% | Canon's own "never a major economic node" language leans here |
-| Half of Marine 15% | 4.1% | 50.4% | Real participation without obligation |
-| **HELD: 10% of distinctive** | **5.4%** | **49.0%** | Current value, carried forward unchanged |
-| Full Marine 15% | 8.2% | 46.3% | |
+| **None — purely itself** | 0.0% | 53.2% | Canon's own "never a major economic node" language leans here |
+| Half of Marine 15% | 4.0% | 49.2% | Real participation without obligation |
+| **HELD: 10% of distinctive** | **5.3%** | **47.9%** | Current value, carried forward unchanged *(counts recounted 2026-11-03)* |
+| Full Marine 15% | 8.0% | 45.2% |  |
 
 **What the review is actually for:** {{Abowasa}}'s commuter contribution feeds the Halley subnet's marine and
 food logistics. **Cutting it changes what the subnet's three forced importers rely on** — so the question can
@@ -708,23 +708,23 @@ only be answered once every city's supply and obligation is on the table.
 
 | Tier | Workers | Share |
 |---|--:|--:|
-| **Baseline** *(D=1.43, **GROWER** — bedrock nunatak, food term 100%)* | 172,375 | **44.5%** |
-| **Mandated** | 155,216 | **40.3%** |
-| **FREE — the character budget** | 58,875 | **15.3%** |
+| **Baseline** *(D=1.43, **GROWER** — bedrock nunatak, food term 100%)* | 176,425 | **45.7%** |
+| **Mandated** | 152,280 | **39.4%** |
+| **FREE — the character budget** | 57,761 | **14.9%** |
 
-**Distinctive tier: 214,091 (55.5%).** Canon §15 *(rewritten 2026-07-04 per developer vision)*:
+**Distinctive tier: 210,041 (54.3%).** Canon §15 *(rewritten 2026-07-04 per developer vision)*:
 Port/shipyard 30% · Trucking/logistics 20% · Warehousing/import-export 15% · Industrial/manufacturing
-(repair) 15% · Technical/scientific 10% · Other 10%. *(counts recomputed 2026-11-03 on the current population, shares held; were baseline 154,715, mandated 140,045, free 53,121.)*
+(repair) 15% · Technical/scientific 10% · Other 10%. *(counts recomputed 2026-11-03 on the current population, shares held; were baseline 154,715, mandated 140,045, free 53,121.)* *(Robot term added 2026-11-03, `DR-96`: the baseline now includes robots × 15.75 ÷ 1,000 = 4,050 workers (B3 maintenance 12.5 + B4 sustenance 3.25 per 1,000 robots), as `09` §3.6 defines it; shares held; were baseline 172,375, mandated 155,216, free 58,875, distinctive 214,091.)*
 
 ### The mandate, itemized
 
 | Share of distinctive | Workers | Role | Basis |
 |--:|--:|---|---|
-| **30%** | 64,228 | **Port/shipyard** — one of the two South Africa receiving ports | ✅ Canon §15 + subnet-level canon *(with Belgrano, interchangeable by open passage)* |
-| **20%** | 42,818 | **Trucking/logistics** — onward national distribution, and the Sanay Corridor | ✅ Canon §15. *"Keeps a share → trucks the rest onward via Hwy 7, including to Troll for air distribution"* |
-| **15%** | 32,114 | **Warehousing/import-export** — ⭐ **NEW this pass** | Same import chain as the two above. See below |
-| **7.5%** | 16,056 | **Half of Industrial/manufacturing (repair)** — keeping freighters, trucks and the corridor running | ✅ Developer ruling, 2026-09-02 |
-| **72.5%** | **155,216** | | |
+| **30%** | 63,013 | **Port/shipyard** — one of the two South Africa receiving ports | ✅ Canon §15 + subnet-level canon *(with Belgrano, interchangeable by open passage)* |
+| **20%** | 42,008 | **Trucking/logistics** — onward national distribution, and the Sanay Corridor | ✅ Canon §15. *"Keeps a share → trucks the rest onward via Hwy 7, including to Troll for air distribution"* |
+| **15%** | 31,506 | **Warehousing/import-export** — ⭐ **NEW this pass** | Same import chain as the two above. See below |
+| **7.5%** | 15,753 | **Half of Industrial/manufacturing (repair)** — keeping freighters, trucks and the corridor running | ✅ Developer ruling, 2026-09-02 |
+| **72.5%** | **152,280** | | |
 
 **Technical/scientific 10%, Other 10% and the remaining half of repair stay FREE.**
 
@@ -762,19 +762,19 @@ would be inventing a sector allocation canon does not state.** Added to the revi
 
 | Tier | Workers | Share |
 |---|--:|--:|
-| **Baseline** *(D=1.43, **GROWER** — bedrock nunatak, food term 100%)* | 335,886 | **44.4%** |
-| **Mandated** | 125,787 | **16.7%** |
-| **FREE — the character budget** | 293,501 | **38.9%** |
+| **Baseline** *(D=1.43, **GROWER** — bedrock nunatak, food term 100%)* | 343,821 | **45.5%** |
+| **Mandated** | 123,406 | **16.4%** |
+| **FREE — the character budget** | 287,948 | **38.1%** |
 
-**Distinctive tier: 419,288 (55.6%).** Canon §15 *(established 2026-07-04, developer vision session)*:
+**Distinctive tier: 411,354 (54.5%).** Canon §15 *(established 2026-07-04, developer vision session)*:
 Commercial/logistics 30% · Technical/scientific 20% · Marine/resource extraction 15% ·
-Industrial/manufacturing 15% · Education 12% · Other 8%. *(counts recomputed 2026-11-03 on the current population, shares held; were baseline 318,227, mandated 119,509, free 278,854.)*
+Industrial/manufacturing 15% · Education 12% · Other 8%. *(counts recomputed 2026-11-03 on the current population, shares held; were baseline 318,227, mandated 119,509, free 278,854.)* *(Robot term added 2026-11-03, `DR-96`: the baseline now includes robots × 15.75 ÷ 1,000 = 7,935 workers (B3 maintenance 12.5 + B4 sustenance 3.25 per 1,000 robots), as `09` §3.6 defines it; shares held; were baseline 335,886, mandated 125,787, free 293,501, distinctive 419,288.)*
 
 ### The mandate: one sector, entire
 
 | Share of distinctive | Workers | Role | Basis |
 |--:|--:|---|---|
-| **30%** | 125,787 | **Commercial/logistics — the intermodal freight hub** | ✅ Canon §15, annotated *"airfield operations and control, the city's defining function"* |
+| **30%** | 123,406 | **Commercial/logistics — the intermodal freight hub** | ✅ Canon §15, annotated *"airfield operations and control, the city's defining function"* |
 
 **Everything else is FREE.**
 
@@ -839,12 +839,12 @@ time the extraction half has been the more natural read.**
 
 | Tier | Workers | Share |
 |---|--:|--:|
-| **Baseline** *(D=1.43, **GROWER** — bedrock nunatak, food term 100% — ⚠ see collision below)* | 393,598 | **43.7%** |
-| **Mandated** | 126,505 | **14.1%** |
-| **FREE — the character budget** | 379,515 | **42.3%** |
+| **Baseline** *(D=1.43, **GROWER** — bedrock nunatak, food term 100% — ⚠ see collision below)* | 403,193 | **44.8%** |
+| **Mandated** | 124,107 | **13.8%** |
+| **FREE — the character budget** | 372,319 | **41.4%** |
 
-**Distinctive tier: 506,020 (56.3%).** Canon §15: Technical/scientific 25% · Industrial/manufacturing 20% ·
-Commercial 20% · Marine/resource extraction 15% · Education 12% · Other 8%. *(counts recomputed 2026-11-03 on the current population, shares held; were baseline 375,938, mandated 121,274, free 363,821.)*
+**Distinctive tier: 496,426 (55.2%).** Canon §15: Technical/scientific 25% · Industrial/manufacturing 20% ·
+Commercial 20% · Marine/resource extraction 15% · Education 12% · Other 8%. *(counts recomputed 2026-11-03 on the current population, shares held; were baseline 375,938, mandated 121,274, free 363,821.)* *(Robot term added 2026-11-03, `DR-96`: the baseline now includes robots × 15.75 ÷ 1,000 = 9,595 workers (B3 maintenance 12.5 + B4 sustenance 3.25 per 1,000 robots), as `09` §3.6 defines it; shares held; were baseline 393,598, mandated 126,505, free 379,515, distinctive 506,020.)*
 
 ### ⭐⭐ The first city whose export is ASSERTED, not derived
 
@@ -861,7 +861,7 @@ describes the delivery mechanism, not optionality*** — Sanay's port presumably
 
 | Share of distinctive | Workers | Role | Basis |
 |--:|--:|---|---|
-| **25%** | 126,505 | **Technical/scientific — renewable energy systems and zero-emissions design expertise, in full** | ✅ Canon Specs + §25. **Developer ruling, 2026-09-02** |
+| **25%** | 124,107 | **Technical/scientific — renewable energy systems and zero-emissions design expertise, in full** | ✅ Canon Specs + §25. **Developer ruling, 2026-09-02** |
 
 ### ⭐ Why FULL 25%, over the analyst recommendation of half
 
@@ -884,7 +884,7 @@ and should not be mistaken later for a derivation.**
 
 **What the ruling concretely buys** — and this is the substantive gain:
 
-> **PE is DESTROYED. The ruins therefore contain the physical remains of a 126,505-worker energy-research
+> **PE is DESTROYED. The ruins therefore contain the physical remains of a 124,107-worker energy-research
 > establishment**, not a vague sense that "research happened here." **That is a level-design quantity:** how
 > many facilities, how much surviving documentation, how deep the archive plausibly runs, how many separate
 > sites could hold recoverable records. **Halving it would have halved the ruin.**
@@ -914,8 +914,8 @@ energy."*** That directly contradicts PE's GROWER classification.
 
 | | Baseline | Distinctive |
 |---|--:|--:|
-| **f = 1.00 (grower — current)** | 393,598 · **43.7%** | 506,020 · **56.3%** |
-| **f = 0.10 (if the vignette were promoted)** | 289,915 · **33.7%** | 571,118 · **66.3%** |
+| **f = 1.00 (grower — current)** | 403,193 · **44.8%** | 496,426 · **55.2%** |
+| **f = 0.10 (if the vignette were promoted)** | 312,965 · **34.8%** | 586,654 · **65.2%** |
 
 **A possible reconciliation, offered but NOT asserted:** PE's **outdoor tier is genuinely zero** — 300 km/h
 winds preclude terraformed fields entirely, and `12`'s 1,500 km² belt does not include it. The vignette may
@@ -941,21 +941,21 @@ Elisabeth — with **Lazar deferred by developer ruling.***
 
 | Tier | Workers | Share |
 |---|--:|--:|
-| **Baseline** *(D=1.25, **GROWER** — rock-founded island, food term 100%)* | 58,480 | **41.1%** |
-| **Mandated** | 46,006 | **32.4%** |
-| **FREE — the character budget** | 37,641 | **26.5%** |
+| **Baseline** *(D=1.25, **GROWER** — rock-founded island, food term 100%)* | 59,985 | **42.2%** |
+| **Mandated** | 45,178 | **31.8%** |
+| **FREE — the character budget** | 36,964 | **26.0%** |
 
-**Distinctive tier: 83,647 (58.9%).** Canon §15: Biological/ecological research 30% · Marine/fishing 30% ·
-Maritime trade 20% · Technical/maintenance 15% · Other 5%.
+**Distinctive tier: 82,142 (57.8%).** Canon §15: Biological/ecological research 30% · Marine/fishing 30% ·
+Maritime trade 20% · Technical/maintenance 15% · Other 5%. *(Robot term added 2026-11-03, `DR-96`: the baseline now includes robots × 15.75 ÷ 1,000 = 1,505 workers (B3 maintenance 12.5 + B4 sustenance 3.25 per 1,000 robots), as `09` §3.6 defines it; shares held; were baseline 58,480, mandated 46,006, free 37,641, distinctive 83,647.)*
 
 ### The mandate, itemized *(developer ruling, 2026-09-02)*
 
 | Share of distinctive | Workers | Sector | Basis |
 |--:|--:|---|---|
-| **30%** | 25,094 | **Marine/fishing — FULL** | ✅ `04` §3 lists Signy a national **FOOD (fish) provider** at 30% |
-| **15%** | 12,547 | **Biological/ecological research — HALF** | Derived: the fishery is **capped**, and somebody must know where the cap is |
-| **10%** | 8,365 | **Maritime trade — HALF** | Derived: **Signy has no highway.** The catch reaches Tepenia only by sea |
-| **55%** | **46,006** | | |
+| **30%** | 24,643 | **Marine/fishing — FULL** | ✅ `04` §3 lists Signy a national **FOOD (fish) provider** at 30% |
+| **15%** | 12,321 | **Biological/ecological research — HALF** | Derived: the fishery is **capped**, and somebody must know where the cap is |
+| **10%** | 8,214 | **Maritime trade — HALF** | Derived: **Signy has no highway.** The catch reaches Tepenia only by sea |
+| **55%** | **45,178** | | |
 
 ### ⚠ Two scope traps deliberately excluded
 
@@ -980,7 +980,7 @@ nation.
 
 ### What the marine 30% actually is — and why the platforms exist
 
-**25,094 workers. `11` established the entire national sustainable catch needs only ~13,000 fishers** — so
+**24,643 workers. `11` established the entire national sustainable catch needs only ~13,000 fishers** — so
 this single sector is **1.9× the whole national fisher requirement.** It therefore **cannot be crews.** It is
 harvest platforms, processing, and dock work.
 
@@ -1012,7 +1012,7 @@ wildlife work and long-term monitoring are also genuine pure science.
 
 - **Technical/maintenance 15% stays FREE** — unannotated as to what it maintains, so per the Troll principle
   it is not assumed to be platform work.
-- **⭐ The free budget's shape is unusual and worth recording.** Of 37,641 free workers, **20,912 are the
+- **⭐ The free budget's shape is unusual and worth recording.** Of 36,964 free workers, **20,912 are the
   untouched halves of the two sectors Signy is already mandated in.** Its genuinely unconscripted work —
   maintenance and Other — is 16,729. **Signy's character budget is mostly the discretionary end of the same
   things it does for the nation, not something separate from them.**
@@ -1027,19 +1027,19 @@ wildlife work and long-term monitoring are also genuine pure science.
 
 | Tier | Workers | Share |
 |---|--:|--:|
-| **Baseline** *(D=1.15, **GROWER** — rock-founded island, food term 100%)* | 191,522 | **39.4%** |
-| **Mandated** | 73,741 | **15.2%** |
-| **FREE — the character budget** | 221,224 | **45.5%** |
+| **Baseline** *(D=1.15, **GROWER** — rock-founded island, food term 100%)* | 196,690 | **40.4%** |
+| **Mandated** | 72,450 | **14.9%** |
+| **FREE — the character budget** | 217,348 | **44.7%** |
 
-**Distinctive tier: 294,966 (60.6%).** Canon §15 *(2026-07-04)*: Commercial/trade 25% · Technical/scientific
+**Distinctive tier: 289,798 (59.6%).** Canon §15 *(2026-07-04)*: Commercial/trade 25% · Technical/scientific
 20% · Diplomatic/inter-community coordination 15% · Marine/resource extraction 15% · Education 15% ·
-Other 10%.
+Other 10%. *(Robot term added 2026-11-03, `DR-96`: the baseline now includes robots × 15.75 ÷ 1,000 = 5,168 workers (B3 maintenance 12.5 + B4 sustenance 3.25 per 1,000 robots), as `09` §3.6 defines it; shares held; were baseline 191,522, mandated 73,741, free 221,224, distinctive 294,966.)*
 
 ### The mandate
 
 | Share of distinctive | Workers | Role | Basis |
 |--:|--:|---|---|
-| **25%** | 73,741 | **Commercial/trade — the international air gateway** | ✅ Canon §15 *"leveraging King George Island's accessibility"* + the gateway ruling **as corrected above** |
+| **25%** | 72,450 | **Commercial/trade — the international air gateway** | ✅ Canon §15 *"leveraging King George Island's accessibility"* + the gateway ruling **as corrected above** |
 
 ### ⭐ Why the diplomatic sector was NOT added — the sharpest sector call in the pass so far
 
@@ -1091,20 +1091,20 @@ sector for. Register item 6.
 
 | Tier | Workers | Share |
 |---|--:|--:|
-| **Baseline** *(D=1.15, **GROWER** — rock-founded island, food term 100%)* | 114,813 | **39.3%** |
-| **Mandated** | 70,803 | **24.3%** |
-| **FREE — the character budget** | 106,205 | **36.4%** |
+| **Baseline** *(D=1.15, **GROWER** — rock-founded island, food term 100%)* | 117,915 | **40.4%** |
+| **Mandated** | 69,562 | **23.8%** |
+| **FREE — the character budget** | 104,344 | **35.8%** |
 
-**Distinctive tier: 177,008 (60.7%).** Canon §15: Maritime/fishing 30% · Commercial/trade 20% ·
-Technical/scientific 20% · Cultural/social institutions 15% · Other 15%.
+**Distinctive tier: 173,906 (59.6%).** Canon §15: Maritime/fishing 30% · Commercial/trade 20% ·
+Technical/scientific 20% · Cultural/social institutions 15% · Other 15%. *(Robot term added 2026-11-03, `DR-96`: the baseline now includes robots × 15.75 ÷ 1,000 = 3,102 workers (B3 maintenance 12.5 + B4 sustenance 3.25 per 1,000 robots), as `09` §3.6 defines it; shares held; were baseline 114,813, mandated 70,803, free 106,205, distinctive 177,008.)*
 
 ### The mandate *(developer ruling B, 2026-09-02)*
 
 | Share of distinctive | Workers | Role | Basis |
 |--:|--:|---|---|
-| **30%** | 53,102 | **Maritime/fishing** — national food provider | ✅ `04` §3 + §15 *"leveraging Livingston Island's coastal access"* |
-| **10%** | 17,701 | **Half of Commercial/trade — the federal immigration archive and processing** | ✅ Canon national role; **sector inferred** *(see below)* |
-| **40%** | **70,803** | | |
+| **30%** | 52,172 | **Maritime/fishing** — national food provider | ✅ `04` §3 + §15 *"leveraging Livingston Island's coastal access"* |
+| **10%** | 17,390 | **Half of Commercial/trade — the federal immigration archive and processing** | ✅ Canon national role; **sector inferred** *(see below)* |
+| **40%** | **69,562** | | |
 
 ### ⭐⭐ The open border question answered itself — and a THREE-CITY SYSTEM fell out
 
@@ -1333,13 +1333,13 @@ established in the 2026-07-06 vision session)*.
 
 | Tier | Workers | Share |
 |---|--:|--:|
-| **Baseline** *(D=1.11, **GROWER** — mainland Peninsula, food term 100%)* | 355,249 | **39.7%** |
-| **Mandated** | 229,324 | **25.6%** |
-| **FREE — the character budget** | 310,262 | **34.7%** |
+| **Baseline** *(D=1.11, **GROWER** — mainland Peninsula, food term 100%)* | 364,390 | **40.7%** |
+| **Mandated** | 225,439 | **25.2%** |
+| **FREE — the character budget** | 305,006 | **34.1%** |
 
-**Distinctive tier: 539,586 (60.3%)** *(counts in this section refreshed 2026-11-02, `DR-90`, from the 1,418,467-worker city to the 1,200,000-person city, workforce 894,835; shares and rulings held; rounded)*. Canon §15: Education/childcare/family ~25% · Maritime/harbor trade
+**Distinctive tier: 530,445 (59.3%)** *(counts in this section refreshed 2026-11-02, `DR-90`, from the 1,418,467-worker city to the 1,200,000-person city, workforce 894,835; shares and rulings held; rounded)*. Canon §15: Education/childcare/family ~25% · Maritime/harbor trade
 ~20% · Commercial ~15% · Technical/scientific ~15% · Agricultural/food production ~15% ·
-Other/administrative ~10%.
+Other/administrative ~10%. *(Robot term added 2026-11-03, `DR-96`: the baseline now includes robots × 15.75 ÷ 1,000 = 9,287 workers (B3 maintenance 12.5 + B4 sustenance 3.25 per 1,000 robots), as `09` §3.6 defines it; shares held; were baseline 355,249, mandated 229,324, free 310,262, distinctive 539,586.)*
 
 **⭐ Esperanza carries THREE national roles** — `04` §3 lists it **FOOD · EDUC · MEDICINE**.
 
@@ -1347,11 +1347,11 @@ Other/administrative ~10%.
 
 | Share of distinctive | Workers | Sector | Basis |
 |--:|--:|---|---|
-| **12.5%** | 67,448 | **Education/childcare/family — HALF** | The Esperanza Institute of Medicine **+ standard schooling**, per the ruling below |
-| **15%** | 80,938 | **Agricultural/food production — FULL** | ✅ `04` §3 national FOOD provider |
-| **10%** | 53,959 | **Maritime/harbor trade — HALF** | Hwy 1's northern terminus + Halley↔Palmer trans-shipment |
-| **5%** | 26,979 | **Other/administrative — HALF (the birth registry)** | ✅ Developer ruling: **national by this era** — see below |
-| **42.5%** | **229,324** | | |
+| **12.5%** | 66,306 | **Education/childcare/family — HALF** | The Esperanza Institute of Medicine **+ standard schooling**, per the ruling below |
+| **15%** | 79,567 | **Agricultural/food production — FULL** | ✅ `04` §3 national FOOD provider |
+| **10%** | 53,044 | **Maritime/harbor trade — HALF** | Hwy 1's northern terminus + Halley↔Palmer trans-shipment |
+| **5%** | 26,522 | **Other/administrative — HALF (the birth registry)** | ✅ Developer ruling: **national by this era** — see below |
+| **42.5%** | **225,439** | | |
 
 ### ⭐ The education correction — this file's own Half B flag was right
 
@@ -1459,21 +1459,21 @@ Institute *is* Esperanza's education mandate — **the exact opposite of the hal
 
 | Tier | Workers | Share |
 |---|--:|--:|
-| **Baseline** *(D=1.25, **GROWER** — Seymour Island, rock-founded, food term 100%)* | 177,203 | **41.3%** |
-| **Mandated** | 175,942 | **41.1%** |
-| **FREE — the character budget** | 75,404 | **17.6%** |
+| **Baseline** *(D=1.25, **GROWER** — Seymour Island, rock-founded, food term 100%)* | 181,720 | **42.4%** |
+| **Mandated** | 172,780 | **40.3%** |
+| **FREE — the character budget** | 74,048 | **17.3%** |
 
-**Distinctive tier: 251,345 (58.7%).** Canon §15 *(revised 2026-07-16)*: Aviation/logistics 30% ·
-Maritime/port operations 30% · Technical/maintenance 20% · Commercial/trade 15% · Other 5%.
+**Distinctive tier: 246,828 (57.6%).** Canon §15 *(revised 2026-07-16)*: Aviation/logistics 30% ·
+Maritime/port operations 30% · Technical/maintenance 20% · Commercial/trade 15% · Other 5%. *(Robot term added 2026-11-03, `DR-96`: the baseline now includes robots × 15.75 ÷ 1,000 = 4,518 workers (B3 maintenance 12.5 + B4 sustenance 3.25 per 1,000 robots), as `09` §3.6 defines it; shares held; were baseline 177,203, mandated 175,942, free 75,404, distinctive 251,345.)*
 
 ### The mandate *(developer ruling B, 2026-09-02)*
 
 | Share of distinctive | Workers | Sector | Basis |
 |--:|--:|---|---|
-| **30%** | 75,404 | **Maritime/port operations** — the South America + Weddell Sea receiving node | ✅ `04` §3 + §15 *"equally central to the city's defining, dominant identity"* |
-| **30%** | 75,404 | **Aviation/logistics** — **DOMESTIC**, distributing onward across Tepenia | ✅ `04` §3 + `Airports.md` L16 |
-| **10%** | 25,134 | **Half of Technical/maintenance** | ✅ Developer ruling |
-| **70%** | **175,942** | | |
+| **30%** | 74,049 | **Maritime/port operations** — the South America + Weddell Sea receiving node | ✅ `04` §3 + §15 *"equally central to the city's defining, dominant identity"* |
+| **30%** | 74,048 | **Aviation/logistics** — **DOMESTIC**, distributing onward across Tepenia | ✅ `04` §3 + `Airports.md` L16 |
+| **10%** | 24,683 | **Half of Technical/maintenance** | ✅ Developer ruling |
+| **70%** | **172,780** | | |
 
 ### ⭐ The whole intermodal node sits inside one municipality
 
@@ -1523,20 +1523,20 @@ national by the same reasoning.
 
 | Tier | Workers | Share |
 |---|--:|--:|
-| **Baseline** *(D=1.11, **GROWER** — Anvers Island, rock-founded, food term 100%)* | 97,747 | **39.1%** |
-| **Mandated** | 63,377 | **25.4%** |
-| **FREE — the character budget** | 88,728 | **35.5%** |
+| **Baseline** *(D=1.11, **GROWER** — Anvers Island, rock-founded, food term 100%)* | 100,376 | **40.2%** |
+| **Mandated** | 62,282 | **24.9%** |
+| **FREE — the character budget** | 87,194 | **34.9%** |
 
-**Distinctive tier: 152,105 (60.9%).** §15: Entertainment/hospitality 35% · Commercial/trade 20% ·
-Cultural institutions/arts 15% · Technical/scientific 10% · Marine/resource extraction 10% · Other 10%.
+**Distinctive tier: 149,476 (59.8%).** §15: Entertainment/hospitality 35% · Commercial/trade 20% ·
+Cultural institutions/arts 15% · Technical/scientific 10% · Marine/resource extraction 10% · Other 10%. *(Robot term added 2026-11-03, `DR-96`: the baseline now includes robots × 15.75 ÷ 1,000 = 2,629 workers (B3 maintenance 12.5 + B4 sustenance 3.25 per 1,000 robots), as `09` §3.6 defines it; shares held; were baseline 97,747, mandated 63,377, free 88,728, distinctive 152,105.)*
 
 ### The mandate *(developer ruling, 2026-09-02)*
 
 | Share of distinctive | Workers | Sector | Basis |
 |--:|--:|---|---|
-| **35%** | 53,237 | **Entertainment/hospitality — FULL** | ✅ `04` §3 lists Palmer City a **HOSPITALITY provider at 35%** |
-| **6.667%** | 10,140 | **Commercial/trade — ONE THIRD** | The tourism-attached slice: sealiner arrivals, money changing hands |
-| **41.667%** | **63,377** | | |
+| **35%** | 52,317 | **Entertainment/hospitality — FULL** | ✅ `04` §3 lists Palmer City a **HOSPITALITY provider at 35%** |
+| **6.667%** | 9,965 | **Commercial/trade — ONE THIRD** | The tourism-attached slice: sealiner arrivals, money changing hands |
+| **41.667%** | **62,282** | | |
 
 > **This replaces the 0.0% that stood in Half B**, which recorded no mandate for this city at all.
 
@@ -1613,18 +1613,18 @@ budget is work with no relationship to Upper Earth at all.**
 
 | Tier | Workers | Share |
 |---|--:|--:|
-| **Baseline** *(D=1.25, **GROWER** — Goudier/Wiencke I., rock-founded, food term 100%)* | 287 | **41.0%** |
-| **Mandated** | 21 | **2.9%** |
-| **FREE — the character budget** | 393 | **56.0%** |
+| **Baseline** *(D=1.25, **GROWER** — Goudier/Wiencke I., rock-founded, food term 100%)* | 295 | **42.1%** |
+| **Mandated** | 20 | **2.8%** |
+| **FREE — the character budget** | 386 | **55.1%** |
 
-**Distinctive tier: 414 (59.0%)** *(counts in this section refreshed 2026-11-02, `DR-89`, from the old 97,218-worker city to the 929-person city: workforce 701; shares held; counts rounded)*. Canon §15: Maritime trade 30% · Heritage/cultural preservation 25% ·
-Commercial/small trade 20% · Technical/maintenance 15% · Other 10%.
+**Distinctive tier: 406 (57.9%)** *(counts in this section refreshed 2026-11-02, `DR-89`, from the old 97,218-worker city to the 929-person city: workforce 701; shares held; counts rounded)*. Canon §15: Maritime trade 30% · Heritage/cultural preservation 25% ·
+Commercial/small trade 20% · Technical/maintenance 15% · Other 10%. *(Robot term added 2026-11-03, `DR-96`: the baseline now includes robots × 15.75 ÷ 1,000 = 7 workers (B3 maintenance 12.5 + B4 sustenance 3.25 per 1,000 robots), as `09` §3.6 defines it; shares held; were baseline 287, mandated 21, free 393, distinctive 414.)*
 
 ### The mandate
 
 | Share of distinctive | Workers | Role | Basis |
 |--:|--:|---|---|
-| **5%** | 21 | **The courier node** — the Peninsula corridor's postal/parcel/archive transit point | ⚠ Vision Notes + ✅ Specs L105. **Developer ruling A, 2026-09-02** |
+| **5%** | 20 | **The courier node** — the Peninsula corridor's postal/parcel/archive transit point | ⚠ Vision Notes + ✅ Specs L105. **Developer ruling A, 2026-09-02** |
 
 ### The courier function is better established than the estimate that priced it
 
@@ -1674,23 +1674,23 @@ deferred until after the division-of-industry pass, consistent with the Sejong h
 
 | Tier | Workers | Share |
 |---|--:|--:|
-| **Baseline** *(D=1.15, **GROWER** — Adelaide I., rock-founded, food term 100%)* | 93,804 | **39.0%** |
-| **Mandated** | 73,382 | **30.5%** |
-| **FREE — the character budget** | 73,382 | **30.5%** |
+| **Baseline** *(D=1.15, **GROWER** — Adelaide I., rock-founded, food term 100%)* | 96,382 | **40.0%** |
+| **Mandated** | 72,094 | **30.0%** |
+| **FREE — the character budget** | 72,093 | **30.0%** |
 
 > **⭐ Mandated and free land EXACTLY equal — the mandate is precisely 50% of the distinctive tier.**
 
-**Distinctive tier: 146,765 (61.0%).** Canon §15: Industrial/manufacturing 40% · Marine/resource extraction
-20% · Aviation/logistics 15% · Technical/scientific 10% · Commercial/trade 10% · Other 5%.
+**Distinctive tier: 144,187 (60.0%).** Canon §15: Industrial/manufacturing 40% · Marine/resource extraction
+20% · Aviation/logistics 15% · Technical/scientific 10% · Commercial/trade 10% · Other 5%. *(Robot term added 2026-11-03, `DR-96`: the baseline now includes robots × 15.75 ÷ 1,000 = 2,578 workers (B3 maintenance 12.5 + B4 sustenance 3.25 per 1,000 robots), as `09` §3.6 defines it; shares held; were baseline 93,804, mandated 73,382, free 73,382, distinctive 146,765.)*
 
 ### The mandate *(developer ruling, 2026-09-02)*
 
 | Share of distinctive | Workers | Sector | Basis |
 |--:|--:|---|---|
-| **40%** | 58,706 | **Industrial/manufacturing — FULL** | ✅ `04` §3 **FABRICATION provider at 40%**; §15's *"clearly defining sector"* |
-| **5%** | 7,338 | **Marine/resource extraction — ONE QUARTER** | Adelaide Island's terrain as feedstock for the fabrication chain |
-| **5%** | 7,338 | **Aviation/logistics — ONE THIRD** | The Bonner airstrip's *"genuinely functional"* half |
-| **50%** | **73,382** | | |
+| **40%** | 57,675 | **Industrial/manufacturing — FULL** | ✅ `04` §3 **FABRICATION provider at 40%**; §15's *"clearly defining sector"* |
+| **5%** | 7,210 | **Marine/resource extraction — ONE QUARTER** | Adelaide Island's terrain as feedstock for the fabrication chain |
+| **5%** | 7,209 | **Aviation/logistics — ONE THIRD** | The Bonner airstrip's *"genuinely functional"* half |
+| **50%** | **72,094** | | |
 
 ### The industrial 40% needs no judgment
 
@@ -1755,18 +1755,18 @@ Marambio · Palmer City · Port Lockroy · Rothera.*
 
 | Tier | Workers | Share |
 |---|--:|--:|
-| **Baseline** *(D=1.25, **GROWER** — Larsemann Hills, rock-founded, food term 100%)* | 344,044 | **40.9%** |
-| **Mandated** | 99,122 | **11.8%** |
-| **FREE — the character budget** | 396,488 | **47.3%** |
+| **Baseline** *(D=1.25, **GROWER** — Larsemann Hills, rock-founded, food term 100%)* | 352,970 | **42.0%** |
+| **Mandated** | 97,337 | **11.6%** |
+| **FREE — the character budget** | 389,348 | **46.4%** |
 
-**Distinctive tier: 495,610 (59.1%).** Canon §15: Scientific/research 25% · Arts, music, fashion/cultural
-institutions 25% · Education 20% · Commercial/trade 15% · Other 15%. *(counts recomputed 2026-11-03 on the current population, shares held; were baseline 363,971, mandated 105,222, free 420,886.)*
+**Distinctive tier: 486,685 (58.0%).** Canon §15: Scientific/research 25% · Arts, music, fashion/cultural
+institutions 25% · Education 20% · Commercial/trade 15% · Other 15%. *(counts recomputed 2026-11-03 on the current population, shares held; were baseline 363,971, mandated 105,222, free 420,886.)* *(Robot term added 2026-11-03, `DR-96`: the baseline now includes robots × 15.75 ÷ 1,000 = 8,926 workers (B3 maintenance 12.5 + B4 sustenance 3.25 per 1,000 robots), as `09` §3.6 defines it; shares held; were baseline 344,044, mandated 99,122, free 396,488, distinctive 495,610.)*
 
 ### The mandate
 
 | Share of distinctive | Workers | Sector | Basis |
 |--:|--:|---|---|
-| **20%** | 99,122 | **Education** — the flagship university, drawing nationally | ✅ `04` §3 lists Shirayuki an `ARTS · EDUCATION` provider |
+| **20%** | 97,337 | **Education** — the flagship university, drawing nationally | ✅ `04` §3 lists Shirayuki an `ARTS · EDUCATION` provider |
 
 ### ⭐⭐ THE ARTS SECTOR IS FREE — and this city is the PROOF CASE for the free tier
 
@@ -1835,21 +1835,21 @@ MATERIALLY harmed. That is exactly the line the mandate test draws.**
 
 | Tier | Workers | Share |
 |---|--:|--:|
-| **Baseline** *(D=1.25, **GROWER** — Larsemann Hills, rock-founded, food term 100%)* | 312,907 | **40.7%** |
-| **Mandated** | 215,866 | **28.2%** |
-| **FREE — the character budget** | 238,589 | **31.2%** |
+| **Baseline** *(D=1.25, **GROWER** — Larsemann Hills, rock-founded, food term 100%)* | 321,100 | **41.9%** |
+| **Mandated** | 211,975 | **27.6%** |
+| **FREE — the character budget** | 234,288 | **30.5%** |
 
-**Distinctive tier: 454,455 (59.3%).** Canon §15 *(revised 2026-07-06, vision session)*: Industrial
+**Distinctive tier: 446,263 (58.1%).** Canon §15 *(revised 2026-07-06, vision session)*: Industrial
 fabrication 45% · Technical/scientific 15% · Commercial/trade 15% · Marine/resource extraction 10% ·
-Diplomatic/inter-community 10% · Education/other 5%. *(counts recomputed 2026-11-03 on the current population, shares held; were baseline 329,374, mandated 228,180, free 252,199.)*
+Diplomatic/inter-community 10% · Education/other 5%. *(counts recomputed 2026-11-03 on the current population, shares held; were baseline 329,374, mandated 228,180, free 252,199.)* *(Robot term added 2026-11-03, `DR-96`: the baseline now includes robots × 15.75 ÷ 1,000 = 8,193 workers (B3 maintenance 12.5 + B4 sustenance 3.25 per 1,000 robots), as `09` §3.6 defines it; shares held; were baseline 312,907, mandated 215,866, free 238,589, distinctive 454,455.)*
 
 ### The mandate *(developer ruling C, 2026-09-02)*
 
 | Share of distinctive | Workers | Sector | Basis |
 |--:|--:|---|---|
-| **45%** | 204,504 | **Industrial fabrication — FULL** | ✅ `04` §3 **FABRICATION provider**; the corpus's highest single sector |
-| **2.5%** | 11,362 | **Half of Education/other — the Institute** | ✅ One of only **three** national medical/care institutes |
-| **47.5%** | **215,866** | | |
+| **45%** | 200,818 | **Industrial fabrication — FULL** | ✅ `04` §3 **FABRICATION provider**; the corpus's highest single sector |
+| **2.5%** | 11,157 | **Half of Education/other — the Institute** | ✅ One of only **three** national medical/care institutes |
+| **47.5%** | **211,975** | | |
 
 ### ⭐⭐ The fabrication 45% may be the most load-bearing single sector in Tepenia
 
@@ -1918,18 +1918,18 @@ mandating all of it would conscript the *"other"* alongside the school.
 
 | Tier | Workers | Share |
 |---|--:|--:|
-| **Baseline** *(D=1.25, **GROWER** — Larsemann Hills ice-free oasis, food term 100%)* | 373,442 | **41.2%** |
-| **Mandated** | 139,712 | **15.4%** |
-| **FREE — the character budget** | 392,526 | **43.4%** |
+| **Baseline** *(D=1.25, **GROWER** — Larsemann Hills ice-free oasis, food term 100%)* | 383,014 | **42.3%** |
+| **Mandated** | 137,200 | **15.1%** |
+| **FREE — the character budget** | 385,466 | **42.6%** |
 
-**Distinctive tier: 532,238 (58.8%).** Canon §15: Technical/scientific ~35% · Industrial/manufacturing ~25% ·
-Marine resource extraction ~15% · Commercial ~15% · Education ~7% · Other ~3%. *(counts recomputed 2026-11-03 on the current population, shares held; were baseline 396,635, mandated 148,786, free 418,019.)*
+**Distinctive tier: 522,666 (57.7%).** Canon §15: Technical/scientific ~35% · Industrial/manufacturing ~25% ·
+Marine resource extraction ~15% · Commercial ~15% · Education ~7% · Other ~3%. *(counts recomputed 2026-11-03 on the current population, shares held; were baseline 396,635, mandated 148,786, free 418,019.)* *(Robot term added 2026-11-03, `DR-96`: the baseline now includes robots × 15.75 ÷ 1,000 = 9,572 workers (B3 maintenance 12.5 + B4 sustenance 3.25 per 1,000 robots), as `09` §3.6 defines it; shares held; were baseline 373,442, mandated 139,712, free 392,526, distinctive 532,238.)*
 
 ### The mandate *(developer ruling, 2026-09-02)*
 
 | Share of distinctive | Workers | Sector | Basis |
 |--:|--:|---|---|
-| **26.25%** | 139,712 | **Technical/scientific — THREE QUARTERS of the 35% sector** | ✅ §15's own export clause |
+| **26.25%** | 137,200 | **Technical/scientific — THREE QUARTERS of the 35% sector** | ✅ §15's own export clause |
 
 > **Developer:** *"Science and Technology is fundamentally Zhongshan's identity, although granted, it is not
 > as though everybody in the city is a scientist and/or technician (because cities need other people doing
@@ -2007,21 +2007,21 @@ that a city still needs people doing other things.**
 
 | Tier | Workers | Share |
 |---|--:|--:|
-| **Baseline** *(D=1.25, **GROWER** — Vestfold Hills, the largest ice-free coastal oasis in Antarctica, ~400 km²)* | 373,534 | **40.7%** |
-| **Mandated** | 257,243 | **28.2%** |
-| **FREE — the character budget** | 284,321 | **31.1%** |
+| **Baseline** *(D=1.25, **GROWER** — Vestfold Hills, the largest ice-free coastal oasis in Antarctica, ~400 km²)* | 383,295 | **41.9%** |
+| **Mandated** | 252,606 | **27.6%** |
+| **FREE — the character budget** | 279,197 | **30.5%** |
 
-**Distinctive tier: 541,564 (59.3%).** Canon §15 *(developer vision 2026-07-05, revised 2026-07-16)*:
+**Distinctive tier: 531,803 (58.1%).** Canon §15 *(developer vision 2026-07-05, revised 2026-07-16)*:
 Agricultural/food production ~35% · Technical/scientific ~25% · Maritime ~15% · Commercial ~15% ·
-Industrial ~5% · Other ~5%. *(counts recomputed 2026-11-03 on the current population, shares held; were baseline 357,063, mandated 246,740, free 272,712.)*
+Industrial ~5% · Other ~5%. *(counts recomputed 2026-11-03 on the current population, shares held; were baseline 357,063, mandated 246,740, free 272,712.)* *(Robot term added 2026-11-03, `DR-96`: the baseline now includes robots × 15.75 ÷ 1,000 = 9,761 workers (B3 maintenance 12.5 + B4 sustenance 3.25 per 1,000 robots), as `09` §3.6 defines it; shares held; were baseline 373,534, mandated 257,243, free 284,321, distinctive 541,564.)*
 
 ### The mandate *(developer ruling B, 2026-09-02 — provisional, see review flag)*
 
 | Share of distinctive | Workers | Sector | Basis |
 |--:|--:|---|---|
-| **35%** | 189,547 | **Agricultural/food production — FULL** | ✅ `04` §3: *"FOOD — agriculture 35% — 'the breadbasket,' **explicitly national**"* |
-| **12.5%** | 67,696 | **Technical/scientific — HALF** | The Signy precedent, applied on land — see below |
-| **47.5%** | **257,243** | | |
+| **35%** | 186,131 | **Agricultural/food production — FULL** | ✅ `04` §3: *"FOOD — agriculture 35% — 'the breadbasket,' **explicitly national**"* |
+| **12.5%** | 66,475 | **Technical/scientific — HALF** | The Signy precedent, applied on land — see below |
+| **47.5%** | **252,606** | | |
 
 ### ⭐ The research half — the Signy precedent applied on land
 
@@ -2111,20 +2111,20 @@ WORKFORCE.** **`16`'s convention gives 181,808** — 35% of *distinctive*.
 
 | Tier | Workers | Share |
 |---|--:|--:|
-| **Baseline** *(D=1.25, **GROWER** — four rock outcrops at Mabus Point, food term 100%)* | 435,036 | **41.1%** |
-| **Mandated** | 248,811 | **23.6%** |
-| **FREE — the character budget** | 373,217 | **35.3%** |
+| **Baseline** *(D=1.25, **GROWER** — four rock outcrops at Mabus Point, food term 100%)* | 446,228 | **42.2%** |
+| **Mandated** | 244,334 | **23.1%** |
+| **FREE — the character budget** | 366,502 | **34.7%** |
 
-**Distinctive tier: 622,028 (58.9%).** Canon §15: Communications/Arcanet ~20% · Technical/scientific ~20% ·
-Industrial/manufacturing ~20% · Maritime ~15% · Commercial ~15% · Other ~10%. *(counts recomputed 2026-11-03 on the current population, shares held; were baseline 418,565, mandated 239,966, free 359,949.)*
+**Distinctive tier: 610,836 (57.8%).** Canon §15: Communications/Arcanet ~20% · Technical/scientific ~20% ·
+Industrial/manufacturing ~20% · Maritime ~15% · Commercial ~15% · Other ~10%. *(counts recomputed 2026-11-03 on the current population, shares held; were baseline 418,565, mandated 239,966, free 359,949.)* *(Robot term added 2026-11-03, `DR-96`: the baseline now includes robots × 15.75 ÷ 1,000 = 11,192 workers (B3 maintenance 12.5 + B4 sustenance 3.25 per 1,000 robots), as `09` §3.6 defines it; shares held; were baseline 435,036, mandated 248,811, free 373,217, distinctive 622,028.)*
 
 ### The mandate *(developer ruling C, 2026-09-02 — "there's not even a question about it")*
 
 | Share of distinctive | Workers | Sector | Basis |
 |--:|--:|---|---|
-| **20%** | 124,406 | **Communications/Arcanet infrastructure — FULL** | ✅ §15: *"an unusually large sector, reflecting Mirny's unique subnet-hub role"* |
-| **20%** | 124,405 | **Industrial/manufacturing — FULL** | ✅ §15's own vision note — see below |
-| **40%** | **248,811** | | |
+| **20%** | 122,167 | **Communications/Arcanet infrastructure — FULL** | ✅ §15: *"an unusually large sector, reflecting Mirny's unique subnet-hub role"* |
+| **20%** | 122,167 | **Industrial/manufacturing — FULL** | ✅ §15's own vision note — see below |
+| **40%** | **244,334** | | |
 
 ### ⭐⭐ Canon ruled the industrial sector in its own words
 
@@ -2182,18 +2182,18 @@ explicitly **not** to Concordia, a different subnet, severed by the Split Brain)
 
 | Tier | Workers | Share |
 |---|--:|--:|
-| **Baseline** *(D=1.11, **GROWER** — Bailey Peninsula-adjacent, Wilkes Land coast)* | 452,244 | **38.7%** |
-| **Mandated** | 214,552 | **18.4%** |
-| **FREE — the character budget** | 500,622 | **42.9%** |
+| **Baseline** *(D=1.11, **GROWER** — Bailey Peninsula-adjacent, Wilkes Land coast)* | 464,639 | **39.8%** |
+| **Mandated** | 210,834 | **18.1%** |
+| **FREE — the character budget** | 491,945 | **42.1%** |
 
-**Distinctive tier: 715,174 (61.3%).** Canon §15: Transit/logistics/resupply ~30% · Commercial ~20% ·
-Technical/scientific ~15% · Maritime ~15% · Industrial/manufacturing ~10% · Other ~10%. *(counts recomputed 2026-11-03 on the current population, shares held; were baseline 436,698, mandated 207,641, free 484,495.)*
+**Distinctive tier: 702,779 (60.2%).** Canon §15: Transit/logistics/resupply ~30% · Commercial ~20% ·
+Technical/scientific ~15% · Maritime ~15% · Industrial/manufacturing ~10% · Other ~10%. *(counts recomputed 2026-11-03 on the current population, shares held; were baseline 436,698, mandated 207,641, free 484,495.)* *(Robot term added 2026-11-03, `DR-96`: the baseline now includes robots × 15.75 ÷ 1,000 = 12,395 workers (B3 maintenance 12.5 + B4 sustenance 3.25 per 1,000 robots), as `09` §3.6 defines it; shares held; were baseline 452,244, mandated 214,552, free 500,622, distinctive 715,174.)*
 
 ### The mandate *(developer ruling A, 2026-09-02)*
 
 | Share of distinctive | Workers | Sector | Basis |
 |--:|--:|---|---|
-| **30%** | 214,552 | **Transit/logistics/resupply — the junction economy** | ✅ `04` §3 **LOGISTICS provider**; §15's *"the dominant sector, reflecting the junction economy directly"* |
+| **30%** | 210,834 | **Transit/logistics/resupply — the junction economy** | ✅ `04` §3 **LOGISTICS provider**; §15's *"the dominant sector, reflecting the junction economy directly"* |
 
 ### ⭐ This city clears the crossroads test on its own §15's terms
 
@@ -2257,30 +2257,30 @@ actual defining fact, rather than smoothed over.**
 
 | Tier | Workers | Share |
 |---|--:|--:|
-| **Baseline** *(D=2.70 — highest in the roster — **but 0 humans**, so the human-keyed term is zero)* | 42,470 | **28.6%** |
-| **Mandated** | 39,761 | **26.8%** |
-| **FREE — the character budget** | 66,266 | **44.6%** |
+| **Baseline** *(D=2.70 — highest in the roster — **but 0 humans**, so the human-keyed term is zero)* | 44,809 | **30.2%** |
+| **Mandated** | 38,883 | **26.2%** |
+| **FREE — the character budget** | 64,805 | **43.6%** |
 
-**Distinctive tier: 106,027 (71.4%).** Canon §15: Astronomy 60% · Ice core science 15% · Religious
-practice/pilgrimage infrastructure 15% · Altitude-legacy medical infrastructure/facility maintenance 10%. *(counts recomputed 2026-11-03 on the current population, shares held; were baseline 35,306, mandated 33,054, free 55,089.)*
+**Distinctive tier: 103,688 (69.8%).** Canon §15: Astronomy 60% · Ice core science 15% · Religious
+practice/pilgrimage infrastructure 15% · Altitude-legacy medical infrastructure/facility maintenance 10%. *(counts recomputed 2026-11-03 on the current population, shares held; were baseline 35,306, mandated 33,054, free 55,089.)* *(Robot term added 2026-11-03, `DR-96`: the baseline now includes robots × 15.75 ÷ 1,000 = 2,339 workers (B3 maintenance 12.5 + B4 sustenance 3.25 per 1,000 robots), as `09` §3.6 defines it; shares held; were baseline 42,470, mandated 39,761, free 66,266, distinctive 106,027.)*
 
 ### The mandate *(developer ruling, 2026-09-02 — provisional)*
 
 | Share of distinctive | Workers | Sector | |
 |--:|--:|---|---|
-| **30%** | 31,809 | **Astronomy — HALF** | ½ of 60% |
-| **7.5%** | 7,952 | **Ice core science — HALF** | ½ of 15% |
-| **37.5%** | **39,761** | | |
+| **30%** | 31,106 | **Astronomy — HALF** | ½ of 60% |
+| **7.5%** | 7,777 | **Ice core science — HALF** | ½ of 15% |
+| **37.5%** | **38,883** | | |
 
 > **Both of Kunlun's scientific sectors split down the middle — half of each doing work the country needs,
 > half doing work the city does because that is what it is.**
 
 ### ⭐ A structural note: highest difficulty, lowest baseline share
 
-**Kunlun carries D = 2.70, the highest in the roster, and a baseline of only 28.6%, the lowest.** **Not a
+**Kunlun carries D = 2.70, the highest in the roster, and a baseline of only 30.2%** *(28.6% before the robot term, 2026-11-03)*. **Not a
 contradiction.** With **zero humans**, the entire human-keyed term *(food, health, schooling, childcare,
 mortuary — `120.7·f·D + 85.6` per 1,000 humans)* **is multiplied by zero.** ***Difficulty only scales costs
-there is nobody to spend on.*** **The free tier is 71.4% of distinctive because robots do not eat.**
+there is nobody to spend on.*** **The free tier is 69.8% of the workforce** *(71.4% before the robot term, 2026-11-03)* **because robots do not eat.**
 
 ### Why astronomy is half, not zero — revisiting Half A
 
@@ -2350,18 +2350,18 @@ not already specified.**
 
 | Tier | Workers | Share |
 |---|--:|--:|
-| **Baseline** *(D=2.50, **ICE-SHEET FORCED IMPORTER** — bedrock ~4 km down under Lake Vostok, food term at 10%)* | 138,725 | **37.4%** |
-| **Mandated** | 72,900 | **20.3%** |
-| **FREE — the character budget** | 151,411 | **42.3%** |
+| **Baseline** *(D=2.50, **ICE-SHEET FORCED IMPORTER** — bedrock ~4 km down under Lake Vostok, food term at 10%)* | 143,209 | **39.4%** |
+| **Mandated** | 71,444 | **19.7%** |
+| **FREE — the character budget** | 148,383 | **40.9%** |
 
-**Distinctive tier: 224,311 (62.6%).** Canon §15: Science *(Lake Vostok research program)* 65% ·
-Self-sufficiency/survival infrastructure 25% · Other 10%. *(counts recomputed 2026-11-03 on the current population, shares held; were baseline 121,353, mandated 66,007, free 137,092.)*
+**Distinctive tier: 219,827 (60.6%).** Canon §15: Science *(Lake Vostok research program)* 65% ·
+Self-sufficiency/survival infrastructure 25% · Other 10%. *(counts recomputed 2026-11-03 on the current population, shares held; were baseline 121,353, mandated 66,007, free 137,092.)* *(Robot term added 2026-11-03, `DR-96`: the baseline now includes robots × 15.75 ÷ 1,000 = 4,484 workers (B3 maintenance 12.5 + B4 sustenance 3.25 per 1,000 robots), as `09` §3.6 defines it; shares held; were baseline 138,725, mandated 72,900, free 151,411, distinctive 224,311.)*
 
 ### The mandate *(developer ruling B, 2026-09-02)*
 
 | Share of distinctive | Workers | Sector | |
 |--:|--:|---|---|
-| **32.5%** | 72,900 | **Science — HALF of the 65% sector** | The Kunlun treatment: a dominant science sector at an extreme site, split down the middle |
+| **32.5%** | 71,444 | **Science — HALF of the 65% sector** | The Kunlun treatment: a dominant science sector at an extreme site, split down the middle |
 
 ### ⭐ The previous 9.2% was a FLOOR, not an assessment
 
@@ -2433,18 +2433,18 @@ Casey · Kunlun · Vostok.*
 
 | Tier | Workers | Share |
 |---|--:|--:|
-| **Baseline** *(D=1.67, **GROWER** — Petrel Island, Géologie Archipelago)* | 163,966 | **48.0%** |
-| **Mandated** | 14,799 | **4.3%** |
-| **FREE — the character budget** | 162,794 | **47.7%** |
+| **Baseline** *(D=1.67, **GROWER** — Petrel Island, Géologie Archipelago)* | 167,585 | **49.1%** |
+| **Mandated** | 14,498 | **4.2%** |
+| **FREE — the character budget** | 159,477 | **46.7%** |
 
-**Distinctive tier: 177,593 (52.0%).** Canon §15: Marine/resource extraction 25% · Technical/scientific 25% ·
-Commercial 20% · Industrial/manufacturing 15% · Education 8% · Other 7%.
+**Distinctive tier: 173,975 (50.9%).** Canon §15: Marine/resource extraction 25% · Technical/scientific 25% ·
+Commercial 20% · Industrial/manufacturing 15% · Education 8% · Other 7%. *(Robot term added 2026-11-03, `DR-96`: the baseline now includes robots × 15.75 ÷ 1,000 = 3,619 workers (B3 maintenance 12.5 + B4 sustenance 3.25 per 1,000 robots), as `09` §3.6 defines it; shares held; were baseline 163,966, mandated 14,799, free 162,794, distinctive 177,593.)*
 
 ### The mandate *(developer ruling B, 2026-09-02)*
 
 | Share of distinctive | Workers | Role | Basis |
 |--:|--:|---|---|
-| **8.33%** *(⅓ of marine 25%)* | 14,799 | **The food share of the marine sector** | ✅ `04`'s national food supply tally already counts it |
+| **8.33%** *(⅓ of marine 25%)* | 14,498 | **The food share of the marine sector** | ✅ `04`'s national food supply tally already counts it |
 
 > **This replaces the 0.0% that stood in Half B.**
 
@@ -2581,20 +2581,20 @@ defending the same thing from opposite ends.**
 
 | Tier | Workers | Share |
 |---|--:|--:|
-| **Baseline** *(**D=2.00** — Cape Denison, rock-founded, food term 100%)* | 385,364 | **53.2%** |
-| **Mandated** | 118,012 | **16.4%** |
-| **FREE — the character budget** | 219,165 | **30.4%** |
+| **Baseline** *(**D=2.00** — Cape Denison, rock-founded, food term 100%)* | 393,030 | **54.4%** |
+| **Mandated** | 115,329 | **16.0%** |
+| **FREE — the character budget** | 214,182 | **29.6%** |
 
-**Distinctive tier: 337,177 (46.8%).** Canon §15: Structural/wind engineering ~25% · Technical/scientific
-~20% · Industrial/manufacturing ~20% · Commercial ~15% · Education ~10% · Other ~10%. *(counts recomputed 2026-11-03 on the current population, shares held; were baseline 428,167, mandated 131,771, free 244,718.)*
+**Distinctive tier: 329,511 (45.6%).** Canon §15: Structural/wind engineering ~25% · Technical/scientific
+~20% · Industrial/manufacturing ~20% · Commercial ~15% · Education ~10% · Other ~10%. *(counts recomputed 2026-11-03 on the current population, shares held; were baseline 428,167, mandated 131,771, free 244,718.)* *(Robot term added 2026-11-03, `DR-96`: the baseline now includes robots × 15.75 ÷ 1,000 = 7,666 workers (B3 maintenance 12.5 + B4 sustenance 3.25 per 1,000 robots), as `09` §3.6 defines it; shares held; were baseline 385,364, mandated 118,012, free 219,165, distinctive 337,177.)*
 
 ### The mandate *(developer ruling B, 2026-09-02)*
 
 | Share of distinctive | Workers | Sector | Basis |
 |--:|--:|---|---|
-| **25%** | 84,294 | **Structural/wind engineering — FULL** | ✅ §25 Export Culture — see below |
-| **10%** | 33,718 | **Half of Industrial/manufacturing — the chamber manufacture** | ✅ `Specs` L97, confirmed for the living Second Interwar Period |
-| **35%** | **118,012** | | |
+| **25%** | 82,378 | **Structural/wind engineering — FULL** | ✅ §25 Export Culture — see below |
+| **10%** | 32,951 | **Half of Industrial/manufacturing — the chamber manufacture** | ✅ `Specs` L97, confirmed for the living Second Interwar Period |
+| **35%** | **115,329** | | |
 
 ### ⚠ The analyst went in expecting to correct this mandate DOWNWARD. The opposite was true.
 
@@ -2663,20 +2663,20 @@ function; only the sector was open.**
 
 | Tier | Workers | Share |
 |---|--:|--:|
-| **Baseline** *(D=1.25, **GROWER** — rock-founded cape, food term 100%)* | 482,608 | **41.4%** |
-| **Mandated** | 255,994 | **22.0%** |
-| **FREE — the character budget** | 426,654 | **36.6%** |
+| **Baseline** *(D=1.25, **GROWER** — rock-founded cape, food term 100%)* | 494,873 | **42.5%** |
+| **Mandated** | 251,394 | **21.6%** |
+| **FREE — the character budget** | 418,990 | **35.9%** |
 
-**Distinctive tier: 682,648 (58.6%).** Canon §15 *(corrected 2026-08-31)*: Marine/resource extraction 25% ·
-Commercial 25% · Technical/scientific 20% · Education 15% · Industrial/manufacturing 10%. *(counts recomputed 2026-11-03 on the current population, shares held; were baseline 466,136, mandated 247,701, free 412,834.)*
+**Distinctive tier: 670,384 (57.5%).** Canon §15 *(corrected 2026-08-31)*: Marine/resource extraction 25% ·
+Commercial 25% · Technical/scientific 20% · Education 15% · Industrial/manufacturing 10%. *(counts recomputed 2026-11-03 on the current population, shares held; were baseline 466,136, mandated 247,701, free 412,834.)* *(Robot term added 2026-11-03, `DR-96`: the baseline now includes robots × 15.75 ÷ 1,000 = 12,265 workers (B3 maintenance 12.5 + B4 sustenance 3.25 per 1,000 robots), as `09` §3.6 defines it; shares held; were baseline 482,608, mandated 255,994, free 426,654, distinctive 682,648.)*
 
 ### The mandate *(developer ruling B, 2026-09-02)*
 
 | Share of distinctive | Workers | Sector | Basis |
 |--:|--:|---|---|
-| **25%** | 170,663 | **Marine/resource extraction — FULL** | ✅ Canon §15 — **port/harbor ops + the guano phosphate** |
-| **12.5%** | 85,331 | **Half of Commercial — operating the NZ freight link** | ✅ Canon §15 *"arrival/departure trade, NZ freighter"* |
-| **37.5%** | **255,994** | | |
+| **25%** | 167,596 | **Marine/resource extraction — FULL** | ✅ Canon §15 — **port/harbor ops + the guano phosphate** |
+| **12.5%** | 83,798 | **Half of Commercial — operating the NZ freight link** | ✅ Canon §15 *"arrival/departure trade, NZ freighter"* |
+| **37.5%** | **251,394** | | |
 
 ### ⭐⭐ The marine sector carries the most existential export in the country
 
@@ -2745,18 +2745,18 @@ monitoring.** ***Mandating it would risk re-collapsing it into one object.*** **
 
 | Tier | Workers | Share |
 |---|--:|--:|
-| **Baseline** *(D=1.25, **GROWER** — Terra Nova Bay, rock-founded, food term 100%)* | 408,050 | **41.4%** |
-| **Mandated** | 57,539 | **5.9%** |
-| **FREE — the character budget** | 517,853 | **52.7%** |
+| **Baseline** *(D=1.25, **GROWER** — Terra Nova Bay, rock-founded, food term 100%)* | 418,383 | **42.5%** |
+| **Mandated** | 56,506 | **5.8%** |
+| **FREE — the character budget** | 508,554 | **51.7%** |
 
-**Distinctive tier: 575,392 (58.6%).** Canon §15: Commercial 25% · Marine/resource extraction 20% ·
-Industrial/manufacturing 20% · Technical/scientific 15% · Education 12% · Other 8%. *(counts recomputed 2026-11-03 on the current population, shares held; were baseline 391,579, mandated 55,328, free 497,952.)*
+**Distinctive tier: 565,060 (57.5%).** Canon §15: Commercial 25% · Marine/resource extraction 20% ·
+Industrial/manufacturing 20% · Technical/scientific 15% · Education 12% · Other 8%. *(counts recomputed 2026-11-03 on the current population, shares held; were baseline 391,579, mandated 55,328, free 497,952.)* *(Robot term added 2026-11-03, `DR-96`: the baseline now includes robots × 15.75 ÷ 1,000 = 10,334 workers (B3 maintenance 12.5 + B4 sustenance 3.25 per 1,000 robots), as `09` §3.6 defines it; shares held; were baseline 408,050, mandated 57,539, free 517,853, distinctive 575,392.)*
 
 ### The mandate *(developer ruling B, 2026-09-02)*
 
 | Share of distinctive | Workers | Role | Basis |
 |--:|--:|---|---|
-| **10%** *(half of marine 20%)* | 57,539 | **Zukelli's share of the shared polynya port infrastructure** | ✅ §15; **Janbogo, working the same polynya, is an `04`-listed food provider** |
+| **10%** *(half of marine 20%)* | 56,506 | **Zukelli's share of the shared polynya port infrastructure** | ✅ §15; **Janbogo, working the same polynya, is an `04`-listed food provider** |
 
 > **This replaces a 14.6% mandate built on the commercial sector — see below.**
 
@@ -2832,21 +2832,21 @@ recorded here because this is where it surfaced.**
 
 | Tier | Workers | Share |
 |---|--:|--:|
-| **Baseline** *(D=1.25, **GROWER** — Terra Nova Bay, rock-founded, food term 100%)* | 422,552 | **41.1%** |
-| **Mandated** | 241,309 | **23.6%** |
-| **FREE — the character budget** | 361,963 | **35.3%** |
+| **Baseline** *(D=1.25, **GROWER** — Terra Nova Bay, rock-founded, food term 100%)* | 433,404 | **42.2%** |
+| **Mandated** | 236,968 | **23.1%** |
+| **FREE — the character budget** | 355,452 | **34.7%** |
 
-**Distinctive tier: 603,272 (58.9%).** Canon §15: Commercial/logistics ~30% · Marine/resource extraction ~20% ·
+**Distinctive tier: 592,420 (57.8%).** Canon §15: Commercial/logistics ~30% · Marine/resource extraction ~20% ·
 Industrial/manufacturing ~15% · Hospitality/communal services ~15% · Technical/scientific ~10% ·
-Education ~5% · Other ~5%. *(counts recomputed 2026-11-03 on the current population, shares held; were baseline 406,082, mandated 232,464, free 348,695.)*
+Education ~5% · Other ~5%. *(counts recomputed 2026-11-03 on the current population, shares held; were baseline 406,082, mandated 232,464, free 348,695.)* *(Robot term added 2026-11-03, `DR-96`: the baseline now includes robots × 15.75 ÷ 1,000 = 10,852 workers (B3 maintenance 12.5 + B4 sustenance 3.25 per 1,000 robots), as `09` §3.6 defines it; shares held; were baseline 422,552, mandated 241,309, free 361,963, distinctive 603,272.)*
 
 ### The mandate *(developer ruling B, 2026-09-02)*
 
 | Share of distinctive | Workers | Sector | Basis |
 |--:|--:|---|---|
-| **30%** | 180,982 | **Commercial/logistics — FULL** | ✅ Canon §15 — two independent national grounds, below |
-| **10%** | 60,327 | **Half of Marine** — the year-round polynya fishery | ✅ `04` food provider; `04`'s own discount rule re-read |
-| **40%** | **241,309** | | |
+| **30%** | 177,726 | **Commercial/logistics — FULL** | ✅ Canon §15 — two independent national grounds, below |
+| **10%** | 59,242 | **Half of Marine** — the year-round polynya fishery | ✅ `04` food provider; `04`'s own discount rule re-read |
+| **40%** | **236,968** | | |
 
 ### ⭐⭐ Commercial/logistics is mandated on TWO independent grounds
 
@@ -2914,20 +2914,20 @@ annotation to split on. The Troll refusal, applied across four sectors at once.*
 
 | Tier | Workers | Share |
 |---|--:|--:|
-| **Baseline** *(D=1.25, **GROWER** — Ross Island, rock-founded; ⚠ **ABCC not yet set — see below**)* | 138,576 | **41.5%** |
-| **Mandated** | 117,383 | **35.1%** |
-| **FREE — the character budget** | 78,255 | **23.4%** |
+| **Baseline** *(D=1.25, **GROWER** — Ross Island, rock-founded; ⚠ **ABCC not yet set — see below**)* | 142,090 | **42.5%** |
+| **Mandated** | 115,275 | **34.5%** |
+| **FREE — the character budget** | 76,850 | **23.0%** |
 
-**Distinctive tier: 195,639 (58.5%).** Canon §15: Industrial/manufacturing 35% · Marine/resource extraction
-25% · Technical/scientific 15% · Commercial 10% · Education 8% · Other 7%.
+**Distinctive tier: 192,125 (57.5%).** Canon §15: Industrial/manufacturing 35% · Marine/resource extraction
+25% · Technical/scientific 15% · Commercial 10% · Education 8% · Other 7%. *(Robot term added 2026-11-03, `DR-96`: the baseline now includes robots × 15.75 ÷ 1,000 = 3,514 workers (B3 maintenance 12.5 + B4 sustenance 3.25 per 1,000 robots), as `09` §3.6 defines it; shares held; were baseline 138,576, mandated 117,383, free 78,255, distinctive 195,639.)*
 
 ### The mandate *(developer ruling B, 2026-09-02 — provisional)*
 
 | Share of distinctive | Workers | Sector | Basis |
 |--:|--:|---|---|
-| **35%** | 68,474 | **Industrial/manufacturing — FULL** | ✅ §15 *"the core identity of the city"*; **fed construction materials to Concordia's own dome/corridor system** |
-| **25%** | 48,910 | **Marine/resource extraction — FULL** | Dry Valleys extraction **+ the McMurdo Sound crossing that carries Scott's Erebus material** — see the adjustment below |
-| **60%** | **117,383** | | |
+| **35%** | 67,244 | **Industrial/manufacturing — FULL** | ✅ §15 *"the core identity of the city"*; **fed construction materials to Concordia's own dome/corridor system** |
+| **25%** | 48,031 | **Marine/resource extraction — FULL** | Dry Valleys extraction **+ the McMurdo Sound crossing that carries Scott's Erebus material** — see the adjustment below |
+| **60%** | **115,275** | | |
 
 ### ⭐⭐ REGISTER ITEM 9 RESOLVED — by ROUTING, not by adding a mandate
 
@@ -2946,7 +2946,7 @@ of 'baseline'… exactly how much of baseline, that would depend on the context 
 
 | ABCC | Baseline | Free @ a 60% mandate |
 |---|--:|--:|
-| **65/1,000** *(flat — current)* | **41.5%** | 23.4% |
+| **65/1,000** *(flat — current)* | **41.5%** *(42.6% on 2026-11-03)* | 23.4% *(23.0%)* |
 | 100/1,000 | 46.1% | 21.6% |
 | 130/1,000 | 50.1% | 20.0% |
 
@@ -2987,7 +2987,7 @@ trucking facility is not IN Fort McMurdo.**
 overwhelmingly residential city would not run a second sea-ice crossing 3 km from an industrial one.**
 **Presented as inference, and the developer accepted it** *(2026-09-02)*.
 
-> ### **Fort McMurdo's marine sector is therefore serving ANOTHER CITY'S industry as well as its own — the full 25% is national. Mandate 47.5% → 60%; free 30.7% → 23.4%.**
+> ### **Fort McMurdo's marine sector is therefore serving ANOTHER CITY'S industry as well as its own — the full 25% is national. Mandate 47.5% → 60%; free 30.7% → 23.4%.** *(2026-11-03: Fort McMurdo's free tier is 23.0% of its workforce after the robot term.)*
 
 ### The industrial 35% needs no argument
 
@@ -3020,20 +3020,20 @@ here.**
 
 | Tier | Workers | Share |
 |---|--:|--:|
-| **Baseline** *(D=1.25, **GROWER** — Ross Island, rock-founded, food term 100%)* | 119,464 | **41.0%** |
-| **Mandated** | 42,910 | **14.7%** |
-| **FREE — the character budget** | 128,729 | **44.2%** |
+| **Baseline** *(D=1.25, **GROWER** — Ross Island, rock-founded, food term 100%)* | 122,554 | **42.1%** |
+| **Mandated** | 42,137 | **14.5%** |
+| **FREE — the character budget** | 126,412 | **43.4%** |
 
-**Distinctive tier: 171,638 (59.0%).** Canon §15: Technical/scientific 30% · Commercial 20% · Education 15% ·
-Industrial/manufacturing 15% · Marine/resource extraction 12% · Other 8%.
+**Distinctive tier: 168,549 (57.9%).** Canon §15: Technical/scientific 30% · Commercial 20% · Education 15% ·
+Industrial/manufacturing 15% · Marine/resource extraction 12% · Other 8%. *(Robot term added 2026-11-03, `DR-96`: the baseline now includes robots × 15.75 ÷ 1,000 = 3,090 workers (B3 maintenance 12.5 + B4 sustenance 3.25 per 1,000 robots), as `09` §3.6 defines it; shares held; were baseline 119,464, mandated 42,910, free 128,729, distinctive 171,638.)*
 
 ### The mandate *(developer ruling C, 2026-09-02)*
 
 | Share of distinctive | Workers | Sector | Basis |
 |--:|--:|---|---|
-| **15%** | 25,746 | **Industrial/manufacturing — FULL** | ✅ §15 defines the sector **as** the Erebus operation |
-| **10%** | 17,164 | **Half of Commercial** — operating the NZ freight link | ✅ §15 *"New Zealand freighter trade, per the established Ross Sea supply route"* |
-| **25%** | **42,910** | | |
+| **15%** | 25,282 | **Industrial/manufacturing — FULL** | ✅ §15 defines the sector **as** the Erebus operation |
+| **10%** | 16,855 | **Half of Commercial** — operating the NZ freight link | ✅ §15 *"New Zealand freighter trade, per the established Ross Sea supply route"* |
+| **25%** | **42,137** | | |
 
 ### ⭐ Two things the standing 5% estimate missed
 
@@ -3097,21 +3097,21 @@ Fort McMurdo · Scott — with **Concordia deferred by developer ruling.***
 
 | Tier | Workers | Share |
 |---|--:|--:|
-| **Baseline** *(D=1.43, **GROWER** — rock-founded, food term 100%)* | 70,244 | **39.3%** |
-| **Mandated** | 75,918 | **42.5%** |
-| **FREE — the character budget** | 32,536 | **18.2%** |
+| **Baseline** *(D=1.43, **GROWER** — rock-founded, food term 100%)* | 72,323 | **40.5%** |
+| **Mandated** | 74,463 | **41.7%** |
+| **FREE — the character budget** | 31,912 | **17.8%** |
 
-**Distinctive tier: 108,454 (60.7%).** Canon §15 *(revised 2026-07-06)*: Industrial fabrication 30% ·
-Trucking & dispatch 25% · Scientific research 20% · Maritime trade 15% · Leisure/commercial 5% · Other 5%.
+**Distinctive tier: 106,375 (59.5%).** Canon §15 *(revised 2026-07-06)*: Industrial fabrication 30% ·
+Trucking & dispatch 25% · Scientific research 20% · Maritime trade 15% · Leisure/commercial 5% · Other 5%. *(Robot term added 2026-11-03, `DR-96`: the baseline now includes robots × 15.75 ÷ 1,000 = 2,079 workers (B3 maintenance 12.5 + B4 sustenance 3.25 per 1,000 robots), as `09` §3.6 defines it; shares held; were baseline 70,244, mandated 75,918, free 32,536, distinctive 108,454.)*
 
 ### The mandate *(developer ruling B, 2026-09-02 — THE WHOLE CHAIN)*
 
 | Share of distinctive | Workers | Stage | Basis |
 |--:|--:|---|---|
-| **15%** | 16,268 | **Maritime trade — the island port, INTAKE** | The new mainland canon: material lands here |
-| **30%** | 32,536 | **Industrial fabrication — PROCESSING** | ✅ `04` §3 **FABRICATION · TRUCKING** provider |
-| **25%** | 27,114 | **Trucking & dispatch — OUTBOUND via the Junction** | ✅ Canon §15 + *"the whole continent's connectivity plausibly depends on it"* |
-| **70%** | **75,918** | | |
+| **15%** | 15,956 | **Maritime trade — the island port, INTAKE** | The new mainland canon: material lands here |
+| **30%** | 31,913 | **Industrial fabrication — PROCESSING** | ✅ `04` §3 **FABRICATION · TRUCKING** provider |
+| **25%** | 26,594 | **Trucking & dispatch — OUTBOUND via the Junction** | ✅ Canon §15 + *"the whole continent's connectivity plausibly depends on it"* |
+| **70%** | **74,463** | | |
 
 > ### ⭐⭐ **The three sectors are ONE OPERATION, not three.**
 > **ISLAND PORT (intake) → FABRICATION (processing) → TRUCKING (dispatch).** **The Sanay structure**, where
@@ -3187,18 +3187,18 @@ Basis.)*
 
 | Tier | Workers | Share |
 |---|--:|--:|
-| **Baseline** *(D=2.50 — **ICE-SHEET**, but **0 humans**, so the human-keyed term is zero and the food question is moot)* | 21,889 | **27.3%** |
-| **Mandated** | 11,646 | **14.5%** |
-| **FREE — the character budget** | 46,585 | **58.1%** |
+| **Baseline** *(D=2.50 — **ICE-SHEET**, but **0 humans**, so the human-keyed term is zero and the food question is moot)* | 23,151 | **28.9%** |
+| **Mandated** | 11,394 | **14.2%** |
+| **FREE — the character budget** | 45,575 | **56.9%** |
 
-**Distinctive tier: 58,231 (72.7%).** Canon §15: Ice core science/archival research 40% · Religious
-practice/pilgrimage infrastructure 35% · Facility maintenance/altitude-legacy 20% · Other 5%. *(counts recomputed 2026-11-03 on the current population, shares held; were baseline 15,046, mandated 8,005, free 32,021.)*
+**Distinctive tier: 56,969 (71.1%).** Canon §15: Ice core science/archival research 40% · Religious
+practice/pilgrimage infrastructure 35% · Facility maintenance/altitude-legacy 20% · Other 5%. *(counts recomputed 2026-11-03 on the current population, shares held; were baseline 15,046, mandated 8,005, free 32,021.)* *(Robot term added 2026-11-03, `DR-96`: the baseline now includes robots × 15.75 ÷ 1,000 = 1,262 workers (B3 maintenance 12.5 + B4 sustenance 3.25 per 1,000 robots), as `09` §3.6 defines it; shares held; were baseline 21,889, mandated 11,646, free 46,585, distinctive 58,231.)*
 
 ### The mandate *(developer ruling A, 2026-09-02)*
 
 | Share of distinctive | Workers | Sector | Basis |
 |--:|--:|---|---|
-| **20%** *(half of 40%)* | 11,646 | **Ice core science / archival research — HALF** | The Kunlun precedent, ruled the same day |
+| **20%** *(half of 40%)* | 11,394 | **Ice core science / archival research — HALF** | The Kunlun precedent, ruled the same day |
 
 ### ⭐ The standing estimate was right by the WRONG REASONING
 
@@ -3264,20 +3264,20 @@ a seed vault is an archive** — so it sits inside this same sector, and the rul
 
 | Tier | Workers | Share |
 |---|--:|--:|
-| **Baseline** *(D=1.25, **GROWER** — Holme Bay coast, rock-founded, food term 100%)* | 463,813 | **41.0%** |
-| **Mandated** | 233,323 | **20.7%** |
-| **FREE — the character budget** | 433,316 | **38.4%** |
+| **Baseline** *(D=1.25, **GROWER** — Holme Bay coast, rock-founded, food term 100%)* | 475,815 | **42.1%** |
+| **Mandated** | 229,123 | **20.3%** |
+| **FREE — the character budget** | 425,515 | **37.6%** |
 
-**Distinctive tier: 666,639 (59.0%).** Canon §15: Subnet-hub logistics/Arcanet coordination 25% · Maritime
-trade 20% · Technical/scientific 20% · Commercial/trade 15% · Hospitality/honeymoon tourism 10% · Other 10%. *(counts recomputed 2026-11-03 on the current population, shares held; were baseline 447,342, mandated 225,584, free 418,942.)*
+**Distinctive tier: 654,638 (57.9%).** Canon §15: Subnet-hub logistics/Arcanet coordination 25% · Maritime
+trade 20% · Technical/scientific 20% · Commercial/trade 15% · Hospitality/honeymoon tourism 10% · Other 10%. *(counts recomputed 2026-11-03 on the current population, shares held; were baseline 447,342, mandated 225,584, free 418,942.)* *(Robot term added 2026-11-03, `DR-96`: the baseline now includes robots × 15.75 ÷ 1,000 = 12,002 workers (B3 maintenance 12.5 + B4 sustenance 3.25 per 1,000 robots), as `09` §3.6 defines it; shares held; were baseline 463,813, mandated 233,323, free 433,316, distinctive 666,639.)*
 
 ### The mandate *(developer ruling B, 2026-09-02)*
 
 | Share of distinctive | Workers | Sector | Basis |
 |--:|--:|---|---|
-| **25%** | 166,659 | **Subnet-hub logistics / Arcanet coordination — FULL** | ✅ §15 *"the city's clearly defining civic function"*; `04` §3 **LOGISTICS (subnet hub)** |
-| **10%** | 66,664 | **Half of Maritime trade — Sinheung's import channel** | ✅ Canon, stated in **Troll's** Specs — see below |
-| **35%** | **233,323** | | |
+| **25%** | 163,659 | **Subnet-hub logistics / Arcanet coordination — FULL** | ✅ §15 *"the city's clearly defining civic function"*; `04` §3 **LOGISTICS (subnet hub)** |
+| **10%** | 65,464 | **Half of Maritime trade — Sinheung's import channel** | ✅ Canon, stated in **Troll's** Specs — see below |
+| **35%** | **229,123** | | |
 
 ### ⭐⭐ The maritime sector has a national customer — named in a DIFFERENT city's file
 
@@ -3352,22 +3352,22 @@ it is a §15 question, not a mandate question.**
 
 | Tier | Workers | Share |
 |---|--:|--:|
-| **Baseline** *(D=1.67, **ICE-SHEET FORCED IMPORTER** — bedrock **2,164 m** down, food term at 10%)* | 116,978 | **36.2%** |
-| **Mandated** | 123,217 | **38.3%** |
-| **FREE — the character budget** | 82,145 | **25.5%** |
+| **Baseline** *(D=1.67, **ICE-SHEET FORCED IMPORTER** — bedrock **2,164 m** down, food term at 10%)* | 120,375 | **37.3%** |
+| **Mandated** | 121,179 | **37.6%** |
+| **FREE — the character budget** | 80,786 | **25.1%** |
 
-**Distinctive tier: 205,362 (63.8%).** Canon §15 *(revised 2026-07-06)*: Mechanized fabrication 30% ·
+**Distinctive tier: 201,965 (62.7%).** Canon §15 *(revised 2026-07-06)*: Mechanized fabrication 30% ·
 Import/export & dispatch 25% · Infrastructure/snow management 15% · Resource extraction 15% ·
-Salvage/grounded aviation fleet maintenance 10% · Other 5%. *(counts recomputed 2026-11-03 on the current population, shares held; were baseline 102,645, mandated 108,667, free 72,444.)*
+Salvage/grounded aviation fleet maintenance 10% · Other 5%. *(counts recomputed 2026-11-03 on the current population, shares held; were baseline 102,645, mandated 108,667, free 72,444.)* *(Robot term added 2026-11-03, `DR-96`: the baseline now includes robots × 15.75 ÷ 1,000 = 3,397 workers (B3 maintenance 12.5 + B4 sustenance 3.25 per 1,000 robots), as `09` §3.6 defines it; shares held; were baseline 116,978, mandated 123,217, free 82,145, distinctive 205,362.)*
 
 ### The mandate *(developer ruling D, 2026-09-02)*
 
 | Share of distinctive | Workers | Sector | Basis |
 |--:|--:|---|---|
-| **30%** | 61,609 | **Mechanized fabrication — FULL** | ✅ One of only **two** current chamber-manufacturing cities |
-| **25%** | 51,341 | **Import/export & dispatch — FULL** | ✅ **Both ends of the chain in one sector**; double main-line terminus |
-| **5%** | 20,536 ÷ 2 = 10,268, set to **10,267** so the rows sum to the total | **Half of aviation fleet maintenance** | ✅ Byrd holds one of **thirteen** airports in Tepenia |
-| **60%** | **123,217** | | |
+| **30%** | 60,590 | **Mechanized fabrication — FULL** | ✅ One of only **two** current chamber-manufacturing cities |
+| **25%** | 50,491 | **Import/export & dispatch — FULL** | ✅ **Both ends of the chain in one sector**; double main-line terminus |
+| **5%** | 20,197 ÷ 2 = 10,098.5, set to **10,098** so the rows sum to the total | **Half of aviation fleet maintenance** | ✅ Byrd holds one of **thirteen** airports in Tepenia |
+| **60%** | **121,179** | | |
 
 ### ⚠ A stale figure corrected before calculating
 
@@ -3455,12 +3455,12 @@ the developer's updated maps)*.
 
 | Tier | Workers | Share |
 |---|--:|--:|
-| **Baseline** *(D=2.50, **ICE-SHEET forced importer** — ~2,850 m of plateau ice; food term at 10%)* | 2,003 | **31.8%** |
-| **Mandated** | 3,864 | **61.4%** |
-| **FREE** | 429 | **6.8%** |
+| **Baseline** *(D=2.50, **ICE-SHEET forced importer** — ~2,850 m of plateau ice; food term at 10%)* | 2,093 | **33.2%** |
+| **Mandated** | 3,784 | **60.1%** |
+| **FREE** | 420 | **6.7%** |
 
-**Distinctive tier: 4,293 (68.2%).** Canon §15: Arcanet relay operations/infrastructure maintenance 60% ·
-Amundsen Tower operations 30% · Other/life support 10%.
+**Distinctive tier: 4,204 (66.8%).** Canon §15: Arcanet relay operations/infrastructure maintenance 60% ·
+Amundsen Tower operations 30% · Other/life support 10%. *(Robot term added 2026-11-03, `DR-96`: the baseline now includes robots × 15.75 ÷ 1,000 = 90 workers (B3 maintenance 12.5 + B4 sustenance 3.25 per 1,000 robots), as `09` §3.6 defines it; shares held; were baseline 2,003, mandated 3,864, free 429, distinctive 4,293.)*
 
 **Population: 1,121 humans / 5,736 robots — ~84% robot, the highest robot proportion of any Tepenian
 population center.**
@@ -3469,9 +3469,9 @@ population center.**
 
 | Share of distinctive | Workers | Sector | Basis |
 |--:|--:|---|---|
-| **60%** | 2,576 | **Arcanet relay operations** | ✅ §15: ***"the station's entire reason for existing."*** Its loss caused the **Planetary Split Brain** |
-| **30%** | 1,288 | **Amundsen Tower operations** | ✅ The space fountain — the nation's only route to orbit |
-| **90%** | **3,864** | | |
+| **60%** | 2,523 | **Arcanet relay operations** | ✅ §15: ***"the station's entire reason for existing."*** Its loss caused the **Planetary Split Brain** |
+| **30%** | 1,261 | **Amundsen Tower operations** | ✅ The space fountain — the nation's only route to orbit |
+| **90%** | **3,784** | | |
 
 **No judgment call was required.** ***Both sectors are named national infrastructure, and between them they
 are the two most consequential systems in the setting.***
@@ -3485,7 +3485,7 @@ heritage, honeymoons.** *(Casey's Splinters. Shirayuki's music. Dome Fuji's fait
 honeymoons.)*
 
 > ## **Amundsen Station's character budget is the air, the heat and the water.**
-> ***Nothing here is discretionary. The 6.8% that is not conscripted is the part that keeps people
+> ***Nothing here is discretionary. The 6.7% *(6.8% before the robot term, 2026-11-03)* that is not conscripted is the part that keeps people
 > breathing.***
 
 **And that is not a modeling artifact — it is what canon says the place was:** *"had no economy in the
@@ -3552,10 +3552,10 @@ survived in the ruins — *"the only place all six subnets' histories can be rec
 
 | # | City | Held item | What the review tests |
 |---|---|---|---|
-| 1 | **{{Abowasa}}** | Commuter-labor mandate held at 10% of distinctive *(5.4% of workforce)* | Whether a city with **no food debt** should carry a commuter export at all — and what cutting it does to the Halley subnet's supply picture and the national balance |
+| 1 | **{{Abowasa}}** | Commuter-labor mandate held at 10% of distinctive *(5.3% of workforce after the 2026-11-03 recount; was 5.4%)* | Whether a city with **no food debt** should carry a commuter export at all — and what cutting it does to the Halley subnet's supply picture and the national balance |
 | 2 | **Sanay** | **Its §15 has no Arcanet sector, yet canon says it hosts the subnet's Arcanet relay nexus** | Whether the nexus staff sit inside Technical/scientific 10% *(currently left FREE)*, or whether Sanay's §15 needs an Arcanet line added. Compare Mirny's explicit `Communications/Arcanet ~20%` |
 | 3 | **Troll** | **Set to Option A — logistics 30% only. Mandate 16.7%, free 38.9%** | Rerun as **Option B (+ half of Industrial/manufacturing = 37.5% of distinctive → mandate 20.8%, free 34.7%)** and see what it does to the national numbers. **A was chosen because Troll's §15 says only "Industrial / manufacturing," unannotated** — unlike Sanay's, which literally reads `Industrial/manufacturing (repair)`. Taking half would assume a sector's content to match precedent rather than read it. **The case for B:** air freight is maintenance-hungry and a 3,000 m blue-ice runway needs constant grooming — though that work more likely already sits inside the 30% canon calls *"airfield operations and control"* |
-| 4 | **Princess Elisabeth** | **A vignette says the city *"was never self-sufficient in food/materials, only energy"* — contradicting its GROWER classification** | Vignettes are not canon, so f=1.00 stands. But if ever promoted, baseline drops **43.7% → 33.7%** and distinctive rises to **66.3%** — a 10-point swing. Possible reconciliation *(not asserted)*: PE's **outdoor** tier is genuinely zero *(300 km/h winds)*, which the vignette may be describing rather than indoor growing |
+| 4 | **Princess Elisabeth** | **A vignette says the city *"was never self-sufficient in food/materials, only energy"* — contradicting its GROWER classification** | Vignettes are not canon, so f=1.00 stands. But if ever promoted, baseline drops **44.8% → 34.8%** and distinctive rises to **65.2%** — a 10-point swing *(figures recomputed 2026-11-03 with the robot term)*. Possible reconciliation *(not asserted)*: PE's **outdoor** tier is genuinely zero *(300 km/h winds)*, which the vignette may be describing rather than indoor growing |
 | 5 | **Method — inland "Marine / resource extraction"** | **Second instance** *(Troll, Princess Elisabeth)* of an unannotated compound marine label at a city far inland and high up | Whether the **extraction** half is the intended read at inland nunatak cities generally. Watch for further instances as the pass continues; if the pattern holds across subnets it is worth one consolidated ruling rather than per-city judgment |
 | 6 | **Sejong** | **Its §15 has no customs/immigration/border line, yet it hosts the Machu Picchu Border & Customs Authority** | **Second instance of the Sanay pattern** *(national infrastructure with no §15 sector)*. Here the cause is datable: **the §15 is from 2026-07-04, the gateway ruling from 2026-09-02.** Whether Sejong's §15 needs a border line added, or the function is considered folded into Commercial/trade 25%. **Mandate held at 25% either way** |
 | 7 | **National — deferred by developer** | **Where a neutral zone of international diplomacy would be situated** | ⏸️ **Parked deliberately, 2026-09-02: *"I actually hadn't previously thought about where a 'neutral zone' of international diplomacy could be situated, but that's a problem for the future."*** Raised by Sejong's border role. **NOT to be closed opportunistically** — it is a real open design question, not an oversight |
@@ -3566,10 +3566,10 @@ survived in the ruins — *"the only place all six subnets' histories can be rec
 | 12 | **Belgrano — deferred by developer** | **The Belgrano Institute of Medicine's classification** | ⏸️ **Parked 2026-09-02: *"I'm sure there's a better way to classify the Belgrano Institute of Medicine."*** Currently absorbed into the **Aviation/logistics 35%** mandate on the grounds that medevac is an aviation function and the school is downstream of the flight line. **Revisit AFTER the full-country run**, not before — and note the ruling above stands: it is not a case for a separate §15 sector |
 | 13 | **Port Lockroy — stale TBD** | **Its post office is recorded as an open question in 3 files, but the question is resolved** | `Specs/Port_Lockroy.md` **L112, L134** and `Local_Cultures/Palmer_Subnet/Port_Lockroy.md` **L248** all say *"functioning institution or heritage artifact — TBD."* **Both the Vision Notes and the Calethina courier lore (Specs L105) settle it as a genuine, active civic institution.** A resolution that never propagated. **Deferred with the other culture-file corrections until after this pass** |
 | 14 | **Davis** | **Set to Option B — agriculture 35% + HALF technical/scientific 12.5%. Mandate 28.2%, free 31.1%** | ⏸️ **Marked for review after all cities are determined**, per developer direction — *"just in case we need to figure on adjusting stats in some cities."* **Alternatives precomputed:** **A** *(agriculture only)* mandate 20.7% / free 38.5% · **C** *(+ full technical)* mandate 35.6% / free 23.7% · **D** *(B + half maritime)* mandate 32.6% / free 26.7%. **The half-technical rests on the Signy precedent** — a capped national resource needs someone who knows its limits — **applied on land to the Breadbasket** |
-| 15 | **Kunlun** | **Set to HALF astronomy + HALF ice core. Mandate 26.8%, free 44.6%** | ⏸️ **Marked for review by the developer, who is weighing TWO-THIRDS of each instead** — precomputed: **mandate 44,072 (35.7%) / free 44,072 (35.7%)**, exactly equal. **The developer's own reason for holding at half:** *"having a 44% free budget would allow for other scientific research that I may not have thought of."* **Also depends on an unsettled premise** — the near-Earth observatory focus is explicitly *"tentative, not firmly settled"* (2026-07-06) |
+| 15 | **Kunlun** | **Set to HALF astronomy + HALF ice core. Mandate 26.2%, free 43.6%** *(2026-11-03, after the robot term; was 26.8% / 44.6%)* | ⏸️ **Marked for review by the developer, who is weighing TWO-THIRDS of each instead** — precomputed: **mandate 44,072 (35.7%) / free 44,072 (35.7%)**, exactly equal *(2026-11-03: not recomputed after the robot term; Kunlun's distinctive tier is now 103,688)*. **The developer's own reason for holding at half:** *"having a 44% free budget would allow for other scientific research that I may not have thought of."* **Also depends on an unsettled premise** — the near-Earth observatory focus is explicitly *"tentative, not firmly settled"* (2026-07-06) |
 | 16 | **`04` — internal inconsistency** | **Dumont d'Urville appears in `04`'s national FOOD TALLY (28,463 producers) but NOT in `04` §3's provider LIST** | Found during DdU's determination. **The tally figure is load-bearing** — it sits inside the ~835,000 total behind the headline *"1 food producer per ~19 people"*; without it the ratio is 1 per 19.4. **Whether `04` §3's provider list should gain Dumont d'Urville, or the tally should lose it.** *(The mandate has been set on the tally's side.)* |
 | 17 | **⏸️ CONCORDIA — DEFERRED** | **Not determined, and deliberately so.** Its 13 districts must be well-defined FIRST, because they determine the municipal DoI character → the post-war condition → **the setting of the actual game** | **The dependency runs backwards here: bottom-up, where every other city is top-down.** Its 15% Half A/B estimate **stands as an estimate only — do not promote it.** **District culture work is UPSTREAM of this, not parallel.** The national re-run must treat Concordia as an **open cell** |
-| 18 | ~~**Fort McMurdo ↔ Scott**~~ **✅ RESOLVED 2026-09-02** | ~~Set to Option B~~ **→ adjusted to A: industrial 35% + FULL marine 25% = 60% of distinctive. Mandate 35.1%, free 23.4%** | **Resolved at Scott's own determination (§30).** ⚠ Geography needed care: *"across McMurdo Sound"* is **the mainland**, and Fort McMurdo is on the **same** side as Scott, 3 km away — **the trucking facility is not in Fort McMurdo.** What Fort McMurdo has is **the crossing** *(harbor logistics, sea-ice road)*, which Scott's material must use. **Canon never states whose facility it is; presented as inference and accepted by the developer** |
+| 18 | ~~**Fort McMurdo ↔ Scott**~~ **✅ RESOLVED 2026-09-02** | ~~Set to Option B~~ **→ adjusted to A: industrial 35% + FULL marine 25% = 60% of distinctive. Mandate 34.4%, free 23.0%** *(2026-11-03, after the robot term; was 35.1% / 23.4%)* | **Resolved at Scott's own determination (§30).** ⚠ Geography needed care: *"across McMurdo Sound"* is **the mainland**, and Fort McMurdo is on the **same** side as Scott, 3 km away — **the trucking facility is not in Fort McMurdo.** What Fort McMurdo has is **the crossing** *(harbor logistics, sea-ice road)*, which Scott's material must use. **Canon never states whose facility it is; presented as inference and accepted by the developer** |
 | 19 | **⏸️ Denison — geography, DEFERRED** | **1,066,143 people on a 1.11 km² cape = ~960,489/km²** — nearly 3× the density the Cape Adare correction rejected, and **1.11 km² is "a tongue of ice, snow, rock and moraine," so the actual bedrock is LESS** | **Deferred by developer 2026-09-02** *("many, many hours of research and creativity")*. **Full research + five options recorded in `Specs/Denison.md`.** **Strongest candidate: canon already says "one continuous, interlinked, LOAD-SHARING structure" — the four rocky ridges are piers, the structure spans three ice-filled valleys.** ⚠ **Must not become a second Byrd** *(underground city)* — the distinction is intent. **The determination is unaffected** |
 | 20 | **⏸️ {{Bunger Hills City}} — the access problem** | **450 km² ice-free** *(up to 942 km² incl. marine)* — one of the largest oases in East Antarctica — **but the Shackleton Ice Shelf separates it from the open sea**, with the ice sheet SE and outlet glaciers S and W | **The inverse of Denison's problem: land to spare, no way to ship.** Literature: *"sea- and land-based approaches are difficult and rarely attempted."* **Plausibly why canon leaves it "unclaimed"** *(`04` §6.4)* — a hard site precisely because it is a good one. **Its access answer is a real design question** *(overland link, or a route across/around the ice shelf)*, **in the same family as Dumont d'Urville's open bridge question.** ⏸️ **Founding already deferred by the developer**· ✅ **UPDATE 2026-10-29: the city is named Relung Panen and its three-tier split is determined** (`18_Relung_Panen_Determination_2026-10-29.md`); the access problem is settled (2026-11-03, `DR-96`): airports on Transcription Gulf, no berth, Casey's port and the road carry the load, and the cold-chain share is set at 1%. |
 | 21 | **Dome Fuji — stale canon** | **`Specs/Dome_Fuji.md` says "no highway access"; `Highways.md` L154/L159 confirm it as a stop on the Hwy 37 main line** | Between the Sayowa Junction and the Hwy 22 dual-junction. **Flagged in the City Master Reference during the reference compile; the Specs fix was never made.** Deferred with the other culture/canon-file corrections until after this pass |

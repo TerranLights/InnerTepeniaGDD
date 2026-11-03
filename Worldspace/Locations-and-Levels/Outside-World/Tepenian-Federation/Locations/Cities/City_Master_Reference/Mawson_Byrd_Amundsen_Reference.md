@@ -200,7 +200,7 @@ Robots slightly outnumber humans. Founding all-robot expedition crew is a load-b
 
 ### Division-of-Industry status
 
-**PROVIDER, canon mandate.** D=1.67 · Workforce 283,756 · Baseline 36.2% · **Mandated 35.1%** (fabrication 30% + dispatch 25% = 55% of distinctive, canon) · **Free 28.7%** — one of the seven least-free cities. **⭐⭐ GEOLOGICALLY RECLASSIFIED this session: Byrd's ice was core-drilled to bedrock at 2,164 m — NOT rock-founded, contrary to prior assumption.** Reclassified as **ice-sheet**, making it a **forced food importer** (`Division_of_Industry/13_National_Balance_Under_the_Ruling.md` §15) — a finding the research forced, not one that was guessed.
+**PROVIDER, canon mandate.** D=1.67 · Workforce 322,340 · Baseline 37.3% · **Mandated 34.5%** (fabrication 30% + dispatch 25% = 55% of distinctive, canon) · **Free 28.2%** *(Half B, recomputed 2026-11-03, `DR-96`, `DR-97`)* — one of the seven least-free cities. **⭐⭐ GEOLOGICALLY RECLASSIFIED this session: Byrd's ice was core-drilled to bedrock at 2,164 m — NOT rock-founded, contrary to prior assumption.** Reclassified as **ice-sheet**, making it a **forced food importer** (`Division_of_Industry/13_National_Balance_Under_the_Ruling.md` §15) — a finding the research forced, not one that was guessed.
 
 ### 🔴 DRAFT / NOT CANON
 

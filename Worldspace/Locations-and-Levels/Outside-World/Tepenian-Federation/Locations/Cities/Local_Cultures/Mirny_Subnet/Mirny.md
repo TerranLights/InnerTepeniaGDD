@@ -42,7 +42,7 @@ Mirny Station was one of the oldest continuously occupied Antarctic stations in 
 
 The name was never in question. *Mirny* — the sloop that carried Fabian von Bellingshausen's 1819–1821 expedition, the first to circumnavigate Antarctica and among the first human eyes to ever see it — predates Tepenia by centuries. Keeping it was a statement about Antarctica's very beginning, long before any nation's robots were exiled here. **Whose statement it was, and what it meant to them, is OPEN:** the Register names Idelsk-Uralia as the establishing country, with Russia present as an exile group; this file does not rule which community kept the name or why. *(Corrected 2026-11-03: [old: "Russia had been present at Antarctica's very beginning … and intended to remain woven into its story permanently"].)*
 
-The city's geographic position did the rest of the founding work on its own. Sitting within seconds of arc of the exact Antarctic Circle, Mirny occupies a genuine threshold — not fully inside the polar zone the way Concordia or Janbogo are, not fully outside it the way Casey or Palmer City are. The founders didn't choose this position for its symbolism (they inherited the real station's real location), but the symbolism was impossible to ignore once they were living it: a city built exactly on the line, founded on a site whose namesake ship first saw the whole continent. *(Corrected 2026-11-03: [old: "founded by a nation whose flagship first saw the whole continent"].)*
+The city's geographic position did the rest of the founding work on its own. Sitting within seconds of arc of the exact Antarctic Circle, Mirny occupies a genuine threshold — neither fully inside the polar zone nor fully outside it. *(Corrected 2026-11-03: [old: "…not fully inside the polar zone the way Concordia or Janbogo are, not fully outside it the way Casey or Palmer City are"], a comparison with other cities.)* The founders didn't choose this position for its symbolism (they inherited the real station's real location), but the symbolism was impossible to ignore once they were living it: a city built exactly on the line, founded on a site whose namesake ship first saw the whole continent. *(Corrected 2026-11-03: [old: "founded by a nation whose flagship first saw the whole continent"].)*
 
 As the exile generations passed, broad Pacific-corridor immigration produced a city with no majority nation: six Primary nations (the United Kingdom, Korea, Indonesia, the Sinian Federation, Japan and Australia, from 13.73% down to 6.96%), with Idelsk-Uralia and Russia each at 2.14% (Significant). *(Corrected 2026-11-03: [old: "made China the dominant population by scale, with Russia settling into a strong but no-longer-singular Significant-tier presence"].)*
 
@@ -52,13 +52,13 @@ As the exile generations passed, broad Pacific-corridor immigration produced a c
 
 Mirny's defining environmental fact is wind, not cold — among the windiest coastal stations in Antarctica, with a katabatic regime funneling off the East Antarctic plateau severely enough that sustained events have exceeded 40 m/s (144 km/h). Mean annual temperature sits around −11.2°C, genuinely cold but not Mirny's real character-defining feature; the wind is.
 
-The city's relationship to this wind is unromantic and practical — architecture built against it, airlock entries, reinforced structures, a culture that treats severe wind exposure the way it treats most things: as a permanent condition to be engineered around competently, without much drama attached. Unlike Denison's pride-in-extremity or Janbogo's warmth-as-refuge, Mirny's response to its own harsh wind is closer to Casey's function-first pragmatism — the wind simply is, and the city works around it.
+The city's relationship to this wind is unromantic and practical — architecture built against it, airlock entries, reinforced structures, a culture that treats severe wind exposure the way it treats most things: as a permanent condition to be engineered around competently, without much drama attached. Mirny's response to its own harsh wind is function-first pragmatism — the wind simply is, and the city works around it. *(Corrected 2026-11-03: [old: "Unlike Denison's pride-in-extremity or Janbogo's warmth-as-refuge … closer to Casey's function-first pragmatism"], comparisons with other cities removed.)*
 
 ---
 
 ## 4. Seasonal Rhythms
 
-Sitting almost exactly on the Antarctic Circle gives Mirny an experience unique among Tepenian cities: both polar night and midnight sun occur, but in genuinely minimal form — roughly 4–5 days around each solstice, where the sun grazes the horizon at solar noon (winter) or solar midnight (summer) without fully clearing or fully setting. Neither full darkness nor full endless light — a visible, physical demonstration of the city's threshold position, and its most significant recurring civic moment.
+Sitting almost exactly on the Antarctic Circle gives Mirny an experience of both polar night and midnight sun, but in genuinely minimal form — roughly 4–5 days around each solstice, where the sun grazes the horizon at solar noon (winter) or solar midnight (summer) without fully clearing or fully setting. Neither full darkness nor full endless light — a visible, physical demonstration of the city's threshold position, and its most significant recurring civic moment.
 
 These solstice grazing events are observed, quietly, as the year's defining ritual — less a festival than a shared, deliberate act of noticing. The winter solstice event in particular is treated as proof of the city's own liminal identity: the shortest, most marginal light of the year, arriving exactly at the point where the polar world and the world beyond it meet.
 
@@ -72,22 +72,22 @@ These solstice grazing events are observed, quietly, as the year's defining ritu
 
 **Name/concept:** *The City on the Line* — colloquially, *the Threshold*
 
-Mirny's culture is organized around two overlapping thresholds: the geographic one (sitting exactly on the Antarctic Circle, belonging fully to neither the deep polar cities nor the milder northern ones) and a settlement one (a small founding-era population, present since the station's earliest post-Falkland days, sitting alongside a much larger population that arrived across generations of later, broader Pacific-corridor immigration). Neither threshold fully resolves. Mirny doesn't feel caught between two things so much as it feels genuinely, permanently *of* the in-between — a city whose whole identity is built on sitting exactly where categories stop applying cleanly.
+Mirny's culture is organized around two overlapping thresholds: the geographic one (sitting exactly on the Antarctic Circle, belonging fully to neither the polar zone nor the world beyond it) and a settlement one (a small founding-era population, present since the station's earliest post-Falkland days, sitting alongside a much larger population that arrived across generations of later, broader Pacific-corridor immigration). Neither threshold fully resolves. Mirny doesn't feel caught between two things so much as it feels genuinely, permanently *of* the in-between — a city whose whole identity is built on sitting exactly where categories stop applying cleanly.
 
 - **a. Settlement-era layering** — The city's founding-era population (the establishing country Idelsk-Uralia and the exile groups from Russia, Australia and the Sinian Federation, inheriting the original station) built the city's earliest institutional character generations before broader immigration arrived. The later, much larger wave of arrivals arrived into an already-established city rather than a blank one. Two of the founding-era groups are now small (Idelsk-Uralia and Russia, each 2.14%, Significant) and two are Primary (the Sinian Federation 12.00%, Australia 6.96%), so the old-and-small beside new-and-large pattern holds for part of the founding generation, not all of it. **Open for the developer:** whether the settlement threshold stays an identity half beside the geographic one (the Antarctic Circle, which is unaffected), or whether the city rests on the geographic threshold alone. *(Corrected 2026-11-03: [old: "predominantly Russian-heritage … that brought China to the demographic Primary tier … the founding-era community remains solidly Significant"]; the comparisons to other cities were removed.)*
 - **b. Fault lines**
   - Between families who trace their presence to the city's original founding generation (and carry the specific weight of the *Mirny*'s name and history) and the numerically larger population who arrived across later waves and share the city fully but not its founding-era institutional memory.
-  - Between Mirny's self-understanding as uniquely, structurally important to Concordia (the only functioning intra-subnet Arcanet link) and its actual, damaged, uncertain post-war capacity to make good on that importance.
+  - Between Mirny's self-understanding as structurally important to its own subnet (the relay that routes the other subnet cities' Arcanet traffic to one another, Section 24) and its actual, damaged, uncertain post-war capacity to make good on that importance. *(Corrected 2026-11-03: [old: "…uniquely, structurally important to Concordia (the only functioning intra-subnet Arcanet link)…"]. Section 23's correction of 2026-07-04 says Mirny and Concordia are different subnets with no Arcanet link, so the old wording contradicted it.)*
 
 ---
 
 ## 6. Social Contract & Unwritten Rules
 
-- **a. Competence over romance.** Mirny doesn't mythologize its hardships (unlike Denison) or perform its warmth (unlike Janbogo) — the wind, the cold, the threshold position are all simply managed, well, without much narrative made of the difficulty.
+- **a. Competence over romance.** Mirny doesn't mythologize its hardships or perform its warmth — the wind, the cold, the threshold position are all simply managed, well, without much narrative made of the difficulty.
 - **b. Hospitality character** — Practical and steady rather than effusive; guests are equipped and informed rather than fussed over, consistent with a city whose whole ethos is competent management of hard conditions.
 - **c. A city that notices thresholds** — The solstice-grazing tradition reflects a broader cultural habit: Mirny residents pay attention to liminal moments and edge cases that other cities might not register, an outgrowth of literally living on a geographic line.
-- **d. Public/private divide** — Standard and unremarked; no strong civic pressure either toward Janbogo's communal openness or Zhongshan's ceremonial reserve.
-- **e. Privacy as civic value** — Moderate; Mirny's Arcanet culture (see Section 24) skews heavily toward the functional and administrative given its unique subnet-hub role, leaving personal/social use comparatively unremarkable and low-friction.
+- **d. Public/private divide** — Standard and unremarked; no strong civic pressure toward either communal openness or ceremonial reserve.
+- **e. Privacy as civic value** — Moderate; Mirny's Arcanet culture (see Section 24) skews heavily toward the functional and administrative given its subnet-hub role, leaving personal/social use unremarkable and low-friction.
 - **f. Rough, but proud, established 2026-07-05** — What little entertainment exists is mostly rough, unpolished bars rather than any refined civic leisure culture; Mirny is, by its own residents' reckoning, a rough city. But that roughness sits alongside a genuine, unforced sense of pride and kinship — competence over romance, per the motto above, extends even to how residents feel about the place itself: no one romanticizes it, but plenty of people are quietly proud of it anyway.
 
 ---
@@ -111,7 +111,7 @@ Mirny's culture is organized around two overlapping thresholds: the geographic o
 
 ## 9. Architecture
 
-Aggressively wind-engineered, similar in spirit to Denison's approach but without the mythologizing — airlock entries, minimal exposed surface, structures oriented and reinforced specifically against the severe katabatic loading. Soviet-and-Russian-era institutional architecture forms the historical core, expanded outward over generations with a more broadly Pacific-influenced aesthetic sensibility as the city's population grew — the built environment itself sits in the same visible layers the city's settlement history does: an old core surrounded by newer growth.
+Aggressively wind-engineered, pragmatic and unmythologized — airlock entries, minimal exposed surface, structures oriented and reinforced specifically against the severe katabatic loading. Soviet-and-Russian-era institutional architecture forms the historical core, expanded outward over generations with a more broadly Pacific-influenced aesthetic sensibility as the city's population grew — the built environment itself sits in the same visible layers the city's settlement history does: an old core surrounded by newer growth.
 
 **Developer vision, established 2026-07-05 — a city built as its own windbreak.** Mirny is dense with buildings — lots and lots of them — arranged in a scattered, concentric formation two or three layers deep. The outer ring is heavily fortified and deliberately smooth-shaped, built to take the katabatic wind head-on and shed it rather than catch it; this outer shell is what actually makes the interior livable and workable. Inside that shielded core sit huge industrial yards, machinery running more often than not — this is the literal, physical expression of the "layers" already established above, function driving form as much as demographic history does. **Residential space, clarified 2026-07-05,** sits inside these same inner buildings, alongside the industrial yards, rather than in a separate third ring — the same wind-shielding that makes the industrial core workable is what makes it livable, so people live where the wind isn't as much of an issue rather than in a distinct residential layer.
 
@@ -121,13 +121,13 @@ Aggressively wind-engineered, similar in spirit to Denison's approach but withou
 
 - **a. Human cuisine:** Hearty, preservation-oriented cold-weather cooking is part of the city's inherited station table (Russia and Idelsk-Uralia, together 4.28%, DERIVED), set among the food traditions of six Primary nations. How these sit together is left open for the ULM pass. *(Corrected 2026-11-03: [old: "A genuine Russian-Chinese layering … neither fully dominant, closer to coexistence than fusion"]. The 2026-07-13 parenthetical about another city's cuisine is kept below as history; it is a cross-city reference and its last sentence no longer applies.)* *(Corrected 2026-07-13 — previously contrasted this with "Zhongshan's more thoroughly merged Sino-Russian food culture"; Zhongshan's cuisine is singularly Chinese, built around jiaozi and Chinese preservation traditions, with no Russian culinary layer at all — see `Specs/Zhongshan.md`. Mirny's own Russian-Chinese layering is genuine and unrelated to Zhongshan's separate, singular-Chinese food identity.)*
 - **b. Social context of eating:** Practical and substantial — food here serves the same competence-over-romance ethos as the rest of the culture; hearty, efficient meals suited to a population that spends real energy managing harsh conditions.
-- **c. Robot cuisine / siligel culture:** Functional and unremarkable in the best sense — siligel preparation follows the city's general competence-first character, without a distinct ceremonial or craft tradition setting it apart the way Zhongshan's does.
+- **c. Robot cuisine / siligel culture:** Functional and unremarkable in the best sense — siligel preparation follows the city's general competence-first character, without a distinct ceremonial or craft tradition setting it apart.
 
 ---
 
 ## 11. Fashion
 
-Heavily wind-engineered outerwear, similar in rigor to Denison's gear but without the identity-marker pride — Mirny clothing is judged purely on performance against the wind, not on what it signals about the wearer. Garment structures developed during the founding-era station's own extreme-wind conditions persist in specific styles, regardless of whose current garment they inform; broader Pacific influence shows in color and textile choices as the population diversified.
+Heavily wind-engineered outerwear, rigorous, without identity-marker pride — Mirny clothing is judged purely on performance against the wind, not on what it signals about the wearer. Garment structures developed during the founding-era station's own extreme-wind conditions persist in specific styles, regardless of whose current garment they inform; broader Pacific influence shows in color and textile choices as the population diversified.
 
 ---
 
@@ -141,13 +141,13 @@ Musical traditions of the six Primary nations and of the founding-era groups coe
 
 - **Visual arts:** Practical and understated; Mirny hasn't produced a strong singular visual arts identity, its creative energy concentrated more in the applied craft of wind engineering than in gallery traditions.
 - **Literature:** A literary tradition rooted in the founding-era community's own circumstances — themes of endurance and continuity that grew out of generations spent maintaining one of Antarctica's most exposed, wind-battered sites, echoing (as coincidence rather than cause) the *Mirny*'s own founding legend — coexists with a growing body of work from the city's larger, later-arriving population, largely without cross-pollination — again, coexistence rather than fusion.
-- **Crafts & material culture:** Wind-engineering craft, similar to Denison's but treated as pure competence rather than heroic identity — genuinely skilled, quietly regarded, not mythologized.
+- **Crafts & material culture:** Wind-engineering craft, treated as pure competence rather than heroic identity — genuinely skilled, quietly regarded, not mythologized.
 
 ---
 
 ## 14. Sensory Profile
 
-- **Sound:** Wind, severe and near-constant, though Mirny residents discuss it far less than Denison's do — present, managed, not narrated.
+- **Sound:** Wind, severe and near-constant, though Mirny residents discuss it little — present, managed, not narrated.
 - **Smell:** Cold rock and sea air off the Davis Coast; a layered mix of cooking smells in residential areas, kept distinct from one another. *(Corrected 2026-11-03: [old: "Russian and Chinese cooking smells … than in more fused-cuisine cities"]; the two-cuisine frame and the comparison were removed.)*
 - **Feel:** Liminal in a lived, physical sense — the solstice light events give the city a genuinely otherworldly quality a few days a year that residents anticipate and newcomers find startling.
 - **First impressions for visitors:** The wind, immediately. Then, more slowly, the specific double-layered cultural texture — the founding generation's institutional weight and the city's much larger, later-arriving population, sitting side by side rather than blended.
@@ -160,14 +160,14 @@ Musical traditions of the six Primary nations and of the founding-era groups coe
 
 ## 15. Division of Industry
 
-- Communications / Arcanet infrastructure: ~20% — an unusually large sector, reflecting Mirny's unique subnet-hub role
+- Communications / Arcanet infrastructure: ~20% — a large sector, reflecting Mirny's subnet-hub role
 - Technical / scientific: ~20% — research and technical work
 - Industrial / manufacturing: ~20%
 - Maritime: ~15%
 - Commercial: ~15%
 - Other: ~10%
 
-**Developer vision, established 2026-07-05 — the subnet's construction engine.** Mirny's industrial yards process raw materials trucked in from quarries to the south, toward the continental interior in the general direction of the South Pole (not shared with Davis, which draws from its own, different, nearer quarries), then manufacture both construction materials for the eastern highways (toward Casey and, via Hwy 110's spur, Concordia) and machinery used to build and maintain infrastructure across the subnet. This gives Mirny's already-substantial industrial sector real physical teeth beyond generic "manufacturing" — Mirny didn't just administer the subnet's communications hub, it built the subnet's own roads and the equipment that maintains them.
+**Developer vision, established 2026-07-05 — the subnet's construction engine.** Mirny's industrial yards process raw materials trucked in from quarries to the south, toward the continental interior in the general direction of the South Pole, then manufacture both construction materials for the eastern highways (toward Casey and, via Hwy 110's spur, Concordia) and machinery used to build and maintain infrastructure across the subnet. This gives Mirny's already-substantial industrial sector real physical teeth beyond generic "manufacturing" — Mirny didn't just administer the subnet's communications hub, it built the subnet's own roads and the equipment that maintains them.
 
 **Reassigned 2026-07-16, per developer resolution of Davis's mining/breadbasket tension:** Mirny is also the near-exclusive top-tier industrial/quarrying hub feeding raw materials to the Tri-Cities — specifically to Sinheung, where they're fabricated into robot-synthesis chambers, a nationally significant supply chain previously misattributed to Davis. This sits alongside, not in place of, Mirny's own eastern-highway construction-materials role above — two distinct quarrying-to-manufacturing chains running through the same industrial core, giving Mirny's ~20% Industrial/manufacturing sector share genuine claim to "top-tier industrial hub" status at the national scale, not just the subnet scale.
 
@@ -181,7 +181,7 @@ Founded on a shared-exile logic — the establishing country's robots and humans
 
 ## 17. Robot-Specific Culture
 
-Robot residents concentrate heavily in communications, technical, and wind-engineering roles — professional competence culture similar to Denison's but without the mythologized pride, closer in spirit to Casey's quiet functional excellence. Philosophically pragmatic and undramatic, consistent with the city's overall character.
+Robot residents concentrate heavily in communications, technical, and wind-engineering roles — professional competence culture without mythologized pride, in a register of quiet functional excellence. Philosophically pragmatic and undramatic, consistent with the city's overall character.
 
 ---
 
@@ -201,7 +201,7 @@ Limited and low-friction — Mirny's genuine, stable coexistence between its fou
 
 ## 20. Private Life & Minority Communities
 
-Because Mirny's founding-era population and its much larger, later-arriving population coexist rather than merge, the usual public/private divide dynamic plays out differently here than in more singularly-dominant cities — both groups maintain visible, active public presence simultaneously, rather than one serving as the dominant public face while the other stays private. Smaller communities (Japanese, British, Korean, Indonesian, Australian, and others) navigate a genuinely dual-layered environment rather than a single dominant culture to integrate into.
+Because Mirny's founding-era population and its much larger, later-arriving population coexist rather than merge, the public/private divide plays out as follows — both groups maintain visible, active public presence simultaneously, rather than one serving as the dominant public face while the other stays private. Smaller communities (Japanese, British, Korean, Indonesian, Australian, and others) navigate a genuinely dual-layered environment rather than a single dominant culture to integrate into.
 
 ---
 
@@ -217,16 +217,16 @@ Administrative and function-oriented, shaped heavily by the responsibility of be
 
 ## 22. Relationship to Upper Earth
 
-Comparatively muted, similar to Casey's — Mirny's civic energy is absorbed by its infrastructural responsibilities more than by active grievance politics. Its founding legend, anchored in a centuries-old expedition rather than the raw wound of exile itself, gives Mirny's relationship to Upper Earth a slightly more historical, less immediately personal character than younger-feeling founding stories.
+Muted — Mirny's civic energy is absorbed by its infrastructural responsibilities more than by active grievance politics. Its founding legend, anchored in a centuries-old expedition rather than the raw wound of exile itself, gives Mirny's relationship to Upper Earth a slightly more historical, less immediately personal character than younger-feeling founding stories.
 
 ---
 
 ## 23. Relationship to Other Cities
 
-- **Zhongshan:** The subnet's other major city, and its most personally felt rivalry — respectful and quietly competitive from Mirny's side just as much as Zhongshan's. Mirny holds the formal hub role; Zhongshan is larger and older by Census figures and does not consider itself subordinate. Neither city treats this as hostility, but both are aware of it, always.
-- **Casey:** Fellow Mirny subnet city; shares Casey's practical, function-first temperament more than Zhongshan's ceremonial reserve, without the specific founding-legend weight Mirny itself carries.
+- **Zhongshan:** A Mirny subnet city on Hwy 110, whose Arcanet traffic is routed through Mirny's subnet relay (Section 24). Mirny holds the formal hub role. *(Corrected 2026-11-03: [old: "The subnet's other major city, and its most personally felt rivalry — respectful and quietly competitive … Zhongshan is larger and older by Census figures and does not consider itself subordinate …"]. The rivalry and the size comparison were removed as cross-city comparison; whether any friction exists is left to the ULM pass.)*
+- **Casey:** Fellow Mirny subnet city on Hwy 110, routed through Mirny's subnet relay. *(Corrected 2026-11-03: [old: "…shares Casey's practical, function-first temperament more than Zhongshan's ceremonial reserve …"], a temperament comparison, removed.)*
 - **Davis:** Fellow Mirny subnet coastal city, nearby along the highway network; a close working relationship given geographic proximity.
-- **Concordia:** *Corrected 2026-07-04 — the claim below previously stated Mirny and Concordia "share a subnet" with a surviving Arcanet link. They don't: Mirny is Mirny subnet, Concordia is Janbogo subnet (confirmed in `Official_Population_Census.md` and `City_Relationship_Database.md`), and the Planetary Split Brain severed every inter-subnet Arcanet connection without exception — Concordia has access only to Janbogo subnet records, informationally isolated from Mirny the same as every other non-Janbogo subnet.* What actually connects the two cities is Hwy 110 (the Coastal Cut), which reaches Concordia via an inland spur — a genuine physical link, but a road, not a communications channel. It made Mirny's pre-war diaspora presence in Concordia stronger than most other external cities', but it carries no special real-time information; Mirny's Concordia community works from the same decades-old, pre-Split-Brain knowledge as everyone else.
+- **Concordia:** *Corrected 2026-07-04 — the claim below previously stated Mirny and Concordia "share a subnet" with a surviving Arcanet link. They don't: Mirny is Mirny subnet, Concordia is Janbogo subnet (confirmed in `Official_Population_Census.md` and `City_Relationship_Database.md`), and the Planetary Split Brain severed every inter-subnet Arcanet connection without exception — Concordia has access only to Janbogo subnet records, informationally isolated from Mirny the same as every other non-Janbogo subnet.* What actually connects the two cities is Hwy 110 (the Coastal Cut), which reaches Concordia via an inland spur — a genuine physical link, but a road, not a communications channel. It supported Mirny's pre-war diaspora presence in Concordia, but it carries no special real-time information; Mirny's Concordia community works from the same decades-old, pre-Split-Brain knowledge as everyone else.
 
 ---
 
@@ -238,8 +238,8 @@ Comparatively muted, similar to Casey's — Mirny's civic energy is absorbed by 
 
 ## 25. Export Culture
 
-- Communications and infrastructure expertise — Mirny-trained relay and Arcanet specialists carry unusual weight given the city's unique hub responsibility
-- Wind-engineering competence, in the same practical register as Denison's but without the identity-performance
+- Communications and infrastructure expertise — Mirny-trained relay and Arcanet specialists carry weight given the city's hub responsibility
+- Wind-engineering competence, in a practical register without identity-performance
 - A specific *type of person* — steady, competent, comfortable holding two things at once (two languages, two eras of the city's own settlement, two seasons of light) without needing to resolve the tension between them
 
 ---
@@ -298,6 +298,6 @@ Marked less by a single threshold moment than by a gradual comfort with holding 
 
 ## 32. Diaspora Character in Concordia
 
-Mirny-descended people in Concordia carry a specific, quiet awareness of connection that other diaspora communities don't quite share — the intra-subnet Arcanet link, whether or not it's actually functioning, means Mirny occupies a different emotional position than fully severed cities. They're recognizable by a steady, undemonstrative competence, a comfort with holding two things at once — the city's founding-era roots and its much larger, later-arriving population — without needing to resolve which one is "really" theirs, and — among those old enough to remember — a particular, quiet pride in the *Mirny*'s name and what it meant to have been founded by the ship that first saw the whole continent.
+Mirny-descended people in Concordia carry a specific, quiet awareness of connection — the Hwy 110 road link, and Mirny's relay role for its own subnet. *(Corrected 2026-11-03: [old: "…that other diaspora communities don't quite share — the intra-subnet Arcanet link … a different emotional position than fully severed cities"]. The comparisons were removed, and the old "Arcanet link" to Concordia contradicted Section 23's correction.)* They're recognizable by a steady, undemonstrative competence, a comfort with holding two things at once — the city's founding-era roots and its much larger, later-arriving population — without needing to resolve which one is "really" theirs, and — among those old enough to remember — a particular, quiet pride in the *Mirny*'s name and what it meant to have been founded by the ship that first saw the whole continent.
 
 > ⚠ **Founders corrected 2026-10-13.** `Founding_Register.md` rules this city's founders as: Idelsk-Uralia as the establishing country, with Russia, Australia and the Sinian Federation (China) present as exile groups (`DR-46`, `DR-54`). Any line in this sheet that names the founders differently, or builds on an earlier founding, predates that ruling and is a revisit item. *(Added at the end so line numbers elsewhere stay stable.)*

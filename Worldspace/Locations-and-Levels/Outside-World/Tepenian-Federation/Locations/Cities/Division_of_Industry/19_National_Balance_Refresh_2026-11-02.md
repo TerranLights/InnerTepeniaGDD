@@ -50,3 +50,38 @@
 - The per-city determinations in `16` for the recipients (their counts are still on the old workforces); the Davis/Esperanza denominator question (`16` Register item 11) is unchanged.
 - **Wording that may need a look in other files:** statements that Esperanza is "the breadbasket" or a second major food region (`04` §3, the README's early lines, the Esperanza spec and culture files) now overstate it; they were not edited here.
 - The census row and founding note for Relung Panen still carry the old "26.0% deficit" wording (`17` §4 item 1).
+
+---
+
+## 5 · Re-run 2026-11-03 for the robot term (`DR-97`; DERIVED)
+
+**Why.** The robot-keyed requirement (B3 maintenance 12.5 + B4 sustenance 3.25 = 15.75 per 1,000 robots) was added to the baseline in `16`, `18` and `09` on 2026-11-03. A higher baseline shrinks the distinctive tier, and the food role is a share of the distinctive tier, so the farm workers of all three exporting cities fall. Populations did not change, so the import need (253,292) does not.
+
+| Input | Section 1 (2026-11-02) | Now (2026-11-03) |
+|---|--:|--:|
+| Davis: baseline; distinctive tier; agriculture (35%) | 40.8%; 541,564; 189,548 | 41.9% (383,295); 531,803; **186,131** |
+| Esperanza: baseline; distinctive tier; agriculture (15%) | 39.7%; 539,733; 80,960 | 40.7% (364,390); 530,445; **79,567** |
+| Relung Panen: baseline; distinctive tier; agriculture (25%) | 44.0%; 422,139; 105,535 | 45.1% (339,824); 414,140; **103,535** |
+| Terraformed belt; marine capture; import need | 36,000; 15,600; 253,292 | unchanged |
+
+**Method check.** The section 2 method reproduces the old figures from the old inputs (supply 427,643 against 427,642 printed, a rounding difference of 1; people per farm worker 6.904 from export capacity 2,952,513 ÷ 427,642). The same method on the new inputs:
+
+| | Section 2 (2026-11-02) | **Now** |
+|---|--:|--:|
+| Export supply, with Relung Panen | 427,642 | **420,833** (−6,809, −1.6%) |
+| Balance (supply − 253,292) | +174,350 (+69%) | **+167,541 (+66%)** |
+| Export capacity (people fed) | 2,952,513 | **2,905,496** |
+| Slack, with Relung Panen | 7.7% (1,203,742 people) | **7.4%** (1,156,729 people) |
+| Supply without Relung Panen | 322,107 | 317,298 |
+| Balance without Relung Panen | +68,815 (+27%) | **+64,006 (+25%)** |
+| Slack without Relung Panen | 3.0% (475,113 people) | **2.8%** (441,907 people) |
+
+| Share of export supply | Section 2 | **Now** |
+|---|--:|--:|
+| Davis | 44.3% | **44.2%** |
+| Esperanza | 18.9% | **18.9%** |
+| Relung Panen | 24.7% | **24.6%** |
+| Davis and Esperanza together (without Relung Panen) | 84.0% | **83.7%** |
+
+**Reading.** Nothing here changes the conclusion in section 3: the country still feeds itself with a surplus (+66% with Relung Panen, +25% without), and without Relung Panen the margin is about 2.8% of national humans, a little thinner than the 3.0% of section 2. Slack is balance × 6.904 people per farm worker ÷ the national human total 15,623,523, with the second way (capacity minus import need × 6.904) giving the same 1,156,729. Esperanza's `16` section 11 table still differs from its 79,567 here by the same sort of rounding noted in section 1.
+

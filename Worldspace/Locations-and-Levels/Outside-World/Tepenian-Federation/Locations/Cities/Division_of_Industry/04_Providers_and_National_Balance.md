@@ -1,4 +1,4 @@
-# Provider Cities & the National Balance — 2026-09-01 *(figures are the 2026-09 originals; current ones are in `17` and `19_National_Balance_Refresh_2026-11-02.md`)*
+# Provider Cities & the National Balance — 2026-09-01 *(figures are the 2026-09 originals; current ones are in `17` and `19_National_Balance_Refresh_2026-11-02.md`, whose section 5 re-runs them for the robot term, 2026-11-03)*
 
 **Second Interwar Period throughout.** Instance data (LAW C). Method: `05_Bulk_Mode` LAW D — resolve at the
 national level before the per-city level.

@@ -1,4 +1,4 @@
-# National food balance and slack, refreshed for the new populations (2026-10-28) *(superseded for the current figures by `19_National_Balance_Refresh_2026-11-02.md`, after Esperanza's relocation)*
+# National food balance and slack, refreshed for the new populations (2026-10-28) *(superseded for the current figures by `19_National_Balance_Refresh_2026-11-02.md`, after Esperanza's relocation, and by its section 5 for the robot term, 2026-11-03)*
 
 > **Status: A REFRESH RECORD. No existing Division of Industry file was rewritten** (only a one-line pointer was added to the title of `13`). Written after the Santa Luce population scenario was applied to the census (`DR-68`, `DR-69`). **Not a new model:** it re-runs the method of `13` §15 on today's Census I populations, and shows the result under the three conventions the folder itself uses for the producers' workforce, because the folder has never settled which is right (`16`, Register item 11: *"the denominator must be settled in the end-of-pass re-run"*). **The standing caution of `13` §15 applies unchanged: do not quote the balance to three significant figures.**
 
