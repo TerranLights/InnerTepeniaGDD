@@ -31,10 +31,10 @@ not a spec.**
 
 | | Humans | Robots | **Combined** |
 |---|--:|--:|--:|
-| **Census I** *(Pre-Orbital Era)* | **477,285** | **494,585** | **971,870** |
-| **Census II** *(Orbital Era)* | **340,951** | **353,062** | **694,013** |
+| **Census I** *(Pre-Orbital Era)* | **492,215** | **507,856** | **1,000,071** |
+| **Census II** *(Orbital Era)* | **349,521** | **364,524** | **714,045** |
 
-*(Raised 2026-10-28 from 465,147 / 482,807 / 947,954 and 332,844 / 345,324 / 678,168 by the Santa Luce scenario; the original pool figures below are the 2026-09-05 record and are left as written.)* **CII/CI retention 71.4%.** **2,160/km² on the oasis's 450 km² of ice-free rock — the emptiest city in the
+*(Raised again 2026-11-02 by the Esperanza scenario, `DR-90`, from 477,285 / 494,585 / 971,870 and 340,951 / 353,062 / 694,013; raised 2026-10-28 from 465,147 / 482,807 / 947,954 and 332,844 / 345,324 / 678,168 by the Santa Luce scenario; the original pool figures below are the 2026-09-05 record and are left as written.)* **CII/CI retention 71.4%.** **2,222/km² on the oasis's 450 km² of ice-free rock — the emptiest city in the
 Federation, and deliberately so.**
 
 **Its population is the redistribution pool, discharged in full:**
@@ -187,17 +187,19 @@ also wrong in one place worth remembering: it omitted **Russia**, scoring it at 
   and Marambio are the only two Tepenian cities that fit entirely on rock, and Davis is the existing 35%
   agricultural exporter. This city is being founded to do the same job on 450 km² instead of 410.*
 
-## ⚠ Ripples from the population ruling, NOT yet done
-1. **Subnet totals** — *Mirny nets **+595,244** (gains 947,954, loses 352,710); Halley loses 262,032.*
-2. ⛔ **The National Origin table must NOT be patched** — *its own notes say rebuild it as a direct sum of the
-   Specs files, and this city has no Specs file yet.*
-3. **No `Specs/` entry, no `Local_Cultures/Mirny_Subnet/` entry** for this city.
-4. `City_National_Connections.md` · `City_Cross_Subnet_Relationships.md` · `City_Relationship_Database.md` ·
-   `Station_to_City_Map.md` — **all still need an entry.**
-5. **`Overview.md` and every "37 cities" count in the corpus is now stale — it is 38.**
+## ✅ Ripples from the population ruling: DONE *(this list was rewritten 2026-11-02; every item below was open when the city was created)*
+1. **Subnet totals** — paid 2026-10-28 (`DR-68`) and again 2026-11-02 (`DR-90`).
+2. **National Origin table** — rebuilt 2026-11-02 as a direct sum of the 38 Specs files (`DR-85`), Relung Panen included.
+3. **`Specs/` entry — done** (`Specs/Mirny subnet/Relung_Panen.md`). **`Local_Cultures/Mirny_Subnet/Relung_Panen.md` is a stub** (created 2026-10-23, pointers only; the culture synthesis has not run).
+4. **Relationship files — done:** the city is named in `City_Relationship_Database.md`, `City_Cross_Subnet_Relationships.md`, `City_National_Connections.md` and `Station_to_City_Map.md` (input audit 2026-11-02).
+5. **The 38-city count — done** in `Overview.md` (no "37 cities" remains there).
+6. **The census founding note — done:** the "26.0% deficit" wording was corrected 2026-10-28; on 2026-11-02 its density and name wording were brought up to date.
+7. **Still open for this city:** the cold-chain logistics share, the culture synthesis (ULM run), and the items in `ULM_Input_Status.md` marked open.
 
 ---
 
 📎 **Related:** `../Official_Population_Census.md` §D-OVERFLOW *(the ledger and the founding rule)* ·
 `../Division_of_Industry/13_National_Balance_Under_the_Ruling.md` §7 *(why this city must exist)* ·
 `../../../../../Universal_Location_Methodology/Extent_and_Density_Per_City.md` §10 *(the terrain run)*
+
+> 📎 **Update 2026-11-02 (`DR-85`, `DR-90`, `DR-93`; added at the end so no cited line moved).** The composition table in §4 and the Primary-share ruling are the **2026-09-05** state. The city's current table (successor-state names, the Kazakhstan boost of `DR-93`, tiers relabeled) is in `Specs/Mirny subnet/Relung_Panen.md`: Primary Japan 12.86%, Indonesia 12.60%, Korea 12.43%, Sinian Federation 11.85%, Australia 11.84%. Census I is now 492,215 H / 507,856 R / 1,000,071 and Census II 349,521 H / 364,524 R / 714,045 (`Official_Population_Census.md` L514 and L654); the totals in §4's table (477,285 / 494,585 / 340,951 / 353,062) predate the Esperanza scenario (`DR-90`).

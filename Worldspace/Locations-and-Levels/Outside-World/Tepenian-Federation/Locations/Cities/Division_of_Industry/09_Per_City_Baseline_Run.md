@@ -88,9 +88,9 @@ excluded — deferred pending the duty-cycle ruling.**
 | 35 | **Amundsen Station** | Amundsen | 2.50 | 1,121 | 6,857 | **2,118** | 6,297 | **33.6%** |
 | 36 | **Kunlun** | Mirny | 2.70 | **0** | 148,497 | **38,674** | 148,497 | **28.6%** |
 | 37 | **Dome Fuji** | Mawson | 2.50 | **0** | 80,120 | **18,264** | 80,120 | **27.3%** |
-| — | **Relung Panen** | Mirny | 1.43 | 492,215 | 1,000,071 | **275,990** | 753,964 | **37.6%** |
+| — | **Relung Panen** | Mirny | 1.43 | 492,215 | 1,000,071 | **284,173** | 753,964 | **37.7%** |
 
-*Relung Panen row filled 2026-10-29 (it was `{{Bunger Hills City}}` with TBD values; the name was ruled in `DR-39`). Humans and robots are Census I (492,215 and 507,856); D = 1.43 (`DR-72`); Required uses this section's own formula, the superseded old-B1 model, so it is comparable with the other rows and is not the three-tier result. The row stays unranked (`—`): the numbering above was not renumbered. 37.6% lies inside the range below, which is unchanged. The three-tier result is in `18_Relung_Panen_Determination_2026-10-29.md`.*
+*Relung Panen row filled 2026-10-29 (it was `{{Bunger Hills City}}` with TBD values; the name was ruled in `DR-39`). Humans and robots are Census I (492,215 and 507,856); D = 1.43 (`DR-72`); Required uses this section's own formula, the superseded old-B1 model, so it is comparable with the other rows and is not the three-tier result. The row stays unranked (`—`): the numbering above was not renumbered. 37.7% lies inside the range below, which is unchanged. *(Required and % WF recomputed 2026-11-02 on the Esperanza-scenario population, `DR-90`: they were 275,990 and 37.6%.)* The three-tier result is in `18_Relung_Panen_Determination_2026-10-29.md`.*
 
 **Range: 27.3% → 50.4%. Spread 23.1 points.**
 

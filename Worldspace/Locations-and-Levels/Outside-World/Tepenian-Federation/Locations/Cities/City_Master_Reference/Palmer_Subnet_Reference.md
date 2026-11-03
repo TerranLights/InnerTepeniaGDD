@@ -111,7 +111,7 @@ The single most nationally significant finding flagged in the whole Palmer-subne
 
 ## Esperanza
 
-**Status (✅):** Destroyed *(Long Night War, timeline within the war unspecified)* · **Population (Census II, ✅ — reduced to 85% via organic emigration to Lazar):** 502,654 humans / 675,385 robots / 1,178,039 combined (rank 2nd nationally) · **Real-world basis:** Esperanza Base (Argentina), Hope Bay, Trinity Peninsula, 63°24'S · **Subnet:** Palmer
+**Status (✅):** Destroyed *(Long Night War, timeline within the war unspecified)* · **Population (Census II, ✅ — reduced to 85% via organic emigration to Lazar):** 322,213 humans / 430,946 robots / 753,159 combined (rank 2nd nationally; updated 2026-11-02, `DR-90`, for the 1,200,000-person Esperanza — it was 502,654 / 675,385 / 1,178,039) · **Real-world basis:** Esperanza Base (Argentina), Hope Bay, Trinity Peninsula, 63°24'S · **Subnet:** Palmer
 
 ### Files found
 | Category | Path | Tier |
@@ -176,7 +176,7 @@ Because robots don't age, a single Caregiver-Teacher can remain a living verific
 ### Canon facts (✅)
 - **No highway** — King George Island sits 160–177 km from the mainland, too wide for any bridge; maritime/aviation-only.
 - **Founding:** a primarily Anglo-Latin society of immigrants from North, Central and South America (`DR-20`); who first established it is open (`DR-20a`). **South Korea retained Significant tier (5.79%)** rather than diluting to Notable — one of the stronger founder-nation retentions, though still Contrapunto's smallest Significant nation.
-- USA is sole Primary (21.65%). Janbogo and Sinheung are the living Korean demographic centers.
+- After the 2026-11-02 population rework France, the United Kingdom, México and Germany are Primary (11.61%, 10.98%, 9.10%, 8.99%); the former US territories are split (CSA 7.00%, Significant; Appalachia 4.49%, Cascadia 3.68%, New England 3.67%); before the rework the USA was sole Primary at 21.65%. Janbogo and Sinheung are the living Korean demographic centers.
 - **Economy §15:** Commercial/trade 25% + Technical/scientific 20% + Diplomatic/inter-community coordination 15% + Marine/resource extraction 15% + Education 15% + Other 10%.
 - **⭐⭐ National role, ruled 2026-09-02 (`16`):** Contrapunto hosts **Machu Picchu Airport — the international arrival gateway**, connecting to Ushuaia and the Machu Picchu Border & Customs Authority. Distinguished from Marambio's domestic-only airport by mode+direction, not territory: "Contrapunto is where people and goods enter Tepenia at all." Reframed as **mandated national border/customs work** given Tepenia's existential phosphate-import dependency (`14`) — 25% mandate ruling upgraded from "weakest of the eight estimates" to solid.
 - **⚠ Open per that same ruling:** does Pergamino share the border function (its own §5 record notes the airport marker sits "close enough to Pergamino" per the map), or does Contrapunto hold it exclusively? Pergamino already carries fishing 30% — a shared border role would make it a two-role city.

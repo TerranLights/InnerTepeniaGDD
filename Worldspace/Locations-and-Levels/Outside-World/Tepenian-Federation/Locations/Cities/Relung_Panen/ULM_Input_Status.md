@@ -1,5 +1,5 @@
 # Relung Panen — ULM INPUT STATUS
-
+> ⭐⭐⭐ **READ FIRST: the current state (2026-11-02) is the block at the END of this file. Every dated block above it is history; where they differ, the end block wins.**
 > ## ⭐ UPDATE 2026-10-29 — several rows below are now OUT OF DATE (rows left as written)
 > - **Inspiration picks: DONE.** 28 picks (2 PRIMARY, 17 SECONDARY, 9 SUPPORTING) added to `Inspirational-Influences.md` under the Mirny subnet; the developer accepted the seven tier changes and kept two PRIMARY. Draft and reasoning: `Reference/Real-World/Inspiration_Place_Research/outputs/Relung_Panen_Picks_Entry_DRAFT_2026-10-29.md`. The other 71 candidates await approval and research.
 > - **Division of Industry row: DRAFTED.** D = 1.43 (`DR-72`), farmer-count convention B (`DR-73`), shares for agricultural research 4%, seed breeding 3%, phosphorus and soil recovery 6% (`DR-75`): `Division_of_Industry/18_Relung_Panen_Determination_2026-10-29.md`; draft column added to the differentiation table. Cold-chain logistics share still pending the port and airport question. `09` §2 and `16` Half B **updated 2026-10-29** at the developer's OK (row values, an added Half B row, exclusion notes).
@@ -102,7 +102,7 @@ written, all four must be marked `NOT-AN-INPUT` on creation.**
 | **T1-G5** | **G5** | ✅ **PRESENT** | **`[CGRM 2026-09-01 · Path 6 · developer ruling]` — reachable overland from exactly one direction: east, from Casey. The Denman crossing is NOT built; there is no western link to Mirny.** ⭐ **`Access type:` would be `SPUR`** *(a terminus — every arrival deliberate)*. ⛔ **`Ports.md` has no entry** — *the subglacial approach through the Transkriptsii Gulf epishelf channel is proposed, not ruled* |
 | **T1-G6** | **G6** | ⛔ **ABSENT** | **Named in NEITHER admissible source** — *not in `TepenianUniverseTimeline/Reference/World_History_Reference.md` nor `Timeline Eras/2 The Second Interwar Period/`.* ⚠ **This makes 14 cities with no `G6`, not 13.** ⭐ *Expected — the city has no history because it has not been founded in-fiction yet* |
 | **T1-G7** | **G7** | ⚠ **DATA EXISTS, UNADDRESSED** | ✅ **The anchor is a PLACE, and it is well specified:** *the **Bunger Hills oasis, Knox Coast, Wilkes Land, ~66°17'S 100°47'E** — terrain, lakes, ice margins and dimensions, all researched.* ⛔⛔ **`G7` designates a COORDINATE, never a history.** *The stations that have stood at this site, who operated them and what became of them are **GPS purposes only** and are **not** admissible as inspiration, founding input or characterization.* ⛔ **No `**Based on:**` field** *(no spec)* **and NO entry in `Inspirational-Influences.md`** — *which is 37/37 without it* |
-| **T1-G8** | **G8** | ✅ **PRESENT — COMPLETE** | ⭐⭐ **Computed and ruled 2026-09-05.** *11 nations, tiers assigned, de-stacked, totals exact.* **China 21.58% Primary; Russia 12.60 · Indonesia 12.23 · Japan 11.98 · South Korea 11.22 · Australia 11.03 Significant; Thailand · Vietnam · Malaysia · Philippines · New Zealand Notable.** *Full derivation in `README.md` §4 and `Upper_Earth_Immigration_Composition.md`* |
+| **T1-G8** | **G8** | ✅ **PRESENT — COMPLETE** | ⭐⭐ **Computed and ruled 2026-09-05.** *11 nations, tiers assigned, de-stacked, totals exact.* **Now (population rework 2026-11-02, `DR-85`; table in `Specs/Mirny subnet/Relung_Panen.md`): Japan 12.86% · Indonesia 12.60 · Korea 12.43 · Sinian Federation 11.85 · Australia 11.84 Primary; Thailand · Vietnam · Idelsk-Uralia · Russia (core state) · Malaysia · Philippines · Taiwan · New Zealand Significant. As ruled 2026-09-05: China 21.58% Primary; Russia 12.60 · Indonesia 12.23 · Japan 11.98 · South Korea 11.22 · Australia 11.03 Significant; Thailand · Vietnam · Malaysia · Philippines · New Zealand Notable.** *Full derivation in `README.md` §4 and `Upper_Earth_Immigration_Composition.md`* |
 
 > ## ⚠⚠ TIER 1 COUNT — **CORRECTED 2026-09-05. This block previously read "4 present, threshold met."**
 > ***That counted DATA AVAILABILITY, not the presence tests.*** ⛔ **By the registry's own mechanical tests,
@@ -261,3 +261,38 @@ Findings are the agents' own, **not yet reviewed line by line**; each figure is 
 **Result: nothing blocks the run.** The pass would proceed with G3 and G7 missing and must say so. What would thicken it, not required: (1) the Division-of-Industry per-city row, (2) the inspiration picks, (3) the census tier table (the spec's composition can serve; on hold).
 
 **Not requirements, listed as deferred for Step 0.5:** the port ruling, the airport ruling, and the founding story's remaining details. Run conditions that do apply: ULM only 05:00 to 14:59, three Opus readers per unit, Max 5x allotment until 10-29.
+
+---
+
+> ## ⭐⭐⭐ CURRENT STATE — 2026-11-02 *(supersedes every block above; written at the end so no cited line moved)*
+>
+> **Checked by tool, not asserted:** `audit_city_inputs.py` on this city: **40 tests, 0 gaps, 3 notes** (the notes: the city is named in no universe-history source, `G6`; the megasheet folder is withheld, existence only; the concept-art folder is empty). The Pre-Trip (`MISSING-INPUT=0`, 81 line claims, 0 fail) and all 19 datasheets were rebuilt or refreshed on 2026-10-29 and again on 2026-11-02 (the sheet checker reports 0 failures).
+>
+> **In place**
+> | What | Where / state |
+> |---|---|
+> | Spec | `Specs/Mirny subnet/Relung_Panen.md`, 322 lines; name ruled (`DR-39`); founders Indonesia and Malaysia jointly (`DR-34`); the Kazakhstan boost of `DR-93` did not touch this city (Malaysia here was left as it is) |
+> | Population | Census I **492,215 H / 507,856 R / 1,000,071**; Census II **349,521 / 364,524 / 714,045**; 450 km² at **2,222/km²** (`DR-68`, `DR-90`; arithmetic, not migration; the founding rule still holds: it inherits nothing from its source rows) |
+> | Composition | Primary Japan 12.86%, Indonesia 12.60%, Korea 12.43%, Sinian Federation 11.85%, Australia 11.84%; 8 Significant, 19 Notable (population rework `DR-85`, `DR-93`) |
+> | Climate | `Climate.md` and the READER file: measured annual anchors plus a constructed monthly curve |
+> | Network | single spur off Hwy 110 from Casey; two airports ruled (`DR-81`); the Australian-side intake ruled (`DR-82`: a seasonal sea gateway, a winter air-only intake airport with onward flights to Mirny) |
+> | Division of Industry | food 25% (`DR-71`), D 1.43 (`DR-72`), shares of the distinctive tier (`DR-73`), research 4% · seed 3% · phosphorus 6% (`DR-75`). **Re-run 2026-11-02** on the new population (`18`, `16` Half B, `09`): workforce 753,964; baseline 44.0%; mandated 21.3%; free 34.7% before cold-chain; food 105,535 workers |
+> | Inspiration picks | 28 in `Inspirational-Influences.md` (2 Primary, 17 Secondary, 9 Supporting); research for 71 further candidates is in `Research_Logs/` (tiers not yet proposed) |
+> | Research | soil, port, ocean (two files), intake (four files), oasis airports and ice-front haul: all in `Research_Logs/` |
+> | Relationship files, census entry, census narrative | all name the city; the census founding note was corrected 2026-10-28 and refreshed 2026-11-02 |
+>
+> **Still open (none blocks a run)**
+> | What | Needs |
+> |---|---|
+> | The port | not ruled; a subglacial approach (a fifth port tier) is proposed in the spec; the developer's call |
+> | Airport siting and customs presence; the link between the sea gateway and the port | developer |
+> | Founding remainder: route, soil route, power source, first-wave size and timeline, relation to Casey and Davis | developer, partly from the research |
+> | **Power** (the binding constraint on the stacked hydroponics; no geothermal, no measured wind resource) | developer |
+> | Cold-chain logistics share | waits on the port and airport questions |
+> | Tiers for the 71 further inspiration candidates | proposal and approval (creative work, 05:00–14:59) |
+> | Culture, robot culture, Enneagram, neo-race catalog | stubs only; the ULM run produces them |
+> | Planet + Element symbol (`G1`); the city's absence from the history sources (`G6`) | later; correctly last |
+> | Concept art | optional |
+>
+> **Not in the November run until** its port, power and founding decisions are in.
+

@@ -36,7 +36,7 @@ produces, and what it costs.*
 > **The pipe either reaches both or it reaches neither.**
 
 ⚠ **`04` Gate C — the negative, named:** ***the other 31 cities have NO geothermal heat.*** **Nothing else in
-Tepenia sits on volcanic activity.** *This is a six-city privilege, not a national utility.*
+Tepenia sits on volcanic activity.** *This is a six-city privilege, not a national utility.* ⚠ **[FLAG 2026-11-02: CONFLICT WITH CONCORDIA, see the note at the end of this file.]**
 
 ---
 
@@ -89,7 +89,7 @@ work, and the two halves solve different problems:**
 
 **`Amundsen_Power_Supply.md` covers the regulated continent-wide grid that Amundsen Tower ran, and the Long
 Night War destroyed the Tower.** ⭐⭐ ***The six geothermal cities were the only cities in Tepenia whose heat
-did not depend on it.***
+did not depend on it.*** ⚠ **[FLAG 2026-11-02: Concordia's Power Core (geothermal and nuclear) is a second case; see the note at the end.]**
 
 **What that is worth, stated plainly:**
 
@@ -196,3 +196,22 @@ Zukelli/Janbogo airport)* · `Locations/Infrastructure/Amundsen_Power_Supply.md`
 - **Mount Erebus — lava lake, fumaroles, geothermal ice caves; McMurdo ~40 km, Scott Base nearby** — https://science.nasa.gov/earth/earth-observatory/mount-erebus-antarctica-87444/ · https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9111169/
 - **Mount Melbourne — only active volcano on the mainland; summit fumaroles; geothermally ice-free ground** — https://en.wikipedia.org/wiki/Mount_Melbourne · https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7953305/
 - **Geothermal environments in Antarctica, overview** — https://environments.aq/publications/geothermal-environments-in-antarctica/
+
+
+---
+
+> ## ⚠ FLAG, 2026-11-02: THIS FILE'S "ONLY SIX" AND CANON'S CONCORDIA DISAGREE *(raised, not resolved; added at the end so no cited line moved)*
+>
+> **This file says** the other 31 cities have **no** geothermal heat and that nothing else in Tepenia sits on volcanic activity (§1), and that the six were the only cities whose heat did not depend on the Tower's grid (§4). *(The count "31" also predates Relung Panen, so it is 32 on the 38-city list.)*
+>
+> **Canon elsewhere says Concordia has geothermal generation of its own:**
+> - `Worldspace/City_Logistics.md` (power section): *"Geothermal — The Aries district (Power Core) contains massive geothermal pipes and reactor cores. The Antarctic Plateau has geothermal heat access through deep drilling. Primary heating and power source."* and *"Nuclear — Present in the power core system."*
+> - `Worldspace/Energy_Grid_Failure_Rationale.md` §1: *"The Power Core's geothermal/nuclear systems were heavily damaged during the Long Night War."*
+> - `Concordia-City/Districts/District_Canon_Reference.md`: the Early Exile Infrastructure (late 2560s) was *"the geothermal and nuclear power core for the entire settlement."*
+> - `Division_of_Industry/13` (power section) already treats this as canon: *"Concordia has its own geothermal and nuclear generation."*
+>
+> **The two statements differ in kind, not only in count.** This file's six cities have **surface volcanic heat** (Mount Melbourne, Mount Erebus, Deception Island). Concordia's is **deep-drilled** plateau heat plus reactors. Concordia is not on a volcano, so "nothing else sits on volcanic activity" can stay true while "only six cities have geothermal" cannot.
+>
+> **Options for the developer (none applied):** **(A)** reword this file to "six cities with *surface volcanic* heat; Concordia has deep-drilled geothermal and nuclear generation of its own" and leave the three pairs as they are; **(B)** treat Concordia's geothermal as part of its Power Core only (power, not a district heat network), so the heating privilege stays a six-city fact; **(C)** extend deep-drilled geothermal to other plateau cities (Ariun Nuur, Kunlun, Dome Fuji, Concordia), which the canon line "the Antarctic Plateau has geothermal heat access through deep drilling" would allow, and re-count. I recommend A.
+>
+> **Related:** the national grid file (`Amundsen_Power_Supply.md`, drafted 2026-11-02 with the generation centers) and the question of nuclear power across Tepenia as a whole (`Research_Logs/Tepenia_Nuclear_Power_Logistics_Research_2026-11-02.md`).

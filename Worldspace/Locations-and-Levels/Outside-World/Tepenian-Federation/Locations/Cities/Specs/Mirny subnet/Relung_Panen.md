@@ -28,7 +28,7 @@
 > may ever be written.** *The census is a RECORD, and its editing history is not events.*
 
 **Extent band:** ⭐ **~450 km²** — *the ice-free oasis; up to 942 km² including marine areas.* **Density
-2,160/km² — the lowest in the Federation, deliberately.** *(`Extent_and_Density_Per_City.md` §11, which gave 2,107 on the pre-2026-10-28 population of 947,954.)*
+2,222/km² (1,000,071 on 450 km²; it was 2,160 before the Esperanza scenario, `DR-90`) — the lowest in the Federation, deliberately.** *(`Extent_and_Density_Per_City.md` §11, which gave 2,107 on the pre-2026-10-28 population of 947,954.)*
 
 | Tier | Nations |
 |------|---------|
@@ -260,7 +260,7 @@ foundation — **not** soil, sunlight or mild weather)*. ⭐ **This site has the
 overwhelming surplus.** ⚠ **Power is the open question and the binding constraint** — *no geothermal, no
 measured wind resource, off-grid.*
 
-✅ **`Division_of_Industry/16_Per_City_Three_Tier_Run.md` carries this city's row since 2026-10-29** *(Half B: D 1.43, workforce 733,228, baseline 43.9%, mandated 21.3%, free 34.8% before cold-chain; it was excluded there as "deferred by ruling" until the developer un-deferred it)*. ⏸️ **Not yet set:** the cold-chain logistics share, which waits on the port and airport questions.
+✅ **`Division_of_Industry/16_Per_City_Three_Tier_Run.md` carries this city's row since 2026-10-29** *(Half B: D 1.43, workforce 753,964, baseline 44.0%, mandated 21.3%, free 34.7% before cold-chain; re-run 2026-11-02 on the Esperanza-scenario population, `DR-90`; it was excluded there as "deferred by ruling" until the developer un-deferred it)*. ⏸️ **Not yet set:** the cold-chain logistics share, which waits on the port and airport questions.
 
 **Air links (ruled 2026-10-29, `DR-81`):** two airports within the Bunger Hills, a **domestic passenger airport** and an **international, freight-only cargo airport**; siting, the cargo airport's customs presence and its link to any ice-front landing are not ruled (`Infrastructure/Airports.md`). People still arrive overland through Casey. **Australian-side international intake (`DR-82`):** a seasonal sea gateway in summer and an isolated, air-only winter intake airport with onward flights to Mirny; whether this changes this city's one door is not ruled (`Infrastructure/Ports.md` section 3e).
 

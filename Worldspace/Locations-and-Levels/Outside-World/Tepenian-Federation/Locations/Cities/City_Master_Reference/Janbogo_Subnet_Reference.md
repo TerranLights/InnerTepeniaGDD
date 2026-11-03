@@ -302,7 +302,7 @@ Exact extraction materials TBD; what "partially operational" means today; demony
 - **Hwy 183 is Concordia's most critical supply artery** — "whatever enters or exits Concordia by ground moves through Janbogo."
 - **Janbogo Arcanet subnet nexus physically sits in Concordia's Gemini district** (unusual — most nexuses sit in their hub city) — reflects depth of the relationship. Gemini is the largest, most established diaspora enclave in Concordia.
 - Nationally known for its warmth and communal hospitality; the teahouse Majyao ran, famous throughout Tepenia, has since relocated to Concordia/Taurus.
-- **One of Tepenia's two Korean-founded cities** (with Sinheung) — Janbogo's claim rests on institutional/cultural depth despite demographic dilution, not raw population share (South Korea is still its largest Significant-tier nation at 10.23%).
+- **One of Tepenia's two Korean-founded cities** (with Sinheung) — Janbogo's claim rests on institutional/cultural depth rather than raw population share; since the 2026-11-02 population rework Korea is also Janbogo's largest nation, Primary tier at 12.49%, ahead of Australia at 11.79% (before the rework: South Korea was the largest Significant-tier nation at 10.23%).
 - ~8 km south of Zukelli's ruins, visible from the waterfront — understood since 2026-07-05 as a deliberate "living witness" arrangement, not incidental proximity.
 
 ### Economy §15 (canon)

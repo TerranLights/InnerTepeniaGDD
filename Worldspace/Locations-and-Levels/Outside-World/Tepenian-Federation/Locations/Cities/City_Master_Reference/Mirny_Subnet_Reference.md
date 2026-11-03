@@ -74,7 +74,7 @@ Founding-legend gap (what happened to the original Russian population) genuinely
 | Megasheet, Vision Notes | exist, not deep-read |
 
 ### Canon facts
-- **⚠ Flagged for an eventual rename** — its national composition (China Primary, 24.24%; Russia only Significant, 7.22%) no longer matches the Russian ship/station the name and founding legend are built around. Not resolved.
+- **⚠ Flagged for an eventual rename** — its national composition (after the 2026-11-02 population rework the United Kingdom, Korea, Indonesia, the Sinian Federation, Japan and Australia are all Primary, 13.73% down to 6.96%; Russia (core state) is Significant at only 2.14%; before the rework China was Primary at 24.24% and Russia Significant at 7.22%) no longer matches the Russian ship/station the name and founding legend are built around. Not resolved.
 - Sits within seconds of arc of the exact Antarctic Circle — minimal polar night AND minimal midnight sun (~4–5 days each), sun grazing the horizon without fully rising/setting. This is the city's central symbolic and civic fact — "the Threshold."
 - Among the windiest coastal stations in Antarctica (sustained events >40 m/s); the city is architecturally built as its own windbreak — concentric rings, dense, residential woven into the industrial core rather than separated.
 - **Subnet hub:** routes Zhongshan, Casey, Davis, Ariun Nuur, Kunlun to each other on the Arcanet (NOT to Concordia — different subnet, Split Brain severed that).
