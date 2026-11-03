@@ -1,0 +1,915 @@
+city,language,share_low,share_high,nations
+Amundsen_Station,English,41.697,46.366,"United Kingdom 10.850; CSA 7.790; Australia 5.720; Appalachia 4.390; Cascadia 3.980; New England 3.590; New Zealand 3.330; Demilitarized Zone (s. Ontario, not a nation) 2.120; Midwest Republic 1.360; Prairie Federation 1.190; Colorado 1.030; Sonora 0.600; Northern Ireland 0.270; Hawaii 0.089; Alaska 0.057"
+Amundsen_Station,Mandarin,14.430,15.197,Sinian Federation 10.850; Taiwan 2.810; Manchuria 0.770; Mongolia 0.390; East Turkestan 0.330; Tibet 0.047
+Amundsen_Station,German,12.140,12.140,Germany 8.940; Austro-Bavaria 3.200
+Amundsen_Station,Japanese,10.130,10.130,Japan 10.130
+Amundsen_Station,Spanish,4.870,9.450,Cascadia 3.980; Argentina (without Patagonia) 3.140; Chile 1.330; Sonora 0.600; Araucanía-Patagonia 0.400
+Amundsen_Station,Korean,6.640,6.640,Korea 6.640
+Amundsen_Station,French,1.620,1.620,Quebec 1.620
+Amundsen_Station,Norwegian,1.550,1.550,Norway 1.550
+Amundsen_Station,Kazakh,0.000,1.450,Kazakhstan 1.450
+Amundsen_Station,Russian,0.000,1.450,Kazakhstan 1.450
+Amundsen_Station,Mongolian,0.000,0.390,Mongolia 0.390
+Amundsen_Station,Uyghur,0.000,0.330,East Turkestan 0.330
+Amundsen_Station,Hawaiian (the dominant language everywhere),0.000,0.089,Hawaii 0.089
+Amundsen_Station,Tibetan,0.000,0.047,Tibet 0.047
+Byrd,English,28.533,39.130,"Australia 6.990; CSA 4.390; Demilitarized Zone (s. Ontario, not a nation) 4.220; Cascadia 3.650; Appalachia 2.820; Prairie Federation 2.380; New England 2.300; Philippines 2.230; Malaysia 2.200; South Africa 2.020; New Zealand 1.900; United Kingdom 1.880; Midwest Republic 0.880; Colorado 0.660; Sonora 0.440; Alaska 0.059; Hawaii 0.057; Northern Ireland 0.054"
+Byrd,Spanish,5.580,9.874,Cascadia 3.650; Uruguay 1.960; Argentina (without Patagonia) 0.920; Chile 0.880; México 0.770; Spain 0.700; Sonora 0.440; Araucanía-Patagonia 0.200; Catalonia 0.150; Yucatán 0.150; Basque Country 0.054
+Byrd,Japanese,6.740,6.740,Japan 6.740
+Byrd,French,4.720,4.720,Quebec 3.230; France 1.490
+Byrd,Russian,1.156,3.569,Belarus 1.170; Ukraine 0.810; Russia (core state) 0.780; Idelsk-Uralia 0.370; Siberia 0.150; Donska-Kubania 0.140; Künnarantaiga 0.086; Dagestan 0.026; Chechnya 0.013; Kabardino-Balkaria 0.007; North Ossetia-Alania 0.006; Ingushetia 0.004; Karachay-Cherkessia 0.004; Tuva 0.003
+Byrd,Korean,3.190,3.190,Korea 3.190
+Byrd,Dutch,2.630,2.630,Netherlands 2.630
+Byrd,Lithuanian,2.270,2.270,Lithuania 2.270
+Byrd,Filipino (Tagalog),0.000,2.230,Philippines 2.230
+Byrd,Thai,2.160,2.223,Thailand 2.160; Patani 0.063
+Byrd,Indonesian,2.165,2.209,Indonesia 2.120; West Papua 0.045; Aceh 0.044
+Byrd,Malay,0.000,2.200,Malaysia 2.200
+Byrd,Chinese (Mandarin and other),0.000,2.200,Malaysia 2.200
+Byrd,Tamil,0.000,2.200,Malaysia 2.200
+Byrd,Portuguese,2.200,2.200,Brazil 1.980; Amazonia 0.220
+Byrd,Croatian,2.160,2.160,Croatia 2.160
+Byrd,Latvian,2.150,2.150,Latvia 2.150
+Byrd,Slovak,2.060,2.060,Slovakia 2.060
+Byrd,Afrikaans,0.000,2.020,South Africa 2.020
+Byrd,Zulu and other Bantu languages,0.000,2.020,South Africa 2.020
+Byrd,Czech,1.960,1.960,Czechia 1.960
+Byrd,Vietnamese,1.940,1.940,Vietnam 1.940
+Byrd,Finnish,1.900,1.900,Finland 1.900
+Byrd,Mandarin,1.820,1.820,Sinian Federation 1.820
+Byrd,Romanian,1.700,1.700,Romania 1.700
+Byrd,Hungarian,1.430,1.430,Hungary 1.430
+Byrd,Norwegian,1.230,1.230,Norway 1.230
+Byrd,German,1.190,1.190,Germany 1.000; Austro-Bavaria 0.190
+Byrd,Belarusian,0.000,1.170,Belarus 1.170
+Byrd,Polish,1.160,1.160,Poland 1.160
+Byrd,Bulgarian,1.060,1.060,Bulgaria 1.060
+Byrd,Slovene,0.920,0.920,Slovenia 0.920
+Byrd,Italian,0.914,0.914,Magna Lombardia 0.520; Meridia 0.320; Sicilia (autonomous zone within Meridia) 0.074
+Byrd,Swedish,0.900,0.900,Sweden 0.900
+Byrd,Serbian,0.860,0.860,Serbia 0.860
+Byrd,Ukrainian,0.000,0.810,Ukraine 0.810
+Byrd,Tatar and Bashkir,0.000,0.370,Idelsk-Uralia 0.370
+Byrd,Catalan,0.000,0.150,Catalonia 0.150
+Byrd,Patani Malay,0.000,0.063,Patani 0.063
+Byrd,Hawaiian (the dominant language everywhere),0.000,0.057,Hawaii 0.057
+Byrd,Basque,0.000,0.054,Basque Country 0.054
+Byrd,Acehnese,0.000,0.044,Aceh 0.044
+Byrd,"Dagestani languages (Avar, Dargin, Lezgin and others)",0.000,0.026,Dagestan 0.026
+Byrd,Chechen,0.000,0.013,Chechnya 0.013
+Byrd,Kabardian and Balkar,0.000,0.007,Kabardino-Balkaria 0.007
+Byrd,Ossetian,0.000,0.006,North Ossetia-Alania 0.006
+Byrd,Ingush,0.000,0.004,Ingushetia 0.004
+Byrd,Karachay and Circassian languages,0.000,0.004,Karachay-Cherkessia 0.004
+Byrd,Tuvan,0.000,0.003,Tuva 0.003
+Belgrano,English,27.785,35.385,CSA 9.080; Appalachia 5.830; New England 4.760; United Kingdom 4.750; Cascadia 4.240; South Africa 2.440; Midwest Republic 1.810; Colorado 1.360; Sonora 0.800; Northern Ireland 0.140; Hawaii 0.120; Alaska 0.055
+Belgrano,Spanish,13.410,18.450,Uruguay 4.820; Cascadia 4.240; Argentina (without Patagonia) 4.080; Chile 3.670; Araucanía-Patagonia 0.840; Sonora 0.800
+Belgrano,German,14.920,14.920,Germany 11.070; Austro-Bavaria 3.850
+Belgrano,Portuguese,13.480,13.480,Brazil 12.140; Amazonia 1.340
+Belgrano,Hungarian,5.220,5.220,Hungary 5.220
+Belgrano,Polish,5.090,5.090,Poland 5.090
+Belgrano,Slovak,4.580,4.580,Slovakia 4.580
+Belgrano,Czech,2.750,2.750,Czechia 2.750
+Belgrano,Slovene,2.690,2.690,Slovenia 2.690
+Belgrano,Afrikaans,0.000,2.440,South Africa 2.440
+Belgrano,Zulu and other Bantu languages,0.000,2.440,South Africa 2.440
+Belgrano,Serbian,1.850,1.850,Serbia 1.850
+Belgrano,Croatian,0.610,0.610,Croatia 0.610
+Belgrano,Hawaiian (the dominant language everywhere),0.000,0.120,Hawaii 0.120
+Halley,English,35.074,42.471,"United Kingdom 10.070; CSA 7.460; Cascadia 4.880; Appalachia 4.790; New England 3.920; Demilitarized Zone (s. Ontario, not a nation) 3.750; Prairie Federation 2.110; South Africa 1.760; Midwest Republic 1.490; Colorado 1.120; Sonora 0.660; Northern Ireland 0.290; Hawaii 0.097; Alaska 0.074"
+Halley,Spanish,6.030,11.570,Cascadia 4.880; Chile 3.230; Argentina (without Patagonia) 2.150; Sonora 0.660; Araucanía-Patagonia 0.650
+Halley,Portuguese,11.460,11.460,Brazil 10.320; Amazonia 1.140
+Halley,French,10.210,10.210,France 7.340; Quebec 2.870
+Halley,German,5.840,5.840,Germany 3.460; Austro-Bavaria 2.380
+Halley,Dutch,4.220,4.220,Netherlands 4.220
+Halley,Serbian,4.090,4.090,Serbia 4.090
+Halley,Croatian,4.080,4.080,Croatia 4.080
+Halley,Slovene,4.000,4.000,Slovenia 4.000
+Halley,Polish,3.490,3.490,Poland 3.490
+Halley,Afrikaans,0.000,1.760,South Africa 1.760
+Halley,Zulu and other Bantu languages,0.000,1.760,South Africa 1.760
+Halley,Czech,1.750,1.750,Czechia 1.750
+Halley,Hungarian,1.550,1.550,Hungary 1.550
+Halley,Slovak,0.830,0.830,Slovakia 0.830
+Halley,Hawaiian (the dominant language everywhere),0.000,0.097,Hawaii 0.097
+Lazar,English,25.136,30.094,United Kingdom 9.610; CSA 6.040; Appalachia 3.880; New England 3.170; Cascadia 2.830; South Africa 1.520; Midwest Republic 1.210; Colorado 0.910; Sonora 0.530; Northern Ireland 0.280; Hawaii 0.078; Alaska 0.036
+Lazar,German,11.020,11.020,Germany 7.800; Austro-Bavaria 3.220
+Lazar,Portuguese,8.870,8.870,Brazil 7.990; Amazonia 0.880
+Lazar,Russian,3.530,8.136,Russia (core state) 2.040; Belarus 1.770; Idelsk-Uralia 1.480; Ukraine 1.110; Siberia 0.590; Donska-Kubania 0.560; Künnarantaiga 0.340; Dagestan 0.100; Chechnya 0.050; Kabardino-Balkaria 0.030; North Ossetia-Alania 0.023; Ingushetia 0.017; Karachay-Cherkessia 0.015; Tuva 0.011
+Lazar,Spanish,1.431,4.791,Cascadia 2.830; Argentina (without Patagonia) 1.350; Sonora 0.530; Araucanía-Patagonia 0.081
+Lazar,Norwegian,3.350,3.350,Norway 3.350
+Lazar,Hungarian,3.310,3.310,Hungary 3.310
+Lazar,Finnish,3.290,3.290,Finland 3.290
+Lazar,Czech,3.240,3.240,Czechia 3.240
+Lazar,Estonian,3.230,3.230,Estonia 3.230
+Lazar,Polish,3.150,3.150,Poland 3.150
+Lazar,Slovene,3.010,3.010,Slovenia 3.010
+Lazar,Serbian,2.960,2.960,Serbia 2.960
+Lazar,Slovak,2.940,2.940,Slovakia 2.940
+Lazar,Romanian,2.520,2.520,Romania 2.520
+Lazar,French,2.420,2.420,France 2.420
+Lazar,Belarusian,0.000,1.770,Belarus 1.770
+Lazar,Lithuanian,1.730,1.730,Lithuania 1.730
+Lazar,Afrikaans,0.000,1.520,South Africa 1.520
+Lazar,Zulu and other Bantu languages,0.000,1.520,South Africa 1.520
+Lazar,Tatar and Bashkir,0.000,1.480,Idelsk-Uralia 1.480
+Lazar,Croatian,1.440,1.440,Croatia 1.440
+Lazar,Latvian,1.400,1.400,Latvia 1.400
+Lazar,Bulgarian,1.310,1.310,Bulgaria 1.310
+Lazar,Dutch,1.170,1.170,Netherlands 1.170
+Lazar,Ukrainian,0.000,1.110,Ukraine 1.110
+Lazar,"Dagestani languages (Avar, Dargin, Lezgin and others)",0.000,0.100,Dagestan 0.100
+Lazar,Hawaiian (the dominant language everywhere),0.000,0.078,Hawaii 0.078
+Lazar,Chechen,0.000,0.050,Chechnya 0.050
+Lazar,Kabardian and Balkar,0.000,0.030,Kabardino-Balkaria 0.030
+Lazar,Ossetian,0.000,0.023,North Ossetia-Alania 0.023
+Lazar,Ingush,0.000,0.017,Ingushetia 0.017
+Lazar,Karachay and Circassian languages,0.000,0.015,Karachay-Cherkessia 0.015
+Lazar,Tuvan,0.000,0.011,Tuva 0.011
+Neumayer,English,20.757,25.427,CSA 6.190; United Kingdom 5.000; Appalachia 3.970; New England 3.250; Cascadia 2.890; Midwest Republic 1.240; South Africa 1.150; Colorado 0.930; Sonora 0.550; Northern Ireland 0.140; Hawaii 0.080; Alaska 0.037
+Neumayer,German,14.140,14.140,Germany 7.720; Austro-Bavaria 6.420
+Neumayer,Spanish,6.020,9.460,Argentina (without Patagonia) 2.920; Cascadia 2.890; Chile 2.520; Araucanía-Patagonia 0.580; Sonora 0.550
+Neumayer,French,5.710,5.710,France 5.710
+Neumayer,Portuguese,4.510,4.510,Brazil 4.060; Amazonia 0.450
+Neumayer,Dutch,4.460,4.460,Netherlands 4.460
+Neumayer,Hungarian,3.760,3.760,Hungary 3.760
+Neumayer,Swedish,3.580,3.580,Sweden 3.580
+Neumayer,Lithuanian,3.530,3.530,Lithuania 3.530
+Neumayer,Slovak,3.250,3.250,Slovakia 3.250
+Neumayer,Bulgarian,3.040,3.040,Bulgaria 3.040
+Neumayer,Russian,1.000,2.990,Ukraine 1.990; Russia (core state) 1.000
+Neumayer,Finnish,2.950,2.950,Finland 2.950
+Neumayer,Croatian,2.950,2.950,Croatia 2.950
+Neumayer,Romanian,2.630,2.630,Romania 2.630
+Neumayer,Ukrainian,0.000,1.990,Ukraine 1.990
+Neumayer,Serbian,1.850,1.850,Serbia 1.850
+Neumayer,Latvian,1.830,1.830,Latvia 1.830
+Neumayer,Estonian,1.830,1.830,Estonia 1.830
+Neumayer,Norwegian,1.750,1.750,Norway 1.750
+Neumayer,Czech,1.310,1.310,Czechia 1.310
+Neumayer,Slovene,1.250,1.250,Slovenia 1.250
+Neumayer,Polish,1.210,1.210,Poland 1.210
+Neumayer,Afrikaans,0.000,1.150,South Africa 1.150
+Neumayer,Zulu and other Bantu languages,0.000,1.150,South Africa 1.150
+Neumayer,Hawaiian (the dominant language everywhere),0.000,0.080,Hawaii 0.080
+Sanay,German,26.270,26.270,Germany 20.590; Austro-Bavaria 5.680
+Sanay,English,7.060,11.460,United Kingdom 6.860; South Africa 4.400; Northern Ireland 0.200
+Sanay,Portuguese,11.360,11.360,Brazil 10.230; Amazonia 1.130
+Sanay,Russian,1.390,5.830,Ukraine 2.750; Belarus 1.690; Russia (core state) 1.390
+Sanay,Spanish,5.780,5.780,Argentina (without Patagonia) 3.910; Chile 1.410; Araucanía-Patagonia 0.460
+Sanay,Serbian,4.520,4.520,Serbia 4.520
+Sanay,Estonian,4.500,4.500,Estonia 4.500
+Sanay,Afrikaans,0.000,4.400,South Africa 4.400
+Sanay,Zulu and other Bantu languages,0.000,4.400,South Africa 4.400
+Sanay,Hungarian,4.260,4.260,Hungary 4.260
+Sanay,Slovene,4.040,4.040,Slovenia 4.040
+Sanay,Bulgarian,3.880,3.880,Bulgaria 3.880
+Sanay,Norwegian,3.800,3.800,Norway 3.800
+Sanay,Ukrainian,0.000,2.750,Ukraine 2.750
+Sanay,Czech,2.340,2.340,Czechia 2.340
+Sanay,Croatian,2.110,2.110,Croatia 2.110
+Sanay,Latvian,2.100,2.100,Latvia 2.100
+Sanay,Romanian,2.030,2.030,Romania 2.030
+Sanay,Slovak,2.000,2.000,Slovakia 2.000
+Sanay,Polish,1.990,1.990,Poland 1.990
+Sanay,Lithuanian,1.740,1.740,Lithuania 1.740
+Sanay,Belarusian,0.000,1.690,Belarus 1.690
+Santa_Luce,English,21.263,25.723,United Kingdom 7.440; CSA 5.400; Appalachia 3.460; New England 2.830; Cascadia 2.520; South Africa 1.390; Midwest Republic 1.080; Colorado 0.810; Sonora 0.480; Northern Ireland 0.210; Hawaii 0.070; Alaska 0.033
+Santa_Luce,Russian,6.510,11.612,Russia (core state) 3.710; Idelsk-Uralia 2.780; Ukraine 1.850; Siberia 1.100; Donska-Kubania 1.060; Künnarantaiga 0.640; Dagestan 0.200; Chechnya 0.093; Kabardino-Balkaria 0.056; North Ossetia-Alania 0.042; Ingushetia 0.031; Karachay-Cherkessia 0.029; Tuva 0.021
+Santa_Luce,Portuguese,8.760,8.760,Brazil 7.890; Amazonia 0.870
+Santa_Luce,Italian,8.340,8.340,Magna Lombardia 6.250; Meridia 2.090
+Santa_Luce,Spanish,3.000,6.000,Argentina (without Patagonia) 2.830; Cascadia 2.520; Sonora 0.480; Araucanía-Patagonia 0.170
+Santa_Luce,French,4.450,4.450,France 4.450
+Santa_Luce,German,4.080,4.080,Austro-Bavaria 2.100; Germany 1.980
+Santa_Luce,Dutch,3.730,3.730,Netherlands 3.730
+Santa_Luce,Latvian,2.980,2.980,Latvia 2.980
+Santa_Luce,Hungarian,2.890,2.890,Hungary 2.890
+Santa_Luce,Serbian,2.800,2.800,Serbia 2.800
+Santa_Luce,Croatian,2.790,2.790,Croatia 2.790
+Santa_Luce,Estonian,2.790,2.790,Estonia 2.790
+Santa_Luce,Tatar and Bashkir,0.000,2.780,Idelsk-Uralia 2.780
+Santa_Luce,Czech,2.660,2.660,Czechia 2.660
+Santa_Luce,Romanian,2.300,2.300,Romania 2.300
+Santa_Luce,Ukrainian,0.000,1.850,Ukraine 1.850
+Santa_Luce,Swedish,1.610,1.610,Sweden 1.610
+Santa_Luce,Lithuanian,1.540,1.540,Lithuania 1.540
+Santa_Luce,Bulgarian,1.430,1.430,Bulgaria 1.430
+Santa_Luce,Norwegian,1.390,1.390,Norway 1.390
+Santa_Luce,Slovak,1.390,1.390,Slovakia 1.390
+Santa_Luce,Afrikaans,0.000,1.390,South Africa 1.390
+Santa_Luce,Zulu and other Bantu languages,0.000,1.390,South Africa 1.390
+Santa_Luce,Finnish,1.350,1.350,Finland 1.350
+Santa_Luce,Slovene,1.200,1.200,Slovenia 1.200
+Santa_Luce,Polish,1.170,1.170,Poland 1.170
+Santa_Luce,"Dagestani languages (Avar, Dargin, Lezgin and others)",0.000,0.200,Dagestan 0.200
+Santa_Luce,Chechen,0.000,0.093,Chechnya 0.093
+Santa_Luce,Hawaiian (the dominant language everywhere),0.000,0.070,Hawaii 0.070
+Santa_Luce,Kabardian and Balkar,0.000,0.056,Kabardino-Balkaria 0.056
+Santa_Luce,Ossetian,0.000,0.042,North Ossetia-Alania 0.042
+Santa_Luce,Ingush,0.000,0.031,Ingushetia 0.031
+Santa_Luce,Karachay and Circassian languages,0.000,0.029,Karachay-Cherkessia 0.029
+Santa_Luce,Tuvan,0.000,0.021,Tuva 0.021
+Troll,English,23.166,27.762,United Kingdom 8.040; CSA 5.900; Appalachia 3.790; New England 3.100; Cascadia 2.760; South Africa 1.240; Midwest Republic 1.180; Colorado 0.890; Sonora 0.520; Northern Ireland 0.230; Hawaii 0.076; Alaska 0.036
+Troll,Russian,6.630,12.506,Russia (core state) 3.560; Idelsk-Uralia 3.040; Belarus 1.310; Siberia 1.210; Donska-Kubania 1.160; Ukraine 1.020; Künnarantaiga 0.700; Dagestan 0.210; Chechnya 0.100; Kabardino-Balkaria 0.061; North Ossetia-Alania 0.046; Ingushetia 0.034; Karachay-Cherkessia 0.032; Tuva 0.023
+Troll,Portuguese,8.220,8.220,Brazil 7.400; Amazonia 0.820
+Troll,Spanish,3.360,6.640,Argentina (without Patagonia) 3.170; Cascadia 2.760; Sonora 0.520; Araucanía-Patagonia 0.190
+Troll,French,5.580,5.580,France 5.580
+Troll,German,4.330,4.330,Germany 2.190; Austro-Bavaria 2.140
+Troll,Finnish,3.350,3.350,Finland 3.350
+Troll,Czech,3.320,3.320,Czechia 3.320
+Troll,Slovak,3.320,3.320,Slovakia 3.320
+Troll,Croatian,3.250,3.250,Croatia 3.250
+Troll,Serbian,3.230,3.230,Serbia 3.230
+Troll,Dutch,3.220,3.220,Netherlands 3.220
+Troll,Slovene,3.180,3.180,Slovenia 3.180
+Troll,Bulgarian,3.040,3.040,Bulgaria 3.040
+Troll,Tatar and Bashkir,0.000,3.040,Idelsk-Uralia 3.040
+Troll,Latvian,3.020,3.020,Latvia 3.020
+Troll,Polish,1.520,1.520,Poland 1.520
+Troll,Hungarian,1.520,1.520,Hungary 1.520
+Troll,Swedish,1.380,1.380,Sweden 1.380
+Troll,Lithuanian,1.340,1.340,Lithuania 1.340
+Troll,Belarusian,0.000,1.310,Belarus 1.310
+Troll,Estonian,1.250,1.250,Estonia 1.250
+Troll,Norwegian,1.240,1.240,Norway 1.240
+Troll,Afrikaans,0.000,1.240,South Africa 1.240
+Troll,Zulu and other Bantu languages,0.000,1.240,South Africa 1.240
+Troll,Romanian,1.080,1.080,Romania 1.080
+Troll,Ukrainian,0.000,1.020,Ukraine 1.020
+Troll,"Dagestani languages (Avar, Dargin, Lezgin and others)",0.000,0.210,Dagestan 0.210
+Troll,Chechen,0.000,0.100,Chechnya 0.100
+Troll,Hawaiian (the dominant language everywhere),0.000,0.076,Hawaii 0.076
+Troll,Kabardian and Balkar,0.000,0.061,Kabardino-Balkaria 0.061
+Troll,Ossetian,0.000,0.046,North Ossetia-Alania 0.046
+Troll,Ingush,0.000,0.034,Ingushetia 0.034
+Troll,Karachay and Circassian languages,0.000,0.032,Karachay-Cherkessia 0.032
+Troll,Tuvan,0.000,0.023,Tuva 0.023
+Utstein,English,20.014,23.702,Australia 6.950; CSA 4.510; Appalachia 2.900; New England 2.370; Cascadia 2.110; United Kingdom 1.630; South Africa 1.120; Midwest Republic 0.900; Colorado 0.680; Sonora 0.400; Hawaii 0.058; Northern Ireland 0.046; Alaska 0.028
+Utstein,French,8.760,8.760,France 8.760
+Utstein,Portuguese,7.910,7.910,Brazil 7.120; Amazonia 0.790
+Utstein,German,6.120,6.120,Germany 3.710; Austro-Bavaria 2.410
+Utstein,Russian,0.880,5.420,Ukraine 1.740; Kazakhstan 1.450; Belarus 1.350; Russia (core state) 0.880
+Utstein,Finnish,5.210,5.210,Finland 5.210
+Utstein,Japanese,5.080,5.080,Japan 5.080
+Utstein,Norwegian,5.050,5.050,Norway 5.050
+Utstein,Spanish,1.145,3.655,Cascadia 2.110; Argentina (without Patagonia) 1.080; Sonora 0.400; Araucanía-Patagonia 0.065
+Utstein,Danish,3.020,3.020,Denmark 3.020
+Utstein,Dutch,2.930,2.930,Netherlands 2.930
+Utstein,Serbian,2.650,2.650,Serbia 2.650
+Utstein,Polish,2.640,2.640,Poland 2.640
+Utstein,Swedish,2.610,2.610,Sweden 2.610
+Utstein,Bulgarian,2.480,2.480,Bulgaria 2.480
+Utstein,Czech,2.430,2.430,Czechia 2.430
+Utstein,Latvian,2.430,2.430,Latvia 2.430
+Utstein,Romanian,2.180,2.180,Romania 2.180
+Utstein,Ukrainian,0.000,1.740,Ukraine 1.740
+Utstein,Hungarian,1.610,1.610,Hungary 1.610
+Utstein,Kazakh,0.000,1.450,Kazakhstan 1.450
+Utstein,Belarusian,0.000,1.350,Belarus 1.350
+Utstein,Croatian,1.300,1.300,Croatia 1.300
+Utstein,Lithuanian,1.300,1.300,Lithuania 1.300
+Utstein,Slovak,1.220,1.220,Slovakia 1.220
+Utstein,Estonian,1.170,1.170,Estonia 1.170
+Utstein,Afrikaans,0.000,1.120,South Africa 1.120
+Utstein,Zulu and other Bantu languages,0.000,1.120,South Africa 1.120
+Utstein,Slovene,1.100,1.100,Slovenia 1.100
+Utstein,Icelandic,0.550,0.550,Iceland 0.550
+Utstein,Hawaiian (the dominant language everywhere),0.000,0.058,Hawaii 0.058
+Cape_Adare,English,42.639,50.868,"Australia 11.820; CSA 7.910; United Kingdom 5.590; Appalachia 4.430; Cascadia 4.080; New England 3.620; New Zealand 3.060; Demilitarized Zone (s. Ontario, not a nation) 2.310; Philippines 1.990; Malaysia 1.460; Midwest Republic 1.380; Prairie Federation 1.300; Colorado 1.030; Sonora 0.610; Northern Ireland 0.130; Hawaii 0.089; Alaska 0.059"
+Cape_Adare,Mandarin,15.340,15.660,Sinian Federation 11.620; Taiwan 2.910; Manchuria 0.810; Mongolia 0.320
+Cape_Adare,Japanese,11.520,11.520,Japan 11.520
+Cape_Adare,Indonesian,9.960,10.140,Indonesia 9.780; West Papua 0.180; Aceh 0.180
+Cape_Adare,Spanish,3.580,8.270,Cascadia 4.080; Chile 3.080; Sonora 0.610; Araucanía-Patagonia 0.500
+Cape_Adare,Korean,6.470,6.470,Korea 6.470
+Cape_Adare,Filipino (Tagalog),0.000,1.990,Philippines 1.990
+Cape_Adare,French,1.760,1.760,Quebec 1.760
+Cape_Adare,Malay,0.000,1.460,Malaysia 1.460
+Cape_Adare,Chinese (Mandarin and other),0.000,1.460,Malaysia 1.460
+Cape_Adare,Tamil,0.000,1.460,Malaysia 1.460
+Cape_Adare,Mongolian,0.000,0.320,Mongolia 0.320
+Cape_Adare,Acehnese,0.000,0.180,Aceh 0.180
+Cape_Adare,Hawaiian (the dominant language everywhere),0.000,0.089,Hawaii 0.089
+Concordia,English,16.634,21.892,"Australia 8.100; New Zealand 3.550; Philippines 2.470; Malaysia 1.840; CSA 1.350; United Kingdom 1.210; Appalachia 0.870; Cascadia 0.750; New England 0.710; Midwest Republic 0.270; Demilitarized Zone (s. Ontario, not a nation) 0.210; Colorado 0.200; Sonora 0.180; Prairie Federation 0.120; Northern Ireland 0.034; Hawaii 0.018; Alaska 0.010"
+Concordia,Russian,5.680,14.298,Belarus 3.560; Russia (core state) 2.940; Idelsk-Uralia 2.720; Kazakhstan 1.450; Siberia 1.080; Donska-Kubania 1.040; Künnarantaiga 0.620; Ukraine 0.430; Dagestan 0.190; Chechnya 0.092; Kabardino-Balkaria 0.054; North Ossetia-Alania 0.041; Ingushetia 0.031; Karachay-Cherkessia 0.029; Tuva 0.021
+Concordia,Korean,10.030,10.030,Korea 10.030
+Concordia,Japanese,9.660,9.660,Japan 9.660
+Concordia,Indonesian,7.830,7.970,Indonesia 7.680; West Papua 0.150; Aceh 0.140
+Concordia,Mandarin,7.590,7.959,Sinian Federation 4.450; Taiwan 2.860; Manchuria 0.280; Mongolia 0.210; East Turkestan 0.140; Tibet 0.019
+Concordia,Vietnamese,3.990,3.990,Vietnam 3.990
+Concordia,Belarusian,0.000,3.560,Belarus 3.560
+Concordia,Spanish,2.180,3.423,Spain 1.070; México 0.980; Cascadia 0.750; Catalonia 0.230; Sonora 0.180; Yucatán 0.130; Basque Country 0.083
+Concordia,Tatar and Bashkir,0.000,2.720,Idelsk-Uralia 2.720
+Concordia,Filipino (Tagalog),0.000,2.470,Philippines 2.470
+Concordia,French,2.190,2.190,France 2.030; Quebec 0.160
+Concordia,Malay,0.000,1.840,Malaysia 1.840
+Concordia,Chinese (Mandarin and other),0.000,1.840,Malaysia 1.840
+Concordia,Tamil,0.000,1.840,Malaysia 1.840
+Concordia,Serbian,1.500,1.500,Serbia 1.500
+Concordia,Thai,1.450,1.492,Thailand 1.450; Patani 0.042
+Concordia,Estonian,1.460,1.460,Estonia 1.460
+Concordia,Kazakh,0.000,1.450,Kazakhstan 1.450
+Concordia,Hungarian,1.420,1.420,Hungary 1.420
+Concordia,Dutch,1.400,1.400,Netherlands 1.400
+Concordia,Finnish,1.360,1.360,Finland 1.360
+Concordia,Croatian,1.360,1.360,Croatia 1.360
+Concordia,Czech,1.300,1.300,Czechia 1.300
+Concordia,Norwegian,1.300,1.300,Norway 1.300
+Concordia,Polish,1.240,1.240,Poland 1.240
+Concordia,Lithuanian,0.790,0.790,Lithuania 0.790
+Concordia,Latvian,0.760,0.760,Latvia 0.760
+Concordia,Swedish,0.710,0.710,Sweden 0.710
+Concordia,Italian,0.707,0.707,Magna Lombardia 0.400; Meridia 0.250; Sicilia (autonomous zone within Meridia) 0.057
+Concordia,Bulgarian,0.680,0.680,Bulgaria 0.680
+Concordia,Slovak,0.620,0.620,Slovakia 0.620
+Concordia,Romanian,0.580,0.580,Romania 0.580
+Concordia,German,0.548,0.548,Germany 0.460; Austro-Bavaria 0.088
+Concordia,Ukrainian,0.000,0.430,Ukraine 0.430
+Concordia,Slovene,0.260,0.260,Slovenia 0.260
+Concordia,Catalan,0.000,0.230,Catalonia 0.230
+Concordia,Mongolian,0.000,0.210,Mongolia 0.210
+Concordia,"Dagestani languages (Avar, Dargin, Lezgin and others)",0.000,0.190,Dagestan 0.190
+Concordia,Acehnese,0.000,0.140,Aceh 0.140
+Concordia,Uyghur,0.000,0.140,East Turkestan 0.140
+Concordia,Chechen,0.000,0.092,Chechnya 0.092
+Concordia,Basque,0.000,0.083,Basque Country 0.083
+Concordia,Kabardian and Balkar,0.000,0.054,Kabardino-Balkaria 0.054
+Concordia,Patani Malay,0.000,0.042,Patani 0.042
+Concordia,Ossetian,0.000,0.041,North Ossetia-Alania 0.041
+Concordia,Ingush,0.000,0.031,Ingushetia 0.031
+Concordia,Karachay and Circassian languages,0.000,0.029,Karachay-Cherkessia 0.029
+Concordia,Tuvan,0.000,0.021,Tuva 0.021
+Concordia,Tibetan,0.000,0.019,Tibet 0.019
+Concordia,Hawaiian (the dominant language everywhere),0.000,0.018,Hawaii 0.018
+Denison,English,33.229,43.629,CSA 9.330; Australia 6.750; Appalachia 6.250; New England 4.260; Cascadia 3.790; New Zealand 3.750; Philippines 3.480; Malaysia 2.320; Midwest Republic 1.620; Colorado 1.220; Sonora 0.710; Hawaii 0.100; Alaska 0.049
+Denison,Mandarin,17.020,17.480,Sinian Federation 13.230; Taiwan 2.900; Manchuria 0.890; Mongolia 0.460
+Denison,Korean,13.950,13.950,Korea 13.950
+Denison,Indonesian,11.600,11.800,Indonesia 11.390; West Papua 0.210; Aceh 0.200
+Denison,Japanese,8.160,8.160,Japan 8.160
+Denison,Spanish,0.000,4.500,Cascadia 3.790; Sonora 0.710
+Denison,Vietnamese,3.560,3.560,Vietnam 3.560
+Denison,Filipino (Tagalog),0.000,3.480,Philippines 3.480
+Denison,Malay,0.000,2.320,Malaysia 2.320
+Denison,Chinese (Mandarin and other),0.000,2.320,Malaysia 2.320
+Denison,Tamil,0.000,2.320,Malaysia 2.320
+Denison,Thai,1.350,1.389,Thailand 1.350; Patani 0.039
+Denison,Mongolian,0.000,0.460,Mongolia 0.460
+Denison,Acehnese,0.000,0.200,Aceh 0.200
+Denison,Hawaiian (the dominant language everywhere),0.000,0.100,Hawaii 0.100
+Denison,Patani Malay,0.000,0.039,Patani 0.039
+Dumont_dUrville,English,33.748,42.609,Australia 12.550; CSA 7.730; Appalachia 4.000; New Zealand 3.980; New England 3.270; Philippines 3.250; Cascadia 2.910; Malaysia 2.070; Midwest Republic 1.240; Colorado 0.940; Sonora 0.550; Hawaii 0.081; Alaska 0.038
+Dumont_dUrville,Mandarin,17.380,18.361,Sinian Federation 13.560; Taiwan 2.900; Manchuria 0.920; Mongolia 0.490; East Turkestan 0.430; Tibet 0.061
+Dumont_dUrville,French,13.370,13.370,France 13.370
+Dumont_dUrville,Japanese,13.280,13.280,Japan 13.280
+Dumont_dUrville,Indonesian,6.480,6.590,Indonesia 6.370; West Papua 0.110; Aceh 0.110
+Dumont_dUrville,Vietnamese,3.870,3.870,Vietnam 3.870
+Dumont_dUrville,Spanish,0.000,3.460,Cascadia 2.910; Sonora 0.550
+Dumont_dUrville,Filipino (Tagalog),0.000,3.250,Philippines 3.250
+Dumont_dUrville,Malay,0.000,2.070,Malaysia 2.070
+Dumont_dUrville,Chinese (Mandarin and other),0.000,2.070,Malaysia 2.070
+Dumont_dUrville,Tamil,0.000,2.070,Malaysia 2.070
+Dumont_dUrville,Korean,1.780,1.780,Korea 1.780
+Dumont_dUrville,Mongolian,0.000,0.490,Mongolia 0.490
+Dumont_dUrville,Uyghur,0.000,0.430,East Turkestan 0.430
+Dumont_dUrville,Thai,0.130,0.134,Thailand 0.130; Patani 0.004
+Dumont_dUrville,Acehnese,0.000,0.110,Aceh 0.110
+Dumont_dUrville,Hawaiian (the dominant language everywhere),0.000,0.081,Hawaii 0.081
+Dumont_dUrville,Tibetan,0.000,0.061,Tibet 0.061
+Dumont_dUrville,Patani Malay,0.000,0.004,Patani 0.004
+Fort_McMurdo,English,29.560,38.527,"CSA 8.400; Appalachia 4.310; United Kingdom 3.980; Cascadia 3.600; New England 3.530; Malaysia 3.170; New Zealand 3.060; Australia 1.840; Philippines 1.520; Midwest Republic 1.340; Demilitarized Zone (s. Ontario, not a nation) 1.240; Colorado 1.010; Prairie Federation 0.690; Sonora 0.590; Northern Ireland 0.110; Hawaii 0.087; Alaska 0.050"
+Fort_McMurdo,Mandarin,13.770,14.090,Sinian Federation 10.110; Taiwan 2.910; Manchuria 0.750; Mongolia 0.320
+Fort_McMurdo,French,12.590,12.590,France 11.650; Quebec 0.940
+Fort_McMurdo,German,12.160,12.160,Germany 10.540; Austro-Bavaria 1.620
+Fort_McMurdo,Japanese,10.870,10.870,Japan 10.870
+Fort_McMurdo,Spanish,3.390,7.580,Cascadia 3.600; Chile 2.920; Sonora 0.590; Araucanía-Patagonia 0.470
+Fort_McMurdo,Italian,4.690,4.690,Magna Lombardia 2.670; Meridia 1.640; Sicilia (autonomous zone within Meridia) 0.380
+Fort_McMurdo,Malay,0.000,3.170,Malaysia 3.170
+Fort_McMurdo,Chinese (Mandarin and other),0.000,3.170,Malaysia 3.170
+Fort_McMurdo,Tamil,0.000,3.170,Malaysia 3.170
+Fort_McMurdo,Korean,1.930,1.930,Korea 1.930
+Fort_McMurdo,Indonesian,1.706,1.740,Indonesia 1.670; West Papua 0.036; Aceh 0.034
+Fort_McMurdo,Filipino (Tagalog),0.000,1.520,Philippines 1.520
+Fort_McMurdo,Mongolian,0.000,0.320,Mongolia 0.320
+Fort_McMurdo,Hawaiian (the dominant language everywhere),0.000,0.087,Hawaii 0.087
+Fort_McMurdo,Acehnese,0.000,0.034,Aceh 0.034
+Janbogo,English,31.275,39.699,"Australia 11.790; CSA 7.020; Appalachia 3.660; Cascadia 3.180; Malaysia 3.000; New England 2.990; Philippines 1.670; New Zealand 1.590; Demilitarized Zone (s. Ontario, not a nation) 1.400; Midwest Republic 1.140; Colorado 0.850; Prairie Federation 0.790; Sonora 0.500; Hawaii 0.074; Alaska 0.045"
+Janbogo,Mandarin,14.370,14.710,Sinian Federation 10.670; Taiwan 2.910; Manchuria 0.790; Mongolia 0.340
+Janbogo,Korean,12.490,12.490,Korea 12.490
+Janbogo,Indonesian,10.230,10.400,Indonesia 10.060; West Papua 0.170; Aceh 0.170
+Janbogo,Italian,9.910,9.910,Magna Lombardia 6.140; Meridia 3.060; Sicilia (autonomous zone within Meridia) 0.710
+Janbogo,Spanish,3.090,6.770,Cascadia 3.180; Chile 2.660; Sonora 0.500; Araucanía-Patagonia 0.430
+Janbogo,German,4.450,4.450,Germany 3.730; Austro-Bavaria 0.720
+Janbogo,Japanese,4.220,4.220,Japan 4.220
+Janbogo,Malay,0.000,3.000,Malaysia 3.000
+Janbogo,Chinese (Mandarin and other),0.000,3.000,Malaysia 3.000
+Janbogo,Tamil,0.000,3.000,Malaysia 3.000
+Janbogo,Filipino (Tagalog),0.000,1.670,Philippines 1.670
+Janbogo,French,1.070,1.070,Quebec 1.070
+Janbogo,Mongolian,0.000,0.340,Mongolia 0.340
+Janbogo,Acehnese,0.000,0.170,Aceh 0.170
+Janbogo,Hawaiian (the dominant language everywhere),0.000,0.074,Hawaii 0.074
+Scott,English,46.846,54.667,"United Kingdom 11.450; Australia 10.290; CSA 7.990; Appalachia 4.500; Cascadia 3.930; New England 3.680; New Zealand 3.370; Demilitarized Zone (s. Ontario, not a nation) 1.770; Malaysia 1.670; Philippines 1.510; Midwest Republic 1.400; Colorado 1.050; Prairie Federation 1.000; Sonora 0.620; Northern Ireland 0.290; Hawaii 0.091; Alaska 0.056"
+Scott,Mandarin,15.040,15.360,Sinian Federation 11.430; Taiwan 2.910; Manchuria 0.700; Mongolia 0.320
+Scott,Japanese,11.800,11.800,Japan 11.800
+Scott,Spanish,3.530,8.080,Cascadia 3.930; Chile 3.040; Sonora 0.620; Araucanía-Patagonia 0.490
+Scott,Korean,7.340,7.340,Korea 7.340
+Scott,Indonesian,5.868,5.962,Indonesia 5.770; West Papua 0.098; Aceh 0.094
+Scott,Malay,0.000,1.670,Malaysia 1.670
+Scott,Chinese (Mandarin and other),0.000,1.670,Malaysia 1.670
+Scott,Tamil,0.000,1.670,Malaysia 1.670
+Scott,Filipino (Tagalog),0.000,1.510,Philippines 1.510
+Scott,French,1.350,1.350,Quebec 1.350
+Scott,Mongolian,0.000,0.320,Mongolia 0.320
+Scott,Acehnese,0.000,0.094,Aceh 0.094
+Scott,Hawaiian (the dominant language everywhere),0.000,0.091,Hawaii 0.091
+Zukelli,English,37.413,47.241,"Australia 11.750; CSA 7.750; Cascadia 4.120; Appalachia 3.870; Demilitarized Zone (s. Ontario, not a nation) 3.500; Malaysia 3.290; New Zealand 3.230; New England 3.170; Prairie Federation 1.970; Philippines 1.810; Midwest Republic 1.200; Colorado 0.910; Sonora 0.530; Hawaii 0.078; Alaska 0.063"
+Zukelli,Mandarin,16.200,16.570,Sinian Federation 12.380; Taiwan 2.910; Manchuria 0.910; Mongolia 0.370
+Zukelli,Korean,14.090,14.090,Korea 14.090
+Zukelli,Indonesian,7.080,7.190,Indonesia 6.960; West Papua 0.120; Aceh 0.110
+Zukelli,Spanish,1.740,6.390,Cascadia 4.120; Chile 1.500; Sonora 0.530; Araucanía-Patagonia 0.240
+Zukelli,Italian,5.970,5.970,Magna Lombardia 3.400; Meridia 2.090; Sicilia (autonomous zone within Meridia) 0.480
+Zukelli,Japanese,4.490,4.490,Japan 4.490
+Zukelli,Malay,0.000,3.290,Malaysia 3.290
+Zukelli,Chinese (Mandarin and other),0.000,3.290,Malaysia 3.290
+Zukelli,Tamil,0.000,3.290,Malaysia 3.290
+Zukelli,French,2.680,2.680,Quebec 2.680
+Zukelli,Filipino (Tagalog),0.000,1.810,Philippines 1.810
+Zukelli,Mongolian,0.000,0.370,Mongolia 0.370
+Zukelli,Acehnese,0.000,0.110,Aceh 0.110
+Zukelli,Hawaiian (the dominant language everywhere),0.000,0.078,Hawaii 0.078
+Dome_Fuji,English,19.093,25.748,"Australia 6.050; CSA 3.500; United Kingdom 2.340; Appalachia 2.250; Cascadia 1.930; Malaysia 1.850; New England 1.840; Philippines 1.650; New Zealand 0.820; South Africa 0.770; Midwest Republic 0.700; Demilitarized Zone (s. Ontario, not a nation) 0.620; Colorado 0.530; Sonora 0.410; Prairie Federation 0.350; Northern Ireland 0.067; Hawaii 0.045; Alaska 0.026"
+Dome_Fuji,Spanish,5.580,8.330,Cascadia 1.930; México 1.470; Spain 1.410; Chile 0.820; Argentina (without Patagonia) 0.770; Uruguay 0.740; Sonora 0.410; Catalonia 0.300; Yucatán 0.190; Araucanía-Patagonia 0.180; Basque Country 0.110
+Dome_Fuji,French,6.950,6.950,France 6.480; Quebec 0.470
+Dome_Fuji,Indonesian,6.310,6.420,Indonesia 6.200; West Papua 0.110; Aceh 0.110
+Dome_Fuji,German,6.350,6.350,Germany 3.910; Austro-Bavaria 2.440
+Dome_Fuji,Russian,1.650,6.244,Belarus 1.770; Kazakhstan 1.450; Russia (core state) 0.970; Idelsk-Uralia 0.670; Ukraine 0.590; Siberia 0.270; Donska-Kubania 0.260; Künnarantaiga 0.150; Dagestan 0.047; Chechnya 0.023; Kabardino-Balkaria 0.014; North Ossetia-Alania 0.010; Ingushetia 0.008; Karachay-Cherkessia 0.007; Tuva 0.005
+Dome_Fuji,Korean,5.600,5.600,Korea 5.600
+Dome_Fuji,Mandarin,5.290,5.496,Sinian Federation 5.290; East Turkestan 0.180; Tibet 0.026
+Dome_Fuji,Portuguese,3.060,3.060,Brazil 2.760; Amazonia 0.300
+Dome_Fuji,Japanese,2.740,2.740,Japan 2.740
+Dome_Fuji,Dutch,2.310,2.310,Netherlands 2.310
+Dome_Fuji,Hungarian,1.930,1.930,Hungary 1.930
+Dome_Fuji,Malay,0.000,1.850,Malaysia 1.850
+Dome_Fuji,Chinese (Mandarin and other),0.000,1.850,Malaysia 1.850
+Dome_Fuji,Tamil,0.000,1.850,Malaysia 1.850
+Dome_Fuji,Slovene,1.810,1.810,Slovenia 1.810
+Dome_Fuji,Belarusian,0.000,1.770,Belarus 1.770
+Dome_Fuji,Croatian,1.760,1.760,Croatia 1.760
+Dome_Fuji,Serbian,1.730,1.730,Serbia 1.730
+Dome_Fuji,Czech,1.680,1.680,Czechia 1.680
+Dome_Fuji,Latvian,1.670,1.670,Latvia 1.670
+Dome_Fuji,Filipino (Tagalog),0.000,1.650,Philippines 1.650
+Dome_Fuji,Estonian,1.630,1.630,Estonia 1.630
+Dome_Fuji,Norwegian,1.610,1.610,Norway 1.610
+Dome_Fuji,Romanian,1.580,1.580,Romania 1.580
+Dome_Fuji,Kazakh,0.000,1.450,Kazakhstan 1.450
+Dome_Fuji,Finnish,0.950,0.950,Finland 0.950
+Dome_Fuji,Slovak,0.930,0.930,Slovakia 0.930
+Dome_Fuji,Bulgarian,0.920,0.920,Bulgaria 0.920
+Dome_Fuji,Swedish,0.910,0.910,Sweden 0.910
+Dome_Fuji,Vietnamese,0.910,0.910,Vietnam 0.910
+Dome_Fuji,Thai,0.790,0.813,Thailand 0.790; Patani 0.023
+Dome_Fuji,Afrikaans,0.000,0.770,South Africa 0.770
+Dome_Fuji,Zulu and other Bantu languages,0.000,0.770,South Africa 0.770
+Dome_Fuji,Italian,0.751,0.751,Magna Lombardia 0.430; Meridia 0.260; Sicilia (autonomous zone within Meridia) 0.061
+Dome_Fuji,Polish,0.740,0.740,Poland 0.740
+Dome_Fuji,Lithuanian,0.730,0.730,Lithuania 0.730
+Dome_Fuji,Tatar and Bashkir,0.000,0.670,Idelsk-Uralia 0.670
+Dome_Fuji,Ukrainian,0.000,0.590,Ukraine 0.590
+Dome_Fuji,Catalan,0.000,0.300,Catalonia 0.300
+Dome_Fuji,Uyghur,0.000,0.180,East Turkestan 0.180
+Dome_Fuji,Basque,0.000,0.110,Basque Country 0.110
+Dome_Fuji,Acehnese,0.000,0.110,Aceh 0.110
+Dome_Fuji,"Dagestani languages (Avar, Dargin, Lezgin and others)",0.000,0.047,Dagestan 0.047
+Dome_Fuji,Hawaiian (the dominant language everywhere),0.000,0.045,Hawaii 0.045
+Dome_Fuji,Tibetan,0.000,0.026,Tibet 0.026
+Dome_Fuji,Patani Malay,0.000,0.023,Patani 0.023
+Dome_Fuji,Chechen,0.000,0.023,Chechnya 0.023
+Dome_Fuji,Kabardian and Balkar,0.000,0.014,Kabardino-Balkaria 0.014
+Dome_Fuji,Ossetian,0.000,0.010,North Ossetia-Alania 0.010
+Dome_Fuji,Ingush,0.000,0.008,Ingushetia 0.008
+Dome_Fuji,Karachay and Circassian languages,0.000,0.007,Karachay-Cherkessia 0.007
+Dome_Fuji,Tuvan,0.000,0.005,Tuva 0.005
+Mawson,English,13.160,16.150,Australia 9.380; United Kingdom 3.540; South Africa 2.990; Northern Ireland 0.240
+Mawson,Russian,3.350,11.680,Kazakhstan 4.800; Russia (core state) 3.350; Belarus 2.840; Ukraine 0.690
+Mawson,Mandarin,8.940,9.663,Sinian Federation 8.940; Mongolia 0.370; East Turkestan 0.310; Tibet 0.043
+Mawson,Indonesian,8.730,8.880,Indonesia 8.570; West Papua 0.160; Aceh 0.150
+Mawson,Japanese,8.460,8.460,Japan 8.460
+Mawson,French,5.980,5.980,France 5.980
+Mawson,Korean,5.500,5.500,Korea 5.500
+Mawson,Kazakh,0.000,4.800,Kazakhstan 4.800
+Mawson,German,3.490,3.490,Austro-Bavaria 1.980; Germany 1.510
+Mawson,Estonian,3.070,3.070,Estonia 3.070
+Mawson,Afrikaans,0.000,2.990,South Africa 2.990
+Mawson,Zulu and other Bantu languages,0.000,2.990,South Africa 2.990
+Mawson,Norwegian,2.950,2.950,Norway 2.950
+Mawson,Vietnamese,2.890,2.890,Vietnam 2.890
+Mawson,Thai,2.790,2.872,Thailand 2.790; Patani 0.082
+Mawson,Belarusian,0.000,2.840,Belarus 2.840
+Mawson,Dutch,2.830,2.830,Netherlands 2.830
+Mawson,Slovene,2.620,2.620,Slovenia 2.620
+Mawson,Bulgarian,2.590,2.590,Bulgaria 2.590
+Mawson,Czech,1.520,1.520,Czechia 1.520
+Mawson,Slovak,1.500,1.500,Slovakia 1.500
+Mawson,Hungarian,1.400,1.400,Hungary 1.400
+Mawson,Lithuanian,1.300,1.300,Lithuania 1.300
+Mawson,Polish,1.230,1.230,Poland 1.230
+Mawson,Croatian,1.170,1.170,Croatia 1.170
+Mawson,Latvian,1.120,1.120,Latvia 1.120
+Mawson,Romanian,1.110,1.110,Romania 1.110
+Mawson,Ukrainian,0.000,0.690,Ukraine 0.690
+Mawson,Mongolian,0.000,0.370,Mongolia 0.370
+Mawson,Uyghur,0.000,0.310,East Turkestan 0.310
+Mawson,Acehnese,0.000,0.150,Aceh 0.150
+Mawson,Patani Malay,0.000,0.082,Patani 0.082
+Mawson,Tibetan,0.000,0.043,Tibet 0.043
+Temirotkel,English,18.360,19.850,Australia 9.370; United Kingdom 8.780; South Africa 1.490; Northern Ireland 0.210
+Temirotkel,German,10.780,10.780,Germany 7.810; Austro-Bavaria 2.970
+Temirotkel,Indonesian,9.510,9.670,Indonesia 9.340; West Papua 0.170; Aceh 0.160
+Temirotkel,Russian,0.500,9.320,Kazakhstan 5.130; Belarus 2.700; Ukraine 0.990; Russia (core state) 0.500
+Temirotkel,Mandarin,5.910,6.264,Sinian Federation 5.910; East Turkestan 0.310; Tibet 0.044
+Temirotkel,Korean,5.730,5.730,Korea 5.730
+Temirotkel,French,5.660,5.660,France 5.660
+Temirotkel,Kazakh,0.000,5.130,Kazakhstan 5.130
+Temirotkel,Serbian,3.180,3.180,Serbia 3.180
+Temirotkel,Dutch,3.030,3.030,Netherlands 3.030
+Temirotkel,Slovene,3.010,3.010,Slovenia 3.010
+Temirotkel,Croatian,3.000,3.000,Croatia 3.000
+Temirotkel,Lithuanian,2.710,2.710,Lithuania 2.710
+Temirotkel,Norwegian,2.710,2.710,Norway 2.710
+Temirotkel,Belarusian,0.000,2.700,Belarus 2.700
+Temirotkel,Latvian,2.670,2.670,Latvia 2.670
+Temirotkel,Japanese,2.620,2.620,Japan 2.620
+Temirotkel,Romanian,2.440,2.440,Romania 2.440
+Temirotkel,Hungarian,1.770,1.770,Hungary 1.770
+Temirotkel,Czech,1.510,1.510,Czechia 1.510
+Temirotkel,Afrikaans,0.000,1.490,South Africa 1.490
+Temirotkel,Zulu and other Bantu languages,0.000,1.490,South Africa 1.490
+Temirotkel,Bulgarian,1.200,1.200,Bulgaria 1.200
+Temirotkel,Polish,1.190,1.190,Poland 1.190
+Temirotkel,Estonian,1.080,1.080,Estonia 1.080
+Temirotkel,Ukrainian,0.000,0.990,Ukraine 0.990
+Temirotkel,Slovak,0.610,0.610,Slovakia 0.610
+Temirotkel,Uyghur,0.000,0.310,East Turkestan 0.310
+Temirotkel,Acehnese,0.000,0.160,Aceh 0.160
+Temirotkel,Tibetan,0.000,0.044,Tibet 0.044
+Ariun_Nuur,English,37.490,44.270,"CSA 8.740; Australia 6.140; Cascadia 5.900; Appalachia 5.610; Demilitarized Zone (s. Ontario, not a nation) 4.890; New England 4.590; Prairie Federation 2.750; Midwest Republic 1.740; New Zealand 1.630; Colorado 1.310; Sonora 0.770; Hawaii 0.110; Alaska 0.090"
+Ariun_Nuur,Japanese,15.970,15.970,Japan 15.970
+Ariun_Nuur,Indonesian,12.650,12.910,Indonesia 12.390; West Papua 0.260; Aceh 0.260
+Ariun_Nuur,Spanish,4.730,11.400,Cascadia 5.900; Chile 4.070; Sonora 0.770; Araucanía-Patagonia 0.660
+Ariun_Nuur,Mandarin,2.860,7.080,Mongolia 4.220; Taiwan 2.860
+Ariun_Nuur,Korean,6.160,6.160,Korea 6.160
+Ariun_Nuur,Russian,3.680,5.130,Künnarantaiga 3.680; Kazakhstan 1.450
+Ariun_Nuur,Mongolian,0.000,4.220,Mongolia 4.220
+Ariun_Nuur,French,3.740,3.740,Quebec 3.740
+Ariun_Nuur,Kazakh,0.000,1.450,Kazakhstan 1.450
+Ariun_Nuur,Acehnese,0.000,0.260,Aceh 0.260
+Ariun_Nuur,Hawaiian (the dominant language everywhere),0.000,0.110,Hawaii 0.110
+Casey,English,31.460,40.107,Australia 10.230; CSA 7.850; Appalachia 4.300; New England 3.520; New Zealand 3.170; Philippines 3.160; Cascadia 3.130; Malaysia 1.680; Midwest Republic 1.340; Colorado 1.010; Sonora 0.590; Hawaii 0.087; Alaska 0.040
+Casey,Mandarin,12.880,13.667,Sinian Federation 9.350; Taiwan 2.860; Manchuria 0.670; Mongolia 0.400; East Turkestan 0.340; Tibet 0.047
+Casey,Korean,11.950,11.950,Korea 11.950
+Casey,French,11.110,11.110,France 11.110
+Casey,Russian,3.640,7.209,Idelsk-Uralia 1.810; Russia (core state) 1.810; Kazakhstan 1.450; Siberia 0.720; Donska-Kubania 0.690; Künnarantaiga 0.420; Dagestan 0.130; Chechnya 0.061; Kabardino-Balkaria 0.036; North Ossetia-Alania 0.028; Ingushetia 0.021; Karachay-Cherkessia 0.019; Tuva 0.014
+Casey,Japanese,6.180,6.180,Japan 6.180
+Casey,Indonesian,5.575,5.667,Indonesia 5.480; West Papua 0.095; Aceh 0.092
+Casey,Spanish,0.000,3.720,Cascadia 3.130; Sonora 0.590
+Casey,Filipino (Tagalog),0.000,3.160,Philippines 3.160
+Casey,Vietnamese,3.030,3.030,Vietnam 3.030
+Casey,Tatar and Bashkir,0.000,1.810,Idelsk-Uralia 1.810
+Casey,Malay,0.000,1.680,Malaysia 1.680
+Casey,Chinese (Mandarin and other),0.000,1.680,Malaysia 1.680
+Casey,Tamil,0.000,1.680,Malaysia 1.680
+Casey,Kazakh,0.000,1.450,Kazakhstan 1.450
+Casey,Thai,1.040,1.071,Thailand 1.040; Patani 0.031
+Casey,Mongolian,0.000,0.400,Mongolia 0.400
+Casey,Uyghur,0.000,0.340,East Turkestan 0.340
+Casey,"Dagestani languages (Avar, Dargin, Lezgin and others)",0.000,0.130,Dagestan 0.130
+Casey,Acehnese,0.000,0.092,Aceh 0.092
+Casey,Hawaiian (the dominant language everywhere),0.000,0.087,Hawaii 0.087
+Casey,Chechen,0.000,0.061,Chechnya 0.061
+Casey,Tibetan,0.000,0.047,Tibet 0.047
+Casey,Kabardian and Balkar,0.000,0.036,Kabardino-Balkaria 0.036
+Casey,Patani Malay,0.000,0.031,Patani 0.031
+Casey,Ossetian,0.000,0.028,North Ossetia-Alania 0.028
+Casey,Finnish,0.022,0.022,Finland 0.022
+Casey,Ingush,0.000,0.021,Ingushetia 0.021
+Casey,Karachay and Circassian languages,0.000,0.019,Karachay-Cherkessia 0.019
+Casey,Tuvan,0.000,0.014,Tuva 0.014
+Davis,English,17.020,25.780,United Kingdom 9.360; Australia 5.740; Philippines 3.060; Malaysia 2.950; South Africa 2.750; New Zealand 1.690; Northern Ireland 0.230
+Davis,Mandarin,13.290,14.077,Sinian Federation 9.720; Taiwan 2.860; Manchuria 0.710; Mongolia 0.400; East Turkestan 0.340; Tibet 0.047
+Davis,Russian,4.460,11.606,Russia (core state) 2.780; Ukraine 2.200; Idelsk-Uralia 1.670; Belarus 1.540; Kazakhstan 1.450; Siberia 0.660; Donska-Kubania 0.640; Künnarantaiga 0.380; Dagestan 0.120; Chechnya 0.056; Kabardino-Balkaria 0.034; North Ossetia-Alania 0.026; Ingushetia 0.019; Karachay-Cherkessia 0.018; Tuva 0.013
+Davis,Japanese,10.420,10.420,Japan 10.420
+Davis,German,9.930,9.930,Germany 8.540; Austro-Bavaria 1.390
+Davis,Korean,8.350,8.350,Korea 8.350
+Davis,Indonesian,5.840,5.936,Indonesia 5.740; West Papua 0.100; Aceh 0.096
+Davis,Thai,3.230,3.325,Thailand 3.230; Patani 0.095
+Davis,Vietnamese,3.100,3.100,Vietnam 3.100
+Davis,Filipino (Tagalog),0.000,3.060,Philippines 3.060
+Davis,Malay,0.000,2.950,Malaysia 2.950
+Davis,Chinese (Mandarin and other),0.000,2.950,Malaysia 2.950
+Davis,Tamil,0.000,2.950,Malaysia 2.950
+Davis,Afrikaans,0.000,2.750,South Africa 2.750
+Davis,Zulu and other Bantu languages,0.000,2.750,South Africa 2.750
+Davis,Romanian,2.510,2.510,Romania 2.510
+Davis,Ukrainian,0.000,2.200,Ukraine 2.200
+Davis,Tatar and Bashkir,0.000,1.670,Idelsk-Uralia 1.670
+Davis,Belarusian,0.000,1.540,Belarus 1.540
+Davis,Kazakh,0.000,1.450,Kazakhstan 1.450
+Davis,Bulgarian,1.420,1.420,Bulgaria 1.420
+Davis,Lithuanian,1.180,1.180,Lithuania 1.180
+Davis,Estonian,1.170,1.170,Estonia 1.170
+Davis,Latvian,0.890,0.890,Latvia 0.890
+Davis,Mongolian,0.000,0.400,Mongolia 0.400
+Davis,Uyghur,0.000,0.340,East Turkestan 0.340
+Davis,Hungarian,0.290,0.290,Hungary 0.290
+Davis,"Dagestani languages (Avar, Dargin, Lezgin and others)",0.000,0.120,Dagestan 0.120
+Davis,Acehnese,0.000,0.096,Aceh 0.096
+Davis,Patani Malay,0.000,0.095,Patani 0.095
+Davis,Chechen,0.000,0.056,Chechnya 0.056
+Davis,Tibetan,0.000,0.047,Tibet 0.047
+Davis,Kabardian and Balkar,0.000,0.034,Kabardino-Balkaria 0.034
+Davis,Ossetian,0.000,0.026,North Ossetia-Alania 0.026
+Davis,Finnish,0.020,0.020,Finland 0.020
+Davis,Ingush,0.000,0.019,Ingushetia 0.019
+Davis,Karachay and Circassian languages,0.000,0.018,Karachay-Cherkessia 0.018
+Davis,Tuvan,0.000,0.013,Tuva 0.013
+Kunlun,Mandarin,15.090,20.750,Sinian Federation 15.090; Mongolia 5.660
+Kunlun,English,17.810,18.960,United Kingdom 6.970; CSA 5.660; New Zealand 2.650; Australia 2.530; South Africa 1.150
+Kunlun,Russian,11.320,11.320,Russia (core state) 5.660; Künnarantaiga 5.660
+Kunlun,French,10.590,10.590,Quebec 7.740; France 2.850
+Kunlun,Japanese,7.260,7.260,Japan 7.260
+Kunlun,Spanish,6.170,6.170,Argentina (without Patagonia) 2.620; Chile 2.300; Spain 1.250
+Kunlun,Mongolian,0.000,5.660,Mongolia 5.660
+Kunlun,Italian,5.660,5.660,Meridia 2.830; Magna Lombardia 2.830
+Kunlun,Korean,4.360,4.360,Korea 4.360
+Kunlun,German,3.580,3.580,Germany 2.510; Austro-Bavaria 1.070
+Kunlun,Swedish,2.550,2.550,Sweden 2.550
+Kunlun,Norwegian,1.880,1.880,Norway 1.880
+Kunlun,Afrikaans,0.000,1.150,South Africa 1.150
+Kunlun,Zulu and other Bantu languages,0.000,1.150,South Africa 1.150
+Kunlun,Dutch,0.054,0.054,Netherlands 0.054
+Kunlun,UNMAPPED,6.860,6.860,Intermarium/Intermaria
+Mirny,English,25.230,34.380,United Kingdom 13.730; Australia 6.960; Philippines 4.240; New Zealand 4.220; Malaysia 3.440; South Africa 1.470; Northern Ireland 0.320
+Mirny,Mandarin,15.770,16.740,Sinian Federation 12.000; Taiwan 2.860; Manchuria 0.910; Mongolia 0.480; East Turkestan 0.430; Tibet 0.060
+Mirny,Korean,13.710,13.710,Korea 13.710
+Mirny,Indonesian,12.240,12.440,Indonesia 12.030; West Papua 0.210; Aceh 0.200
+Mirny,Russian,4.290,9.731,Idelsk-Uralia 2.140; Russia (core state) 2.140; Belarus 1.490; Kazakhstan 1.450; Siberia 0.850; Donska-Kubania 0.810; Künnarantaiga 0.490; Dagestan 0.150; Chechnya 0.072; Kabardino-Balkaria 0.042; North Ossetia-Alania 0.033; Ingushetia 0.025; Karachay-Cherkessia 0.023; Tuva 0.016
+Mirny,Japanese,7.810,7.810,Japan 7.810
+Mirny,Filipino (Tagalog),0.000,4.240,Philippines 4.240
+Mirny,Thai,3.390,3.490,Thailand 3.390; Patani 0.100
+Mirny,Malay,0.000,3.440,Malaysia 3.440
+Mirny,Chinese (Mandarin and other),0.000,3.440,Malaysia 3.440
+Mirny,Tamil,0.000,3.440,Malaysia 3.440
+Mirny,Tatar and Bashkir,0.000,2.140,Idelsk-Uralia 2.140
+Mirny,Vietnamese,1.650,1.650,Vietnam 1.650
+Mirny,Belarusian,0.000,1.490,Belarus 1.490
+Mirny,Afrikaans,0.000,1.470,South Africa 1.470
+Mirny,Zulu and other Bantu languages,0.000,1.470,South Africa 1.470
+Mirny,Kazakh,0.000,1.450,Kazakhstan 1.450
+Mirny,Mongolian,0.000,0.480,Mongolia 0.480
+Mirny,Uyghur,0.000,0.430,East Turkestan 0.430
+Mirny,Acehnese,0.000,0.200,Aceh 0.200
+Mirny,"Dagestani languages (Avar, Dargin, Lezgin and others)",0.000,0.150,Dagestan 0.150
+Mirny,Patani Malay,0.000,0.100,Patani 0.100
+Mirny,Chechen,0.000,0.072,Chechnya 0.072
+Mirny,Tibetan,0.000,0.060,Tibet 0.060
+Mirny,Kabardian and Balkar,0.000,0.042,Kabardino-Balkaria 0.042
+Mirny,Ossetian,0.000,0.033,North Ossetia-Alania 0.033
+Mirny,Finnish,0.026,0.026,Finland 0.026
+Mirny,Ingush,0.000,0.025,Ingushetia 0.025
+Mirny,Karachay and Circassian languages,0.000,0.023,Karachay-Cherkessia 0.023
+Mirny,Tuvan,0.000,0.016,Tuva 0.016
+Relung_Panen,English,14.640,20.750,Australia 11.840; Malaysia 3.110; Philippines 3.000; New Zealand 2.800
+Relung_Panen,Mandarin,15.570,16.443,Sinian Federation 11.850; Taiwan 2.860; Manchuria 0.860; Mongolia 0.440; East Turkestan 0.380; Tibet 0.053
+Relung_Panen,Russian,7.490,13.300,Idelsk-Uralia 3.730; Russia (core state) 3.730; Siberia 1.480; Kazakhstan 1.450; Donska-Kubania 1.420; Künnarantaiga 0.860; Dagestan 0.260; Chechnya 0.130; Kabardino-Balkaria 0.075; North Ossetia-Alania 0.057; Ingushetia 0.042; Karachay-Cherkessia 0.038; Tuva 0.028
+Relung_Panen,Indonesian,12.840,13.070,Indonesia 12.600; West Papua 0.240; Aceh 0.230
+Relung_Panen,Japanese,12.860,12.860,Japan 12.860
+Relung_Panen,Korean,12.430,12.430,Korea 12.430
+Relung_Panen,Thai,5.640,5.780,Thailand 5.640; Patani 0.140
+Relung_Panen,Vietnamese,5.360,5.360,Vietnam 5.360
+Relung_Panen,Tatar and Bashkir,0.000,3.730,Idelsk-Uralia 3.730
+Relung_Panen,Malay,0.000,3.110,Malaysia 3.110
+Relung_Panen,Chinese (Mandarin and other),0.000,3.110,Malaysia 3.110
+Relung_Panen,Tamil,0.000,3.110,Malaysia 3.110
+Relung_Panen,Filipino (Tagalog),0.000,3.000,Philippines 3.000
+Relung_Panen,Kazakh,0.000,1.450,Kazakhstan 1.450
+Relung_Panen,Mongolian,0.000,0.440,Mongolia 0.440
+Relung_Panen,Uyghur,0.000,0.380,East Turkestan 0.380
+Relung_Panen,"Dagestani languages (Avar, Dargin, Lezgin and others)",0.000,0.260,Dagestan 0.260
+Relung_Panen,Acehnese,0.000,0.230,Aceh 0.230
+Relung_Panen,Patani Malay,0.000,0.140,Patani 0.140
+Relung_Panen,Chechen,0.000,0.130,Chechnya 0.130
+Relung_Panen,Kabardian and Balkar,0.000,0.075,Kabardino-Balkaria 0.075
+Relung_Panen,Ossetian,0.000,0.057,North Ossetia-Alania 0.057
+Relung_Panen,Tibetan,0.000,0.053,Tibet 0.053
+Relung_Panen,Finnish,0.044,0.044,Finland 0.044
+Relung_Panen,Ingush,0.000,0.042,Ingushetia 0.042
+Relung_Panen,Karachay and Circassian languages,0.000,0.038,Karachay-Cherkessia 0.038
+Relung_Panen,Tuvan,0.000,0.028,Tuva 0.028
+Shirayuki,Japanese,34.200,34.200,Japan 34.200
+Shirayuki,Russian,6.090,15.300,Russia (core state) 3.530; Belarus 2.830; Idelsk-Uralia 2.550; Ukraine 1.950; Kazakhstan 1.450; Siberia 1.010; Donska-Kubania 0.970; Künnarantaiga 0.580; Dagestan 0.180; Chechnya 0.086; Kabardino-Balkaria 0.051; North Ossetia-Alania 0.038; Ingushetia 0.029; Karachay-Cherkessia 0.027; Tuva 0.019
+Shirayuki,English,12.450,14.020,Australia 9.650; New Zealand 2.800; South Africa 1.570
+Shirayuki,Korean,9.100,9.100,Korea 9.100
+Shirayuki,Mandarin,7.610,7.968,Sinian Federation 4.490; Taiwan 2.860; Manchuria 0.260; Mongolia 0.210; East Turkestan 0.130; Tibet 0.018
+Shirayuki,German,4.650,4.650,Germany 3.900; Austro-Bavaria 0.750
+Shirayuki,Romanian,2.990,2.990,Romania 2.990
+Shirayuki,Vietnamese,2.980,2.980,Vietnam 2.980
+Shirayuki,Belarusian,0.000,2.830,Belarus 2.830
+Shirayuki,Thai,2.740,2.820,Thailand 2.740; Patani 0.080
+Shirayuki,Tatar and Bashkir,0.000,2.550,Idelsk-Uralia 2.550
+Shirayuki,Ukrainian,0.000,1.950,Ukraine 1.950
+Shirayuki,Lithuanian,1.660,1.660,Lithuania 1.660
+Shirayuki,Afrikaans,0.000,1.570,South Africa 1.570
+Shirayuki,Zulu and other Bantu languages,0.000,1.570,South Africa 1.570
+Shirayuki,Bulgarian,1.510,1.510,Bulgaria 1.510
+Shirayuki,Kazakh,0.000,1.450,Kazakhstan 1.450
+Shirayuki,Latvian,1.270,1.270,Latvia 1.270
+Shirayuki,Estonian,1.150,1.150,Estonia 1.150
+Shirayuki,Hungarian,0.340,0.340,Hungary 0.340
+Shirayuki,Mongolian,0.000,0.210,Mongolia 0.210
+Shirayuki,"Dagestani languages (Avar, Dargin, Lezgin and others)",0.000,0.180,Dagestan 0.180
+Shirayuki,Uyghur,0.000,0.130,East Turkestan 0.130
+Shirayuki,Chechen,0.000,0.086,Chechnya 0.086
+Shirayuki,Patani Malay,0.000,0.080,Patani 0.080
+Shirayuki,Kabardian and Balkar,0.000,0.051,Kabardino-Balkaria 0.051
+Shirayuki,Ossetian,0.000,0.038,North Ossetia-Alania 0.038
+Shirayuki,Finnish,0.031,0.031,Finland 0.031
+Shirayuki,Ingush,0.000,0.029,Ingushetia 0.029
+Shirayuki,Karachay and Circassian languages,0.000,0.027,Karachay-Cherkessia 0.027
+Shirayuki,Tuvan,0.000,0.019,Tuva 0.019
+Shirayuki,Tibetan,0.000,0.018,Tibet 0.018
+Sinheung,Korean,33.000,33.000,Korea 33.000
+Sinheung,German,10.060,10.060,Germany 8.750; Austro-Bavaria 1.310
+Sinheung,Japanese,9.400,9.400,Japan 9.400
+Sinheung,Mandarin,8.650,9.095,Sinian Federation 5.450; Taiwan 2.860; Manchuria 0.340; Mongolia 0.250; East Turkestan 0.170; Tibet 0.025
+Sinheung,English,3.370,8.960,Australia 3.370; Malaysia 2.760; Philippines 1.670; South Africa 1.160
+Sinheung,Russian,4.080,7.898,Idelsk-Uralia 2.030; Russia (core state) 2.030; Kazakhstan 1.450; Siberia 0.810; Donska-Kubania 0.770; Künnarantaiga 0.470; Dagestan 0.140; Chechnya 0.068; Kabardino-Balkaria 0.040; North Ossetia-Alania 0.031; Ingushetia 0.023; Karachay-Cherkessia 0.021; Tuva 0.015
+Sinheung,Indonesian,4.075,4.157,Indonesia 3.990; West Papua 0.085; Aceh 0.082
+Sinheung,Thai,3.340,3.438,Thailand 3.340; Patani 0.098
+Sinheung,Estonian,3.320,3.320,Estonia 3.320
+Sinheung,Hungarian,3.230,3.230,Hungary 3.230
+Sinheung,Lithuanian,2.930,2.930,Lithuania 2.930
+Sinheung,Malay,0.000,2.760,Malaysia 2.760
+Sinheung,Chinese (Mandarin and other),0.000,2.760,Malaysia 2.760
+Sinheung,Tamil,0.000,2.760,Malaysia 2.760
+Sinheung,Tatar and Bashkir,0.000,2.030,Idelsk-Uralia 2.030
+Sinheung,Vietnamese,1.840,1.840,Vietnam 1.840
+Sinheung,Filipino (Tagalog),0.000,1.670,Philippines 1.670
+Sinheung,Kazakh,0.000,1.450,Kazakhstan 1.450
+Sinheung,Bulgarian,1.370,1.370,Bulgaria 1.370
+Sinheung,Latvian,1.270,1.270,Latvia 1.270
+Sinheung,Afrikaans,0.000,1.160,South Africa 1.160
+Sinheung,Zulu and other Bantu languages,0.000,1.160,South Africa 1.160
+Sinheung,Mongolian,0.000,0.250,Mongolia 0.250
+Sinheung,Uyghur,0.000,0.170,East Turkestan 0.170
+Sinheung,"Dagestani languages (Avar, Dargin, Lezgin and others)",0.000,0.140,Dagestan 0.140
+Sinheung,Patani Malay,0.000,0.098,Patani 0.098
+Sinheung,Acehnese,0.000,0.082,Aceh 0.082
+Sinheung,Chechen,0.000,0.068,Chechnya 0.068
+Sinheung,Kabardian and Balkar,0.000,0.040,Kabardino-Balkaria 0.040
+Sinheung,Ossetian,0.000,0.031,North Ossetia-Alania 0.031
+Sinheung,Tibetan,0.000,0.025,Tibet 0.025
+Sinheung,Finnish,0.024,0.024,Finland 0.024
+Sinheung,Ingush,0.000,0.023,Ingushetia 0.023
+Sinheung,Karachay and Circassian languages,0.000,0.021,Karachay-Cherkessia 0.021
+Sinheung,Tuvan,0.000,0.015,Tuva 0.015
+Zhongshan,Mandarin,35.830,35.830,Sinian Federation 35.830
+Zhongshan,English,4.940,10.900,Australia 3.660; Malaysia 3.040; Philippines 1.720; New Zealand 1.280; South Africa 1.200
+Zhongshan,Korean,9.700,9.700,Korea 9.700
+Zhongshan,German,8.470,8.470,Germany 7.100; Austro-Bavaria 1.370
+Zhongshan,Japanese,7.300,7.300,Japan 7.300
+Zhongshan,Russian,3.590,5.685,Idelsk-Uralia 1.790; Russia (core state) 1.790; Siberia 0.710; Donska-Kubania 0.680; Künnarantaiga 0.410; Dagestan 0.130; Chechnya 0.060; Kabardino-Balkaria 0.036; North Ossetia-Alania 0.027; Ingushetia 0.020; Karachay-Cherkessia 0.019; Tuva 0.013
+Zhongshan,Vietnamese,3.560,3.560,Vietnam 3.560
+Zhongshan,Estonian,3.550,3.550,Estonia 3.550
+Zhongshan,Thai,3.090,3.180,Thailand 3.090; Patani 0.090
+Zhongshan,Lithuanian,3.140,3.140,Lithuania 3.140
+Zhongshan,Malay,0.000,3.040,Malaysia 3.040
+Zhongshan,Chinese (Mandarin and other),0.000,3.040,Malaysia 3.040
+Zhongshan,Tamil,0.000,3.040,Malaysia 3.040
+Zhongshan,Indonesian,2.921,2.980,Indonesia 2.860; West Papua 0.061; Aceh 0.059
+Zhongshan,Romanian,2.580,2.580,Romania 2.580
+Zhongshan,Tatar and Bashkir,0.000,1.790,Idelsk-Uralia 1.790
+Zhongshan,Filipino (Tagalog),0.000,1.720,Philippines 1.720
+Zhongshan,Latvian,1.580,1.580,Latvia 1.580
+Zhongshan,Bulgarian,1.210,1.210,Bulgaria 1.210
+Zhongshan,Afrikaans,0.000,1.200,South Africa 1.200
+Zhongshan,Zulu and other Bantu languages,0.000,1.200,South Africa 1.200
+Zhongshan,Hungarian,0.300,0.300,Hungary 0.300
+Zhongshan,"Dagestani languages (Avar, Dargin, Lezgin and others)",0.000,0.130,Dagestan 0.130
+Zhongshan,Patani Malay,0.000,0.090,Patani 0.090
+Zhongshan,Chechen,0.000,0.060,Chechnya 0.060
+Zhongshan,Acehnese,0.000,0.059,Aceh 0.059
+Zhongshan,Kabardian and Balkar,0.000,0.036,Kabardino-Balkaria 0.036
+Zhongshan,Ossetian,0.000,0.027,North Ossetia-Alania 0.027
+Zhongshan,Finnish,0.021,0.021,Finland 0.021
+Zhongshan,Ingush,0.000,0.020,Ingushetia 0.020
+Zhongshan,Karachay and Circassian languages,0.000,0.019,Karachay-Cherkessia 0.019
+Zhongshan,Tuvan,0.000,0.013,Tuva 0.013
+Contrapunto,English,28.942,33.933,United Kingdom 10.980; CSA 7.000; Appalachia 4.490; Cascadia 3.680; New England 3.670; Midwest Republic 1.400; Sonora 1.220; Colorado 1.050; Northern Ireland 0.310; Hawaii 0.091; Alaska 0.042
+Contrapunto,Spanish,19.020,23.920,México 9.100; Argentina (without Patagonia) 4.020; Cascadia 3.680; Chile 3.040; Yucatán 1.220; Sonora 1.220; Uruguay 0.910; Araucanía-Patagonia 0.730
+Contrapunto,French,11.610,11.610,France 11.610
+Contrapunto,German,10.720,10.720,Germany 8.990; Austro-Bavaria 1.730
+Contrapunto,Portuguese,6.680,6.680,Brazil 6.020; Amazonia 0.660
+Contrapunto,Italian,6.130,6.130,Magna Lombardia 3.490; Meridia 2.140; Sicilia (autonomous zone within Meridia) 0.500
+Contrapunto,Russian,3.850,6.097,Idelsk-Uralia 1.920; Russia (core state) 1.920; Siberia 0.760; Donska-Kubania 0.730; Künnarantaiga 0.440; Dagestan 0.140; Chechnya 0.064; Kabardino-Balkaria 0.038; North Ossetia-Alania 0.029; Ingushetia 0.022; Karachay-Cherkessia 0.020; Tuva 0.014
+Contrapunto,Korean,5.790,5.790,Korea 5.790
+Contrapunto,Tatar and Bashkir,0.000,1.920,Idelsk-Uralia 1.920
+Contrapunto,"Dagestani languages (Avar, Dargin, Lezgin and others)",0.000,0.140,Dagestan 0.140
+Contrapunto,Hawaiian (the dominant language everywhere),0.000,0.091,Hawaii 0.091
+Contrapunto,Chechen,0.000,0.064,Chechnya 0.064
+Contrapunto,Kabardian and Balkar,0.000,0.038,Kabardino-Balkaria 0.038
+Contrapunto,Ossetian,0.000,0.029,North Ossetia-Alania 0.029
+Contrapunto,Finnish,0.023,0.023,Finland 0.023
+Contrapunto,Ingush,0.000,0.022,Ingushetia 0.022
+Contrapunto,Karachay and Circassian languages,0.000,0.020,Karachay-Cherkessia 0.020
+Contrapunto,Tuvan,0.000,0.014,Tuva 0.014
+Esperanza,English,39.481,47.721,CSA 11.760; United Kingdom 9.550; Appalachia 7.550; New England 6.170; Cascadia 6.130; Midwest Republic 2.350; Sonora 1.960; Colorado 1.760; Northern Ireland 0.270; Hawaii 0.150; Alaska 0.071
+Esperanza,Spanish,33.360,41.450,México 14.080; Argentina (without Patagonia) 7.870; Uruguay 6.600; Cascadia 6.130; Chile 2.140; Sonora 1.960; Yucatán 1.850; Araucanía-Patagonia 0.820
+Esperanza,Portuguese,18.910,18.910,Brazil 17.030; Amazonia 1.880
+Esperanza,Hawaiian (the dominant language everywhere),0.000,0.150,Hawaii 0.150
+Marambio,English,40.164,47.484,"United Kingdom 13.100; CSA 8.920; Appalachia 5.730; Cascadia 5.670; New England 4.680; Demilitarized Zone (s. Ontario, not a nation) 2.660; Midwest Republic 1.780; Sonora 1.530; Prairie Federation 1.500; Colorado 1.340; Northern Ireland 0.380; Hawaii 0.120; Alaska 0.074"
+Marambio,Spanish,34.220,44.610,México 11.380; Spain 10.980; Cascadia 5.670; Uruguay 4.740; Chile 4.190; Catalonia 2.350; Sonora 1.530; Yucatán 1.510; Basque Country 0.840; Araucanía-Patagonia 0.720; Argentina (without Patagonia) 0.700
+Marambio,German,6.590,6.590,Germany 5.530; Austro-Bavaria 1.060
+Marambio,Portuguese,6.500,6.500,Brazil 5.850; Amazonia 0.650
+Marambio,Catalan,0.000,2.350,Catalonia 2.350
+Marambio,French,2.040,2.040,Quebec 2.040
+Marambio,Basque,0.000,0.840,Basque Country 0.840
+Marambio,Hawaiian (the dominant language everywhere),0.000,0.120,Hawaii 0.120
+Palmer_City,English,27.456,34.501,"CSA 6.610; United Kingdom 5.420; Appalachia 4.210; Cascadia 4.050; New England 3.440; Demilitarized Zone (s. Ontario, not a nation) 2.100; Australia 1.330; Midwest Republic 1.310; Prairie Federation 1.180; Colorado 0.980; South Africa 0.960; Sonora 0.880; Philippines 0.820; New Zealand 0.670; Malaysia 0.250; Northern Ireland 0.150; Hawaii 0.085; Alaska 0.056"
+Palmer_City,Spanish,13.300,18.350,México 4.640; Cascadia 4.050; Uruguay 3.700; Argentina (without Patagonia) 2.880; Sonora 0.880; Chile 0.740; Yucatán 0.640; Spain 0.410; Araucanía-Patagonia 0.290; Catalonia 0.088; Basque Country 0.032
+Palmer_City,French,11.690,11.690,France 10.090; Quebec 1.600
+Palmer_City,Portuguese,9.740,9.740,Brazil 8.780; Amazonia 0.960
+Palmer_City,German,9.560,9.560,Germany 8.030; Austro-Bavaria 1.530
+Palmer_City,Russian,0.866,1.981,Russia (core state) 0.490; Belarus 0.440; Idelsk-Uralia 0.380; Ukraine 0.230; Siberia 0.150; Donska-Kubania 0.140; Künnarantaiga 0.086; Dagestan 0.027; Chechnya 0.013; Kabardino-Balkaria 0.008; North Ossetia-Alania 0.006; Ingushetia 0.004; Karachay-Cherkessia 0.004; Tuva 0.003
+Palmer_City,Dutch,1.420,1.420,Netherlands 1.420
+Palmer_City,Estonian,1.390,1.390,Estonia 1.390
+Palmer_City,Czech,1.350,1.350,Czechia 1.350
+Palmer_City,Slovak,1.290,1.290,Slovakia 1.290
+Palmer_City,Thai,1.220,1.256,Thailand 1.220; Patani 0.036
+Palmer_City,Serbian,1.160,1.160,Serbia 1.160
+Palmer_City,Korean,1.090,1.090,Korea 1.090
+Palmer_City,Italian,1.056,1.056,Magna Lombardia 0.600; Meridia 0.370; Sicilia (autonomous zone within Meridia) 0.086
+Palmer_City,Norwegian,1.010,1.010,Norway 1.010
+Palmer_City,Croatian,0.970,0.970,Croatia 0.970
+Palmer_City,Afrikaans,0.000,0.960,South Africa 0.960
+Palmer_City,Zulu and other Bantu languages,0.000,0.960,South Africa 0.960
+Palmer_City,Slovene,0.860,0.860,Slovenia 0.860
+Palmer_City,Filipino (Tagalog),0.000,0.820,Philippines 0.820
+Palmer_City,Romanian,0.770,0.770,Romania 0.770
+Palmer_City,Japanese,0.730,0.730,Japan 0.730
+Palmer_City,Polish,0.700,0.700,Poland 0.700
+Palmer_City,Bulgarian,0.620,0.620,Bulgaria 0.620
+Palmer_City,Mandarin,0.580,0.580,Sinian Federation 0.580
+Palmer_City,Vietnamese,0.580,0.580,Vietnam 0.580
+Palmer_City,Latvian,0.480,0.480,Latvia 0.480
+Palmer_City,Swedish,0.460,0.460,Sweden 0.460
+Palmer_City,Belarusian,0.000,0.440,Belarus 0.440
+Palmer_City,Tatar and Bashkir,0.000,0.380,Idelsk-Uralia 0.380
+Palmer_City,Indonesian,0.368,0.376,Indonesia 0.360; West Papua 0.008; Aceh 0.008
+Palmer_City,Finnish,0.320,0.320,Finland 0.320
+Palmer_City,Hungarian,0.320,0.320,Hungary 0.320
+Palmer_City,Lithuanian,0.280,0.280,Lithuania 0.280
+Palmer_City,Malay,0.000,0.250,Malaysia 0.250
+Palmer_City,Chinese (Mandarin and other),0.000,0.250,Malaysia 0.250
+Palmer_City,Tamil,0.000,0.250,Malaysia 0.250
+Palmer_City,Ukrainian,0.000,0.230,Ukraine 0.230
+Palmer_City,Catalan,0.000,0.088,Catalonia 0.088
+Palmer_City,Hawaiian (the dominant language everywhere),0.000,0.085,Hawaii 0.085
+Palmer_City,Patani Malay,0.000,0.036,Patani 0.036
+Palmer_City,Basque,0.000,0.032,Basque Country 0.032
+Palmer_City,"Dagestani languages (Avar, Dargin, Lezgin and others)",0.000,0.027,Dagestan 0.027
+Palmer_City,Chechen,0.000,0.013,Chechnya 0.013
+Palmer_City,Kabardian and Balkar,0.000,0.008,Kabardino-Balkaria 0.008
+Palmer_City,Acehnese,0.000,0.008,Aceh 0.008
+Palmer_City,Ossetian,0.000,0.006,North Ossetia-Alania 0.006
+Palmer_City,Ingush,0.000,0.004,Ingushetia 0.004
+Palmer_City,Karachay and Circassian languages,0.000,0.004,Karachay-Cherkessia 0.004
+Palmer_City,Tuvan,0.000,0.003,Tuva 0.003
+Pergamino,English,33.358,39.038,CSA 9.580; United Kingdom 8.810; Appalachia 6.150; New England 5.030; Cascadia 4.580; Midwest Republic 1.910; Colorado 1.440; Sonora 0.980; Northern Ireland 0.380; Hawaii 0.120; Alaska 0.058
+Pergamino,Spanish,27.670,36.400,Spain 10.880; Argentina (without Patagonia) 4.750; Cascadia 4.580; Uruguay 4.530; Chile 4.100; Catalonia 2.330; México 2.140; Sonora 0.980; Araucanía-Patagonia 0.950; Basque Country 0.840; Yucatán 0.320
+Pergamino,Italian,14.230,14.230,Magna Lombardia 8.110; Meridia 4.970; Sicilia (autonomous zone within Meridia) 1.150
+Pergamino,French,8.510,8.510,France 8.510
+Pergamino,German,5.030,5.030,Germany 4.220; Austro-Bavaria 0.810
+Pergamino,Portuguese,2.360,2.360,Brazil 2.130; Amazonia 0.230
+Pergamino,Catalan,0.000,2.330,Catalonia 2.330
+Pergamino,Basque,0.000,0.840,Basque Country 0.840
+Pergamino,Hawaiian (the dominant language everywhere),0.000,0.120,Hawaii 0.120
+Puerto_Abrigo,English,40.432,46.712,United Kingdom 13.940; CSA 10.350; Appalachia 6.640; New England 5.430; Cascadia 5.000; Midwest Republic 2.060; Colorado 1.550; Sonora 1.150; Northern Ireland 0.400; Hawaii 0.130; Alaska 0.062
+Puerto_Abrigo,Spanish,12.110,18.260,Cascadia 5.000; Chile 4.940; México 3.600; Argentina (without Patagonia) 2.130; Sonora 1.150; Araucanía-Patagonia 0.930; Yucatán 0.510
+Puerto_Abrigo,French,16.700,16.700,France 16.700
+Puerto_Abrigo,German,14.820,14.820,Germany 12.430; Austro-Bavaria 2.390
+Puerto_Abrigo,Portuguese,9.650,9.650,Brazil 8.690; Amazonia 0.960
+Puerto_Abrigo,Hawaiian (the dominant language everywhere),0.000,0.130,Hawaii 0.130
+Rothera,English,38.716,46.566,"CSA 9.240; United Kingdom 6.920; Cascadia 6.540; Appalachia 5.930; Demilitarized Zone (s. Ontario, not a nation) 5.280; New England 4.850; Prairie Federation 2.970; Midwest Republic 1.840; Colorado 1.390; Sonora 1.190; Northern Ireland 0.200; Hawaii 0.120; Alaska 0.096"
+Rothera,Spanish,13.670,21.400,Cascadia 6.540; México 5.750; Chile 4.500; Argentina (without Patagonia) 1.800; Sonora 1.190; Araucanía-Patagonia 0.830; Yucatán 0.790
+Rothera,German,14.310,14.310,Germany 12.000; Austro-Bavaria 2.310
+Rothera,Portuguese,13.990,13.990,Brazil 12.600; Amazonia 1.390
+Rothera,French,11.470,11.470,France 7.430; Quebec 4.040
+Rothera,Hawaiian (the dominant language everywhere),0.000,0.120,Hawaii 0.120
+Signy,English,44.085,55.665,United Kingdom 16.460; CSA 10.760; Appalachia 6.910; New England 5.650; South Africa 5.460; Cascadia 5.030; Midwest Republic 2.150; Colorado 1.620; Sonora 0.950; Northern Ireland 0.470; Hawaii 0.140; Alaska 0.065
+Signy,French,17.330,17.330,France 17.330
+Signy,Spanish,11.190,17.170,Argentina (without Patagonia) 5.720; Cascadia 5.030; Chile 2.470; Uruguay 2.260; Sonora 0.950; Araucanía-Patagonia 0.740
+Signy,Portuguese,8.030,8.030,Brazil 7.230; Amazonia 0.800
+Signy,German,7.800,7.800,Germany 6.540; Austro-Bavaria 1.260
+Signy,Afrikaans,0.000,5.460,South Africa 5.460
+Signy,Zulu and other Bantu languages,0.000,5.460,South Africa 5.460
+Signy,Hawaiian (the dominant language everywhere),0.000,0.140,Hawaii 0.140
