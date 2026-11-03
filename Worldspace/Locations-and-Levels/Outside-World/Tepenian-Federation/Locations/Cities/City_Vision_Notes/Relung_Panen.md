@@ -19,3 +19,5 @@
 ## Still open (from `ULM_Input_Status.md`)
 
 The inspiration picks, the port, the founding story (when, how, why), the Division-of-Industry run, and the city's relationship to Davis (sibling breadbasket or rival) are all awaiting the developer.
+
+> **Update 2026-11-03.** Most of the list above has since been ruled: the port and sea gateway, the founding sequence (air first onto the gulf, the road later, soil made on site, Davis the science partner, Casey the door) and the Division-of-Industry run are in `DR-95` and `DR-96`. Still open: the inspiration picks (tier proposals for the 71 further candidates are written; the developer rules the tiers) and the vision session itself. This file is still a stub and holds no invented detail.
