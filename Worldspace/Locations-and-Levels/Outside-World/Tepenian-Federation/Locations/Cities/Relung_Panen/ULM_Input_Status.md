@@ -276,7 +276,7 @@ Findings are the agents' own, **not yet reviewed line by line**; each figure is 
 > | Composition | Primary Japan 12.86%, Indonesia 12.60%, Korea 12.43%, Sinian Federation 11.85%, Australia 11.84%; 8 Significant, 19 Notable (population rework `DR-85`, `DR-93`) |
 > | Climate | `Climate.md` and the READER file: measured annual anchors plus a constructed monthly curve |
 > | Network | single spur off Hwy 110 from Casey; two airports ruled (`DR-81`); the Australian-side intake ruled (`DR-82`: a seasonal sea gateway, a winter air-only intake airport with onward flights to Mirny) |
-> | Division of Industry | food 25% (`DR-71`), D 1.43 (`DR-72`), shares of the distinctive tier (`DR-73`), research 4% · seed 3% · phosphorus 6% (`DR-75`). **Re-run 2026-11-02** on the new population (`18`, `16` Half B, `09`): workforce 753,964; baseline 44.0%; mandated 21.3%; free 34.7% before cold-chain; food 105,535 workers |
+> | Division of Industry | food 25% (`DR-71`), D 1.43 (`DR-72`), shares of the distinctive tier (`DR-73`), research 4% · seed 3% · phosphorus 6% (`DR-75`). **Re-run 2026-11-02** on the new population (`18`, `16` Half B, `09`): workforce 753,964; baseline 44.0%; mandated 21.8%; free 34.2% after the 1% cold-chain share (ruled 2026-11-03, `DR-96`); food 105,535 workers |
 > | Inspiration picks | 28 in `Inspirational-Influences.md` (2 Primary, 17 Secondary, 9 Supporting); research for 71 further candidates is in `Research_Logs/` (tiers not yet proposed) |
 > | Research | soil, port, ocean (two files), intake (four files), oasis airports and ice-front haul: all in `Research_Logs/` |
 > | Relationship files, census entry, census narrative | all name the city; the census founding note was corrected 2026-10-28 and refreshed 2026-11-02 |
@@ -285,10 +285,10 @@ Findings are the agents' own, **not yet reviewed line by line**; each figure is 
 > | What | Needs |
 > |---|---|
 > | The port | not ruled; a subglacial approach (a fifth port tier) is proposed in the spec; the developer's call |
-> | Airport siting and customs presence; the link between the sea gateway and the port | developer |
-> | Founding remainder: route, soil route, power source, first-wave size and timeline, relation to Casey and Davis | developer, partly from the research |
-> | **Power** (the binding constraint on the stacked hydroponics; no geothermal, no measured wind resource) | developer |
-> | Cold-chain logistics share | waits on the port and airport questions |
+> | Airport siting RULED 2026-11-03 (both on Transcription Gulf, `DR-96`); open: customs presence; the winter airport's island and name | developer |
+> | Founding: sequence RULED 2026-11-03 (`DR-96`); open: first-wave size and timeline | developer, partly from the research |
+> | **Power**: sized 2026-11-03 at about 0.55 GW plus the city (`DR-96`); plant and route open | developer |
+> | Cold-chain logistics share | RULED 2026-11-03: 1% (`DR-96`) |
 > | Tiers for the 71 further inspiration candidates | proposal and approval (creative work, 05:00–14:59) |
 > | Culture, robot culture, Enneagram, neo-race catalog | stubs only; the ULM run produces them |
 > | Planet + Element symbol (`G1`); the city's absence from the history sources (`G6`) | later; correctly last |

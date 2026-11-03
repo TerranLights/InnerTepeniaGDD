@@ -21,11 +21,11 @@
 
 | Tier | Nations |
 |------|---------|
-| Primary | China |
-| Significant | Japan, Germany, France, UK, South Korea, Indonesia, Australia |
-| Notable | Poland, Netherlands, Czech Republic, Ukraine, Romania, Norway, Hungary, South Africa, Slovakia, Belarus, Croatia, Bulgaria, Serbia, Lithuania, Slovenia, Latvia, Estonia |
+| Primary | Australia, Indonesia, United Kingdom, Germany |
+| Significant | Sinian Federation, Korea, France, Kazakhstan *(founding wave)* |
+| Notable | Serbia, Netherlands, Slovenia, Croatia, Austro-Bavaria, Lithuania, Norway, Belarus, Latvia, Japan, Romania, Hungary, Czechia, South Africa, Bulgaria, Poland, Estonia, Ukraine, Slovakia, Russia (core state), East Turkestan, Northern Ireland, West Papua, Aceh, Tibet |
 
-*Japan, the actual founding nation, sits at Significant tier — diluted by the same China-Primary demographic current that reshaped this whole corner of the continent, consistent with Mawson's own founding-nation dilution pattern (and, before its 2026-07-05 move to Mirny subnet, Sinheung's). **Corrected 2026-07-06:** Temirötkel is no longer the primary Japanese Tepenian presence — that's Shirayuki now (34.20% Japan-Primary as of 2026-11-03 after `DR-85`; 36.27% when this was written, following its own population re-derivation the same session), the direct result of its diplomatically-protected Jeju-do allocation. Temirötkel's own Japan share is genuinely diluted, down to just 2.71% — plausibly the very outcome Japan's diplomats anticipated and tried to hedge against by securing Shirayuki as a protected backstop in the first place. See `Specs/Temirotkel.md` and `Specs/Shirayuki.md` for the full cross-reference.*
+*No nation holds a majority: the largest share is Australia's 9.37%, and four nations are Primary (Australia 9.37%, Indonesia 9.34%, the United Kingdom 8.78%, Germany 7.81%). Kazakhstan, which the Founding Register rules as the founder and establisher, is Significant at 5.13% (founding wave). Japan is Notable at 2.62%. The Sinian Federation is Significant at 5.91%. **Corrected 2026-11-03:** the earlier text (China Primary; Japan, "the actual founding nation", diluted to Significant at 2.71% by a China-Primary current) rested on a composition and on a founder that no longer stand (`DR-85`, `DR-30`, `DR-62`); the table above follows the spec (old table: Primary China; Significant Japan, Germany, France, UK, South Korea, Indonesia, Australia). See `Specs/Temirotkel.md` for the table.*
 
 ---
 
@@ -59,7 +59,7 @@ Polar night (~46 days) and midnight sun (~47 days) at this East Antarctic latitu
 
 Temirötkel's civic identity rests on a genuine duality: a small, genuinely diverse community carrying an unusually weighty historical name, occupying a position that turned out to be the single most geographically significant junction point in all of Tepenia — where the Mawson subnet, the inland route to Concordia, and the Halley subnet all physically converge.
 
-- **a. Founding tension** — Japan founded the city and gave it its historically-weighted name, later diluted to Significant tier by the same China-Primary demographic pattern seen across the whole subnet — a standard tension, secondary to the city's structural significance as critical connective infrastructure.
+- **a. Founding tension** — The Register has Kazakhstan found and establish the city and then industrialize it, yet Kazakhstan holds 5.13% (Significant), below four Primary nations that each hold between 7.81% and 9.37%. The founding nation's industrial work is the city's character (the name *Temirötkel*, "Iron Crossing", names the crossing and the iron); its population share is not. This tension is secondary to the city's structural significance as critical connective infrastructure. *(Corrected 2026-11-03: the earlier wording named Japan as founder and a China-Primary dilution; both were superseded. [Old: "Japan founded the city and gave it its historically-weighted name, later diluted to Significant tier by the same China-Primary demographic pattern seen across the whole subnet."])*
 - **b. Fault lines** — Between Temirötkel's small, intimate population (rank 32nd of ~35, one of the smallest Mawson subnet cities) and its outsized structural importance to the whole continent's connectivity — a gap between size and significance no other Mawson subnet city has to reconcile.
 
 ---
@@ -83,7 +83,7 @@ Temirötkel's civic identity rests on a genuine duality: a small, genuinely dive
 
 ## 8. Language
 
-- **a. Primary language(s):** Chinese as the demographic default (matching the subnet-wide pattern). **Corrected 2026-07-06:** Japanese presence here is genuine but no longer "concentrated" in the way this file used to claim — Shirayuki is the actual primary Japanese Tepenian city now; Sayowa's Japanese founding carries historical weight (the Shōwa-era name) rather than demographic weight.
+- **a. Primary language(s):** Hawaiian (later Tepenian) is the civic default, as in every Tepenian location. No nation holds a majority (the largest share is 9.37%), so **the second-language slot is left open**; Kazakh, Indonesian, English, German, Korean, French and Mandarin communities are all present, and which languages are actually maintained is for the ULM pass. *(Corrected 2026-11-03: [old: "Chinese as the demographic default (matching the subnet-wide pattern)"]. The 2026-07-06 correction about Japanese presence is moot: Japan is 2.62% (Notable) and is not the founder; the "Shōwa-era name" belongs to the former name Sayowa, see the banner and `DR-37`.)*
 - **b. Linguistic character** — Practical and junction-oriented, shaped by constant transit traffic between the Mawson subnet, Concordia, and the Halley subnet.
 - **c. Slang / dialect markers** — Terminology tied to the Shōwa-era name's specific historical weight, alongside junction/highway-coordination vocabulary unique to Sayowa's structural role.
 - **d. Language and integration** — Moderate pressure, given the city's genuine function as a crossing point requiring some fluency across multiple travelers' contexts.
@@ -179,7 +179,7 @@ Minimal — a small city with genuine continental-scale infrastructure responsib
 
 ## 20. Private Life & Minority Communities
 
-The broad Significant tier (China Primary; Japan, Germany, France, UK, South Korea, Indonesia, Australia Significant) and the extensive Notable list maintain identity through private, personal practice — Temirötkel's public civic face is organized around its junction responsibility rather than any single demographic group. **Corrected 2026-07-06:** no longer framed around a "concentrated Japanese presence" — Japan is genuinely diluted here (2.71%), same as every other nation outside China's Primary share.
+The four Primary nations (Australia, Indonesia, the United Kingdom, Germany), the Significant tier (Sinian Federation, Korea, France, Kazakhstan) and the extensive Notable list maintain identity through private, personal practice — Temirötkel's public civic face is organized around its junction responsibility rather than any single demographic group. **Corrected 2026-11-03:** [old: "China Primary; Japan, Germany, France, UK, South Korea, Indonesia, Australia Significant" and "Japan is genuinely diluted here (2.71%), same as every other nation outside China's Primary share"]. Japan is now 2.62% (Notable); no nation is singled out by the public face.
 
 ---
 
@@ -195,7 +195,7 @@ Disproportionately significant given its small population — Temirötkel's genu
 
 ## 22. Relationship to Upper Earth
 
-Filtered through Temirötkel's own established junction role and its long research-station history, layered against the same China-Primary demographic current that reshaped the whole subnet. **Corrected 2026-07-06:** no longer "the primary Japanese Tepenian relationship to Upper Earth" — that distinction belongs to Shirayuki now.
+Filtered through Temirötkel's own established junction role and its long research-station history, and shaped by a population with no majority: four Primary nations of similar size, so no single national tie to Upper Earth speaks for the city. **Corrected 2026-11-03:** [old: "layered against the same China-Primary demographic current that reshaped the whole subnet"]. The 2026-07-06 note about a primary Japanese relationship is moot (Japan 2.62%, Notable).
 
 ---
 

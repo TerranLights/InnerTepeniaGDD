@@ -1,6 +1,6 @@
 # Mirny — Cultural Spec Sheet — ⚠ founders corrected 2026-10-13: see the note at the end
 
-*(Flagged 2026-07-08 for an eventual rename — see `TODO.md`'s "Mirny Rename" entry. The city's actual national composition no longer resembles the Russian station/ship the name is built around; the founding-tension identity below (Sections 2 and 5 especially) would need to either survive under a new name or be replaced entirely once this is picked up. Not resolved now.)*
+*(Flagged 2026-07-08 for an eventual rename — see `TODO.md`'s "Mirny Rename" entry. **Updated 2026-11-03 for `DR-85`:** the national composition resembles the Russian station and ship the name is built around even less than when flagged. Russia (core state) and Idelsk-Uralia, the establishing country, are each 2.14% (Significant, together 4.28%, DERIVED); six other nations are Primary (United Kingdom 13.73%, Korea 13.71%, Indonesia 12.03%, Sinian Federation 12.00%, Japan 7.81%, Australia 6.96%). The identity in Sections 2 and 5 would need to survive under a new name or be replaced. **Not resolved: the developer decides whether the name stays.**)*
 
 ---
 
@@ -21,30 +21,30 @@
 
 | Tier | Nations |
 |------|---------|
-| Primary | China |
-| Significant | Japan, UK, South Korea, Russia *(founding/naming heritage)*, Indonesia, Australia *(founding wave)* |
-| Notable | Thailand, Vietnam, Philippines, Malaysia, South Africa, New Zealand, Belarus |
+| Primary | United Kingdom, Korea, Indonesia, Sinian Federation, Japan, Australia |
+| Significant | Philippines, New Zealand, Malaysia, Thailand, Taiwan, Idelsk-Uralia *(founding wave)*, Russia (core state), Vietnam, Belarus, South Africa, Kazakhstan |
+| Notable | Manchuria, Siberia, Donska-Kubania, Künnarantaiga, Mongolia, East Turkestan, Northern Ireland, West Papua, Aceh, Dagestan, Patani, Chechnya, Tibet, Kabardino-Balkaria, North Ossetia-Alania, Finland, Ingushetia, Karachay-Cherkessia, Tuva |
 
-*Mirny is the first city in this project with no American presence at any tier —
-USA appears nowhere in its composition. China stands alone at Primary, a
-demographic profile unlike any other city covered so far (most have China and USA
-paired, or a more even multi-nation spread). Russia — the nation that founded and
-named the city, after the ship that first sighted Antarctica — sits at Significant
-tier: present, real, but not dominant. Not erased the way Belgrano's Argentina was,
-not carried forward by proxy the way Janbogo's Korea was — just one substantial
-community among several, in a city that ended up demographically Chinese by scale.*
+*No American successor region appears in Mirny's composition at any tier. No nation holds a majority: six nations are
+Primary, the largest being the United Kingdom at 13.73%, and the Sinian Federation is one of them at 12.00%. Idelsk-Uralia,
+which the Founding Register rules as the establishing country, and Russia (core state), an exile group, are each 2.14%
+(Significant): present and real, neither dominant. The city is named for the sloop that first sighted Antarctica, a name
+that predates Tepenia (see Section 2). **Corrected 2026-11-03:** [old: "China stands alone at Primary … Russia — the nation
+that founded and named the city … ended up demographically Chinese by scale"] — superseded by `DR-85` and the Register
+(`DR-46`, `DR-54`); the table above follows the spec (old table: Primary China; Significant Japan, UK, South Korea, Russia
+(founding/naming heritage), Indonesia, Australia (founding wave)). The earlier comparisons to other cities were removed.*
 
 ---
 
 ## 2. Founding Story
 
-Mirny Station was one of the oldest continuously occupied Antarctic stations in the real world, operating since 1956, and one of Russia's most significant Antarctic footholds. When the Falkland Treaty exiles arrived, Russian robots and their human allies inherited substantial Soviet-and-Russian-era infrastructure — a genuine head start, similar in kind to what Casey's founders inherited from Australia, though considerably older.
+Mirny Station was one of the oldest continuously occupied Antarctic stations in the real world, operating since 1956; who built it is a coordinate, not a founder. When the Falkland Treaty exiles arrived, Idelsk-Uralia, the establishing country in the Founding Register, with exile groups from Russia, Australia and the Sinian Federation present, inherited substantial Soviet-and-Russian-era infrastructure — a genuine head start. *(Corrected 2026-11-03: [old: "Russian robots and their human allies inherited … similar in kind to what Casey's founders inherited from Australia"]; founders per `DR-46`, `DR-54`; the Casey comparison removed.)*
 
-The name was never in question. *Mirny* — the sloop that carried Fabian von Bellingshausen's 1819–1821 expedition, the first to circumnavigate Antarctica and among the first human eyes to ever see it — predates Tepenia by centuries. Keeping it was a statement: Russia had been present at Antarctica's very beginning, long before any nation's robots were exiled here, and intended to remain woven into its story permanently.
+The name was never in question. *Mirny* — the sloop that carried Fabian von Bellingshausen's 1819–1821 expedition, the first to circumnavigate Antarctica and among the first human eyes to ever see it — predates Tepenia by centuries. Keeping it was a statement about Antarctica's very beginning, long before any nation's robots were exiled here. **Whose statement it was, and what it meant to them, is OPEN:** the Register names Idelsk-Uralia as the establishing country, with Russia present as an exile group; this file does not rule which community kept the name or why. *(Corrected 2026-11-03: [old: "Russia had been present at Antarctica's very beginning … and intended to remain woven into its story permanently"].)*
 
-The city's geographic position did the rest of the founding work on its own. Sitting within seconds of arc of the exact Antarctic Circle, Mirny occupies a genuine threshold — not fully inside the polar zone the way Concordia or Janbogo are, not fully outside it the way Casey or Palmer City are. The founders didn't choose this position for its symbolism (they inherited the real station's real location), but the symbolism was impossible to ignore once they were living it: a city built exactly on the line, founded by a nation whose flagship first saw the whole continent.
+The city's geographic position did the rest of the founding work on its own. Sitting within seconds of arc of the exact Antarctic Circle, Mirny occupies a genuine threshold — not fully inside the polar zone the way Concordia or Janbogo are, not fully outside it the way Casey or Palmer City are. The founders didn't choose this position for its symbolism (they inherited the real station's real location), but the symbolism was impossible to ignore once they were living it: a city built exactly on the line, founded on a site whose namesake ship first saw the whole continent. *(Corrected 2026-11-03: [old: "founded by a nation whose flagship first saw the whole continent"].)*
 
-As the exile generations passed, the city's demographics shifted the way most Tepenian cities' did — broad Pacific-corridor immigration eventually made China the dominant population by scale, with Russia settling into a strong but no-longer-singular Significant-tier presence, alongside meaningful Japanese, British, Korean, Indonesian, and Australian communities.
+As the exile generations passed, broad Pacific-corridor immigration produced a city with no majority nation: six Primary nations (the United Kingdom, Korea, Indonesia, the Sinian Federation, Japan and Australia, from 13.73% down to 6.96%), with Idelsk-Uralia and Russia each at 2.14% (Significant). *(Corrected 2026-11-03: [old: "made China the dominant population by scale, with Russia settling into a strong but no-longer-singular Significant-tier presence"].)*
 
 ---
 
@@ -74,7 +74,7 @@ These solstice grazing events are observed, quietly, as the year's defining ritu
 
 Mirny's culture is organized around two overlapping thresholds: the geographic one (sitting exactly on the Antarctic Circle, belonging fully to neither the deep polar cities nor the milder northern ones) and a settlement one (a small founding-era population, present since the station's earliest post-Falkland days, sitting alongside a much larger population that arrived across generations of later, broader Pacific-corridor immigration). Neither threshold fully resolves. Mirny doesn't feel caught between two things so much as it feels genuinely, permanently *of* the in-between — a city whose whole identity is built on sitting exactly where categories stop applying cleanly.
 
-- **a. Settlement-era layering** — The city's founding-era population (predominantly Russian-heritage, inheriting the original station and giving Mirny its name) built the city's earliest institutional character generations before broader immigration arrived. The later, much larger wave of arrivals that brought China to the demographic Primary tier arrived into an already-established city rather than a blank one. The result isn't the sharp erasure Belgrano experienced (the founding-era community remains solidly Significant, not dropped to Notable) and isn't the total cultural absorption Janbogo saw (founding-era heritage and institutional memory remain visibly, actively present, not just inherited by proxy through others) — it's a genuine, ongoing layering: an old, small founding population and a much larger, later one, each still visibly itself, coexisting under the same threshold rather than merging into a single new thing. That pattern of old-and-small beside new-and-large — not any particular pairing of nations — is what the city has made a stable, unresolved peace with, much the way it holds its geographic position at once inside and outside the polar zone.
+- **a. Settlement-era layering** — The city's founding-era population (the establishing country Idelsk-Uralia and the exile groups from Russia, Australia and the Sinian Federation, inheriting the original station) built the city's earliest institutional character generations before broader immigration arrived. The later, much larger wave of arrivals arrived into an already-established city rather than a blank one. Two of the founding-era groups are now small (Idelsk-Uralia and Russia, each 2.14%, Significant) and two are Primary (the Sinian Federation 12.00%, Australia 6.96%), so the old-and-small beside new-and-large pattern holds for part of the founding generation, not all of it. **Open for the developer:** whether the settlement threshold stays an identity half beside the geographic one (the Antarctic Circle, which is unaffected), or whether the city rests on the geographic threshold alone. *(Corrected 2026-11-03: [old: "predominantly Russian-heritage … that brought China to the demographic Primary tier … the founding-era community remains solidly Significant"]; the comparisons to other cities were removed.)*
 - **b. Fault lines**
   - Between families who trace their presence to the city's original founding generation (and carry the specific weight of the *Mirny*'s name and history) and the numerically larger population who arrived across later waves and share the city fully but not its founding-era institutional memory.
   - Between Mirny's self-understanding as uniquely, structurally important to Concordia (the only functioning intra-subnet Arcanet link) and its actual, damaged, uncertain post-war capacity to make good on that importance.
@@ -94,7 +94,7 @@ Mirny's culture is organized around two overlapping thresholds: the geographic o
 
 ## 7. Who This City Attracts
 
-- **The type this city draws:** People comfortable with ambiguity and threshold conditions — administrators, communications specialists, engineers suited to Mirny's wind-management challenges, and people from Russian-heritage backgrounds specifically drawn to the city's historical weight.
+- **The type this city draws:** People comfortable with ambiguity and threshold conditions — administrators, communications specialists, engineers suited to Mirny's wind-management challenges, and people drawn to the city's historical weight (the old station, the sloop's name), including those with ties to Idelsk-Uralia or Russia. *(Corrected 2026-11-03: [old: "people from Russian-heritage backgrounds"].)*
 - **The type this city repels:** People who need a single, clear-cut civic identity to orient around — Mirny's genuine, comfortable both/and character (founding-era roots and later, larger-scale population growth; polar and non-polar) doesn't offer the tidy singular story some newcomers expect.
 - **Case study:** *(placeholder — no specific named character yet connected to Mirny; a strong candidate site for future character work, especially given the intra-subnet Arcanet link's narrative potential)*
 
@@ -102,8 +102,8 @@ Mirny's culture is organized around two overlapping thresholds: the geographic o
 
 ## 8. Language
 
-- **a. Primary language(s):** Mandarin (reflecting the sole-Primary Chinese demographic weight), with substantial, actively maintained Russian, plus meaningful Japanese, English (UK-inflected), Korean, and Indonesian presence.
-- **b. Linguistic character:** Direct and unornamented — Mirny speech favors clarity, consistent with the city's function-first, competence-over-romance civic value. Russian and Mandarin are both genuinely fluent community languages rather than one dominating and the other surviving only as heritage.
+- **a. Primary language(s):** Hawaiian (later Tepenian) is the civic default, as in every Tepenian location. No nation holds a majority (the largest share is the United Kingdom's 13.73%), so **the second-language slot is left open.** Communities of all six Primary nations are present; which languages are actually maintained, and Russian's place among them, is for the ULM pass. *(Corrected 2026-11-03: [old: "Mandarin (reflecting the sole-Primary Chinese demographic weight), with substantial, actively maintained Russian, plus meaningful Japanese, English (UK-inflected), Korean, and Indonesian presence"].)*
+- **b. Linguistic character:** Direct and unornamented — Mirny speech favors clarity, consistent with the city's function-first, competence-over-romance civic value. Which community languages are fluent and which survive as heritage is left open for the ULM pass. *(Corrected 2026-11-03: [old: "Russian and Mandarin are both genuinely fluent community languages rather than one dominating and the other surviving only as heritage"] — Russia is now 2.14% and the Sinian Federation 12.00%, one of six Primaries.)*
 - **c. Slang / dialect markers:** References to "the line" or "grazing" (drawn from the solstice phenomena) used as general metaphor for any situation balanced exactly between two states — recognizable Mirny phrasing anywhere in Tepenia.
 - **d. Language and integration:** Low pressure; a city built on genuine, stable coexistence between its long-settled and more recently arrived language communities has no strong instinct to police anyone else's fluency.
 
@@ -119,7 +119,7 @@ Aggressively wind-engineered, similar in spirit to Denison's approach but withou
 
 ## 10. Cuisine
 
-- **a. Human cuisine:** A genuine Russian-Chinese layering — hearty, preservation-oriented Russian cold-weather food alongside Chinese culinary tradition, neither fully dominant, closer to coexistence than fusion. *(Corrected 2026-07-13 — previously contrasted this with "Zhongshan's more thoroughly merged Sino-Russian food culture"; Zhongshan's cuisine is singularly Chinese, built around jiaozi and Chinese preservation traditions, with no Russian culinary layer at all — see `Specs/Zhongshan.md`. Mirny's own Russian-Chinese layering is genuine and unrelated to Zhongshan's separate, singular-Chinese food identity.)*
+- **a. Human cuisine:** Hearty, preservation-oriented cold-weather cooking is part of the city's inherited station table (Russia and Idelsk-Uralia, together 4.28%, DERIVED), set among the food traditions of six Primary nations. How these sit together is left open for the ULM pass. *(Corrected 2026-11-03: [old: "A genuine Russian-Chinese layering … neither fully dominant, closer to coexistence than fusion"]. The 2026-07-13 parenthetical about another city's cuisine is kept below as history; it is a cross-city reference and its last sentence no longer applies.)* *(Corrected 2026-07-13 — previously contrasted this with "Zhongshan's more thoroughly merged Sino-Russian food culture"; Zhongshan's cuisine is singularly Chinese, built around jiaozi and Chinese preservation traditions, with no Russian culinary layer at all — see `Specs/Zhongshan.md`. Mirny's own Russian-Chinese layering is genuine and unrelated to Zhongshan's separate, singular-Chinese food identity.)*
 - **b. Social context of eating:** Practical and substantial — food here serves the same competence-over-romance ethos as the rest of the culture; hearty, efficient meals suited to a population that spends real energy managing harsh conditions.
 - **c. Robot cuisine / siligel culture:** Functional and unremarkable in the best sense — siligel preparation follows the city's general competence-first character, without a distinct ceremonial or craft tradition setting it apart the way Zhongshan's does.
 
@@ -133,7 +133,7 @@ Heavily wind-engineered outerwear, similar in rigor to Denison's gear but withou
 
 ## 12. Music
 
-A genuine layered coexistence of Russian and Chinese musical traditions, more separate than merged — residents move between both rather than experiencing a single hybrid form, a musical parallel to the city's overall settlement-era layering. No dominant singular Mirny sound the way Zhongshan or Denison each developed one.
+Musical traditions of the six Primary nations and of the founding-era groups coexist, more separate than merged, with no dominant singular Mirny sound; the details are left open for the ULM pass. *(Corrected 2026-11-03: [old: "layered coexistence of Russian and Chinese musical traditions … No dominant singular Mirny sound the way Zhongshan or Denison each developed one"]; the cross-city reference was removed.)*
 
 ---
 
@@ -148,7 +148,7 @@ A genuine layered coexistence of Russian and Chinese musical traditions, more se
 ## 14. Sensory Profile
 
 - **Sound:** Wind, severe and near-constant, though Mirny residents discuss it far less than Denison's do — present, managed, not narrated.
-- **Smell:** Cold rock and sea air off the Davis Coast; a specific layered mix of Russian and Chinese cooking smells in residential areas, kept more distinct from each other than in more fused-cuisine cities.
+- **Smell:** Cold rock and sea air off the Davis Coast; a layered mix of cooking smells in residential areas, kept distinct from one another. *(Corrected 2026-11-03: [old: "Russian and Chinese cooking smells … than in more fused-cuisine cities"]; the two-cuisine frame and the comparison were removed.)*
 - **Feel:** Liminal in a lived, physical sense — the solstice light events give the city a genuinely otherworldly quality a few days a year that residents anticipate and newcomers find startling.
 - **First impressions for visitors:** The wind, immediately. Then, more slowly, the specific double-layered cultural texture — the founding generation's institutional weight and the city's much larger, later-arriving population, sitting side by side rather than blended.
 
@@ -175,7 +175,7 @@ A genuine layered coexistence of Russian and Chinese musical traditions, more se
 
 ## 16. Human-Robot Relations
 
-Founded on the same shared-exile logic as most Tepenian cities — Russian robots and their human allies settling the site together gave the founding relationship real weight from the outset. As the city's demographics broadened, this baseline of solidarity persisted without needing active maintenance; like Casey, Mirny's practical, function-first culture leaves little room for human-robot relations to become a live political question.
+Founded on a shared-exile logic — the establishing country's robots and humans, with the exile groups from Russia, Australia and the Sinian Federation, settling the site together — gave the founding relationship real weight from the outset. As the city's demographics broadened, this baseline of solidarity persisted without needing active maintenance; Mirny's practical, function-first culture leaves little room for human-robot relations to become a live political question. *(Corrected 2026-11-03: [old: "Russian robots and their human allies settling the site together"]; the "like most cities" and "like Casey" comparisons were removed.)*
 
 ---
 
@@ -187,7 +187,7 @@ Robot residents concentrate heavily in communications, technical, and wind-engin
 
 ## 18. Religious / Philosophical Landscape
 
-- Russian Orthodox heritage persists quietly among Russian-descended families, alongside a growing range of Chinese-heritage secular and philosophical traditions — genuinely coexisting rather than merging, matching the city's broader cultural pattern
+- Russian Orthodox heritage persists quietly among Russian-descended and Idelsk-Uralian families, alongside the secular, philosophical and religious traditions of the six Primary nations' communities (to be itemized in the ULM pass; none invented here) — coexisting rather than merging. *(Corrected 2026-11-03: [old: "alongside a growing range of Chinese-heritage secular and philosophical traditions … matching the city's broader cultural pattern"].)*
 - A shared, unstated civic philosophy of competence-and-threshold-awareness functions as the closest thing to a unifying local ethic
 - No dominant robot philosophical tradition; practical orientation prevails over contemplative or mystical schools
 
@@ -284,7 +284,7 @@ Marked less by a single threshold moment than by a gradual comfort with holding 
 ## 30. Significant Local Events
 
 - **The Founding (post-Falkland Treaty, on substantial inherited Soviet/Russian infrastructure)** — establishment of the Tepenian-era city on one of Antarctica's oldest continuously occupied sites
-- **[Placeholder — the demographic shift to Chinese-majority population]** — likely gradual rather than a single event, but a culturally significant era in the city's own self-understanding
+- **[Placeholder — the demographic shift to a population with no majority nation]** — likely gradual rather than a single event, but a culturally significant era in the city's own self-understanding. *(Corrected 2026-11-03: [old: "to Chinese-majority population"]; the Sinian Federation is 12.00%, one of six Primaries, and no nation holds a majority.)*
 - **The Winter and Summer Solstice Grazing** *(annual)* — see Section 26
 
 ---

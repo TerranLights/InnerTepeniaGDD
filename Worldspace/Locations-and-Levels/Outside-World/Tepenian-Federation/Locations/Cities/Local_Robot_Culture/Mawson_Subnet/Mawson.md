@@ -22,9 +22,9 @@ arrivals and honeymooning strangers with the identical welcome.*
 ## Sources Consulted (Step 1 record)
 
 - **Input A — National Culture Composition:** `Local_Cultures/Mawson_Subnet/Mawson.md`, full 32-section read.
-  §5 ("The Name That Outlasted the Founders" — Australia founded, named, and patron-sainted the city, but China
-  is now the actual Primary-tier demographic majority; confirmed as a *structural principle* recurring at
-  national-founding, demographic-present, and infrastructural-function scales), §6 (hospitality "genuinely
+  §5 (formerly "The Name That Outlasted the Founders", retired 2026-11-03; its premise that China is the Primary
+  majority ended with the population rework `DR-85`, and the identity is left to Mawson's own pass), §6
+  (hospitality "genuinely
   warm, not just practical"), §16 (Mawson as Tepenia's honeymoon destination for human-robot couples
   specifically — "a real function in the life-cycle of Tepenian human-robot relationships"), §17 (robot
   culture centers on 70 years of hub-keeping competence, "now exercised on behalf of a demographically very
@@ -44,8 +44,8 @@ arrivals and honeymooning strangers with the identical welcome.*
 - **Input D — Source Inspirations:** `Inspirational-Influences.md` (Odessa [PRIMARY]; Varna, Trogir, Jeju City
   [SECONDARY]) and `Mawson_Catalog.md`'s per-nation material — Jeju Island flagged in-file as "the single most
   precise real-world match found anywhere in this project" for the honeymoon-destination civic type; Trogir's
-  2,300-year unbroken continuity under changing rulers is the precise real-world shape of the "name outlasted
-  the founders" theme.
+  2,300-year unbroken continuity under changing rulers was read in 2026-08 as the real-world shape of the "name outlasted
+  the founders" theme (retired 2026-11-03).
 - **Input E — Tepenia-Wide Robot Culture Canon:** all 5 applicable members checked. Robot Biology and
   Culture, Glitch-Coolant (**correction, 2026-08-10: this pass's original claim that Glitch-Coolant was
   entirely absent from canon was wrong** — a Temirötkel-research pass located the actual canon entry

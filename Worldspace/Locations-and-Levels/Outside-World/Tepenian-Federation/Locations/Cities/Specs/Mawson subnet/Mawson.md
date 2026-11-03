@@ -182,7 +182,7 @@ Mawson is the Mawson subnet hub — its Arcanet connection to the rest of Tepeni
 ## Legacy
 Mawson's legacy is continuity — the city that never stopped being here, from its 2564 founding forward. A Tepenian exile city became a Long Night War survivor (damaged but operational). The thread never broke.
 
-**Confirmed 2026-07-07 — a structural principle, not just a demographic theme:** "The Name That Outlasted the Founders" turns out to describe more than Mawson's population history. It's a pattern that recurs at multiple scales of the same city — the name (Australia's, and St. Douglas's legacy) persisting, present-day demographic reality (China's long-run Primary status), and now infrastructural function (the hub role itself outlasting which specific connections it actually coordinates, per the Arcanet damage mechanism above). All three follow the identical shape: the underlying structure persists: what specifically occupies or connects through it changes.
+**Confirmed 2026-07-07, retired as an identity 2026-11-03 (developer ruling):** the "Name That Outlasted the Founders" framing is no longer Mawson's identity. Its demographic leg (China's long-run Primary status) does not hold after the population rework `DR-85` (Australia 9.38%, Sinian Federation 8.94%, Indonesia 8.57%, Japan 8.46%, all Primary). What stands as a fact: the hub role outlasts which specific connections it coordinates, per the Arcanet damage mechanism above. Mawson's identity is left to its own pass.
 
 ---
 

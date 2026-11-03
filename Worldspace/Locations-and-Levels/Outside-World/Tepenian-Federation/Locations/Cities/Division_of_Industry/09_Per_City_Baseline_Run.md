@@ -51,46 +51,46 @@ excluded — deferred pending the duty-cycle ruling.**
 
 | # | City | Subnet | D | Humans | Residents | **Required** | Workforce | **% WF** |
 |---|---|---|--:|--:|--:|--:|--:|--:|
-| 1 | **Neumayer** | Halley | 2.50 | 640,806 | 1,304,201 | **485,106** | 983,798 | **50.4%** |
-| 2 | **Halley** | Halley | 2.50 | 736,821 | 1,504,467 | **560,759** | 1,136,057 | **50.3%** |
-| 3 | **Denison** | Janbogo | 2.00 | 471,598 | 958,340 | **311,847** | 722,541 | **44.4%** |
-| 4 | **Vostok** | Mirny | 2.50 | 156,685 | 441,378 | **143,796** | 363,036 | **42.0%** |
-| 5 | **Concordia** | Janbogo | 1.67 | 531,867 | 1,068,065 | **318,858** | 802,132 | **40.8%** |
-| 6 | **Byrd** | Byrd | 1.67 | 213,338 | 429,009 | **122,756** | 322,340 | **40.7%** |
+| 1 | **Neumayer** | Halley | 2.50 | 640,806 | 1,304,201 | **496,068** | 983,798 | **50.4%** |
+| 2 | **Halley** | Halley | 2.50 | 736,821 | 1,504,467 | **571,721** | 1,136,057 | **50.3%** |
+| 3 | **Denison** | Janbogo | 2.00 | 471,598 | 958,340 | **321,510** | 722,541 | **44.5%** |
+| 4 | **Vostok** | Mirny | 2.50 | 156,685 | 441,378 | **154,757** | 363,036 | **42.6%** |
+| 5 | **Concordia** | Janbogo | 1.67 | 531,867 | 1,068,065 | **327,663** | 802,132 | **40.8%** |
+| 6 | **Byrd** | Byrd | 1.67 | 213,338 | 429,009 | **131,561** | 322,340 | **40.8%** |
 | 7 | **Dumont d'Urville** | Janbogo | 1.67 | 223,549 | 453,334 | **138,692** | 341,560 *(pre-trim; the live workforce is 307,404)* | **40.6%** |
-| 8 | **{{Abowasa}}** | Halley | 1.54 | 228,766 | 465,818 | **128,426** | 351,435 | **38.8%** |
-| 9 | **Troll** | Halley | 1.43 | 502,791 | 1,006,570 | **279,026** | 755,175 | **38.0%** |
-| 10 | **Sanay** | Halley | 1.43 | 258,646 | 515,789 | **139,151** | 386,466 | **38.0%** |
-| 11 | **Belgrano** | Halley | 1.43 | 558,996 | 1,124,011 | **312,138** | 844,513 | **37.9%** |
-| 12 | **Princess Elisabeth** | Halley | 1.43 | 580,839 | 1,190,038 | **329,183** | 899,619 | **37.5%** |
-| 13 | **Cape Adare** | Janbogo | 1.25 | 773,039 | 1,551,776 | **409,472** | 1,165,257 | **35.8%** |
-| 14 | **Zukelli** | Janbogo | 1.25 | 654,653 | 1,310,769 | **344,935** | 983,443 | **35.8%** |
+| 8 | **{{Abowasa}}** | Halley | 1.54 | 228,766 | 465,818 | **136,896** | 351,435 | **39.0%** |
+| 9 | **Troll** | Halley | 1.43 | 502,791 | 1,006,570 | **287,210** | 755,175 | **38.0%** |
+| 10 | **Sanay** | Halley | 1.43 | 258,646 | 515,789 | **147,335** | 386,466 | **38.1%** |
+| 11 | **Belgrano** | Halley | 1.43 | 558,996 | 1,124,011 | **320,324** | 844,513 | **37.9%** |
+| 12 | **Princess Elisabeth** | Halley | 1.43 | 580,839 | 1,190,038 | **337,366** | 899,619 | **37.5%** |
+| 13 | **Cape Adare** | Janbogo | 1.25 | 773,039 | 1,551,776 | **417,189** | 1,165,257 | **35.8%** |
+| 14 | **Zukelli** | Janbogo | 1.25 | 654,653 | 1,310,769 | **352,650** | 983,443 | **35.9%** |
 | 15 | **Marambio** | Palmer | 1.25 | 283,442 | 570,269 | **153,217** | 428,548 | **35.8%** |
 | 16 | **Fort McMurdo** | Janbogo | 1.25 | 222,190 | 445,310 | **119,774** | 334,215 | **35.8%** |
-| 17 | **Janbogo** | Janbogo | 1.25 | 673,610 | 1,362,629 | **357,832** | 1,025,824 | **35.6%** |
-| 18 | **Mirny** | Mirny | 1.25 | 692,971 | 1,403,549 | **368,677** | 1,057,064 | **35.6%** |
-| 19 | **Zhongshan** | Mirny | 1.25 | 595,855 | 1,203,607 | **315,302** | 905,680 | **35.6%** |
+| 17 | **Janbogo** | Janbogo | 1.25 | 673,610 | 1,362,629 | **365,548** | 1,025,824 | **35.6%** |
+| 18 | **Mirny** | Mirny | 1.25 | 692,971 | 1,403,549 | **376,393** | 1,057,064 | **35.6%** |
+| 19 | **Zhongshan** | Mirny | 1.25 | 595,855 | 1,203,607 | **323,017** | 905,680 | **35.7%** |
 | 20 | **Signy** | Palmer | 1.25 | 93,134 | 188,694 | **50,598** | 142,127 | **35.6%** |
-| 21 | **Lazar** | Halley | 1.25 | 1,185,375 | 2,410,409 | **637,974** | 1,817,722 | **35.5%** |
-| 22 | **Mawson** | Mawson | 1.25 | 736,799 | 1,498,852 | **393,745** | 1,130,453 | **35.5%** |
+| 21 | **Lazar** | Halley | 1.25 | 1,185,375 | 2,410,409 | **645,690** | 1,817,722 | **35.5%** |
+| 22 | **Mawson** | Mawson | 1.25 | 736,799 | 1,498,852 | **401,461** | 1,130,453 | **35.5%** |
 | 23 | **Scott** | Janbogo | 1.25 | 189,817 | 386,011 | **103,401** | 291,103 | **35.5%** |
 | 24 | **Port Lockroy** | Palmer | 1.25 | 457 | 929 | **249** | 701 | **35.5%** |
-| 25 | **Shirayuki** | Mirny | 1.25 | 545,891 | 1,112,600 | **290,137** | 839,655 | **35.4%** |
-| 26 | **Davis** | Mirny | 1.25 | 590,668 | 1,210,432 | **315,832** | 915,098 | **35.3%** |
-| 27 | **Sinheung** | Mirny | 1.25 | 494,341 | 1,014,533 | **263,357** | 767,363 | **35.3%** |
-| 28 | **Esperanza** | Palmer | 1.11 | 610,330 | 1,200,000 | **490,159** | 894,835 | **34.6%** |
+| 25 | **Shirayuki** | Mirny | 1.25 | 545,891 | 1,112,600 | **297,848** | 839,655 | **35.5%** |
+| 26 | **Davis** | Mirny | 1.25 | 590,668 | 1,210,432 | **323,548** | 915,098 | **35.4%** |
+| 27 | **Sinheung** | Mirny | 1.25 | 494,341 | 1,014,533 | **271,073** | 767,363 | **35.3%** |
+| 28 | **Esperanza** | Palmer | 1.11 | 610,330 | 1,200,000 | **309,238** | 894,835 | **34.6%** |
 | 29 | **Sayowa** | Mawson | 1.43 | 93,356 | 225,376 | **61,205** | 178,698 | **34.3%** |
 | 30 | **Sejong** | Palmer | 1.15 | 316,691 | 644,833 | **166,866** | 486,488 | **34.3%** |
 | 31 | **Juan Carlos** | Palmer | 1.15 | 189,742 | 386,692 | **100,041** | 291,821 | **34.3%** |
 | 32 | **Palmer City** | Palmer | 1.11 | 165,912 | 332,808 | **85,280** | 249,852 | **34.1%** |
 | 33 | **Rothera** | Palmer | 1.15 | 153,760 | 317,449 | **81,832** | 240,569 | **34.0%** |
-| 34 | **Casey** | Mirny | 1.11 | 760,865 | 1,547,850 | **387,716** | 1,167,418 | **33.8%** |
+| 34 | **Casey** | Mirny | 1.11 | 760,865 | 1,547,850 | **395,068** | 1,167,418 | **33.8%** |
 | 35 | **Amundsen Station** | Amundsen | 2.50 | 1,121 | 6,857 | **2,118** | 6,297 | **33.6%** |
-| 36 | **Kunlun** | Mirny | 2.70 | **0** | 148,497 | **38,674** | 148,497 | **28.6%** |
-| 37 | **Dome Fuji** | Mawson | 2.50 | **0** | 80,120 | **18,264** | 80,120 | **27.3%** |
+| 36 | **Kunlun** | Mirny | 2.70 | **0** | 148,497 | **42,470** | 148,497 | **28.6%** |
+| 37 | **Dome Fuji** | Mawson | 2.50 | **0** | 80,120 | **21,889** | 80,120 | **27.3%** |
 | — | **Relung Panen** | Mirny | 1.43 | 492,215 | 1,000,071 | **284,173** | 753,964 | **37.7%** |
 
-*Relung Panen row filled 2026-10-29 (it was `{{Bunger Hills City}}` with TBD values; the name was ruled in `DR-39`). Humans and robots are Census I (492,215 and 507,856); D = 1.43 (`DR-72`); Required uses this section's own formula, the superseded old-B1 model, so it is comparable with the other rows and is not the three-tier result. The row stays unranked (`—`): the numbering above was not renumbered. 37.7% lies inside the range below, which is unchanged. *(Required and % WF recomputed 2026-11-02 on the Esperanza-scenario population, `DR-90`: they were 275,990 and 37.6%.)* The three-tier result is in `18_Relung_Panen_Determination_2026-10-29.md`.*
+*Relung Panen row filled 2026-10-29 (it was `{{Bunger Hills City}}` with TBD values; the name was ruled in `DR-39`). Humans and robots are Census I (492,215 and 507,856); D = 1.43 (`DR-72`); Required uses this section's own formula, the superseded old-B1 model, so it is comparable with the other rows and is not the three-tier result. The row stays unranked (`—`): the numbering above was not renumbered. 37.7% lies inside the range below, which is unchanged. *(Required and % WF recomputed 2026-11-02 on the Esperanza-scenario population, `DR-90`: they were 275,990 and 37.6%.)* The three-tier result is in `18_Relung_Panen_Determination_2026-10-29.md`.* *(Required and % WF cells of 25 rows recomputed 2026-11-03 on the current Humans, Residents and D with this section's formula (B1 = 53); Dumont d'Urville's row left on its pre-trim population on purpose. Open question, not ruled: this section's model has the robot-keyed terms B3 and B4 of §3.6 (+15.75 per 1,000 robots), while `16` does not carry them; see `Research_Logs/Casey_and_Recipients_Recompute_For_Review_2026-11-03.md` §4.)*
 
 **Range: 27.3% → 50.4%. Spread 23.1 points.**
 

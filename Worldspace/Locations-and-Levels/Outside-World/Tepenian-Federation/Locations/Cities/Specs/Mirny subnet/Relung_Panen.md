@@ -10,7 +10,7 @@
 **Arcanet Subnet:** Mirny ("Australian")
 **Access type:** SPUR
 **Highway access:** ⭐ **Single-approach — a dedicated spur reaching east to Casey, joining Hwy 110 there** `[CGRM 2026-09-01 · Path 6 · developer ruling]`. ⛔ **The Denman crossing is NOT built; there is no western link to Mirny.** *Hwy 110 itself runs Zhongshan → Davis → Mirny → Casey → Concordia; this city is a spur off it, not a stop on it.* ⚠ **`Division_of_Industry/04`'s description of the site as "sitting naturally on Hwy 110" predates that ruling.**
-**Maritime access:** ⛔⛔ **NONE as built.** *The Shackleton Ice Shelf seals the oasis from open sea by **64–145 km**.* ⏸️ **A subglacial approach is PROPOSED, not ruled** — *Transkriptsii Gulf is a tidal epishelf lake connected to the ocean beneath the ice; the water route exists and is roofed rather than absent. It would be a **fifth port tier**, and it is the developer's call.*
+**Maritime access:** ⛔⛔ **NONE as built.** *The Shackleton Ice Shelf seals the oasis from open sea by **64–145 km**.* ✅ **Ruled 2026-11-03 (`DR-96`): no berth is built here;** food and bulk go by road to Casey and through Casey's port, perishables by air from Transcription Gulf, and the seasonal sea gateway (`Ports.md` §3e) carries people and special cargo only. *The subglacial approach stays lore, not a working port: Transkriptsii Gulf is a tidal epishelf lake connected to the ocean beneath the ice, but nothing shows a ship could pass.*
 **Significance:** ⭐⭐ **The Federation's second agricultural region, with a Strong (25%) food role (`DR-71`).** *The 2026-09-01 food model found a 26.0% national deficit and called the city "not optional"; `Division_of_Industry/13` §15 (2026-09-02) superseded that with a national surplus, making the city optional but desirable as an uncorrelated second supply.* **Also the emptiest city in Tepenia by density, and the only one with no port of its own and exactly one land approach.**
 
 ---
@@ -219,7 +219,7 @@ than dry cold**, saturation and freeze–thaw rather than exposure and scour.*
 
 ## Founding
 
-**Settled:** Some time shortly after the signing of the Falkland Treaty (2564) *(`DR-61`, 2026-10-26)*. **Indonesia, as a state, led the founding; Malaysia supported** *(founders Indonesia and Malaysia, jointly, `DR-34`; roles `DR-61`)*. Seed stock, livestock and equipment came primarily from Southeast Asia and, to a lesser extent, from Australia. **There was no pre-existing farmland or soil; the founders had to establish their own.** ⏸️ *Still open: how the settlement began (it depends on the port, still open), why, and the founding composition (TBD, decided on this city's own terms).*
+**Settled:** Some time shortly after the signing of the Falkland Treaty (2564) *(`DR-61`, 2026-10-26)*. **Indonesia, as a state, led the founding; Malaysia supported** *(founders Indonesia and Malaysia, jointly, `DR-34`; roles `DR-61`)*. Seed stock, livestock and equipment came primarily from Southeast Asia and, to a lesser extent, from Australia. **There was no pre-existing farmland or soil; the founders had to establish their own.** ✅ **Sequence, ruled 2026-11-03 (`DR-96`; a sequence, not numbers):** (1) arrival by air onto Transcription Gulf; (2) the road spur to Casey comes later, once the oasis can export, and Casey becomes the door and the junction; (3) soil is made on site from imported organic matter and local rock, with stacked hydroponics from the start; (4) Davis is the science partner and Casey the physical door; (5) the first wave is a small founding party grown over decades, with no figure ruled. ⏸️ *Still open: why, the first-wave size and timeline, and the founding composition (TBD, decided on this city's own terms).*
 **Founding population:** Indonesia and Malaysia, jointly (`DR-34`); **Indonesia led, Malaysia supported** (`DR-61`, added 2026-10-28). *(Updated 2026-10-13 to match `Founding_Register.md`; other passages in this file were written around the earlier founding and are revisit items.)*
 
 > ⛔⛔ **TWO CONSTRAINTS BIND WHOEVER WRITES THIS, AND BOTH ARE STANDING:**
@@ -257,12 +257,12 @@ with a Davis-like 35% agricultural sector**. **§15 (2026-09-02) superseded that
 
 **Growing here is indoor stacked hydroponics, as everywhere** *(the criterion is power, footprint and
 foundation — **not** soil, sunlight or mild weather)*. ⭐ **This site has the footprint and the foundation in
-overwhelming surplus.** ⚠ **Power is the open question and the binding constraint** — *no geothermal, no
-measured wind resource, off-grid.*
+overwhelming surplus.** ⚠ **Power is sized from canon's mature indoor model (10 kWh per kg, `Division_of_Industry/13`; ruled 2026-11-03, `DR-96`):** about 0.55 GW average for the export food (DERIVED: 480,000 t × 1,000 kg/t × 10 kWh/kg = 4.8 × 10⁹ kWh a year ÷ 8,760 h = 548 MW), **plus the city's own load.** *The plant and its route (a line along the Casey spur, or a local plant) are not ruled; the working direction for the initial stages is fission first (`Tepenia_Nuclear_History_Proposal_2026-11-02.md` §9, not a numbered ruling). No geothermal, no
+measured wind resource; no grid line exists on Antarctic ice.*
 
-✅ **`Division_of_Industry/16_Per_City_Three_Tier_Run.md` carries this city's row since 2026-10-29** *(Half B: D 1.43, workforce 753,964, baseline 44.0%, mandated 21.3%, free 34.7% before cold-chain; re-run 2026-11-02 on the Esperanza-scenario population, `DR-90`; it was excluded there as "deferred by ruling" until the developer un-deferred it)*. ⏸️ **Not yet set:** the cold-chain logistics share, which waits on the port and airport questions.
+✅ **`Division_of_Industry/16_Per_City_Three_Tier_Run.md` carries this city's row since 2026-10-29** *(Half B: D 1.43, workforce 753,964, baseline 44.0%, mandated 21.8%, free 34.2% after the cold-chain share of 1% (4,221 workers; ruled 2026-11-03, `DR-96`); re-run 2026-11-02 on the Esperanza-scenario population, `DR-90`; it was excluded there as "deferred by ruling" until the developer un-deferred it)*. ✅ The cold-chain share is set.
 
-**Air links (ruled 2026-10-29, `DR-81`):** two airports within the Bunger Hills, a **domestic passenger airport** and an **international, freight-only cargo airport**; siting, the cargo airport's customs presence and its link to any ice-front landing are not ruled (`Infrastructure/Airports.md`). People still arrive overland through Casey. **Australian-side international intake (`DR-82`):** a seasonal sea gateway in summer and an isolated, air-only winter intake airport with onward flights to Mirny; whether this changes this city's one door is not ruled (`Infrastructure/Ports.md` section 3e).
+**Air links (ruled 2026-10-29, `DR-81`):** two airports within the Bunger Hills, a **domestic passenger airport** and an **international, freight-only cargo airport**; **both airports are sited on the lake ice of Transcription Gulf** *(ruled 2026-11-03, `DR-96`)*; the cargo airport's customs presence and its link to the road spur are not ruled (`Infrastructure/Airports.md`). Perishables fly out from the gulf. People still arrive overland through Casey. **Australian-side international intake (`DR-82`):** a seasonal sea gateway (a pair of ice-class ships, `DR-96`) in summer and an isolated, air-only winter intake airport on an unnamed ice-cap island, with onward flights to Mirny; whether this changes this city's one door is not ruled (`Infrastructure/Ports.md` section 3e).
 
 ⏸️ **Proposed, not ruled — the chain, rather than a generic industrial hub:** *phosphorus arrives → fertilizer
 → food → food ships out.* **Port, farm and processing would be one system, not three functions.**
@@ -308,9 +308,9 @@ measured wind resource, off-grid.*
 ## Open Questions
 
 - ✅ **THE NAME** — *ruled 2026-10-03, `DR-39`: Relung Panen*
-- ⛔ **The founding** — *when, why, with what and without what* (the nations are ruled: Indonesia and Malaysia, jointly, `DR-34`)
-- ⛔ **The port** — *is the subglacial Transkriptsii approach canon? It would be a **fifth port tier***
-- ⛔ **Power** — *the binding constraint on the agricultural role, and unanswered*
+- ⛔ **The founding** — *when, why, with what and without what; the sequence is ruled (L222), the first-wave size is not* (the nations are ruled: Indonesia and Malaysia, jointly, `DR-34`)
+- ✅ **The port** — *ruled 2026-11-03: none built; Casey's port and the road carry the load (L13)*
+- ⛔ **Power** — *sized at about 0.55 GW plus the city; the plant and route are not ruled (L260)*
 - ⏸️ **Un-defer the `Division_of_Industry/16` three-tier split**
 - ⏸️ **Symbol assignment** *(`G1`)* — **correctly last**; it is provenance-downstream of a personality read,
   and this city has no personality pass yet

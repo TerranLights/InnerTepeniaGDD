@@ -19,21 +19,21 @@
 
 | Tier | Nations |
 |------|---------|
-| Primary | China |
-| Significant | Japan, Germany, France, UK, South Korea, Indonesia, Australia *(founding wave)* |
-| Notable | Poland, Netherlands, Thailand, Czech Republic, Ukraine, Vietnam, Romania, Norway, Hungary, South Africa, Slovakia, Belarus, Croatia, Bulgaria, Lithuania, Slovenia, Latvia, Estonia |
+| Primary | Australia *(founding wave)*, Sinian Federation, Indonesia, Japan |
+| Significant | France, Korea, Kazakhstan *(founding wave)*, United Kingdom, Russia (core state) *(founding wave)*, Estonia, South Africa, Norway, Vietnam, Belarus, Netherlands, Thailand, Slovenia, Bulgaria, Austro-Bavaria, Czechia, Germany, Slovakia, Hungary, Lithuania, Poland, Croatia, Latvia, Romania |
+| Notable | Ukraine, Mongolia, East Turkestan, Northern Ireland, West Papua, Aceh, Patani, Tibet |
 
-*Mawson breaks the pattern nearly every Atlantic- and Peninsula-facing Tepenian city follows. Where Halley, Palmer, and most of their subnet neighbors eventually became American-Primary regardless of founding nation, Mawson's Indian Ocean position — facing East Asia and Oceania rather than the Atlantic or South America — produced a China-Primary demographic long-run, with Japan, South Korea, and Indonesia all holding real Significant-tier weight alongside the usual European contributors. Australia holds the founding-wave flag at Significant tier — a strong retention (like Rothera's UK, Contrapunto's South Korea, Pergamino's Spain) rather than being diluted all the way to Notable.*
+*[Replaced 2026-11-03 after the population rework `DR-85`. The earlier paragraph described a China-Primary long-run, Australia retained at Significant tier, and compared Mawson with other cities, which the one-location rule does not allow.]* Mawson's Indian Ocean position, facing East Asia and Oceania, shows in a four-nation Primary tier with no leader: Australia 9.38%, the Sinian Federation 8.94%, Indonesia 8.57% and Japan 8.46%. The Founding Register names Kazakhstan, Russia (core state) and Australia as joint founders; Australia holds the founding-wave flag at Primary tier, Kazakhstan (4.80%) and Russia (3.35%) at Significant tier.
 
 ---
 
 ## 2. Founding Story
 
-Mawson Station's infrastructure was standing and serviceable when the Falkland Treaty exiles arrived, and Australian exiles founded the city on it.
+Mawson Station's infrastructure was standing and serviceable when the Falkland Treaty exiles arrived, and exiles founded the city on it (the Founding Register names Kazakhstan, Russia (core state) and Australia as joint founders).
 
 The city was named for Sir Douglas Mawson, the greatest Australian polar explorer, whose 1911–14 Australasian Antarctic Expedition and subsequent voyages defined Australian polar identity. In the Tepenian Saints framework, Mawson became St. Douglas — his connection to this city complete in a way no other Tepenian Saint quite matches: the city, the subnet, and the whole surrounding claimed territory all carry his name or legacy.
 
-Over the generations that followed, immigration reshaped Mawson's demographics along entirely different lines than the founding Australian population might have expected — not the American wave that reshaped so much of the rest of Tepenia, but a genuinely Indian-Ocean-facing current: Chinese immigration eventually became the demographic Primary, with Japan, South Korea, and Indonesia all establishing real Significant-tier presence alongside it.
+Over the generations that followed, immigration reshaped Mawson's demographics along entirely different lines than the founding Australian population might have expected — not the American wave that reshaped so much of the rest of Tepenia, but a genuinely Indian-Ocean-facing current: the Sinian Federation, Indonesia and Japan joined Australia in the Primary tier, with Korea and France at Significant tier. *(Rewritten 2026-11-03 for `DR-85`; the earlier text had Chinese immigration becoming the demographic Primary.)*
 
 ---
 
@@ -55,13 +55,13 @@ Mawson's polar night (~36 days) and midnight sun (~37 days) are relatively brief
 
 ## 5. Post-Culture Identity
 
-**Name/concept:** *The Name That Outlasted the Founders*
+**Name/concept:** *None sited here. "The Name That Outlasted the Founders" was retired 2026-11-03 (developer ruling); Mawson's identity is left to its own pass.*
 
-Mawson's civic identity is built on continuity — the subnet's hub from its founding, carrying forward St. Douglas's name and legacy with genuine, complete weight. But the demographic story underneath that continuity is one of quiet, thorough change: the Australian founding population that gave the city and the whole subnet its name has been demographically overtaken by an Indian-Ocean-facing current entirely of its own, with China now the actual Primary-tier majority.
+Mawson's civic identity is built on continuity — the subnet's hub from its founding, carrying forward St. Douglas's name and legacy with genuine, complete weight. *(Retired 2026-11-03: the sentence that followed said Australia had been overtaken, with China the Primary-tier majority. After the population rework `DR-85` the Primaries are Australia 9.38%, the Sinian Federation 8.94%, Indonesia 8.57% and Japan 8.46%.)*
 
-- **a. Founding tension** — Australia founded the city, gave it its name, its patron Saint, and its territorial legitimacy, and retains a genuine founding-wave presence at Significant tier — but the city's actual long-run demographic character now belongs to China, with Japan/South Korea/Indonesia providing real secondary weight. The name persists; who actually lives under it has changed.
-- **b. Fault lines** — Between deep institutional reverence for St. Douglas and Australian founding heritage, and the lived, everyday reality of a demographically Chinese-Primary city — not a hidden tension, but a genuinely accepted one, since the subnet hub role has always mattered more to Mawson's civic self-image than any single national identity.
-- **c. A structural principle, not just a demographic theme — confirmed 2026-07-07:** "The Name That Outlasted the Founders" recurs at multiple scales of the same city — national founding identity, present-day demographic reality, and infrastructural function (the hub role itself outlasting which specific connections it coordinates, following the Split Brain's inter-subnet-only severance — see Section 24). All three follow the identical shape: the underlying structure persists, what specifically occupies or connects through it changes.
+- **a. Founding tension** — *(Retired 2026-11-03 with the identity. The earlier text set Australia's founding against China's Primary status, which `DR-85` removed. The Founding Register names Kazakhstan, Russia (core state) and Australia as joint founders. Left open for Mawson's own pass.)*
+- **b. Fault lines** — *(Retired 2026-11-03 with the identity: it rested on a "demographically Chinese-Primary city", which no longer holds. The observation that the subnet hub role matters more to Mawson's civic self-image than any single national identity is a separate claim and is kept for Mawson's own pass to test.)*
+- **c. A structural principle — confirmed 2026-07-07, retired 2026-11-03:** *(The three-scale pattern included a demographic leg that no longer holds after `DR-85`, so it is no longer a named principle. What stands as a fact: the hub role outlasts which specific connections it coordinates, following the Split Brain's inter-subnet-only severance — see Section 24.)*
 
 **Demonym, resolved 2026-07-07: Mawsonite** — following the same "-ite" suffix pattern already established at Kunlun (Kunlunite) and Davis (Davisite).
 
@@ -72,7 +72,7 @@ Mawson's civic identity is built on continuity — the subnet's hub from its fou
 - **a.** Continuity and competence are valued above all — Mawson's whole civic character rests on being the place that has simply never stopped functioning.
 - **b. Hospitality character** — **Vision session, 2026-07-06:** genuinely warm, not just practical — Mawson is, relatively speaking, the closest thing to a resort town Antarctica can produce. That's a comparison that only means something against the rest of the continent's baseline, but within Tepenia, Mawson's hospitality is a real, distinct civic character, not just competence.
 - **c.** Paced by subnet-hub coordination duties as much as by the seasons — Mawson has always had responsibilities beyond its own borders.
-- **d. Public/private divide** — St. Douglas veneration and the city's institutional/operational history are shared civic pride; specific national heritage (Chinese, Japanese, Korean, Indonesian, or otherwise) is a more private, personal matter.
+- **d. Public/private divide** — St. Douglas veneration and the city's institutional/operational history are shared civic pride; specific national origin (Australian, Sinian, Indonesian, Japanese, or otherwise) is a more private, personal matter.
 - **e. Privacy as civic value** — Moderate; a genuine hub city with real subnet-wide responsibilities doesn't have the luxury of the smaller cities' intimacy, but personal life remains genuinely private.
 
 ---
@@ -87,8 +87,8 @@ Mawson's civic identity is built on continuity — the subnet's hub from its fou
 
 ## 8. Language
 
-- **a. Primary language(s):** Chinese as the genuine demographic default, with substantial English (Australian founding heritage) and real Japanese/Korean/Indonesian presence given the broad Significant tier.
-- **b. Linguistic character** — Genuinely plural, reflecting the Indian-Ocean-facing immigration pattern distinct from the rest of Tepenia's more American-inflected cities.
+- **a. Primary language(s):** Hawaiian, the civic default (the de facto national language at the Falkland Treaty, later Tepenian; developer rule of 2026-11-02, as in every Tepenian location). No nation holds a majority here, so the second-language slot is left open rather than assigned. *(Replaced 2026-11-03; the earlier line read: "Chinese as the genuine demographic default, with substantial English (Australian founding heritage) and real Japanese/Korean/Indonesian presence given the broad Significant tier." The Primary tier is now four nations, none a majority.)*
+- **b. Linguistic character** — Genuinely plural, reflecting an Indian-Ocean-facing immigration pattern. *(2026-11-03: a comparison with the rest of Tepenia's cities was removed from this line.)*
 - **c. Slang / dialect markers** — St. Douglas-related civic vocabulary persists as institutional/ceremonial language even among residents with no Australian ancestry — a naming-and-memory tradition that outlasted the demographic shift that produced it.
 - **d. Language and integration** — Moderate pressure, consistent with a genuine subnet hub that needs functional multilingual competence to coordinate across its whole network.
 
@@ -102,7 +102,7 @@ Built on inherited, well-maintained Australian Antarctic Division infrastructure
 
 ## 10. Cuisine
 
-- **a. Human cuisine** — A genuine, wide-ranging blend, built by decades of Mawson's own hospitality industry rather than inherited wholesale from any single nation — a hub city that made welcoming visitors its civic project developed a correspondingly eclectic table. Real Chinese, Japanese, Korean, Indonesian, and Australian threads run through it, echoing the city's population, but the cuisine's actual shape was set by the city's own hospitality economy, not handed down from any one contributing culture.
+- **a. Human cuisine** — A genuine, wide-ranging blend, built by decades of Mawson's own hospitality industry rather than inherited wholesale from any single nation — a hub city that made welcoming visitors its civic project developed a correspondingly eclectic table. Real Australian, Sinian, Indonesian, Japanese, and Korean threads run through it, echoing the city's population, but the cuisine's actual shape was set by the city's own hospitality economy, not handed down from any one contributing culture.
 - **b. Social context of eating** — Practical, shaped by the city's genuine hub responsibilities and institutional character.
 - **c. Robot cuisine / siligel culture** — Substantial, scaled to a real subnet-hub population.
 
@@ -116,7 +116,7 @@ A genuine, eclectic blend of practical cold-weather styles, shaped by Mawson's o
 
 ## 12. Music
 
-Genuinely mixed, spanning Chinese, Japanese, Korean, Indonesian, and Australian musical traditions — grown out of Mawson's own decades-long hospitality economy and constant visitor traffic, a hub city's musical culture built for a rotating, plural audience rather than handed down from any single population thread.
+Genuinely mixed, spanning Australian, Sinian, Indonesian, Japanese, and Korean musical traditions — grown out of Mawson's own decades-long hospitality economy and constant visitor traffic, a hub city's musical culture built for a rotating, plural audience rather than handed down from any single population thread.
 
 ---
 
@@ -130,7 +130,7 @@ Genuinely mixed, spanning Chinese, Japanese, Korean, Indonesian, and Australian 
 
 ## 14. Sensory Profile
 
-- **Sound:** Genuinely multilingual — Chinese, Japanese, Korean, Indonesian, and English all part of ordinary daily soundscape.
+- **Sound:** Genuinely multilingual — Hawaiian as the civic default, with Chinese, Japanese, Korean, Indonesian, and English all part of ordinary daily soundscape.
 - **Smell:** Cold, coastal, East Antarctic — similar to Mirny's climate character.
 - **Feel:** Institutionally deep and continuous — Mawson feels like the most settled place in its subnet.
 - **First impressions for visitors:** The Prince Charles Mountains backdrop and Horseshoe Harbor first, then quickly the genuine demographic plurality of a city whose name and whose population tell two different stories.
@@ -177,7 +177,7 @@ Robot culture at Mawson likely centers on the operational and technical competen
 
 ## 19. Underground / Counterculture
 
-Modest — a genuine hub city with real subnet-wide responsibilities doesn't have much organizational slack for counterculture; whatever tension exists (Australian founding memory versus Chinese-Primary demographic present) is openly acknowledged rather than suppressed or organized against.
+Modest — a genuine hub city with real subnet-wide responsibilities doesn't have much organizational slack for counterculture; whatever tension exists (founding-era memory against a four-nation Primary tier with no leader) is openly acknowledged rather than suppressed or organized against.
 
 ---
 
@@ -243,7 +243,7 @@ The Mawson subnet's confirmed hub — before the Planetary Split Brain, this was
 
 ## 27. Visitor Experience
 
-The Prince Charles Mountains and Horseshoe Harbor register first, followed by the genuine demographic plurality of a city whose Australian name and St. Douglas veneration sit alongside a Chinese-Primary, Indian-Ocean-facing population. **Vision session, 2026-07-06:** a real share of visitors here aren't passing through on hub business at all — they're newly-married human-robot couples on honeymoon, giving the city's visitor population a genuinely warmer, more celebratory character than a typical logistics-hub city would have.
+The Prince Charles Mountains and Horseshoe Harbor register first, followed by the genuine demographic plurality of a city whose Australian name and St. Douglas veneration sit alongside an Indian-Ocean-facing population with four Primary nations (Australia, the Sinian Federation, Indonesia, Japan). **Vision session, 2026-07-06:** a real share of visitors here aren't passing through on hub business at all — they're newly-married human-robot couples on honeymoon, giving the city's visitor population a genuinely warmer, more celebratory character than a typical logistics-hub city would have.
 
 ---
 
@@ -281,6 +281,6 @@ Becoming a local at Mawson means engaging with both halves of the city's identit
 
 ## 32. Diaspora Character in Concordia
 
-As the Mawson subnet's hub, Mawson's name and St. Douglas's legacy are known throughout Tepenia even where its specific demographic reality is not — Concordia knows Mawson as the face of its subnet. Diaspora character would likely reflect the city's genuine plurality: Chinese, Japanese, Korean, Indonesian, and Australian threads all present, alongside an institutional, hub-city competence distinct from more singularly-founded Tepenian cities' refugee communities.
+As the Mawson subnet's hub, Mawson's name and St. Douglas's legacy are known throughout Tepenia even where its specific demographic reality is not — Concordia knows Mawson as the face of its subnet. Diaspora character would likely reflect the city's genuine plurality: Australian, Sinian, Indonesian, Japanese, and Korean threads all present, alongside an institutional, hub-city competence distinct from more singularly-founded Tepenian cities' refugee communities.
 
 > ⚠ **Founders corrected 2026-10-13.** `Founding_Register.md` rules this city's founders as: Kazakhstan, Russia (the core state) and Australia, jointly (`DR-33`, `DR-46`, `DR-53`). Any line in this sheet that names the founders differently, or builds on an earlier founding, predates that ruling and is a revisit item. *(Added at the end so line numbers elsewhere stay stable.)*

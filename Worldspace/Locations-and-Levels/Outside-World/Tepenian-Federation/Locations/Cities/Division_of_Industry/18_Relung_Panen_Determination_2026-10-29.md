@@ -1,6 +1,6 @@
 # Relung Panen: Division of Industry determination (2026-10-29)
 
-> **Status: a new file.** *(⭐ **Re-run 2026-11-02 on the Esperanza-scenario population** (`DR-90`): every count below is on 492,215 humans / 507,856 robots; the first version (2026-10-29) used 477,285 / 494,585 and read workforce 733,228, baseline 322,197, distinctive 411,031, food 102,758, mandate 156,192, free 254,839. The method, the shares and the rulings are unchanged.)* *(Update 2026-10-29, later the same day, with the developer's OK: `09` §2 and `16` Half B now carry this city's row; see open item 3.)* Written at the developer's rulings `DR-71` (food role), `DR-72` (difficulty and first mandated roles), `DR-73` (shares are taken of the distinctive tier) and `DR-75` (the shares below). **Cold-chain logistics is not included and is explicitly pending** (section 5). **Not a ULM pass:** this city's pass has not run, so nothing here is a ULM finding.
+> **Status: a new file.** *(⭐ **Re-run 2026-11-02 on the Esperanza-scenario population** (`DR-90`): every count below is on 492,215 humans / 507,856 robots; the first version (2026-10-29) used 477,285 / 494,585 and read workforce 733,228, baseline 322,197, distinctive 411,031, food 102,758, mandate 156,192, free 254,839. The method, the shares and the rulings are unchanged.)* *(⭐ **Updated 2026-11-03 (`DR-96`): the cold-chain logistics share is ruled at 1% of the distinctive tier, 4,221 workers; mandate total 39% = 164,634 (21.8% of the workforce); free 257,505 (34.2%).**)* *(Update 2026-10-29, later the same day, with the developer's OK: `09` §2 and `16` Half B now carry this city's row; see open item 3.)* Written at the developer's rulings `DR-71` (food role), `DR-72` (difficulty and first mandated roles), `DR-73` (shares are taken of the distinctive tier) and `DR-75` (the shares below). **Cold-chain logistics is included at 1% (ruled 2026-11-03, `DR-96`)** (section 3). **Not a ULM pass:** this city's pass has not run, so nothing here is a ULM finding.
 
 ## 1 · Inputs
 
@@ -31,7 +31,8 @@
 | Agricultural research | 4% | 16,886 | `DR-75` | A partner's stake in the joint research project with Davis, Ariun Nuur and Zhongshan. Davis holds the national research half; this site adds a different one (shelf-sealed oasis, thaw season, permafrost table 82 to 106 cm, made ground). |
 | Seed breeding | 3% | 12,664 | `DR-75` | Supplies seed to other cities (developer, `DR-75`). A second, uncorrelated seed stock is insurance against a crop disease in one region. |
 | Phosphorus and soil recovery | 6% | 25,328 | `DR-75` | A national role (developer, `DR-75`), also serving other cities' waste streams. The country cannot manufacture phosphorus and must find it or recycle nearly all of it (`14`); recovery is described there as infrastructure. |
-| **Mandate total** | **38%** | **160,413** | | 21.3% of the workforce |
+| Cold-chain logistics | 1% | 4,221 | `DR-96` | Yes in principle (`DR-72`); share ruled 2026-11-03 at 1%. The one staffing benchmark found (about 2.5 employees per 1,000 pallet positions across Americold's 239 warehouses) puts 4% = 16,886 workers at about 6.8 million pallet positions, more than that whole network (DERIVED); a year's supply stored at once is about 1,000 workers. The share is a judgment call that allows for chilled handling and loading on a long seasonal route; storage-only benchmark, so it is generous. |
+| **Mandate total** | **39%** | **164,634** | | 21.8% of the workforce |
 
 How the joint research project is counted: each city counts its own workers in its own sector. Relung Panen's 16,886 are Relung Panen's staff; the other three cities' staff stay in their own rows. Nothing is split or double-counted.
 
@@ -40,8 +41,8 @@ How the joint research project is counted: each city counts its own workers in i
 | Tier | Workers | Share of workforce |
 |---|--:|--:|
 | Baseline | 331,825 | 44.0% |
-| Mandated | 160,413 | 21.3% |
-| **Free (the character budget), before cold-chain logistics** | **261,726** | **34.7%** |
+| Mandated | 164,634 | 21.8% |
+| **Free (the character budget), after the 1% cold-chain share** | **257,505** | **34.2%** |
 
 Each additional point of the distinctive tier given to a role is about 4,221 workers (0.56% of the workforce) taken out of the free tier.
 
@@ -49,8 +50,8 @@ Each additional point of the distinctive tier given to a role is about 4,221 wor
 
 ## 5 · Open items
 
-1. **Cold-chain logistics.** Yes in principle (developer, `DR-72`); to be registered once the port and airport question is settled. Needs a share.
+1. ✅ **Cold-chain logistics: DONE 2026-11-03 (`DR-96`).** Share ruled at 1% of the distinctive tier (4,221 workers); the port and airport questions are settled (airports on the gulf; no berth, Casey's port). Row in section 3.
 2. **Sourced staffing ratios** for seed breeding and nutrient recovery would sharpen the 3% and 6%; none were found. The shares are judgment calls, recorded as such.
-3. **`09` §2 and `16` Half B: DONE 2026-10-29** at the developer's OK. `09` §2's row now holds the figures (Required 284,173 under that section's old model, 37.7%; refreshed 2026-11-02, it was 275,990 / 37.6%); `16` Half B has the row (D 1.43, workforce 753,964, 44.0% / 21.3% / 34.7% before cold-chain; refreshed 2026-11-02, it was 733,228 and 43.9% / 21.3% / 34.8%), the exclusion note and Still-open item 20 are updated, and the national row was not recomputed.
+3. **`09` §2 and `16` Half B: DONE 2026-10-29** at the developer's OK. `09` §2's row now holds the figures (Required 284,173 under that section's old model, 37.7%; refreshed 2026-11-02, it was 275,990 / 37.6%); `16` Half B has the row (D 1.43, workforce 753,964, 44.0% / 21.3% / 34.7% before cold-chain; refreshed 2026-11-02, it was 733,228 and 43.9% / 21.3% / 34.8%), the exclusion note and Still-open item 20 are updated, and the national row was not recomputed. *(Cold-chain re-run 2026-11-03: `16` Half B now reads 44.0% / 21.8% / 34.2%; `09` §2 is unchanged, because it uses the old model and does not carry the mandated roles.)*
 4. **The differentiation table column** is drafted in `02_Cross_City_Industry_Differentiation_Table.md` as a separate subsection, from this determination and not from a ULM pass.
-5. **Power remains the binding constraint** for the stacked hydroponics (the spec says: no geothermal, no measured wind resource, off-grid). That is an input to the food role that the determination does not resolve.
+5. **Power remains the binding constraint** for the stacked hydroponics (the spec says: no geothermal, no measured wind resource, off-grid). Ruled 2026-11-03 (`DR-96`): sized from canon's 10 kWh/kg indoor model, about 0.55 GW average for the export food plus the city; the plant and route are not ruled (spec L260).
