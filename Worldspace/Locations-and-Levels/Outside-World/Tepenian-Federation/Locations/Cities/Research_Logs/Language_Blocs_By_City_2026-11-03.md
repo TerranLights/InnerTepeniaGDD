@@ -111,6 +111,8 @@
 
 ### Amundsen Station
 
+> **Developer note, 2026-11-03: Amundsen Station's population is a composite of all of Tepenia**, because people live and work there for periodic stays and come from all over the country. The table below is its spec's computed composition, which does not reflect that; treat these shares as provisional. A nation-wide composite (for example from the National Census, Section B) would be the better basis; not computed yet.
+
 *Census I table counts: robots 5,736, humans 1,121; Census II: robots 3,978, humans 913. Share total 99.963%.*
 
 | Language bloc | Low % | High % | Contributing nations (share %) |
