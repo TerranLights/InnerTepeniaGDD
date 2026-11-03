@@ -117,7 +117,7 @@ not an invented minimalist gloss, if any in-game scripture gets drafted.
 
 `03` section 5: **Water (Winter, North)** is the real tradition's own patron correspondence for the
 coldest, most Yin-dominant season and direction — a textually faithful (not arbitrary) elemental choice
-for a religion centered at Tepenia's South Pole setting. Ice itself bridges Water's traditional
+for a religion set in Tepenia's polar cold (a modest community lives at the South Pole; the station is not its center, per the 2026-10-31 ruling). Ice itself bridges Water's traditional
 associations (flow, softness, depth) with Metal's (hardness, crystalline structure) in a way neither
 element alone fully captures — worth deciding whether the religion draws on one or both.
 

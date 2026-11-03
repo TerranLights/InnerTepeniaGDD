@@ -111,7 +111,7 @@
 
 ### Amundsen Station
 
-> **Developer note, 2026-11-03: Amundsen Station's population is a composite of all of Tepenia**, because people live and work there for periodic stays and come from all over the country. The table below is its spec's computed composition, which does not reflect that; treat these shares as provisional. A nation-wide composite (for example from the National Census, Section B) would be the better basis; computed 2026-11-03 in `Amundsen_Station_Composite_Language_Blocs_2026-11-03.md` (English 25.5–32.2%, Mandarin 8.2–8.5%, Spanish 5.1–8.3%, Korean 6.5% on the Section B basis).
+> **Developer note, 2026-11-03: Amundsen Station's population is a composite of all of Tepenia**, because people live and work there for periodic stays and come from all over the country. **The spec now carries the composite (applied 2026-11-03, Census Section B basis, 83 nations).** The table below was built from the spec's earlier computed composition and is superseded by the nation-wide figures computed in `Amundsen_Station_Composite_Language_Blocs_2026-11-03.md` (English 25.5–32.2%, Mandarin 8.2–8.5%, Spanish 5.1–8.3%, Korean 6.5% on the Section B basis).
 
 *Census I table counts: robots 5,736, humans 1,121; Census II: robots 3,978, humans 913. Share total 99.963%.*
 

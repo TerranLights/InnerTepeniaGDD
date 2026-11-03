@@ -1,4 +1,4 @@
-# Open Items — List A CLEARED, and Four Resolutions
+# Open Items — List A CLEARED, and Four Resolutions *(2026-11-03 pointer: a dated 2026-09-02 record. Its national workforce, baselines (for example the two-tier 40.6% and three-tier 42.0%) and slack are the 2026-09 figures, not current ones. Current: `16`, `09`, `18` (national row 24,211,482 workers; baseline 43.1% / mandated 15.3% / free 41.5%) and the national food balance and slack in `19` section 5, after `DR-85`, `DR-90`, `DR-96` and `DR-97`.)*
 
 > **2026-09-02.** `[CGRM 2026-09-02 · Path 2 + Path 4]`
 >

@@ -1,4 +1,4 @@
-# Volume-Based Requirement Reference
+# Volume-Based Requirement Reference *(2026-11-03 pointer: a dated 2026-09-01 method record. Its flat 25% baseline and its national workforce of 24,214,839 are the first pass, not current figures. Current: the three-tier results in `16`, `09` and `18` (national row 24,211,482 workers; baseline 43.1% / mandated 15.3% / free 41.5%, with the robot-keyed term added under `DR-97`) and the national food balance in `19` section 5.)*
 
 > ## The method, developer-specified 2026-09-01. **This supersedes both prior sizing attempts.**
 

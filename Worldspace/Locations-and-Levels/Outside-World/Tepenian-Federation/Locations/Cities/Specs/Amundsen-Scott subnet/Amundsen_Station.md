@@ -12,13 +12,13 @@
 ## Population & Composition
 
 **Census I (Pre-Orbital Era):** 1,121 humans / 5,736 robots / **6,857** combined *(~84% robot)*
-**Census II (Orbital Era):** 913 humans / 3,978 robots / **4,891** combined *(~81% robot; skeleton crew)*
+**Census II (Orbital Era):** 913 humans / 3,978 robots / **4,891** combined *(~81% robot; a small town of rotating staff drawn from all of Tepenia)* *[old: "skeleton crew", 2026-11-03]*
 
 | Tier | Nations |
 |------|---------|
-| Primary | United Kingdom, Sinian Federation, Japan, Germany, CSA |
-| Significant | Korea, Australia, Appalachia, Cascadia, New England, New Zealand, Austro-Bavaria, Argentina (without Patagonia), Taiwan, Demilitarized Zone (s. Ontario; not a nation), Quebec, Norway *(Amundsen heritage — Saint Roald)*, Kazakhstan, Midwest Republic, Chile *(unique Union Glacier route advantage)*, Prairie Federation, Colorado |
-| Notable | Manchuria, Sonora, Araucanía-Patagonia, Mongolia, East Turkestan, Northern Ireland, Hawaii, Alaska, Tibet |
+| Primary | Korea, Sinian Federation, Japan, Australia, CSA, United Kingdom |
+| Significant | Indonesia, Germany, Brazil, France, Appalachia, Cascadia, New England |
+| Notable | Austro-Bavaria, New Zealand, Russia (core state), Taiwan, Argentina (without Patagonia), Vietnam, Malaysia, Philippines, Chile, Hungary, México, Thailand, Estonia, South Africa, Netherlands, Idelsk-Uralia, Serbia, Slovenia, Poland, Midwest Republic, Czechia, Slovakia, Romania, Lithuania, Bulgaria, Norway, Croatia, Finland, Demilitarized Zone (s. Ontario; not a nation), Belarus, Latvia, Magna Lombardia, Colorado, Kazakhstan, Uruguay, Quebec, Ukraine, Sonora, Prairie Federation, Amazonia, Meridia, Siberia, Spain, Donska-Kubania, Sweden, Manchuria, Araucanía-Patagonia, Künnarantaiga, Mongolia, Yucatán, Northern Ireland, Denmark, East Turkestan, Sicilia (autonomous zone within Meridia), Catalonia, West Papua, Aceh, Dagestan, Hawaii, Alaska, Chechnya, Patani, Basque Country, Iceland, Kabardino-Balkaria, North Ossetia-Alania, Tibet, Ingushetia, Karachay-Cherkessia, Tuva |
 
 *Source: `Official_Population_Census.md` Sections A–C.*
 
@@ -28,39 +28,91 @@
 
 | Tier | Nation | Share % | Census I Robots | Census I Humans | Census II Robots | Census II Humans |
 |------|--------|---------|------------------|------------------|-------------------|-------------------|
-| Primary | United Kingdom | 10.85% | 620 | 121 | 430 | 97 |
-| Primary | Sinian Federation | 10.85% | 622 | 120 | 431 | 98 |
-| Primary | Japan | 10.13% | 579 | 112 | 402 | 92 |
-| Primary | Germany | 8.94% | 512 | 99 | 353 | 82 |
-| Primary | CSA | 7.79% | 444 | 89 | 310 | 71 |
-| Significant | Korea | 6.64% | 383 | 75 | 265 | 59 |
-| Significant | Australia | 5.72% | 328 | 63 | 228 | 52 |
-| Significant | Appalachia | 4.39% | 252 | 48 | 174 | 39 |
-| Significant | Cascadia | 3.98% | 230 | 45 | 158 | 37 |
-| Significant | New England | 3.59% | 206 | 40 | 143 | 32 |
-| Significant | New Zealand | 3.33% | 191 | 37 | 133 | 30 |
-| Significant | Austro-Bavaria | 3.20% | 183 | 35 | 127 | 29 |
-| Significant | Argentina (without Patagonia) | 3.14% | 179 | 35 | 125 | 28 |
-| Significant | Taiwan | 2.81% | 161 | 32 | 112 | 26 |
-| Significant | Demilitarized Zone (s. Ontario; not a nation) | 2.12% | 121 | 24 | 84 | 20 |
-| Significant | Quebec | 1.62% | 94 | 19 | 65 | 15 |
-| Significant | Norway *(Amundsen heritage — Saint Roald)* | 1.55% | 89 | 18 | 61 | 14 |
-| Significant | Kazakhstan | 1.45% | 83 | 16 | 58 | 13 |
-| Significant | Midwest Republic | 1.36% | 79 | 16 | 54 | 14 |
-| Significant | Chile *(unique Union Glacier route advantage)* | 1.33% | 78 | 15 | 53 | 13 |
-| Significant | Prairie Federation | 1.19% | 69 | 14 | 47 | 12 |
-| Significant | Colorado | 1.03% | 60 | 12 | 41 | 10 |
-| Notable | Manchuria | 0.77% | 45 | 10 | 31 | 8 |
-| Notable | Sonora | 0.60% | 34 | 7 | 25 | 6 |
-| Notable | Araucanía-Patagonia | 0.40% | 23 | 5 | 16 | 4 |
-| Notable | Mongolia | 0.39% | 23 | 5 | 17 | 4 |
-| Notable | East Turkestan | 0.33% | 19 | 4 | 14 | 3 |
-| Notable | Northern Ireland | 0.27% | 17 | 3 | 12 | 3 |
-| Notable | Hawaii | 0.089% | 5 | 1 | 4 | 1 |
-| Notable | Alaska | 0.057% | 4 | 1 | 3 | 0 |
-| Notable | Tibet | 0.047% | 3 | 0 | 2 | 1 |
+| Primary | Korea | 6.52% | 374 | 73 | 259 | 60 |
+| Primary | Sinian Federation | 6.49% | 372 | 73 | 258 | 59 |
+| Primary | Japan | 6.08% | 348 | 68 | 242 | 55 |
+| Primary | Australia | 5.30% | 304 | 59 | 211 | 48 |
+| Primary | CSA | 5.13% | 294 | 58 | 204 | 47 |
+| Primary | United Kingdom | 5.02% | 288 | 56 | 200 | 46 |
+| Significant | Indonesia | 4.26% | 245 | 48 | 170 | 39 |
+| Significant | Germany | 4.09% | 235 | 46 | 163 | 37 |
+| Significant | Brazil | 3.70% | 212 | 41 | 147 | 34 |
+| Significant | France | 3.25% | 186 | 36 | 129 | 30 |
+| Significant | Appalachia | 3.11% | 179 | 35 | 124 | 28 |
+| Significant | Cascadia | 2.58% | 148 | 29 | 103 | 24 |
+| Significant | New England | 2.52% | 145 | 28 | 100 | 23 |
+| Notable | Austro-Bavaria | 1.50% | 86 | 17 | 60 | 14 |
+| Notable | New Zealand | 1.42% | 81 | 16 | 56 | 13 |
+| Notable | Russia (core state) | 1.40% | 80 | 16 | 56 | 13 |
+| Notable | Taiwan | 1.38% | 79 | 15 | 55 | 13 |
+| Notable | Argentina (without Patagonia) | 1.27% | 73 | 14 | 51 | 12 |
+| Notable | Vietnam | 1.27% | 73 | 14 | 50 | 12 |
+| Notable | Malaysia | 1.25% | 71 | 14 | 50 | 11 |
+| Notable | Philippines | 1.23% | 71 | 14 | 49 | 11 |
+| Notable | Chile | 1.21% | 70 | 14 | 48 | 11 |
+| Notable | Hungary | 1.17% | 67 | 13 | 47 | 11 |
+| Notable | México | 1.12% | 64 | 13 | 45 | 10 |
+| Notable | Thailand | 1.09% | 62 | 12 | 43 | 10 |
+| Notable | Estonia | 1.06% | 61 | 12 | 42 | 10 |
+| Notable | South Africa | 1.04% | 59 | 12 | 41 | 9 |
+| Notable | Netherlands | 0.99% | 57 | 11 | 39 | 9 |
+| Notable | Idelsk-Uralia | 0.98% | 56 | 11 | 39 | 9 |
+| Notable | Serbia | 0.97% | 56 | 11 | 39 | 9 |
+| Notable | Slovenia | 0.97% | 55 | 11 | 38 | 9 |
+| Notable | Poland | 0.96% | 55 | 11 | 38 | 9 |
+| Notable | Midwest Republic | 0.96% | 55 | 11 | 38 | 9 |
+| Notable | Czechia | 0.92% | 53 | 10 | 37 | 8 |
+| Notable | Slovakia | 0.90% | 52 | 10 | 36 | 8 |
+| Notable | Romania | 0.90% | 52 | 10 | 36 | 8 |
+| Notable | Lithuania | 0.87% | 50 | 10 | 35 | 8 |
+| Notable | Bulgaria | 0.87% | 50 | 10 | 35 | 8 |
+| Notable | Norway | 0.86% | 50 | 10 | 34 | 8 |
+| Notable | Croatia | 0.83% | 48 | 9 | 33 | 8 |
+| Notable | Finland | 0.78% | 45 | 9 | 31 | 7 |
+| Notable | Demilitarized Zone (s. Ontario; not a nation) | 0.77% | 44 | 9 | 31 | 7 |
+| Notable | Belarus | 0.77% | 44 | 9 | 31 | 7 |
+| Notable | Latvia | 0.76% | 43 | 8 | 30 | 7 |
+| Notable | Magna Lombardia | 0.73% | 42 | 8 | 29 | 7 |
+| Notable | Colorado | 0.72% | 41 | 8 | 29 | 7 |
+| Notable | Kazakhstan | 0.71% | 41 | 8 | 28 | 6 |
+| Notable | Uruguay | 0.67% | 38 | 7 | 27 | 6 |
+| Notable | Quebec | 0.59% | 34 | 7 | 24 | 5 |
+| Notable | Ukraine | 0.55% | 32 | 6 | 22 | 5 |
+| Notable | Sonora | 0.50% | 28 | 6 | 20 | 5 |
+| Notable | Prairie Federation | 0.44% | 25 | 5 | 17 | 4 |
+| Notable | Amazonia | 0.41% | 23 | 5 | 16 | 4 |
+| Notable | Meridia | 0.39% | 23 | 4 | 16 | 4 |
+| Notable | Siberia | 0.39% | 22 | 4 | 15 | 4 |
+| Notable | Spain | 0.38% | 22 | 4 | 15 | 3 |
+| Notable | Donska-Kubania | 0.37% | 21 | 4 | 15 | 3 |
+| Notable | Sweden | 0.35% | 20 | 4 | 14 | 3 |
+| Notable | Manchuria | 0.33% | 19 | 4 | 13 | 3 |
+| Notable | Araucanía-Patagonia | 0.27% | 16 | 3 | 11 | 2 |
+| Notable | Künnarantaiga | 0.26% | 15 | 3 | 10 | 2 |
+| Notable | Mongolia | 0.23% | 13 | 3 | 9 | 2 |
+| Notable | Yucatán | 0.15% | 9 | 2 | 6 | 1 |
+| Notable | Northern Ireland | 0.15% | 8 | 2 | 6 | 1 |
+| Notable | Denmark | 0.11% | 6 | 1 | 4 | 1 |
+| Notable | East Turkestan | 0.096% | 6 | 1 | 4 | 1 |
+| Notable | Sicilia (autonomous zone within Meridia) | 0.084% | 5 | 1 | 3 | 1 |
+| Notable | Catalonia | 0.082% | 5 | 1 | 3 | 1 |
+| Notable | West Papua | 0.078% | 4 | 1 | 3 | 1 |
+| Notable | Aceh | 0.075% | 4 | 1 | 3 | 1 |
+| Notable | Dagestan | 0.069% | 4 | 1 | 3 | 1 |
+| Notable | Hawaii | 0.062% | 4 | 1 | 2 | 1 |
+| Notable | Alaska | 0.035% | 2 | 0 | 1 | 0 |
+| Notable | Chechnya | 0.033% | 2 | 0 | 1 | 0 |
+| Notable | Patani | 0.031% | 2 | 0 | 1 | 0 |
+| Notable | Basque Country | 0.029% | 2 | 0 | 1 | 0 |
+| Notable | Iceland | 0.020% | 1 | 0 | 1 | 0 |
+| Notable | Kabardino-Balkaria | 0.020% | 1 | 0 | 1 | 0 |
+| Notable | North Ossetia-Alania | 0.015% | 1 | 0 | 1 | 0 |
+| Notable | Tibet | 0.014% | 1 | 0 | 1 | 0 |
+| Notable | Ingushetia | 0.011% | 1 | 0 | 0 | 0 |
+| Notable | Karachay-Cherkessia | 0.010% | 1 | 0 | 0 | 0 |
+| Notable | Tuva | 0.007% | 0 | 0 | 0 | 0 |
 
-*Tier labels follow the final shares: Primary and Significant end at the largest ratio gaps among the rows at 4.5% or more (Primary never more than six rows), no row at 4.5% or more is Notable, and Notable is the rest (the composition file's own rule, "boundaries fall at the largest ratio gaps"; the 8 / 3 / 1 share weights no longer produce the figures). Percentages are of this city's own human and robot population (identical between censuses), not Tepenia-wide. Robot figures apply the same proportions as the human population. Shares are rounded; they sum to 100% within rounding.*
+*Tier labels follow the final shares: Primary and Significant end at the largest ratio gaps among the rows at 4.5% or more (Primary never more than six rows), no row at 4.5% or more is Notable, and Notable is the rest (the composition file's own rule, "boundaries fall at the largest ratio gaps"; the 8 / 3 / 1 share weights no longer produce the figures). Percentages are of this city's own human and robot population (identical between censuses), not Tepenia-wide. Robot figures apply the same proportions as the human population. Shares are rounded; they sum to 100% within rounding. Rebalanced 2026-11-03 (developer ruling): the station's people are a composite of all of Tepenia, drawn from everywhere on periodic stays. Each nation's share is its share of all humans in the National Origin Totals (Census Section B, Census I humans; the maritime fleet, which has no nation, is excluded), not a proximity computation; the counts are rounded by the largest-remainder method so every column sums exactly to the station's totals (6,857 and 4,891; 1,121 and 913 humans); robots use the humans' proportions pending any robot-side ruling. Totals are unchanged. The old per-nation table and its Norway and Chile annotations are retired (see `Research_Logs/Amundsen_Station_Spec_Composite_Applied_2026-11-03.md`).*
 
 ---
 
@@ -166,7 +218,7 @@ The South Pole's position — equidistant from all six subnet regions, at the te
 
 ## Founding
 
-**Settled:** Post-Falkland Treaty, as a neutral inter-subnet infrastructure installation rather than a conventional exile city. Amundsen Station was never primarily a population center — it was a facility, operated by a rotating technical staff maintaining the Arcanet relay hardware and the Amundsen Tower. The population was small relative to the station's strategic importance.
+**Settled:** Post-Falkland Treaty, as a neutral inter-subnet infrastructure installation rather than a conventional exile city. Amundsen Station was founded as a facility, operated by a rotating technical staff maintaining the Arcanet relay hardware and, later, the Amundsen Tower, and it grew into a small town: the staff who keep the network hub and the Tower base running live there for months to years, and a supporting community (kitchens, utilities, medicine, teaching, offices, recreation) grew around them. The population is small beside the station's strategic importance, and most of it is robot. (Rebalanced 2026-11-03, developer's town decision; [old: "Amundsen Station was never primarily a population center — it was a facility, operated by a rotating technical staff maintaining the Arcanet relay hardware and the Amundsen Tower. The population was small relative to the station's strategic importance."].)*
 
 **Founding population:** Multi-subnet technical crews, with no dominant national or cultural community — the station's neutrality was structural, built into its staffing from the beginning. The people who worked at Amundsen Station came from across Tepenia on rotation, served their term, and returned to their home cities.
 
@@ -174,7 +226,7 @@ The South Pole's position — equidistant from all six subnet regions, at the te
 
 ## Character & Culture
 
-Amundsen Station had the culture of a facility, not a city. The rotating staff developed the specific camaraderie of people sharing extreme isolation together — intense, temporary, and real — but there was no permanent Amundsen community in the way that Scott had a community or Janbogo had a community. People came from their cities, did their work, and went home.
+Amundsen Station was a town of rotations. Its people came from every part of Tepenia, served terms of months to years, and went home, and the town they made together shared extreme isolation and a neutral ground that belonged to no subnet. How its residents live, eat, play and belong is for the culture work to find; this file does not invent it. (Rebalanced 2026-11-03, developer's town decision; [old: "Amundsen Station had the culture of a facility, not a city. The rotating staff developed the specific camaraderie of people sharing extreme isolation together — intense, temporary, and real — but there was no permanent Amundsen community in the way that Scott had a community or Janbogo had a community. People came from their cities, did their work, and went home."].)*
 
 The station's political neutrality was its most significant cultural feature. In a Federation divided into six subnet communities with distinct identities and histories, Amundsen was the one place that belonged to all of them and therefore to none. Disputes that could not be resolved within a subnet were sometimes brought to Amundsen Station for mediation — not because it had formal authority over inter-subnet matters, but because its neutrality was respected. When the station fell, that neutral ground disappeared with it.
 
@@ -188,7 +240,7 @@ The station's political neutrality was its most significant cultural feature. In
 
 Not applicable in the conventional sense. Amundsen Station was a strategic infrastructure installation, not an economic city. Its "industry" was the Arcanet relay and whatever support operations the Amundsen Tower required. All supplies came in from elsewhere; nothing was produced for export.
 
-**Vision session, 2026-07-06:** naturally, given its role, the station's day-to-day character was one of scientific, technical, and mechanical maintenance — the ongoing work of keeping the Arcanet relay and the Amundsen Tower itself operational, rather than any output-producing economy. This is consistent with the facility's already-established "not a city" identity above — the work here was upkeep and vigilance, not production.
+**Vision session, 2026-07-06:** naturally, given its role, the station's day-to-day character was one of scientific, technical, and mechanical maintenance — the ongoing work of keeping the Arcanet relay and the Amundsen Tower itself operational, rather than any output-producing economy. This is consistent with the station's upkeep-and-vigilance work; the town around it exists to keep that work, and the people who do it, going. (Rebalanced 2026-11-03, developer's town decision; [old: "This is consistent with the facility's already-established 'not a city' identity above — the work here was upkeep and vigilance, not production."].)*
 
 ---
 

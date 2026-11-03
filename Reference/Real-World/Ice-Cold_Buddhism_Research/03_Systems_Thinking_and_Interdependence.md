@@ -117,7 +117,7 @@ Winter, North**; Wood = Spring, East; Fire = Summer, South; Metal = Autumn, West
 center. Wood and Fire are Yang; **Metal and Water are Yin**. Water specifically is described via softness,
 flexibility, depth, and stillness — the fullest elemental expression of Yin.
 
-**Genuinely strong thematic fit for a religion literally centered at the South Pole (Tepenia's real
+**Genuinely strong thematic fit for a religion whose setting is the Antarctic cold, with a modest community at the South Pole (Tepenia's real
 setting, itself an "eternal winter"):** Water/Winter/North is the real tradition's own patron
 correspondence for the coldest, most Yin-dominant season and direction — adopting Water (or Water alongside
 Metal, given ice is literally solid water while also carrying a hard, crystalline quality closer to

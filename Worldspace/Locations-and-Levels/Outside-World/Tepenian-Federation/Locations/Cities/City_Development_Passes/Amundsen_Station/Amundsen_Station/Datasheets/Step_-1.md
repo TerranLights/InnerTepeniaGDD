@@ -15,8 +15,8 @@
 | Significance | The geographic South Pole; former inter-subnet Arcanet relay; *[one clause excluded: later-era content, outside the Second Interwar default scope; not copied]*; site of the Amundsen Tower (space elevator); *[two further clauses excluded: later-era content, outside the Second Interwar default scope; not copied]* | `Specs/Amundsen_Station.md` L8 |
 | Coordinates (as written in the same field) | 90°00'S | `Specs/Amundsen_Station.md` L3 |
 | Specs `Status:` field | States a later-era condition; per the standing default-scope rule (`00_RUNBOOK.md`, the Second Interwar default) this is **never an input** to a Second Interwar pass — not copied | `Specs/Amundsen_Station.md` L4 |
-|  Later-era sections present in the Specs file (same exclusion as `Status:`) | 3 section(s), by heading position: L210, L220, L232 — not copied, not described | `Specs/Amundsen_Station.md` L210, L220, L232  |
+|  Later-era sections present in the Specs file (same exclusion as `Status:`) | 3 section(s), by heading position: L210, L220, L232 — not copied, not described | `Specs/Amundsen_Station.md` L262, L272, L284  |
 | Census I (spec's own line) | 1,121 humans / 5,736 robots / **6,857** combined *(~84% robot)* | `Specs/Amundsen_Station.md` L14 |
-| Census II (spec's own line) | 913 humans / 3,978 robots / **4,891** combined *(~81% robot; skeleton crew)* | `Specs/Amundsen_Station.md` L15 |
+| Census II (spec's own line) | 913 humans / 3,978 robots / **4,891** combined *(~81% robot; a small town of rotating staff drawn from all of Tepenia)* *[old: "skeleton crew", 2026-11-03]* | `Specs/Amundsen_Station.md` L15 |
 
 **Not mechanical / not included here:** the admitted read-range, the four-category classification (PROVIDED/RESERVED/PRODUCED/REQUESTED), any generator presence/absence call, the type-modifier declaration — none of this exists until Amundsen Station's own pass runs.

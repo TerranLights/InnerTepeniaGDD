@@ -928,4 +928,4 @@ uncorrelated supply, not required for survival)*.
 > ### ⚠ **And the standing caution stands: do NOT quote the +70% to three significant figures.** It rests on
 > Davis's 35% and Esperanza's 15% being right, on the belt existing at 1,500 km², and on the fishery sitting
 > at its ecological cap. **The useful output of this section is the 7.4% slack and the tier table — not the
-> balance.**
+> balance.** *(2026-11-03 pointer: the 7.4% above is the 2026-09 figure on 1,150,116 people. `19` section 5 gives 7.4% again for the current inputs (1,156,729 people), a coincidence of two different calculations; the current balance is +66% with Relung Panen, and slack without Relung Panen is 2.8%, not the figures in this section's tables.)*
