@@ -187,7 +187,7 @@ Robot residents concentrate heavily in communications, technical, and wind-engin
 
 ## 18. Religious / Philosophical Landscape
 
-- Russian Orthodox heritage persists quietly among Russian-descended and Idelsk-Uralian families, alongside the secular, philosophical and religious traditions of the six Primary nations' communities (to be itemized in the ULM pass; none invented here) — coexisting rather than merging. *(Corrected 2026-11-03: [old: "alongside a growing range of Chinese-heritage secular and philosophical traditions … matching the city's broader cultural pattern"].)*
+- Russian Orthodox heritage persists quietly among Russian-descended and Idelsk-Uralian families, alongside the secular, philosophical and religious traditions of the six Primary nations' communities (to be itemized after the CST, once who these people are is known; none invented here) — coexisting rather than merging. *(Corrected 2026-11-03: [old: "alongside a growing range of Chinese-heritage secular and philosophical traditions … matching the city's broader cultural pattern"].)*
 - A shared, unstated civic philosophy of competence-and-threshold-awareness functions as the closest thing to a unifying local ethic
 - No dominant robot philosophical tradition; practical orientation prevails over contemplative or mystical schools
 
