@@ -36,3 +36,5 @@ Recap of what was already established going in (see the two files above for full
 - Whether the coexistence experiment ultimately succeeded or not
 - Two placeholder holiday names ("Hangul Day," "The Neighbors' Accord")
 - The recurring census gap (Contrapunto missing from "Lost and Ruined Cities" — to be batch-fixed alongside Marambio's same issue)
+
+> **Pointer added 2026-11-03.** The recap above narrates the 2026-07 composition ("USA is Sejong's sole Primary (21.65%)"). After the population rework (`DR-85`) the Primaries are France 11.61%, the United Kingdom 10.98%, México 9.10% and Germany 8.99%. Language, ruled 2026-11-03: Hawaiian is the civic default (the national language at the Falkland Treaty, later Tepenian); English and Spanish are the supporting tier. See the culture file's section 8.

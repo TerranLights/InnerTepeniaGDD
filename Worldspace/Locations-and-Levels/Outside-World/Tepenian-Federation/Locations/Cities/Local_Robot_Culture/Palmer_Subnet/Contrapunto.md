@@ -12,7 +12,7 @@ project's other destroyed cities.
 
 **A required data-integrity note, read this before anything else below:** this city carries a known,
 partially-resolved founding-nation canon bug. An earlier, invalidated premise held that Contrapunto's small
-present-day Korean-descent population (5.79%, its smallest Significant-tier nation) represented a *dilution*
+present-day Korean-descent population (5.79%, a Significant-tier nation well behind the four Primaries) represented a *dilution*
 of a once-larger, continuously-present founding Korean community. This was corrected 2026-08-02: the First
 Interwar Period's (2083-2564) nearly 500 years of constant station-ownership turnover rules out any continuous
 Korean population or institution surviving from the real-world station's own naming era through to Tepenian
@@ -41,7 +41,7 @@ Per direct instruction, **this pass does not fix any of the above** (out of scop
 **builds no finding below on the invalidated continuous-Hangul-institution premise** — every finding is
 grounded instead in the current, valid facts: Contrapunto's real founding population (South Korean exiles arriving
 alongside nearly a dozen other national communities already present on the same island), its real present-day
-composition (USA sole Primary at 21.65%, South Korea the smallest Significant-tier nation at 5.79%), and its
+composition (four Primaries as of the 2026-11-03 figures: France 11.61%, the United Kingdom 10.98%, México 9.10%, Germany 8.99%; South Korea a Significant-tier nation at 5.79%), and its
 real, well-established, non-Hangul-dependent civic identity — dense, negotiated, multinational proximity as
 the actual source of everything distinctive about this city. Provisional — findings are proposals for
 developer review, not asserted canon.
@@ -67,10 +67,10 @@ happen to bond.*
   §5 ("A City Defined By Its Neighbors" — density sharpened rather than diluted community identity, cohesion
   forged by contrast; §5b's own fault line between cooperative coexistence and competitive tension over King
   George Island's favorable ground), §6 (boundary zones as real, negotiated civic geography; hospitality
-  "practiced and diplomatic," shaped by decades of close-quarters coexistence), §8 (English/USA the real civic
-  default; **§8a-1's own confirmed aggregate finding — Spanish speakers, combined across Mexico/Argentina/
-  Chile/Uruguay, make up 19.98% of the city, a genuine second civic language no single Spanish-speaking nation
-  individually anchors**), §15 (Diplomatic/inter-community coordination as its own named 15% industry sector,
+  "practiced and diplomatic," shaped by decades of close-quarters coexistence), §8 (Hawaiian the civic default; English and
+  Spanish the supporting tier, ruled 2026-11-03; **§8a-1's aggregate finding — Spanish speakers, combined across
+  México and its successors, Argentina, Chile, Uruguay and Araucanía-Patagonia, make up about 20.24% of the city
+  (was 19.98% before the population rework), no single Spanish-speaking nation individually anchoring it**), §15 (Diplomatic/inter-community coordination as its own named 15% industry sector,
   a genuinely unique category among Palmer-subnet cities), §16/§17 (Human-Robot Relations / Robot-Specific
   Culture — robots developing genuine cross-cultural competence out of necessity, fluency across multiple
   national contexts most Tepenian robot populations never needed), §18 (no dominant formal religion; a
@@ -272,9 +272,10 @@ localize per city.*
 ### 8. Vernacular Language — Robot-Specific Speech Markers
 
 - **[Directly-inherited, Surface]** §8a-1's own confirmed finding stands as genuinely rich, already-established
-  material: Spanish speakers, aggregated across Mexico, Argentina, Chile, and Uruguay, make up 19.98% of
-  Contrapunto's population — larger than any single other Significant-tier nation, functioning as a real second
-  civic language even though no individual Spanish-speaking nation clears Significant-tier prominence alone.
+  material: Spanish speakers, aggregated across México and its successors, Argentina, Chile, Uruguay and
+  Araucanía-Patagonia, make up about 20.24% of Contrapunto's population (19.98% before the population rework
+  `DR-85`; DERIVED 2026-11-03) — larger than any single nation, and ruled a supporting-tier language beside
+  English (2026-11-03), under Hawaiian as the civic default.
 - **[Adapted, Surface]** §8c already establishes "boundary-zone vocabulary describing the specific transitions
   between Contrapunto and its neighboring communities." Given robots' own established concentration in the ongoing
   boundary-negotiation function (§1), robots are plausibly the population most fluently multilingual across the

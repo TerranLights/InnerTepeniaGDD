@@ -1,5 +1,6 @@
 # Casey — Datasheet · Phase 5 (Relation & Geometry)
 
+> *(Update 2026-11-03: the flagged wording named below has since been removed from the source; see the RESOLVED block below.)*
 > ⚠ **DRAFT — Tier C. ⛔⛔ CONTAINS THE SAME FLAGGED CONTAMINATION RISK ALREADY FOUND INDEPENDENTLY ON A 📎 *Files cited by line number here may carry a pointer to their copy in the `DerivationMechanisms` repo at the very END of the file (put there so no cited line moves): check the bottom of a cited file.*
 > DIFFERENT CITY'S OWN PASS — Casey turns out to be a direct party to it, checked here from scratch.**
 
@@ -21,6 +22,8 @@
 | Casey's own dispatch-discipline parallel, stated as Casey's relation | One cross-subnet link, rated Medium/Cultural: *"two cities whose entire civic identity runs on route-safety dispatch discipline — Casey's wind-window certification"* against the other city's own monitoring-bulletin tradition | `City_National_Connections.md`, Casey's own §, L296–297 |
 | Casey's own technical-reputation reach, stated as Casey's relation | One cross-subnet link, rated Medium/Infrastructure: a named other city's precision-calibration reputation drew inquiries reaching *"well beyond the Janbogo subnet, including Casey's own technical circles"* | `City_National_Connections.md`, Casey's own §, L298–300 |
 | Casey's own link to the end of the Relung Panen Spur, stated as Casey's relation (added 2026-10-21) | One intra-subnet link, rated Strong/Infrastructure: *"The junction where Relung Panen's only road meets Hwy 110: everything that reaches or leaves that city by land passes through Casey."* | `City_National_Connections.md`, Casey's own §, L301 |
+| Casey's own link to Mirny, stated as Casey's relation (re-read 2026-11-03) | One cross-subnet-listed link, rated Strong/Cultural-Infrastructure: *"Australia (Casey's founder) is among the exile groups present at Mirny (Founding Register); Hwy 110 joins them, plus Mirny's own Relay Hardware Vaults."* The source now rests on the Founding Register, not on a heritage-network claim | `City_National_Connections.md`, Casey's own §, L293–294 |
+| Casey's own link to Davis, stated as Casey's relation (re-read 2026-11-03) | One link, rated Strong/Cultural: *"Both founded by Australia (Founding Register), on the same highway, Hwy 110."* The source cites `DR-19` and the Founding Register | `City_National_Connections.md`, Casey's own §, L295 |
 | Airport | **No airport in Tepenia.** Casey is on `Airports.md`'s "Everything Else Has No Air Access" list, which also notes that many of those cities have a real-world station with a genuine airstrip today and that none has one in Tepenia; access is by the highway network only. `DR-82` (2026-10-29) keeps Casey's no-air-access status (onward flights go to Mirny). *(Row corrected 2026-10-29: it earlier read "a confirmed airport marker", which the file does not say.)* | `Infrastructure/Airports.md` L12, L50, L54 |
 | Port | **Newcomb Bay** — a small bay on the northeast of Vincennes Bay — itself a V-shaped inlet 105 km wide at its mouth; the station stands on the southern side, on the Windmill Islands' rock. ⭐ **GEOLOGICAL** tier (seasonal, free) | `Infrastructure/Ports.md` L561, L733 |
 | Port — Hobart staging note names the city | *"Casey … carry the same Hobart/Fremantle note"* *(the line's list of other cities, and the freighter nodes it is attached to, are not carried)* | `Infrastructure/Ports.md` L189 |
@@ -29,7 +32,11 @@
 | Port — §3e "Not ruled" list | Listed among the items not ruled: *"whether Relung Panen's people door (through Casey, `DR-81`) changes"* | `Infrastructure/Ports.md` L300 |
 | `City_Cross_Subnet_Relationships.md` — lines naming the city | 6 line(s): L42, L54, L94, L99, L128, L207 *(line numbers only: this file builds on material withheld by its own stated method)* | `City_Cross_Subnet_Relationships.md` L42, L54, L94, L99, L128, L207 |
 
-## ⛔⛔ FLAGGED — found, NOT extracted, do not treat as clean fact
+## ✅ RESOLVED 2026-11-03 — the flagged wording is no longer in the source (record kept below)
+
+> **Re-read 2026-11-03:** `City_National_Connections.md`'s Casey section (L290–301) no longer contains the phrase "intra-subnet Australian-heritage network" (searched: no match in the file). Its Mirny and Davis lines now cite the Founding Register and `DR-19`; both are carried as clean rows above. The block below is what this sheet said before; it is kept as the record and is no longer a restriction.
+
+### (Former flag) — found, NOT extracted, do not treat as clean fact
 
 > **`City_National_Connections.md`'s own Casey section states two of Casey's relations as "part of the
 > intra-subnet Australian-heritage network" — one Strong/Cultural-Infrastructure, one Strong/Cultural — with

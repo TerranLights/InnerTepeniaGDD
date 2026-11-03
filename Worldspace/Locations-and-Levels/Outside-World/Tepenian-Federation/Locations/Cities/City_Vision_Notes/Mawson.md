@@ -8,7 +8,7 @@
 
 ## Facts and factions presented at the start of this session
 
-Recap of what was already established going in: Mawson is the Mawson subnet's hub city, with an existing "The Name That Outlasted the Founders" identity — Australia founded the city and gave it its name, but China is the actual long-run demographic Primary (17.02%), with Australia sitting at Significant tier (8.29%), the same "founding nation buried behind China" pattern later confirmed at Shirayuki and Sinheung.
+Recap of what was already established going in: Mawson is the Mawson subnet's hub city, with an earlier "The Name That Outlasted the Founders" identity that was **retired 2026-11-03 at the developer's direction**. It rested on Australia, the founder, being buried behind China (China Primary 17.02%, Australia Significant 8.29%, as understood in 2026-07). The population rework (`DR-85`) removed that premise: Australia now leads at 9.38%, ahead of the Sinian Federation at 8.94%, with Indonesia and Japan also Primary. Mawson's identity is left for its own pass to find from the data.
 
 ---
 

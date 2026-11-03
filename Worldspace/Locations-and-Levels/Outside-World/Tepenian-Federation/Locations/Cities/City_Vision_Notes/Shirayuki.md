@@ -23,7 +23,7 @@ Recap of what was already established going in: at the time of this 2026-07-06 s
 ## Corrections/additions applied directly to other files this session
 
 - `Specs/Shirayuki.md` and `Local_Cultures/Mirny_Subnet/Shirayuki.md` — Architecture (cleanliness, art throughout every district), Fashion (explicitly not runway/high fashion, Alt-Rock/Alt-Grunge/Alt-Pop homemade), Music (massive amateur culture), Who This City Attracts (the schools-for-culture draw, ease of making friends), a stale "Chinese as demographic default" language note corrected to match the population fix below.
-- Population re-derived the same session: Japan boosted to genuinely Primary (36.27%), correcting the standard-method bug that had buried it. A contributing-factor theory was added to the Founding Resolution Note — Japan's diplomats may have anticipated Temirötkel's own eventual demographic dilution (which did happen) and pushed for Shirayuki as a protected backstop specifically because of it.
+- Population re-derived the same session: Japan boosted to genuinely Primary (36.27% then; 34.20% as of 2026-11-03 after `DR-85`), correcting the standard-method bug that had buried it. A contributing-factor theory was added to the Founding Resolution Note — Japan's diplomats may have anticipated Temirötkel's own eventual demographic dilution (which did happen) and pushed for Shirayuki as a protected backstop specifically because of it.
 - Temirötkel's own file swept for the same "primary Japanese Tepenian presence" claim throughout, corrected now that Shirayuki holds that distinction instead.
 
 ---

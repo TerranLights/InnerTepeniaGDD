@@ -24,7 +24,7 @@ Recap of what was already established going in: this city (at the time tracked u
 
 - `Specs/Sinheung.md` and `Local_Cultures/Mirny_Subnet/Sinheung.md` — Division of Industry revised to heavy industrial fabrication (45%); the fabrication-synthesis chamber reveal written into Export Culture, Notable Local Landmarks, and Political Character (national pride).
 - `Robot_Biology_and_Culture/Robot_Physiology_and_Cultural_Practices.md` — first established mechanism anywhere in the project for how robot creation physically works, including the Ex Machina visual reference and the Upper Earth/Tepenia contrast in who initiates a robot's creation.
-- Three rounds of hand-specified demographic adjustments the same session, boosting South Korea to Primary (34.62%) — Russia's share was deliberately left untouched through most of the rework, then reduced by 3.0 points to Japan in the final round. The city was flagged for an eventual Korean rename, later resolved 2026-07-14 as Sinheung.
+- Three rounds of hand-specified demographic adjustments the same session, boosting South Korea to Primary (34.62% then; 33.00% as of 2026-11-03 after `DR-85`) — Russia's share was deliberately left untouched through most of the rework, then reduced by 3.0 points to Japan in the final round. The city was flagged for an eventual Korean rename, later resolved 2026-07-14 as Sinheung.
 
 ---
 

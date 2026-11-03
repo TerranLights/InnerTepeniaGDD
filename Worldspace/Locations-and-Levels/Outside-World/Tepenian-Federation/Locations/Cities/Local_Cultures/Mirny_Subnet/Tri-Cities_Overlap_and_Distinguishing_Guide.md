@@ -65,8 +65,8 @@ tables — not just as a token presence, but at real tier weight:
 | | Zhongshan | Sinheung | Shirayuki |
 |---|---|---|---|
 | **China** | Primary (35.83%) | Significant | Significant |
-| **South Korea** | Significant | Primary (34.62%) | Significant |
-| **Japan** | Significant | Significant | Primary (36.27%) |
+| **South Korea** | Significant | Primary (33.00%) | Significant |
+| **Japan** | Significant | Significant | Primary (34.20%) |
 
 This is the single most consequential overlap in the cluster: a Chinese-heritage character, a Korean-heritage
 character, and a Japanese-heritage character could each plausibly come from *any* of the three cities. Ethnicity
