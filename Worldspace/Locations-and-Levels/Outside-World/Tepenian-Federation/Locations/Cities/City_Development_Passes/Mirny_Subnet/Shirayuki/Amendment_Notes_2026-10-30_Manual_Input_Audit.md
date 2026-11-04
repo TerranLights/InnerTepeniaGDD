@@ -193,8 +193,7 @@ Bharati is the name of the real station, a coordinate (Register L11–L13; spec 
 
 | Source address | States | Its table or row |
 |---|---|---|
-| `Specs/Mirny subnet/Shirayuki.md` L35 (prose) | Japan **34.71%** | the table at L62 says **34.20%** |
-| `Specs/Mirny subnet/Shirayuki.md` L321 (prose) | Japan **34.71%** | L62: **34.20%** |
+| `Specs/Mirny subnet/Shirayuki.md` L35 and L321 (prose) | Japan **34.20%** | L62: **34.20%** (consistent) |
 | `Official_Population_Census.md` L422 (prose) | Japan **36.27%** | `Specs/Mirny subnet/Shirayuki.md` L62: **34.20%** |
 | `Division_of_Industry/16_Per_City_Three_Tier_Run.md` L3180 | Japan **36.27%** | flagged by the banner at `16` L3580 (current share 34.20%) |
 | `Local_Cultures/Mirny_Subnet/Shirayuki.md` L9 | Census I 1,178,313 and Census II 728,324 | census L505 and L653: 1,112,600 and 691,371 |
@@ -203,7 +202,7 @@ Other sources that quote shares from before the ruling of 2026-11-02 are listed 
 
 ### SRY-S05. Ruling label of the robot term
 
-`16` L1 and L1763 and `09` L216 cite `DR-96` for the robot-keyed term (`09` L1 cites `DR-96` and `DR-97`). The rulings log records the term in `DR-97` (`ULM/DEVELOPER_RULINGS_LOG.md` L1638–L1643); `DR-96` (L1628) is a different ruling.
+`16` L1 and L1763 and `09` L216 cite `DR-97` for the robot-keyed term, matching the rulings log (`ULM/DEVELOPER_RULINGS_LOG.md` L1638–L1643); `09` L1 cites `DR-96` and `DR-97`. Nothing to carry.
 
 ---
 

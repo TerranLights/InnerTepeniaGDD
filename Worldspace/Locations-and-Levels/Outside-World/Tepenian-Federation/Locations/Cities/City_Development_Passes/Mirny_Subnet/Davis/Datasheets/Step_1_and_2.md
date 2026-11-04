@@ -24,7 +24,7 @@
 |---|---|---|
 | Governing files for the Gate 9 audit | `Stepwise_Execution/02_Gates/G10_Gate_9_Asymmetry.md` — corrected pointer (the bare "Gate 9 card" shorthand once mis-resolved to `G09`, Gate 8 Standout) | `01_Inherited.md` §title block; cross-ref `00.0` §C |
 | The one clean pass in the Gate 9 audit | `L154`, the lakes — writes a seasonal closed state explicitly | `01_Inherited.md` §1.1, L43–46 |
-| The one outflow figure recorded as number, not mechanism | 376,718 people (Census I → II difference) | `01_Inherited.md` §1.1, L52 |
+| The one outflow figure recorded as number, not mechanism | 376,718 people (Census I → II difference) *[as recorded at the pass (2026-09-16); current: 392,957 = 1,210,432 − 817,475]* | `01_Inherited.md` §1.1, L52 |
 | Load-bearing fires, count and generator seat | 14 total — #1/#2/#3/#4/#13 → `G8` · #4 → also `G4` · #5/#6 → `G4` · #7 → `G5`→`G2`×`G3` · #8/#9 → `G3`×`G2`/`G3` · #10 → `G3` · #12 → spine · #14 → `G2` | `01_Inherited.md` §1.1, table at L66–81 |
 | `DR-7` persistence test (ruled 2026-09-14) | *"Would this material still be here if the originating nation had left and never returned?"* — YES → admissible, NO → inadmissible | `01_Inherited.md` §1.3, L138–142 |
 | `L127`'s resolution under `DR-7` | ADMISSIBLE — living knowledge did not survive, the written record does | `01_Inherited.md` §1.3, L143–148 |
@@ -50,9 +50,9 @@ the cross-check made to the pass owner's own framing, the verdict.
 | Density (computed; formula = population ÷ admin. extent) | 1,158,314 ÷ 410 = 2,825.16/km² *(as recorded at the pass (2026-09-16); since `DR-68` 1,210,432 ÷ 410 = 2,883.49/km²)* — reproduces the source's own stated density exactly | `02_Spine.md` L321, L326 |
 | Composition tiers (nation count) | Primary: 1 · Significant: 7 · Notable: **13** (corrected from an initial miscount of 14) · Total origins: **21**, largest at 19.04% *(as recorded at the pass; live composition since the 2026-11-02 rework, `DR-85`: Primary 5 · Significant 2 · Notable 38 · 45 rows, largest 10.42%)* | `02_Spine.md` L37, L107 |
 | The §7.3 wording rule (binding on every later phase) | Legal: *"people left" · "the city retained 67.48%" · "departure was available" · "Davis's robots retained at 57.87%"*. *[the figures quoted in this row and the next are as recorded at the pass (2026-09-16); live since `DR-68`: combined 67.45%, robots 58.02%, humans 77.38%]* Forbidden: any characterization of the remaining population as self-selected | `02_Spine.md` §7.3, table at L390 |
-| The re-stated central question (stripped of the presumption) | *"Davis's robots retained at 57.87% and its humans at 77.61%. What differs, at Davis, between those two populations' relation to this place?"* | `02_Spine.md` §7.3 |
+| The re-stated central question (stripped of the presumption) | *"Davis's robots retained at 57.87% and its humans at 77.61%. What differs, at Davis, between those two populations' relation to this place?"* *[as recorded at the pass (2026-09-16); current retention: robots 58.63%, humans 76.88%]* | `02_Spine.md` §7.3 |
 | "Chosen/selected" ambiguity — resolved (disposition `A`, not escalated) | Site (i) vocation: election KILLED, L143 contains no self-understanding · Site (ii) departure: election ADOPTED for motive only, no claim on the gate · Site (iii) residue: election REFUSED | `02_Spine.md` §7, L347–390 |
-| Departure figure (used to refute capability-sorting) | 126,176 humans departed = 22.39% of Davis's humans | `02_Spine.md` §7.2, L369 |
+| Departure figure (used to refute capability-sorting) | 126,176 humans departed = 22.39% of Davis's humans *[as recorded at the pass (2026-09-16); current: 136,567 humans departed = 23.12% of 590,668 (Census I humans 590,668 − Census II humans 454,101)]* | `02_Spine.md` §7.2, L369 |
 | Round 3 defects found and corrected (count) | 8 defects, all resolved 2–1 or 3–0, listed with holder/catcher/outcome | `02_Spine.md` §0, table at L27–39 |
 
 **Not mechanical / not included here:** the shape-reading argument, the four-generator comparison logic, the

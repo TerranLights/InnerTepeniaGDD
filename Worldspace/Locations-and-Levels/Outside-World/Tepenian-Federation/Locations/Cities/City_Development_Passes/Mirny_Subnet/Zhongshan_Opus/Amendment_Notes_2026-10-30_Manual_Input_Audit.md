@@ -137,6 +137,10 @@ Pass locations (language and speech): `00_Frame` L48, L327, L350 (the Federation
 | `04_Phase_05` L89, L331 | Zhongshan's entry in the relationship database | `Cities/City_Relationship_Database.md` L488-495 (freighter sentence L495) |
 | `00_Frame` L261, L361; `02_Spine` L24; `04_Phase_02` L24, L28; `04_Phase_04` L30; `04_Phase_05` L28-33; `03_Research` L32, L57 (read-in-full records) | current lengths (`wc -l`, 2026-11-03) | spec 213; `No_National_Stereotypes.md` 174; `09` 272; Highways 397; Ports 881; Airports 123; Geothermal 217; Cross-Subnet file 241; relationship database 543; research log 750 |
 
+### ZSO-020 Pre-Trip addresses
+
+The Pre-Trip (`00.0_Pre-Trip_Inspection.md`) names 111 distinct absolute addresses. 110 exist on disk. The one that does not is `Zhongshan_Opus/09.6_Input_Audit.md`. Three independent counts (2026-11-03) agree.
+
 ## D. Pre-Trip notes (ZSO-001 to ZSO-006)
 
 Dated notes sit beside three lines of `00.0_Pre-Trip_Inspection.md`; their figures are not repeated here, read the current values below. The Pre-Trip's raw block is a dated record.
@@ -167,7 +171,6 @@ Dated notes sit beside three lines of `00.0_Pre-Trip_Inspection.md`; their figur
 | SD-2 | `spec` L165 calls Russia a Significant-tier nation at 5.72% | `spec` L21 (Significant: Korea, Japan, Germany) and L36-70 (Russia split into twelve rows, 5.685 in total) |
 | SD-3 | `Cities/Local_Cultures/Mirny_Subnet/Zhongshan.md` L22-24 gives China as Primary, five Significant nations and twelve Notable | `spec` L20-22; the same culture file's L38 share list matches the spec |
 | SD-4 | The same culture file, L110, calls Mandarin the city's sole public language | `rulings log` L1563: Hawaiian is dominant in all locations (ZSO-018) |
-| SD-5 | `16` L1 and L1926 attribute the robot-keyed term to DR-96 | `rulings log` L1638-1643 (DR-97) and `16` L293 and L360 (DR-97); `09` L1 names both |
 | SD-6 | `spec` L180 (Economy and Industry) names Prydz Bay maritime logistics and a cluster economy | `16` L1942-1957: the section 15 text says Prydz Bay fishing and "NOT a trade hub" |
 
 ## G. Conclusions that rest on current inputs and may change on re-derivation

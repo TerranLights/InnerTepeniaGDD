@@ -1,4 +1,4 @@
-# Per-City Three-Tier Run — THE CALCULATION SHEET *(2026-10-28, `DR-68`: refreshed the Workforce, base%, MAND% and FREE% cells of Half B for the cities whose population changed (mandate shares held; D unchanged), from the adopted Santa Luce population scenario; rows for cities whose population did not change are untouched. The per-city determinations further down and the national food balance in files 04 and 13 were NOT recomputed.)* *(2026-11-03, `DR-96`: the robot-keyed baseline term (B3 maintenance 12.5 + B4 sustenance 3.25 = 15.75 per 1,000 robots, as `09` §3.6 defines it) is now part of the formula and of every count and percentage below, in Half B and in all 35 city sections; shares held; Abowasa and Princess Elisabeth's hypothetical row recounted on the current population. Before-and-after table: `Research_Logs/Robot_Term_Added_To_16_Before_After_2026-11-03.md`. Narrative sentences that quote older percentages (for example the register rows, the Half B discussion and ranges) were not rewritten.)*
+# Per-City Three-Tier Run — THE CALCULATION SHEET *(2026-10-28, `DR-68`: refreshed the Workforce, base%, MAND% and FREE% cells of Half B for the cities whose population changed (mandate shares held; D unchanged), from the adopted Santa Luce population scenario; rows for cities whose population did not change are untouched. The per-city determinations further down and the national food balance in files 04 and 13 were NOT recomputed.)* *(2026-11-03, `DR-97`: the robot-keyed baseline term (B3 maintenance 12.5 + B4 sustenance 3.25 = 15.75 per 1,000 robots, as `09` §3.6 defines it) is now part of the formula and of every count and percentage below, in Half B and in all 35 city sections; shares held; Abowasa and Princess Elisabeth's hypothetical row recounted on the current population. Before-and-after table: `Research_Logs/Robot_Term_Added_To_16_Before_After_2026-11-03.md`. Narrative sentences that quote older percentages (for example the register rows, the Half B discussion and ranges) were not rewritten.)*
 
 > **Opened 2026-09-02. Results not yet computed — this file currently holds the INPUT
 > REGISTER and the procedure.**
@@ -126,7 +126,7 @@ workforce          = robots + 0.5 × humans
 
 baseline           = humans   × (120.7·f·D + 85.6)/1000
                    + residents × (64·D + 113.2)/1000     + robots × 15.75/1000
-                     where f = 0.10 for the forced importers (the seven named above, and Belgrano), else 1.00; robots = residents − humans; 15.75 = B3 12.5 + B4 3.25 per 1,000 robots, added 2026-11-03 (`DR-96`) as `09` §3.6 defines it
+                     where f = 0.10 for the forced importers (the seven named above, and Belgrano), else 1.00; robots = residents − humans; 15.75 = B3 12.5 + B4 3.25 per 1,000 robots, added 2026-11-03 (`DR-97`) as `09` §3.6 defines it
 
 distinctive        = workforce − baseline
 mandated           = distinctive × Σ(national provider sector shares)
@@ -286,7 +286,7 @@ than as a class.**
 | **Kunlun** | Mirny | 2.70 | 148,497 | 30.2% | **0.0%** | **69.8%** | – |
 | **NATIONAL** | | | **24,211,482** | **43.1%** | **15.3%** | **41.5%** | |
 
-> **Relung Panen row added 2026-10-29** (it was excluded here as `{{Bunger Hills City}}`, deferred). `R` = a developer-ruled determination, not a Half A estimate: the food role (`DR-71`), the difficulty (`DR-72`) and the other mandated roles (`DR-75`) are rulings; the working is in `18_Relung_Panen_Determination_2026-10-29.md`. *(Updated 2026-11-03, `DR-96`: the cold-chain share is set at 1% of the distinctive tier; the asterisk no longer applies.)* The mandated figure is a share of the whole workforce: 39% of the distinctive tier (`DR-73`, convention B), 21.8%. **The NATIONAL row above and the "37-city" count in this heading were not recomputed with this row.** ***Robot term, 2026-11-03 (`DR-96`):** each row's base% now includes robots × 15.75 ÷ 1,000 (percentage points added = that number of workers ÷ the row's workforce); MAND% and FREE% follow with the mandate shares held (Relung Panen and Abowasa rows are set to their recounted section values). Rows keep their 2026-09-02 order, so the 'least free first' sorting no longer holds exactly. The NATIONAL row and the subnet table below are the 2026-09-02 figures and were NOT recomputed (they did not reproduce from the rows even before this change); workforce-weighted from the rows now, the base / mandated / free shares are 43.1% / 15.3% / 41.5% (DERIVED, on the rows' mixed provenance; the same weighting of the rows before the change gave 42.0% / 15.6% / 42.4%).*
+> **Relung Panen row added 2026-10-29** (it was excluded here as `{{Bunger Hills City}}`, deferred). `R` = a developer-ruled determination, not a Half A estimate: the food role (`DR-71`), the difficulty (`DR-72`) and the other mandated roles (`DR-75`) are rulings; the working is in `18_Relung_Panen_Determination_2026-10-29.md`. *(Updated 2026-11-03, `DR-96`: the cold-chain share is set at 1% of the distinctive tier; the asterisk no longer applies.)* The mandated figure is a share of the whole workforce: 39% of the distinctive tier (`DR-73`, convention B), 21.8%. **The NATIONAL row above and the "37-city" count in this heading were not recomputed with this row.** ***Robot term, 2026-11-03 (`DR-97`):** each row's base% now includes robots × 15.75 ÷ 1,000 (percentage points added = that number of workers ÷ the row's workforce); MAND% and FREE% follow with the mandate shares held (Relung Panen and Abowasa rows are set to their recounted section values). Rows keep their 2026-09-02 order, so the 'least free first' sorting no longer holds exactly. The NATIONAL row and the subnet table below are the 2026-09-02 figures and were NOT recomputed (they did not reproduce from the rows even before this change); workforce-weighted from the rows now, the base / mandated / free shares are 43.1% / 15.3% / 41.5% (DERIVED, on the rows' mixed provenance; the same weighting of the rows before the change gave 42.0% / 15.6% / 42.4%).*
 
 ## What the run says
 
@@ -487,7 +487,7 @@ Lazar are excluded** — Bunger Hills deferred by ruling, Lazar's economy explic
 | **FREE — the character budget** | 357,198 | **36.3%** |
 
 **Distinctive tier: 542,853 (55.2%).** Canon §15 maps onto it as: Technical/scientific 35% · Technical/
-engineering 20% · Education 15% · Marine 15% · Commercial 10% · Other 5%. *(counts recomputed 2026-11-03 on the current population, shares held; were baseline 413,123, mandated 181,974, free 350,115.)* *(Robot term added 2026-11-03, `DR-96`: the baseline now includes robots × 15.75 ÷ 1,000 = 10,448 workers (B3 maintenance 12.5 + B4 sustenance 3.25 per 1,000 robots), as `09` §3.6 defines it; shares held; were baseline 430,497, mandated 189,228, free 364,073, distinctive 553,301.)*
+engineering 20% · Education 15% · Marine 15% · Commercial 10% · Other 5%. *(counts recomputed 2026-11-03 on the current population, shares held; were baseline 413,123, mandated 181,974, free 350,115.)* *(Robot term added 2026-11-03, `DR-97`: the baseline now includes robots × 15.75 ÷ 1,000 = 10,448 workers (B3 maintenance 12.5 + B4 sustenance 3.25 per 1,000 robots), as `09` §3.6 defines it; shares held; were baseline 430,497, mandated 189,228, free 364,073, distinctive 553,301.)*
 
 ### The mandate, itemized
 
@@ -555,7 +555,7 @@ coast — which is Hwy 7's own route. Belgrano is the western terminus, so it co
 | **FREE — the character budget** | 191,803 | **22.7%** |
 
 **Distinctive tier: 548,008 (64.9%).** Canon §15: Aviation/logistics ~35% · Maritime/port ~20% ·
-Technical/mechanical maintenance ~20% · Industrial ~15% · Other ~10%. *(counts recomputed 2026-11-03 on the current population, shares held; were baseline 274,151, mandated 345,654, free 186,122.)* *(Robot term added 2026-11-03, `DR-96`: the baseline now includes robots × 15.75 ÷ 1,000 = 8,899 workers (B3 maintenance 12.5 + B4 sustenance 3.25 per 1,000 robots), as `09` §3.6 defines it; shares held; were baseline 287,606, mandated 361,989, free 194,918, distinctive 556,907.)*
+Technical/mechanical maintenance ~20% · Industrial ~15% · Other ~10%. *(counts recomputed 2026-11-03 on the current population, shares held; were baseline 274,151, mandated 345,654, free 186,122.)* *(Robot term added 2026-11-03, `DR-97`: the baseline now includes robots × 15.75 ÷ 1,000 = 8,899 workers (B3 maintenance 12.5 + B4 sustenance 3.25 per 1,000 robots), as `09` §3.6 defines it; shares held; were baseline 287,606, mandated 361,989, free 194,918, distinctive 556,907.)*
 
 ### ⚠ GEOLOGY CORRECTED FIRST — Belgrano is ice-shelf, not rock
 
@@ -606,7 +606,7 @@ re-engineered the design)*, and the paused-Cradle-candidate status is potential,
 | **FREE — the character budget** | 455,040 | **40.1%** |
 
 **Distinctive tier: 627,641 (55.3%).** Canon §15: Technical/scientific 25% · Marine/resource extraction 20%
-*(indirect — no own docks)* · Commercial 20% · Technical/Arcanet 15% · Industrial 12% · Other 8%. *(counts recomputed 2026-11-03 on the current population, shares held; were baseline 478,952, mandated 170,093, free 448,426.)* *(Robot term added 2026-11-03, `DR-96`: the baseline now includes robots × 15.75 ÷ 1,000 = 12,090 workers (B3 maintenance 12.5 + B4 sustenance 3.25 per 1,000 robots), as `09` §3.6 defines it; shares held; were baseline 496,326, mandated 175,926, free 463,804, distinctive 639,730.)*
+*(indirect — no own docks)* · Commercial 20% · Technical/Arcanet 15% · Industrial 12% · Other 8%. *(counts recomputed 2026-11-03 on the current population, shares held; were baseline 478,952, mandated 170,093, free 448,426.)* *(Robot term added 2026-11-03, `DR-97`: the baseline now includes robots × 15.75 ÷ 1,000 = 12,090 workers (B3 maintenance 12.5 + B4 sustenance 3.25 per 1,000 robots), as `09` §3.6 defines it; shares held; were baseline 496,326, mandated 175,926, free 463,804, distinctive 639,730.)*
 
 ### The mandate, itemized
 
@@ -662,7 +662,7 @@ western terminus. Fixed in `City_Master_Reference/Halley_Subnet_Reference.md`.
 
 **Distinctive tier: 186,955 (53.2%).** Canon §15: Technical/scientific 25% · Marine 15% · Commercial 15% ·
 Industrial 15% · Education 15% · Other 15%. **Canon flags this itself** as *"genuinely modest, no dominant
-sector,"* a *"small-scale economy,"* a city *"never a major economic node."* *(Robot term added 2026-11-03, `DR-96`: the baseline now includes robots × 15.75 ÷ 1,000 = 3,734 workers (B3 maintenance 12.5 + B4 sustenance 3.25 per 1,000 robots), as `09` §3.6 defines it; shares held; were baseline 355,900, mandated 42,622, free 383,600, distinctive 426,222. The mandate share (10% of distinctive) stays HELD as the developer directed (see below); only the counts were recounted, on workforce 351,435 (were computed on 782,122: baseline 355,900, mandated 42,622, free 383,600, distinctive 426,222).)*
+sector,"* a *"small-scale economy,"* a city *"never a major economic node."* *(Robot term added 2026-11-03, `DR-97`: the baseline now includes robots × 15.75 ÷ 1,000 = 3,734 workers (B3 maintenance 12.5 + B4 sustenance 3.25 per 1,000 robots), as `09` §3.6 defines it; shares held; were baseline 355,900, mandated 42,622, free 383,600, distinctive 426,222. The mandate share (10% of distinctive) stays HELD as the developer directed (see below); only the counts were recounted, on workforce 351,435 (were computed on 782,122: baseline 355,900, mandated 42,622, free 383,600, distinctive 426,222).)*
 
 ### ⚠ Why this one is HELD rather than determined
 
@@ -714,7 +714,7 @@ only be answered once every city's supply and obligation is on the table.
 
 **Distinctive tier: 210,041 (54.3%).** Canon §15 *(rewritten 2026-07-04 per developer vision)*:
 Port/shipyard 30% · Trucking/logistics 20% · Warehousing/import-export 15% · Industrial/manufacturing
-(repair) 15% · Technical/scientific 10% · Other 10%. *(counts recomputed 2026-11-03 on the current population, shares held; were baseline 154,715, mandated 140,045, free 53,121.)* *(Robot term added 2026-11-03, `DR-96`: the baseline now includes robots × 15.75 ÷ 1,000 = 4,050 workers (B3 maintenance 12.5 + B4 sustenance 3.25 per 1,000 robots), as `09` §3.6 defines it; shares held; were baseline 172,375, mandated 155,216, free 58,875, distinctive 214,091.)*
+(repair) 15% · Technical/scientific 10% · Other 10%. *(counts recomputed 2026-11-03 on the current population, shares held; were baseline 154,715, mandated 140,045, free 53,121.)* *(Robot term added 2026-11-03, `DR-97`: the baseline now includes robots × 15.75 ÷ 1,000 = 4,050 workers (B3 maintenance 12.5 + B4 sustenance 3.25 per 1,000 robots), as `09` §3.6 defines it; shares held; were baseline 172,375, mandated 155,216, free 58,875, distinctive 214,091.)*
 
 ### The mandate, itemized
 
@@ -768,7 +768,7 @@ would be inventing a sector allocation canon does not state.** Added to the revi
 
 **Distinctive tier: 411,354 (54.5%).** Canon §15 *(established 2026-07-04, developer vision session)*:
 Commercial/logistics 30% · Technical/scientific 20% · Marine/resource extraction 15% ·
-Industrial/manufacturing 15% · Education 12% · Other 8%. *(counts recomputed 2026-11-03 on the current population, shares held; were baseline 318,227, mandated 119,509, free 278,854.)* *(Robot term added 2026-11-03, `DR-96`: the baseline now includes robots × 15.75 ÷ 1,000 = 7,935 workers (B3 maintenance 12.5 + B4 sustenance 3.25 per 1,000 robots), as `09` §3.6 defines it; shares held; were baseline 335,886, mandated 125,787, free 293,501, distinctive 419,288.)*
+Industrial/manufacturing 15% · Education 12% · Other 8%. *(counts recomputed 2026-11-03 on the current population, shares held; were baseline 318,227, mandated 119,509, free 278,854.)* *(Robot term added 2026-11-03, `DR-97`: the baseline now includes robots × 15.75 ÷ 1,000 = 7,935 workers (B3 maintenance 12.5 + B4 sustenance 3.25 per 1,000 robots), as `09` §3.6 defines it; shares held; were baseline 335,886, mandated 125,787, free 293,501, distinctive 419,288.)*
 
 ### The mandate: one sector, entire
 
@@ -844,7 +844,7 @@ time the extraction half has been the more natural read.**
 | **FREE — the character budget** | 372,319 | **41.4%** |
 
 **Distinctive tier: 496,426 (55.2%).** Canon §15: Technical/scientific 25% · Industrial/manufacturing 20% ·
-Commercial 20% · Marine/resource extraction 15% · Education 12% · Other 8%. *(counts recomputed 2026-11-03 on the current population, shares held; were baseline 375,938, mandated 121,274, free 363,821.)* *(Robot term added 2026-11-03, `DR-96`: the baseline now includes robots × 15.75 ÷ 1,000 = 9,595 workers (B3 maintenance 12.5 + B4 sustenance 3.25 per 1,000 robots), as `09` §3.6 defines it; shares held; were baseline 393,598, mandated 126,505, free 379,515, distinctive 506,020.)*
+Commercial 20% · Marine/resource extraction 15% · Education 12% · Other 8%. *(counts recomputed 2026-11-03 on the current population, shares held; were baseline 375,938, mandated 121,274, free 363,821.)* *(Robot term added 2026-11-03, `DR-97`: the baseline now includes robots × 15.75 ÷ 1,000 = 9,595 workers (B3 maintenance 12.5 + B4 sustenance 3.25 per 1,000 robots), as `09` §3.6 defines it; shares held; were baseline 393,598, mandated 126,505, free 379,515, distinctive 506,020.)*
 
 ### ⭐⭐ The first city whose export is ASSERTED, not derived
 
@@ -946,7 +946,7 @@ Elisabeth — with **Lazar deferred by developer ruling.***
 | **FREE — the character budget** | 36,964 | **26.0%** |
 
 **Distinctive tier: 82,142 (57.8%).** Canon §15: Biological/ecological research 30% · Marine/fishing 30% ·
-Maritime trade 20% · Technical/maintenance 15% · Other 5%. *(Robot term added 2026-11-03, `DR-96`: the baseline now includes robots × 15.75 ÷ 1,000 = 1,505 workers (B3 maintenance 12.5 + B4 sustenance 3.25 per 1,000 robots), as `09` §3.6 defines it; shares held; were baseline 58,480, mandated 46,006, free 37,641, distinctive 83,647.)*
+Maritime trade 20% · Technical/maintenance 15% · Other 5%. *(Robot term added 2026-11-03, `DR-97`: the baseline now includes robots × 15.75 ÷ 1,000 = 1,505 workers (B3 maintenance 12.5 + B4 sustenance 3.25 per 1,000 robots), as `09` §3.6 defines it; shares held; were baseline 58,480, mandated 46,006, free 37,641, distinctive 83,647.)*
 
 ### The mandate, itemized *(developer ruling, 2026-09-02)*
 
@@ -1033,7 +1033,7 @@ wildlife work and long-term monitoring are also genuine pure science.
 
 **Distinctive tier: 289,798 (59.6%).** Canon §15 *(2026-07-04)*: Commercial/trade 25% · Technical/scientific
 20% · Diplomatic/inter-community coordination 15% · Marine/resource extraction 15% · Education 15% ·
-Other 10%. *(Robot term added 2026-11-03, `DR-96`: the baseline now includes robots × 15.75 ÷ 1,000 = 5,168 workers (B3 maintenance 12.5 + B4 sustenance 3.25 per 1,000 robots), as `09` §3.6 defines it; shares held; were baseline 191,522, mandated 73,741, free 221,224, distinctive 294,966.)*
+Other 10%. *(Robot term added 2026-11-03, `DR-97`: the baseline now includes robots × 15.75 ÷ 1,000 = 5,168 workers (B3 maintenance 12.5 + B4 sustenance 3.25 per 1,000 robots), as `09` §3.6 defines it; shares held; were baseline 191,522, mandated 73,741, free 221,224, distinctive 294,966.)*
 
 ### The mandate
 
@@ -1096,7 +1096,7 @@ sector for. Register item 6.
 | **FREE — the character budget** | 104,344 | **35.8%** |
 
 **Distinctive tier: 173,906 (59.6%).** Canon §15: Maritime/fishing 30% · Commercial/trade 20% ·
-Technical/scientific 20% · Cultural/social institutions 15% · Other 15%. *(Robot term added 2026-11-03, `DR-96`: the baseline now includes robots × 15.75 ÷ 1,000 = 3,102 workers (B3 maintenance 12.5 + B4 sustenance 3.25 per 1,000 robots), as `09` §3.6 defines it; shares held; were baseline 114,813, mandated 70,803, free 106,205, distinctive 177,008.)*
+Technical/scientific 20% · Cultural/social institutions 15% · Other 15%. *(Robot term added 2026-11-03, `DR-97`: the baseline now includes robots × 15.75 ÷ 1,000 = 3,102 workers (B3 maintenance 12.5 + B4 sustenance 3.25 per 1,000 robots), as `09` §3.6 defines it; shares held; were baseline 114,813, mandated 70,803, free 106,205, distinctive 177,008.)*
 
 ### The mandate *(developer ruling B, 2026-09-02)*
 
@@ -1339,7 +1339,7 @@ established in the 2026-07-06 vision session)*.
 
 **Distinctive tier: 530,445 (59.3%)** *(counts in this section refreshed 2026-11-02, `DR-90`, from the 1,418,467-worker city to the 1,200,000-person city, workforce 894,835; shares and rulings held; rounded)*. Canon §15: Education/childcare/family ~25% · Maritime/harbor trade
 ~20% · Commercial ~15% · Technical/scientific ~15% · Agricultural/food production ~15% ·
-Other/administrative ~10%. *(Robot term added 2026-11-03, `DR-96`: the baseline now includes robots × 15.75 ÷ 1,000 = 9,287 workers (B3 maintenance 12.5 + B4 sustenance 3.25 per 1,000 robots), as `09` §3.6 defines it; shares held; were baseline 355,249, mandated 229,324, free 310,262, distinctive 539,586.)*
+Other/administrative ~10%. *(Robot term added 2026-11-03, `DR-97`: the baseline now includes robots × 15.75 ÷ 1,000 = 9,287 workers (B3 maintenance 12.5 + B4 sustenance 3.25 per 1,000 robots), as `09` §3.6 defines it; shares held; were baseline 355,249, mandated 229,324, free 310,262, distinctive 539,586.)*
 
 **⭐ Esperanza carries THREE national roles** — `04` §3 lists it **FOOD · EDUC · MEDICINE**.
 
@@ -1464,7 +1464,7 @@ Institute *is* Esperanza's education mandate — **the exact opposite of the hal
 | **FREE — the character budget** | 74,048 | **17.3%** |
 
 **Distinctive tier: 246,828 (57.6%).** Canon §15 *(revised 2026-07-16)*: Aviation/logistics 30% ·
-Maritime/port operations 30% · Technical/maintenance 20% · Commercial/trade 15% · Other 5%. *(Robot term added 2026-11-03, `DR-96`: the baseline now includes robots × 15.75 ÷ 1,000 = 4,518 workers (B3 maintenance 12.5 + B4 sustenance 3.25 per 1,000 robots), as `09` §3.6 defines it; shares held; were baseline 177,203, mandated 175,942, free 75,404, distinctive 251,345.)*
+Maritime/port operations 30% · Technical/maintenance 20% · Commercial/trade 15% · Other 5%. *(Robot term added 2026-11-03, `DR-97`: the baseline now includes robots × 15.75 ÷ 1,000 = 4,518 workers (B3 maintenance 12.5 + B4 sustenance 3.25 per 1,000 robots), as `09` §3.6 defines it; shares held; were baseline 177,203, mandated 175,942, free 75,404, distinctive 251,345.)*
 
 ### The mandate *(developer ruling B, 2026-09-02)*
 
@@ -1528,7 +1528,7 @@ national by the same reasoning.
 | **FREE — the character budget** | 87,194 | **34.9%** |
 
 **Distinctive tier: 149,476 (59.8%).** §15: Entertainment/hospitality 35% · Commercial/trade 20% ·
-Cultural institutions/arts 15% · Technical/scientific 10% · Marine/resource extraction 10% · Other 10%. *(Robot term added 2026-11-03, `DR-96`: the baseline now includes robots × 15.75 ÷ 1,000 = 2,629 workers (B3 maintenance 12.5 + B4 sustenance 3.25 per 1,000 robots), as `09` §3.6 defines it; shares held; were baseline 97,747, mandated 63,377, free 88,728, distinctive 152,105.)*
+Cultural institutions/arts 15% · Technical/scientific 10% · Marine/resource extraction 10% · Other 10%. *(Robot term added 2026-11-03, `DR-97`: the baseline now includes robots × 15.75 ÷ 1,000 = 2,629 workers (B3 maintenance 12.5 + B4 sustenance 3.25 per 1,000 robots), as `09` §3.6 defines it; shares held; were baseline 97,747, mandated 63,377, free 88,728, distinctive 152,105.)*
 
 ### The mandate *(developer ruling, 2026-09-02)*
 
@@ -1618,7 +1618,7 @@ budget is work with no relationship to Upper Earth at all.**
 | **FREE — the character budget** | 386 | **55.1%** |
 
 **Distinctive tier: 406 (57.9%)** *(counts in this section refreshed 2026-11-02, `DR-89`, from the old 97,218-worker city to the 929-person city: workforce 701; shares held; counts rounded)*. Canon §15: Maritime trade 30% · Heritage/cultural preservation 25% ·
-Commercial/small trade 20% · Technical/maintenance 15% · Other 10%. *(Robot term added 2026-11-03, `DR-96`: the baseline now includes robots × 15.75 ÷ 1,000 = 7 workers (B3 maintenance 12.5 + B4 sustenance 3.25 per 1,000 robots), as `09` §3.6 defines it; shares held; were baseline 287, mandated 21, free 393, distinctive 414.)*
+Commercial/small trade 20% · Technical/maintenance 15% · Other 10%. *(Robot term added 2026-11-03, `DR-97`: the baseline now includes robots × 15.75 ÷ 1,000 = 7 workers (B3 maintenance 12.5 + B4 sustenance 3.25 per 1,000 robots), as `09` §3.6 defines it; shares held; were baseline 287, mandated 21, free 393, distinctive 414.)*
 
 ### The mandate
 
@@ -1681,7 +1681,7 @@ deferred until after the division-of-industry pass, consistent with the Sejong h
 > **⭐ Mandated and free land EXACTLY equal — the mandate is precisely 50% of the distinctive tier.**
 
 **Distinctive tier: 144,187 (60.0%).** Canon §15: Industrial/manufacturing 40% · Marine/resource extraction
-20% · Aviation/logistics 15% · Technical/scientific 10% · Commercial/trade 10% · Other 5%. *(Robot term added 2026-11-03, `DR-96`: the baseline now includes robots × 15.75 ÷ 1,000 = 2,578 workers (B3 maintenance 12.5 + B4 sustenance 3.25 per 1,000 robots), as `09` §3.6 defines it; shares held; were baseline 93,804, mandated 73,382, free 73,382, distinctive 146,765.)*
+20% · Aviation/logistics 15% · Technical/scientific 10% · Commercial/trade 10% · Other 5%. *(Robot term added 2026-11-03, `DR-97`: the baseline now includes robots × 15.75 ÷ 1,000 = 2,578 workers (B3 maintenance 12.5 + B4 sustenance 3.25 per 1,000 robots), as `09` §3.6 defines it; shares held; were baseline 93,804, mandated 73,382, free 73,382, distinctive 146,765.)*
 
 ### The mandate *(developer ruling, 2026-09-02)*
 
@@ -1760,7 +1760,7 @@ Marambio · Palmer City · Port Lockroy · Rothera.*
 | **FREE — the character budget** | 389,348 | **46.4%** |
 
 **Distinctive tier: 486,685 (58.0%).** Canon §15: Scientific/research 25% · Arts, music, fashion/cultural
-institutions 25% · Education 20% · Commercial/trade 15% · Other 15%. *(counts recomputed 2026-11-03 on the current population, shares held; were baseline 363,971, mandated 105,222, free 420,886.)* *(Robot term added 2026-11-03, `DR-96`: the baseline now includes robots × 15.75 ÷ 1,000 = 8,926 workers (B3 maintenance 12.5 + B4 sustenance 3.25 per 1,000 robots), as `09` §3.6 defines it; shares held; were baseline 344,044, mandated 99,122, free 396,488, distinctive 495,610.)*
+institutions 25% · Education 20% · Commercial/trade 15% · Other 15%. *(counts recomputed 2026-11-03 on the current population, shares held; were baseline 363,971, mandated 105,222, free 420,886.)* *(Robot term added 2026-11-03, `DR-97`: the baseline now includes robots × 15.75 ÷ 1,000 = 8,926 workers (B3 maintenance 12.5 + B4 sustenance 3.25 per 1,000 robots), as `09` §3.6 defines it; shares held; were baseline 344,044, mandated 99,122, free 396,488, distinctive 495,610.)*
 
 ### The mandate
 
@@ -1835,13 +1835,13 @@ MATERIALLY harmed. That is exactly the line the mandate test draws.**
 
 | Tier | Workers | Share |
 |---|--:|--:|
-| **Baseline** *(D=1.25, **GROWER** — Larsemann Hills, rock-founded, food term 100%)* | 321,100 | **41.9%** |
+| **Baseline** *(D=1.25, **GROWER** — Larsemann Hills, rock-founded, food term 100%)* | 321,100 | **41.8%** |
 | **Mandated** | 211,975 | **27.6%** |
 | **FREE — the character budget** | 234,288 | **30.5%** |
 
-**Distinctive tier: 446,263 (58.1%).** Canon §15 *(revised 2026-07-06, vision session)*: Industrial
+**Distinctive tier: 446,263 (58.2%).** Canon §15 *(revised 2026-07-06, vision session)*: Industrial
 fabrication 45% · Technical/scientific 15% · Commercial/trade 15% · Marine/resource extraction 10% ·
-Diplomatic/inter-community 10% · Education/other 5%. *(counts recomputed 2026-11-03 on the current population, shares held; were baseline 329,374, mandated 228,180, free 252,199.)* *(Robot term added 2026-11-03, `DR-96`: the baseline now includes robots × 15.75 ÷ 1,000 = 8,193 workers (B3 maintenance 12.5 + B4 sustenance 3.25 per 1,000 robots), as `09` §3.6 defines it; shares held; were baseline 312,907, mandated 215,866, free 238,589, distinctive 454,455.)*
+Diplomatic/inter-community 10% · Education/other 5%. *(counts recomputed 2026-11-03 on the current population, shares held; were baseline 329,374, mandated 228,180, free 252,199.)* *(Robot term added 2026-11-03, `DR-97`: the baseline now includes robots × 15.75 ÷ 1,000 = 8,193 workers (B3 maintenance 12.5 + B4 sustenance 3.25 per 1,000 robots), as `09` §3.6 defines it; shares held; were baseline 312,907, mandated 215,866, free 238,589, distinctive 454,455.)*
 
 ### The mandate *(developer ruling C, 2026-09-02)*
 
@@ -1853,7 +1853,7 @@ Diplomatic/inter-community 10% · Education/other 5%. *(counts recomputed 2026-1
 
 ### ⭐⭐ The fabrication 45% may be the most load-bearing single sector in Tepenia
 
-**216,171 workers — the highest single sector in the entire Division-of-Industry corpus.** What it makes:
+**200,818 workers — the highest single sector in the entire Division-of-Industry corpus.** What it makes:
 
 > ***"Fabrication-synthesis chambers… the actual apparatus that creates robots"*** — shipped nationwide, so
 > that ***"a robot can be 'born' (built) in any Tepenian city regardless of whether that city has its own
@@ -1891,7 +1891,7 @@ mandating all of it would conscript the *"other"* alongside the school.
 > **⚠ Honest caveat: the Institute has NO established headcount.** Esperanza's is ~3,150 and Belgrano's
 > ~1,750; `National_Medical` says Sinheung's throughput is *"much smaller than the robot share of the
 > population suggests — it replaces people who changed their minds, not people who died,"* since robot
-> career turnover is **voluntary rather than mortality**. **So 12,010 probably overstates it — but the sector
+> career turnover is **voluntary rather than mortality**. **So 11,157 probably overstates it — but the sector
 > granularity does not go finer, and zero understates it worse.**
 
 ### What stays FREE — all on established precedent
@@ -1923,7 +1923,7 @@ mandating all of it would conscript the *"other"* alongside the school.
 | **FREE — the character budget** | 385,466 | **42.6%** |
 
 **Distinctive tier: 522,666 (57.7%).** Canon §15: Technical/scientific ~35% · Industrial/manufacturing ~25% ·
-Marine resource extraction ~15% · Commercial ~15% · Education ~7% · Other ~3%. *(counts recomputed 2026-11-03 on the current population, shares held; were baseline 396,635, mandated 148,786, free 418,019.)* *(Robot term added 2026-11-03, `DR-96`: the baseline now includes robots × 15.75 ÷ 1,000 = 9,572 workers (B3 maintenance 12.5 + B4 sustenance 3.25 per 1,000 robots), as `09` §3.6 defines it; shares held; were baseline 373,442, mandated 139,712, free 392,526, distinctive 532,238.)*
+Marine resource extraction ~15% · Commercial ~15% · Education ~7% · Other ~3%. *(counts recomputed 2026-11-03 on the current population, shares held; were baseline 396,635, mandated 148,786, free 418,019.)* *(Robot term added 2026-11-03, `DR-97`: the baseline now includes robots × 15.75 ÷ 1,000 = 9,572 workers (B3 maintenance 12.5 + B4 sustenance 3.25 per 1,000 robots), as `09` §3.6 defines it; shares held; were baseline 373,442, mandated 139,712, free 392,526, distinctive 532,238.)*
 
 ### The mandate *(developer ruling, 2026-09-02)*
 
@@ -2013,7 +2013,7 @@ that a city still needs people doing other things.**
 
 **Distinctive tier: 531,803 (58.1%).** Canon §15 *(developer vision 2026-07-05, revised 2026-07-16)*:
 Agricultural/food production ~35% · Technical/scientific ~25% · Maritime ~15% · Commercial ~15% ·
-Industrial ~5% · Other ~5%. *(counts recomputed 2026-11-03 on the current population, shares held; were baseline 357,063, mandated 246,740, free 272,712.)* *(Robot term added 2026-11-03, `DR-96`: the baseline now includes robots × 15.75 ÷ 1,000 = 9,761 workers (B3 maintenance 12.5 + B4 sustenance 3.25 per 1,000 robots), as `09` §3.6 defines it; shares held; were baseline 373,534, mandated 257,243, free 284,321, distinctive 541,564.)*
+Industrial ~5% · Other ~5%. *(counts recomputed 2026-11-03 on the current population, shares held; were baseline 357,063, mandated 246,740, free 272,712.)* *(Robot term added 2026-11-03, `DR-97`: the baseline now includes robots × 15.75 ÷ 1,000 = 9,761 workers (B3 maintenance 12.5 + B4 sustenance 3.25 per 1,000 robots), as `09` §3.6 defines it; shares held; were baseline 373,534, mandated 257,243, free 284,321, distinctive 541,564.)*
 
 ### The mandate *(developer ruling B, 2026-09-02 — provisional, see review flag)*
 
@@ -2089,9 +2089,9 @@ mandated sector.**
 ### ⚠⚠ REGISTER ITEM 11 IS LIVE IN THIS CITY'S OWN PUBLISHED NUMBERS
 
 **`04` §3 states: *"Davis alone: 306,780 producers ÷ 15,623,523 = 1 per 51."*** That is **35% of the WHOLE
-WORKFORCE.** **`16`'s convention gives 181,808** — 35% of *distinctive*.
+WORKFORCE** *(file `04` is not recomputed; 35% of Davis's current whole workforce of 915,098 is 320,284)*. **`16`'s convention gives 186,131** — 35% of *distinctive* (531,803).
 
-> **Same sector, same city, 124,972 workers apart — and `04` built a memorable national ratio on the larger
+> **Same sector, same city, 134,153 workers apart (320,284 against 186,131) — and `04` built a memorable national ratio on the larger
 > figure.** **The clearest instance yet of why the denominator must be settled in the end-of-pass re-run.**
 
 ### Notes
@@ -2103,7 +2103,7 @@ WORKFORCE.** **`16`'s convention gives 181,808** — 35% of *distinctive*.
 - **⭐ Kinship is collective research credit, not teaching lineage** — a founding-era decision to decline solo
   credit set the norm. **A robot's "family" is whoever she shares discovery-credit with.** *(Sits directly on
   top of the half-mandated research sector.)*
-- **Human-majority reversal** — 437,423 H / 344,173 R at Census II, rare in this corpus.
+- **Human-majority reversal** — 454,101 H / 363,374 R at Census II, rare in this corpus.
 
 ---
 
@@ -2116,7 +2116,7 @@ WORKFORCE.** **`16`'s convention gives 181,808** — 35% of *distinctive*.
 | **FREE — the character budget** | 366,502 | **34.7%** |
 
 **Distinctive tier: 610,836 (57.8%).** Canon §15: Communications/Arcanet ~20% · Technical/scientific ~20% ·
-Industrial/manufacturing ~20% · Maritime ~15% · Commercial ~15% · Other ~10%. *(counts recomputed 2026-11-03 on the current population, shares held; were baseline 418,565, mandated 239,966, free 359,949.)* *(Robot term added 2026-11-03, `DR-96`: the baseline now includes robots × 15.75 ÷ 1,000 = 11,192 workers (B3 maintenance 12.5 + B4 sustenance 3.25 per 1,000 robots), as `09` §3.6 defines it; shares held; were baseline 435,036, mandated 248,811, free 373,217, distinctive 622,028.)*
+Industrial/manufacturing ~20% · Maritime ~15% · Commercial ~15% · Other ~10%. *(counts recomputed 2026-11-03 on the current population, shares held; were baseline 418,565, mandated 239,966, free 359,949.)* *(Robot term added 2026-11-03, `DR-97`: the baseline now includes robots × 15.75 ÷ 1,000 = 11,192 workers (B3 maintenance 12.5 + B4 sustenance 3.25 per 1,000 robots), as `09` §3.6 defines it; shares held; were baseline 435,036, mandated 248,811, free 373,217, distinctive 622,028.)*
 
 ### The mandate *(developer ruling C, 2026-09-02 — "there's not even a question about it")*
 
@@ -2187,7 +2187,7 @@ explicitly **not** to Concordia, a different subnet, severed by the Split Brain)
 | **FREE — the character budget** | 491,945 | **42.1%** |
 
 **Distinctive tier: 702,779 (60.2%).** Canon §15: Transit/logistics/resupply ~30% · Commercial ~20% ·
-Technical/scientific ~15% · Maritime ~15% · Industrial/manufacturing ~10% · Other ~10%. *(counts recomputed 2026-11-03 on the current population, shares held; were baseline 436,698, mandated 207,641, free 484,495.)* *(Robot term added 2026-11-03, `DR-96`: the baseline now includes robots × 15.75 ÷ 1,000 = 12,395 workers (B3 maintenance 12.5 + B4 sustenance 3.25 per 1,000 robots), as `09` §3.6 defines it; shares held; were baseline 452,244, mandated 214,552, free 500,622, distinctive 715,174.)*
+Technical/scientific ~15% · Maritime ~15% · Industrial/manufacturing ~10% · Other ~10%. *(counts recomputed 2026-11-03 on the current population, shares held; were baseline 436,698, mandated 207,641, free 484,495.)* *(Robot term added 2026-11-03, `DR-97`: the baseline now includes robots × 15.75 ÷ 1,000 = 12,395 workers (B3 maintenance 12.5 + B4 sustenance 3.25 per 1,000 robots), as `09` §3.6 defines it; shares held; were baseline 452,244, mandated 214,552, free 500,622, distinctive 715,174.)*
 
 ### The mandate *(developer ruling A, 2026-09-02)*
 
@@ -2262,7 +2262,7 @@ actual defining fact, rather than smoothed over.**
 | **FREE — the character budget** | 64,805 | **43.6%** |
 
 **Distinctive tier: 103,688 (69.8%).** Canon §15: Astronomy 60% · Ice core science 15% · Religious
-practice/pilgrimage infrastructure 15% · Altitude-legacy medical infrastructure/facility maintenance 10%. *(counts recomputed 2026-11-03 on the current population, shares held; were baseline 35,306, mandated 33,054, free 55,089.)* *(Robot term added 2026-11-03, `DR-96`: the baseline now includes robots × 15.75 ÷ 1,000 = 2,339 workers (B3 maintenance 12.5 + B4 sustenance 3.25 per 1,000 robots), as `09` §3.6 defines it; shares held; were baseline 42,470, mandated 39,761, free 66,266, distinctive 106,027.)*
+practice/pilgrimage infrastructure 15% · Altitude-legacy medical infrastructure/facility maintenance 10%. *(counts recomputed 2026-11-03 on the current population, shares held; were baseline 35,306, mandated 33,054, free 55,089.)* *(Robot term added 2026-11-03, `DR-97`: the baseline now includes robots × 15.75 ÷ 1,000 = 2,339 workers (B3 maintenance 12.5 + B4 sustenance 3.25 per 1,000 robots), as `09` §3.6 defines it; shares held; were baseline 42,470, mandated 39,761, free 66,266, distinctive 106,027.)*
 
 ### The mandate *(developer ruling, 2026-09-02 — provisional)*
 
@@ -2355,7 +2355,7 @@ not already specified.**
 | **FREE — the character budget** | 148,383 | **40.9%** |
 
 **Distinctive tier: 219,827 (60.6%).** Canon §15: Science *(Lake Vostok research program)* 65% ·
-Self-sufficiency/survival infrastructure 25% · Other 10%. *(counts recomputed 2026-11-03 on the current population, shares held; were baseline 121,353, mandated 66,007, free 137,092.)* *(Robot term added 2026-11-03, `DR-96`: the baseline now includes robots × 15.75 ÷ 1,000 = 4,484 workers (B3 maintenance 12.5 + B4 sustenance 3.25 per 1,000 robots), as `09` §3.6 defines it; shares held; were baseline 138,725, mandated 72,900, free 151,411, distinctive 224,311.)*
+Self-sufficiency/survival infrastructure 25% · Other 10%. *(counts recomputed 2026-11-03 on the current population, shares held; were baseline 121,353, mandated 66,007, free 137,092.)* *(Robot term added 2026-11-03, `DR-97`: the baseline now includes robots × 15.75 ÷ 1,000 = 4,484 workers (B3 maintenance 12.5 + B4 sustenance 3.25 per 1,000 robots), as `09` §3.6 defines it; shares held; were baseline 138,725, mandated 72,900, free 151,411, distinctive 224,311.)*
 
 ### The mandate *(developer ruling B, 2026-09-02)*
 
@@ -2438,7 +2438,7 @@ Casey · Kunlun · Vostok.*
 | **FREE — the character budget** | 159,477 | **46.7%** |
 
 **Distinctive tier: 173,975 (50.9%).** Canon §15: Marine/resource extraction 25% · Technical/scientific 25% ·
-Commercial 20% · Industrial/manufacturing 15% · Education 8% · Other 7%. *(Robot term added 2026-11-03, `DR-96`: the baseline now includes robots × 15.75 ÷ 1,000 = 3,619 workers (B3 maintenance 12.5 + B4 sustenance 3.25 per 1,000 robots), as `09` §3.6 defines it; shares held; were baseline 163,966, mandated 14,799, free 162,794, distinctive 177,593.)*
+Commercial 20% · Industrial/manufacturing 15% · Education 8% · Other 7%. *(Robot term added 2026-11-03, `DR-97`: the baseline now includes robots × 15.75 ÷ 1,000 = 3,619 workers (B3 maintenance 12.5 + B4 sustenance 3.25 per 1,000 robots), as `09` §3.6 defines it; shares held; were baseline 163,966, mandated 14,799, free 162,794, distinctive 177,593.)*
 
 ### The mandate *(developer ruling B, 2026-09-02)*
 
@@ -2586,7 +2586,7 @@ defending the same thing from opposite ends.**
 | **FREE — the character budget** | 214,182 | **29.6%** |
 
 **Distinctive tier: 329,511 (45.6%).** Canon §15: Structural/wind engineering ~25% · Technical/scientific
-~20% · Industrial/manufacturing ~20% · Commercial ~15% · Education ~10% · Other ~10%. *(counts recomputed 2026-11-03 on the current population, shares held; were baseline 428,167, mandated 131,771, free 244,718.)* *(Robot term added 2026-11-03, `DR-96`: the baseline now includes robots × 15.75 ÷ 1,000 = 7,666 workers (B3 maintenance 12.5 + B4 sustenance 3.25 per 1,000 robots), as `09` §3.6 defines it; shares held; were baseline 385,364, mandated 118,012, free 219,165, distinctive 337,177.)*
+~20% · Industrial/manufacturing ~20% · Commercial ~15% · Education ~10% · Other ~10%. *(counts recomputed 2026-11-03 on the current population, shares held; were baseline 428,167, mandated 131,771, free 244,718.)* *(Robot term added 2026-11-03, `DR-97`: the baseline now includes robots × 15.75 ÷ 1,000 = 7,666 workers (B3 maintenance 12.5 + B4 sustenance 3.25 per 1,000 robots), as `09` §3.6 defines it; shares held; were baseline 385,364, mandated 118,012, free 219,165, distinctive 337,177.)*
 
 ### The mandate *(developer ruling B, 2026-09-02)*
 
@@ -2668,7 +2668,7 @@ function; only the sector was open.**
 | **FREE — the character budget** | 418,990 | **35.9%** |
 
 **Distinctive tier: 670,384 (57.5%).** Canon §15 *(corrected 2026-08-31)*: Marine/resource extraction 25% ·
-Commercial 25% · Technical/scientific 20% · Education 15% · Industrial/manufacturing 10%. *(counts recomputed 2026-11-03 on the current population, shares held; were baseline 466,136, mandated 247,701, free 412,834.)* *(Robot term added 2026-11-03, `DR-96`: the baseline now includes robots × 15.75 ÷ 1,000 = 12,265 workers (B3 maintenance 12.5 + B4 sustenance 3.25 per 1,000 robots), as `09` §3.6 defines it; shares held; were baseline 482,608, mandated 255,994, free 426,654, distinctive 682,648.)*
+Commercial 25% · Technical/scientific 20% · Education 15% · Industrial/manufacturing 10%. *(counts recomputed 2026-11-03 on the current population, shares held; were baseline 466,136, mandated 247,701, free 412,834.)* *(Robot term added 2026-11-03, `DR-97`: the baseline now includes robots × 15.75 ÷ 1,000 = 12,265 workers (B3 maintenance 12.5 + B4 sustenance 3.25 per 1,000 robots), as `09` §3.6 defines it; shares held; were baseline 482,608, mandated 255,994, free 426,654, distinctive 682,648.)*
 
 ### The mandate *(developer ruling B, 2026-09-02)*
 
@@ -2750,7 +2750,7 @@ monitoring.** ***Mandating it would risk re-collapsing it into one object.*** **
 | **FREE — the character budget** | 508,554 | **51.7%** |
 
 **Distinctive tier: 565,060 (57.5%).** Canon §15: Commercial 25% · Marine/resource extraction 20% ·
-Industrial/manufacturing 20% · Technical/scientific 15% · Education 12% · Other 8%. *(counts recomputed 2026-11-03 on the current population, shares held; were baseline 391,579, mandated 55,328, free 497,952.)* *(Robot term added 2026-11-03, `DR-96`: the baseline now includes robots × 15.75 ÷ 1,000 = 10,334 workers (B3 maintenance 12.5 + B4 sustenance 3.25 per 1,000 robots), as `09` §3.6 defines it; shares held; were baseline 408,050, mandated 57,539, free 517,853, distinctive 575,392.)*
+Industrial/manufacturing 20% · Technical/scientific 15% · Education 12% · Other 8%. *(counts recomputed 2026-11-03 on the current population, shares held; were baseline 391,579, mandated 55,328, free 497,952.)* *(Robot term added 2026-11-03, `DR-97`: the baseline now includes robots × 15.75 ÷ 1,000 = 10,334 workers (B3 maintenance 12.5 + B4 sustenance 3.25 per 1,000 robots), as `09` §3.6 defines it; shares held; were baseline 408,050, mandated 57,539, free 517,853, distinctive 575,392.)*
 
 ### The mandate *(developer ruling B, 2026-09-02)*
 
@@ -2838,7 +2838,7 @@ recorded here because this is where it surfaced.**
 
 **Distinctive tier: 592,420 (57.8%).** Canon §15: Commercial/logistics ~30% · Marine/resource extraction ~20% ·
 Industrial/manufacturing ~15% · Hospitality/communal services ~15% · Technical/scientific ~10% ·
-Education ~5% · Other ~5%. *(counts recomputed 2026-11-03 on the current population, shares held; were baseline 406,082, mandated 232,464, free 348,695.)* *(Robot term added 2026-11-03, `DR-96`: the baseline now includes robots × 15.75 ÷ 1,000 = 10,852 workers (B3 maintenance 12.5 + B4 sustenance 3.25 per 1,000 robots), as `09` §3.6 defines it; shares held; were baseline 422,552, mandated 241,309, free 361,963, distinctive 603,272.)*
+Education ~5% · Other ~5%. *(counts recomputed 2026-11-03 on the current population, shares held; were baseline 406,082, mandated 232,464, free 348,695.)* *(Robot term added 2026-11-03, `DR-97`: the baseline now includes robots × 15.75 ÷ 1,000 = 10,852 workers (B3 maintenance 12.5 + B4 sustenance 3.25 per 1,000 robots), as `09` §3.6 defines it; shares held; were baseline 422,552, mandated 241,309, free 361,963, distinctive 603,272.)*
 
 ### The mandate *(developer ruling B, 2026-09-02)*
 
@@ -2919,7 +2919,7 @@ annotation to split on. The Troll refusal, applied across four sectors at once.*
 | **FREE — the character budget** | 76,850 | **23.0%** |
 
 **Distinctive tier: 192,125 (57.5%).** Canon §15: Industrial/manufacturing 35% · Marine/resource extraction
-25% · Technical/scientific 15% · Commercial 10% · Education 8% · Other 7%. *(Robot term added 2026-11-03, `DR-96`: the baseline now includes robots × 15.75 ÷ 1,000 = 3,514 workers (B3 maintenance 12.5 + B4 sustenance 3.25 per 1,000 robots), as `09` §3.6 defines it; shares held; were baseline 138,576, mandated 117,383, free 78,255, distinctive 195,639.)*
+25% · Technical/scientific 15% · Commercial 10% · Education 8% · Other 7%. *(Robot term added 2026-11-03, `DR-97`: the baseline now includes robots × 15.75 ÷ 1,000 = 3,514 workers (B3 maintenance 12.5 + B4 sustenance 3.25 per 1,000 robots), as `09` §3.6 defines it; shares held; were baseline 138,576, mandated 117,383, free 78,255, distinctive 195,639.)*
 
 ### The mandate *(developer ruling B, 2026-09-02 — provisional)*
 
@@ -3025,7 +3025,7 @@ here.**
 | **FREE — the character budget** | 126,412 | **43.4%** |
 
 **Distinctive tier: 168,549 (57.9%).** Canon §15: Technical/scientific 30% · Commercial 20% · Education 15% ·
-Industrial/manufacturing 15% · Marine/resource extraction 12% · Other 8%. *(Robot term added 2026-11-03, `DR-96`: the baseline now includes robots × 15.75 ÷ 1,000 = 3,090 workers (B3 maintenance 12.5 + B4 sustenance 3.25 per 1,000 robots), as `09` §3.6 defines it; shares held; were baseline 119,464, mandated 42,910, free 128,729, distinctive 171,638.)*
+Industrial/manufacturing 15% · Marine/resource extraction 12% · Other 8%. *(Robot term added 2026-11-03, `DR-97`: the baseline now includes robots × 15.75 ÷ 1,000 = 3,090 workers (B3 maintenance 12.5 + B4 sustenance 3.25 per 1,000 robots), as `09` §3.6 defines it; shares held; were baseline 119,464, mandated 42,910, free 128,729, distinctive 171,638.)*
 
 ### The mandate *(developer ruling C, 2026-09-02)*
 
@@ -3102,7 +3102,7 @@ Fort McMurdo · Scott — with **Concordia deferred by developer ruling.***
 | **FREE — the character budget** | 31,912 | **17.8%** |
 
 **Distinctive tier: 106,375 (59.5%).** Canon §15 *(revised 2026-07-06)*: Industrial fabrication 30% ·
-Trucking & dispatch 25% · Scientific research 20% · Maritime trade 15% · Leisure/commercial 5% · Other 5%. *(Robot term added 2026-11-03, `DR-96`: the baseline now includes robots × 15.75 ÷ 1,000 = 2,079 workers (B3 maintenance 12.5 + B4 sustenance 3.25 per 1,000 robots), as `09` §3.6 defines it; shares held; were baseline 70,244, mandated 75,918, free 32,536, distinctive 108,454.)*
+Trucking & dispatch 25% · Scientific research 20% · Maritime trade 15% · Leisure/commercial 5% · Other 5%. *(Robot term added 2026-11-03, `DR-97`: the baseline now includes robots × 15.75 ÷ 1,000 = 2,079 workers (B3 maintenance 12.5 + B4 sustenance 3.25 per 1,000 robots), as `09` §3.6 defines it; shares held; were baseline 70,244, mandated 75,918, free 32,536, distinctive 108,454.)*
 
 ### The mandate *(developer ruling B, 2026-09-02 — THE WHOLE CHAIN)*
 
@@ -3192,7 +3192,7 @@ Basis.)*
 | **FREE — the character budget** | 45,575 | **56.9%** |
 
 **Distinctive tier: 56,969 (71.1%).** Canon §15: Ice core science/archival research 40% · Religious
-practice/pilgrimage infrastructure 35% · Facility maintenance/altitude-legacy 20% · Other 5%. *(counts recomputed 2026-11-03 on the current population, shares held; were baseline 15,046, mandated 8,005, free 32,021.)* *(Robot term added 2026-11-03, `DR-96`: the baseline now includes robots × 15.75 ÷ 1,000 = 1,262 workers (B3 maintenance 12.5 + B4 sustenance 3.25 per 1,000 robots), as `09` §3.6 defines it; shares held; were baseline 21,889, mandated 11,646, free 46,585, distinctive 58,231.)*
+practice/pilgrimage infrastructure 35% · Facility maintenance/altitude-legacy 20% · Other 5%. *(counts recomputed 2026-11-03 on the current population, shares held; were baseline 15,046, mandated 8,005, free 32,021.)* *(Robot term added 2026-11-03, `DR-97`: the baseline now includes robots × 15.75 ÷ 1,000 = 1,262 workers (B3 maintenance 12.5 + B4 sustenance 3.25 per 1,000 robots), as `09` §3.6 defines it; shares held; were baseline 21,889, mandated 11,646, free 46,585, distinctive 58,231.)*
 
 ### The mandate *(developer ruling A, 2026-09-02)*
 
@@ -3269,7 +3269,7 @@ a seed vault is an archive** — so it sits inside this same sector, and the rul
 | **FREE — the character budget** | 425,515 | **37.6%** |
 
 **Distinctive tier: 654,638 (57.9%).** Canon §15: Subnet-hub logistics/Arcanet coordination 25% · Maritime
-trade 20% · Technical/scientific 20% · Commercial/trade 15% · Hospitality/honeymoon tourism 10% · Other 10%. *(counts recomputed 2026-11-03 on the current population, shares held; were baseline 447,342, mandated 225,584, free 418,942.)* *(Robot term added 2026-11-03, `DR-96`: the baseline now includes robots × 15.75 ÷ 1,000 = 12,002 workers (B3 maintenance 12.5 + B4 sustenance 3.25 per 1,000 robots), as `09` §3.6 defines it; shares held; were baseline 463,813, mandated 233,323, free 433,316, distinctive 666,639.)*
+trade 20% · Technical/scientific 20% · Commercial/trade 15% · Hospitality/honeymoon tourism 10% · Other 10%. *(counts recomputed 2026-11-03 on the current population, shares held; were baseline 447,342, mandated 225,584, free 418,942.)* *(Robot term added 2026-11-03, `DR-97`: the baseline now includes robots × 15.75 ÷ 1,000 = 12,002 workers (B3 maintenance 12.5 + B4 sustenance 3.25 per 1,000 robots), as `09` §3.6 defines it; shares held; were baseline 463,813, mandated 233,323, free 433,316, distinctive 666,639.)*
 
 ### The mandate *(developer ruling B, 2026-09-02)*
 
@@ -3358,7 +3358,7 @@ it is a §15 question, not a mandate question.**
 
 **Distinctive tier: 201,965 (62.7%).** Canon §15 *(revised 2026-07-06)*: Mechanized fabrication 30% ·
 Import/export & dispatch 25% · Infrastructure/snow management 15% · Resource extraction 15% ·
-Salvage/grounded aviation fleet maintenance 10% · Other 5%. *(counts recomputed 2026-11-03 on the current population, shares held; were baseline 102,645, mandated 108,667, free 72,444.)* *(Robot term added 2026-11-03, `DR-96`: the baseline now includes robots × 15.75 ÷ 1,000 = 3,397 workers (B3 maintenance 12.5 + B4 sustenance 3.25 per 1,000 robots), as `09` §3.6 defines it; shares held; were baseline 116,978, mandated 123,217, free 82,145, distinctive 205,362.)*
+Salvage/grounded aviation fleet maintenance 10% · Other 5%. *(counts recomputed 2026-11-03 on the current population, shares held; were baseline 102,645, mandated 108,667, free 72,444.)* *(Robot term added 2026-11-03, `DR-97`: the baseline now includes robots × 15.75 ÷ 1,000 = 3,397 workers (B3 maintenance 12.5 + B4 sustenance 3.25 per 1,000 robots), as `09` §3.6 defines it; shares held; were baseline 116,978, mandated 123,217, free 82,145, distinctive 205,362.)*
 
 ### The mandate *(developer ruling D, 2026-09-02)*
 
@@ -3460,7 +3460,7 @@ the developer's updated maps)*.
 | **FREE** | 420 | **6.7%** |
 
 **Distinctive tier: 4,204 (66.8%).** Canon §15: Arcanet relay operations/infrastructure maintenance 60% ·
-Amundsen Tower operations 30% · Other/life support 10%. *(Robot term added 2026-11-03, `DR-96`: the baseline now includes robots × 15.75 ÷ 1,000 = 90 workers (B3 maintenance 12.5 + B4 sustenance 3.25 per 1,000 robots), as `09` §3.6 defines it; shares held; were baseline 2,003, mandated 3,864, free 429, distinctive 4,293.)*
+Amundsen Tower operations 30% · Other/life support 10%. *(Robot term added 2026-11-03, `DR-97`: the baseline now includes robots × 15.75 ÷ 1,000 = 90 workers (B3 maintenance 12.5 + B4 sustenance 3.25 per 1,000 robots), as `09` §3.6 defines it; shares held; were baseline 2,003, mandated 3,864, free 429, distinctive 4,293.)*
 
 **Population: 1,121 humans / 5,736 robots — ~84% robot, the highest robot proportion of any Tepenian
 population center.**

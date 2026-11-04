@@ -120,6 +120,10 @@ Trial locations (language): `00_Frame` L48, L327, L350 (the Federation fixes the
 | `04_Phase_02` L24 | current length of `No_National_Stereotypes.md` | 174 |
 | `03_Research` L32, L57 | current length of `Cities/Research_Logs/Zhongshan_Research_Log.md` | 750 |
 
+### ZSS-019 Pre-Trip addresses
+
+The Pre-Trip (`00.0_Pre-Trip_Inspection.md`) names 111 distinct absolute addresses. 106 exist on disk. The five that do not are `Zhongshan_Sonnet/04_Phase_04_Ordinary_Life.md`, `04_Phase_08_Making.md`, `06_Differentiation.md`, `09.5_Log.md` and `09.6_Input_Audit.md`. Three independent counts (2026-11-03) agree.
+
 ## D. Pre-Trip notes (ZSS-001)
 
 The Sonnet `00.0_Pre-Trip_Inspection.md` carries dated notes at the same lines as the Opus Pre-Trip; their figures are not repeated here, read the current values below.
@@ -149,7 +153,6 @@ The Sonnet `00.0_Pre-Trip_Inspection.md` carries dated notes at the same lines a
 | SD-1 | `Extent` L613 gives Zhongshan 1,279,433 people (128 and 183 km2); L593 gives the three-city sum 3,527,096; `Extent` L577 gives 353 to 504 km2 and 89 to 92% on ice | `census` L502, L505, L509: 1,203,607 and the sum 3,330,740 (333 to 476 km2; 88.0% to 91.6%). `Extent` L631 calls its table the dated record |
 | SD-2 | `spec` L165 (quoted in the trial at `01_Inherited` L66-68) calls Russia a Significant-tier nation at 5.72% | `spec` L21 (Significant: Korea, Japan, Germany) and L36-70 (Russia split into twelve rows, 5.685 in total) |
 | SD-3 | `spec` L180 (Economy and Industry) names Prydz Bay maritime logistics and a cluster economy (the trial flags it at `02_Spine` L45) | `16` L1942-1957: the section 15 text says Prydz Bay fishing and "NOT a trade hub" |
-| SD-4 | `16` L1 and L1926 attribute the robot-keyed term to DR-96 | `rulings log` L1638-1643 (DR-97) and `16` L293 and L360 (DR-97); `09` L1 names both |
 
 ## G. Conclusions that rest on current inputs and may change on re-derivation
 

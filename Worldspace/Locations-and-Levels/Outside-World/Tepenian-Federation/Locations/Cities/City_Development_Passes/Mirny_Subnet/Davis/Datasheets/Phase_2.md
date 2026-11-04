@@ -41,7 +41,7 @@
 | Falkland Treaty Art. IV.2.1 | "No provision of this Treaty shall be read to deprive any human person of legal personhood by reason of that person's own nature" | Reported by Reader C |
 | Falkland Treaty Art. IV.2.3/IV.2.4 | Founding human election is legally permanent/final ("forfeiture"); characterized in `Real_World_Influences.md` L17 as "a genuine negotiation offering a genuine choice, while the actual choice was never real" | Reported by Readers A, C |
 | Falkland Treaty L15 — named Assembly Powers (illustrative list) | Unified Korea, the Sinian Federation, Midwestland, the Colorado Republic, Cascadia, Appalachia, the Prairie Federation, Sonora, Alaska, New England, Hawaii — zero overlap with the census's 21 national-origin names | Reported by Reader B |
-| Departure figure (cross-referenced from Step 2's datasheet) | 126,176 humans departed = 22.39% of Davis's humans | `02_Spine.md` §7.2 |
+| Departure figure (cross-referenced from Step 2's datasheet) | 126,176 humans departed = 22.39% of Davis's humans *[as recorded at the pass (2026-09-16); current: 136,567 humans departed = 23.12% of 590,668 (Census I humans 590,668 − Census II humans 454,101)]* | `02_Spine.md` §7.2 |
 
 **Not mechanical / not included here:** the seven-mode arrival taxonomy assessment, attract/repel, native/
 transplanted separation, who-is-not-here, the differentiation axis name, the household-claim hypothesis, the

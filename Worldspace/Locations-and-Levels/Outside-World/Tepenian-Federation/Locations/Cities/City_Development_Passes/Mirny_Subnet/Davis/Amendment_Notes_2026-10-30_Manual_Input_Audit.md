@@ -86,10 +86,9 @@
 | Developer's ruling text on the split | "Mandate 28.2% / free 31.1% … Option B stands: mandate 28.2% · free 31.1%" | L2073–2076 |
 | End-of-pass review register, Davis row | "Mandate 28.2%, free 31.1%"; alternatives listed: A 20.7% / 38.5%, C 35.6% / 23.7%, D 32.6% / 26.7% | L3568 (register heading L3549) |
 | Half B row | MAND 20.3% · FREE 37.8% | L262 |
-| Register item 11 prose | Davis's agriculture 181,808 (35% of distinctive) against 306,780 (35% of the whole workforce in file 04), "124,972 workers apart"; 306,780 − 181,808 = 124,972 | L2089–2095 |
-| Notes line on Census II | "437,423 H / 344,173 R at Census II" | L2106 |
+| Register item 11 prose | Davis's agriculture 186,131 (35% of distinctive) against 320,284 (35% of the whole workforce), 134,153 workers apart; file 04 §3 quotes 306,780 for the whole-workforce figure and is not recomputed | L2089–2095; three independent counts (2026-11-03) give 186,131, 320,284 and 134,153 |
 
-**Source defects (file 16 disagrees with itself or with the census).** (1) The split: 27.6% / 30.5% at L2011–2012 against 28.2% / 31.1% at L2073–2076 and L3568, and 20.3% / 37.8% at L262. (2) Agriculture: 186,131 at L2022 against 181,808 at L2091–2092. (3) Census II at L2106 (437,423 H / 344,173 R) against `CENSUS` L650 (454,101 H / 363,374 R). (4) The robot-term change is labeled `DR-96` at file 16 L1 and L2016 and `DR-97` at `LOG` L1638 and `DOI` `19_National_Balance_Refresh_2026-11-02.md` L56; `LOG` L1628 is a different ruling. No choice is made here.
+**Source defects (file 16 disagrees with itself or with the census).** (1) The split: 27.6% / 30.5% at L2011–2012 against 28.2% / 31.1% at L2073–2076 and L3568, and 20.3% / 37.8% at L262. The robot-term ruling is labeled `DR-97` in file 16 and in `LOG` L1638. No choice is made here.
 
 **Citations into file 16 by line.** Current anchors: Half B header L247 and Davis row L262; section 19 heading L2006; the research-half argument L2026–2046; "What stays FREE" L2048; the ruling L2073–2076; Register item 11 block L2089–2095; Notes L2097–2106 (Vestfold Hills sentence L2099–2100; namesake line L2101; kinship note L2103–2105); end-of-pass register row L3568. The line holding the string "100 Miles Davis Boulevard" is L1592 (another city's passage; the city is not named, as in the pass).
 
@@ -233,7 +232,7 @@ These are Davis's developer decisions of 2026-10-30 and the rulings the sheets r
 
 ## DV-011 — Population figures in the sheets
 
-The datasheets keep the figures the pass applied, each labeled "as recorded at the pass (2026-09-16)", with the current figure beside it. Current figures (DV-001): Census I 590,668 H / 619,764 R / 1,210,432; Census II 454,101 H / 363,374 R / 817,475; retention 67.54% combined, 76.88% humans, 58.63% robots, spread 18.25 pp; robots 51.20% of Census I; density 1,210,432 ÷ 410 = 2,952.27 per km²; `09` L79 (required 323,548, workforce 915,098, 35.4%); `16` L262 (workforce 915,098, base 41.9%). The sheets involved: `Step_-1`, `Step_0`, `Phase_2`, `Phase_4`, `Phase_9`, `Step_1_and_2` and the Pre-Trip. The Pre-Trip's quotation of `DR-4` stays as that ruling's dated record. Datasheet lines that show a pass-applied figure with no current figure beside it (pattern search, 2026-11-03): `Datasheets/Phase_2.md` L44; `Step_0.md` L47; `Step_1_and_2.md` L27, L53, L55.
+The datasheets keep the figures the pass applied, each labeled "as recorded at the pass (2026-09-16)", with the current figure beside it. Current figures (DV-001): Census I 590,668 H / 619,764 R / 1,210,432; Census II 454,101 H / 363,374 R / 817,475; retention 67.54% combined, 76.88% humans, 58.63% robots, spread 18.25 pp; robots 51.20% of Census I; density 1,210,432 ÷ 410 = 2,952.27 per km²; `09` L79 (required 323,548, workforce 915,098, 35.4%); `16` L262 (workforce 915,098, base 41.9%). The sheets involved: `Step_-1`, `Step_0`, `Phase_2`, `Phase_4`, `Phase_9`, `Step_1_and_2` and the Pre-Trip. The Pre-Trip's quotation of `DR-4` stays as that ruling's dated record. Every datasheet line found by pattern search (2026-11-03) that quotes a pass-applied figure carries the current figure beside it: `Datasheets/Phase_2.md` L44; `Step_0.md` L47; `Step_1_and_2.md` L27, L53, L55.
 
 ## DV-020 — Conclusions written inside the sheets
 
@@ -255,7 +254,7 @@ Davis's own ruling governs the mandate and free split: file 16 section 19 (headi
 - The `Phase_7` row 2 cites the `README` "First results" heading at L184 and the Davis line at L186.
 - `Phase_2` cites the census geography parenthetical at L390.
 - The as-run Pre-Trip (`00.0_Pre-Trip_Inspection_AS_RUN_2026-09-11.md` L582) notes the named ledger file as nonexistent; the ledger file now exists (`00.2_Position_Coverage_Ledger.md`) and the rebuilt Pre-Trip section K (`00.0_Pre-Trip_Inspection.md` L588) points to it.
-- The as-run Pre-Trip's Phase 2 `T8` line (L285) says 4 admissible rows. The rebuilt Pre-Trip (`00.0_Pre-Trip_Inspection.md` L279) says "the 3 admissible rows".
+- The as-run Pre-Trip's Phase 2 `T8` line (L285) says 4 admissible rows. The rebuilt Pre-Trip's Phase 2 `T8` line (`00.0_Pre-Trip_Inspection.md` L281) names 5 admissible rows: the stereotype law, the Falkland Treaty, the census, the Founding Register row and the composition file's Davis section.
 
 ## Rulings the sheets and spec rest on
 
@@ -289,23 +288,22 @@ Pass location, the input it rests on, and that input's current value. No verdict
 
 Each is stated with both addresses; none is resolved here.
 
-1. File 16: split 27.6% / 30.5% (L2011–2012) against 28.2% / 31.1% (L2073–2076, L3568) and 20.3% / 37.8% (L262); agriculture 186,131 (L2022) against 181,808 (L2091–2092); Census II at L2106 against `CENSUS` L650; ruling label `DR-96` (L1, L2016) against `DR-97` (`LOG` L1638).
-2. File 19: Davis's farm workforce 189,548 (L11) and 186,131 (L62); share 44.3% (L34) and 44.2% (L81); people fed 1,309,000 (L44). File 18 L49 carries 44.3% and 44.2%.
+1. File 16: split 27.6% / 30.5% (L2011–2012) against 28.2% / 31.1% (L2073–2076, L3568) and 20.3% / 37.8% (L262).
+2. File 19 holds two runs. Its latest run (section 5, L62 and L81) gives Davis's farm workforce 186,131 and share 44.2%, which three independent counts reproduce from file 16; section 1 (L11) and section 2 (L34-L35) belong to the first run, and people fed is 1,309,000 (L44). File 18 L49 carries both shares (44.3% and 44.2%).
 3. `ULM/Extent_and_Density_Per_City.md` L617, L636 against `CENSUS` L506 (DV-027).
-4. `Local_Cultures/Mirny_Subnet/Davis.md` L53 (66–67 days) against `SPEC` L99–100 (37 and 55 days); its composition text against `SPEC` L20–22 (DV-028).
+4. `Local_Cultures/Mirny_Subnet/Davis.md` L53 (66–67 days) against `SPEC` L99–100 (37 and 55 days); three independent counts at latitude 68°35′S give 37 days without sunrise and 54 days without sunset; its composition text against `SPEC` L20–22 (DV-028).
 5. `SPEC` L109 (~45% retention) against 28 ÷ 72.8 = 38.46% (DV-030).
 6. `SPEC` L8, L86, L153, L257 against `Founding_Register.md` L57 for Mirny's founder (DV-004).
 7. `City_Symbol_Assignments.md` L71 against L112 (DV-003).
 8. `City_Cross_Subnet_Relationships.md` L137 against L139–147 (DV-004).
 9. `No_National_Stereotypes.md` L105–106 against `Timeline.md` L251–258 (DV-026).
 10. `CENSUS` L33 (tag described as an arrival) against `LOG` L1555 and L1660.
-11. `00.0_Pre-Trip_Inspection.md` L279 ("3 admissible rows") against the as-run sheet's L285 (4 admissible rows) and the standing rule in section E.
 
 ---
 
 # H. Open questions for the developer
 
-1. **Which split is Davis's?** Your 2026-09-16 ruling reads mandate 28.2% and free 31.1%. File 16's section 19 table now counts 27.6% and 30.5% on the current workforce of 915,098 (L2011–2012), its own text still quotes your ruling (L2076), and Half B shows 20.3% and 37.8% (L262). Which pair do you want carried as Davis's?
+1. **Which split is Davis's?** Your 2026-09-16 ruling reads mandate 28.2% and free 31.1%. File 16's section 19 table now counts 27.6% and 30.5% on the current workforce of 915,098 (L2011–2012), its own text still quotes your ruling (L2076), and Half B shows 20.3% and 37.8% (L262). Three independent counts (2026-11-03) confirm the arithmetic: the rule behind your ruling (agriculture 35% plus half of technical/scientific 12.5% of the distinctive tier, 47.5%) gives 252,606 mandated and 279,197 free workers on 915,098, which is 27.6% and 30.5%; Half B's 20.3% and 37.8% is the agriculture-only mandate (186,131). Which pair do you want carried as Davis's?
 2. **The seal on comparing nations' figures.** The pass bars comparing any two nations' figures; the stated ground is that values inside a tier are randomized (`DR-12`). The table now comes from headcounts, with a random multiplier only on the Sinian Federation (0.5719) and Manchuria (0.5855). Does the bar stay, and on what ground?
 3. **The very small rows.** 21 of the 45 origin rows are under 1% and the smallest, Tuva, is 152 people at Census I. Do the smallest rows count as origin communities, or as a tail?
 4. **The language rule in a finished pass.** Davis's pass never mentions Hawaiian. The set at 12 points is English, Mandarin, Japanese and German. Should the rule enter this pass as a dated note, or should the language sections (Phase 8 section E, Phase 9 Language row) be re-derived?

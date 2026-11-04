@@ -213,7 +213,7 @@ deliberately not a standing industry.)*
 | **Kunlun** | 28.6% | **30.2%** | +1.6 |
 | **Dome Fuji** | 27.3% | **28.9%** | +1.6 |
 
-**New range: 28.9% → 51.5%.** *(Table values recomputed 2026-11-03 from the current §2 cells plus robots × 15.75 ÷ 1,000; the 2026-09-01 version read 28.9% → 51.4%. Amundsen Station is not in this table; it computes to 35.1%. `16` now carries the same robot term in its formula (`DR-96`), so the two files agree on the term; they still differ on B1, which is 53 in this file's §2 and 120.7 in `16`, so the two baselines are not the same quantity.)*
+**New range: 28.9% → 51.5%.** *(Table values recomputed 2026-11-03 from the current §2 cells plus robots × 15.75 ÷ 1,000; the 2026-09-01 version read 28.9% → 51.4%. Amundsen Station is not in this table; it computes to 35.1%. `16` now carries the same robot term in its formula (`DR-97`), so the two files agree on the term; they still differ on B1, which is 53 in this file's §2 and 120.7 in `16`, so the two baselines are not the same quantity.)*
 
 ## What the completion changes — and what it does not
 
