@@ -201,7 +201,7 @@ FIELD_RE = re.compile(r"^(LRANGE|LINES|L1|LMID|LLAST|QUOTE)\s*:\s*(.*)$")
 # stops here OR at a blank line - never runs on unbounded (see the 2026-09-14 note
 # above the module docstring's end).
 CONTINUATION_STOP = re.compile(
-    r"^\s*(?:```|-{3,}\s*$|={3,}\s*$|#{1,6}\s|>|\||\d+\.\s|[-*+]\s|COVERAGE\s*:|MANIFEST\s*:)"
+    r"^\s*(?:```|-{3,}\s*$|={3,}\s*$|#{1,6}\s|>|\||\d+\.\s|[-*+]\s|COVERAGE\s*:|MANIFEST\s*:|EXEMPT\s*:)"
 )
 
 

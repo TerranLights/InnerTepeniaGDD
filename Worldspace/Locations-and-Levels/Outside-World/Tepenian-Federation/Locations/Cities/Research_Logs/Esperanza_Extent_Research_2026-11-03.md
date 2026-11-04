@@ -76,8 +76,9 @@ Page fetches (WebFetch): `en.wikipedia.org/wiki/Tabarin_Peninsula` (read); `…/
 Direct HTTP/data (no search count): listing of the ITS_LIVE bucket and its v2 and v2.1 mosaic catalogs; the seven COG layers and the v2.1 layer; the PGC REMA bucket and 32 m tile index; the BAS Bedmap3 thickness file.
 **Where each dead end died:** searches 1, 2, 3, 6 died at the sources (no published speeds exist in what the search returned), which is why the dataset was read directly.
 
-## 7 · What the developer may want to decide (none made here)
-1. **Whether to set a speed ceiling.** The data say about half of the ice within 20 km of the base is under 20 m/yr and 84% is under 50 m/yr.
-2. **How to declare the extent.** The need (120–171 km²) fits the Tabarin region at a ceiling of 20–50 m/yr with gentle slope, but not within 10 km of the base. Held for this declaration: the extent row and the Esperanza figures noted in the 2026-11-01 log (education lines and Marambio L58 were already edited under `DR-90`).
-3. **Whether the Ulu Peninsula plays a role,** now that it is known to be 74 km from the base, across a channel 8–24 km wide, with a narrowest gap far to the south.
-4. **Whether to read more:** pre-2014 speeds, the bed and uncertainty layers, crevasse and ice-front hazards.
+## 7 · Decided by the developer, 2026-11-03 night (`DR-105`)
+1. **Speed ceiling: none.** Each part's speed and thickness are recorded as facts of the place; the extent does not depend on a threshold.
+2. **Extent: Hope Bay's head plus the Tabarin ice** (428 km² of grounded ice, of which the city occupies 120–171 km²). Recorded in `Extent_and_Density_Per_City.md` (the Esperanza row and §8).
+3. **The Ulu Peninsula is a second site for part of the population** (74 km from Esperanza Base; about 250 km² of ice-free ground).
+4. **Not decided:** how many of the 1,200,000 live at the Ulu Peninsula, and the crossing of Prince Gustav Channel (8–24 km wide; the ice masks come within 9.4 km at 63.93°S 58.27°W, far south of Hope Bay).
+5. **Not read, available later:** pre-2014 speeds, the bed and Bedmap3 uncertainty layers, crevasse and ice-front hazards.

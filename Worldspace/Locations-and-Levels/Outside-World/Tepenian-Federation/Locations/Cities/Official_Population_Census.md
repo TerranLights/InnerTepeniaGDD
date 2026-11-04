@@ -30,7 +30,7 @@
 
 ## Section A — National Origin Composition by City
 
-National communities are classified by tier based on long-run population share. Where a founding wave nation set the city's early cultural character prior to the arrival of larger national communities, this is noted.
+National communities are classified by tier based on long-run population share. Where a nation is named as a city's founder in `Founding_Register.md`, its row carries the tag "(founding wave)"; the tag says nothing about when people arrived.
 
 **Tier definitions:**
 - **Primary** — Dominant national community; shapes the city's primary linguistic and cultural identity

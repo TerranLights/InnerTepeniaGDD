@@ -42,9 +42,9 @@ main-game roster.]**
 **Zhongshan, Tepenian Federation** (Mirny subnet) — per the 2026-08-24 seed's explicit "Place of Origin" field.
 **[Sourced]** This refines, rather than contradicts, the earlier 2026-08-15 confirmation ("Tepenia-native,
 synthesized and built in Davis... not an Upper Earth exile"): that note pre-dated the filled-in seed and
-proposed Davis as her birthplace by inference from Davis's own China-Primary founding tier. Zhongshan is an
+proposed Davis as her birthplace by inference from Davis's own composition (the Sinian Federation is one of its five Primary origins; Davis's founder, per the Founding Register, is Australia). Zhongshan is an
 even stronger match for the same reasoning — it is Tepenia's most concentratedly Chinese-founded city (35.83%
-China, Primary tier, versus Davis's 20.51%; `Specs/Zhongshan.md` §Population & Composition). The "Tepenia-native, not an Upper
+Sinian Federation, Primary tier, versus Davis's 9.72%; `Specs/Zhongshan.md` §Population & Composition). The "Tepenia-native, not an Upper
 Earth exile, Chinese-heritage-consistent" core facts stand unchanged; only the specific origin city is
 corrected. She later relocated to **Davis**, present-day residence, which the seed lists as a separate
 "Location" field distinct from origin — consistent with this project's usual pattern of Dolls having a

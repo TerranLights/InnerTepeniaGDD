@@ -140,19 +140,18 @@ The Sonnet `00.0_Pre-Trip_Inspection.md` carries dated notes at the same lines a
 ## E. Standing decisions
 
 - **D-1 (developer, 2026-10-30, the walk-through of this city).** *"yup, all as recommended."* Rule in force: pass files are not edited; corrections go in a dated amendment note beside the trial; the Pre-Trip alone carries dated notes beside three lines. Recorded in `ULM/Manual_Input_Audit_2026-10-29/Walkthrough_Decisions.md` L236-249 and `FIX_LEDGER.md` rows ZSS-001 to ZSS-014.
-- **D-2 (same answer; Opus ledger row ZSO-S01).** The `Extent` rows for Zhongshan stay as a dated record: `Extent` L613 (1,279,433 people; 128 and 183 km2), L655 (a -10% scenario row; 127,944 and 99,668) and L593 (three-city sum 3,527,096). `Extent` L631 states that its table is the dated record and the census is the live source. Current figures: 1,203,607 people need 120.4 to 171.9 km2 (ZSS-012). The trial cites these rows at `00_Frame` L370, `02_Spine` L31, `00.1` L216.
+- **D-2; Opus ledger row ZSO-S01 (developer, 2026-10-30; replaced 2026-11-03, `DR-103`).** The `Extent` table rows are refreshed to the current Census I: Zhongshan's row (`Extent` L613) carries 1,203,607 people with 120 and 172 km2, and the three-city sum (`Extent` L593) is 3,330,740. `Extent` L655 (a -10% scenario row; 127,944 and 99,668) remains a dated scenario record. Current figures: 1,203,607 people need 120.4 to 171.9 km2 (ZSS-012).
 - **D-3 (same answer; Opus ledger row ZSO-S02).** For Zhongshan, `16` section 18 (L1917, "ZHONGSHAN - DETERMINED") is the determination: 383,014 / 137,200 / 385,466 on a workforce of 905,680 (ZSS-014). The Half B row (`16` L275, 42.3 / 11.6 / 46.1, source H) is a Half A estimate and does not govern. The trial's `02_Spine` L56-58 uses section 18.
 - **D-4 (developer, 2026-10-30; Weekly To-Do L63-67).** The finished cities, Zhongshan included, are to be re-analyzed with the current methods; this note is the interim record.
 - **D-5 (developer, 2026-10-29; `ULM/Manual_Input_Audit_2026-10-29/TRACKER.md` L5).** *"don't forget to check the cities we've already done, because things might possibly have changed since then."*
+- **D-6 (developer, 2026-11-03 night; `DR-105`).** Zhongshan_Opus is canonical; this trial stays as a trial. Retention rates are arithmetic of the census. Zhongshan is a partner in the joint agricultural research project (`rulings log` L1386 (DR-72), L1421 (DR-75)). The Russian-named rows are separate origins. The Larsemann oasis rock (about 40 km2 for three cities) is divided by Census I share, stated as arithmetic. `spec` L165 and L180 are corrected to agree with the spec table and `16` section 18. The pass follows Davis's plan (`DR-104`): this note carries the facts and the language rule; in a morning window one reader per item in section G tests whether its conclusion changes; only those that change are re-derived; scheduled after the new runs.
 - None of D-1 to D-5 is in `rulings log` (searched 2026-11-03: no entry dated 2026-10-30; L1536's "all as recommended" concerns other items). `rulings log` L1354 (DR-68) names the Extent table among the items not refreshed.
 
 ## F. Source defects (two live sources disagree; neither chosen)
 
 | ID | Statement and address | Against |
 |---|---|---|
-| SD-1 | `Extent` L613 gives Zhongshan 1,279,433 people (128 and 183 km2); L593 gives the three-city sum 3,527,096; `Extent` L577 gives 353 to 504 km2 and 89 to 92% on ice | `census` L502, L505, L509: 1,203,607 and the sum 3,330,740 (333 to 476 km2; 88.0% to 91.6%). `Extent` L631 calls its table the dated record |
-| SD-2 | `spec` L165 (quoted in the trial at `01_Inherited` L66-68) calls Russia a Significant-tier nation at 5.72% | `spec` L21 (Significant: Korea, Japan, Germany) and L36-70 (Russia split into twelve rows, 5.685 in total) |
-| SD-3 | `spec` L180 (Economy and Industry) names Prydz Bay maritime logistics and a cluster economy (the trial flags it at `02_Spine` L45) | `16` L1942-1957: the section 15 text says Prydz Bay fishing and "NOT a trade hub" |
+| SD-1 | `Extent` L577 gives 353 to 504 km2 and 89 to 92% on ice | `census` L502, L505, L509: the three-city sum is 3,330,740 (333 to 476 km2; 88.0% to 91.6%) |
 
 ## G. Conclusions that rest on current inputs and may change on re-derivation
 
@@ -171,14 +170,9 @@ No verdict is stated. Each row gives the input and its current value.
 
 ## H. Open questions for the developer
 
-1. **Language rule in this trial.** The trial names no language. The rule gives Hawaiian everywhere and Mandarin as Zhongshan's only supporting-tier language (ZSS-017). Should it enter as a dated note only?
-2. **Which array is canonical, Opus or Sonnet.** `Zhongshan_Opus/09_Record.md` L68-71 and L139 list it as an open developer question; no ruling is in `rulings log` (searched 2026-11-03). Pending.
-3. **Retention figures.** The census marks the two additions to Zhongshan as arithmetic and gives them different sizes by group in each census (C-S2). Should the retention rates in ZSS-011 be presented as findings about the city, or as arithmetic?
-4. **Spec text (SD-2, SD-3).** Should `spec` L165 and L180 be corrected so they agree with the spec table and `16` section 18?
-5. **Extent file (SD-1).** Leave the dated Extent figures as they are, as D-2 does for the Extent rows?
-6. **Joint research project (U-S1).** Does it add a role to Zhongshan, or only to Relung Panen?
+None open.
 
-Decisions pending elsewhere that touch Zhongshan: the language rule's entry into finished passes (`Cities/Research_Logs/Drift_Review_SUMMARY_Finished_Passes_2026-11-03.md` L52); the choice of canonical array (item 2); the re-analysis of the finished cities and the creation of Zhongshan's datasheets (Weekly To-Do L63-67); whether to re-derive or only annotate (summary file L53).
+Decisions pending elsewhere that touch Zhongshan: the creation of Zhongshan's Pre-Trip and datasheets (Weekly To-Do L63-67).
 
 ---
 

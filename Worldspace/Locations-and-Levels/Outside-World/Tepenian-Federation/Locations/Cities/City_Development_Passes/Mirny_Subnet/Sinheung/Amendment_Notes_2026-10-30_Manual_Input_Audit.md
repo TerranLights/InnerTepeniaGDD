@@ -27,8 +27,18 @@ Rule for this city (Ledger L1496): the pass files are never edited; each finding
 ### SNH-S03. The census tier list for Sinheung matches the spec's
 `Census` L416-418 and `Spec` L76-78 are identical (checked by `diff`): Primary: Korea. Significant: Japan, Germany, Sinian Federation. Notable: 35 rows, Indonesia first, Tuva last. Applied 2026-10-30 (`Walk-through` L230; Ledger L1516). The composition behind the lists: `SNH-012`.
 
-### SNH-S04. The Extent snapshot rows are left as dated records
-`Extent` L620 (the 25-city snapshot table dated 2026-09-05) and L657 (the minus-10-percent discharge scenario) are left as they stand; developer decision at the walk-through (Ledger L1517 "LEFT 2026-10-30 (developer)"; `Walk-through` L231). `Extent` L631 states the table is the dated record and the census is the live source. Live need for Sinheung: `SNH-011`.
+### SNH-S04. The Extent rows
+`Extent` L620 (Sinheung's row in the 25-city table) carries Census I 1,014,533 with 101 and 145 km² (`DR-103`, 2026-11-03); L657 (the minus-10-percent discharge scenario) remains a dated scenario record. Live need for Sinheung: `SNH-011`.
+
+
+### SNH-S05. Decisions of 2026-11-03, night (`DR-105`)
+
+- **Band.** Census I sets a city's band (`DR-4`). Sinheung's Census I is 1,014,533, which is Band 5.
+- **Station heritage.** A re-derivation of Sinheung uses `DR-24` to `DR-26` as they stand: the city can inherit its station's records, research, equipment, techniques and results.
+- **The East Asian cluster.** When the pass pools Sinheung's East Asian share, the cluster is Korea, Japan and the Sinian Federation: 47.85% (`SNH-C2`).
+- **The oasis.** The Larsemann Hills' ice-free rock is about 40 km² for the three cities together, divided by Census I share, stated as arithmetic (`SNH-011`).
+- **The Russian-named rows.** Each of the 13 successor rows is its own origin.
+- **The pass plan.** Sinheung follows Davis's plan (`DR-104`): this note carries the facts and the language rule; in a morning window one reader per item in the conclusions section tests whether its conclusion changes; only items that change are re-derived; scheduled after the new runs.
 
 ---
 
@@ -173,14 +183,11 @@ No verdict is stated. Each row gives the pass location, the input it rests on an
 
 ## 8. Open questions for the developer
 
-1. **Which census sets the population band?** Band 4 is about 50,000 to 1,000,000 people and Band 5 about 1,000,000 to 50,000,000 (`Universal_Location_Methodology/01_Frame_Typology_and_Inheritance.md` L180-181; the 4-to-5 threshold, "above roughly a million", L216-218). Sinheung's Census I total (1,014,533) is above that edge and its Census II total (835,341) is below it. The runbook's Census I convention (`00_RUNBOOK.md` L1724-1729) covers process-derived figures; I found no rule there naming which census sets the band. The pass declares Band 4 (`SNH-U1`).
-2. **Do the station-heritage rulings of 2026-10-01 change what the pass treats as inadmissible?** The pass keeps the physical plant and leaves out the station's lineage (`SNH-U3`). `DR-26` now lets a city inherit the station's research, equipment, techniques and results (and `DR-25` its records). Should a re-derivation use those as inputs?
-3. **Which nations form the East Asian cluster** when its share is pooled (`SNH-C2`)?
-4. **Which figure is the Larsemann Hills' ice-free area:** about 40 km² (`SNH-011`)?
+None open.
 
 ## 9. Decisions pending elsewhere that touch Sinheung
 
-- **The language rule's entry into a finished pass.** The rule (`SNH-U2a`) is "not yet written into most culture files" (Handoff L25-30). Whether and how it enters a finished pass such as this one is not decided; the culture file's wording on Korean is at L90 and L135 (`SNH-016`).
+- **The language rule** enters this pass through this note (`DR-105`); the culture file's wording on Korean is at L90 and L135 (`SNH-016`).
 - **Re-analysis of the finished cities and the missing Pre-Trip and datasheets:** to-do, not started (`Dev-Road-Map/Weekly_To-Do_-_Current.md` L65, L67; `SNH-010`).
 
 ---

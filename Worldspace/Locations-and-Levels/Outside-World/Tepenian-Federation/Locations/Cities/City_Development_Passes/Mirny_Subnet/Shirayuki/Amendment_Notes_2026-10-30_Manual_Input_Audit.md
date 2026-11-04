@@ -15,9 +15,17 @@
 
 **`SRY-S01`. The census tier list for Shirayuki equals the spec's.** `CITIES/Official_Population_Census.md` L424–L428 (Primary Japan; Significant Australia, Korea; Notable 35 rows, Sinian Federation first, Tibet last) is line for line the same as `CITIES/Specs/Mirny subnet/Shirayuki.md` L44–L48 (checked by `diff` of census L426–428 against spec L46–48: no difference). The census file is 892 lines (`wc -l`). Standing rule: the census tier list is kept equal to the spec's. The prose at census L422 is a separate item (`SRY-S04`).
 
-**`SRY-S02`. Left in place.** `ULM/Extent_and_Density_Per_City.md` L616 (Shirayuki row) and L656 (Shirayuki scenario row) stay as dated records: L631 labels the table a record of the 2026-09-05 populations, and L656 sits in a dated scenario. Live: Census I 1,112,600 (`CITIES/Official_Population_Census.md` L505) needs 111.3 km² at 10,000 per km² and 158.9 km² at 7,000 per km² (`SRY-003`).
+**`SRY-S02`. The Extent rows.** `ULM/Extent_and_Density_Per_City.md` L616 (Shirayuki row) carries Census I 1,112,600 with 111 and 159 km² (`DR-103`, 2026-11-03); L656 (the Shirayuki scenario row) remains a dated scenario record. Live: Census I 1,112,600 (`CITIES/Official_Population_Census.md` L505) needs 111.3 km² at 10,000 per km² and 158.9 km² at 7,000 per km² (`SRY-003`).
 
 **`SRY-S03`. Left in place.** `CITIES/Division_of_Industry/16_Per_City_Three_Tier_Run.md` is not edited by this note. Its Shirayuki section (L1754–L1769) is covered by `SRY-006` and `SRY-011`.
+
+### Decisions of 2026-11-03, night (`DR-105`)
+
+- **Band.** Census I sets a city's band (`DR-4`). Shirayuki's Census I is 1,112,600, which is Band 5.
+- **The oasis rock.** The Larsemann Hills' ice-free rock is about 40 km² for Shirayuki, Sinheung and Zhongshan together. Each city's part is its share of the three cities' combined Census I, stated as arithmetic: Shirayuki's part is 13.36 km².
+- **Rock-founded.** Shirayuki is rock-founded; the site sets the difficulty coefficient (`16` L1758).
+- **The Russian-named rows.** Each of the 13 successor rows is its own origin (`SRY-C01`).
+- **The pass plan.** Shirayuki follows Davis's plan (`DR-104`): this note carries the facts and the language rule; in a morning window one reader per item in section G tests whether its conclusion changes; only items that change are re-derived; scheduled after the new runs.
 
 ---
 
@@ -224,16 +232,12 @@ No verdict is stated. Each row gives the pass location, the input it rests on, a
 
 ## H. Open questions for the developer
 
-1. **Band.** Census I is now 11.3% above the one-million line and Census II 30.9% below it. Which band does a city get when its two censuses fall on different sides? (`DRQ-10`, queue L551, open.)
-2. **The oasis rock.** One patch of about 40 km² of ice-free rock is shared by three cities; Shirayuki's apportioned part is 13.36 km². Who allocated it, or did nobody? (`DRQ-11`, queue L579, open.)
-3. **Which sources may ground a finding.** The list of source folders treated as ratified has two entries; the picks list and the symbol files fall outside it. (`DRQ-12`, queue L614, open.)
-4. **Rock-founded or on ice.** File 16 classes the ground as rock-founded (`16` L1758) while the extent arithmetic puts 88.0% to 91.6% of the footprint on ice. Is the difficulty coefficient set from the site or from the footprint? (`DRQ-13`, queue L656, open.)
-5. **Grouping of the Russian-named rows** (`SRY-C01`): counted as one origin or as separate rows. The spec table gives twelve rows summing to 9.07%; the language-group file gives 6.09 to 15.30.
-6. **Source defects** (`SRY-S04`, `SRY-S05`): the spec prose, the census prose at L422, file 16 L3180, the culture file's census line, and the ruling label. These sources are not edited by this note.
+1. **Which sources may ground a finding.** The list of source folders treated as ratified has two entries; the picks list and the symbol files fall outside it. (`DRQ-12`, queue L614, open.)
+2. **Source defects** (`SRY-S04`, `SRY-S05`): the census prose at L422, file 16 L3180 and the culture file's census line (the spec prose and the ruling label agree with their tables and the rulings log). These sources are not edited by this note.
 
 **Decisions pending elsewhere that touch Shirayuki.**
-- How the language rule enters a finished pass: the rule is set (`SRY-012`) and is written first into the culture files named in the handoff; no instruction covers finished passes.
-- Pre-Trip and datasheet files for Shirayuki, and the fresh analysis of the finished cities: open items (`D-2`).
+- The language rule enters this pass through this note (`DR-105`).
+- Pre-Trip and datasheet files for Shirayuki are planned and not started (`D-2`).
 - The culture-file proposals of the pass docket (`SRY-013`) stay unapplied until the developer takes up the culture file.
 
 ---
