@@ -169,8 +169,8 @@
 > population — *cascades into census totals, and Denison needs a workforce as a chamber manufacturer and
 > wind-engineering exporter*; **(E)** A plus a downward component — *recommended by the analyst*.
 >
-> **⚠ The division-of-industry determination is UNAFFECTED** — baseline 53.2% / mandated 16.4% / free 30.4%
-> hold regardless. **This is a geography correction, not a labor one.**
+> **⚠ The division-of-industry determination is UNAFFECTED** — baseline 54.4% / mandated 16.0% / free 29.6%
+> hold regardless *(shares updated 2026-11-03 with the robot term, `DR-96`, `DR-97`; were 53.2 / 16.4 / 30.4)*. **This is a geography correction, not a labor one.**
 >
 > **Sources:** AAD *Mawson's Huts — Cape Denison landscape*; Wikipedia *Cape Denison*, *Commonwealth Bay*.
 

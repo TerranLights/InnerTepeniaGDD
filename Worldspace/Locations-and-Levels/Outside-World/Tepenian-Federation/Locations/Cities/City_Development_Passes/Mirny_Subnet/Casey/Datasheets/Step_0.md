@@ -21,6 +21,7 @@
 | Real-world basis | Casey Station (Australia), Budd Coast, Wilkes Land | `Specs/Casey.md` L3 |
 | Coordinates | ~66°16′S, 110°32′E | `Specs/Casey.md` L3 |
 | ⚠ A second real-world site named at this location | Wilkes Station — a pre-exile American research station a few km away, genuinely predating the Federation, never a Tepenian city. GPS/physical-siting fact only, admissible on that basis | `Specs/Casey.md` L84, L202 |
+| **Language** (set 2026-11-03) | Hawaiian (later Tepenian) is the dominant language. **Supporting tier: English** — a language not dominant but widely enough understood that business, social talk and general dealings can be done in it; the set is every language group within 12 percentage points of the city's largest group (range mid-points; nations sharing a language summed). Largest group: English 31.5–40.1. No other group is within 12 percentage points, so the supporting tier is that language alone. *These are shares of residents whose national origin is a nation of that language, not counts of speakers; the mapping of nations to languages is recalled general knowledge, not verified.* | `Research_Logs/Language_Sets_By_City_Reference_2026-11-03.md` (12-point addendum and rulings); `Research_Logs/Language_Blocs_By_City_2026-11-03.md` |
 
 **Not mechanical / not included here:** the Type+modifiers declaration, Band assignment, extent band, Status
 declaration, Configuration, generator selection, the asymmetry check on inherited material — none of this
