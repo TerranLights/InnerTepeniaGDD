@@ -106,7 +106,7 @@ Named after John King Davis — not an explorer in the Mawson/Scott/Amundsen sen
 
 **Regime:** **ICE-FREE OASIS** — *small precipitation budget, moderate transport* *(⚠ **reclassified 2026-09-04** from KATABATIC MARGIN. The operating authority states Davis is **away from the katabatic wind** — sheltered by distance from the ice sheet, with Vestfold Hills rock moderating the local climate. A katabatic label was wrong.)*
 **Falls (reaches the surface):** ~73 mm/yr
-**Lands (accumulates and stays):** **~28 mm/yr** *(~45% retention)*
+**Lands (accumulates and stays):** **~28 mm/yr** *(~38% retention)*
 **Lost to sublimation and wind transport:** ~45 mm/yr
 
 > ##### ⚠ WIND vs COLD — which hazard actually defines this city

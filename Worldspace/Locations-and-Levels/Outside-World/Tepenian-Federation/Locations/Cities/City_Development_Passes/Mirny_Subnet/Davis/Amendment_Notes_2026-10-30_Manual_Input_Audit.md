@@ -83,12 +83,12 @@
 | Distinctive tier | 531,803 (58.11%) | L2014 |
 | Mandate itemized | agriculture 35% = 186,131; technical/scientific half 12.5% = 66,475; together 47.5% = 252,606 | L2022–2024; 531,803 × 0.35 = 186,131.05 and × 0.125 = 66,475.4 |
 | Robot term inside the baseline | 619,764 × 15.75 ÷ 1,000 = 9,761 workers | L2016 (text); recomputed |
-| Developer's ruling text on the split | "Mandate 28.2% / free 31.1% … Option B stands: mandate 28.2% · free 31.1%" | L2073–2076 |
-| End-of-pass review register, Davis row | "Mandate 28.2%, free 31.1%"; alternatives listed: A 20.7% / 38.5%, C 35.6% / 23.7%, D 32.6% / 26.7% | L3568 (register heading L3549) |
+| Developer's ruling text on the split | "Mandate 28.2% / free 31.1% …" (verbatim, 2026-09-16); the ruling's rule on the current population reads: 47.5% of the distinctive tier, 27.6% mandated and 30.5% free (252,606 and 279,197 workers) | L2073–2076 |
+| End-of-pass review register, Davis row | "Mandate 27.6%, free 30.5% (current population)"; alternatives listed: A 20.3% / 37.8%, C 34.9% / 23.2%, D 32.0% / 26.2% | L3568 (register heading L3549) |
 | Half B row | MAND 20.3% · FREE 37.8% | L262 |
 | Register item 11 prose | Davis's agriculture 186,131 (35% of distinctive) against 320,284 (35% of the whole workforce), 134,153 workers apart; file 04 §3 quotes 306,780 for the whole-workforce figure and is not recomputed | L2089–2095; three independent counts (2026-11-03) give 186,131, 320,284 and 134,153 |
 
-**Source defects (file 16 disagrees with itself or with the census).** (1) The split: 27.6% / 30.5% at L2011–2012 against 28.2% / 31.1% at L2073–2076 and L3568, and 20.3% / 37.8% at L262. The robot-term ruling is labeled `DR-97` in file 16 and in `LOG` L1638. No choice is made here.
+**Source defects (file 16 disagrees with itself or with the census).** None remains for the split: the ruling text, the register row and the section 19 table carry 27.6% mandated and 30.5% free (DV-S01); Half B's 20.3% / 37.8% (L262) is the agriculture-only mandate (186,131 workers). The robot-term ruling is labeled `DR-97` in file 16 and in `LOG` L1638.
 
 **Citations into file 16 by line.** Current anchors: Half B header L247 and Davis row L262; section 19 heading L2006; the research-half argument L2026–2046; "What stays FREE" L2048; the ruling L2073–2076; Register item 11 block L2089–2095; Notes L2097–2106 (Vestfold Hills sentence L2099–2100; namesake line L2101; kinship note L2103–2105); end-of-pass register row L3568. The line holding the string "100 Miles Davis Boulevard" is L1592 (another city's passage; the city is not named, as in the pass).
 
@@ -204,13 +204,13 @@ Pass files cite the spec under two numberings, and a reader following a citation
 
 ## DV-027 — The extent file's population figures
 
-`ULM/Extent_and_Density_Per_City.md` L617 and L636 carry Census I 1,158,314 and a density of 2,825 per km², and L617 gives 116 and 165 as the two required-area figures (km²). `CENSUS` L506 gives 1,210,432; 1,210,432 ÷ 10,000 = 121.0 and ÷ 7,000 = 172.9. The pass cites the density at `02_Spine.md` L318–326 and `README.md` L75. The two files disagree; no choice is made here.
+`ULM/Extent_and_Density_Per_City.md` L617 and L636 carry Census I 1,210,432, matching `CENSUS` L506, with required areas of 121 and 173 km² (at 10,000 and 7,000 per km²) and a density of 2,952 per km² on 410 km² (refreshed 2026-11-03 by the developer's decision). The pass cites the density at `02_Spine.md` L318–326 and `README.md` L75; the current density is 2,952.27 per km² (1,210,432 ÷ 410).
 
 ## DV-028 — The check files read at Step 5
 
 **Pass locations.** `05_Reconciliation.md` L64–69 (polar-night length compared across sources), L185; whole file (the check files are tier 3).
 
-**Current facts.** `CITIES/Local_Cultures/Mirny_Subnet/Davis.md` L28 calls Davis "sole-China-Primary"; L104 gives "Mandarin (Primary tier)"; L107 and L199 give "thirteen nations"; L53 gives polar night and midnight sun "roughly 66-67 days". `SPEC` L99–100 gives polar night about Jun 4 → Jul 10 (~37 days) and midnight sun about Nov 25 → Jan 18 (~55 days); the composition is at `SPEC` L20–22 and L32–76. `CITIES/Local_Robot_Culture/Mirny_Subnet/Davis.md` exists and is the other check file.
+**Current facts.** `CITIES/Local_Cultures/Mirny_Subnet/Davis.md` L28 calls Davis "sole-China-Primary"; L104 gives "Mandarin (Primary tier)"; L107 and L199 give "thirteen nations"; L53 gives polar night about 37 days and midnight sun about 54 days, matching three independent counts at latitude 68°35′S (2026-11-03). `SPEC` L99–100 gives polar night about Jun 4 → Jul 10 (~37 days) and midnight sun about Nov 25 → Jan 18 (~55 days); the composition is at `SPEC` L20–22 and L32–76. `CITIES/Local_Robot_Culture/Mirny_Subnet/Davis.md` exists and is the other check file.
 
 ## DV-029 — A character draft sited in Davis
 
@@ -220,7 +220,7 @@ Pass files cite the spec under two numberings, and a reader following a citation
 
 ## DV-030 — Spec climate retention
 
-`SPEC` L109 gives "Lands ~28 mm/yr (~45% retention)" and L108 "Falls ~73 mm/yr". 28 ÷ 72.8 = 38.46% (28 ÷ 73 = 38.36%). The pass states 38.5% at `02_Spine.md` L82, `01_Inherited.md` L242, `00.1` L330 and `04_Phase_02` L980.
+`SPEC` L109 gives "Lands ~28 mm/yr (~38% retention)" and L108 "Falls ~73 mm/yr". 28 ÷ 72.8 = 38.46% (28 ÷ 73 = 38.36%). The pass states 38.5% at `02_Spine.md` L82, `01_Inherited.md` L242, `00.1` L330 and `04_Phase_02` L980. The spec states 38% by the developer's decision of 2026-11-03.
 
 ---
 
@@ -240,7 +240,7 @@ The conclusions inside the sheets are kept as a record. They are the pass's own 
 
 ## DV-S01 — Which split governs
 
-Davis's own ruling governs the mandate and free split: file 16 section 19 (heading L2006) rules Option B, and Half B's pair is not cited as Davis's. The developer's words, 2026-09-16: *"Mandate 28.2% / free 31.1% actually does make sense within the context of the city setting, since it's the sort of thing they'd need."* (`DOI` `16` L2074–2075). File 16 itself is untouched; `Phase_4` and `Step_1_and_2` quote both pairs and say so. Current values: ruling text 28.2% / 31.1% (`16` L2076, L3568); section 19 table 27.6% / 30.5% (L2011–2012); Half B 20.3% / 37.8% (L262). The disagreement among these is source defect (1) under DV-006 and open question 1 below.
+**Standing decision (developer, 2026-11-03):** Davis's mandated and free tiers are the result of the Option B rule on the current population: agriculture 35% plus half of technical/scientific 12.5%, as a share of the distinctive tier (47.5%). On 915,098 workers that is 252,606 mandated (27.6%) and 279,197 free (30.5%). The developer's words of 2026-09-16: *"Mandate 28.2% / free 31.1% actually does make sense within the context of the city setting, since it's the sort of thing they'd need."* (`DOI` `16` L2074–2075). File 16's section 19 text (L2076) and register row (L3568) state the rule and its current result; Half B's 20.3% / 37.8% (L262) is the agriculture-only mandate and is not cited as Davis's. `Phase_4`, `Step_1_and_2` and `Phase_7` carry the same statement. The pass files quote the ruling's wording.
 
 ## DV-S02 — The two relationship passages
 
@@ -288,28 +288,24 @@ Pass location, the input it rests on, and that input's current value. No verdict
 
 Each is stated with both addresses; none is resolved here.
 
-1. File 16: split 27.6% / 30.5% (L2011–2012) against 28.2% / 31.1% (L2073–2076, L3568) and 20.3% / 37.8% (L262).
-2. File 19 holds two runs. Its latest run (section 5, L62 and L81) gives Davis's farm workforce 186,131 and share 44.2%, which three independent counts reproduce from file 16; section 1 (L11) and section 2 (L34-L35) belong to the first run, and people fed is 1,309,000 (L44). File 18 L49 carries both shares (44.3% and 44.2%).
-3. `ULM/Extent_and_Density_Per_City.md` L617, L636 against `CENSUS` L506 (DV-027).
-4. `Local_Cultures/Mirny_Subnet/Davis.md` L53 (66–67 days) against `SPEC` L99–100 (37 and 55 days); three independent counts at latitude 68°35′S give 37 days without sunrise and 54 days without sunset; its composition text against `SPEC` L20–22 (DV-028).
-5. `SPEC` L109 (~45% retention) against 28 ÷ 72.8 = 38.46% (DV-030).
-6. `SPEC` L8, L86, L153, L257 against `Founding_Register.md` L57 for Mirny's founder (DV-004).
-7. `City_Symbol_Assignments.md` L71 against L112 (DV-003).
-8. `City_Cross_Subnet_Relationships.md` L137 against L139–147 (DV-004).
-9. `No_National_Stereotypes.md` L105–106 against `Timeline.md` L251–258 (DV-026).
-10. `CENSUS` L33 (tag described as an arrival) against `LOG` L1555 and L1660.
+1. File 19 holds two runs. Its latest run (section 5, L62 and L81) gives Davis's farm workforce 186,131 and share 44.2%, which three independent counts reproduce from file 16; section 1 (L11) and section 2 (L34-L35) belong to the first run, and people fed is 1,309,000 (L44). File 18 L49 carries both shares (44.3% and 44.2%).
+2. `Local_Cultures/Mirny_Subnet/Davis.md` composition text against `SPEC` L20–22 (DV-028).
+3. `SPEC` L8, L86, L153, L257 against `Founding_Register.md` L57 for Mirny's founder (DV-004).
+4. `City_Symbol_Assignments.md` L71 against L112 (DV-003).
+5. `City_Cross_Subnet_Relationships.md` L137 against L139–147 (DV-004).
+6. `No_National_Stereotypes.md` L105–106 against `Timeline.md` L251–258 (DV-026).
+7. `CENSUS` L33 (tag described as an arrival) against `LOG` L1555 and L1660.
 
 ---
 
 # H. Open questions for the developer
 
-1. **Which split is Davis's?** Your 2026-09-16 ruling reads mandate 28.2% and free 31.1%. File 16's section 19 table now counts 27.6% and 30.5% on the current workforce of 915,098 (L2011–2012), its own text still quotes your ruling (L2076), and Half B shows 20.3% and 37.8% (L262). Three independent counts (2026-11-03) confirm the arithmetic: the rule behind your ruling (agriculture 35% plus half of technical/scientific 12.5% of the distinctive tier, 47.5%) gives 252,606 mandated and 279,197 free workers on 915,098, which is 27.6% and 30.5%; Half B's 20.3% and 37.8% is the agriculture-only mandate (186,131). Which pair do you want carried as Davis's?
-2. **The seal on comparing nations' figures.** The pass bars comparing any two nations' figures; the stated ground is that values inside a tier are randomized (`DR-12`). The table now comes from headcounts, with a random multiplier only on the Sinian Federation (0.5719) and Manchuria (0.5855). Does the bar stay, and on what ground?
-3. **The very small rows.** 21 of the 45 origin rows are under 1% and the smallest, Tuva, is 152 people at Census I. Do the smallest rows count as origin communities, or as a tail?
-4. **The language rule in a finished pass.** Davis's pass never mentions Hawaiian. The set at 12 points is English, Mandarin, Japanese and German. Should the rule enter this pass as a dated note, or should the language sections (Phase 8 section E, Phase 9 Language row) be re-derived?
-5. **Re-derive or annotate.** Phase 2 (composition) and Phase 5 (relations) rest on inputs that changed most (section F). Do you want these re-derived, or only carried by this note?
-6. **The symbol pair.** It is blank by your 2026-09-16 ruling. It stays blank until Davis's own Phase 10 sets it; is that still the plan?
-7. **The character draft in Davis.** Her README cites a China share of 20.51% (L47) and a China-Primary founding tier (L45). Should it be brought in line when Davis's composition is settled?
+1. **The seal on comparing nations' figures.** The pass bars comparing any two nations' figures; the stated ground is that values inside a tier are randomized (`DR-12`). The table now comes from headcounts, with a random multiplier only on the Sinian Federation (0.5719) and Manchuria (0.5855). Does the bar stay, and on what ground?
+2. **The very small rows.** 21 of the 45 origin rows are under 1% and the smallest, Tuva, is 152 people at Census I. Do the smallest rows count as origin communities, or as a tail?
+3. **The language rule in a finished pass.** Davis's pass never mentions Hawaiian. The set at 12 points is English, Mandarin, Japanese and German. Should the rule enter this pass as a dated note, or should the language sections (Phase 8 section E, Phase 9 Language row) be re-derived?
+4. **Re-derive or annotate.** Phase 2 (composition) and Phase 5 (relations) rest on inputs that changed most (section F). Do you want these re-derived, or only carried by this note?
+5. **The symbol pair.** It is blank by your 2026-09-16 ruling. It stays blank until Davis's own Phase 10 sets it; is that still the plan?
+6. **The character draft in Davis.** Her README cites a China share of 20.51% (L47) and a China-Primary founding tier (L45). Should it be brought in line when Davis's composition is settled?
 
 # I. Decisions pending elsewhere that touch Davis
 

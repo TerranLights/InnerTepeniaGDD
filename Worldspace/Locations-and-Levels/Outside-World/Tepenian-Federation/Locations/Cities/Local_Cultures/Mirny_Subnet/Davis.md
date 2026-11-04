@@ -50,7 +50,7 @@ Australian founding character shaped Davis from the outset, alongside — but ad
 
 ## 3. Climate Character
 
-Davis sits at a mean annual temperature around −10.0°C, with polar night and midnight sun each running roughly 66-67 days — squarely typical for its latitude, without Denison's or Mirny's extreme wind signature dominating daily life. What makes Davis's environment distinctive isn't severity — it's variety. The Vestfold Hills combine rocky ice-free ground, freshwater lakes, unusual hypersaline lakes, fjord-like Prydz Bay inlets, and the surrounding ice sheet, all within the same city's territory — a range of terrain and microclimate no other Tepenian city needs to account for in the same footprint.
+Davis sits at a mean annual temperature around −10.0°C, with polar night running about 37 days and midnight sun about 54 days — squarely typical for its latitude, without Denison's or Mirny's extreme wind signature dominating daily life. What makes Davis's environment distinctive isn't severity — it's variety. The Vestfold Hills combine rocky ice-free ground, freshwater lakes, unusual hypersaline lakes, fjord-like Prydz Bay inlets, and the surrounding ice sheet, all within the same city's territory — a range of terrain and microclimate no other Tepenian city needs to account for in the same footprint.
 
 This variety shapes a genuinely different relationship to environment than any other Mirny subnet city: not survival-focused (Denison), not managed-as-obstacle (Mirny, Casey), but studied, mapped, and understood in real depth — a city whose founders inherited a genuine natural laboratory and kept treating it as one.
 

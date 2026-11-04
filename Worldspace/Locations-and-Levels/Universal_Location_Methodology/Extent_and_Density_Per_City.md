@@ -590,7 +590,7 @@ Dome Fuji***. **They are placed in the table by site type, not by a researched r
 ## ⚠ TWO CLUSTERING FINDINGS THE PER-CITY ROWS HIDE
 
 ⭐⭐⭐ **THE TRI-CITIES ARE THE LARGEST CITY IN TEPENIA.** *Merged — as this session established they
-are — Zhongshan + Sinheung + Shirayuki is **3,527,096**, ahead of Lazar's 2,620,319 by **906,777**.*
+are — Zhongshan + Sinheung + Shirayuki is **3,330,740**, ahead of Lazar's 2,410,409 by **920,331**.*
 **The census has never shown it because it is three rows.** *On the Larsemann Hills' 40 km² of rock alone that
 is 88,177/km², 1.9× Manila — which is not a failure now that ice counts, but it does mean **~90% of the
 largest city in the country stands on ice**.*
@@ -602,38 +602,38 @@ Foothills. *Same shape, one subnet over.*
 
 | City | Subnet | Census I | @10k | @7k | Site |
 |---|---|--:|--:|--:|---|
-| Lazar | Halley | 2,620,319 | 262 | 374 | Schirmacher Oasis ~34 km² |
+| Lazar | Halley | 2,410,409 | 241 | 344 | Schirmacher Oasis ~34 km² |
 | Esperanza | Palmer | 1,200,000 | 120 | 171 | Hope Bay + Tabarin + ice (Option D, `DR-90`) ⚠ *James Ross I.'s role open — §8* |
-| Cape Adare | Janbogo | 1,499,654 | 150 | 214 | Cape Adare |
-| Casey | Mirny | 1,495,731 | 150 | 214 | Bailey Pen., Windmill Is. |
-| **Halley** | Halley | 1,452,345 | 145 | 207 | **Brunt ice shelf — MIGRATING** |
-| Mawson | Mawson | 1,446,733 | 145 | 207 | Holme Bay |
-| **Mirny** | Mirny | 1,351,430 | 135 | 193 | **coastal ice** |
-| Janbogo | Janbogo | 1,310,511 | 131 | 187 | Terra Nova Bay |
-| Zhongshan | Mirny | 1,279,433 | 128 | 183 | Larsemann Hills ~40 km² |
-| Zukelli | Janbogo | 1,258,651 | 126 | 180 | Terra Nova Bay |
-| **Neumayer** | Halley | 1,252,080 | 125 | 179 | **Ekström ice shelf** |
-| Shirayuki | Mirny | 1,178,313 | 118 | 168 | Larsemann Hills |
-| ⭐ Davis | Mirny | 1,158,314 | 116 | 165 | **Vestfold Hills ~410 km² — fits on rock** |
-| Princess Elisabeth | Halley | 1,137,917 | 114 | 163 | Utsteinen ridge |
-| Belgrano | Halley | 1,071,890 | 107 | 153 | Bertrab nunatak |
-| Sinheung | Mirny | 1,069,350 | 107 | 153 | Larsemann Hills |
-| Abowasa *(now Santa Luce)* | Halley | 437,614 *(was 1,034,241; scenario `DR-67`/`DR-68`, 2026-10-28)* | 44 *(was 103)* | 63 *(was 148)* | Basen nunatak |
-| **Concordia** | Janbogo | 1,015,947 | 102 | 145 | **Dome C plateau — 0% rock** |
-| Troll | Halley | 954,450 | 95 | 136 | Jutulsessen |
-| Sanay | Halley | 463,669 | 46 | 66 | inland bedrock + coastal port |
-| **Vostok** | Mirny | 389,261 | 39 | 56 | **plateau** |
-| **Byrd** | Byrd | 376,890 | 38 | 54 | **WAIS interior** |
-| **Kunlun** | Mirny | 123,449 | 12 | 18 | **Dome A** |
-| **Dome Fuji** | Mawson | 55,072 | 6 | 8 | **Dome F** |
+| Cape Adare | Janbogo | 1,551,776 | 155 | 222 | Cape Adare |
+| Casey | Mirny | 1,547,850 | 155 | 221 | Bailey Pen., Windmill Is. |
+| **Halley** | Halley | 1,504,467 | 150 | 215 | **Brunt ice shelf — MIGRATING** |
+| Mawson | Mawson | 1,498,852 | 150 | 214 | Holme Bay |
+| **Mirny** | Mirny | 1,403,549 | 140 | 201 | **coastal ice** |
+| Janbogo | Janbogo | 1,362,629 | 136 | 195 | Terra Nova Bay |
+| Zhongshan | Mirny | 1,203,607 | 120 | 172 | Larsemann Hills ~40 km² |
+| Zukelli | Janbogo | 1,310,769 | 131 | 187 | Terra Nova Bay |
+| **Neumayer** | Halley | 1,304,201 | 130 | 186 | **Ekström ice shelf** |
+| Shirayuki | Mirny | 1,112,600 | 111 | 159 | Larsemann Hills |
+| ⭐ Davis | Mirny | 1,210,432 | 121 | 173 | **Vestfold Hills ~410 km² — fits on rock** |
+| Princess Elisabeth | Halley | 1,190,038 | 119 | 170 | Utsteinen ridge |
+| Belgrano | Halley | 1,124,011 | 112 | 161 | Bertrab nunatak |
+| Sinheung | Mirny | 1,014,533 | 101 | 145 | Larsemann Hills |
+| Abowasa *(now Santa Luce)* | Halley | 465,818 *(was 1,034,241; scenario `DR-67`/`DR-68`, 2026-10-28)* | 47 *(was 103)* | 67 *(was 148)* | Basen nunatak |
+| **Concordia** | Janbogo | 1,068,065 | 107 | 153 | **Dome C plateau — 0% rock** |
+| Troll | Halley | 1,006,570 | 101 | 144 | Jutulsessen |
+| Sanay | Halley | 515,789 | 52 | 74 | inland bedrock + coastal port |
+| **Vostok** | Mirny | 441,378 | 44 | 63 | **plateau** |
+| **Byrd** | Byrd | 429,009 | 43 | 61 | **WAIS interior** |
+| **Kunlun** | Mirny | 148,497 | 15 | 21 | **Dome A** |
+| **Dome Fuji** | Mawson | 80,120 | 8 | 11 | **Dome F** |
 | **Amundsen Station** | Amundsen | 6,857 | 1 | 1 | **South Pole** |
 
-**26,880,794 people needing 2,688–3,840 km² between them.** ✅ **All of it available.** *(Snapshot note, 2026-10-28: the table above records the 2026-09-05 populations, several of which predate that day's trims; the current Census I for the same 25 cities sums to 26,195,237, needing 2,620–3,742 km², still all available. The table was left as the dated record; the census is the live source.)*
+**26,111,826 people needing 2,611–3,730 km² between them.** ✅ **All of it available.** *(Census I of 2026-11-03; the census is the live source.)*
 
 ## ⛔ A CORRECTION TO §8, SAME DAY
 
 **§8 called Marambio *"the one Tepenian city that never had to build on ice."*** ⛔ **Wrong — Davis also fits
-entirely on rock, with room to spare** *(1,158,314 on the Vestfold Hills' 410 km² = 2,825/km²)*. ✅ **The
+entirely on rock, with room to spare** *(1,210,432 on the Vestfold Hills' 410 km² = 2,952/km²)*. ✅ **The
 true statement: Marambio and Davis are THE TWO**, *and they are opposite kinds of site — a wholly snow-free
 island versus the largest coastal oasis.* **Corrected in `Specs/Marambio.md` the same day.**
 
