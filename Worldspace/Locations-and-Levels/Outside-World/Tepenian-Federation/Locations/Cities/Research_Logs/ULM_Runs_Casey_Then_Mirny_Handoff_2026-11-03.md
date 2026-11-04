@@ -2,7 +2,7 @@
 
 **Read this file first, then `TEPENIA_Research_Tracker_and_Handoff.md` (this folder), section S.0z and the entries after it.** Everything below is verified as of 2026-11-03 evening and committed in the GDD repo (`main`).
 
-**If it is evening (after 15:00) when you read this:** the only task to start is **Esperanza's extent research** (real-world research, allowed in the evening; see section 6): ice speed near Hope Bay and Tabarin from a velocity dataset read directly, the footprint, the Ulu Peninsula's role; log every search; one output file in this folder. Everything else waits for 05:00.
+**UPDATE, 2026-11-03 ~21:30: Esperanza's extent research is DONE** (ice speed read directly from the ITS_LIVE mosaic; footprint; Ulu Peninsula): `Esperanza_Extent_Research_2026-11-03.md` and its scripts folder, both in this folder. Nothing in it is a ruling; the extent declaration still waits for the developer. Also done that evening: `Drift_Review_SUMMARY_Finished_Passes_2026-11-03.md` (and five per-city reports) on which finished ULM passes rest on inputs that have since changed. **If it is evening (after 15:00) when you read this:** no ULM or culture task may start; bookkeeping and real-world research only. Everything else waits for 05:00.
 
 ## 1 · Rules that bind this session (do these before anything else)
 1. **Run `date` before any worldbuilding step.** The ULM, CST and RWBEM, and any culture or location writing, run **only 05:00–14:59** (wrap-up from 13:59). Mechanics and bookkeeping run at any hour. The next window opens **2026-11-04 05:00**.
