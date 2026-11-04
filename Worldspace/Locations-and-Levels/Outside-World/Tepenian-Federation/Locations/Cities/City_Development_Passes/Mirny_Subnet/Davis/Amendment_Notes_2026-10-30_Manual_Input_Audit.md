@@ -246,6 +246,18 @@ The conclusions inside the sheets are kept as a record. They are the pass's own 
 
 `CITIES/City_Cross_Subnet_Relationships.md` L123–131 and `CITIES/City_National_Connections.md` L274–278, L293–295, L304–308 (L274–278 and L293–295 sit in sections of other cities and are not re-read here) rest on the Founding Register and on Hwy 110 (`Highways.md` L199) and do not name heritage, the culture megasheet's heritage claim or the namesake story; ratings and types are unchanged. Current text: Mawson, "Australia is among the founders of both" (`City_National_Connections.md` L304–306); Casey, "Both founded by Australia (`DR-19`; Founding Register), on the same highway, Hwy 110" (L307); Mirny, "Australia is among the exile groups present at Mirny (Founding Register); Hwy 110, plus Mirny's own Relay Vaults link" (L308). `City_Cross_Subnet_Relationships.md` Part 3 (L135–147) is untouched and refers to the "shared naming heritage" treatment of Part 2; L125–126 still cites `Davis_Full_Extrapolation.md`. Approved with *"all as recommended"*, 2026-10-30.
 
+## DV-S03 — The bar on comparing nations' figures stays
+
+**Standing decision (developer, 2026-11-03):** the bar stays, on its first ground. `DR-12` (`LOG` L463–474): the per-nation figures are weights for deriving a location (in the world they are headcounts), and no finding rests on a gap between two nations of the same tier. The second ground, randomization of the values for realism, applies only to the Sinian Federation row (multiplier 0.5719) and the Manchuria row (0.5855) (`SPEC` L28; DV-022).
+
+## DV-S04 — The small origin rows
+
+**Standing decision (developer, 2026-11-03):** all 45 rows of Davis's composition are origins. Phase 2 reasons by headcount, with no cutoff: 21 rows are under 1% and the smallest, Tuva, is 152 people at Census I (`SPEC` L32–76).
+
+## DV-S05 — The plan for the pass
+
+**Standing decision (developer, 2026-11-03):** this note carries the facts. In a morning window one reader per item in section F checks whether its conclusion changes on the current inputs; only the items that change are re-derived. The language rule (DV-025) enters the pass through this note. Phase 2 and Phase 5 are the first candidates (section F, C-1 to C-7).
+
 ## Corrections inside the sheets (walk-through item 5, same quote and date)
 
 - The `Phase_5` Ports row marks the "road and air" wording as a record of text the 2026-09-16 port ruling replaced.
@@ -272,11 +284,11 @@ Pass location, the input it rests on, and that input's current value. No verdict
 | C-1 | `04_Phase_02` H-2 (L224–258), A.2 closing (L324–331), A.3 (L334–345), B.4 (L583–636), L1400, L1598; `02_Spine.md` L250; `01_Inherited.md` L70 (the contrast between the founding stock and the plurality stock, and the reading of the "(founding wave)" tag) | What the tag means; who is largest | Tag clause `LOG` L1555, L1660; Register `Founding_Register.md` L59; Australia 5.74% (`SPEC` L38), Japan 10.42% (L32), Sinian Federation 9.72% (L33) |
 | C-2 | `04_Phase_02` C.2 (L939–950), C.3 (L953–976), C.5 (L1012–1021), L1448, L1482 (the scale check on origin communities and the rich-internal-layer conclusion) | Number and size of origin rows | 45 rows; 10 under 0.1% (152 to 1,162 people); 17 under 0.5%; 21 under 1% (`SPEC` L32–76); regional and successor names at `CENSUS` L839 |
 | C-3 | `04_Phase_02` E.1 (L1060–1081) (the origins as a sample of the places robots occupied) | The list of origins | Rows listed at `SPEC` L32–76, including Taiwan (L43), Kazakhstan (L51), Manchuria (L57), Mongolia (L60), East Turkestan (L62), Tibet (L70) |
-| C-4 | `01_Inherited.md` L87–88, L274; `04_Phase_02` L50, L318–320, L324; `02_Spine.md` L116–118 (the seal on comparing nations' figures and its stated ground) | How the figures are produced | `SPEC` L28 and L78 (DV-022); `LOG` L463–474 (`DR-12`); `LOG` L1523 (`DR-85`) |
+| C-4 | `01_Inherited.md` L87–88, L274; `04_Phase_02` L50, L318–320, L324; `02_Spine.md` L116–118 (the seal on comparing nations' figures and its stated ground) | How the figures are produced | `SPEC` L28 and L78 (DV-022); `LOG` L463–474 (`DR-12`); `LOG` L1523 (`DR-85`); the bar stays (DV-S03) |
 | C-5 | `04_Phase_05` L35–36, L303–306, L330, L346, L383–386 (heritage relations treated as excluded for want of an independent route) | What the relationship files rest on | `City_National_Connections.md` L304–308 rests on the Register and Hwy 110 (DV-S02); `City_Cross_Subnet_Relationships.md` L125–126 cites a withheld source (DV-004) |
 | C-6 | `04_Phase_08` L241–250, L320; `04_Phase_09` L92 (what any community speaks; the dominant local layer; the marker of belonging) | The language rule | DV-025: Hawaiian national language; supporting set English, Mandarin, Japanese, German |
 | C-7 | `02_Spine.md` L107, L116–118; `04_Phase_02` A.4 (L347–363), B.2 chain (L461–476) (nothing load-bearing can be tacit, given the number of origins and the largest share) | Number of rows; largest share | 45 rows; largest 10.42% (`SPEC` L32) |
-| U-1 | `04_Phase_07` A.2 (L102–123), A.2b (L125–138), L407; `05_Reconciliation.md` L102–110 (the export headcount that the pass declines to state) | The national food files | DV-007: 44.2% of export supply (`DOI` `19` L81); two run values for Davis's farm workforce, 189,548 (L11) and 186,131 (L62); file 16 L2091–2094 vs L2022 |
+| U-1 | `04_Phase_07` A.2 (L102–123), A.2b (L125–138), L407; `05_Reconciliation.md` L102–110 (the export headcount that the pass declines to state) | The national food files | DV-007: 44.2% of export supply (`DOI` `19` L81); file 19 holds two runs, and its latest run gives Davis's farm workforce as 186,131 (L62); file 16 L2091–2094 states the whole-workforce comparison (320,284 against 186,131, a gap of 134,153), and file 04 §3 still states 306,780 |
 | U-2 | `02_Spine.md` L90–101, L158–182; `04_Phase_02` L708–743 (what crossed the founding gap) | The inheritance rules | `LOG` L623–660; `No_National_Stereotypes.md` L21 (DV-026) |
 | U-3 | `04_Phase_10` L499–503 (no figure sited in Davis) | Character drafts | DV-029 |
 | U-4 | `00.1` §4 (L205–286), `00.1a` (the composition region of the contract) | The spec's composition block | `SPEC` L13–78 (DV-005) |
@@ -300,12 +312,9 @@ Each is stated with both addresses; none is resolved here.
 
 # H. Open questions for the developer
 
-1. **The seal on comparing nations' figures.** The pass bars comparing any two nations' figures; the stated ground is that values inside a tier are randomized (`DR-12`). The table now comes from headcounts, with a random multiplier only on the Sinian Federation (0.5719) and Manchuria (0.5855). Does the bar stay, and on what ground?
-2. **The very small rows.** 21 of the 45 origin rows are under 1% and the smallest, Tuva, is 152 people at Census I. Do the smallest rows count as origin communities, or as a tail?
-3. **The language rule in a finished pass.** Davis's pass never mentions Hawaiian. The set at 12 points is English, Mandarin, Japanese and German. Should the rule enter this pass as a dated note, or should the language sections (Phase 8 section E, Phase 9 Language row) be re-derived?
-4. **Re-derive or annotate.** Phase 2 (composition) and Phase 5 (relations) rest on inputs that changed most (section F). Do you want these re-derived, or only carried by this note?
-5. **The symbol pair.** It is blank by your 2026-09-16 ruling. It stays blank until Davis's own Phase 10 sets it; is that still the plan?
-6. **The character draft in Davis.** Her README cites a China share of 20.51% (L47) and a China-Primary founding tier (L45). Should it be brought in line when Davis's composition is settled?
+1. **The symbol pair.** It is blank by your 2026-09-16 ruling. It stays blank until Davis's own Phase 10 sets it; is that still the plan?
+2. **The character draft in Davis.** Her README cites a China share of 20.51% (L47) and a China-Primary founding tier (L45). Should it be brought in line when Davis's composition is settled?
+3. **The climate class.** The spec classes Davis an ice-free oasis (`SPEC` L107) and states about 28 mm staying of 72.8 mm that falls (about 38%); `Reference/Real-World/Climate Data/Precipitation_Falls_vs_Lands.md` L163 lists Davis under the katabatic margin with the same 28 mm. An oasis class would give about 33 mm staying and 40 mm lost (45%). Left open by the developer on 2026-11-03.
 
 # I. Decisions pending elsewhere that touch Davis
 
