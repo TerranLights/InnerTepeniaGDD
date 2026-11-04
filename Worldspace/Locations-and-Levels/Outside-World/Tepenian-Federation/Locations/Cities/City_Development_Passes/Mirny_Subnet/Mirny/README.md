@@ -1,5 +1,7 @@
 # Mirny — development pass
 
+> **Status block, written 2026-11-03.** The sentence below that this folder is "empty by design" is the original 2026-09-05 note and no longer describes the folder: the pass was run through ULM Step 10 (awaiting the developer's review; **not declared complete**), and the folder now holds the step and phase files, the T8 round files, the Pre-Trip (rebuilt 2026-11-03 in the current format; the as-run sheet is kept as `00.0_Pre-Trip_Inspection_AS_RUN_2026-09-28.md`), the ledger, `Datasheets/` (19 sheets), and an **amendment layer** appended beside the pass (`Amendment_Rederivation_P06…`, `P07…`, `Amendment_Notes_2026-10-30…`, `Amendment_Notes_2026-11-03…`, `DR-56_Amendment_Register…`), listed in the Pre-Trip, section O. The pass files stay as they are (`DR-74`). **The composition has changed since the pass was run:** six Primary nations (United Kingdom, Korea, Indonesia, Sinian Federation, Japan, Australia), no majority; the old statement that China is the sole Primary no longer holds. Population (spec L15–L16): Census I 1,403,549; Census II 1,052,374. Language: Hawaiian (later Tepenian) is the civic default; the second slot is open for want of a majority.
+
 **Folder opened 2026-09-05.** ⚠ **Empty by design.** *Files appear here **one at a time**, as each piece is
 run — never pre-created.*
 

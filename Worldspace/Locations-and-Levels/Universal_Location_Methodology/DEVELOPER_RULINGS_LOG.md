@@ -1652,4 +1652,13 @@ directly underneath Kazakhstan, so that could very well be a valid option for a 
 | **Not decided** | The supporting-tier language for the station (left open); the town design itself; the pair check with Byrd. |
 | **Files** | This log; `Research_Logs/Amundsen_Station_Review_Pack_2026-11-03.md`; `Research_Logs/Amundsen_Station_Composite_Language_Blocs_2026-11-03.md`; the spec and the census (edits logged in `Research_Logs/Amundsen_Station_Spec_Composite_Applied_2026-11-03.md`). |
 
+## `DR-99` · ✅ **MIRNY: IDELSK-URALIA IS ALSO AN EXILE GROUP; THE "(FOUNDING WAVE)" TAG IS NARROWED; THE REGISTER'S NAMES MAP ONE-TO-ONE** *(2026-11-03)*
+
+| | |
+|---|---|
+| **Developer, verbatim** | Given as selections from the written options of the Phase 2 composition piece (`Amendment_Rederivation_P2c_Composition_2026-11-03.md`, questions AQ-17, AQ-19, AQ-18): *"Also an exile group"* · *"Narrow it to the Register's meaning"* · *"Yes, one-to-one"*. |
+| **Recorded as** | **(1)** Idelsk-Uralia, the establishing country, **also sent people**: it is an exile group at Mirny as well as the founder. The founding share to carry is **23.24 %** (22 of 100 by the retired weights); founders remain a minority. This settles `DR-46`'s open "confirm if wrong". **(2)** The census tag "(founding wave)" means the establishing country named in the Register, not people who arrived in a wave. **(3)** The Register's founder names map one-to-one onto the table's rows: Russia = Russia (core state), China = Sinian Federation, Australia = Australia. |
+| **Not applied yet** | The Founding Register's Mirny row (add Idelsk-Uralia to the exile groups), census L33, and the relationship database's Mirny line. They await the developer's word. |
+| **Files** | `Amendment_Rederivation_P2c_Composition_2026-11-03.md` section 9; this log. |
+
 > 📎 **Derivation Mechanisms (line added 2026-10-29; nothing was moved).** This is a **tracking or results file: it belongs in this repo.** A snapshot copy taken 2026-10-29 sits in the universe-wide methods repo `DerivationMechanisms` at `/home/kuroskalacs/Documents/Doll-Fi/media/Reference/DerivationMechanisms/Environment/ULM [Universal Location Methodology]/from InnerTepeniaGDD/DEVELOPER_RULINGS_LOG.md`; that snapshot is not kept current and is to be cleaned out later. **If you arrived here from a line reference: the pointer sits at the very END on purpose, because inserting it mid-file would have shifted every cited line.**
