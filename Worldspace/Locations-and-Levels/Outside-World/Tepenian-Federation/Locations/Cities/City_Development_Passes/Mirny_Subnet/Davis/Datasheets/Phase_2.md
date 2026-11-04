@@ -5,6 +5,8 @@
 > read the cited lines myself, this session) vs. **T8-reported** (quoted by today's three Round 1/Round 3
 > readers; not yet independently re-confirmed by me against the primary text at its exact byte range).
 
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 2), checked 2026-11-03:** **3 of 3** addresses are named in this sheet (3 directly, 0 through a shared Tier U sheet it cites).
+
 ## Directly verified — I read `Official_Population_Census.md` L390–396 myself
 
 | Category | Value | Citation |
@@ -29,6 +31,7 @@
 |---|---|---|
 | Falkland Treaty Art. II.2.1 | Robots "presently residing within the territory of any Assembly Power" and those who "may hereafter come into being within such territory" depart that territory — territorial criterion, not ancestral | Reported by Readers A, B, C, Round 1/3 |
 | Falkland Treaty Art. II.2.2 | Robot departure is class-based, explicitly on no individual finding; "nor shall the absence of any such finding be grounds for exception" | Reported by Readers A, C |
+| `No_National_Stereotypes.md` | Checked by name (`Davis`): **zero hits** in a 174-line file | `…/Reference/No_National_Stereotypes.md` |
 | Falkland Treaty Art. II.2.3 | ⚠ **CORRECTED 2026-09-16 — developer ruling.** Human admission runs on **prior association with the robot population, communal or personal** — **four grounds**, the fourth a broad residual (*"or otherwise established their life among the robot population"*) — then *"may elect to accompany that population to the Federation of Tepenia."* ⛔ **NOT a relationship requirement; humans were free to self-exile alongside the robots.** *The three readers transcribed the clause accurately and the summary elided its residual — see `04_Phase_02…md` §Q.5* | Readers A, B, C; corrected against `Corpus_Reference_Sheets/Falkland_Treaty_Quick_Reference.md` |
 | Falkland Treaty Art. II.2.4 | "No human person shall be compelled to depart under this Article who does not so elect" | Reported by Reader C |
 | Falkland Treaty Art. II.3.2 | The allocation to Davis itself; per Reader C, positively provides for a staged, multi-year allocation whose stages canon does not record | Reported by Readers A, C |

@@ -6,6 +6,8 @@
 > draw on the identical fact set and both feed `00_Frame.md`**, so kept apart they were near-total duplicates.
 > **Phase 0's own `MUST OPEN` mapping is preserved below as §B rather than dissolved into the table above.**
 
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 0), checked 2026-11-03:** **3 of 3** addresses are named in this sheet (3 directly, 0 through a shared Tier U sheet it cites).
+
 | Category | Value | Citation |
 |---|---|---|
 | Type + modifiers | Settlement, NO MODIFIERS ASSIGNED (zero modifiers is a ruled result, not a gap) | `00_Frame.md` §0.1, L60–63 |
@@ -26,6 +28,7 @@
 | Robot physiology governing fact | Robots are 51.34% of Census I *(as recorded at the pass (2026-09-16); ≈ 51.30% since `DR-68`)* — every phase is about them | `00_Frame.md` §0.2, L238 |
 | Reserved decisions (6, must not be foreclosed) | proper names of people · the demonym · which DLC covers Mirny · disposal of the dead · `G1`'s Element meaning · early-Federation currency | `00_Frame.md` §0.5 |
 | Provisional assumptions about the parent (PA-1…PA-6) | listed in full at source | `00_Frame.md` §0.6 |
+| **Language** (set 2026-11-03) | Hawaiian (later Tepenian) is the dominant language. **Supporting tier: English, Mandarin, Japanese, German** — a language not dominant but widely enough understood that business, social talk and general dealings can be done in it; the set is every language group within 12 percentage points of the city's largest group (range mid-points; nations sharing a language summed). Largest group: English 17.0–25.8. Other groups within 12 points: Mandarin 13.3–14.1, Japanese 10.4, German 9.9. *These are shares of residents whose national origin is a nation of that language, not counts of speakers; the mapping of nations to languages is recalled general knowledge, not verified.* | `Research_Logs/Language_Sets_By_City_Reference_2026-11-03.md` (12-point addendum and rulings); `Research_Logs/Language_Blocs_By_City_2026-11-03.md` |
 
 **Not mechanical / not included here:** the three contested-field resolutions (§0.1a), the `G6` re-grounding
 challenge (§0.3), the reserved finding A-1, the verdict.

@@ -2,6 +2,8 @@
 
 > ⚠ **DRAFT — Tier C + Tier U.** 📎 *Files cited by line number here may carry a pointer to their copy in the `DerivationMechanisms` repo at the very END of the file (put there so no cited line moves): check the bottom of a cited file.*
 
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 10), checked 2026-11-03:** **3 of 3** addresses are named in this sheet (3 directly, 0 through a shared Tier U sheet it cites).
+
 | Category | Value | Citation |
 |---|---|---|
 | Characters canon — Davis-tagged characters | **RUN, not asserted zero.** Two files matched "davis" — both **false positives**: real-world Enneagram exemplars (Bette Davis, Sammy Davis Jr.) inside `Character_Creation_Methodology/Enneagram/` reference material, not fictional characters tied to the city. **Zero actual character-canon hits for Davis** | Re-verified this turn: `grep -rl -i davis` against `TepenianUniverseTimeline/Worldspace/Characters/`, both hits confirmed false positives by context |

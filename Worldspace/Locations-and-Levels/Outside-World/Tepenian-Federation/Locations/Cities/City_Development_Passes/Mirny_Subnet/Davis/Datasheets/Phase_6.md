@@ -6,12 +6,16 @@
 > command produced the original "0 files" claim did not actually enumerate that directory correctly. Fixed
 > below; recorded as a self-audit failure, not silently corrected.
 
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 6), checked 2026-11-03:** **5 of 5** addresses are named in this sheet (5 directly, 0 through a shared Tier U sheet it cites).
+
 | Category | Value | Citation |
 |---|---|---|
 | `Factions/Robot_Religions/` roster — the actual content | **NOT empty.** Two developed religions exist: **Polydimensional Animism** (5 files — README, Beliefs, Rituals, Culture, Open_Questions; status "functional working copy, not locked final design canon") and **Cymatics Reverence** (1 file; status "placeholder name, early development" — reveres sound/vibration, rooted in robots' genuine wider sensory perception range) | Re-verified this turn: `find` returns 6 files across 2 religions |
 | `Factions/Robot_Religions/` — Davis-specific hit | **Checked properly this time: neither religion names Davis anywhere** — a genuine zero-hit result, distinct from "the roster is empty" | Re-verified this turn: `grep -rln -i davis` returns 0 files |
 | `National_Holidays.md` — Davis mention | Checked, **zero hits for Davis** by name | Re-verified this turn: `grep -i davis` returns 0 matches against 165 lines |
 | `Ice-Cold_Buddhism_Research/` — relevance check | Checked, **zero hits for Davis** across all 7 files — genuinely not relevant, not merely unopened | Re-verified this turn: `grep -rl -i davis` returns 0 files |
+| `The_True_Believer_Extraction.md` | Checked by name (`Davis`): **zero hits** in a 377-line file | `The_True_Believer_Extraction.md` |
+| `The_Meme_Machine_Extraction.md` | Checked by name (`Davis`): **zero hits** in a 292-line file | `The_Meme_Machine_Extraction.md` |
 | The RESERVED mortuary question | Not dispatched, per the Field Guide's own sequencing exclusion — RESERVED means RESERVED regardless of mechanical-ness | `00_Frame.md` §0.5 item 4 |
 
 **Not mechanical / not included here:** the Naming technique, belief landscape, death-and-the-dead, the Failure

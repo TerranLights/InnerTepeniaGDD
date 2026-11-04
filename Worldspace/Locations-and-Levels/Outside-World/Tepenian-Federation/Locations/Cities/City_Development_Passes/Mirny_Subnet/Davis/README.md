@@ -3,6 +3,9 @@
 **Folder opened 2026-09-05. ✅ ULM COMPLETE — Steps −1 through 10** *(2026-09-16; Gate 7 re-run and passed
 2026-09-22 — `07_QA.md`, `10_Readiness_Check.md`)*. **CST and RWBEM not yet run.**
 
+> ### ⚙ SUPPORT FILES REBUILT 2026-11-03 (developer approved; no pass file changed)
+> `00.0_Pre-Trip_Inspection.md` was regenerated in the current format (the as-run sheet is kept byte for byte as `00.0_Pre-Trip_Inspection_AS_RUN_2026-09-11.md`; the dated records are carried inside the new sheet, sections A, J and P; section O lists what changed in Davis's sources since the pass). `00.2_Position_Coverage_Ledger.md` was created (blank: no marks were recorded during the pass). The 19 `Datasheets/` were made current and completed (industry figures after the robot-keyed recount, the missing MUST OPEN rows and coverage lines, Step 6's table inventory, DRAFT markers, the language row). `verify_city_sheets.py Davis`: 20 checks, 0 FAIL. Log: `Research_Logs/Davis_Readiness_Rebuild_2026-11-03.md`.
+
 > ### ⛔⛔ A CONTAMINATION BOUNDARY FALLS INSIDE STEP 4 — developer ruling, 2026-09-16
 > **At 15:00 on 2026-09-16 the orchestrator audits two COMPLETED sibling passes in the same subnet
 > (`Zhongshan_Opus`, `Shirayuki`) plus one partial (`Zhongshan_Sonnet`) — ~56 files.** ⇒ ***From that point the

@@ -1,5 +1,7 @@
 # Davis — Datasheet · Phase 7 (Order)
 
+> ⚠ **DRAFT — Tier C + Tier U.** Rows copied from sources with their citations; nothing interpreted. The industry figures at the end of this sheet were added 2026-11-03.
+
 > ⛔⛔⛔ **READ FIRST — THE CITATION GATE.**
 > **`Corpus_Reference_Sheets/Division_of_Industry_Reliability_Quick_Reference.md`**
 > **`Division_of_Industry/` is stamped `RELIABLE` and voids its entire food layer fourteen lines later.**
@@ -17,6 +19,8 @@
 > duplicate. **This file covers Phase 7's OWN additional sources.**
 > ⭐ **REBUILT 2026-09-16** against `03_The_Phase_Spine.md`'s own MUST-OPEN list. **The prior version listed 6
 > of 13** and omitted the carve-out entirely.
+
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 7), checked 2026-11-03:** **13 of 13** addresses are named in this sheet (12 directly, 1 through a shared Tier U sheet it cites).
 
 ## 📂 MUST-OPEN coverage — **the spine's list, ticked**
 
@@ -63,3 +67,12 @@ counterculture derivation, sanction-proportionality pricing — **this phase's a
 > ⚠ **`H42` — DEVELOPER RULING 2026-09-16: how each area's criminal-justice system works is UNDEVELOPED, not
 > absent.** **The only extant design is scoped to one other location and self-declares as *"a working design…
 > not a finished or fully decided system."*** ⛔ **Do not derive one; do not read the silence as a finding.**
+
+## Division-of-Industry figures for Davis (added 2026-11-03; value + citation, nothing interpreted)
+
+| Category | Value | Citation |
+|---|---|---|
+| `16` Half B — the city's own row | City: Davis · Subnet: Mirny · D: 1.25 · Workforce: 915,098 · base%: 41.9% · MAND%: 20.3% · FREE%: 37.8% · src: C *(on the flat ABCC working value; counts re-run when per-city ABCC values are set — `16` L1287–L1304)* | `16_Per_City_Three_Tier_Run.md` L262 |
+| `16` §19 — the city's own determination (upper-case heading `## 19. ✅ DAVIS — DETERMINED`, Option B, flagged for post-pass review; governs over the Half B row) | Baseline 383,295 (41.9%) · Mandated 252,606 (27.6%) · FREE 279,197 (30.5%) · distinctive tier 531,803 (58.1%) · D 1.25, GROWER. Counts recomputed 2026-11-03 with the robot term (`DR-96`, `DR-97`), shares held from the ruling of 2026-09-16. Agricultural/food 35% of the distinctive tier = 186,131 workers | `16_Per_City_Three_Tier_Run.md` L2006–L2022 |
+| The ruling the §19 split rests on | Mandate 28.2% / free 31.1% *(Option B, 2026-09-16; the shares in §19 have since moved with the robot term as shown above)* | `16` decisions table row 14 (`16` L3568); `Phase_4.md` and `Step_1_and_2.md` carry the rows in full |
+

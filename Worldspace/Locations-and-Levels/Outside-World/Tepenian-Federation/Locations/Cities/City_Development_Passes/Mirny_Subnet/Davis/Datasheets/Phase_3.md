@@ -4,6 +4,8 @@
 > and is cross-referenced here, not re-derived. `Specs/Davis.md` re-verified this turn at its new path
 > `Specs/Mirny subnet/Davis.md` (181 lines when re-verified; **236 lines** now, `wc -l` 2026-10-30 — L182–236 are classified by neither of the Step −1 contract's ranges, see `Step_-1.md`) — see Davis's own README for the reorg note.
 
+> 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 3), checked 2026-11-03:** **4 of 4** addresses are named in this sheet (4 directly, 0 through a shared Tier U sheet it cites). Not applicable: `Davis_Geosciences_Research` (the spine marks it "where applicable": Davis only).
+
 | Category | Value | Citation |
 |---|---|---|
 | Concept-art directory status | EMPTY — `.gitkeep` only, 1 file total | `00.0_Pre-Trip_Inspection.md` §I, re-verified fresh this turn: `find` on `City_Concept-Art/Mirny_Subnet/Davis/` returns 1 file |

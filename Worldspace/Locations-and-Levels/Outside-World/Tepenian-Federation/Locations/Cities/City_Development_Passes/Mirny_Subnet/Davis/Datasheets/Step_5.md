@@ -1,5 +1,7 @@
 # Davis — Datasheet · Step 5 (Reconciliation)
 
+> ⚠ **DRAFT — deliberate stub (Tier U).** Step 5 is read-last: nothing is staged here by design; the notices below are records of the pass that has since run.
+
 > ⛔⛔⛔ **SUPERSEDED, 2026-09-21 — DAVIS'S PASS HAS ACTUALLY RUN.** This datasheet was pre-staged input for a
 > pass that had not started; Davis's real Step 5 output lives at `05_Reconciliation.md` in this city's own pass
 > folder. **Do not consult this file for Davis's reconciliation work.** Retained below as a record only, with
