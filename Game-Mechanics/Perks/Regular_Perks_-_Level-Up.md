@@ -302,6 +302,14 @@ The categories below indicate where additional perks are needed. Names and effec
 | Combat — NODE / Targeting | 15 | ~22 | ~7 more |
 | Combat — Hybrid / Specialized | 9 | ~22 | ~13 more |
 
+### Perk ideas awaiting a name or a design pass *(not counted in the tables above)*
+
+| Idea | Skills | Ranks | The idea, in the developer's words | Added |
+|------|--------|-------|-----------------------------------|-------|
+| **[NAME TBD — the developer has not named it]** | Melee and/or Unarmed *(Bladed Melee, Blunt Melee, Unarmed; which of them gate it is open)* | 3 | *"For each rank, when doing melee and/or unarmed attacks, the player can attack up to an additional +1 space without it costing any AP."* So rank 1 adds up to 1 space, rank 2 up to 2, rank 3 up to 3. | 2026-11-03 |
+
+*Settled by the developer, 2026-11-03:* the character **steps forward** into the extra space or spaces (**possibly as a lunge**; the visual is not decided), and the stepped tiles cost no AP (movement is normally **1 AP per tile**, `Core-Mechanics/Action_Points_Base-Level_System.md`); the attack itself still costs its normal AP. The perk is a **combat** perk and applies to **all melee and unarmed attacks**, which includes reach weapons such as spears and polearms. The requirements (stats and skill levels) are decided later. *Still open:* the combat sub-category (Combat — Offensive is already over its rough target and Combat — Hybrid / Specialized is the least filled, see the design note below), and the name.
+
 **Design note for future passes**: even with the expanded 260 goal, Combat — Offensive alone already exceeds its own rough share, while the other three combat categories and nearly every non-combat category still have real room to grow. Prioritize the most underrepresented categories first (Growth/Learning, Companion/Leadership, Combat — Hybrid/Specialized, Cultural/Philosophical) before adding more to already-robust ones (Combat — Offensive above all). New non-combat categories not yet invented are still encouraged — the world of Inner Tepenia has enough distinct systems to support them.
 
 **Before adding more perks, resolve the orphaned-perk backlog from the 2026-07-26 restructure first** (see the intro note and every perk marked *orphaned*/*blocked* inline above) — retargeting those to a real gate matters more than growing the raw count further.
