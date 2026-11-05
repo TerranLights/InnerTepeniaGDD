@@ -57,15 +57,18 @@ because it already failed once, when two districts were given nearly the same fo
    it — write the comparison as a table on at least four axes, including the **tense** axis (where and when the
    loss happens), the one most often skipped and the one that most often separates two locations that otherwise
    look identical.
-3. **Name the axis the category answers on**, in bold, and confirm no completed sibling already uses it —
-   *"different content is not differentiation; a different question is."*
+3. **Name the axis the category answers on**, in bold. ⏸️ *Confirming that no completed sibling already uses it
+   is TERMINAL-ONLY, like steps 1–2.* *"Different content is not differentiation; a different question is."* *(Re-extracted from `04` III.2 step 3, 2026-11-04, `M-275`.)*
 4. After completing a location, add its entry (a row for a city, a column for a district) in the same commit.
 
 ## III.3 — Sibling sets of different sizes
 
+> ⏸️ **TERMINAL-ONLY for a ULM / CST / RWBEM pass** (the 2026-09-06 ruling above). In-run, every location takes
+> the III.4 path. *(Re-extracted from `04` III.3, 2026-11-04, `M-275`.)*
+
 | Set size | How to run it |
 |---|---|
-| Large (20+) | Full table; check the most recently written first — collisions cluster there |
+| Large (20+) | Full table, with all columns present. |
 | Medium (5–20) | Full table; expect most pairs to eventually be compared directly |
 | Two | Write them together — two locations at opposite extremes of one faculty are each other's exact remedy, and the remedy is unacceptable, since taking it concedes the other's authority over that faculty |
 | One (no siblings) | III.4 |

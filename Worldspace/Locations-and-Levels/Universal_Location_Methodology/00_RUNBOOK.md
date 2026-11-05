@@ -1976,7 +1976,7 @@ Concordia as the measure of what a location should have, be, or contain.
 | **4** | ⭐⭐ **`Worldspace/Robot_Biology_and_Culture/Robot_Physiology_and_Cultural_Practices.md` — THE LARGEST SINGLE INPUT TO THIS PHASE** *(§C.10; the shared night, overnight recharging, leisure-as-a-fact-of-life, siligel/coolant, smoking, the human-robot baseline)* · `Robot_Cold_Physiology.md` · ⭐ **`Division_of_Industry/16_Per_City_Three_Tier_Run.md` Half B** — *this city's baseline/mandated/**free** tiers, i.e. how much of a working life is NOT spoken for* · ⭐ **`Division_of_Industry/09_Per_City_Baseline_Run.md` §3.5 — THE FREEDOM GRADIENT**, *which the physiology file itself cites as the measure of "the thing the exile was for"* · `Division_of_Industry/11_Caloric_Rebuild_and_Livestock_Tier.md` *(the food layer, rebuilt)* · ✅ **`National_Medical_and_Care_Institutes.md`** *(`locked-canon`)* · **P** `National_Economy_and_Currency.md` ⚠ *(in-frame: a national currency existed — backing unsettled at every stage, `DR-3`, do not read "energy-backed." The post-Split-Brain fracture is POST-WAR — `§C.8a`)* |
 | **5** | **U** `Worldspace/Locations/`, routes · **P** `Highways.md`, `Airports.md`, Arcanet, `City_Cross_Subnet_Relationships.md`, `City_Relationship_Database.md`, `City_National_Connections.md` *(routes, trade, supply and population ties only; never a vignette-derived, station, namesake or "heritage" reason, `DR-19`)* |
 | **6** | **P** ⚠ **`Factions/Robot_Religions/` — check before inventing a belief.** ⭐⭐ **THE ROSTER IS OPEN AND IS EXPECTED TO GROW** *(developer ruling, 2026-09-06: **"I am open to the possibility — in fact, the likelihood — that there will be more robot religions, so don't force any community/society into a religion where it doesn't already naturally fit"**)*. ⛔ **So a roster `grep` returning ZERO for a location is a RESULT, not a gap to fill** — *write "no faith sited here," leave the slot explicitly open, and never let it read as "no faith possible." `03` §Phase 6 B carries the universal form* · `National_Holidays.md` ⚠ *(its own scope note warns that most cities' `Local_Cultures/` files already hold scattered festival material — **which is `Step 0.4` item-6 READ-LAST**, so any observance a pass proposes is a CANDIDATE pending Step 5 reconciliation)* · ⭐ **`Reference/Real-World/Ice-Cold_Buddhism_Research/` (§C.9, 7 files — metaphysics, machine ethics, Zen aesthetics, vocabulary)** ⚠ *the faith's name is a placeholder* · **`The_True_Believer_` / `The_Meme_Machine_Extraction.md` (§C.9)** · **the deferred mortuary question — do not answer it** |
-| **7** | ⭐⭐ **`Division_of_Industry/` — THE PRIMARY SOURCE FOR 7a, and the strongest `G3` supply in the project (§C.6).** Read its README/status header for carve-outs FIRST; figures from `16` Half B; gaps from `Division_of_Industry_Sweep_2026-08-31.md` §4.4; inputs `01_Burden_Scoring_Model.md`, `08_Volume_Based_Requirement_Reference.md`, `National_Medical_and_Care_Institutes.md`, `Theoretical-Calculations/` · ⭐ **`Reference/Real-World/Industry_Staffing_and_Productivity/` and `jobs_professions_and_fields/` (SOC) — both §C.9; SOC tier-marking is ADDITIVE, never a replacement** · **P** `National_Economy_and_Currency.md`, `City_Logistics.md`, `Factions/`, criminal-justice canon · **U** `Megacorps/` |
+| **7** | ⭐⭐ **`Division_of_Industry/` — THE PRIMARY SOURCE FOR 7a, and the strongest `G3` supply in the project (§C.6).** Read its README/status header for carve-outs FIRST; figures from `16` Half B; gaps from `Division_of_Industry_Sweep_2026-08-31.md` §4.4; inputs `01_Burden_Scoring_Model.md` (**SUPERSEDED by its own folder README (L49): opened for the record of why the method changed; cite no figure from it** — *added 2026-11-04, `M-252`*), `08_Volume_Based_Requirement_Reference.md`, `National_Medical_and_Care_Institutes.md`, `Theoretical-Calculations/` · ⭐ **`Reference/Real-World/Industry_Staffing_and_Productivity/` and `jobs_professions_and_fields/` (SOC) — both §C.9; SOC tier-marking is ADDITIVE, never a replacement** · **P** `National_Economy_and_Currency.md`, `City_Logistics.md`, `Factions/`, criminal-justice canon · **U** `Megacorps/` |
 | **8** | **P** ⚠ **`Robot_Biology_and_Culture/` — mandatory before any siligel / coolant / Glitch-Coolant claim** · `Weapons_and_Tools_Philosophy.md`, gear catalogs, slang |
 | **9** | **U** ⚠ **`Laws_of_Robotics.md`** · **`Robot_Universals/`** *(four parts)* · `Doll_Representation_Categories.md` · **P** human-robot relations baseline |
 | **10** | **U** `Worldspace/Characters/` · **P** `Enneagram_Character_Index.md`, notable-figure and landmark canon · **the no-invented-person-names rule** · ⭐ **§B2 Zodiac Lens: read the signs' terms from `Zodiac_Personality_Substrate/` AND `Reference/Real-World/Zodiac_Signs_Full_Attributes.md` (§C.9)** — *the technique named the first and never registered the second* |
@@ -2692,6 +2692,7 @@ Standing reminders, all of which have their own recorded failure behind them:
 - **General-population discipline throughout.** **Shadow proportion throughout.**
 - **Phase 5 is mandatory and is written mid-spine specifically so it cannot be dropped.**
 - **Push every finding to a physical or behavioral expression.** The violation is usually the gameplay.
+- **When a phase parks a figure ("as the row states it"), it lists the figure's downstream uses at that time,** so a later correction reaches a list, not a search. *(Added 2026-11-04, `M-291`; Mirny Phases 4 and 7.)*
 
 > ### ⛔⛔⛔ BINDING — **`T1`–`T8` RUN ON EVERY STEP, EVERY PHASE, EVERY CITY.** ***Developer ruling, 2026-09-11.***
 >
@@ -2706,11 +2707,11 @@ Standing reminders, all of which have their own recorded failure behind them:
 > | | |
 > |---|---|
 > | ⭐⭐ **`T8` — three-subagent read consensus** | **`Tools/triple_read_verify.py`.** *Three independent readers per step/phase, each emitting a `PROOF:` block; mechanical ground-truth check; then agent-to-agent cross-check. **Write only on UNANIMOUS.*** **23 commands are written into the template — 12 steps, 11 phases** *(Step 4 routes to its phases rather than dispatching)* |
-> | ⭐ **`T8_Standing_Brief_Lines.md`** *(2026-10-21)* | **The nine lines every three-reader brief and its record must carry** (PROOF fields by hand, admitted spans, the one graphify ground, source pointers, forbidden names in positional lines, excerpted-output labels, generated entry ranges, DOUBLE-CHECK last, saved Round 3 replies), plus the post-write check commands as the tools now work |
+> | ⭐ **`T8_Standing_Brief_Lines.md`** *(2026-10-21)* | **The standing lines every three-reader brief and its record must carry** (lines 1–9 since 2026-10-21: PROOF fields by hand, admitted spans, the one graphify ground, source pointers, forbidden names in positional lines, excerpted-output labels, generated entry ranges, DOUBLE-CHECK last, saved Round 3 replies; lines 10–20 added 2026-11-04), plus the post-write check commands as the tools now work |
 | **Part V** — `Tools/quotation_audit.py` | Record `confirmed defects, CELL vs PROSE` at every phase close. ⭐ *(2026-10-21: `--step N` / `--phase N` / `--files` / `--all` required; `--own-pass` optional.)* |
-> | **Part V.2** — `Tools/handoff_audit.py` | Record `phases with rows addressed to them and NO enumeration` |
+> | **Part V.2** — `Tools/handoff_audit.py` | Record `phases with rows addressed to them and NO enumeration`. ⚠ *A YES that rests on the tool's built-in self-test says the detector works, not that the pass was checked; with zero rows to audit, record "nothing to audit", never "valid"* (`T8_Standing_Brief_Lines.md` §C; added 2026-11-04, `M-306`/OBS-2) |
 > | **`Tools/phase_discipline_check.py`** | `T3` ledger · `T4` shed marker · `T5` early Lover-faculty smoke test |
-> | ⭐ **The `T8` WRITE is a MERGE, not a pick** *(developer, 2026-09-28, `M-246`)* | **Contradiction → the most conservative current view, split named in the row** *(population-origin material → DEMOTED, never EXCLUDED — §C.9c, "a pass that refuses all ethnic material")*. **No contradiction → UNION: every single-reader find is written and credited to its finder.** Full statement: `PRE-TRIP_INSPECTION_RECIPE_TRIAL.md` §N.2 |
+> | ⭐ **The `T8` WRITE is a MERGE, not a pick** *(developer, 2026-09-28, `M-246`)* | **Contradiction → the most conservative current view, split named in the row** *(population-origin material → DEMOTED, never EXCLUDED — §C.9c, "a pass that refuses all ethnic material")*. **No contradiction → UNION: every single-reader find is written and credited to its finder.** *(2026-11-04, `M-256`, `M-259`:)* **A vote count is not the merge rule; a reader's withdrawal of its own claim is evidence for the narrower reading, never a tie-break; a ruling inside every reader's admitted range that only one reader used is a single-reader find.** Full statement: `PRE-TRIP_INSPECTION_RECIPE_TRIAL.md` §N.2 |
 >
 > ### ⚠ STILL MEASURED, NO LONGER OPTIONAL — the two are not the same thing
 > **The falsification conditions in `04` Parts V/V.2 and §N.5 REMAIN IN FORCE and must still be recorded.**
@@ -2721,6 +2722,12 @@ Standing reminders, all of which have their own recorded failure behind them:
 > ⛔ **`Zhongshan_Opus` remains the frozen baseline and must NOT be corrected; `Zhongshan_Sonnet` remains a held
 > control and must NOT run any `T`-instrument.** *Those two guards survive the ruling — they protect
 > measurements already taken.*
+
+> ### ⛔⛔ DEPENDENT WORK RUNS IN ORDER. ***Developer ruling, 2026-11-04 (`DR-107`); "confirmed" defined by `DR-117`.***
+>
+> > **Developer, verbatim:** *"If there's anything that needs the results from a previous thing in order to run, don't run the next thing until the previous thing is confirmed."*
+>
+> **A step, phase or piece that needs another's result does not start until that result is complete and confirmed. "Confirmed" means the previous unit's result is written to file; the next unit may then start** — *it does not wait for the developer's review, which comes at the end of the day (`DR-117`).* Work that does not depend on other work may run together; the three readers of one unit are not dependent work. Any change to a planned order is written into the queue or tracker, with its reason, at the time. *(Added 2026-11-04, `DR-107`, `DR-117`, `M-305`/OBS-1; Mirny repass.)*
 
 > ## ⛔⛔⛔ CLOSE-OUT CHECK — **RUN BEFORE STEP 4 IS DECLARED DONE. `§C.8c-i`, `M-208`.**
 > **The `MUST OPEN` blocks are checked per phase, as you write it. Nothing checks the whole step.** ***A
@@ -2866,6 +2873,8 @@ text; do not silently pick one. **Where it genuinely cannot be reconciled, flag 
 > datasheet belongs to the developer.**
 > ⭐⭐ **And the pass's own finding STAYS AT FULL STRENGTH in the pass's files.** ***Nothing derived is discarded
 > to make room for an older answer.***
+>
+> ⛔ **A row whose only stated ground is material excluded at every step (a vignette, a vision note, a test run) is OUT OF FRAME, never culture-only and never both-are-true.** A reader who reconciles it anyway is a Round 3 finding. *(Added 2026-11-04, `M-267`; Mirny Step 5.)*
 
 > ### The strongest-finding check — run it here, retrospectively
 >
@@ -2875,6 +2884,8 @@ text; do not silently pick one. **Where it genuinely cannot be reconciled, flag 
 > an unwritten parent.** That rule is easy to obey while writing a weak finding and hard to obey when the
 > strong one arrives — **because you do not know which finding is strongest until the pass is nearly done.**
 > Stated at declaration time it is advice; **stated here it is checkable.**
+>
+> **End the strongest-finding paragraph by naming the one leg that a later-read file (this location's own culture material, read last) could contradict, before that file is opened; then check it when it is.** A leg that rests on an absence is named as such. *(Added 2026-11-04, `M-271`; Mirny Step 5.)*
 >
 > *(Tri-Cities, 2026-08-30: the run's best finding — that a city is replaceable because the thing the parent
 > actually needs is a design owned elsewhere — rested entirely on an assumption about a Band-6 parent that has
@@ -2916,16 +2927,21 @@ citations only. **Sweep with word boundaries on every alternative and inspect ev
 >
 > ⛔ **CELLS HOLD THE AXIS, NEVER THE CONTENT.** *"Different content is not differentiation; a different
 > question is."*
+> ✅ **Check each cell against the source's own count and slots, not against a reader's reading of them, and keep the narrowest cell.** *(Added 2026-11-04, `M-273`; Mirny Step 6.)*
 > ⚠ **The table is FILLED DURING synthesis, not before it.** ***It is not a prerequisite and its emptiness is
 > not a gap*** — it contributes nothing to the first city and everything to the thirty-seventh.
+>
+> ⭐ **Write the row blind:** back the table up, find the insertion point by its first-column label, assert that label and the column count before inserting, and compare with the backup afterward (only the inserted lines may differ). Print headings and column counts only, never another row's first cell. *(Added 2026-11-04, `M-272`; Mirny Step 6.)*
 
 # Step 7 — QA
 
 `04` Parts I–II. Gates 0–11 carried, plus **C** (canon check, federated) · **F** (frame integrity) · **I** (inheritance classification) ·
 **P** (parent reconciliation, on parent passes) · **G** (generator honesty).
 
-**Paste raw scan output. Verify the instrument before trusting any zero. Report what Gate 11 cleared as well as
+**Paste raw scan output, whole; or, where it is long, save the whole output to a file beside the record and head the pasted part *raw output, excerpted (N lines omitted, reason)*.** A block with no such heading is read as complete. Cutting another location's lines under the law of one location is a labeled excerpt, not a summary. *(Added 2026-11-04, `M-285`; Mirny Phases 5–10.)* **Verify the instrument before trusting any zero. Report what Gate 11 cleared as well as
 what it flagged.**
+
+**The station-builder scan looks for denials as well as assertions.** A sentence saying the builder does *not* explain a form is the same violation as one saying it does (`DR-19`; `No_National_Stereotypes.md`; `Corpus_Reference_Sheets/No_National_Stereotypes_Quick_Reference.md` L76–78). Read every hit in context. *(Added 2026-11-04, `M-279`; Mirny Step 7.)*
 
 > ### ⚠ Verification is not only about zeros — the dangerous case is a plausible number
 >
@@ -2964,6 +2980,8 @@ what it flagged.**
 `Disciplines/00f_Review_Panel.md` *(the ULM copy)*, carried unchanged; only the casting changes. Six Flat Archetypes plus the mandatory
 **Passer-Through** and **Neighbor**; the **Lover faculty's question every time.**
 
+**Step 7's errata enter the Review Panel's brief as facts, each with its source line, and the panel runs on the corrected statements.** *(Added 2026-11-04, `M-278`; Mirny Steps 7–8.)*
+
 **Six dispositions:** accepted · noted · rejected · refereed · **unmet** · **declined.** *(Corrected 2026-09-28 — this
 line read "Five" and omitted `declined`; `Disciplines/00f_Review_Panel.md` L746 and `CLAUDE.md` both carry six.
 Found reading the runbook in full at Mirny's Step −1.)*
@@ -2977,6 +2995,8 @@ because the old wording required reading a sibling:**
 | ⭐ **Now** | ***"Would satisfying this objection replace something SPECIFIC TO THIS PLACE with something that could be true anywhere?"*** |
 
 **If yes, it is `unmet`, and the refusal is written as characterization rather than as a gap to close.**
+
+**The peer-free test decides *whether* to refuse. Whether a refusal is `unmet` or `declined` is decided by `00f`'s self-knowledge test (`Disciplines/00f_Review_Panel.md` L744–753).** An `unmet` must name an admitted or ruled line that shows the place knowingly holding the thing; the pass's own coinage cannot be that line. A refusal grounded only in national canon is `declined`. Report the `unmet` count with its grounds, never as a measure of the place. *(Added 2026-11-04, `M-280`, `M-313`/OBS-10; Mirny Step 8.)*
 
 > ⭐⭐ **The new form is strictly stronger, not a weakened stand-in.** *"More like its siblings" catches only
 > collisions with the cities that happen to be finished already.* ***"Could be true anywhere" catches
@@ -3005,6 +3025,7 @@ because the old wording required reading a sibling:**
    > ***A tracker entry is: what remains to be done, one line, plus a pointer to where the detail lives.***
    > **The finding itself goes to `Test_Runs/OBSERVATIONS_and_Methodology_Findings.md` and nowhere else.**
    > **If you have written more than ~3 lines into a tracker, you are writing in the wrong file.**
+   > **Before the record is committed, check the tracker's lines for this location: one line plus a pointer each, no finding in them.** *(Added 2026-11-04, `M-287`.)*
 4. **If this pass changed the methodology, update these files in the same commit**, and record **what was
    learned and on which location.** A methodology change that does not update the runbook has not been made —
    the next pass will follow the runbook, not the commit message.
@@ -3013,6 +3034,7 @@ because the old wording required reading a sibling:**
    stale-anchor and span sweep over the pass's own files: every citation by line number or span is re-checked
    against the file as it now stands, because edits shift lines.** Record what moved. This step discharges any
    phase's "sweep at the close" deferral; a deferral that no step names is a hole.
+   **A deferral that names any step, not only the close, reaches that step's brief as a line to discharge.** That step may close it as "not applicable" only by stating why the deferred check no longer applies. *(Added 2026-11-04, `M-314`/OBS-11; Mirny Phase 6 to Step 8.)*
 
 ## 9.5 — THE RECORDING LAW: log everything that happened, not everything that worked
 
@@ -3032,6 +3054,7 @@ only on test runs.** The shared log is
 - **Dead ends**, and the exact point at which each died.
 - **Killed findings** — an attractive result destroyed by its own evidence. ***The most valuable entries in the
   file.*** Run 1's best moment was a finding killed by its own arithmetic; Run 3's was the same.
+  - **Class each killed finding as *killed by evidence* or *killed for want of an admitted line*; only the second may be revived by a later ruling or source.** A kill stays in the record. When a ruling later settles it, add a status pointer beside the record, never a rewrite. *(Added 2026-11-04, `M-307`/OBS-3; Mirny repass.)*
 - **Self-corrections** — written as *what you believed · why it was wrong · what changed it.*
 - **Environmental and tooling obstacles** — a hook, a stale index, a missing file, a `CLAUDE.md` rule that
   conflicts with a rule in here.
@@ -3147,6 +3170,8 @@ entries carried conclusion vocabulary about the same cluster.**
 
 > **The declaration "everything is prepared" would have been wrong, and the cold run it authorized would have
 > produced a confident, coherent, contaminated result — precisely the failure the protocol exists to prevent.**
+
+📎 **The amendment-layer rules (amending a pass after it is written: append-only amendment pieces, notices and pointer lines, scoping registers, dockets) live in a separate file beside this runbook: `Amendment_Layer_Rules.md`.** *(Developer ruling 2026-11-04, `DR-117` item 3.)*
 
 ---
 

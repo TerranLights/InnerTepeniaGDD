@@ -852,7 +852,7 @@ fit?*
 >   `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Division_of_Industry/16_Per_City_Three_Tier_Run.md`
 > - Gaps — **`Division_of_Industry_Sweep_2026-08-31.md` §4.4**
 >   `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Division_of_Industry_Sweep_2026-08-31.md`
-> - Inputs — `01_Burden_Scoring_Model.md`
+> - **`01_Burden_Scoring_Model.md` — SUPERSEDED by its own folder README (L49): opened for the record of why the method changed; cite no figure from it.** *(Added 2026-11-04, `M-252`.)*
 >   `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Division_of_Industry/01_Burden_Scoring_Model.md`
 > - Inputs — `08_Volume_Based_Requirement_Reference.md`
 >   `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Division_of_Industry/08_Volume_Based_Requirement_Reference.md`
@@ -1169,6 +1169,7 @@ placeholders under the same naming rule).
   two sentences — this is a determination, not an essay. **Step 5 remains the backstop**: if its own
   reconciliation pass surfaces a genuine contradiction between this determination and an earlier phase, it is
   revised there like any other finding.
+  **When confirming, list the incumbent (the value the files already carry, and any value an earlier draft carries) beside the determination's own reserved alternatives.** If the incumbent is not among them, the honest value is open, not confirmed. The Step 5 backstop applies the same test. *(Added 2026-11-04, `M-268`.)*
 - **C.** Organize under the four headings; **name places and things specifically, leave people as roles.**
 - **D.** Check border-adjacency texture where the location abuts a neighbor whose character might bleed across
   — **a real but easy-to-overuse technique; do not force it.**

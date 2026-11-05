@@ -201,6 +201,8 @@ figures** · **the citation.** ⛔ **No verdict, no "⇒", no characterization o
 ✅ **A REFUSAL is permitted and encouraged** — *"not recorded as fact here, because X"* is a handling
 instruction, not a conclusion.
 
+⛔ **A row that quotes another file's quotation of an excluded input (a developer-vision note, a vignette) is refused like the input itself, whatever heading it sits under.** Before a datasheet is used as a step's input, its line anchors are re-located with `Tools/remap_line_citations.py`. *(Added 2026-11-04, `M-251`; Mirny Phases 6–7.)*
+
 ---
 
 ## ⛔⛔ RULE 2 — **A `RELIABLE` STAMP IS NOT A BLANKET WARRANTY. READ THE FOLDER'S OWN `README` FIRST.**

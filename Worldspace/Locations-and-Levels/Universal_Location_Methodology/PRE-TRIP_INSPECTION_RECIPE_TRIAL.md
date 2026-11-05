@@ -325,6 +325,8 @@ captured between two adjacent quotations both appear as misses.*
 
 ⭐ **Report `confirmed defects, CELL vs PROSE`.** ***That one ratio is T6/T7's entire experiment.***
 
+⭐ **Run the quotation audit before the step's round record exists:** once the record re-prints the audit's fragments, `--own-pass` lets them validate against themselves. **The audit does not read dot-files,** so quotations of reader outputs and Round 3 replies kept as dot-files are checked by no tool, and each record says so. *(Added 2026-11-04, `M-311`/OBS-8.)*
+
 ---
 
 # 4 · THE GENERATED FILE'S REQUIRED SECTIONS
@@ -445,10 +447,9 @@ to resolve itself.**
 T5 - EARLY LOVER FACULTY: <verdict, one line>
 ```
 
-**Step 8's real Review Panel already carries a Lover-faculty line by `00f`'s own template — no new marker needed
-there.**
+**The late marker is a dedicated line in `08_Review_Panel.md`: `T5 - LATE LOVER FACULTY: <verdict>`.** A line that only mentions the Lover faculty is not the marker. The Step 8 record writes the by-hand comparison of the two verdicts (did the early verdict change what any phase between 6 and 8 wrote?), or says it was not done and why. A T5 check deferred to a later step is discharged there and never closed as "not applicable". *(Added 2026-11-04, `M-286`; Mirny Step 8.)*
 
-✅ **Instrument:** the same tool. **Extracts the Phase 6 marker and the `08_Review_Panel.md` Lover-faculty line,
+✅ **Instrument:** the same tool. **Extracts the Phase 6 marker and the `08_Review_Panel.md` late marker,
 and prints both for a human to compare** — *it does not compare them itself, because "did the early run change
 the later phases" cannot be judged from text alone.*
 
@@ -617,6 +618,8 @@ VERDICT: ⛔ NOT UNANIMOUS - DO NOT WRITE
 not proceed on a guess.* **Re-dispatch the failed agent's slot only — do not re-run all three, and do not
 silently accept a partial pass.**
 
+⭐ **A single failed PROOF field may be repaired by the reader that wrote it** *(developer ruling 2026-11-04, `DR-117` item 2, settling `M-260`)*. The reader re-checks that field against the source by hand, corrects only that field in its own output, and logs the repair (the field, the value it had, the value it has now, the line it re-read). Where several fields failed, each is repaired the same way, one field at a time. The orchestrator supplies no value and changes nothing else; Round 2 is re-run on the repaired output, and both runs are kept in the round record. **Any other Round 2 failure (a missing PROOF block, or anything that touches the reading itself) follows the rule above: re-dispatch the failed slot.** No piece goes to Round 3 with a failed field unrepaired. *(Added 2026-11-04, `M-260`, `DR-117`; Mirny Phase 10 and the repass.)*
+
 ### ROUND 3 — Peer cross-check *(agent-to-agent — this is the part no script can do)*
 
 **Each of the three Round-1 agents is CONTINUED** — `SendMessage` to the same agent, context intact, so it is
@@ -676,12 +679,17 @@ is itself a result — log it, do not silently pick one.**
 >    goes to DEMOTED, never EXCLUDED — `00_RUNBOOK.md` §C.9c (*"a pass that refuses all ethnic material"*) makes outright refusal an error in its own right.
 > 2. **NO CONTRADICTION → UNION.** A fact only one reader found is written, and credited to its finder in a
 >    "found by / confirmed by" table.
+>    **A ruling or fact inside every reader's admitted range that only one reader used is a single-reader find, and is written under UNION like a fact only one reader saw.** *(Added 2026-11-04, `M-259`; Mirny Phase 9.)*
 >
 > ⭐ **Why:** on its first use, the three best finds were each seen by **one** reader in Round 1. An
 > intersection-only merge — or picking one reader's output — would have discarded exactly those.
 > **Round 3's prompt now carries a fifth section** after the four questions: *disposition differences — (a) the
 > other reader is right · (b) mine is right · (c) a developer question* — so every reader's current view is on
 > record for the merge.
+>
+> **Round 3's prompt also carries a sixth section**, after the fifth: **6 — Recompute any figure a reader derived from a rate or coefficient table, and state its basis (raw coefficient, or adjusted by the location's own factor).** A figure whose basis is not stated is a Round 3 finding. *(Added 2026-11-04, `M-250`; Mirny Phase 7.)*
+>
+> ⛔ **A vote count is not the merge rule.** A contradiction is decided on content: the reading that claims least and fits the union's findings. **A reader's withdrawal of its own claim is evidence for the narrower reading, never a tie-break.** *(Added 2026-11-04, `M-256`, `M-263`; Mirny Phases 8 and 10.)*
 
 ## N.3 — ⚠⚠ THE COST, STATED PLAINLY, AND THE STANDING-PROTOCOL COLLISION
 
@@ -793,18 +801,20 @@ prediction stated in advance and then tested for the first time is worth more th
 > IDENTICAL in shape for every step — only the step number and its resolved file(s) change — full protocol at
 > `§N`. Base for all relative paths in this section:*
 > `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Universal_Location_Methodology/`
+>
+> ⛔ **A template row is a starting point, never the list.** Before dispatch, every per-step list is re-resolved against that step's own runbook text: its REQUIRED READING box, and every file the step says to run or open. *(Added 2026-11-04, `M-247`, `M-248`; Mirny Steps −1 and 0.)*
 
 | Step | Governing rule | Section | Origin *(re-verify — line ranges drift)* | Extract *(non-authoritative)* |
 |---|---|---|---|---|
 | **−1** | The input contract | `# Step −1 — The input contract, before the frame` | `00_RUNBOOK.md` | `Stepwise_Execution/01_Spine/S01_Step_MINUS-1_The_input_contract_before_the_frame.md` |
 
-> 🧪 `T8` — **Step −1:** `Agent×3(general-purpose, T8_PROMPT{files: 00_RUNBOOK.md §"Step −1", the location's own Specs file})` *(`City_Vision_Notes/` is struck corpus-wide, `00.1a`; never dispatched)* → `triple_read_verify.py` → cross-check → write `00.1_Step_MINUS-1_Input_Contract.md` only on UNANIMOUS.
+> 🧪 `T8` — **Step −1:** `Agent×3(general-purpose, T8_PROMPT{files: 00_RUNBOOK.md §"Step −1" + 05_The_Input_Contract.md in full (its §7 pre-flight is what the step runs first) + the location's own Specs file + DEVELOPER_RULINGS_LOG.md where the contract's classification needs a ruling})` *(`City_Vision_Notes/` is struck corpus-wide, `00.1a`; never dispatched)* → `triple_read_verify.py` → cross-check → write `00.1_Step_MINUS-1_Input_Contract.md` only on UNANIMOUS. *(Changed 2026-11-04, `M-247`; Mirny Step −1.)*
 
 | Step | Governing rule | Section | Origin | Extract |
 |---|---|---|---|---|
 | **0** | Frame | `# Step 0 — Frame` | `00_RUNBOOK.md` | `Stepwise_Execution/01_Spine/S02_Step_0_Frame.md` |
 
-> 🧪 `T8` — **Step 0:** `Agent×3(general-purpose, T8_PROMPT{files: 00_RUNBOOK.md §"Step 0" + §6b Phase-0 row-set below + C.1's two Step-0 boxes})` → `triple_read_verify.py` → cross-check → write `00_Frame.md` only on UNANIMOUS.
+> 🧪 `T8` — **Step 0:** `Agent×3(general-purpose, T8_PROMPT{files: FIRST the 06_Worked_Example_Provenance.md subject check (before Step 0.2) · 00_RUNBOOK.md §"Step 0" · 01_Frame_Typology_and_Inheritance.md whole · Run_Modes_Warm_and_Cold.md whole · Robot_Physiology_and_Cultural_Practices.md whole (§C.10) · §6b's Phase-0 row-set · C.1's two Step-0 boxes})` → `triple_read_verify.py` → cross-check → write `00_Frame.md` only on UNANIMOUS. *The disciplines (`00b`, `00d`, `00f`) are read by the orchestrator at 0.2.* *(Added 2026-11-04, `M-248`; Mirny Step 0.)*
 
 | Step | Governing rule | Section | Origin | Extract |
 |---|---|---|---|---|
@@ -962,7 +972,7 @@ per `STEP 3`'s 🧪 addition above: check that BOTH sides actually agree before 
 |---|---|---|---|
 | **7** | ⭐⭐ Division of Industry — PRIMARY | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Division_of_Industry/` | ⛔ **READ ITS OWN `README.md` FIRST** |
 | **7** | Division_of_Industry_Sweep §4.4 | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Division_of_Industry_Sweep_2026-08-31.md` | `MAPPED` |
-| **7** | `01_Burden_Scoring_Model` / `08_Volume_Based…` | *(same Division_of_Industry/ directory)* | `MAPPED` |
+| **7** | `01_Burden_Scoring_Model` / `08_Volume_Based…` | *(same Division_of_Industry/ directory)* | `MAPPED` · **`01_Burden_Scoring_Model.md` — SUPERSEDED by its own folder README (L49): opened for the record of why the method changed; cite no figure from it.** *(Added 2026-11-04, `M-252`.)* |
 | **7** | National Medical Institutes | *(as Phase 4)* | ⭐ **open for Phase 7 too — names locations directly** |
 | **7** | Theoretical-Calculations | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Theoretical-Calculations/` | `MAPPED` |
 | **7** | Industry Staffing / SOC | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Reference/Real-World/Industry_Staffing_and_Productivity/` | ⚠ additive only |

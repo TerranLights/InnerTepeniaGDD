@@ -105,6 +105,8 @@ what has actually been resolved elsewhere. **A file's self-reported status is un
 check the target, never the claim.** And when a phase is added to this methodology, **every location already
 marked complete reverts to incomplete for that phase.**
 
+**Gate 0 outward also reads a tracker's scope words (*unattended*, *in the developer's absence*, *complete*) and its forward references (*Step N to confirm*) against the files, not only its completion marks.** *(Added 2026-11-04, `M-287`.)*
+
 **Gate 1 — Coverage.** Confirm each applicable phase is *answered*, not gestured at.
 > **The instrument-verification discipline is the important half, and it is fully general.** A mechanical scan
 > is worthless until you have proved it could have found a hit. Recorded defects, every one found by content
@@ -328,6 +330,7 @@ These have no district equivalent because the district set had no type, band, fr
   > In the measured case a cuisine finding was justified by *"feeding itself through a six-month polar night"*;
   > the real figure was ~60 days, and swapping the number in would have left a weak claim. **The actual
   > constraint — nothing grows on that continent in any season — was both true and stronger.**
+- **When a ruling changes a fact, check its "applied" list against every file that states the fact, at once.** A ruling applied to some sources and not others is recorded as a Gate C failure, with the files that lag. *(Added 2026-11-04, `M-312`/OBS-9.)*
 - **Any thin-looking canon file checked for being a redirect stub** before concluding the canon is thin?
 - **Rank order respected** where sources disagreed, with the contradiction stated rather than silently resolved?
 - **Anything binding beyond this location** routed to RESERVED instead of decided here?

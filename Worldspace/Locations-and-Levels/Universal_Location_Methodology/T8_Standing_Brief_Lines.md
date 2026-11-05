@@ -4,6 +4,8 @@
 
 Where a line is addressed to the readers it is written in the second person; where it is addressed to the orchestrator it says so.
 
+**Before adding or changing a format line in this file, run `Tools/triple_read_verify.py` on a worked example written to the new line.** Two instruments written on different days can disagree about where a field ends. *(Added 2026-11-04, `M-301`.)*
+
 ---
 
 ## A · Lines for the readers (inside the brief)
@@ -15,11 +17,28 @@ Where a line is addressed to the readers it is written in the second person; whe
 5. **Positional PROOF lines that carry a forbidden name.** *If an L1, LMID or LLAST line carries a name this brief forbids (a sign, a symbol, another location, a demonym), copy it exactly as written, because the field is positional, and add on the line below the PROOF block: `EXEMPT: positional line carries a name the brief forbids; not reproduced elsewhere.` Never reproduce the name anywhere else in your output.*
 6. **Excerpted output is labeled.** *When you paste output that is not the whole output, head the block `raw output, excerpted (N lines omitted, reason)`. A block with no such heading is read as complete.*
 
+*Lines 10 and 11, added 2026-11-04, are numbered on from line 9 so that lines 1–9 keep their numbers; both were run through `Tools/triple_read_verify.py` on a worked example first, as the note at the top requires.*
+
+10. **If you stage your output in a plan file, write nothing after the staged block.** *Notes go above it.* *(Added 2026-11-04, `M-254`.)*
+11. **In your reading log, write the first few words of each positional line (first, middle, last) beside its number as you reach it, and compare every PROOF field read-only against the source before handing back.** *A list item that wraps onto a second line is where the middle line slips. Never begin a reading-log line with a PROOF field name and a colon (`LRANGE:`, `LINES:`, `L1:`, `LMID:`, `LLAST:`, `QUOTE:`): after a PROOF heading the verifier reads such a line as that field.* *(Added 2026-11-04, `M-317`/OBS-15.)*
+
 ## B · Lines for the orchestrator (before and after dispatch)
 
 7. **Generate the entry-range description from the list itself.** *Never type "entries 17 to 28" by hand. Compute it from the `.t8_required_*.txt` list (the count of entries, the first and last entry, the step order) and paste the computed text. The Mirny Step 9 brief miscounted by one and ordered two steps differently from its own list.*
 8. **Run the DOUBLE-CHECK after the record is final.** *The record grows after a check, so a check run on a draft reports line counts that are already stale (87 lines recorded against 259 on disk at Step 5; 64 against 200 at Step 6). Run the DOUBLE-CHECK scripts last, or state in the block "the record grows after this check."*
 9. **Copy staged reader outputs into the pass folder at the merge, and save every Round 3 reply to a file.** *`DR-27` says reader files archive with the pass. A reader's staged output (plan-file or scratchpad path) is copied into the pass folder at the merge, and each Round 3 reply is written to `.t8_<step>_round3_reader<X>.md` the moment it arrives. A reply that exists only as a chat result is a missing record.*
+
+*Lines 12 to 20, added 2026-11-04, are numbered on so that lines 1–11 keep their numbers.*
+
+12. **An interrupted or refused reader slot (a safeguard flag, a cut-off, a denied write) is re-dispatched on the identical brief and resumes from its own reading log.** *The brief is amended only after a repeat refusal, and only with the developer's OK. Log every attempt with its request id. After a plan-mode event, check that the re-dispatched reader's output file has actually grown before treating it as running. Every brief keeps its §0: create the output file first, log each entry as read, resume from the log.* *(Added 2026-11-04, `M-253`, `M-257`, `M-261`, `M-297`.)*
+13. **Before the quotation audit, run a normalized check of every quoted string against the pass's own files and the sources.** *By default the audit excludes the pass's own folder, and even with `--own-pass` it never checks a file against itself or reads a dot-file, so it can miss a misquote of the pass's own text. Rewrite any string not found as unquoted text before the audit runs.* *(Added 2026-11-04, `M-264`, `M-289`.)*
+14. **When a merge is written in parts, never type a step-local number by hand.** *Write a named key, and let one script number each series in order of definition, refusing a duplicate or unresolved key. The plan file records the keys each part must define.* *(Added 2026-11-04, `M-266`.)*
+15. **Copy the closed set of dispositions from the brief verbatim into every header and column.** *Keep Round 3's verdict words (CONSISTENT / INCONSISTENT) out of disposition columns.* *(Added 2026-11-04, `M-270`.)*
+16. **When a step's output rests on the previous step's verdict, its reading list includes that verdict section.** *If it does not, the merge says which flag it closed and on what line.* *(Added 2026-11-04, `M-274`.)*
+17. **Never label a within-file item with a prefix the methodology uses for a series (R-, Q-, PA-, RF-, M-, DR-, DEC-).** *Give within-file items their own prefix (for example RC- for refereed conflicts).* *(Added 2026-11-04, `M-282`.)*
+18. **A quotation in a brief (an example, a trap, a reminder) is a claim like any verified result and carries a pointer to an admitted line.** *A quotation with no admitted source is removed, or rewritten unquoted, before dispatch.* *(Added 2026-11-04, `M-300`.)*
+19. **Generate the brief's results section, and its count, from the list of results** *(the rulings' headings, the verified-results list); never type a count by hand.* *(Added 2026-11-04, `M-309`/OBS-6.)*
+20. **Give each piece, and each reader within it, its own disjoint number ranges in the brief before Round 1** *(for example reader A from 1, reader B from 101, reader C from 201); the merge renumbers.* *(Added 2026-11-04, `M-310`/OBS-7, `M-266`.)*
 
 ---
 
@@ -27,7 +46,7 @@ Where a line is addressed to the readers it is written in the second person; whe
 
 | Tool | Command | What changed |
 |---|---|---|
-| Quotation audit | `python3 Tools/quotation_audit.py <pass folder> --step N` (or `--phase N`, `--files GLOB`, `--all`), optionally `--own-pass` | Audits only the step's own files; one selector is required. `--own-pass` lets a quotation of an earlier step of the same pass be found, while a file quoting itself still is not. On Mirny's Phase 7 this lowered the misses from 82 to 10, so the real ones show. |
+| Quotation audit | `python3 Tools/quotation_audit.py <pass folder> --step N` (or `--phase N`, `--files GLOB`, `--all`), optionally `--own-pass` | Audits only the step's own files; one selector is required. `--own-pass` lets a quotation of an earlier step of the same pass be found, while a file quoting itself still is not. On Mirny's Phase 7 this lowered the misses from 82 to 10, so the real ones show. **Run the quotation audit before the step's round record exists:** once the record re-prints the audit's fragments, `--own-pass` lets them validate against themselves. **The audit does not read dot-files,** so quotations of reader outputs and Round 3 replies kept as dot-files are checked by no tool, and each record says so. *(Added 2026-11-04, `M-311`/OBS-8.)* |
 | Handoff audit | `python3 Tools/handoff_audit.py <pass folder>` | Repaired. The validity control is now a built-in self-test (it no longer demands a phase with no sweep block), and the sweep row count excludes the table's header row. |
 | Phase discipline check | `python3 Tools/phase_discipline_check.py <pass folder>` | The late T5 marker is a dedicated line, `T5 - LATE LOVER FACULTY: <verdict>`, written in `08_Review_Panel.md`. A line that merely mentions the Lover faculty no longer counts. |
 | Reader-list generator | `python3 Tools/make_t8_required_list.py <pass folder> step:N` (or `phase:N`), optionally `--include-pass-files`, `--write` | Builds a DRAFT reading list from the city's Pre-Trip T8 block, the phase's Pre-Trip rows and the spine's MUST OPEN block, adds the city's datasheet, checks every path exists, flags directories and section anchors, and computes the entry-range sentence for the brief. It also writes the STANDARD entries (the methodology and shared whole-file entries that are the same for every city, kept in `T8_Standard_Entries.json`) with each line range re-located in today's file; a span it cannot verify is flagged for a line-check. It does not choose the city-specific entries or the Step -1 contract's admitted spans; those stay with the orchestrator. Rebuild the table with `Tools/build_t8_standard_entries.py <pass folder> <git ref>`. |
@@ -36,5 +55,7 @@ Where a line is addressed to the readers it is written in the second person; whe
 | Founders check | `python3 Tools/check_founders_against_register.py --city <name>` | Reads only the city's own files and the shared files; other cities' files and withheld material are skipped and only counted. |
 
 **The Step 8 brief template must now ask for the late T5 line** (`T5 - LATE LOVER FACULTY:`), and Phase 6 keeps its `T5 - EARLY LOVER FACULTY:` line.
+
+**A validity line that rests on a tool's built-in self-test says the detector works, not that the pass was checked.** When the tool reports zero rows to audit, the record says "nothing to audit", never "valid". **Above each pasted tool run, give the tool's version or last-change date** (`git log -1 --format=%cs -- <tool>`; write "uncommitted edits" as well if `git status` lists the tool), so the run can be matched to the repairs recorded in the tool's own docstring. *(Added 2026-11-04, `M-306`/OBS-2.)*
 
 > 📎 **Derivation Mechanisms (line added 2026-10-29; nothing was moved).** A **copy** of this file is in the universe-wide methods repo `DerivationMechanisms` at `/home/kuroskalacs/Documents/Doll-Fi/media/Reference/DerivationMechanisms/Environment/ULM [Universal Location Methodology]/from InnerTepeniaGDD/T8_Standing_Brief_Lines.md`. **This repo's file stays the working copy;** the method belongs in that repo, while results and tracking stay in this one. **If you arrived here from a line reference: the pointer sits at the very END on purpose, because inserting it mid-file would have shifted every cited line.**
