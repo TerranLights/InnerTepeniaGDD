@@ -1715,3 +1715,120 @@ directly underneath Kazakhstan, so that could very well be a valid option for a 
 | **Files** | Casey: `00.1_Step_MINUS-1_Input_Contract.md` (§5, §10A), `00.1b_T8_Rounds_Step_MINUS-1.md`; `Tools/triple_read_verify.py`; Mirny: `Founding_Register.md` L57, `Official_Population_Census.md` L33, `City_Relationship_Database.md`, the P2c and P08 pieces; `Specs/Mirny subnet/Zhongshan.md`; the character README; `Extent_and_Density_Per_City.md`; the amendment notes; this log. |
 
 > 📎 **Derivation Mechanisms (line added 2026-10-29; nothing was moved).** This is a **tracking or results file: it belongs in this repo.** A snapshot copy taken 2026-10-29 sits in the universe-wide methods repo `DerivationMechanisms` at `/home/kuroskalacs/Documents/Doll-Fi/media/Reference/DerivationMechanisms/Environment/ULM [Universal Location Methodology]/from InnerTepeniaGDD/DEVELOPER_RULINGS_LOG.md`; that snapshot is not kept current and is to be cleaned out later. **If you arrived here from a line reference: the pointer sits at the very END on purpose, because inserting it mid-file would have shifted every cited line.**
+
+## `DR-106` · ✅ **THE FINISHED CITIES ARE REVIEWED FIRST, BEFORE THE NEW RUNS; CONCORDIA IS LATER** *(2026-11-04)*
+
+| | |
+|---|---|
+| **Developer, verbatim** | *"Alrighty, very well then. So, in that case, add those cities to the tracker list and we'll go through them first. The exception to this is Concordia, because that gets done later."* (answering the assistant's account that every finished pass needs review against its changed data: Davis, Sinheung, Shirayuki, Zhongshan, and Concordia's districts). |
+| **Recorded as** | **(1)** Davis, Sinheung, Shirayuki and Zhongshan (Opus) are reviewed **before** the new runs; this moves the "after the new runs" timing of `DR-105` ("Same plan as Davis, scheduled after the new runs"). **(2)** Concordia's 13 districts are reviewed later, by the district method. **(3)** The plan for each is `DR-104` item 3 (one reader per item in the amendment note; re-derive only what flips). **(4)** The order Davis, Sinheung, Shirayuki, Zhongshan is the assistant's proposal from the 2026-11-03 drift review; the developer did not state an order. |
+| **Not decided** | The order; whether the Zhongshan Sonnet trial is reviewed at all; the date of the first review. |
+| **Files** | `MASTER_Process_Tracker.md` (`📍 RESUME HERE`, first block); `Dev-Road-Map/Weekly_To-Do_-_Current.md` (section "Finished cities"); this log. |
+
+## `DR-107` · ✅ **THE MIRNY REPASS: EXTEND IT TO THE UNCOVERED FILES; DEPENDENT WORK RUNS IN ORDER; THE RE-RUN TIMING** *(2026-11-04)*
+
+| | |
+|---|---|
+| **Developer, verbatim** | Early files: *"Yes, extend it (Recommended)"*. Parallel running: *"If there's anything that needs the results from a previous thing in order to run, don't run the next thing until the previous thing is confirmed. So if `[B]` requires `[A]` to be able to run and `[A]` is not complete, then finish `[A]` first and then start doing `[B]`."* Re-run timing: *"Live-source checks now, the rest once (Recommended)"*. Asked back about "complete": *"Is daily life part of the ULM, or is it part of a separate process?"* |
+| **Recorded as** | **(1)** The Mirny repass is extended to the files no piece covered (Steps -1 to 3, Phase 3, the wind lines of Phases 4 and 5): run after the other open decisions are answered, finished before the readiness check is re-run. **(2) Standing process rule, all runs:** a piece that needs the result of another piece does not start until that result is complete and confirmed. **(3)** Checks that read live sources (population arithmetic, source and anchor sweep, relation check, list and band checks, the name scan of new prose) may run now as separate labeled blocks; every other re-run (QA gates, line-reference sweep, readiness check) happens once, after the corrections are applied on the developer's word. |
+| **Not decided** | Whether the parallel-run pieces (Phase 10 through Step 10) are redone or folded in order; what "complete" means for the everyday life ("the lived middle"): the developer's question was whether daily life belongs to the ULM or to a separate process; what "the cold half of Step 10 item 10" meant. |
+| **Files** | `Research_Logs/DECISIONS_NEEDED_FROM_DEVELOPER.md` (DEC-100, DEC-101, DEC-060, DEC-102, DEC-121, DEC-120); `City_Development_Passes/Mirny_Subnet/Mirny/REPASS_QUEUE_AND_PROGRESS.md`; this log. |
+
+## `DR-108` · ✅ **MIRNY: THE LIVED MIDDLE GOES TO THE CST; IDELSK-URALIA'S PEOPLE ARE A STOCK INSIDE THE FOUNDING GROUPS; THE FRAME WORDING; THE THREE SPEC LINES** *(2026-11-04)*
+
+| | |
+|---|---|
+| **Developer, verbatim** | Daily life: *"Hand it to the CST"* (after asking *"Is daily life part of the ULM, or is it part of a separate process?"* and being told that by the stage order of 2026-11-03 food, music and everyday life are built at the CST, while the ULM's closing test still asks for a lived life). Idelsk-Uralia: *"One stock inside the founding groups (Recommended)"*. Frame wording: *"Yes, use that wording (Recommended)"*. Spec lines: *"Yes, correct the three lines (Recommended)"*. |
+| **Recorded as** | **(1)** The Mirny ULM pass may close with the everyday-life texture ("the lived middle") explicitly handed to the CST; the record says "deferred to the CST", never "done". **(2)** Idelsk-Uralia's people at Mirny are written as one stock inside the four founding exile groups, with no population of their own in Phase 9. **(3)** The Frame's "founded" sentence is held, as a working wording in the amendment layer, as: "an Idelsk-Uralia-founded Tepenian city, settled by exiles from Idelsk-Uralia, Russia, Australia and the Sinian Federation (China), a minority (23.24 %) of a long-run composition of 36 stocks with no majority. People: Tepenian. Local culture: its own."; the Frame file is not edited. **(4)** The Mirny spec's lines L174, L251 and L252 are corrected to follow the Founding Register, in a 05:00-14:59 window, each change shown to the developer before it is applied. |
+| **Not decided** | Whether the held Planet still blocks calling the ULM complete (DEC-120 (b)); the order of the corrections; the other open decisions. |
+| **Files** | `Research_Logs/DECISIONS_NEEDED_FROM_DEVELOPER.md` (DEC-005, DEC-006, DEC-008, DEC-120); this log. |
+
+## `DR-109` · ✅ **MIRNY: THE ZODIAC REWORDING, THE FLAT ROBOT TERM, THE TWO TIER NAMES** *(2026-11-04)*
+
+| | |
+|---|---|
+| **Developer, verbatim** | Zodiac wording: *"Reword as proposed (Recommended)"*. Robot term: *"Yes, leave it as ruled (Recommended)"*. "Freedom margin": *"Two separate names (Recommended)"*. On the language tier he asked back instead of answering: *"Are you sure that Mirny's support to your language is English? With all of the various post-war countries resulting from Russia, it should be Russian."* |
+| **Recorded as** | **(1)** The three Phase 9 person-shaped additions (Aries, Virgo, Capricorn) are reworded as proposed, without "keeper", as a proposal in the amendment layer. **(2)** The robot term in `16` stays flat (no site factor); the asymmetry is recorded. **(3)** Two names: "the free tier (the character budget)" for 34.7 % and "the distinctive tier" for 57.8 % of Mirny's workforce units. |
+| **Not decided** | Mirny's supporting tier (DEC-011): the developer proposed Russian; the arithmetic of `Language_Blocs_By_City_2026-11-03.md` gives Russian 4.29 to 9.73 % against English 25.23 to 34.38 %. |
+| **Files** | `Research_Logs/DECISIONS_NEEDED_FROM_DEVELOPER.md` (DEC-009, DEC-010, DEC-011, DEC-012); this log. |
+
+## `DR-110` · ✅ **MIRNY WILL GET A NEW NAME (THE DEFERRED RENAME IS CONFIRMED); NO NAME CHOSEN, NO SWEEP** *(2026-11-04)*
+
+| | |
+|---|---|
+| **Developer, verbatim** | *"If all of this is the case then that means that Mirny actually will need to get a new name as well, similarly to the way that several of the other cities have."* (after the speaker calculation for Mirny's languages: `Research_Logs/Mirny_Language_Speakers_2026-11-04/06_Result_Speaker_Shares_Mirny.md`) |
+| **Recorded as** | **(1)** Mirny will get a new name. This confirms the rename that was deferred on 2026-10-03 ("eventually") and listed in `DR-84`. **(2)** The stated basis is the language and composition result: Russian is 9.4 % of Mirny's people by actual speakers (4.3 to 9.7 % by national origin) against English at 32.8 %. **(3)** By `DR-84` the ULM, CST and RWBEM runs and the amendment layer continue under "Mirny"; the pass files are never edited; the six held files are swept once, after the Mirny pass, with the other renames (`feedback_rename_one_sweep_after_all_names`). |
+| **Not decided** | The new name, and what it is built from (the principle recorded so far is a name in line with the city's founders, who are Idelsk-Uralia per the Register, a Russian-speaking successor state, while the exile groups are Idelsk-Uralia, Russia (core state), Australia and the Sinian Federation); whether "Mirny" survives as the name of a district, harbor or the original station (as "Vostok" does at Ariun Nuur); when the naming happens. |
+| **Files** | `Research_Logs/Mirny_Language_Speakers_2026-11-04/`; this log; memory `project_city_rename_batch2`. |
+
+## `DR-111` · ✅ **MIRNY: THE SUPPORTING TIER IS ENGLISH AND RUSSIAN BY RULING; THE WEATHER ORGANIZATION AS A CANDIDATE ROLE; THE TEACHER AND THE BUILDERS STAY OPEN** *(2026-11-04)*
+
+| | |
+|---|---|
+| **Developer, verbatim** | Supporting tier: *"English and Russian, as a special ruling"* (after the speaker calculation). Weather organization: *"A candidate role, no place (Recommended)"*. Who teaches: *"Leave it open for now (Recommended)"*. Who built the ring, core and relay hardware: *"Leave it unstated (Recommended)"*. |
+| **Recorded as** | **(1)** Mirny's supporting tier is **English and Russian**, set by the developer as a Mirny special case (as the language ruling did for Mawson and for Contrapunto), not by the 12-point rule, which by actual speakers gives English alone. Hawaiian (later Tepenian) remains dominant. **(2)** The curating organization of the weather protocol may be cataloged as a candidate role described by function only, with no place cataloged. **(3)** "A teacher of the wind" stays a candidate role conditional on whether everyone teaches; the ring, core and relay hardware stay "of unstated making". |
+| **Not decided** | The wording of Mirny's language rows in the pieces already written on "English alone" (to be carried as a docket note); whether the new name affects any of this. |
+| **Files** | `Research_Logs/DECISIONS_NEEDED_FROM_DEVELOPER.md` (DEC-011, DEC-013, DEC-014, DEC-016); this log. `Research_Logs/Mirny_Language_Speakers_2026-11-04/06_Result_Speaker_Shares_Mirny.md`. |
+
+## `DR-112` · ✅ **MIRNY: THE CULTURE-FILE DOCKET IS HELD EXCEPT THE FACTUAL ROWS; THE DIFFERENTIATION ROW IS ADOPTED AS A PROPOSAL; WHO GOES OUT STAYS OPEN** *(2026-11-04)*
+
+| | |
+|---|---|
+| **Developer, verbatim** | Culture file: *"Hold most, apply the factual ones (Recommended)"*. Differentiation row: *"Adopt it, ten sections, repeat the axis (Recommended)"*. Who goes out: *"Answer later (Recommended)"*. On the strongest finding he did not choose an option: *"let's sort this out in greater detail"*. |
+| **Recorded as** | **(1)** The 39 culture-file corrections are held for the post-ULM rewrite except the high-confidence factual rows; nothing applied. **(2)** The corrected differentiation row (ten sections, Catalog line held, the Order cell repeats the shared axis) is adopted as a proposal; the shared table is written only on the developer's word. **(3)** Who decides who goes out is deferred. |
+| **Not decided** | The restated strongest finding (to be worked through in detail with the developer); where the culture file states the wind account; the date any correction is applied. |
+| **Files** | `Research_Logs/DECISIONS_NEEDED_FROM_DEVELOPER.md` (DEC-021, DEC-040, DEC-042); this log. |
+
+## `DR-113` · ✅ **MIRNY'S STRONGEST FINDING IS BUILT AROUND THE KNOWLEDGE THE FIRST GENERATION MADE** *(2026-11-04)*
+
+| | |
+|---|---|
+| **Developer, verbatim** | Core idea: *"The knowledge the first generation made"*. "Assigned": *"Keep it out of the core (Recommended)"*. "Warnings go dark": *"A conditional add-on outside the core (Recommended)"*. Rite after a loss: *"Leave it as an empty slot (Recommended)"*. (After first answering *"let's sort this out in greater detail"*.) |
+| **Recorded as** | **(1)** Mirny's strongest finding is built around the knowledge the first generation made and everyone after them is taught (public, curated by an organization of both bodies); the relay duty and the warnings' route are consequences, not part of the core. This changes the core wording proposed in the Step 5 piece (A5-1), which joined both; the Step 5, 6, 7 and 8 pieces cite the joined form and need an addendum (a docket note, not an edit). **(2)** "Assigned" stays out of the core (kept in the Composition layer, tagged as resting on the unratified treaty draft). **(3)** "The warnings go dark exactly when they are needed" is a conditional add-on outside the core. **(4)** The absence of a rite or marker after a storm loss is an empty slot: "none sited here", never "none possible here"; rites come after the CST. |
+| **Not decided** | The exact new wording of the core (to be drafted for the developer's approval); whether the treaty draft is ratified. |
+| **Files** | `Research_Logs/DECISIONS_NEEDED_FROM_DEVELOPER.md` (DEC-020); this log. |
+
+## `DR-114` · ✅ **MIRNY: THE RUSSIAN TIE STAYS UNMAPPED; TWO PANEL REFUSALS STAY OPEN; SYMBOLS DEPEND ON THE LOCATION ITSELF** *(2026-11-04)*
+
+| | |
+|---|---|
+| **Developer, verbatim** | Second relay path: *"need to figure that out later"*. Compulsion refusals: *"haven't figured that out yet"*. Symbol status: *"The symbols depend on the location itself, not on other locations."* Russian tie: *"Leave it unmapped (Recommended)"*. |
+| **Recorded as** | **(1)** The tie to "Mirny's own Russian-descended community" stays unmapped and unplaced. **(2)** Whether Mirny's people knowingly do not ask for a second relay path, and whether the refusals of a compulsion rule are "unmet" or "declined", are not decided; both stay recorded as "declined", provisional. **(3)** Clarification on symbols: they depend on the location itself, not on other locations (read as: determined after that location's own synthesis; the earlier stage-order wording "after the locations get synthesized" does not mean after all cities). |
+| **Not decided** | The symbol status wording (DEC-015) and what "synthesized" means for Mirny (its ULM, CST and RWBEM, or one of them); the two panel questions. |
+| **Files** | `Research_Logs/DECISIONS_NEEDED_FROM_DEVELOPER.md` (DEC-080, DEC-081, DEC-007, DEC-015); this log. |
+
+## `DR-115` · ✅ **MIRNY: SYMBOLS ARE DETERMINED WITHIN MIRNY'S OWN ULM; THE HELD PLANET BLOCKS 'COMPLETE'; A FRESH PANEL LATER; THE SHARED AXIS IS HIS CHOICE** *(2026-11-04)*
+
+| | |
+|---|---|
+| **Developer, verbatim** | Symbol timing: *"After Mirny's ULM only; correct the status"*. Shared axis: *"Yes, your deliberate choice (Recommended)"*. Fresh panel: *"Yes, later (Recommended)"*. Held Planet: *"It still blocks"*. |
+| **Recorded as** | **(1)** Mirny's symbols (the Element, the Planet and the rest) are determined within Mirny's own ULM, not after other cities and not after its CST and RWBEM; the status lines in Phase 10 and Step 5 are corrected, as a proposal, to "Element Air accepted; Planet held, Saturn provisional". **(2)** The held Planet blocks calling Mirny's ULM pass complete: the Planet is to be decided inside the ULM (by the symbol rules, `DR-8`/`DR-8a`, at Phase 10 and its Step 5 backstop). **(3)** A fresh Review Panel is run once the amendments are applied. **(4)** Mirny's Meaning and Order layers share one axis by the developer's deliberate choice, set outside the author-habit test. This refines the earlier stage-order wording ("the symbols get determined after the locations get synthesized"): it does not mean after all cities. |
+| **Not decided** | When and how the Planet is decided (it needs Phase 10's symbol work); the Observance timing axis (recommended: keep). |
+| **Files** | `Research_Logs/DECISIONS_NEEDED_FROM_DEVELOPER.md` (DEC-015, DEC-041, DEC-082, DEC-120); this log. Carried into the queue as a ULM step for Mirny. |
+
+## `DR-116` · ✅ **STEP 10 ITEM 10 IS LIVE; THE RECORD UPDATES GET A POINTER LINE; THE LOVER CHECK RUNS WITH THE FRESH PANEL; THE LESSONS GO INTO THE RULES** *(2026-11-04)*
+
+| | |
+|---|---|
+| **Developer, verbatim** | Cold half of item 10: *"Treat all of item 10 as live (Recommended)"*. Record updates: *"Separate file plus a pointer line (Recommended)"*. Lover check: *"Owed, done with the fresh panel (Recommended)"*. Lessons into rules: *"Put them into the rules now"*. |
+| **Recorded as** | **(1)** All of Step 10 item 10 is treated as live. **(2)** The Step 9/9.5 updates live in the separate piece file plus one pointer line at the end of each old file (applied only when the dockets are applied; it is a pass-file edit, so `DR-101` is to be reconciled then). **(3)** The Lover-faculty late check runs with the fresh Review Panel. **(4)** The proposed lessons from the Mirny runs (Step 10's R-183, the Steps 9/9.5 piece's proposed observation entries, the tool-behavior lessons) are written into the methodology rules; the draft is shown to the developer before the runbook is edited. |
+| **Not decided** | Which lessons exactly, and their rule text (draft to be shown); the date the pointer lines are applied. |
+| **Files** | `Research_Logs/DECISIONS_NEEDED_FROM_DEVELOPER.md` (DEC-121, DEC-103, DEC-104, DEC-122); this log. |
+
+## `DR-117` · ✅ **'CONFIRMED' MEANS WRITTEN TO FILE; A SAME-READER FIELD REPAIR IS ALLOWED; AMENDMENT-LAYER RULES GET A SEPARATE FILE; EDITS AND CONFIRMATIONS RUN AT ANY HOUR** *(2026-11-04)*
+
+| | |
+|---|---|
+| **Developer, verbatim** | *"1.) if it's \"confirmed\", then it gets written to file"* · *"2.) sure"* · *"3.) a separate file, definitely"* · *"4.) Any sort of edits and confirmations can run at any time. The idea behind this is that during the day, I just get you to work automatically starting from 5 a.m. and go through every step and every phase individually on your own. Then, at the end of the day, then we'll go through the results together. And you get whatever, if there's anything that you need my confirmation and or decision with, then we'll go through those together."* |
+| **Recorded as** | **(1)** In the dependency rule (`DR-107`), a prior unit is "confirmed" when its result is written to file; the next unit then may start. **(2)** A reader may repair a single failed PROOF field in its own output (re-check, correct that field only, log it), as happened in several pieces; this resolves the open question of M-260. **(3)** The amendment-layer rules (M-302, M-303, OBS-4, OBS-5, OBS-13 and the like) go in a separate file beside the runbook, not in a new runbook section. **(4)** Edits to the rule files, and confirmation or decision sessions with the developer, may happen at any hour. The hours law stays on the worldbuilding derivation itself (a step, phase or gate of the ULM, CST or RWBEM): 05:00–14:59, run by the assistant on its own, each step and phase individually; at the end of the day the results are reviewed together, and anything needing the developer's confirmation or decision is taken together then. |
+| **Not decided** | Row-by-row approval of the 45 rows needing rule text. |
+| **Files** | `Research_Logs/DECISIONS_NEEDED_FROM_DEVELOPER.md` (DEC-122); this log. |
+
+## `DR-118` · ✅ **THE LESSONS ARE WRITTEN INTO THE RULES (43 ROWS); THE AMENDMENT-LAYER RULES HAVE THEIR OWN FILE** *(2026-11-04)*
+
+| | |
+|---|---|
+| **Developer, verbatim** | Approval: *"Approve all except the low-confidence ones"*. Apply: *"Apply as previewed"*. Location in the new file's tags: *"Strip Mirny from the tags"*. |
+| **Recorded as** | **(1)** 43 rows of the draft (`Research_Logs/Lessons_Into_Rules_Draft_2026-11-04.md`) are applied, as previewed in `Research_Logs/Lessons_Into_Rules_Edits_Preview_2026-11-04.md`: M-281, OBS-4 (struck) and OBS-14 (not for the rules) are not. Eight files edited (`T8_Standing_Brief_Lines.md`, `PRE-TRIP_INSPECTION_RECIPE_TRIAL.md`, `03_The_Phase_Spine.md`, `04_QA_Gates_and_Differentiation.md`, the differentiation quick reference, `Mechanical_Extraction_Field_Guide.md`, `00_RUNBOOK.md`, the observations log). **(2)** New file `Universal_Location_Methodology/Amendment_Layer_Rules.md` holds the amendment-layer rules (four rules); the runbook has a one-line pointer; its tags name no location. **(3)** Observation entries M-305 to M-319 appended, including one recording this change. **(4)** The same-reader repair covers a single failed PROOF field and, one field at a time, several (the preview's reading; narrowed on request). **(5)** Applied with the hash-checked script; no git command run; nothing committed. |
+| **Not decided** | Commit (on the developer's word); the stale runbook-line citations in other files (listed in the preview, section 8); the Derivation Mechanisms copies (that repo's commit needs his OK). |
+| **Files** | `Research_Logs/DECISIONS_NEEDED_FROM_DEVELOPER.md` (DEC-122); this log. |

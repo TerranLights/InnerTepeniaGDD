@@ -60,11 +60,25 @@ Detail: `Universal_Location_Methodology/Manual_Input_Audit_2026-10-29/Walkthroug
 - [ ] **Address the teahouse framing in these files when we get to them (developer, 2026-10-31):** the Janbogo catalog (`Neo-Races-and-Cultures/Janbogo_Subnet/Janbogo/Janbogo_Catalog.md`), the Casey catalog, Zukelli's culture files (`Local_Cultures/Janbogo_Subnet/Zukelli.md` and `Local_Robot_Culture/Janbogo_Subnet/Zukelli.md`), Concordia's `District_Refugee_Diaspora_Composition.md` (also says "Majyao's Original Teahouse" and a recreated teahouse in the Leo district) and the three DLC 6 Janbogo questline candidates (04, 07, 16). Also flagged: `City_Vision_Notes/Janbogo.md`. The megasheets, Background-Lore and the Run 9 archive are not edited. Rule and wording patterns: `Janbogo_Teahouse_Wording_Log_2026-10-31.md`
 - [ ] **Future design note (developer, 2026-10-31):** when Janbogo's setting is designed, make sure to include teaware (the culture file's visual-arts line keeps "ceramics, particularly teaware")
 
+## After the lessons-into-rules edit *(added 2026-11-04, `DR-118`)*
+- [ ] Commit the rule edits (8 edited files + `Amendment_Layer_Rules.md`) after an American English sweep, then `graphify update .`; nothing is committed yet
+- [ ] Refresh the stale runbook-line citations: `Stepwise_Execution/01_Spine/S06`–`S12` (their "Origin" stamps), the Step 9 and Step 10 quick references, `T8_Standard_Entries.json` (`Tools/build_t8_standard_entries.py`), and Casey's and the pre-seeded Pre-Trips/datasheets (`Tools/remap_line_citations.py <paths> --base 8777bb5f`, report first); list in `Research_Logs/Lessons_Into_Rules_Edits_Preview_2026-11-04.md` section 8
+- [ ] Refresh the Derivation Mechanisms copies of the edited files and record it in that repo's `SYNC_RECORD.md` (ask before committing or pushing there)
+
+## Mirny spec: three founding lines *(added 2026-11-04, `DR-108`)*
+- [ ] **In a 05:00–14:59 window, showing each change to the developer before applying it:** correct the Mirny spec's founding-population line (L174), founders line (L251) and city-name line (L252) to follow `Founding_Register.md` (four exile groups; Idelsk-Uralia the founding nation and also an exile group). The text comes from the Register. Detail: `DECISIONS_NEEDED_FROM_DEVELOPER.md` DEC-008.
+
 ## Finished cities: Pre-Trips, datasheets and a fresh analysis *(added 2026-10-30)*
 Detail: `Universal_Location_Methodology/Manual_Input_Audit_2026-10-29/Walkthrough_Decisions.md` (Shirayuki); plan in memory `project_reanalyze_finished_cities`.
 - [ ] Create the Pre-Trip and datasheet files for the cities that have none: Shirayuki and Sinheung (neither), Zhongshan Opus and Sonnet (Pre-Trip exists, no datasheets), Concordia (neither; it uses the district method, confirm first)
 - [ ] **2026-10-31, 05:00–14:59:** Concordia's cultural sheet: restate the census (L11–12) and the polar-night figure (L57); draft the eight founding rewrites and show them before editing (`Concordia-City/Amendment_Notes_2026-10-30_Manual_Input_Audit.md`)
-- [ ] Re-analyze the finished cities (Shirayuki, Sinheung, Zhongshan) with the current, field-tested methods and look for ways to improve them; the amendment notes filed 2026-10-30 are the interim record
+- [ ] **FIRST, before the new runs (developer, 2026-11-04):** review the finished cities against their changed data, one city at a time, each in a fresh session on its own terms, 05:00–14:59, using the Davis plan (`DR-104`: one reader per item in the amendment note's section F; re-derive only what flips). Concordia's districts are later. Plan and expected flips: `MASTER_Process_Tracker.md`, `📍 RESUME HERE`, first block. Order proposed (change if you want):
+  - [ ] Davis (Phase 2 first; then Phase 5, Phase 8E and Phase 9 language)
+  - [ ] Sinheung (Phase 9 retention first; then Phases 2 and 8)
+  - [ ] Shirayuki (three small items)
+  - [ ] Zhongshan, Opus (Phase 8 sections 8.1 and 8.8, the closing axis, QA Gate 4 and the Step 6 cell)
+  - [ ] Before each: a fresh dated amendment note once the population work has settled; build the missing Pre-Trip and datasheets (Shirayuki and Sinheung neither exist; Zhongshan Opus and Sonnet have no datasheets)
+  - [ ] ⏸️ Concordia's 13 districts: later, by the district runbook
 
 ## Possible: full, more thorough inspiration-pick research for the cities *(added 2026-10-30)*
 Detail: `Universal_Location_Methodology/Manual_Input_Audit_2026-10-29/Walkthrough_Decisions.md` (Denison item 1); memory `project_inspiration_place_research_all_cities`.
