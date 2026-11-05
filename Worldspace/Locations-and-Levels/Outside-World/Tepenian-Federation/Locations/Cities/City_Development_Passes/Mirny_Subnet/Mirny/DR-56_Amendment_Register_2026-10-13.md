@@ -3,7 +3,8 @@
 > ## STATUS: **REWRITTEN at the developer's instruction** (2026-10-29, `DR-76`: *"rewrite the register. We can't take the risk of lingering false data corrupting the repo"*).
 > **Section 2 (Phase 6) is VERIFIED:** three Opus readers re-derived Phase 6 independently, Round 2 was unanimous (114/114 field sets) and Round 3 was 6/6 consistent. The verified result lives in `Amendment_Rederivation_P06_Meaning_2026-10-29.md`; this register carries its dispositions.
 > **Section 2b (Phase 7) is VERIFIED** (T8, 2026-10-29: three Opus readers; Round 2 unanimous, 48/48 proof blocks; Round 3 6/6 consistent). The verified result lives in `Amendment_Rederivation_P07_Order_2026-10-29.md`; its axis is the Phase 6 line (`DR-79`).
-> **Section 3 (Phases 8 to 10, Steps 5 to 8) is NOT VERIFIED.** It is the 2026-10-13 single-reader draft, **corrected for the error classes the Phase 6 check found** (below). Each part is replaced by a verified section when its piece runs (`DR-74`). Until then treat every row in section 3 as a *pointer to where to look*, not as a finding.
+> **Section 2c (Phase 8) is VERIFIED** (T8, 2026-11-03: three Opus readers; Round 2 unanimous after one same-reader re-check, 120/120; Round 3 6/6 consistent; **accepted by the developer 2026-11-03 night, `DR-105`**). The verified result lives in `Amendment_Rederivation_P08_Making_2026-11-03.md`; its dockets are in `Amendment_Dockets_P08_Making_2026-11-04.md`.
+> **Section 3 (Phases 9 and 10, Steps 5 to 8) is NOT VERIFIED.** It is the 2026-10-13 single-reader draft, **corrected for the error classes the Phase 6 check found** (below). Each part is replaced by a verified section when its piece runs (`DR-74`). Until then treat every row in section 3 as a *pointer to where to look*, not as a finding.
 > **Nothing in any pass file has been rewritten by this register.** The older draft is in git history (commit before the rewrite) and nowhere else is it to be quoted.
 
 ## 0 · What was wrong in the 2026-10-13 version, and is corrected here
@@ -32,7 +33,7 @@
 **What survives untouched** (about the founding, physics or the system):
 - the **founding gap**: a working station and a record, no living teacher, assigned exiles, nobody chose the site; a tradition cannot cross a gap (`NNS` L21);
 - the **physics**: wind-dominated, the light-dated year, the door, the shared stop;
-- **fourteen stocks, no majority**; two bodies at near parity with different prices for a misjudgment;
+- **36 stocks (6 + 11 + 19), no single Primary, no majority**; two bodies at near parity with different prices for a misjudgment;
 - **the relay as the subnet's single path**, and the storm that breaks it also stops people walking. Sharper now: the warnings travel on that same path (`DR-76`).
 
 ## 2 · Phase 6 (Meaning) — VERIFIED (T8, 2026-10-29)
@@ -84,16 +85,39 @@
 
 **Errors in the 2026-10-13 version's Phase 7 rows (kept for the record):** P7-28 KEEP was wrong; P7-26's quoted text no longer exists; the P7-14/15/20 row fused three findings into a claim none makes; P7-17, P7-19, P7-34/35 were marked too lightly; "the protocol is a second examiner" was wrong; no row recorded that `DR-55` and `DR-59` also touch P7-4, P7-6, P7-16 and P7-18.
 
-## 3 · Later phases and steps (Phases 8 to 10, Steps 5 to 8) — **UNVERIFIED** (single-reader draft of 2026-10-13, corrected as in section 0; "by citation" rows are unread rows)
+## 2c · Phase 8 (Making) — VERIFIED (T8, 2026-11-03; accepted 2026-11-03 night)
 
-### Phases 8, 9, 10 *(by citation unless marked read)*
+*Categories as in section 2.* Full text, quotes and the re-derived findings: `Amendment_Rederivation_P08_Making_2026-11-03.md`; dockets: `Amendment_Dockets_P08_Making_2026-11-04.md`. **Axis:** "Prepared, and handed on." (the piece's recommended wording, accepted with the piece; "Prepared" stands, "not predicted" is replaced; whether the axis carries any tie to the duty is marked for the developer, section 8 of the piece). About 70 more places in Phase 8 rest on the retired wind premise and about 40 on the earlier composition or language frame; they are listed in the piece's section 3.
+| ID | Verified disposition | Note |
+|---|---|---|
+| **P8-12** standing follows the object; the best judge holds no craft | **RE-DERIVE** | the reading now makes a taught knowledge, a public protocol and warnings; what makes nothing is the moment at the door (A8-2) |
+| **P8-13** drift | **RE-DERIVE (second and third orders)** | drift is the writable half; whether the taught system reads it is a research question (A8-3) |
+| **P8-14** the amended copy | **RE-DERIVE** | the contract no longer refuses the instruments; the Borrowed Form's trigger (no living teacher) closes after the first generation; the inherited record's keeping is unruled (A8-4) |
+| **P8-24 and language** | **RE-DERIVE** | Hawaiian (later Tepenian) is the civic default for both bodies; the second slot is open (no majority); a supporting tier exists only by ruling (section 5 of the piece) |
+| **P8-25** the record's language | **REWORD** | `DR-55` Q-77: the owner at the Treaty decides; the owner is unidentified and stays unnamed (`NNS` L15); never inferred from the site |
+| **P8-27, P8-28** the vocabulary of now; naming winds by their sky | **RE-DERIVE, both** | whether the protocol forecasts or only warns is open (AR-1); no wind name is coined |
+| **P8-4** siligel and the table | **KEEP** | makes no lethality claim |
+| **P8-1 (L226), PA-51** | **REWORD, NOT WIND** | siligel's lethality to a human is ruled (`DR-56` item 4); Q-76 closed in part; RF-4 stays reserved |
+| **P8-6** the transplanted layer | **RE-DERIVE (composition)** | 36 stocks; a founding-nation stock is in the census (A8-17); the people of that stock at the founding are one open question shared with P2c (AQ-34) |
+| **P8-8, P8-9 (third order), P8-10, P8-11, P8-16** | **REWORD** | "keepers" and the lone restorer are withdrawn; the relay carries the warnings too (A8-14); P8-10's array of chambers is NOT WIND (A8-19) |
+| **P8-15, P8-17** dress | **REWORD, NOT WIND** | `DR-59` Q-75 answered nationally |
+| **P8-18** dressing at the door | **RE-DERIVE (second and third orders)** | the door is the reading applied, informed and warned; in an outage it is the only public reading left (A8-5) |
+| **P8-22** | **REWORD** | add the warnings (A8-22) |
+| **P8-23** the limit on humor | **RE-DERIVE (the limit's ground)** | A8-7 |
+| **P8-26** what marks someone as from here | **RE-DERIVE** | taught here, not born here (A8-8) |
+| **P8-30** after an injury, from a mentor | **RE-DERIVE** | A8-11 |
+| **P8-7** | **KEEP, third order sharpened** | in an outage the warnings are not received either (A8-21) |
+| **P8-2, P8-3, P8-5, P8-19, P8-20, P8-21, P8-29** | **KEEP** (figures as written, not rechecked) | no premise; Q-79 stays open |
+| **Q-74** | one open question, two halves, both ruled | instrument half superseded (`DR-56`); trigger half held (`DR-59`) |
+| **Q-76** | **CLOSE in part** | first half closed; second half answered by existing canon |
+| **Q-77, Q-81** | Q-77 closed in principle, open in fact; Q-81 **CLOSED** | a child learns the society's dominant language, and a parent's too where it differs |
+| **Fit-test (e)** | re-run as (e′) | A8-1; carried into every [CAND] |
+
+## 3 · Later phases and steps (Phases 9 and 10, Steps 5 to 8) — **UNVERIFIED** (single-reader draft of 2026-10-13, corrected as in section 0; "by citation" rows are unread rows)
+
+### Phases 9, 10 *(by citation unless marked read)*
 | ID | Claim | Cat. | Direction |
 |---|---|---|---|
-| **P8-12** | standing follows the object; the best judge of the wind holds no craft | REWORD | if wind reading is taught and warnings are made, someone holds the reading in public; re-check |
-| **P8-14** | the amended copy: the one object the reading could make, which the contract refuses | RE-DERIVE | the contract no longer refuses instruments; the Borrowed Form is not refused; its form is unknown |
-| **P8-27, P8-28** | a vocabulary of now with no word for soon; naming the winds by their sky | REWORD | a weather warning implies forecast language; `Q-74` is superseded; **no wind name is coined** |
-| **P8-4** | siligel and the table | REWORD | `Q-76`: the lethality is chemistry, not a food-tier rule |
-| **P8-24 and language** | no language assumed | REWORD | `Q-81`: a child learns the dominant local language, and both if the parents' differs; `Q-77`: the records are in the language of the in-world owner of the station at the Falkland Treaty (not yet identified) |
 | **P9-5** *(read)* | humans born here inherit the wind's sorting but not its teaching; each born-here generation starts the reading over | RE-DERIVE | the born-here are taught, and inherit the signifiers |
 | **P9-14, P9-15, P9-17** | two lines (a wind line anyone can cross, a memory line only arrivals carry); the memory line folds into the founding robots | KEEP | these concern the founding memory held in persons; the first learners join it (amendment file, A6-5) |
 | **P9-16** | a misjudgment's price differs by body | KEEP | |
@@ -131,7 +155,8 @@
 | **PF-10 (the one `unmet`)** | the hub does not ask for a second path | REWORD | re-ground on the duty and guilt; the `unmet` disposition itself needs re-testing (a city that holds itself to going out may have less reason to ask: offered, not adopted) |
 | **PF-11, PF-14** | the wind's examiner issues only failures; the ledger is hub-side | REWORD | the weather warnings issue warnings too; members may be told (`Q-133`) |
 | **Q-134** | founding robots as living teachers | CLOSE *in part* | `DRL` L1124 reads `DR-56` as answering it in part: "the founding cohort and their successors teach" |
-| **Q-135, Q-74** | does teaching the picture count as an instrument | CLOSE | superseded |
+| **Q-135** | does teaching the picture count as an instrument | CLOSE | superseded (`DR-56`, `DRL` L1131) |
+| **Q-74** | the Borrowed Form's trigger and instrument question | **one open question, two halves, both ruled** | instrument half superseded (`DR-56`, `DRL` L1131); trigger half held (`DR-59`, `DRL` L1221) |
 
 ## 4 · What remains distinctive after the change
 
