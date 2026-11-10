@@ -264,3 +264,9 @@ lines; checks: pre-check "not found: 0"; audit "INSTRUMENT VALID: YES", "NOT FOU
 connective spans, one table cell of the piece's own wording); American English 0; names 0; status words 0. Record written (160 lines).
 The note's J.2 gained its row and a dated current-fact line for `DR-133` and `DR-134`. Tracker status line added. The window closes at
 14:59; no new piece was started after 13:30.
+
+**Z-30 · 15:36 · Zhongshan's Element decided (`DR-135`).** Shown both Elements' specs and the arguments for and against each on
+Zhongshan's own findings, the developer chose: "from among these options, I would say Metal, yeah". Recorded as `DR-135`;
+`City_Symbol_Assignments.md` Zhongshan's row marked in place; the note's H.2 rewritten in place (no line moved). **Self-correction:**
+earlier I proposed re-checking the 32 places the pass names Metal as if a ruling required it; no ruling does (it was my extrapolation
+from `DR-8`), and none is scheduled.

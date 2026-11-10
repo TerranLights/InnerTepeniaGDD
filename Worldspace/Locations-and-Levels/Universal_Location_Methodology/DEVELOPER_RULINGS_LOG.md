@@ -1977,3 +1977,12 @@ directly underneath Kazakhstan, so that could very well be a valid option for a 
 | **Not decided** | Nothing further on the sea leg. Still open from `DR-133`: the cargo split between direct sailing and the hubs; the further terminals; the Nella Fjord port's tier. |
 | **Files** | `Locations/Infrastructure/Ports.md` L202 and `Cities/City_Relationship_Database.md` L495 (in place); the research file; the Zhongshan log and note. Nothing committed. |
 
+## `DR-135` · ✅ **ZHONGSHAN KEEPS METAL: SATURN + METAL STANDS** *(2026-11-10)*
+
+| | |
+|---|---|
+| **Developer, verbatim** | Shown each Element's spec (`Robot_Elementals.md` Metal and Magnetism) and the arguments for and against each in terms of Zhongshan's own findings: *"from among these options, I would say Metal, yeah"*. |
+| **Recorded as** | **(1)** Zhongshan's Element is **Metal**, with **Saturn** as its Planet; the question left open in `DR-1` (L134, 2026-09-23) and deferred in `DR-130` item 15 is closed. **(2)** The one-word label stays provisional while the seven Elemental labels are under review (`DR-1`). **(3)** No re-derivation follows: the pass's Saturn + Metal readings (the Spine's §2.7 pairing, Phase 6's reading) stand as written; no check of the pass's earlier uses of the symbol is scheduled. |
+| **Not decided** | The Elemental one-word labels (`DR-1`). |
+| **Files** | `City_Symbolic_Substrate/City_Symbol_Assignments.md` (Zhongshan's row, in place); the Zhongshan note (H.2) and log; this log. |
+

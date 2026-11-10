@@ -221,8 +221,8 @@ Pass locations: `00_Frame` L48, L327, L350; `04_Phase_05` L155; `04_Phase_08` L8
 ## H. Open questions
 
 1. **DEC-004** (2026-11-03, open): may the culture file be corrected (SD-3, SD-4)? SD-5 is new and belongs with it.
-2. **`DR-1` (L134), open since 2026-09-23:** whether Zhongshan keeps Metal as its Element. Checked 2026-11-10: the Spine clause the
-   ruling named ("unsparing honesty") no longer occurs in any pass file (log Z-05). Nothing in this run decides the Element.
+2. **Zhongshan's Element: Metal, kept by the developer on 2026-11-10 (`DR-135`); Saturn + Metal stands.** The one-word label stays provisional (`DR-1`).
+   *(Open since 2026-09-23, `DR-1` L134; closed here.)*
 3. Whether the Pre-Trip and datasheets are built for this pass (`DR-101` item 5); the builders' answer is in log Z-06.
 
 ## I. Checked, no mismatch (later-rulings scan, 2026-11-10)

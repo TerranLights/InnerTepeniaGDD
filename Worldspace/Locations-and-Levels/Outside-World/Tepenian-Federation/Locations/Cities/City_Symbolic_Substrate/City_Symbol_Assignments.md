@@ -112,7 +112,7 @@ coincidence.
 | Davis | — | — | ⏸️ **BLANK. Deliberately unset, developer ruling 2026-09-16** — *"for now, for the current time, we can just make that blank."* ⛔ **Do not fill from the breadbasket reading; Davis is also a port city, and the symbol is open** |
 | Kunlun | Pluto | ⏸️ | Among the most physically isolated places in Tepenia, built entirely around observation |
 | Ariun Nuur | Pluto | ⏸️ | Tepenia's other loneliest outpost, deep biological/genetic research |
-| Zhongshan | Saturn | Metal | "The Quiet City" — self-sufficient, ordered complexity, content unexamined |
+| Zhongshan | Saturn | Metal (kept by the developer 2026-11-10, `DR-135`; one-word label provisional, `DR-1`) | "The Quiet City" — self-sufficient, ordered complexity, content unexamined |
 | Sinheung | Uranus | Electricity | An outlier by its own outsized national pride, distinguishing itself forcefully from Tepenia's quieter post-national norm — unlike Temirötkel's own quiet, uncredited service work, Sinheung wants to be noticed. Also the literal chamber-manufacturing city, animating inert matter into life |
 | Shirayuki | Uranus | Air | ⭐ **Re-derived 2026-09-27, ULM Phase 10 §B3 — Uranus confirmed, Element revised from Fire (never grounded).** Uranus: an identity built entirely after a defining event it never chose (the Jeju-do allocation), reoriented as the new baseline rather than damage to fix. Air: a persistent, unseen, directional wind is the one agent present in nearly every finding this pass produced — felt, never seen, no face or name, sheltering when still and stripping when not, exactly Air's own stated duality. Full derivation: `City_Development_Passes/Mirny_Subnet/Shirayuki/04_Phase_10_Catalog.md` §B3 |
 
