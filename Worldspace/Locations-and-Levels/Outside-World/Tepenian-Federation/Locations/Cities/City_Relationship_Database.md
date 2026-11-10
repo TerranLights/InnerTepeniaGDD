@@ -492,7 +492,7 @@ See the full Byrd Megasheet for the complete reasoning behind each of these.
 - **Arcanet subnet:** Mirny ("Australian") — as of 2026-07-05, its Larsemann Hills neighbors Sinheung and Shirayuki have joined it here too (moved from Mawson subnet; see `TODO.md`)
 - **Highways:** Hwy 110 (western terminus), Hwy 22 (eastern terminus — multi-highway junction here) ✓
 - **Direct highway neighbors:** Davis (east, Hwy 110), [Hwy 22 → interior → Hwy 175 junction → Byrd]
-- **Notes:** Named after Sun Yat-sen (courtesy name "Zhongshan") — well-respected historical figure; name retained under Sinian Federation ✓; major coastal junction where Hwy 22 and Hwy 110 meet. **Coastal port receiving Australian freighter shipments** (raw materials, staged via Hobart/Fremantle) as part of the Mirny subnet coastal supply line — see `Theoretical-Calculations/Amundsen_Tower_Space_Fountain_Design.md`.
+- **Notes:** Named after Sun Yat-sen (courtesy name "Zhongshan") — well-respected historical figure; name retained under Sinian Federation ✓; major coastal junction where Hwy 22 and Hwy 110 meet. **Coastal port receiving Australian freighter shipments** (raw materials, staged via Hobart/Fremantle) as part of the Mirny subnet coastal supply line — see `Theoretical-Calculations/Amundsen_Tower_Space_Fountain_Design.md`. *(Freight routes, developer ruling 2026-11-10, `DR-130` item 6 and `DR-133`: three routes, through the neutral transshipment hubs, by direct sailing from the staging ports, and along the subnet's coastal supply line by the coastal highway all year and by sea in the summer window only, as in reality (`DR-134`); the Tri-Cities' Nella Fjord port is a fourth Australian receiving node.)*
 
 ---
 

@@ -126,7 +126,7 @@ you to §1.1's recurring cost, with a larger number.**
 |---|---|---|
 | **South Africa** | **Sanay** *and* **Belgrano** | ✅ **Both, interchangeably** — *"depending on seasonal ice conditions, not a fixed hierarchy"* |
 | **South America** | **Marambio** | ✅ *"the port, not the airfield, is Marambio's actual link to both worlds at once"* |
-| **Australia** | **Dumont d'Urville · Mirny · Mawson** | ✅ three-node |
+| **Australia** | **Dumont d'Urville · Mirny · Mawson · the Tri-Cities** *(the shared Nella Fjord port; added 2026-11-10, developer ruling `DR-133`)* | ✅ four-node *(three-node until 2026-11-10)* |
 | ⭐⭐⭐ **NEUTRAL TRANSSHIPMENT — the French Southern and Antarctic Lands · Heard Island and McDonald Islands** *(developer ruling, 2026-09-16)* | ⭐ **Davis** *(principal)* · **Temirötkel · the Tri-Cities · Mawson** | ⭐⭐ **INDIRECT access to Australian AND South African supply, without a direct bilateral relationship with either mainland power.** **INBOUND: raw materials the closed continental economy cannot manufacture for itself.** See `Neutral_Transshipment_Hubs.md` |
 | **New Zealand** | ⛔ **"Ross"** | ⚠⚠ **UNDER-SPECIFIED — see §6, "still open" item 1** |
 
@@ -185,7 +185,7 @@ you to §1.1's recurring cost, with a larger number.**
 
 ## ⭐ HOBART (42.9°S 147.3°E) — the front door of the Adélie–Wilkes arc; long reach east and west
 
-> ### ✅ CANON ALREADY FIXES THE AUSTRALIAN FREIGHTER NODES *(developer reminder, 2026-10-03)*
+> ### ✅ CANON ALREADY FIXES THE AUSTRALIAN FREIGHTER NODES *(developer reminder, 2026-10-03)* — ⚠ **SUPERSEDED IN PART 2026-11-10 (`DR-133`): Australia is now a FOUR-node partner; the Tri-Cities' Nella Fjord port is the fourth.** *The text below is kept as recorded on 2026-10-03.*
 > **§3's table names Australia as a THREE-NODE partner: ✅ Dumont d'Urville · Mirny · Mawson**, and `City_Relationship_Database.md` records the staging: **Dumont d'Urville ← "staged via Hobart"; Mirny and Mawson ← "staged via Hobart/Fremantle"** *(the Mawson and Mirny entries are the subnet hubs; Casey, Davis, Zhongshan and Temirötkel carry the same Hobart/Fremantle note).* ⭐ **Those three are the anchor of everything below.** *Rows marked ✅ in the table are the canon three; every other row is an extension that canon's own coastal-supply-line notes support or that this proposal adds.* ⚠ *If the developer means a different three, correct this block.*
 
 | Distance | Tepenian city | §5 port | Coast / how it connects | Realistic role |
@@ -199,7 +199,7 @@ you to §1.1's recurring cost, with a larger number.**
 | **3,984 / 3,985 km** | **Fort McMurdo / Scott** | Winter Quarters Bay, floating ice pier *(§5.6)* | Ross Island | **Direct, long haul** (the ice pier lasts 3 to 7 years); `§6` item 1 (the NZ/"Ross" node) is still open |
 | **4,159 km** | ✅ **Mirny** *(canon node, subnet hub)* | tier not established *(§5.1)* | Davis Sea coast | **Direct, long haul.** Canon: staged via **Hobart/Fremantle**; Fremantle is 4,121 km |
 | **4,814 km** | **Davis** | Prydz Bay *(§5.6; principal Indian-Ocean import port)* | Vestfold Hills inlets, where Hwy 110 meets the sea | **Long haul.** Canon: inbound raw materials **transshipped via the French Southern and Antarctic Lands and Heard Island and McDonald Islands** (`Neutral_Transshipment_Hubs.md`); a Nov to March ice window |
-| **4,877 to 4,884 km** | **Zhongshan · Sinheung · Shirayuki** | **the Tri-Cities Port, Nella Fjord** *(§5.6c)* | Broknes Peninsula | **Long haul,** seasonal, shared |
+| **4,877 to 4,884 km** | ✅ **Zhongshan · Sinheung · Shirayuki** *(canon node from 2026-11-10, `DR-133`)* | **the Tri-Cities Port, Nella Fjord** *(§5.6c)* | Broknes Peninsula | **Long haul,** seasonal, shared. *Zhongshan's freight, by developer ruling (`DR-130` item 6, `DR-133`, 2026-11-10): three routes, through the neutral transshipment hubs, by direct sailing from the staging ports, and along the subnet's coastal supply line (by the coastal highway all year, and by sea in the summer window only, as in reality: about late November to mid-March, ships standing offshore and landing cargo by air or over the fast ice; `DR-134`, from `Research_Logs/Zhongshan_Sea_Access_Research_2026-11-10.md`).* |
 | **5,448 km** | ✅ **Mawson** *(canon node, subnet hub)* | Horseshoe Harbor *(§5.3, the only natural rock harbor)* | Mac. Robertson Land | **Long haul.** Canon: staged via **Hobart/Fremantle**; **Fremantle is nearer, 5,194 km** |
 
 **Not realistic from Hobart:** **Temirötkel** (Lützow-Holm Bay, frozen in; 6,257 km), the **Atlantic coast** (6,500 to 7,200 km) and the **Peninsula** (7,400 to 8,400 km). **Inland cities** (Ariun Nuur, Kunlun, Concordia, Dome Fuji, Byrd, Amundsen Station) connect only by highway from a coastal port.
@@ -383,7 +383,7 @@ between them"; `Geothermal_Heating.md` — Mount Melbourne.)*
 | **Marambio** | ✅ *"a working port on the island's inner side, facing the mainland"* | **GEOLOGICAL** *(Seymour Island)* |
 | ⭐ **Janbogo + Zukelli** | ✅ **developer ruling 2026-09-05** — year-round, semi-domed, **shared between the two cities** | ⭐⭐ **WIND** *(polynya)* |
 | **Mawson** | ✅ Australia-partner receiving node | ⭐ **GEOLOGICAL — and singular. See §5.3** |
-| **Dumont d'Urville · Mirny** | ✅ Australia-partner receiving nodes | ⚠ tier not established |
+| **Dumont d'Urville · Mirny · the Tri-Cities' Nella Fjord port** *(the last added 2026-11-10, `DR-133`)* | ✅ Australia-partner receiving nodes | ⚠ tier not established |
 
 ## ⛔ 5.2 Canon NO-PORT — Halley, and the reasoning is worth keeping
 
