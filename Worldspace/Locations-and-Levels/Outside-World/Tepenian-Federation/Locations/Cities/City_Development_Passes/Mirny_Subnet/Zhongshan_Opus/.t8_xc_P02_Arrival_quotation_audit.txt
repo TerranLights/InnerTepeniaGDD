@@ -1,0 +1,56 @@
+pass audited : Zhongshan_Opus
+corpus mode  : default (own pass excluded)
+corpus files : 6898   chars: 109,002,757
+files audited: Amendment_Rederivation_P02_Arrival_2026-11-10.md
+own-pass mode: a quotation may also be found in this pass's OTHER files (never in its own file)
+
+=== POSITIVE CONTROLS ===
+  [easy                      ] FOUND     a terminus is nobody's midpoint
+  [HARD - blockquote wrap    ] FOUND     A pass may not proceed to Step 5 with a NEVER CITED row
+  [HARD - outside Worldspace ] FOUND     Paste raw QA scan output into the QA block. Never summa
+  [HARD - case mismatch      ] FOUND     YOU GO TO ESPERANZA AND YOU DO NOT COME HOME FOR FOUR Y
+  [HARD - long wrapped       ] FOUND     Different content is not differentiation; a different q
+
+  INSTRUMENT VALID: YES
+  NEGATIVE CONTROL (must be absent): PASS - absent
+
+=== QUOTATION AUDIT ===
+fragments tested (single-line, ellipsis-split, >=7 words): 72
+NOT FOUND in corpus: 28
+  of those, in TABLE CELLS : 0
+  of those, in PROSE       : 28
+
+  [Amendment_Rederivation_P02_Arrival_2026-11-10.md:12]           the rulings are used as they stand ( dr-105 item 4
+  [Amendment_Rederivation_P02_Arrival_2026-11-10.md:72]           in assembly power territory at the treaty's date and robots who
+  [Amendment_Rederivation_P02_Arrival_2026-11-10.md:121]           (l138). the developer's general canon says the same
+  [Amendment_Rederivation_P02_Arrival_2026-11-10.md:240]           ( 04 phase 02 l62; 04 phase 09 l137-138). the census marks the -10% as
+  [Amendment_Rederivation_P02_Arrival_2026-11-10.md:241]           (note l64, giving census l502 and l643). the point the pass draws
+  [Amendment_Rederivation_P02_Arrival_2026-11-10.md:349]           is the pass's in-frame reading, to be labeled (
+  [Amendment_Rederivation_P02_Arrival_2026-11-10.md:350]           ). and what does that cause the relational finding
+  [Amendment_Rederivation_P02_Arrival_2026-11-10.md:448]           ( dr-11 , rulings log l458), and culture reaches robots
+  [Amendment_Rederivation_P02_Arrival_2026-11-10.md:477]           (finding 4); two clocks, still audible and
+  [Amendment_Rederivation_P02_Arrival_2026-11-10.md:478]           ( shared table l125; finding 47); the resident branch's drift before 2564, the older branch's food being
+  [Amendment_Rederivation_P02_Arrival_2026-11-10.md:518]           the door that closes behind each arrival, open inward at a size not set
+  [Amendment_Rederivation_P02_Arrival_2026-11-10.md:520]           (l343), rest on the resident branch's drift before 2564 and hold
+  [Amendment_Rederivation_P02_Arrival_2026-11-10.md:531]           (note l125-126; spec l180 itself is on no reader's list). it grounds modest commerce; whether it carries
+  [Amendment_Rederivation_P02_Arrival_2026-11-10.md:547]           neither has been able to go back to the source since
+  [Amendment_Rederivation_P02_Arrival_2026-11-10.md:558]           neither can go back to the source, which reaches them only in newer exiles
+  [Amendment_Rederivation_P02_Arrival_2026-11-10.md:577]           ) covers everyone, the merge is described as
+  [Amendment_Rederivation_P02_Arrival_2026-11-10.md:580]           (note l74-75): 22.49% not in census ii, arithmetic, with
+  [Amendment_Rederivation_P02_Arrival_2026-11-10.md:602]           on the corrected spec line (b 106, choice 135). c
+  [Amendment_Rederivation_P02_Arrival_2026-11-10.md:609]           the source can arrive. it can never be visited
+  [Amendment_Rederivation_P02_Arrival_2026-11-10.md:625]           part of today's difference is no movement at all
+  [Amendment_Rederivation_P02_Arrival_2026-11-10.md:628]           the human row (b 124). c: it matches the copied share
+  [Amendment_Rederivation_P02_Arrival_2026-11-10.md:635]           anyone who has gone back, or came only to visit
+  [Amendment_Rederivation_P02_Arrival_2026-11-10.md:640]           current on the day it left the source, in 2564
+  [Amendment_Rederivation_P02_Arrival_2026-11-10.md:665]           the door closes behind each person, not behind the city
+  [Amendment_Rederivation_P02_Arrival_2026-11-10.md:672]           with its depth left open. the developer could keep
+  [Amendment_Rederivation_P02_Arrival_2026-11-10.md:686]           is kept and labeled as arithmetic; in the restated table the row is headed
+  [Amendment_Rederivation_P02_Arrival_2026-11-10.md:708]           such a robot would carry its origin as it stood when the robot left
+  [Amendment_Rederivation_P02_Arrival_2026-11-10.md:758]           its round 3 cross-check. a reader listed under
+
+⚠ TRIAGE BY HAND. A miss is not yet a defect: the pass quoting ITSELF, and
+  connective prose captured between two adjacent quotations, both show here.
+  Confirm each at source before calling it a defect.
+
+exit 0

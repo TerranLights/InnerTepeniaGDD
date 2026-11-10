@@ -1,0 +1,39 @@
+pass audited : Zhongshan_Opus
+corpus mode  : default (own pass excluded)
+corpus files : 6901   chars: 109,169,865
+files audited: Amendment_Rederivation_P07C_Imports_2026-11-10.md
+own-pass mode: a quotation may also be found in this pass's OTHER files (never in its own file)
+
+=== POSITIVE CONTROLS ===
+  [easy                      ] FOUND     a terminus is nobody's midpoint
+  [HARD - blockquote wrap    ] FOUND     A pass may not proceed to Step 5 with a NEVER CITED row
+  [HARD - outside Worldspace ] FOUND     Paste raw QA scan output into the QA block. Never summa
+  [HARD - case mismatch      ] FOUND     YOU GO TO ESPERANZA AND YOU DO NOT COME HOME FOR FOUR Y
+  [HARD - long wrapped       ] FOUND     Different content is not differentiation; a different q
+
+  INSTRUMENT VALID: YES
+  NEGATIVE CONTROL (must be absent): PASS - absent
+
+=== QUOTATION AUDIT ===
+fragments tested (single-line, ellipsis-split, >=7 words): 29
+NOT FOUND in corpus: 11
+  of those, in TABLE CELLS : 4
+  of those, in PROSE       : 7
+
+  [Amendment_Rederivation_P07C_Imports_2026-11-10.md:98]           (l333), which is no longer true of the table (finding 3)
+  [Amendment_Rederivation_P07C_Imports_2026-11-10.md:99]           (l333-334), which falls with it (finding 3)
+  [Amendment_Rederivation_P07C_Imports_2026-11-10.md:159]           designated node, a secondary one, on one route
+  [Amendment_Rederivation_P07C_Imports_2026-11-10.md:408]           designated node, a secondary one, on one route
+  [Amendment_Rederivation_P07C_Imports_2026-11-10.md:508]  [CELL]  the three routes in the ruling's order; the neutral-route sentence, with
+  [Amendment_Rederivation_P07C_Imports_2026-11-10.md:508]  [CELL]  that only the neutral route is ruled to bring the second power's supply; the staging ports and their distances; 5.6c's shared port
+  [Amendment_Rederivation_P07C_Imports_2026-11-10.md:508]  [CELL]  with the spec's l180 and the inbound sentence; the route question closed by ruling; a separate sentence of open points. changed
+  [Amendment_Rederivation_P07C_Imports_2026-11-10.md:558]  [CELL]  replaced by the wording in 2.1: l495; the three routes; the cluster's harbor as the partner's fourth receiving node, held with the
+  [Amendment_Rederivation_P07C_Imports_2026-11-10.md:587]           this city holds it with the cluster, as one unit, holds no node of its own
+  [Amendment_Rederivation_P07C_Imports_2026-11-10.md:596]           (reader c l354-355), and a, who named only the route question, accepted both in round 3
+  [Amendment_Rederivation_P07C_Imports_2026-11-10.md:598]           (earlier piece l357). in round 1, a kept that sentence with
+
+⚠ TRIAGE BY HAND. A miss is not yet a defect: the pass quoting ITSELF, and
+  connective prose captured between two adjacent quotations, both show here.
+  Confirm each at source before calling it a defect.
+
+exit 0

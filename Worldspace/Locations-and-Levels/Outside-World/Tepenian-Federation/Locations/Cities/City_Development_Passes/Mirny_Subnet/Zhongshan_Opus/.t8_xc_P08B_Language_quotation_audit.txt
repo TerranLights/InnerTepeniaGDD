@@ -1,0 +1,46 @@
+pass audited : Zhongshan_Opus
+corpus mode  : default (own pass excluded)
+corpus files : 6898   chars: 109,002,757
+files audited: Amendment_Rederivation_P08B_Language_2026-11-10.md
+own-pass mode: a quotation may also be found in this pass's OTHER files (never in its own file)
+
+=== POSITIVE CONTROLS ===
+  [easy                      ] FOUND     a terminus is nobody's midpoint
+  [HARD - blockquote wrap    ] FOUND     A pass may not proceed to Step 5 with a NEVER CITED row
+  [HARD - outside Worldspace ] FOUND     Paste raw QA scan output into the QA block. Never summa
+  [HARD - case mismatch      ] FOUND     YOU GO TO ESPERANZA AND YOU DO NOT COME HOME FOR FOUR Y
+  [HARD - long wrapped       ] FOUND     Different content is not differentiation; a different q
+
+  INSTRUMENT VALID: YES
+  NEGATIVE CONTROL (must be absent): PASS - absent
+
+=== QUOTATION AUDIT ===
+fragments tested (single-line, ellipsis-split, >=7 words): 43
+NOT FOUND in corpus: 18
+  of those, in TABLE CELLS : 0
+  of those, in PROSE       : 18
+
+  [Amendment_Rederivation_P08B_Language_2026-11-10.md:51]           l327, row p-1, the same assumption, rated
+  [Amendment_Rederivation_P08B_Language_2026-11-10.md:52]           04 phase 05 l155, what the federation supplies
+  [Amendment_Rederivation_P08B_Language_2026-11-10.md:297]           (l834), and l843 asks how much of the older branch's speech
+  [Amendment_Rederivation_P08B_Language_2026-11-10.md:325]           says the source did arrive, which p02 's own finding 9 does not support (
+  [Amendment_Rederivation_P08B_Language_2026-11-10.md:326]           p02 l151) and which p02 choice 59 avoids (wording that
+  [Amendment_Rederivation_P08B_Language_2026-11-10.md:329]           ( p02 l728-729), and the pass's own l839 says
+  [Amendment_Rederivation_P08B_Language_2026-11-10.md:354]           (l814) as fixed at build; and a robot learns her origin by immersion
+  [Amendment_Rederivation_P08B_Language_2026-11-10.md:364]           reverses for understanding; the default is hawaiian). r1's
+  [Amendment_Rederivation_P08B_Language_2026-11-10.md:398]           to the city's second, fourth and smaller groups
+  [Amendment_Rederivation_P08B_Language_2026-11-10.md:443]           ( 04 phase 08 l813-818; 00 frame l350), and
+  [Amendment_Rederivation_P08B_Language_2026-11-10.md:521]           unchanged (c 213, c 223). round 3: a took b's wording (a 52, a 53) and held
+  [Amendment_Rederivation_P08B_Language_2026-11-10.md:540]           for a speaker who carries mandarin (a 19). b
+  [Amendment_Rederivation_P08B_Language_2026-11-10.md:557]           up to three clocks, all mutually intelligible
+  [Amendment_Rederivation_P08B_Language_2026-11-10.md:571]           (b 110). round 3: c agreed with b. settled
+  [Amendment_Rederivation_P08B_Language_2026-11-10.md:643]           the city's speech today, its mandarin or its local hawaiian
+  [Amendment_Rederivation_P08B_Language_2026-11-10.md:646]           the city's own way of carrying the two layers
+  [Amendment_Rederivation_P08B_Language_2026-11-10.md:647]           its own hawaiian, and its own mandarin with the two clocks in it
+  [Amendment_Rederivation_P08B_Language_2026-11-10.md:668]           04 phase 08 l814), or keep tracking the community she lives in (
+
+⚠ TRIAGE BY HAND. A miss is not yet a defect: the pass quoting ITSELF, and
+  connective prose captured between two adjacent quotations, both show here.
+  Confirm each at source before calling it a defect.
+
+exit 0

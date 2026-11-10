@@ -1,0 +1,42 @@
+pass audited : Zhongshan_Opus
+corpus mode  : default (own pass excluded)
+corpus files : 6898   chars: 109,002,757
+files audited: Amendment_Rederivation_P07_Order_2026-11-10.md
+own-pass mode: a quotation may also be found in this pass's OTHER files (never in its own file)
+
+=== POSITIVE CONTROLS ===
+  [easy                      ] FOUND     a terminus is nobody's midpoint
+  [HARD - blockquote wrap    ] FOUND     A pass may not proceed to Step 5 with a NEVER CITED row
+  [HARD - outside Worldspace ] FOUND     Paste raw QA scan output into the QA block. Never summa
+  [HARD - case mismatch      ] FOUND     YOU GO TO ESPERANZA AND YOU DO NOT COME HOME FOR FOUR Y
+  [HARD - long wrapped       ] FOUND     Different content is not differentiation; a different q
+
+  INSTRUMENT VALID: YES
+  NEGATIVE CONTROL (must be absent): PASS - absent
+
+=== QUOTATION AUDIT ===
+fragments tested (single-line, ellipsis-split, >=7 words): 50
+NOT FOUND in corpus: 14
+  of those, in TABLE CELLS : 0
+  of those, in PROSE       : 14
+
+  [Amendment_Rederivation_P07_Order_2026-11-10.md:66]           did not hold on the pass's own day either. 16 18's figure as first written
+  [Amendment_Rederivation_P07_Order_2026-11-10.md:77]           (l168) is contradicted by the line it cites, and
+  [Amendment_Rederivation_P07_Order_2026-11-10.md:101]           in 16 l1926, read in place. both of l1926's notes say
+  [Amendment_Rederivation_P07_Order_2026-11-10.md:172]           (l296). the ground for a divide rather than a deficit
+  [Amendment_Rederivation_P07_Order_2026-11-10.md:233]           holds under either reading of d-6. l473 is row 3
+  [Amendment_Rederivation_P07_Order_2026-11-10.md:300]           nobody designed it. it follows from about 8-12% of the ground never needing to be rebuilt
+  [Amendment_Rederivation_P07_Order_2026-11-10.md:304]           the ground. about 8-12% of the city stands on rock that never needs rebuilding. no one assigned it
+  [Amendment_Rederivation_P07_Order_2026-11-10.md:310]           (if question 67 is answered with option b or c, this line, l616's
+  [Amendment_Rederivation_P07_Order_2026-11-10.md:418]           and a research stake in a project shared among several parties sits on the same side
+  [Amendment_Rederivation_P07_Order_2026-11-10.md:424]           7c.1 - the city's main product is a qualified person, and the qualification is the institution
+  [Amendment_Rederivation_P07_Order_2026-11-10.md:449]           (l333-334), and 16 18 independently rules the city
+  [Amendment_Rederivation_P07_Order_2026-11-10.md:553]           (l473). the in-world half of drq-11 (who, or nobody) open. the belt
+  [Amendment_Rederivation_P07_Order_2026-11-10.md:605]           (l168). reader a (finding 3) wrote that it
+  [Amendment_Rederivation_P07_Order_2026-11-10.md:664]           ) is read as the rock inside the city, and l475 (
+
+⚠ TRIAGE BY HAND. A miss is not yet a defect: the pass quoting ITSELF, and
+  connective prose captured between two adjacent quotations, both show here.
+  Confirm each at source before calling it a defect.
+
+exit 0

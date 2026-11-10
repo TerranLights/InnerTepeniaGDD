@@ -1,0 +1,50 @@
+pass audited : Zhongshan_Opus
+corpus mode  : default (own pass excluded)
+corpus files : 6898   chars: 109,002,757
+files audited: Amendment_Rederivation_P08A_Composition_2026-11-10.md
+own-pass mode: a quotation may also be found in this pass's OTHER files (never in its own file)
+
+=== POSITIVE CONTROLS ===
+  [easy                      ] FOUND     a terminus is nobody's midpoint
+  [HARD - blockquote wrap    ] FOUND     A pass may not proceed to Step 5 with a NEVER CITED row
+  [HARD - outside Worldspace ] FOUND     Paste raw QA scan output into the QA block. Never summa
+  [HARD - case mismatch      ] FOUND     YOU GO TO ESPERANZA AND YOU DO NOT COME HOME FOR FOUR Y
+  [HARD - long wrapped       ] FOUND     Different content is not differentiation; a different q
+
+  INSTRUMENT VALID: YES
+  NEGATIVE CONTROL (must be absent): PASS - absent
+
+=== QUOTATION AUDIT ===
+fragments tested (single-line, ellipsis-split, >=7 words): 62
+NOT FOUND in corpus: 22
+  of those, in TABLE CELLS : 0
+  of those, in PROSE       : 22
+
+  [Amendment_Rederivation_P08A_Composition_2026-11-10.md:77]           (l139); twelve notable entries totaling 29.32 (l140-142); and
+  [Amendment_Rederivation_P08A_Composition_2026-11-10.md:86]           ), and dr-12 makes the tiers the information
+  [Amendment_Rederivation_P08A_Composition_2026-11-10.md:126]           the default does not get compromised - it erodes, into something generic-but-local that nobody chose and everybody can use
+  [Amendment_Rederivation_P08A_Composition_2026-11-10.md:139]           the three shoulder rows (the significant tier)
+  [Amendment_Rederivation_P08A_Composition_2026-11-10.md:287]           are the larger part of the remainder. and then the generic-but-local layer
+  [Amendment_Rederivation_P08A_Composition_2026-11-10.md:344]           l944, the site condition in the same table
+  [Amendment_Rederivation_P08A_Composition_2026-11-10.md:467]           fails for split rows, and the clause is not grounded at its cited address)
+  [Amendment_Rederivation_P08A_Composition_2026-11-10.md:477]           (b search 8; c search 15) and a mongolic word for
+  [Amendment_Rederivation_P08A_Composition_2026-11-10.md:554]           for ph8 l160: the figure stays, and the ground adds
+  [Amendment_Rederivation_P08A_Composition_2026-11-10.md:601]           ( ph8 l155-156); a plurality's default has to be offered, a majority's is
+  [Amendment_Rederivation_P08A_Composition_2026-11-10.md:609]           taking p02 finding 46 as current input (
+  [Amendment_Rederivation_P08A_Composition_2026-11-10.md:645]           l218-220: under no forced fit the 52.83% reading
+  [Amendment_Rederivation_P08A_Composition_2026-11-10.md:700]           the other four clusters: candidate readings, stated as such and not merged
+  [Amendment_Rederivation_P08A_Composition_2026-11-10.md:785]           (l273-275); the required form (l281); the two not phrasings and
+  [Amendment_Rederivation_P08A_Composition_2026-11-10.md:787]           (l232) with its lower bounds (finding 29)
+  [Amendment_Rederivation_P08A_Composition_2026-11-10.md:832]           stands at ph8 l238, l243, l269, l884 and l947, and
+  [Amendment_Rederivation_P08A_Composition_2026-11-10.md:862]           plus the tier relation (c 230). round 3: a held that
+  [Amendment_Rederivation_P08A_Composition_2026-11-10.md:863]           still uses the largest significant row's own figure. settled: the tier relation, which claims less
+  [Amendment_Rederivation_P08A_Composition_2026-11-10.md:868]           an open candidate (c 236). round 3: b took a's
+  [Amendment_Rederivation_P08A_Composition_2026-11-10.md:939]           not one of the thirty-five brought a practice set that assumes a polar climate
+  [Amendment_Rederivation_P08A_Composition_2026-11-10.md:947]           is kept as a readable figure, with the ground at the tier (finding 46). reader c's
+  [Amendment_Rederivation_P08A_Composition_2026-11-10.md:995]           the primary row outweighs the whole significant tier
+
+⚠ TRIAGE BY HAND. A miss is not yet a defect: the pass quoting ITSELF, and
+  connective prose captured between two adjacent quotations, both show here.
+  Confirm each at source before calling it a defect.
+
+exit 0

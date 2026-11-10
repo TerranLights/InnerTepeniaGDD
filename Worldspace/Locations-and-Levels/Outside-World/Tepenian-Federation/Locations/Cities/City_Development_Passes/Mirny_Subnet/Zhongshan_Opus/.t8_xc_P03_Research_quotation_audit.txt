@@ -1,0 +1,39 @@
+pass audited : Zhongshan_Opus
+corpus mode  : default (own pass excluded)
+corpus files : 6898   chars: 109,002,757
+files audited: Amendment_Rederivation_P03_Research_2026-11-10.md
+own-pass mode: a quotation may also be found in this pass's OTHER files (never in its own file)
+
+=== POSITIVE CONTROLS ===
+  [easy                      ] FOUND     a terminus is nobody's midpoint
+  [HARD - blockquote wrap    ] FOUND     A pass may not proceed to Step 5 with a NEVER CITED row
+  [HARD - outside Worldspace ] FOUND     Paste raw QA scan output into the QA block. Never summa
+  [HARD - case mismatch      ] FOUND     YOU GO TO ESPERANZA AND YOU DO NOT COME HOME FOR FOUR Y
+  [HARD - long wrapped       ] FOUND     Different content is not differentiation; a different q
+
+  INSTRUMENT VALID: YES
+  NEGATIVE CONTROL (must be absent): PASS - absent
+
+=== QUOTATION AUDIT ===
+fragments tested (single-line, ellipsis-split, >=7 words): 19
+NOT FOUND in corpus: 11
+  of those, in TABLE CELLS : 2
+  of those, in PROSE       : 9
+
+  [Amendment_Rederivation_P03_Research_2026-11-10.md:80]           at most it adds material. it reverses nothing
+  [Amendment_Rederivation_P03_Research_2026-11-10.md:94]           (r1 l3), r2 on the same date (r2 l3), and both closed that day (
+  [Amendment_Rederivation_P03_Research_2026-11-10.md:125]           can no longer stand unqualified as a statement about today's inputs
+  [Amendment_Rederivation_P03_Research_2026-11-10.md:215]           with 122 logged searches and fetches, and round 2
+  [Amendment_Rederivation_P03_Research_2026-11-10.md:273]           (first check l4), and its round 2 result is
+  [Amendment_Rederivation_P03_Research_2026-11-10.md:276]           as covered by the research log at the time of the pass
+  [Amendment_Rederivation_P03_Research_2026-11-10.md:284]           can no longer stand unqualified as a statement about today's inputs
+  [Amendment_Rederivation_P03_Research_2026-11-10.md:292]           at most it adds material. it reverses nothing
+  [Amendment_Rederivation_P03_Research_2026-11-10.md:351]  [CELL]  and qualifies l39 only for the change in inputs (a finding 9, choice 24). b
+  [Amendment_Rederivation_P03_Research_2026-11-10.md:352]  [CELL]  heading (b's form, accepted by c3 l141-143, and matching a's own wording). the words
+  [Amendment_Rederivation_P03_Research_2026-11-10.md:455]           is the item output .xc 20261110 item u5.md (an input, not one of the three readers)
+
+⚠ TRIAGE BY HAND. A miss is not yet a defect: the pass quoting ITSELF, and
+  connective prose captured between two adjacent quotations, both show here.
+  Confirm each at source before calling it a defect.
+
+exit 0

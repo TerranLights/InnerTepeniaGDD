@@ -19,9 +19,9 @@
 
 | Tier | Nations |
 |------|---------|
-| Primary | China *(continuous from founding through present; strengthened 2026-07-06, three times)* |
-| Significant | South Korea, Japan, Germany, Russia, Australia *(founding wave)* |
-| Notable | Vietnam, Estonia, Thailand, Lithuania, Malaysia, Indonesia *(demoted 2026-07-06)*, Romania, Philippines, Latvia, New Zealand, Bulgaria, South Africa |
+| Primary | Sinian Federation *(founding wave)* — the state's name at the Treaty; the people are Chinese (`DR-21`) |
+| Significant | Korea, Japan, Germany |
+| Notable | Australia, Vietnam, Estonia, Lithuania, Thailand, Malaysia, Indonesia, Romania, Idelsk-Uralia, Russia (core state), Philippines, Latvia, Austro-Bavaria, New Zealand, Bulgaria, South Africa, Siberia, Donska-Kubania, Künnarantaiga, Hungary, Dagestan, Patani, West Papua, Chechnya, Aceh, Kabardino-Balkaria, North Ossetia-Alania, Finland, Ingushetia, Karachay-Cherkessia, Tuva *(tiers corrected 2026-11-10 to `Specs/Mirny subnet/Zhongshan.md` L20-22, at the developer's word, `DR-130` item 12; the Russian-named rows are separate origins, `DR-105` item 4)* |
 
 *Chinese cultural identity is unbroken from day one — never displaced by incoming demographics. Zhongshan's founding was itself confirmed via the International Court of Diplomacy at Jeju-do — the same three-way Upper Earth body (Japan, Korea, and the Sinian Federation coordinating as peers) that later allocated Shirayuki to Japan — which settled China's claim to Zhongshan Station as exclusive: neither Japan nor Korea pressed a competing claim, and Russia was never a party to that court at all. Every other nation present in Zhongshan today, Russia included, arrived through ordinary subsequent immigration into an already-established Chinese cultural framework — see Section 2. **Adjusted 2026-07-06, in three rounds** — Round 1: UK removed, its share folded into China's own; Japan and Indonesia swapped shares. Round 2: Indonesia demoted further, from Significant to Notable; Belarus and Ukraine both removed entirely, their shares folded into China; the gap left by Indonesia's own demotion split evenly between China and South Korea. Round 3: a direct hand-specified transfer — 3.0 points from South Korea and 2.0 points from Japan, both moved to China. China now sits at 35.83%, South Korea at 9.70%, Japan at 7.30%. See `Specs/Zhongshan.md`'s Founding Population Adjustment for the full math.*
 
@@ -35,7 +35,7 @@ The name *Zhongshan* — the courtesy name of Sun Yat-sen, the founding figure o
 
 Zhongshan's claim to its own site was never left to chance. Before the exile era began, the International Court of Diplomacy at Jeju-do — the same Upper Earth institution that later allocated the unoccupied Bharati site to Japan as Shirayuki — coordinated Japan, Korea, and the Sinian Federation as regional peers, settling each nation's claim in the Larsemann Hills area as part of the same process. China's existing, extensive presence at Zhongshan Station was confirmed as exclusively theirs; neither Japan nor Korea pressed a competing claim. Russia was never a party to that court at all — whatever Russian presence exists in Zhongshan today arrived the same way Korea's, Germany's, and Japan's did: as ordinary immigration into a city whose founding, and whose exclusive claim to its own site, was already settled before any of them arrived.
 
-Australian exiles formed the founding wave of non-Chinese settlers who arrived once the exile era began. Subsequent immigration brought Korean, German, Japanese, Russian, and Eastern European communities in meaningful numbers, largest to smallest by the share Zhongshan holds today: Korea (9.70%), Japan (7.30%), Germany (7.10%), Australia (3.66%), Russia (1.79%) (figures refreshed 2026-11-03 after the population rework `DR-85`). All of them integrated into a cultural framework that was already well-established by the time they arrived.
+Non-Chinese settlers began arriving once the exile era began; the city's founder, the only one named in the Founding Register, is the Sinian Federation (`DR-88`; *corrected 2026-11-10, `DR-130` item 12: previously named Australian exiles as the founding wave*). Subsequent immigration brought Korean, German, Japanese, Russian, and Eastern European communities in meaningful numbers, largest to smallest by the share Zhongshan holds today: Korea (9.70%), Japan (7.30%), Germany (7.10%), Australia (3.66%), Russia (1.79%) (figures refreshed 2026-11-03 after the population rework `DR-85`). All of them integrated into a cultural framework that was already well-established by the time they arrived.
 
 ---
 
@@ -107,7 +107,7 @@ People do not end up in Zhongshan by accident. It is not a transit hub; it is no
 
 ## 8. Language
 
-- **a. Primary language(s):** Mandarin (Sinian Standard), heavily maintained across generations, the city's sole public language. Notable-tier communities — Korean, German, Japanese, Russian, and others — maintain their own languages at home, generation to generation, but Zhongshan's public life runs on Mandarin alone.
+- **a. Primary language(s):** Hawaiian (later Tepenian) is the dominant language, as in every location (`DR-100`). Mandarin (Sinian Standard), heavily maintained across generations, is Zhongshan's supporting-tier language, which residents can be assumed to follow (`DR-100`). Korean, German, Japanese, Russian and other communities maintain their own languages at home, generation to generation. *(Corrected 2026-11-10 at the developer's word, `DR-130` items 9 and 12: previously gave Mandarin as the city's sole public language.)*
 
 - **b. Linguistic character:** Zhongshan Mandarin is notably deliberate in its pacing. Fast speech is considered slightly careless; a measured quality in delivery is the cultural norm — the same instinct that shapes everything else about how the city carries itself: care concentrated where it counts, nothing rushed, nothing performed. No one explains this; it is simply how people talk.
 
