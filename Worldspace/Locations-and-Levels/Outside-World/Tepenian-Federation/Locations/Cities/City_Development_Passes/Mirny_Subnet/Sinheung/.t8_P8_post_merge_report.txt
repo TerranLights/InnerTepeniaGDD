@@ -1,0 +1,14 @@
+== numbering: numbered piece P8: D=23, F=16, K=12, N=19, Q=7, R=14
+part files: 8; merged lines: 1415
+other-city names: none
+American English sweep: no British variants found by the pattern list (only 'judgement' is kept)
+QUOTED STRINGS (14+ chars) checked against the admitted ranges of the reading list: not found anywhere: 9; found only outside an admitted range: 0
+  NOT FOUND   L129: the composition no longer has those clusters as its middle tier
+  NOT FOUND   L193: their origin rows are a census convention
+  NOT FOUND   L212:  does not occur in it, and that 
+  NOT FOUND   L546: a measure held only in Korean could not be universal.
+  NOT FOUND   L646: the implied claim in L432 that the city has no accent
+  NOT FOUND   L757: . In the pinned spine, Phase 8 opens at L955 (
+  NOT FOUND   L1134: No web research in this piece.
+  NOT FOUND   L1158 (section 9): UNANIMOUS - CLEARED TO WRITE
+  NOT FOUND   L1313 (section 9):  is killed or the clause qualified** (AM-P8-K5). B: 

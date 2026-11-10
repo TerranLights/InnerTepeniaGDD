@@ -1,0 +1,74 @@
+== numbering: numbered piece P3: D=44, F=13, K=18, N=13, Q=11, R=13
+part files: 9; merged lines: 1257
+other-city names: none
+BRITISH SPELLING HITS (1): 944:Catalogue
+QUOTED STRINGS (14+ chars) checked against the admitted ranges of the reading list: not found anywhere: 65; found only outside an admitted range: 4
+  NOT FOUND   L6: (another location: not used)
+  NOT FOUND   L20: the plant and its paper may pass; people, practice and provenance may not.
+  NOT FOUND   L50: the station's research (data, results, ongoing datasets), its equipment, and its technique
+  NOT FOUND   L91:  now means the full `DR-24` to `DR-26` set, and 
+  NOT FOUND   L91: a fact about infrastructure
+  NOT FOUND   L120: is suited to accommodating up to 100 personnel during summer
+  NOT FOUND   L124: a diesel-electric power station with a total capacity of 900 kW
+  NOT FOUND   L125: fifteen 75 m3 double-walled tanks
+  NOT FOUND   L128: the major transportation base for supporting inland traverses
+  NOT FOUND   L139: Helicopters are therefore the only reliable means by which persons and supplies can be tra
+  NOT FOUND   L146: primarily intended as a support base for inland geological and glaciological operations
+  NOT FOUND   L150: short, concentrated and well-documented
+  NOT FOUND   L179: roughly 0.1 km², about 0.25%
+  NOT FOUND   L207: staffed versus settled
+  NOT FOUND   L214:  in Round 3 and adopted the qualifier). What the dual type would wrongly make structural i
+  NOT FOUND   L239: The city may use what the predecessors left; it may not use who they were.
+  NOT FOUND   L256: inheritance without personhood
+  NOT FOUND   L286: ; its headline (L204) says 
+  NOT FOUND   L287: originated almost nothing
+  NOT FOUND   L291: everything it receives as a flow is unfinished; the one finished thing it received was the
+  NOT FOUND   L293: a site with a functioning plant on it
+  NOT FOUND   L311: was someone else's
+  NOT FOUND   L345: a functioning, maintained station plant, its successive maintainers unspecified (NNS L15)
+  NOT FOUND   L346: a maintained station plant and its records
+  NOT FOUND   L347: an inherited station plant, maintained and still functional, with its records
+  NOT FOUND   L404: a claim secured by a court's allocation, on a site within the founding stock's geographic 
+  NOT FOUND   L405: secured by the court's allocation, with the founders' geographic reach to the coast as an 
+  NOT FOUND   L559:  as the plant, 
+  NOT FOUND   L589: fits the facts
+  NOT FOUND   L612:  The fabrication economy's feedstock arrives by truck, so it 
+  NOT FOUND   L668: would make an installation's staffed life structural to the city, and none of it crossed t
+  NOT FOUND   L670: The city may use what the predecessors left; it may not use who they were.
+  NOT FOUND   L671: inheritance without personhood
+  NOT FOUND   L676:  are narrower than the rulings. | Amendment note: resolved upstream. Spec L211 now reads 
+  NOT FOUND   L676:  as plant, records, research, equipment and techniques, and 
+  NOT FOUND   L683: a site with a functioning plant on it
+  NOT FOUND   L685: everything it receives as a flow is unfinished; the one finished thing it received was the
+  NOT FOUND   L687:  is looser than the spine's own evidence (
+  NOT FOUND   L687: , L141), and would read against `DR-26` if any plant material is taken up. | Qualifier in 
+  NOT FOUND   L703: a functioning, maintained station plant, its successive maintainers unspecified (NNS L15)
+  NOT FOUND   L703: a maintained station plant and its records
+  NOT FOUND   L703: an inherited station plant, maintained and still functional, with its records
+  NOT FOUND   L705: the daily work of building a home among plant, records and design that others made
+  NOT FOUND   L736: this ground was someone's before ours
+  NOT FOUND   L754: applied here to secure this site for Korea; the station's physical plant carried no foundi
+  NOT FOUND   L755: to secure this site, with its inherited station plant, for Korea
+  NOT FOUND   L808: inheritance without personhood
+  NOT FOUND   L834: well-documented
+  NOT FOUND   L910: Synoptic index 89574
+  NOT FOUND   L933: doubles as a regional hospital
+  NOT FOUND   L937: AYM0008957[0-9]
+  NOT FOUND   L945: Ship landing facilities: None
+  NOT FOUND   L964: roughly 0.1 km², about 0.25%
+  NOT FOUND   L1001 (section 9): UNANIMOUS - CLEARED TO WRITE
+  NOT FOUND   L1015 (section 9): sets this city apart
+  NOT FOUND   L1043 (section 9): ; C withdrew its unqualified 
+  NOT FOUND   L1047 (section 9): fits the facts
+  NOT FOUND   L1116 (section 9): fits the facts
+  NOT FOUND   L1172 (section 9): at the city's nucleus
+  NOT FOUND   L1177 (section 9): a bed serves either body
+  NOT FOUND   L1197 (section 9): stays unassigned
+  NOT FOUND   L1207 (section 9): sets this city apart
+  NOT FOUND   L1212 (section 9): Pass locations. None.
+  NOT FOUND   L1220 (section 9): neither matches the real-world record
+  NOT FOUND   L1229 (section 9): without naming which operators held it
+  OUTSIDE-RANGE L501: none is sited here
+  OUTSIDE-RANGE L501: none is possible
+  OUTSIDE-RANGE L513: killed by evidence
+  OUTSIDE-RANGE L1040 (section 9): killed by evidence

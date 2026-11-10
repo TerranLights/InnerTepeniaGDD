@@ -1,0 +1,64 @@
+OK       Official_Population_Census.md L509
+OK       Official_Population_Census.md L647
+OK       Official_Population_Census.md L416
+OK       Official_Population_Census.md L417
+OK       Official_Population_Census.md L418
+OK       Official_Population_Census.md L33
+OK       Sinheung.md L4
+OK       Sinheung.md L8
+OK       Sinheung.md L71
+OK       Sinheung.md L72
+OK       Sinheung.md L76
+OK       Sinheung.md L77
+OK       Sinheung.md L92
+OK       Sinheung.md L93
+OK       Sinheung.md L94
+OK       Sinheung.md L95
+OK       Sinheung.md L96
+OK       Sinheung.md L102
+OK       Sinheung.md L104
+OK       Sinheung.md L105
+OK       Sinheung.md L108
+OK       Sinheung.md L154
+OK       Sinheung.md L211
+OK       Sinheung.md L213
+OK       Sinheung.md L215
+OK       Founding_Register.md L62
+OK       Founding_Register.md L61
+OK       Founding_Register.md L60
+OK       16_Per_City_Three_Tier_Run.md L257
+OK       16_Per_City_Three_Tier_Run.md L1834
+OK       16_Per_City_Three_Tier_Run.md L1838
+OK       16_Per_City_Three_Tier_Run.md L1839
+OK       16_Per_City_Three_Tier_Run.md L1840
+OK       16_Per_City_Three_Tier_Run.md L1850
+OK       16_Per_City_Three_Tier_Run.md L1851
+OK       09_Per_City_Baseline_Run.md L80
+OK       Extent_and_Density_Per_City.md L620
+OK       Ports.md L130
+OK       Neutral_Transshipment_Hubs.md L60
+OK       Sinheung.md L90
+OK       Sinheung.md L135
+OK       DEVELOPER_RULINGS_LOG.md L538
+OK       DEVELOPER_RULINGS_LOG.md L634
+OK       DEVELOPER_RULINGS_LOG.md L654
+OK       DEVELOPER_RULINGS_LOG.md L919
+OK       DEVELOPER_RULINGS_LOG.md L930
+OK       Language_Blocs_By_City_2026-11-03.md L1104-L1116
+OK       Language_Blocs_By_City_2026-11-03.md L1104-L1116
+OK       Language_Blocs_By_City_2026-11-03.md L1104-L1116
+OK       Language_Blocs_By_City_2026-11-03.md L1104-L1116
+OK       City_Symbol_Assignments.md L1-L400
+TOTAL line checks: 51   OK: 51   DIFF: 0
+file length Sinheung.md: 269 newline-lines (note says 269): OK
+file length Official_Population_Census.md: 892 newline-lines (note says 892): OK
+composition rows parsed (L92-L130): 39; by tier: {'Primary': 1, 'Significant': 3, 'Notable': 35}; share sum 99.992%; rows under 1%: 18
+East Asian cluster: Korea+Japan+Sinian Federation = 47.85; + Taiwan = 50.71; + Manchuria, Mongolia, East Turkestan, Tibet = 51.495
+the thirteen Russia rows together: 6.47% (found 13 of 13)
+Census I 1014533, Census II 835341
+retention humans 83.09%, robots 81.62%, combined 82.34%, gap 1.47 points
+robots share of Census I 51.27%, humans 48.73%
+workforce (robots + half the humans) = 767362.5; required 271,073 / 767,363 = 35.33%
+section 17: 321,100 + 211,975 + 234,288 = 767363; shares 41.845% / 27.624% / 30.532%; fabrication+Institute half = 211975; distinctive 446263
+land need at 10,000 and 7,000 per km2: 101.45 and 144.93 km2; density on 40 km2: 25363 per km2
+ratio check (Census I added humans/robots): 1.125; city ratio 0.950; (Census II added): 0.748; city ratio 0.967

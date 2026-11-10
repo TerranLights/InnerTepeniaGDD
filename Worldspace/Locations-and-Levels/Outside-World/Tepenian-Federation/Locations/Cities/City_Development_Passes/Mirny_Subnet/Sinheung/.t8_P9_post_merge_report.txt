@@ -1,0 +1,50 @@
+== numbering: numbered piece P9: D=39, F=12, K=14, N=19, Q=7, R=11
+part files: 8; merged lines: 804
+other-city names: none
+American English sweep: no British variants found by the pattern list (only 'judgement' is kept)
+QUOTED STRINGS (14+ chars) checked against the admitted ranges of the reading list: not found anywhere: 44; found only outside an admitted range: 1
+  NOT FOUND   L159: : after Round 3, A holds 
+  NOT FOUND   L159: firm by citation
+  NOT FOUND   L183: killed for want of an admitted line
+  NOT FOUND   L183: killed by evidence
+  NOT FOUND   L210:  falls (all three, after Round 3, class it for want of an admitted line); `conflict resolv
+  NOT FOUND   L214: Both populations overwhelmingly stayed (`84.33%` and `81.87%`), and the shared reason is a
+  NOT FOUND   L228:  as approximating the 30.532% free share, and C in Round 1 attached the free-share figure 
+  NOT FOUND   L246:  belongs to the place fact (K also asked it); the split is `found by two` (A, C). After Ro
+  NOT FOUND   L296:  itself has no admitted line (B; `conditional`). (AM-P9-F7) Disposition: `confirmed by all
+  NOT FOUND   L299:  on the explanation: narrowed.** 
+  NOT FOUND   L318: who remained in the count
+  NOT FOUND   L394: . DR-4 (LOG L203, L235) uses 
+  NOT FOUND   L402: . The pass attributes it to `Phase 2`, which was in no reader's list; the canon in the lis
+  NOT FOUND   L458: ; the Phase 9 spec now sits at 03 L1026-1100. Phase 9 L408-409 say 
+  NOT FOUND   L479:  collides with DR-4's deferred term | *Retention, Census I → II, current rows (SPEC L71-72
+  NOT FOUND   L494:  is stated as fact; it is the reading convention, and the counts are net | *By the census'
+  NOT FOUND   L496: GRADED UNDER THE STANDARD
+  NOT FOUND   L497:  is false; the maker 
+  NOT FOUND   L500:  clause is a comparison with no admitted line | Strike the contrast. Keep 
+  NOT FOUND   L500:  with its grading and 
+  NOT FOUND   L503:  has no admitted line | *The apparatus robots come into existence in is manufactured here,
+  NOT FOUND   L526:  and the gap are not read as observed quantities. B recommends reading the rows as net, wr
+  NOT FOUND   L526: , and glossing 
+  NOT FOUND   L527: remained in the count
+  NOT FOUND   L548: national baseline, not a finding of this city
+  NOT FOUND   L586: no web research in this piece
+  NOT FOUND   L594 (section 9): ✅ all fields match ground truth
+  NOT FOUND   L594 (section 9): UNANIMOUS - CLEARED TO WRITE
+  NOT FOUND   L619 (section 9):  class and its removal of row 5; both adopted C's form | `confirmed by all three` (L186 fa
+  NOT FOUND   L620 (section 9):  wording; B withdrew 
+  NOT FOUND   L620 (section 9):  | `confirmed by all three`; the measure behind 
+  NOT FOUND   L621 (section 9): inheritance unchanged
+  NOT FOUND   L635 (section 9): killed by evidence
+  NOT FOUND   L636 (section 9):  point as conditional | `confirmed by all three`; 
+  NOT FOUND   L759 (section 9): Inheritance tag unchanged
+  NOT FOUND   L761 (section 9):  for the grading part of the place fact, replaced by 
+  NOT FOUND   L764 (section 9): killed by evidence
+  NOT FOUND   L764 (section 9):  for the grading, and 
+  NOT FOUND   L764 (section 9):  left unflagged. W7 the words 
+  NOT FOUND   L782 (section 9): (another location: not used)
+  NOT FOUND   L787 (section 9): pass CI / current CI
+  NOT FOUND   L788 (section 9): pass CII / current CII
+  NOT FOUND   L789 (section 9): post DR-68 CI / current CI
+  NOT FOUND   L790 (section 9): pass H CI / current H CI
+  OUTSIDE-RANGE L538:  rather than the 

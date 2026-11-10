@@ -1,0 +1,67 @@
+pass audited : Sinheung
+corpus mode  : default (own pass excluded)
+corpus files : 6670   chars: 100,885,795
+files audited: Amendment_Rederivation_P7_Raw_Materials_2026-11-09.md
+own-pass mode: a quotation may also be found in this pass's OTHER files (never in its own file)
+
+=== POSITIVE CONTROLS ===
+  [easy                      ] FOUND     a terminus is nobody's midpoint
+  [HARD - blockquote wrap    ] FOUND     A pass may not proceed to Step 5 with a NEVER CITED row
+  [HARD - outside Worldspace ] FOUND     Paste raw QA scan output into the QA block. Never summa
+  [HARD - case mismatch      ] FOUND     YOU GO TO ESPERANZA AND YOU DO NOT COME HOME FOR FOUR Y
+  [HARD - long wrapped       ] FOUND     Different content is not differentiation; a different q
+
+  INSTRUMENT VALID: YES
+  NEGATIVE CONTROL (must be absent): PASS - absent
+
+=== QUOTATION AUDIT ===
+fragments tested (single-line, ellipsis-split, >=7 words): 104
+NOT FOUND in corpus: 41
+  of those, in TABLE CELLS : 0
+  of those, in PROSE       : 41
+
+  [Amendment_Rederivation_P7_Raw_Materials_2026-11-09.md:37]           with the same outcome). the first check's condition for asking the developer is met, and the question goes to am-p7-q1. strength: 
+  [Amendment_Rederivation_P7_Raw_Materials_2026-11-09.md:45]           ties this city's share of the transshipment flow to the shared fjord port
+  [Amendment_Rederivation_P7_Raw_Materials_2026-11-09.md:46]           and meets the queue first (phase 5 l137). the window's stake (l57)
+  [Amendment_Rederivation_P7_Raw_Materials_2026-11-09.md:60]           resupply is generally undertaken once a year in summer
+  [Amendment_Rederivation_P7_Raw_Materials_2026-11-09.md:60]           (larsemann hills management plan, atcm measure 15 (2014); a, c)
+  [Amendment_Rederivation_P7_Raw_Materials_2026-11-09.md:62]           sea ice usually persists in the fjords and between the shore and numerous near-shore islands until late in the summer season
+  [Amendment_Rederivation_P7_Raw_Materials_2026-11-09.md:71]           ), tooling and spares, finishing and grading (stone work), and, as a scoped specialization, the fabrication-synthesis chambers. th
+  [Amendment_Rederivation_P7_Raw_Materials_2026-11-09.md:81]           all steel includes small quantities of e.g. carbon, silicon and manganese
+  [Amendment_Rederivation_P7_Raw_Materials_2026-11-09.md:93]           low quality - high moisture, high ash content - thin and in broken bands
+  [Amendment_Rederivation_P7_Raw_Materials_2026-11-09.md:94]           the majority of the mineral occurrences in all territories are small showings or traces
+  [Amendment_Rederivation_P7_Raw_Materials_2026-11-09.md:94]           no mineral deposits of economic importance have so far been discovered in the area
+  [Amendment_Rederivation_P7_Raw_Materials_2026-11-09.md:94]           traces of copper, iron, manganese, coal, and radioactive minerals
+  [Amendment_Rederivation_P7_Raw_Materials_2026-11-09.md:98]           scientifically significant in their variety and origin
+  [Amendment_Rederivation_P7_Raw_Materials_2026-11-09.md:129]           cell is written after the round 3 withdrawals: a withdrew
+  [Amendment_Rederivation_P7_Raw_Materials_2026-11-09.md:135]           ). where it originates, as known in the city: open (a, b, c). not
+  [Amendment_Rederivation_P7_Raw_Materials_2026-11-09.md:172]           the cluster's only access to supply from outside the nation
+  [Amendment_Rederivation_P7_Raw_Materials_2026-11-09.md:187]           ); hub file l32 (the direction is inbound, a developer correction of 2026-09-16); l34
+  [Amendment_Rederivation_P7_Raw_Materials_2026-11-09.md:241]           for domestic supply. now that canon has an overseas channel
+  [Amendment_Rederivation_P7_Raw_Materials_2026-11-09.md:250]           from the domestic feeder (another location: not used) via the hwy 110 / hwy 4 tri-junction
+  [Amendment_Rederivation_P7_Raw_Materials_2026-11-09.md:281]           stands (a; b after withdrawing its own narrowing). the spine itself separated the two objects
+  [Amendment_Rederivation_P7_Raw_Materials_2026-11-09.md:281]           (l171). the fjord port is the second object, and the real site's plan still records small-boat access on the east shore as
+  [Amendment_Rederivation_P7_Raw_Materials_2026-11-09.md:281]           asserts that nothing remedies the deficit, while canon shows a remedy by construction (
+  [Amendment_Rederivation_P7_Raw_Materials_2026-11-09.md:302]           (l83, second half) stands and is reinforced (c)
+  [Amendment_Rederivation_P7_Raw_Materials_2026-11-09.md:322]           which supports the sentence; the candidate list at hub file l51-52 (which includes
+  [Amendment_Rederivation_P7_Raw_Materials_2026-11-09.md:330]           and, provisionally, an overseas address reached through intermediaries, where the counterparty dealt with (the hub territories) is
+  [Amendment_Rederivation_P7_Raw_Materials_2026-11-09.md:346]           is unstated. the addendum that carries l225 is headed
+  [Amendment_Rederivation_P7_Raw_Materials_2026-11-09.md:346]           (l211), nine days before the hub ruling (hub file l3), so the line cannot mean the hub channel; after the ruling
+  [Amendment_Rederivation_P7_Raw_Materials_2026-11-09.md:346]           is ambiguous between the two streams (c). one of the pair named there (another location: not used) is also on the beneficiary list
+  [Amendment_Rederivation_P7_Raw_Materials_2026-11-09.md:358]           (l81). hub file l109 also records that ports.md
+  [Amendment_Rederivation_P7_Raw_Materials_2026-11-09.md:371]           it hands the allocation to an item now ruled. b's citation of l257 for
+  [Amendment_Rederivation_P7_Raw_Materials_2026-11-09.md:433]           dilution with virgin iron or cleaner scrap is the only commercially practiced solution
+  [Amendment_Rederivation_P7_Raw_Materials_2026-11-09.md:472]           entirely breaks up and disappears for a couple of weeks during summer
+  [Amendment_Rederivation_P7_Raw_Materials_2026-11-09.md:485]           (another location: not used). the ruling's own words say the beneficiaries
+  [Amendment_Rederivation_P7_Raw_Materials_2026-11-09.md:485]           (hub file l15), and the section heading says
+  [Amendment_Rederivation_P7_Raw_Materials_2026-11-09.md:495]           the city that lands what the nation cannot make
+  [Amendment_Rederivation_P7_Raw_Materials_2026-11-09.md:606]           mark at ports.md l130 limit this cluster's share, given the ruling's
+  [Amendment_Rederivation_P7_Raw_Materials_2026-11-09.md:842]           counts the readers who found the point in round 1, in substance, at whatever strength. k is credited as a finder alongside them; a
+  [Amendment_Rederivation_P7_Raw_Materials_2026-11-09.md:971]           manganese is known around the continent only as ocean-floor nodules
+  [Amendment_Rederivation_P7_Raw_Materials_2026-11-09.md:972]           copper and molybdenum occurrences are known only on the antarctic peninsula
+  [Amendment_Rederivation_P7_Raw_Materials_2026-11-09.md:982]           so every robot body withdraws metal permanently
+  [Amendment_Rederivation_P7_Raw_Materials_2026-11-09.md:994]           and its third-case wording. w5: the l173 dating claim as amendment text. w6: the citation of phase 5 l154 for the three-tier figur
+
+⚠ TRIAGE BY HAND. A miss is not yet a defect: the pass quoting ITSELF, and
+  connective prose captured between two adjacent quotations, both show here.
+  Confirm each at source before calling it a defect.

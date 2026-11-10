@@ -1,0 +1,82 @@
+== numbering: numbered piece P7: D=43, F=14, K=16, N=16, Q=7, R=18
+part files: 7; merged lines: 1028
+other-city names: none
+BRITISH SPELLING HITS (4): 742:analyses, 760:aluminium, 777:aluminium, 1015:aluminium
+QUOTED STRINGS (14+ chars) checked against the admitted ranges of the reading list: not found anywhere: 77; found only outside an admitted range: 0
+  NOT FOUND   L3: (another location: not used)
+  NOT FOUND   L37: , with the same outcome). The first check's condition for asking the developer is met, and
+  NOT FOUND   L45: ties this city's share of the transshipment flow to the shared fjord port
+  NOT FOUND   L60: Resupply is generally undertaken once a year in summer
+  NOT FOUND   L60: during summer (December – March)
+  NOT FOUND   L60: Vessels usually anchor approximately 5 nm offshore
+  NOT FOUND   L62: Sea ice usually persists in the fjords and between the shore and numerous near-shore islan
+  NOT FOUND   L81: All steel includes small quantities of e.g. carbon, silicon and manganese
+  NOT FOUND   L81: essential and irreplaceable in steelmaking
+  NOT FOUND   L82: at least 10.5% chromium
+  NOT FOUND   L82: no substitute in stainless steel
+  NOT FOUND   L89: partly substitutable, still imported
+  NOT FOUND   L93: low quality - high moisture, high ash content - thin and in broken bands
+  NOT FOUND   L94: copper, iron, manganese, molybdenum, uranium
+  NOT FOUND   L94: The majority of the mineral occurrences in all territories are small showings or traces.
+  NOT FOUND   L94: No mineral deposits of economic importance have so far been discovered in the area
+  NOT FOUND   L94: traces of copper, iron, manganese, coal, and radioactive minerals
+  NOT FOUND   L95: only as occurrences
+  NOT FOUND   L95: no known economically recoverable resources
+  NOT FOUND   L98: scientifically significant in their variety and origin
+  NOT FOUND   L129:  cell is written after the Round 3 withdrawals: A withdrew 
+  NOT FOUND   L129:  and the unconditional 
+  NOT FOUND   L129: unnamed at the source
+  NOT FOUND   L135: known at the door
+  NOT FOUND   L143: unnamed at the source
+  NOT FOUND   L153: named, therefore politics
+  NOT FOUND   L172: the cluster's only access to supply from outside the nation
+  NOT FOUND   L187: ); hub file L32 (the direction is inbound, a developer correction of 2026-09-16); L34: 
+  NOT FOUND   L241:  for domestic supply. Now that canon has an overseas channel, 
+  NOT FOUND   L241:  is ambiguous. Recommended amendment wording: 
+  NOT FOUND   L241:  for the domestic road stream and 
+  NOT FOUND   L273: The spine is reinforced, not changed.
+  NOT FOUND   L280: It only adds a channel.
+  NOT FOUND   L281: difficult and sometimes impossible
+  NOT FOUND   L292: killed by evidence as a complete account
+  NOT FOUND   L314: asymmetry stays
+  NOT FOUND   L322: , which supports the sentence; the candidate list at hub file L51-52 (which includes 
+  NOT FOUND   L323:  (`Ports.md` L130), and 
+  NOT FOUND   L340: domestic coastal shipping
+  NOT FOUND   L346:  is unstated. The addendum that carries L225 is headed 
+  NOT FOUND   L346:  (L211), nine days before the hub ruling (hub file L3), so the line cannot mean the hub ch
+  NOT FOUND   L346:  is ambiguous between the two streams (C). One of the pair named there (another location: 
+  NOT FOUND   L352: everyone knows it
+  NOT FOUND   L352: Known as cargo
+  NOT FOUND   L364: It contradicts no sentence outright.
+  NOT FOUND   L365: It only adds a channel.
+  NOT FOUND   L365: the dominion finding gains a stake
+  NOT FOUND   L371: ; it hands the allocation to an item now ruled. B's citation of L257 for 
+  NOT FOUND   L371:  was loose (C). Spine L239 does say it: 
+  NOT FOUND   L421: low-tonnage, high-consequence inputs
+  NOT FOUND   L423: not the chambers
+  NOT FOUND   L433: dilution with virgin iron or cleaner scrap is the only commercially practiced solution
+  NOT FOUND   L435: every robot body withdraws metal permanently
+  NOT FOUND   L472: entirely breaks up and disappears for a couple of weeks during summer
+  NOT FOUND   L485:  (another location: not used). The ruling's own words say the beneficiaries 
+  NOT FOUND   L485:  (hub file L15), and the section heading says 
+  NOT FOUND   L485:  (L54). Hub file L59 calls that beneficiary 
+  NOT FOUND   L485: , the likely origin of 
+  NOT FOUND   L495: The city that lands what the nation cannot make
+  NOT FOUND   L538:  for the domestic stream and 
+  NOT FOUND   L606:  mark at `Ports.md` L130 limit this cluster's share, given the ruling's 
+  NOT FOUND   L651: raw material by road
+  NOT FOUND   L724:  means the result changed a finding; 
+  NOT FOUND   L758: Marion Dufresne
+  NOT FOUND   L758: quatre rotations
+  NOT FOUND   L792: mineral occurrences
+  NOT FOUND   L842 (section 9):  counts the readers who found the point in Round 1, in substance, at whatever strength. K 
+  NOT FOUND   L971 (section 9): Manganese is known around the continent only as ocean-floor nodules.
+  NOT FOUND   L972 (section 9): Copper and molybdenum occurrences are known only on the Antarctic Peninsula.
+  NOT FOUND   L973 (section 9): Australia is the largest producer of bauxite
+  NOT FOUND   L982 (section 9): So every robot body withdraws metal permanently.
+  NOT FOUND   L983 (section 9): not the chambers
+  NOT FOUND   L992 (section 9): everyone knows it
+  NOT FOUND   L992 (section 9): Known as cargo
+  NOT FOUND   L994 (section 9): unnamed at the source
+  NOT FOUND   L1004 (section 9): the same seasonal window
+  NOT FOUND   L1022 (section 9): (another location: not used)

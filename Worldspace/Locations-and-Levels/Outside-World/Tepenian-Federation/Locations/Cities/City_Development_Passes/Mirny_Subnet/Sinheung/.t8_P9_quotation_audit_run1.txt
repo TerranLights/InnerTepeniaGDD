@@ -1,0 +1,63 @@
+pass audited : Sinheung
+corpus mode  : default (own pass excluded)
+corpus files : 6670   chars: 100,885,795
+files audited: Amendment_Rederivation_P9_Retention_2026-11-09.md
+own-pass mode: a quotation may also be found in this pass's OTHER files (never in its own file)
+
+=== POSITIVE CONTROLS ===
+  [easy                      ] FOUND     a terminus is nobody's midpoint
+  [HARD - blockquote wrap    ] FOUND     A pass may not proceed to Step 5 with a NEVER CITED row
+  [HARD - outside Worldspace ] FOUND     Paste raw QA scan output into the QA block. Never summa
+  [HARD - case mismatch      ] FOUND     YOU GO TO ESPERANZA AND YOU DO NOT COME HOME FOR FOUR Y
+  [HARD - long wrapped       ] FOUND     Different content is not differentiation; a different q
+
+  INSTRUMENT VALID: YES
+  NEGATIVE CONTROL (must be absent): PASS - absent
+
+=== QUOTATION AUDIT ===
+fragments tested (single-line, ellipsis-split, >=7 words): 103
+NOT FOUND in corpus: 37
+  of those, in TABLE CELLS : 8
+  of those, in PROSE       : 29
+
+  [Amendment_Rederivation_P9_Retention_2026-11-09.md:54]           reads as a claim of sole manufacture, against canon's
+  [Amendment_Rederivation_P9_Retention_2026-11-09.md:159]           (c upgraded its own round 1 reading, conditional on phase 3 ). b downgraded its own
+  [Amendment_Rederivation_P9_Retention_2026-11-09.md:183]           because no admitted line describes robots elsewhere. b and c group it with l111-113 as
+  [Amendment_Rederivation_P9_Retention_2026-11-09.md:210]           falls (all three, after round 3, class it for want of an admitted line); conflict resolved to the narrower reading for what surviv
+  [Amendment_Rederivation_P9_Retention_2026-11-09.md:214]           both populations overwhelmingly stayed ( 84.33% and 81.87% ), and the shared reason is almost certainly the same for both: the wor
+  [Amendment_Rederivation_P9_Retention_2026-11-09.md:229]           conflict resolved to the narrower reading for the measure behind
+  [Amendment_Rederivation_P9_Retention_2026-11-09.md:246]           belongs to the place fact (k also asked it); the split is found by two (a, c). after round 3 all three hold the same tags: a withd
+  [Amendment_Rederivation_P9_Retention_2026-11-09.md:296]           narrowed by evidence (rp l409; ch14 l35-36). the city manufactures the apparatus; robots here are, as a rule, fabricated in the lo
+  [Amendment_Rederivation_P9_Retention_2026-11-09.md:296]           itself has no admitted line (b; conditional ). (am-p9-f7) disposition: confirmed by all three for the apparatus; found by one (b) 
+  [Amendment_Rederivation_P9_Retention_2026-11-09.md:298]           is narrowed to the site's own conditions, and
+  [Amendment_Rederivation_P9_Retention_2026-11-09.md:303]           narrowed for want of an admitted line. it is kept with
+  [Amendment_Rederivation_P9_Retention_2026-11-09.md:364]           and census l647 gives the increment to census ii as
+  [Amendment_Rederivation_P9_Retention_2026-11-09.md:372]           sits with the -10% clause. the dr-68 and dr-90 entries in the spec carry only their ruling labels. the
+  [Amendment_Rederivation_P9_Retention_2026-11-09.md:387]           it governs size and band. the spreads dr-4 defers are distributional: log l235
+  [Amendment_Rederivation_P9_Retention_2026-11-09.md:402]           the pass attributes it to phase 2 , which was in no reader's list; the canon in the list reads
+  [Amendment_Rederivation_P9_Retention_2026-11-09.md:404]           narrows the rule by dropping the affordability route. a and b hold that canon itself glosses the rule by love: rp l88-89
+  [Amendment_Rederivation_P9_Retention_2026-11-09.md:434]           the significant rows are now japan, germany and the sinian federation (orchestrator-verified result 2), and log l1712 item (4) rul
+  [Amendment_Rederivation_P9_Retention_2026-11-09.md:441]           log l1713 (dr-105) records sinheung at 1,014,533 as band 5; the line also names another location: not used. log l211-212 (dr-4)
+  [Amendment_Rederivation_P9_Retention_2026-11-09.md:449]           with south korea at 34.62% . l123-124 repeat
+  [Amendment_Rederivation_P9_Retention_2026-11-09.md:449]           the spec table now has 39 rows and korea is 33.00% (orchestrator-verified results 1 and 2)
+  [Amendment_Rederivation_P9_Retention_2026-11-09.md:458]           the phase 9 spec now sits at 03 l1026-1100. phase 9 l408-409 say
+  [Amendment_Rederivation_P9_Retention_2026-11-09.md:468]           half may be admissible under dr-24 while the
+  [Amendment_Rederivation_P9_Retention_2026-11-09.md:468]           half stays excluded; c adopted that as conditional. b did not adopt it: as the pass quotes it, the clause gives
+  [Amendment_Rederivation_P9_Retention_2026-11-09.md:479]  [CELL]  collides with dr-4's deferred term retention, census i ii, current rows (spec l71-72; census l509, l647): combined 82.34% humans 8
+  [Amendment_Rederivation_P9_Retention_2026-11-09.md:496]  [CELL]  only if the canon behind spine l149-152 holds, and
+  [Amendment_Rederivation_P9_Retention_2026-11-09.md:500]  [CELL]  clause is a comparison with no admitted line strike the contrast. keep
+  [Amendment_Rederivation_P9_Retention_2026-11-09.md:503]  [CELL]  has no admitted line the apparatus robots come into existence in is manufactured here, and their care is formally taught here. med
+  [Amendment_Rederivation_P9_Retention_2026-11-09.md:526]           and the gap are not read as observed quantities. b recommends reading the rows as net, writing
+  [Amendment_Rederivation_P9_Retention_2026-11-09.md:527]           where a figure is given. do not gloss the rule's
+  [Amendment_Rederivation_P9_Retention_2026-11-09.md:548]           national baseline, not a finding of this city
+  [Amendment_Rederivation_P9_Retention_2026-11-09.md:594]           for all three agents on all twelve files, with the verdict
+  [Amendment_Rederivation_P9_Retention_2026-11-09.md:619]  [CELL]  class and its removal of row 5; both adopted c's form confirmed by all three (l186 falls); survival form conflict resolved to the 
+  [Amendment_Rederivation_P9_Retention_2026-11-09.md:620]  [CELL]  confirmed by all three ; the measure behind
+  [Amendment_Rederivation_P9_Retention_2026-11-09.md:621]  [CELL]  for 3a; b withdrew leaving 3b untagged; all three now hold c's tags confirmed by all three (
+  [Amendment_Rederivation_P9_Retention_2026-11-09.md:636]  [CELL]  point as conditional confirmed by all three
+  [Amendment_Rederivation_P9_Retention_2026-11-09.md:761]           for the grading part of the place fact, replaced by
+  [Amendment_Rederivation_P9_Retention_2026-11-09.md:764]           class for b.2. w2 the withdrawal of row 5. w3 its l401 count. w4 leaving the candidate untagged. w5 calling spine l119 false. w6
+
+⚠ TRIAGE BY HAND. A miss is not yet a defect: the pass quoting ITSELF, and
+  connective prose captured between two adjacent quotations, both show here.
+  Confirm each at source before calling it a defect.

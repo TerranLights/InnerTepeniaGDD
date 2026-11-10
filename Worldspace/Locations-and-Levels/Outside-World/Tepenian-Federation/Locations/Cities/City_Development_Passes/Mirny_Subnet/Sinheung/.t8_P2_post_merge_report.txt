@@ -1,0 +1,117 @@
+== numbering: numbered piece P2: D=68, F=4, K=23, N=30, Q=16, R=11
+part files: 10; merged lines: 857
+other-city names: none
+American English sweep: no British variants found by the pattern list (only 'judgement' is kept)
+QUOTED STRINGS (14+ chars) checked against the admitted ranges of the reading list: not found anywhere: 111; found only outside an admitted range: 1
+  NOT FOUND   L4: (another location: not used)
+  NOT FOUND   L12:  stays, because the court's allocation is still the basis (
+  NOT FOUND   L15:  from a share. 
+  NOT FOUND   L16:  survives as a conditional reading on better grounds: canon seats robot identity (51.27% o
+  NOT FOUND   L16:  fails as a necessary condition. 
+  NOT FOUND   L17: a Korea-founded Tepenian city
+  NOT FOUND   L56:  survives as the basis (
+  NOT FOUND   L56: , LOG L930). The first check's recommended answer (keep 
+  NOT FOUND   L56:  as a fact and drop 
+  NOT FOUND   L63: , P2 L94). G4's deficit at SPINE L63 (
+  NOT FOUND   L103:  the founder, is not written as a finding: summing 35 separate origins into one comparison
+  NOT FOUND   L105: the cluster's city
+  NOT FOUND   L112: ethnic dominance
+  NOT FOUND   L114:  should rest on a share either (AM-P2-K10). K added that the 48.635 figure only approximat
+  NOT FOUND   L116:  and state the members every time, because the ruled membership leaves out rows that are g
+  NOT FOUND   L116:  region includes Mongolia, Hong Kong, Macao and Taiwan). They differ on whether to keep th
+  NOT FOUND   L118: candidate readings
+  NOT FOUND   L118: candidate readings only
+  NOT FOUND   L118: no shared calendar
+  NOT FOUND   L118:  compares pooled Notable decimals and falls under `DR-12` (A, C); 
+  NOT FOUND   L121: ) AM-P2-D2 · P2 L20-24 (old table) AM-P2-D3 · P2 L47 (Band-4 instruction) AM-P2-D4 · P2 L5
+  NOT FOUND   L121: ) AM-P2-D9 · P2 L69-71 (mid-clusters) AM-P2-D10 · P2 L136, L141-142, L156, L172 (
+  NOT FOUND   L145: support of authorities
+  NOT FOUND   L146: mix but do not combine
+  NOT FOUND   L148: hardly real miners
+  NOT FOUND   L160: not separate origin enclaves
+  NOT FOUND   L162: , conditional on DRQ-11; B wrote 
+  NOT FOUND   L162: no origin bloc is evidenced
+  NOT FOUND   L163:  is true of the founding: the spec's own line now reads 
+  NOT FOUND   L163:  (SPEC L9). For a frame that is mostly Act 2, the form of words names stock, people and lo
+  NOT FOUND   L163:  (NNS L136-139; ROBOT L229-230).* Strength: **firm** for the founding stock and the Primar
+  NOT FOUND   L163:  (NNS L51), in the passage that admits founding-stock culture (B, C). The pass's 
+  NOT FOUND   L163:  narrows to: true of the founding; as a description of the whole population it is the bare
+  NOT FOUND   L166:  label. Conflict resolved to the narrower reading (section 9). The 
+  NOT FOUND   L173:  verdict, the failed necessary premise, the wrong scarce thing and the founded form of 
+  NOT FOUND   L194: national fungus
+  NOT FOUND   L196: used to be a German staple up until the mid-20th century
+  NOT FOUND   L207:  in Round 3). **Seed** for 
+  NOT FOUND   L218: . Their practices are deep (bottling became a household institution; biltong is a national
+  NOT FOUND   L219:  accurate | They do not enter as 
+  NOT FOUND   L219: : each is Notable, at most 2.03%, a separate origin (A, B and C). If named, the core state
+  NOT FOUND   L220: real-world proxy
+  NOT FOUND   L221: none is possible here
+  NOT FOUND   L225: three traditions
+  NOT FOUND   L235: , stays: the Register keeps the court's allocation as the basis. Replaced by AM-P2-F1. Dis
+  NOT FOUND   L242:  is stale (B, C). The only in-world line records coordination: the three 
+  NOT FOUND   L242:  at Jeju-do (SPEC L211; C). C's research found both a standing trilateral secretariat and 
+  NOT FOUND   L243: No shared calendar
+  NOT FOUND   L243: : **killed by evidence** under `DR-12`, a comparison of pooled Notable decimals (A, C). 
+  NOT FOUND   L250:  is true of the founding (SPEC L9), not of the whole population; as a description of the p
+  NOT FOUND   L251: already agrees and stays
+  NOT FOUND   L252:  for fermentation (the Australia row's documented core is bottling, salting and brining; t
+  NOT FOUND   L253: . **Killed by evidence**: it names two unruled pools and omits Japan, Germany and the Sini
+  NOT FOUND   L253:  (L92-93; L448) is killed (C); 
+  NOT FOUND   L277: with geography (zone gap 3) as an additional factor
+  NOT FOUND   L278: no change needed
+  NOT FOUND   L281:  (P2 L94) already conceded this. CENSUS L33 adds that the tag 
+  NOT FOUND   L288: the cluster's city
+  NOT FOUND   L291: stands (Hungary +1 legal, distance 4)
+  NOT FOUND   L293: partly from Austria
+  NOT FOUND   L300: used to be a German staple up until the mid-20th century
+  NOT FOUND   L300: arrived carrying a deep practice
+  NOT FOUND   L305:  (ROBOT L217); robot kinship runs on shared experience, not fabrication lineage (ROBOT L41
+  NOT FOUND   L305:  (NNS L106, L112; B). Neither ground rules out an ancestry grouping (NNS L108-110; B). Act
+  NOT FOUND   L313: every stock arrived knowing how to preserve food
+  NOT FOUND   L319: one inherited commons arrived
+  NOT FOUND   L322: two pooled Notable groupings
+  NOT FOUND   L335: South Korea `34.62%` Primary; 17 nations; East Asian core `52.14%`
+  NOT FOUND   L351:  is stale | Delete the clause; keep 
+  NOT FOUND   L353:  compares pooled Notable decimals (`DR-12`); 
+  NOT FOUND   L354: BY INSTRUMENT, AND AT THE EDGE OF REACH
+  NOT FOUND   L354: WITH REACH AS AN ADDITIONAL FACTOR
+  NOT FOUND   L354: WITH REACH AT ITS EDGE
+  NOT FOUND   L360: ) | Stale count and partition; ungrounded labels | C's wording for the list: 
+  NOT FOUND   L366: Do the three Jeju-do stocks act together in the city's life, and does anything sort by ori
+  NOT FOUND   L378:  ungrounded | *Korea is 33.00%: Primary, the founding stock, a plurality and not a majorit
+  NOT FOUND   L393:  is wrong; elapsed time | *the local conditions acting on every stock present*; C's wordin
+  NOT FOUND   L399: with geography (zone gap 3) as an additional factor (REG L62)
+  NOT FOUND   L410: South Korea `34.62%` Primary; 17 nations; East Asian core `52.14%`
+  NOT FOUND   L418: the East Asian cluster as ruled (Korea, Japan, the Sinian Federation)
+  NOT FOUND   L418: the Korea–Japan–Sinian Federation cluster
+  NOT FOUND   L418: the Jeju-do parties
+  NOT FOUND   L418: . **Recommended (the narrower, because it applies the ruling as it stands without renaming
+  NOT FOUND   L418: the Jeju-do parties
+  NOT FOUND   L419:  for a distance argument?** **Recommended:** *no, not as one nation. Name each row by its 
+  NOT FOUND   L424: Southeast Asian-origin rows
+  NOT FOUND   L424: Baltic, Hungarian and Bulgarian-origin rows
+  NOT FOUND   L425: real-world proxy
+  NOT FOUND   L431: a Korea-founded Tepenian city
+  NOT FOUND   L493: fermented beans
+  NOT FOUND   L523: National Standard Time
+  NOT FOUND   L605: mix but do not combine
+  NOT FOUND   L638 (section 9): UNANIMOUS - CLEARED TO WRITE
+  NOT FOUND   L670 (section 9):  (W6); B withdrew 
+  NOT FOUND   L686 (section 9): partly from Austria
+  NOT FOUND   L821 (section 9): , conditional on DRQ-11; B writes 
+  NOT FOUND   L821 (section 9): no origin bloc is evidenced
+  NOT FOUND   L827 (section 9): ) — adopted B's and C's kill. W2: 
+  NOT FOUND   L827 (section 9):  for P9 L301 — the premise fails as a necessary condition. W3: South Africa's practice as 
+  NOT FOUND   L828 (section 9): except food preservation
+  NOT FOUND   L828 (section 9):  for the practice lines — now seed. W5: 
+  NOT FOUND   L828 (section 9):  (XB-117) and the matching remark in its outer-edge answer. W6: 
+  NOT FOUND   L829 (section 9): already agrees and stays
+  NOT FOUND   L829 (section 9): . Its fifth: the rewording of P9 L324's 
+  NOT FOUND   L829 (section 9):  on population-share grounds (XC-203 item 10, first half). Its sixth: the 
+  NOT FOUND   L829 (section 9):  class for P9 L301 — adopted B's 
+  NOT FOUND   L834 (section 9): candidate readings
+  NOT FOUND   L834 (section 9): candidate readings only
+  NOT FOUND   L844 (section 9): (another location: not used)
+  NOT FOUND   L851 (section 9): thirteen Russia rows
+  NOT FOUND   L852 (section 9): The Timeline file L9
+  OUTSIDE-RANGE L15: a plurality, not a majority

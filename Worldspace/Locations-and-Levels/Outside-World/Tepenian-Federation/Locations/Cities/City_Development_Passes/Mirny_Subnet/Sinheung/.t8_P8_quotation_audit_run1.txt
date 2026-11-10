@@ -1,0 +1,31 @@
+pass audited : Sinheung
+corpus mode  : default (own pass excluded)
+corpus files : 6670   chars: 100,885,795
+files audited: Amendment_Rederivation_P8_Language_2026-11-09.md
+own-pass mode: a quotation may also be found in this pass's OTHER files (never in its own file)
+
+=== POSITIVE CONTROLS ===
+  [easy                      ] FOUND     a terminus is nobody's midpoint
+  [HARD - blockquote wrap    ] FOUND     A pass may not proceed to Step 5 with a NEVER CITED row
+  [HARD - outside Worldspace ] FOUND     Paste raw QA scan output into the QA block. Never summa
+  [HARD - case mismatch      ] FOUND     YOU GO TO ESPERANZA AND YOU DO NOT COME HOME FOR FOUR Y
+  [HARD - long wrapped       ] FOUND     Different content is not differentiation; a different q
+
+  INSTRUMENT VALID: YES
+  NEGATIVE CONTROL (must be absent): PASS - absent
+
+=== QUOTATION AUDIT ===
+fragments tested (single-line, ellipsis-split, >=7 words): 80
+NOT FOUND in corpus: 5
+  of those, in TABLE CELLS : 0
+  of those, in PROSE       : 5
+
+  [Amendment_Rederivation_P8_Language_2026-11-09.md:129]           the composition no longer has those clusters as its middle tier
+  [Amendment_Rederivation_P8_Language_2026-11-09.md:546]           a measure held only in korean could not be universal
+  [Amendment_Rederivation_P8_Language_2026-11-09.md:646]           the implied claim in l432 that the city has no accent
+  [Amendment_Rederivation_P8_Language_2026-11-09.md:757]           in the pinned spine, phase 8 opens at l955 (
+  [Amendment_Rederivation_P8_Language_2026-11-09.md:1313]           is killed or the clause qualified (am-p8-k5). b
+
+⚠ TRIAGE BY HAND. A miss is not yet a defect: the pass quoting ITSELF, and
+  connective prose captured between two adjacent quotations, both show here.
+  Confirm each at source before calling it a defect.

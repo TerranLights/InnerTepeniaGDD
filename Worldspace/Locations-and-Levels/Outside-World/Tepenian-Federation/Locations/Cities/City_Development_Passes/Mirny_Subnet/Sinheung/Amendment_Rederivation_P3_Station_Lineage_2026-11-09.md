@@ -1,0 +1,1256 @@
+# Sinheung amendment re-derivation piece P3: what a finished station's plant may and may not pass to the city that takes it (2026-11-09)
+
+> **STATUS: PROPOSED. Nothing here is applied, and no pass file was edited** (`DR-101`).
+> - **How it was made.** Three independent readers (A, B and C) re-derived this piece from one frozen brief. A mechanical Round 2 check confirmed that each read the files it says it read (every PROOF field matched ground truth for all three readers on all fifteen files). In a Round 3 cross-check, each reader read the other two outputs, checked their quotations, and withdrew or adopted claims. One merge writer, who took no part in Round 1, wrote this document by merge rule `M-246` (developer ruling 2026-09-28, with its 2026-11-04 refinements).
+> - **A seventh view.** The first check's single reader is unioned like any single-reader find and credited `K`.
+> - **Scope.** Sinheung only, on its own terms. Where a source line names another city, this document writes "(another location: not used)". The station's operator is named only inside exact quotations.
+> - **What the docket is.** Every row for a pass file is wording for the amendment note appended beside the pass. Every row for the spec, the culture sheet or a methodology file is a proposal for the developer's own file.
+> - **Strength words** (`firm`, `conditional`, `seed`, `null`) follow the weakest strength any reader gave after Round 3, unless a reader's own Round 3 reply changed it. **Confidence** in the docket follows the lowest confidence any proposing reader gave.
+
+**Short names used below.**
+- Frame = `00_Frame.md`; Spine = `02_Spine.md`; Recon = `05_Reconciliation.md` (the pass files read in this piece).
+- spec = the Sinheung spec (reading-list entry 9, admitted lines 1-4, 9, 134-151 and 209-218).
+- Register = `Founding_Register.md`; LOG = `DEVELOPER_RULINGS_LOG.md`; NNS = `No_National_Stereotypes.md` (Timeline repo); DoI README = `Division_of_Industry/README.md`.
+- 03 = `03_The_Phase_Spine.md`; RUNBOOK = `00_RUNBOOK.md`; 00b and 00d = the general-population and shadow-proportion discipline files; robot file = `Robot_Physiology_and_Cultural_Practices.md`.
+- sheet = the Sinheung culture sheet (reading-list entry 15, Tier 3, the developer's file). Every reader read it last and used it to check what Recon says it contains.
+- "The plant" = the real station's physical infrastructure at this coordinate. No plant fact below names which operators held it.
+
+## 0. In short
+
+- **The rule, re-derived.** The rulings now let the city take the station's plant and its paper: infrastructure, records, logs, journals, manifests, maps, research, equipment, techniques and results (`DR-24` to `DR-26`). Still barred: the operator or its nation as a reason; any tradition; and any continuity of people, institution or command. B's one-line form: "the plant and its paper may pass; people, practice and provenance may not."
+- **Changes in the pass.** Frame L57's blanket "site history is not an input" is false as a rule. So is Recon L71's statement of it. Frame L69's ground for refusing Resettled is killed, and its "may not use it" is false in part. Spine L13-14's G7 marking needs a qualifier.
+- **Stands, on narrower ground.**
+  - The type, SETTLEMENT singular, stands: allocation plus geography; nothing staffed, no person, institution or tradition crossed; the operator is never a reason.
+  - The Resettled refusal stands. Its new ground is offered two ways, and which one applies is `conditional` on `01` §1.1.
+  - The spine's "owns almost nothing it uses" does not move. One wording qualifier ("owns" against "originated") is `conditional`.
+- **C.1.** Its rejection of the sheet's station-sourced identity stands, on sharper ground. But it quotes §5 for a line that sits in §3. Its claim that §5b, §18 and §21 share the forbidden foundation is false: they rest on the court's allocation. The identity is largely already on admissible ground. It can be salvaged with the geography leg, a population scope and a shadow scope.
+- **Founding phrase.** "a claim secured by diplomacy rather than found" still reads truly. Wherever the founding is stated it needs the geography leg (Register L62), `firm`.
+- **Closed upstream.** The "deep institutional roots" docket item is closed on both halves (spec L211; sheet §2 L34), and so is the Frame's Gate 0 defect (spec L4).
+- **New.**
+  - Spec L213, the line the Register cites, sets the allocation "against" the builder's presence.
+  - 03 L337 is narrower than the rulings, and the Spine's input set lacks the stations source that line requires.
+  - The pass's own weather series is the plant's record.
+  - Spec L211 and L213 lack the geography leg.
+- **Research.** The real plant held a station for about 100 people, a 900 kW diesel plant, 1,125 m³ of fuel tanks, laboratories, an inland-traverse fleet, a heavy-aircraft snow runway, a fast-ice cargo technique and a weather record beginning April 1988. Its capacity is about 0.01% of Census I.
+- **Open.** Whether the city took any of the plant up is `null`: the slot is left open, with four relation seeds. Also open: the definitions in `01` §1.1, the Stations folder, the 2021 management plan, and whether real-world plant facts may stand as the 2564 plant (sent to the developer).
+
+## 1. Findings re-derived
+
+### AM-P3-F1 What the rulings let a station pass to the city, and what they bar
+*The rule every later finding applies. Found by A, B and C, and by K.*
+
+- **The pass's finding.**
+  - Frame L57: "The GPS law: a real site's builders, flag, lineage, abandonment and fate are a COORDINATE, never a cause." Its second sentence ends "site history is not an input".
+  - The same rule appears at Frame L56 ("The station was inherited PLANT, not the city's origin"), L69 (see AM-P3-F5), L76 (see AM-P3-F6) and L204-207 ("This pass takes the plant and not the roots"). It also appears at Recon L71 ("composition is admissible; the SITE's history is not").
+  - Spine L13-14 marks G7 as GPS-only (C).
+- **What the current inputs say.**
+  - LOG L631 (`DR-24`), allowed: "Naming the real station, the nation or program that ran it, and its start year, as a statement about the physical infrastructure the exiles inherited". LOG L632, still not allowed: "Using that operator as the reason for the city's founders, identity, culture or ties".
+  - LOG L645 (`DR-25`): "Its records, logs, journals, manifests, maps (and its physical infrastructure, `DR-24`)". LOG L646: a tradition "passes person to person, and no one carried it across the gap".
+  - LOG L648 (`DR-25`, the row on records drawing people; its worked example names another location: not used). Inherited records can have downstream effects on who comes to a city (K).
+  - LOG L661 (`DR-26`): "the station's research (data, results, ongoing datasets), its equipment, and its techniques. A city may take up research it found in the station's records and equipment and carry it on as its own". LOG L662, still barred: "the station's operator or nation as a reason for the city's founders, identity, culture or ties". LOG L663, the model wording: "inherited the station's research results, equipment and techniques", never "the research heritage is continuous from the founding station".
+  - LOG L552 (`DR-19`): "A real station's operator is a GPS coordinate only and is **never** a reason, at any tier, in any file" (C, K).
+  - LOG L626 (`DR-24`): infrastructure may outlast its founders "provided it's maintained" (C). The phrase runs on into L627 (A).
+  - LOG L1711-1712 (`DR-105`): "Yes: a re-derivation uses the rulings as they stand" (K), and "a re-derivation of Sinheung uses `DR-24` to `DR-26`" (C).
+  - Register L11-13: "A founding nation stands on geography and access, never on the real station". Also: "They are never a reason for who founded the city."
+  - NNS L21: "Records, research, results, equipment and techniques can cross the gap; personhood cannot."
+  - NNS L15:
+    - "which specific countries held a given station at any point in that chain is explicitly irrelevant and should never be specified";
+    - "never have the rotation conveniently end back with the station's original nation";
+    - "The rotation's only job is explaining functional infrastructure across the gap".
+  - NNS L170: the station "can never hand the exiles institutional knowledge, personnel, or command continuity".
+  - NNS L23: a founding-era skill may be "rediscovered from the station's records, research and equipment" by the newcomers (K).
+  - NNS L13: a founding account must never read as if the station's construction and the founding were close in time or in cause (B; unquoted, because B and C quote this line differently).
+  - NNS L48-52 records the developer's own words on this city: the builder nation's "heritage" must not be incorporated into the city's establishment (K; unquoted in full, because the line also names another location: not used).
+  - LOG L649 (`DR-25`'s table) lists research, equipment, techniques and results as also inheritable, pointing to `DR-26` (K).
+  - DoI README L3-4: "a city's inherited infrastructure, records, research, equipment and techniques are facts it may build on (`DR-24`, `DR-25`, `DR-26`); the real station's operator is never the cause of a sector".
+  - 03 L337 (the Phase 1 canon list): "physical and infrastructure facts only, `DR-24`; a station's operator or nation is never a founder, identity or tie input, `DR-19`". This is narrower than the rulings; see AM-P3-N1.
+  - RUNBOOK L2134 lists what the law blocks: "a site's builders, its flag, its lineage, its abandonment, its fate".
+  - **Dates (K).** The pass ran on 2026-09-07 (Frame L3; Recon L3). `DR-24` to `DR-26` are dated 2026-10-01 (LOG L625, L636). The pass did not misread these rulings; it could not have seen them.
+- **Re-derived statement (`firm`; A, B, C and K).**
+  - **Admitted as input:**
+    - the plant (buildings, roads, power, fuel, water and waste systems, vehicles, landing sites);
+    - its records, logs, journals, manifests and maps;
+    - its research data, results and ongoing datasets;
+    - its equipment and its techniques;
+    - the fact that the plant was still functional when the exiles arrived (NNS L15).
+
+    The city may build on these, and may take them up and carry them on as its own (LOG L661). The real station's name and builder may appear as a bare infrastructure fact (LOG L631).
+  - **Barred:**
+    - the operator or its nation as a reason for founders, identity, culture, ties or a sector;
+    - any tradition;
+    - any personnel, institutional or command continuity, and continuity wording (LOG L663);
+    - naming who held the plant across the rotation, and any rotation that ends back with the builder (NNS L15);
+    - a founding account that puts the station's construction and the city's founding close together in time or cause (NNS L13; B).
+  - **The runbook's word "lineage"** (L2134) stays on the barred side. All three readers read it as continuity of people, institution or operator: the chain of who held the station. On that reading it does not conflict with records crossing.
+  - **No exception applies.** Sinheung's site is not one of the two exceptions NNS L17-19 names (both name another location: not used), so the general rotation mechanism applies (C).
+  - **Taking only the plant is permitted:** nothing obliges a pass to use inherited records (K). What is wrong is the pass's statement of the rule, not any exclusion it made at Frame L202-207 or in C.1 (K).
+- **Pass locations whose statements are false, ungrounded or need a qualifier.**
+  - Frame L57, second sentence: false as a blanket rule (A, B, C, K). See AM-P3-K1 and AM-P3-D3.
+  - Recon L71: false as a statement of the current rule (K), and needs a qualifier (A, B, C). See AM-P3-K7.
+  - Spine L13-14: needs a qualifier (C; A and B adopted it in Round 3). See AM-P3-K8.
+  - Frame L204 and L207: "the plant" now means the full `DR-24` to `DR-26` set, and "a GPS fact" should read "a fact about infrastructure" (C; A and B widened the same lines). See AM-P3-D12.
+  - Frame L56: stands for A and C; B proposed a qualifier. See AM-P3-D2.
+  - Spec L3, L9 and L150 (the developer's file) say "physical infrastructure only, a GPS fact", which is narrower than `DR-25` and `DR-26` (C). This is optional; see AM-P3-D36.
+- **What stays, and why.**
+  - Frame L57's first sentence.
+  - Frame L56: the plant is not the city's origin, which agrees with `DR-24` and Register L11-13 (A).
+  - Recon L64-66's runbook quotation, which is accurate to RUNBOOK L2134.
+  - The pass's refusal to let the station supply identity, character or founders (LOG L632, L662; NNS L5).
+
+### AM-P3-F2 What the site's plant held, and whether the city took any of it up
+*Answers U-3's question on the plant's holdings. Found by A, B and C.*
+
+- **The pass's finding.**
+  - Frame L204: "The PHYSICAL PLANT is a GPS fact and is admissible". Frame L207 takes "the plant" and names no contents.
+  - The Spine never mentions the plant, and its input set (L10-14) lists no stations source.
+  - Spec L211 says only "inheriting Russian-built polar research infrastructure".
+- **What the current inputs say.**
+  - LOG L645 and L661, as in AM-P3-F1.
+  - NNS L15: the plant crossed the gap through an unspecified rotation and was still functional on arrival.
+  - LOG L626: infrastructure "provided it's maintained" can outlast its founders.
+- **What the research found.** These are real-world facts of the plant, 1988 to 2022/23, with the operator unnamed; the full log is in section 8. A real-world source is not a specification.
+  - **Origin and occupation.**
+    - Founded in 1988 as a geological and geophysical field base (A). The operator's page gives 1 April 1988 and the 2017 catalog gives 7 March 1988 (B, C).
+    - Occupation was interrupted, on disputed dates: 1993/94 to 1997/98 in the 2014 plan and the catalog, against 2000 to 2003 in an encyclopedia entry (A, C).
+    - The station moved in 1989 (A, C). Year-round facilities were under construction from 2004 (B).
+    - A construction fire in 2008, and a new wintering building in 2012 or 2013 (A, B, C).
+    - The 2014 plan names four outlying sites (C): a first site that wintered 16 people in 1987-88 and is now where inland traverses form up; a fjord hut; a skiway camp; and a fast-ice cargo staging site with an over-snow exit to the plateau and airfield.
+  - **Buildings.**
+    - A three-story office and living building for 50 people (25 in winter, in single rooms: C), with five laboratories (meteorological, wet and dry oceanographic, satellite imagery, geophysical, hydrobiological), a radio hub, a medical unit and a galley (A, B, C). It also has a gym (B, C) and a sauna (C).
+    - The 2014 plan: the station "is suited to accommodating up to 100 personnel during summer" (A).
+    - The 2017 catalog: 50 beds and 1,500 m² under roof (B, C).
+    - The station map labels a living and laboratory building, accommodation, a medical and dental building, a seismic office, a kitchen and cold store, food storage, a garage, workshop and power station, and fuel storage. The labeled buildings sit inside a coordinate window of about 617 m × 217 m (A).
+  - **Power, fuel, water and waste.**
+    - "a diesel-electric power station with a total capacity of 900 kW" (A). A garage for up to eight transporters, and repair shops (A, B, C). A boiler that burns waste lubricant (B, C).
+    - "fifteen 75 m3 double-walled tanks" (A): 1,125 m³ (A, B, C). A fuel pipeline (B, C) and a fuel helipad (C).
+    - Drinking water is drawn from lakes, one in summer and another in winter (B, C). Reverse-osmosis desalination treats brackish lake water. There is an incinerator and biological sewage treatment (A, B, C).
+  - **Ground transport and its techniques.**
+    - The plant is "the major transportation base for supporting inland traverses" (A, B), with up to twelve tracked transporters (A, C).
+    - About 15 km of unsealed roads formed from local material, including a 6.7 km road to the plateau (B). A caned vehicle route to the ice plateau (C).
+    - In 2022/23: 45 over-snow vehicles and 90 drivers on a 1,480 km route, delivering 2,486 t of cargo in the season (B).
+    - Traverse lengths run from 1,280 to 1,480 km across sources, with fuel sub-depots at 550 and 1,100 km in 2021/22 (C). The route's destination is another location: not used.
+    - A tracking system covers people and vehicles within 100 km (A, C).
+  - **Air.**
+    - A historic 2,000 m skiway used for over 100 flights in 1986-89 (A, C), and a 1,000 m ice skiway.
+    - A 1,500 m × 60 m strip in the 2017 catalog (B, C).
+    - A 3,000 m × 100 m snow-and-ice runway, which took its first heavy wheeled aircraft on 7 November 2022 (A, B, C). The 2014 plan proposed it at 3,000 m × 60 m (C).
+    - Two helipads, one of them lit and equipped (B, C).
+  - **Getting cargo ashore.**
+    - The 2014 plan: "Helicopters are therefore the only reliable means by which persons and supplies can be transported ashore quickly." The plan's reason is that small boats can barely reach the eastern shore through wind-blown ice debris (A, B, C).
+    - Heavy cargo crosses the fast ice to a staging site on the western peninsula, which has an over-snow exit to the plateau and the airfield (A, B, C). Ships anchor about 5 nautical miles offshore (C).
+    - In 2021/22 the fast ice was 90 km wide, an icebreaker took 27 days to cut a channel, and unloading ran from 25 November to 18 December (C). That season's paper also lists forty over-snow tractors, and ski platforms of 12.2 × 8.15 m that carry more than 60 t (C).
+    - The 2017 catalog lists no ship landing facilities (C).
+    - A radar watches the coastal ice and icebergs and controls low-flying air traffic (A, B, C).
+  - **Records and research.**
+    - A synoptic weather record under index 89574 (A, B, C). The GHCN-Daily file's first record is April 1988, and it has no records for 1993 to 2002 (B; C re-ran the file in Round 3).
+    - The 2014 plan's summary: the station is "primarily intended as a support base for inland geological and glaciological operations" (B, C).
+    - Year-round oceanology, hydrology, meteorology, and magnetospheric, ionospheric and geomagnetic observation. Sea-ice monitoring. Monitoring of satellite-navigation orbits and of crustal movement. Summer biology, hydrobiology, limnology, glaciology and geomorphology (A, B, C).
+    - Seasonal fjord work from a hut, and airborne geophysics from a skiway camp (C). Automated weather and geodetic stations nearby (C).
+    - Permafrost boreholes, with a reported permafrost temperature of −8.5 °C (A). The managed area's maps (A).
+    - The plan calls the area's history "short, concentrated and well-documented", but lists no documents (A).
+    - The operator's page gives polar night and polar day dates that agree with Frame L166 to within a day (B).
+  - **Journals, logs, manifests and orientation manuals.** No source says what the plant kept on site (C: a dead end). These are inheritable in kind (NNS L21), but none is identified.
+- **Did the city take any of it up (LOG L661)?**
+  - No admitted line says so: not the Frame, the Spine, Recon, the spec spans, the Register or the rulings (A, B, C).
+  - Frame L211-212 gives the city "Its own functional airstrip" and inland supply flights (the destination is another location: not used). Both are compatible with an inherited runway and an inherited inland-supply technique, but no admitted line makes the link (A, B, C).
+- **Re-derived statement.**
+  - **The plant facts:** `firm` as real-world facts of the site (A, B, C). They are comparables for the in-world plant's categories, not an inventory. The 2564 plant is whatever the unspecified rotation kept functional (NNS L15), and the sources stop at 2022/23.
+  - **The uptake:** `null`, killed for want of an admitted line (A, B, C). None is sited in the admitted lines, which is not the same as none being possible, so the slot stays explicitly open. See AM-P3-K17 and AM-P3-Q8.
+  - **Seeds only.** Where a plant fact meets a line the city already has, the relation is written as a seed only: AM-P3-N8, AM-P3-N9, AM-P3-N10, AM-P3-N11, AM-P3-N3.
+- **Pass locations.**
+  - Frame L204 and L207 are incomplete, in the way AM-P3-F1 states.
+  - Spine L10-14 lacks the stations source; see AM-P3-N2.
+- **What stays.** Every pass finding. None of them rested on what the plant contained (A, B).
+
+### AM-P3-F3 Proportion: what the plant can and cannot carry
+*Found by A, B and C, applying 00b's arithmetic test.*
+
+- **The rule.**
+  - 00b L195-196: "Multiply the sector percentage by the population." A reads the same lines as "THE TEST IS ARITHMETIC".
+  - 00b L186-188: a narrow object must not stand in for a whole category (A, B).
+  - 00b L219-220: does a label describe the whole breadth, or one vivid instance of it (B)?
+- **The arithmetic,** against Census I of 1,014,533 (orchestrator result 3; LOG L1713). Every figure stated by two or more readers was reproduced by all three in Round 3.
+  - 100 summer places: 0.00986% of Census I, or one place per 10,145 residents (A, B, C).
+  - 50 beds: one per 20,291 (A, C). 25 winter places: one per 40,581 (A, B, C).
+  - 1,500 m² under roof: 0.00148 m² per resident (B, C). 900 kW: 0.887 W per resident (B, C).
+  - 1,125 m³ of fuel (A, B, C): 1.109 L per resident (B; reproduced by C's Round 3 command).
+  - 2 trained medical staff: one per 507,266.5 residents. B printed 507,266; A and C recomputed the exact value.
+  - Census II per 100 places: 8,353 (B).
+  - The map window: 617 m × 217 m is 0.134 km², or 0.34% of an oasis of about 40 km². This is C's Round 3 recomputation. A's output had said "roughly 0.1 km², about 0.25%". The window bounds the labeled buildings; it is not their footprint. See section 9.
+- **Re-derived statement.** `firm` as a real-world bound, `conditional` for the in-world plant (A, B, C after Round 3; B withdrew its `firm`).
+  - **The result is robust.** A tested a tenfold expansion. B notes that even a hundredfold growth leaves the plant about a hundredth of the city, and no admitted line supplies such growth.
+  - **What the plant cannot carry.** It cannot carry a city-scale identity, a city's architecture or a civic psychology. That holds on proportion grounds alone, independent of the GPS law, and even where the plant is fully admitted (B; A and C reach the same).
+  - **The 00b failure.** A finding that makes the station the center of the city's built form or self-image is a narrow object standing in for the whole, whatever its provenance.
+  - **The word "nucleus" is used for scale only.** No admitted line places the plant at the city's center (C; see section 9).
+  - **One inference is not used.** The arithmetic does not rely on the claim that a plant bed serves either body. That was C's inference; A showed the robot file does not say it, and it is omitted.
+- **Pass locations.** Recon L61-62 (§9): proportion is a second, independent fault, which the pass did not name (A, B, C). See AM-P3-F10.
+- **What stays.** The plant may still appear as a scoped, specific fact inside a broader answer (B):
+  - one old building group among the city's stock;
+  - a records holding inside an archive;
+  - a technique inside a trade.
+
+
+### AM-P3-F4 TYPE: SETTLEMENT, singular, on the narrower ground
+*Answers U-3's question on the type. Found by A, B and C.*
+
+- **The pass's finding.**
+  - Frame L35 and L45-63. The ground is L57: "site history is not an input".
+  - Frame L60-61 refuses the dual type because "it would make the real station's identity structural to the city".
+- **What the current inputs say.**
+  - The Frame's quotation of `01` §1.1 (L47-48): "Anywhere founded as an installation and now inhabited as a home carries `Settlement + Installation`". `01` §1.1 itself is in no reader's list.
+  - Register L62: "The Jeju-do court's diplomatic allocation, **and, in addition, geography**: zone gap 3 to the Prydz Bay coast (the edge of the rule)." LOG L930: "Not a rewrite of the basis."
+  - Register L11-13; LOG L632 and L646; NNS L21 and L170.
+- **Re-derived statement: SETTLEMENT, singular, survives.**
+  - **Strength:** `firm` on the founding facts and the rulings, and `conditional` on the full text of `01` §1.1 (A, B, C).
+  - **The ground that replaces Frame L57 has four parts.**
+    - **The city's origin** is the court's allocation, with geography as an additional factor (Register L62). A station's start is a fact about infrastructure only, and "never a reason for who founded the city" (Register L12-13). So the city was not "founded as an installation" (C).
+    - **Nothing staffed crossed:** no personnel, institution or tradition. So the "staffed versus settled" tension the dual type mines has no staffed side here (B, C).
+    - **The operator** is never a reason (LOG L632; Register L11-13).
+    - **Proportion:** what physically crossed is a small fraction of the city's capacity (A, B, C; see AM-P3-F3).
+  - **A caution (B's self-correction).** In-world, a maintained installation did stand on the site up to the exiles' arrival (NNS L15). The refusal rests on how the city was founded and on nothing staffed crossing. It does not pretend that no installation stood there.
+  - **A seed for later phases (A).** The tension `01` §1.1 names can live here only in plant and paper: buildings designed for a rotating crew, and the logs of a staffed regime. This is a seed, not a type.
+- **Pass locations.**
+  - Frame L57: the ground is replaced (A, B, C).
+  - Frame L60-61: needs a qualifier (A, C; B withdrew "stands" in Round 3 and adopted the qualifier). What the dual type would wrongly make structural is an installation's staffed life, which did not cross, not the station's plant, which did. C's wording, adopted by A: "would make an installation's staffed life structural to the city, and none of it crossed the gap". See AM-P3-K5 and AM-P3-D4.
+  - Frame L62-63: "every Tepenian city sits on a real station, so the dual assignment is available everywhere by appearance and earned almost nowhere by mechanism". This claim about every city cannot be tested by a one-location pass, so it belongs to the terminal differentiation check (A; B and C adopted that routing in Round 3). No strike is proposed here (C). See AM-P3-K6.
+- **What stays.** The TYPE row (Frame L35), the refusal of the dual assignment, and Frame L55-56.
+
+### AM-P3-F5 The Resettled refusal
+*Answers U-3's questions on the refusal and on the modifier's definition. Found by A, B and C. The ground is a conflict resolved to the narrower reading.*
+
+- **The pass's finding.** Frame L69:
+  - The modifier is "REFUSED BY LAW". Its question, as the Frame quotes it, is "what did the second population inherit, misread, or fail to notice about the first?".
+  - The first population is said to be "the real station's staff, which is site history and inadmissible".
+  - "The city HAS a predecessor and may not use it".
+- **What the current inputs say.**
+  - NNS L21: "personhood cannot" cross.
+  - NNS L15: "The rotation's only job is explaining functional infrastructure across the gap".
+  - NNS L170: the station can never hand the exiles personnel or continuity.
+  - NNS L13: the founding generation had no living connection to the station's builders (B, C; unquoted).
+  - LOG L646: a tradition "passes person to person, and no one carried it across the gap".
+  - LOG L632: the operator is never a reason. LOG L661: the station's records, research, equipment and techniques can be taken up.
+  - Robot file L216: "The transmission channel is the COMMUNITY, not the fabrication" (B). For the robot majority as for humans, culture travels through the community a person lives in, and no community crossed from the station.
+- **Re-derived statement.**
+  - **Resettled is refused** (`firm`; A, B, C after Round 3).
+  - **The old ground is killed:** "site history and inadmissible" no longer holds, because the predecessor's plant and paper are admissible (A, B, C). K had named this the conclusion most likely to move. See AM-P3-K2.
+  - **The new ground (the narrower reading of a split).** Two grounds are offered. This document holds both as offered, and makes neither the sole ground.
+    - **By the rulings:** the only predecessor is an unspecified rotation whose only job is the infrastructure (NNS L15). No person, tradition or institution crossed (NNS L21, L170; LOG L646), and the operator is never a reason (LOG L632). A and C hold this ground `firm`. B holds which ground applies `conditional` on `01` §1.1. **Written: `conditional`.**
+    - **By fit:** the modifier's question concerns a first population. A rotating crew is not a population that lived there as a home, and documents and equipment are not a population. A, B and C all offer this ground (C as an additional one), `conditional` on `01` §1.1.
+  - **What the city may use.** It may use what the predecessors left: plant, records, research, equipment and techniques (LOG L661). It may not use who they were. C's docket wording: "The city may use what the predecessors left; it may not use who they were." Assigning Resettled to cover inherited plant and paper would be a forced fit (A).
+  - **A seed (A, B, C).** The modifier's three verbs can be asked of the plant and its records directly, without the modifier and without characterizing anyone: what did the newcomers inherit, misread or fail to notice in the station's plant and paper? The question is legal and open; none is sited here.
+- **Pass locations (Frame L69).**
+  - "REFUSED BY LAW": the refusal stands, and its stated ground is replaced.
+  - "the real station's staff, which is site history and inadmissible": needs replacing (A, B, C).
+  - "may not use it": false in part (A, B, C). See AM-P3-K3.
+  - The docket row is AM-P3-D6. The question on the definition is AM-P3-Q1.
+- **What stays.** "NONE" in the modifiers row (Frame L36; A) and Frame L70-72 (C).
+
+### AM-P3-F6 The candidate method gap
+*Found by A, B and C. Narrowed to a methodology question.*
+
+- **The pass's finding.** Frame L74-77 describes "built form WITH a predecessor whose history is inadmissible", and adds: "`Resettled` is the natural label and the law forbids it, so the condition goes unnamed".
+- **What the current inputs say.**
+  - The predecessor's plant and records are admissible (LOG L631, L645, L661). Its people are not (NNS L21).
+  - NNS L15 gives rotating hand-off maintenance as "the mechanism for *most* stations" (B, C).
+- **Re-derived statement (`seed`).** A and C gave `seed` and B gave `conditional`; the weaker is written.
+  - **The condition is misdescribed.** It is now: built form and records inherited from predecessors whose plant and papers cross, and whose people, institution and tradition do not. B's name for it is "inheritance without personhood".
+  - **It is a methodology item, not a fact about Sinheung.** Under NNS L15 this is the rule's ordinary condition, so it is a question for the modifier set (B, C; A adopted this in Round 3 and dropped its framing as a Sinheung seed).
+  - **It stays out of the typicality declaration.** It must not be read into the Frame's typicality declaration (L83-92), and it is not (B).
+  - **No new modifier** is proposed (NO FORCED FIT; A, B, C).
+  - **Not checkable here.** Whether the modifier set already names the condition cannot be checked: `01` and `M-144` are in no reader's list (A).
+- **Pass locations.** Frame L76-77 needs rewording (A, B, C). See AM-P3-K4, AM-P3-D7 and AM-P3-Q11.
+- **What stays.** "Flagged, not invented" and NO FORCED FIT (Frame L77).
+
+### AM-P3-F7 The spine's "owns almost nothing it uses"
+*Answers U-3's question on whether any finding moves. Found by A, B and C.*
+
+- **The pass's finding.**
+  - Spine L141: "ALMOST NOTHING THIS CITY WORKS WITH ORIGINATED HERE." Spine L142: "Its ground, its design, its materials and its title all came from somewhere else."
+  - Spine L204: "A CITY THAT OWNS ALMOST NOTHING IT USES".
+  - Recon L76-78 says the spine reaches a similar place without the forbidden input.
+- **What the current inputs say.**
+  - **The spine's four pillars,** none of which uses the station (A, B):
+    - G2, the ground (L136);
+    - G3, a schematic designed elsewhere (L137; another location: not used);
+    - G4, the court (L138);
+    - G5, trucked feedstock (L139).
+  - **G5's direction table.** L77's IN list ends "A site, from a court". L88: "This city sends far more than it receives, and everything it receives is unfinished."
+  - **LOG L661** gives the one route by which inherited material becomes the city's own: take it up and carry it on.
+- **Re-derived statement.**
+  - **The spine does not move** (`firm`; A, B, C).
+    - Admitting the plant adds at most more things that came from somewhere else: the city's first buildings, its oldest records of its own weather and ground, and its first routes (C).
+    - At the plant's scale (AM-P3-F3), that neither strengthens nor weakens the spine.
+    - Recon's claim that the spine needs no forbidden input is confirmed (A).
+  - **The Standard is untouched.** It is the one possession the city made (Spine L149-156). No admitted line ties it to the station's papers or techniques, and a tradition cannot cross (B, C).
+  - **A wording qualifier** (`conditional`; B; A and C adopted it in Round 3).
+    - The spine's evidence (L141) says "ORIGINATED"; its headline (L204) says "OWNS". `DR-26` lets inherited material become the city's own.
+    - So if a later pass sites an inherited record or technique as taken up, "owns almost nothing" reads against `DR-26` for that item, and "originated almost nothing" does not.
+    - Nothing is false today. See AM-P3-D23.
+  - **A G5 qualifier** (optional; a conflict resolved to the narrower reading).
+    - L88's "everything it receives is unfinished" holds for flows. The plant was received functional, once, at founding (NNS L15).
+    - A's wording: "everything it receives as a flow is unfinished; the one finished thing it received was the plant on its site, once, at founding."
+    - A held that L88 needs this. B adopted it at low-medium confidence; C adopted it as optional and low, because G5 is about flows. Written as optional. See AM-P3-K16 and AM-P3-D21.
+    - The L77 IN list may also add "a site with a functioning plant on it" (A, `seed`, optional).
+  - **G7** (C; A and B adopted it). Spine L13-14 marks G7 as GPS-only. Under `DR-24` to `DR-26`, G7 supplies plant inputs, and only the operator stays GPS-only. Naming the plant as a fifth agreement would need G7 to be re-declared, because the spine's agreements come from generators (C, `seed`). See AM-P3-K8 and AM-P3-Q10.
+  - **A watch item (A).** If a later admitted line shows the city took up the plant's research or techniques (LOG L661), "owns almost nothing" would need re-checking for that item only.
+- **Pass locations.**
+  - Spine L204 and Recon L76-77: a qualifier only.
+  - Spine L88 and Spine L77: optional.
+  - Spine L13-14: a qualifier.
+- **What stays.** Spine L141-145 and L204-206, the four-generator grounding, the spine's cost-dominant shape, and the Standard.
+
+### AM-P3-F8 Ground that was "someone else's": unspecified prior occupancy as identity
+*K's question, answered by A, B and C.*
+
+- **The pass's finding.** Recon L60-61 quotes the sheet's §5a, "ground that still, in some residual sense, reads as having been someone else's", and rejects it as station lineage.
+- **What the current inputs say.**
+  - NNS L15 ("The rotation's only job is explaining functional infrastructure across the gap"), NNS L21 and LOG L632.
+  - NNS L7, the swap test: "if a sentence's meaning would change were the station-builder nation swapped for a different one, that sentence violates this rule".
+- **Re-derived statement (`conditional`).** It rests on the developer's answer to K's question. A concurred provisionally and B held `conditional`; C held `firm`; the weaker is written.
+  - **Prior occupancy may not do identity work, even unnamed.** The predecessors are the rotation, whose only job is the infrastructure.
+  - **What the plant may and may not shape.** The plant and records may shape what the city does (LOG L661). That the ground "was someone else's" may not be a source of who the city is (A).
+  - **What is admissible** is the material fact underneath. The city lives and works among plant, records and design that others made. That is the spine's finding, and it needs no predecessor (C).
+  - **The swap test cannot catch this clause,** because the predecessor is unnamed. So the bar rests on NNS L15 and LOG L632, not on L7 (B; C adopted this in Round 3).
+- **Pass locations.** None beyond C.1, which already rejects the clause. C.1's conclusion on this clause stands.
+- **What stays.** C.1's rejection of the clause. See AM-P3-Q3, AM-P3-D41 and AM-P3-D42.
+
+
+### AM-P3-F9 C.1's rejection of the sheet's station-sourced identity: it stands, on sharper ground, re-anchored
+*Found by A, B and C. The sheet was read last, only to check what Recon says it contains.*
+
+- **The pass's finding.**
+  - Recon L57: "THE DATASHEET'S CENTRAL IDENTITY IS BUILT ON THE ONE INPUT THE GPS LAW FORBIDS".
+  - Recon L59-61 says §5's mechanism is that the founders inherited "an actively operating Russian research station" and live on "ground that still, in some residual sense, reads as having been someone else's".
+  - Recon L64-66 quotes the runbook's §C.9c.
+- **What the sheet now says.**
+  - The phrase "actively operating" does not occur in the sheet (A, B and C each ran a read-only check: zero matches). The nearest text is §3 L44: "a fully operational Russian research station, mid-program, rather than an empty site" (A, B, C).
+  - §5a L66 carries the second quotation verbatim (A, C).
+  - §5 L62 now reads: "What they inherited was the station's infrastructure and records, not a history of their own on this ground." That sentence already complies with `DR-25` (A, B, C).
+  - The same line also says the claim was made in "a negotiating room Russia was never invited into" (A, B, C).
+  - The sheet carries edits dated 2026-11-03 (B: at L24, L28 and L90). No reader can tell whether the sheet changed after Recon was written (2026-09-07) or Recon misquoted it.
+- **What the rulings say about those lines.**
+  - **An operating station of the builder's nation at the founders' arrival** does several barred things:
+    - it ends the rotation back with the builder (NNS L15: "never have the rotation conveniently end back with the station's original nation");
+    - it makes an institution's continuity persist, which NNS L15 bars ("no single institution's culture, personnel, or continuity persists"; A), as do NNS L170 and LOG L632;
+    - it puts the station's builder close in time to the founding (NNS L13; B, C);
+    - it makes the operator the source of the city's identity (LOG L632, L662).
+  - **The negotiating-room clause** makes the operator a party to the founding story: the operator as a reason, inside the identity's own account (LOG L632; A, B, C).
+    - A also cited the NNS L7 swap test for this clause. C showed that the test does not clearly fire here: swap the nation, and the clause still says the station's builder was not invited.
+    - The ground written here is LOG L632 alone (the narrower reading; see section 9).
+- **Re-derived statement (`firm`; A, B, C).**
+  - **C.1's rejection stands, on sharper ground than the pass gave.** The ground is not that site history is barred. It is that the sheet places the station in the founding as a live program under its builder's flag, and puts the operator into the identity's own account.
+  - **The barred ingredient is narrower than C.1 says:** the operator, any continuity of people or institution, and identity drawn from the station. It is not the station's plant, which the sheet's §5 already words correctly (C).
+  - **The header needs a qualifier.** Recon L57 calls the station "THE ONE INPUT THE GPS LAW FORBIDS". It is not; its operator, continuity and identity drawn from it are (B, C; A adopted this in Round 3). See AM-P3-K9.
+  - **Admissible replacements for §3 L44.** The readers' wordings differ, and the choice is the developer's:
+    - A: "a functioning, maintained station plant, its successive maintainers unspecified (NNS L15)";
+    - B: "a maintained station plant and its records";
+    - C: "an inherited station plant, maintained and still functional, with its records".
+- **Pass locations.**
+  - Recon L57: needs a qualifier.
+  - Recon L59-61: re-anchor to §3 L44, and note that §5 L62's inheritance sentence complies. See AM-P3-K10 and AM-P3-D25.
+  - C.1 omits §3 L44 and the §5 L62 negotiating-room clause (A, B, C).
+- **What stays.** C.1's disposition that the identity cannot stand on the station. Its proposal not to apply that disposition (Recon L73). Its §C.9c quotation (Recon L64-66).
+
+### AM-P3-F10 The sections C.1 names: §9, §5b, §18 and §21
+*Answers U-3's question on whether §9 is a plant fact or a lineage claim, and the same for §5b, §18 and §21. Found by A, B and C. K could not test it: the sheet was not in K's list.*
+
+- **The pass's finding.** Recon L61-62 says §9 builds its whole architecture section on "outbuilding the old Russian station structures", and adds: "§5b, §18 and §21 all rest on the same foundation."
+- **What the sheet says** (check read only).
+  - **§9 (L99-101).**
+    - The plant clause is admissible: "modular, purpose-built for temporary scientific occupation, never designed as a permanent home" (LOG L631). It is accurate to the real plant (B, C).
+    - The identity clauses are barred: "still reads, in its bones, as someone else's design" and "a physical argument for the claim" draw identity from the station and from prior occupancy (LOG L632; K's question on prior occupancy; A, B, C).
+    - The weight fails proportion: §9 makes the plant the whole architecture section of a city of about a million (A, B, C). How far "outbuilding" holds cannot be computed from research alone, because the 2564 plant's size is unknown (C).
+    - §9 also compares this city's founders with other locations (another location: not used) (B, C).
+  - **§5b (L67)** rests on "a claim made by treaty could, in principle, be unmade the same way". That is the allocation (G4), not the station (A, B, C).
+    - Its comparative frame names other locations (another location: not used) (A, B, C).
+    - Its "anxiety" belongs at shadow proportion only (A; see AM-P3-F11).
+  - **§18 (L174)** rests on "a claim that was made rather than found": the allocation (A, B, C).
+  - **§21 (L196, L198)** rests on "a claim secured by treaty rather than inherited" and "a population that secured its home through diplomacy rather than inheriting or discovering it": the allocation (A, B, C).
+    - L196 compares the city with another location (another location: not used) (A, B).
+    - "Inheriting" there means birthright, but the city did inherit plant and papers. So the line needs a qualifier (rather than by birthright), and it lacks geography (C; A and B adopted this at low confidence).
+  - **§30 (L268)**, "with its Russian-built station infrastructure", is a bare infrastructure fact. It is admissible and needs no change (B).
+  - None of §5b, §18 or §21 names the station or its plant (A).
+- **Re-derived statement.**
+  - **"§5b, §18 and §21 all rest on the same foundation" is false against the current text** (`firm`, a text check; A, B, C).
+    - They rest on the allocation, which C.1 itself calls admissible (Recon L73-75).
+    - Their live defects are different ones: comparison with other locations (§5b, §21), and the missing geography leg (A, B, C).
+  - **§9 splits three ways.**
+    - The plant clause is admissible, scoped as one fact about one early building group.
+    - The identity clauses are barred.
+    - The weight fails proportion.
+
+    The §9 verdict as a whole is `conditional` (A and C; B after Round 3), because the proportion fault depends on the in-world plant's size. All three readers state the bar on the identity clauses without a hedge.
+  - **C.1's list omits §3 L44** (see AM-P3-F9).
+- **Pass locations.** Recon L61-62 is false for §5b, §18 and §21, needs a qualifier for §9, and omits §3. See AM-P3-K11 and AM-P3-D26.
+- **What stays.** C.1's verdict on §9's identity clauses.
+
+### AM-P3-F11 The salvage, and "a claim secured by diplomacy rather than found"
+*Answers U-3's question on whether the founding phrase still reads truly. Found by A, B and C.*
+
+- **The pass's finding.**
+  - Recon L73-78: the "Claimed, Not Found" identity "may be entirely salvageable". Recon L74-75 calls "a claim secured by diplomacy rather than found" a fact about the city's founding (G4).
+  - The founding is stated without geography at Frame L87 and L196-199, and at Spine L57-58, L62-64 and L224.
+- **What the current inputs say.**
+  - Register L62: the allocation, "**and, in addition, geography**", and "Developer: geography is an *additional* factor, not a replacement."
+  - LOG L919, the developer's words: "I would change that to geography being an additional factor, on top of the agreement at the Court of Jeju-Do". LOG L930: "Not a rewrite of the basis."
+  - Register L8-10: no pass may "originate or restate a founding claim that this file doesn't hold"; passes "point to this file".
+  - 00d L115: the shadow is a byproduct, "never the operating principle". 00d L119-124: a shadow is unintended and unnoticed in-world (A).
+  - The sheet frames the anxiety as "at some level below conscious articulation" (§5 L62) and "rarely-voiced" (§5b L67) (A).
+  - Spine L124: "THE FOUNDING STORY REACHES A THIRD OF THE CITY". Korea is 33.00% (orchestrator result 2). 00b L156-157: "What population, over what span, does my source actually describe" (C).
+  - Spine L227-235 already holds a related unspoken deficit at the right proportion, as a diffuse address (A).
+- **Re-derived statement.**
+  - **The phrase still reads truly as to the basis** (`firm`; A, B, C). The court is the instrument, and the basis is not rewritten. "Rather than found" survives, because geography is reach, not discovery: nothing was discovered, raced for or fought for.
+  - **The geography leg is required wherever the founding is stated** (`firm`; A upgraded its own `conditional` to `firm` in Round 3; B and C held `firm`). The wordings offered, the choice being the developer's:
+    - B: "a claim secured by a court's allocation, on a site within the founding stock's geographic reach, at the edge of that reach: not found, not fought for."
+    - A: "secured by the court's allocation, with the founders' geographic reach to the coast as an additional factor; not found, not fought for."
+  - **A seed (A, B; C adopted it).** The geography factor sits at "the edge of the rule", so the court's allocation is what carries the title. That sharpens the spine's G4 cost (Spine L64) without changing it. It stays a seed, because the Register does not say the allocation was needed because of the edge (B).
+  - **The salvage holds, and it is largely what the sheet's §5 already says** (B, C; A adopted this in Round 3).
+    - §5 L62 already rests the identity on the allocation and already says "infrastructure and records".
+    - So the identity moves from being built on the forbidden input to standing on the admissible allocation, with named removable clauses (AM-P3-F9, AM-P3-F10, AM-P3-F13) and one missing leg, geography.
+    - B's Round 1 claim that striking those clauses and adding geography is sufficient was withdrawn in Round 3. Two scopes are also required.
+  - **Two scopes bind the salvaged identity** (`conditional`; the final form is the developer's).
+    - **Population scope** (C; A and B adopted it). The founding claim is the founding stock's account, about a third of the city. The city-wide identity is the spine's (worth by work; almost nothing of its own), and the claim story sits inside it.
+    - **Shadow scope** (A, C; B adopted it). An anxiety described as below articulation is shadow-shaped. The fact (a claim made by a court, with geography as an additional factor) is a known surface fact and may be salvaged. The anxiety may stand only as a byproduct, never as the city's named identity (00d L115).
+- **Pass locations.**
+  - Recon L74-75: add geography (A, B, C).
+  - Frame L196-199 (G4): restates the founding without geography; it should point to Register L62 (A, B, C).
+  - Spine L57-58 (the G4 opener): add the Register pointer and the geography leg (A, B, C).
+  - Spine L64, Frame L87 and Spine L77: the readers split; each is resolved to the narrower reading in AM-P3-D17, AM-P3-D8 and AM-P3-D19.
+  - Recon L73-78: salvage the fact, add geography and the two scopes (see AM-P3-D29).
+- **What stays.**
+  - Every G4 quadrant: "UNIMPEACHABLE LEGITIMACY" (Spine L62), "AND THAT IS ALSO THE ABSENCE" (L63) and "A title held by external instrument" (L64).
+  - Spine L138 ("A court granted both before anyone arrived") and L224 ("A title it did not win").
+  - Recon's recommendation that the spine is the cleaner route (Recon L76-78; A).
+
+### AM-P3-F12 "Deep institutional roots": closed upstream, on both halves
+*Answers U-3's question on the docketed phrase. Found by A, B and C, and by K.*
+
+- **The pass's finding.**
+  - Frame L202-207 quotes the spec's `## Founding` as saying the settlers inherited "Russian polar research infrastructure with deep institutional roots". It classes the roots as lineage doing causal work (L205), takes "the plant and not the roots" (L207), and dockets the item for Step 5.
+  - Recon L182 confirms the item, and cites the datasheet's §2: "inheriting the station's deep institutional infrastructure".
+- **What the current inputs say.**
+  - Spec L211 now reads: "Korean exiles settled it once the Falkland Treaty exile era began, inheriting Russian-built polar research infrastructure, but never a Russian founding claim — that claim never existed."
+  - The roots phrase is absent from the spec's founding section, L209-218 (A, B, C). K also counted it absent, by a read that K disclosed as outside its spans and did not rely on.
+  - Spec L211 is in the form `DR-24` permits (LOG L631; A, K).
+  - Sheet §2 L34 now reads: "inheriting the station's physical infrastructure without ever holding a founding claim through it". A read-only check for "deep institutional" in the sheet finds nothing (A, B, C).
+  - LOG L639 (`DR-25`) approves "inherited `[xyz]` institution/tradition/etc" citations apart from the tradition wording, in the files that ruling names (L640-641, L647; B, C, K).
+- **Re-derived statement (`firm`).**
+  - **Both halves of the docket item are closed upstream:** spec L211, and sheet §2 L34.
+    - Per `DR-102` (Amendment-layer rules L28: "An amendment note states the current fact with its source address, not what the text used to say"), the amendment note records the current fact with its address.
+  - **The bar the item stood for stands** (`firm`).
+    - Institutional continuity from a station is barred (NNS L15, L156 item 6, L170; LOG L632, L663).
+    - On K's question about LOG L639, all three readers concur: L639 approves wording in the files it names, and nothing more. The word "institution" there cannot license institutional continuity. See AM-P3-Q2.
+    - The current DoI README, one of the files that ruling names, restates the inheritable set with no institution in it (K).
+  - **The Frame's flag was right on its merits;** the phrase changed after it (K, C).
+- **Pass locations.**
+  - Frame L203-204 quotes a phrase no longer in the spec.
+  - Recon L182: both halves are resolved.
+
+  Both are amendment notes, with no edit. See AM-P3-K14, AM-P3-D12 and AM-P3-D32.
+- **What stays.** "This pass takes the plant and not the roots" (Frame L207), with "the plant" read as the full `DR-24` to `DR-26` set (AM-P3-F1).
+
+### AM-P3-F13 C.1's §20 clause, its "Significant tier" note, and "§1 and §2 are scrupulous"
+*Found by A, B and C. The wider strike was found by C; the §1 qualifier was found by A and C.*
+
+- **The pass's finding.**
+  - Recon L80-85 proposes striking the sheet's §20 clause, "none of the residual institutional weight its own infrastructure might otherwise suggest". It records that community as a composition fact: "Russia `6.85%`, Significant tier".
+  - Recon L70: "§1 and §2 are scrupulous".
+- **What the current inputs and the sheet say.**
+  - §20 L186 carries the clause verbatim (A, B, C). The same sentence also says "the nation whose station this city was physically built on — has, ironically, the least visible claim" (C).
+  - NNS L7, the swap test. NNS L32: "THIS RULE GOVERNS THE STATION'S BUILDER. IT DOES NOT GOVERN THE EXILE POPULATION'S ORIGIN." (C).
+  - LOG L1712: "the Russian-named rows are separate origins in every city". Orchestrator result 2: the Significant rows are Japan, Germany and the Sinian Federation.
+  - Sheet L25 puts that origin in the Significant row, with the note "operated the physical Progress Station infrastructure only — never a founding population; see Section 2". Sheet L28's bracket gives "Russia (core state) 2.03% (Notable)" (A, C).
+- **Re-derived statement.**
+  - **The §20 strike stands** (`firm`; A, B, C, on LOG L632, LOG L552 and NNS L170). The phrase "residual institutional weight" names institutional continuity.
+  - **Widen the strike** to the whole characterization that ties the community to the station builder (C; A and B adopted this in Round 3).
+    - Swap the station builder and the irony disappears: NNS L7's sign of a violation.
+    - The community descended from that origin is a composition fact and stays admissible, and its private practice is kept as composition.
+  - **"Significant tier" is stale** (`firm` that it is not Significant; A, B, C and K).
+    - The current share is in no admitted composition line.
+    - The sheet's L28 bracket gives 2.03% (Notable) (`conditional`; check only).
+  - **"§1 and §2 are scrupulous" needs a qualifier for §1** (`conditional`; A and C; B withdrew its "confirmed" in Round 3).
+    - L25 attaches the station-operator note to a resident-origin row, which mixes the two questions NNS L32 keeps apart.
+    - L25 (Significant) contradicts the L28 bracket (Notable).
+    - §2 (L34) stays confirmed.
+- **Pass locations.** Recon L70, L82 and L83-85. See AM-P3-K12, AM-P3-K13, AM-P3-D27, AM-P3-D30 and AM-P3-D31.
+- **What stays.** The pass's §20 docket row, widened.
+
+
+## 2. Killed or narrowed findings (class each: killed by evidence / killed for want of an admitted line)
+
+**How to read this table.** Each row is a statement the pass made, or a candidate a reader raised in order to test it. Each is classed by what killed it: **killed by evidence** (an admitted line or a source says otherwise) or **killed for want of an admitted line** (no admitted line supports it). "Narrowed" means the statement survives in a smaller form.
+
+| Item | Pass statement and location | Class | Why | Finders | Disposition |
+|---|---|---|---|---|---|
+| AM-P3-K1 | Frame L57, second sentence, "site history is not an input" | **narrowed; killed by evidence** as a blanket rule | LOG L631, L645, L661; NNS L21; DoI README L3-4; Register L12-13. The pass itself used the plant's weather record (AM-P3-N3). | A, B, C; K | confirmed by all three |
+| AM-P3-K2 | Frame L69, the ground for refusing Resettled: "the real station's staff, which is site history and inadmissible" | **killed by evidence** (the ground); the refusal stands on a replaced ground | AM-P3-F5 | A, B, C; K | confirmed by all three |
+| AM-P3-K3 | Frame L69, "The city HAS a predecessor and may not use it" | **killed by evidence, in part** | LOG L661 and NNS L21: the city may use the predecessor's plant and paper. The statement stands for the predecessors themselves. | A, B, C | confirmed by all three |
+| AM-P3-K4 | Frame L76, "built form WITH a predecessor whose history is inadmissible" | **narrowed; killed by evidence** | AM-P3-F6 | A, B, C; K | confirmed by all three |
+| AM-P3-K5 | Frame L60-61, the dual type "would make the real station's identity structural" | **narrowed; killed by evidence** as the ground | What would become structural is an installation's staffed life, and none of it crossed (AM-P3-F4). | A, C (B adopted it in Round 3) | found by two |
+| AM-P3-K6 | Frame L62-63, the remark that the dual assignment is "earned almost nowhere by mechanism" | **narrowed: killed for want of an admitted line** as a finding of this pass. Not struck; routed to the terminal check. | A one-location pass has no admitted line about every city. A proposed striking it here; C held that striking is the developer's call. | A (B and C adopted the routing in Round 3) | conflict resolved to the narrower reading |
+| AM-P3-K7 | Recon L71, "the SITE's history is not" admissible | **narrowed; killed by evidence** | AM-P3-F1 | A, B, C; K | confirmed by all three |
+| AM-P3-K8 | Spine L13-14, which marks G7 as GPS-only | **narrowed; killed by evidence** | `DR-24` to `DR-26`: the plant is an input, and only the operator stays GPS-only. | C (A and B adopted it in Round 3) | found by one |
+| AM-P3-K9 | Recon L57, "THE ONE INPUT THE GPS LAW FORBIDS" | **narrowed; killed by evidence** | The station is not the forbidden input; its operator, any continuity, and identity drawn from it are (AM-P3-F9). | B, C (A adopted it in Round 3) | found by two |
+| AM-P3-K10 | Recon L59-61, which attributes "an actively operating Russian research station" to the sheet's §5 | **killed by evidence** as worded. The verdict survives, re-anchored to §3 L44. | Read-only checks found no match in the sheet; the nearest line is §3 L44 (AM-P3-F9). | A, B, C | confirmed by all three |
+| AM-P3-K11 | Recon L62, "§5b, §18 and §21 all rest on the same foundation." | **killed by evidence** | Sheet L67, L174, L196 and L198 rest on the allocation (AM-P3-F10). | A, B, C | confirmed by all three |
+| AM-P3-K12 | Recon L70, "§1 and §2 are scrupulous" | **narrowed for §1; killed by evidence** | Sheet L25 and L28 (AM-P3-F13) | A, C (B withdrew its "confirmed" in Round 3) | found by two |
+| AM-P3-K13 | Recon L82, "Russia `6.85%`, Significant tier" | **killed by evidence** as a current figure | Orchestrator result 2; LOG L1712 | A, B, C; K | confirmed by all three |
+| AM-P3-K14 | Frame L203-204 ("Russian polar research infrastructure with deep institutional roots") and Recon L182 ("inheriting the station's deep institutional infrastructure") | **killed by evidence; resolved upstream** | Spec L211; sheet §2 L34 (AM-P3-F12) | A, B, C; K | confirmed by all three |
+| AM-P3-K15 | Frame L118-137 and Recon L181: the spec's identity line was said to retire the city's own name instead of its old working label | **killed by evidence; resolved upstream** | Spec L4 now says that "Soyuz", "the old working label tied to the physical station's Russian namesake, was never a name the city's founders chose and is now fully retired". | A, B, C | confirmed by all three |
+| AM-P3-K16 | Spine L88, "everything it receives is unfinished" | **narrowed** (optional): holds for flows; the plant was received functional, once | NNS L15 (AM-P3-F7) | A (B and C adopted it at low confidence in Round 3) | conflict resolved to the narrower reading |
+| AM-P3-K17 | Any statement that the city took up a particular plant record, dataset, route or technique and carries it on as its own | **`null`; killed for want of an admitted line** | No admitted line says so (AM-P3-F2). The slot stays open: "none is sited here", never "none is possible". | A, B, C (K asked the question) | confirmed by all three |
+| AM-P3-K18 | The plant's medical unit as a source of the city's care Institute (a candidate raised in order to kill it) | **killed by evidence** | See the note below the table. | A, B, C | confirmed by all three |
+
+**Why the medical-unit candidate dies.**
+- **The plant fact.** The real plant's medical unit is about 40 m², with 2 trained staff, basic, dental and surgical capability, and X-ray, ultrasound, endoscopy and telemedicine (2017 catalog; B, C). An encyclopedia entry says it doubles as a regional hospital (A, C).
+- **The city's fact.** The city hosts "one of only three sources of trained medical and care personnel in the Federation" (Frame L219-221; B). The Institute is the city's own.
+- **The rules.**
+  - Institutions do not cross (NNS L156, L170). Equipment may (`DR-26`).
+  - A later line that explained the Institute as continuing the station's medical role would be barred. Any resemblance is coincidence, never cause (NNS L153; C).
+  - DoI README L4 says "the real station's operator is never the cause of a sector".
+- **The proportion.** One plant medical staffer per 507,266.5 residents (B; recomputed by A and C).
+- **The writer's habit.** 00b L222-223: "the vivid instance is what a writer reaches for" (A).
+- **The class.** A first classed this as killed for want of an admitted line, then withdrew that class in Round 3 for "killed by evidence", B's class, which C also adopted. The candidate is recorded so that no later pass reaches for it.
+
+## 3. New findings
+
+### AM-P3-N1 The method's Phase 1 canon list is narrower than the rulings
+*Found by C. A and B adopted it in Round 3.*
+- **What it says.** 03 L337 lists stations as "physical and infrastructure facts only, `DR-24`; a station's operator or nation is never a founder, identity or tie input, `DR-19`".
+- **What it leaves out:**
+  - records, logs, journals, manifests and maps (`DR-25`, LOG L645);
+  - research, equipment, techniques and results (`DR-26`, LOG L661).
+- **Where the list is mirrored.** The Phase 1 box says it is "Mirrored from the project runbook's per-phase canon table (`§C.8c`)" at L327 (A located it there; C cited the same words at L279, in the Phase 0 box). So the runbook table probably carries the same narrow wording. That table is in no reader's list.
+- **Strength.** `firm` for 03 L337; `conditional` for `§C.8c`.
+- **What follows.** This is methodology, so the runbook and the methodology files change together. See AM-P3-D37 and AM-P3-Q10.
+- **This changes how 03 L337 is read in this piece.** A and B had cited L337 in Round 1 as plain support. Both corrected that in Round 3.
+
+### AM-P3-N2 The Spine's input set lacks the stations source that its phase must now open
+*Found by A. B and C adopted it in Round 3.*
+- **What the method requires.** 03 L326-340 is the Phase 1 MUST OPEN box. Its stations line is L337. 03 L342: "Opened-and-empty is a RESULT; unopened is a HOLE."
+- **What the Spine declares.** Spine L10-14 declares G2, G3, G4, G5 and G8, marks G7 as GPS-only, and records no stations source.
+- **What follows.** On current inputs, a re-derived spine must open the Stations folder for plant facts. No reader's list contains that folder, so this piece cannot open it.
+- **Strength.** `firm` as a gap; open as to content.
+- **The web research is a stand-in, not a substitute** (A). See AM-P3-R1 and AM-P3-D14.
+
+### AM-P3-N3 The pass's own weather series is the plant's own record
+*Found by A, B and C.*
+- **The facts.**
+  - Frame L165 cites "GHCN-Daily `AYM00089574`, 1988–2026".
+  - The operator's station page gives synoptic index 89574 (A, B, C), and the GHCN station list names that ID "PROGRESS" (C).
+  - The GHCN-Daily file's first record is April 1988, and it has no records for 1993 to 2002 (B). C re-ran the file in Round 3: its records cover 1988-1992 and 2003-2026.
+  - Frame L175's precipitation figure (about 149 mm a year) matches an encyclopedia climate table's 148.9 mm (C). That match is web-only and `conditional`. The 2017 catalog gives 213 mm (B, C).
+- **What follows.**
+  - So the Frame's G2 climate figures are, in real-world terms, the station plant's own instrument record (A, B, C).
+  - As a real-world physical input it is admissible regardless. In-world, it is exactly the station's research "(data, results, ongoing datasets)" that LOG L661 lets a city take up.
+  - It is evidence that Frame L57 was never literally how the pass ran (C; A adopted this in Round 3).
+- **And what that causes** (A; C adopted it in Round 3).
+  - If the city took the record up, it would hold a climate series older than itself, and could know its freeze-thaw regime from before its founding.
+  - It still could not know when a made object fails.
+  - So the strongest finding (Recon L167-168, "deferred and displaced, so only the maker is ever positioned to know") does not move.
+- **A note for the climate piece.** "1988–2026" spans a gap (B; C withdrew its unqualified span in Round 3). No single source's occupation dates account for all of that gap (B, after withdrawing its claim that the gap matched a closure).
+- **Strength.** `firm` for the series identity; `seed` for in-world uptake. See AM-P3-R6.
+
+### AM-P3-N4 Spec L213 sets the builder up as the allocation's counterparty
+*Found by A, B and C. K flagged it and did not use it.*
+- **The clause.** Spec L213 says the allocation was "applied here to secure this site for Korea against Russia's purely physical, non-diplomatic presence at the original station". The Register cites L213 as its source for this city's founding (Register L62).
+- **The problem.**
+  - Spec L211 says the builder never held a founding claim: "that claim never existed".
+  - Read with "presence" as the plant, "against" makes the operator a counterparty to the founding, and so part of its reason. LOG L632 bars that.
+  - Read with "presence" as a living operator presence when the court sat, the rotation ends back with the builder, which NNS L15 forbids, and the station's program sits beside the founding in time, which NNS L13 forbids.
+  - Either way the clause works on the wrong side of the rule (C; A adopted this in Round 3).
+- **Nothing in the pass needs it.** The Spine's G4 rests on "A court granted both before anyone arrived" (Spine L138), never on the builder (B).
+- **Strength (the narrower reading).** `conditional`. A raised its own reading to `firm` in Round 3; B and C held `conditional`; the weaker is written.
+- **What stays.** Spec L211's "never a Russian founding claim — that claim never existed" is a denial, not a cause. Spine L62's "no rival claimant" stays true (B).
+- See AM-P3-D35 and AM-P3-Q5.
+
+### AM-P3-N5 The builder named in the founding account only to deny it a role
+*Found by B and C. A adopted it in Round 3.*
+- **Where it appears.**
+  - Spec L211 ends: "Russia was not a party to the Jeju-do court at all." (The merge writer checked this at the admitted range.)
+  - Frame L200 repeats it.
+  - Sheet §2 L34 carries a variant, and sheet §5 L62 the negotiating-room clause.
+- **Reading.** It is harmless as a recorded fact. Carried into a characterization (identity, politics, psychology), it gives the operator a role by negation (C). No pass finding needs it (B).
+- **The ground** written here is LOG L632. C also cited NNS L170. B showed that L170's "never name or dwell on" governs the rotation of later operators, not the builder, who may be named as a bare infrastructure fact (NNS L160; LOG L631). So L170 is not used (see section 9).
+- **Strength.** `seed`, low. See AM-P3-D11 and AM-P3-Q6.
+
+### AM-P3-N6 The spec's founding lines lack the geography leg
+*Found by C. A and B adopted it in Round 3.*
+- **The rule.** Register L62 states the founding as the allocation plus geography, and cites spec L213 and `DR-44`. LOG L930 rules geography an additional factor. Register L8-10: founders are decided in the Register, and other files point to it.
+- **The gap.** Spec L211 and L213 state the allocation only.
+- **Strength.** `firm`. The spec lines go to the docket for the developer (AM-P3-D34). The pass lines are in AM-P3-F11.
+
+### AM-P3-N7 The retired alias "Soyuz" is also the name of a different real station
+*Found by B and C.*
+- **The facts.** Frame L34 lists `Soyuz` in the alias set (C). A real station of that name lies in another oasis, about 260 km from the Prydz Bay coast, and opened in December 1982 as a summer base (B, C).
+- **What follows.**
+  - **It is unsafe for web research.** A web sweep that uses the alias for this site would pull another site's material. It is safe inside the repo (C; A and B adopted this in Round 3).
+  - **The spec's account is unsupported.** The spec explains the name as "carried over informally from the physical station's Russian namesake" (spec L215; spec L4 is similar). The readers' sources do not support that (C; B called it "loose").
+  - **The sheet's account is untested.** The sheet's L36 account, "carried over from the Russian spacecraft program the original infrastructure's operators associated with the site", has not been tested by any source. C narrowed its claim to this in Round 3, and B withdrew "fits the facts".
+  - **The Spine relies on the spec's account** at Spine L67-69 (B, C).
+- **Why the stakes are low.** No finding rests on the name (Spine L70; B). Its retirement is a naming fact only (NNS L160).
+- **Strength.** `seed` (B gave `seed` and C `conditional`; the weaker is written). See AM-P3-D18 and AM-P3-D33.
+
+### AM-P3-N8 Seed: the plant's cargo technique and the Spine's open shore conflict
+*Found by A, B and C. C lowered its own strength to `seed` in Round 3.*
+- **The city's own lines.**
+  - Spine L161-174 leaves the city's relationship to the water unsettled.
+  - L170-171's candidate readings include "a seasonal window, or shipment through another part of the Hills".
+  - Spine L83: "A BAY IT CANNOT USE".
+- **The plant's technique.**
+  - Ships anchor offshore, and heavy cargo crosses the fast ice to a staging site on the western side with an over-snow exit to the plateau.
+  - Helicopters bring ashore what must come quickly, because small boats can barely reach the eastern shore (AM-P3-F2).
+  - These are techniques `DR-26` lets a city inherit.
+- **Reading.**
+  - They are consistent with a cargo route that avoids the east shore, and they prove nothing. No admitted line says the city took them up.
+  - Step 3's research file is in no reader's list, and the 2564 ice regime is unknown.
+  - A plant that fed one interior station by tractor train and aircraft is not a specification for a large city's port or airstrip (A: divergence stated).
+- **Strength.** `seed`; a pointer for the pieces that own Phase 5, Phase 8 and the shore conflict. See AM-P3-D20 and AM-P3-R3.
+
+### AM-P3-N9 Seed: the plant's haul technique and "THE ROAD"
+*Found by B. A and C adopted it in Round 3.*
+- **The city's own line.** Spine L84: "THE ROAD." The fabrication economy's feedstock arrives by truck, so it "has to keep the truck route open, permanently".
+- **The plant.** A heavy over-snow haul base, with a vehicle garage, a fuel farm, roads built from local material, and route technique.
+- **Strength.** `seed`. No uptake is sited. See AM-P3-R4.
+
+### AM-P3-N10 Seed: the plant's ice and ground records against the Spine's moving-ice cost
+*Found by B and C. A adopted it in Round 3.*
+- **The city's own lines.** Spine L28-29 names the standing cost of "a city that mostly does not stand on rock", one "paid for forever in re-leveling, mass balance and flow correction". Spine L192-194 calls it "imposed by the ground".
+- **The plant.** Its main scientific role was support for glaciological operations. It held geodetic crust-movement monitoring and a coastal-ice radar.
+- **The relation.** A city whose largest standing cost is ice that moves sits on a site whose inheritable records are about ice and ground that move.
+- **Strength.** `seed`. B ranks it the most consequential of the seeds, if a later pass takes it up, because it touches the cost the Spine calls imposed by the ground. See AM-P3-R9.
+
+### AM-P3-N11 Seed: the plant's runway and "Its own functional airstrip"
+*Found by A, B and C.*
+- **The city's own line.** Frame L211-212: "Its own functional airstrip". The real plant held a runway site on the plateau.
+- **Reading.** "Its own" may be inherited plant made the city's own under `DR-26`, which is legal.
+- **The wording rule.** Any wording must follow LOG L663 ("inherited the station's research results, equipment and techniques"), never continuity (C).
+- **What is missing.** The spec's airstrip and network lines are outside every admitted span.
+- **Strength.** `seed`. See AM-P3-R4.
+
+### AM-P3-N12 Stale band, census, composition and retention figures in the pass *(outside P3; pointers only)*
+*Found by A, B and C. K saw the same.*
+- **Band and census.**
+  - Frame L37 gives "BAND 4 — URBAN" and Census I 962,415 and Census II 799,463.
+  - LOG L1713 says "Sinheung (1,014,533) are Band 5", and orchestrator result 3 gives Census II as 835,341.
+  - Frame L98 ("n/a at Band 4") and Spine L247-251, which divide on Census I 962,415, carry the old band and census (A; B and C adopted this in Round 3).
+- **Composition.**
+  - Frame L178-186 and Spine L96-98 give "17 origin entries", with Korea at 34.62% and a Significant tier that includes the builder's nation.
+  - Orchestrator results 1-2 give 39 rows; Korea at 33.00%; and Significant rows of Japan 9.40%, Germany 8.75% and the Sinian Federation 5.45%.
+  - Spine L124's "a third of the city" still holds: 33.00% is 0.99 of a third (A's Round 3 recomputation).
+- **Retention.**
+  - Spine L105-108 gives 83.07% combined, 84.33% humans and 81.87% robots, a gap of 2.46 points.
+  - Orchestrator result 3 gives 82.34%, 83.09% and 81.62%, a gap of 1.47 points.
+  - The direction at Spine L117 survives (robots were retained less); the size of the gap does not.
+  - The pass's old 83.07% recomputes correctly from the old census, so it is stale, not miscomputed (A).
+- **Strength.** `firm` for the figures. See AM-P3-D1 and AM-P3-D22.
+
+### AM-P3-N13 The rock-allocation question is answered *(outside P3; a pointer only)*
+*Found by A. B and C adopted it in Round 3.*
+- **The open question.** Frame L248 and Spine L239 and L257 record the rock-allocation question as open.
+- **The answer.** LOG L1712 item (4): "the Larsemann oasis rock (about 40 km² for the three cities) is divided by Census I share, stated as arithmetic". The arithmetic belongs to another piece.
+- **Strength.** `conditional` (A and C held `firm`; B held `conditional`). L1712 does not print the label the pass uses for this question, so the identification is an inference. It is sound in substance (B). See AM-P3-D13.
+
+
+## 4. Docket of proposed corrections (a table: location | what is wrong | proposed wording or pointer | confidence | disposition)
+
+**Everything in this table is PROPOSED and never applied.**
+- **Pass files.** Under `DR-101` no pass file is edited. A pass-file row is wording for the amendment note appended beside the pass.
+- **The developer's files.** Spec, sheet and methodology rows are proposals for the developer's own files.
+- **Quoted text.** Quotation marks enclose exact text from a source line or from a reader's output. Merged wording is written without quotation marks.
+- **Confidence** is the lowest any proposing reader gave.
+
+| Location | What is wrong | Proposed wording or pointer | Confidence | Disposition |
+|---|---|---|---|---|
+| AM-P3-D1 Frame L37, L98, L178-186 | The band (Band 4), the census (Census I 962,415, II 799,463), "n/a at Band 4" and the 17-entry composition are superseded. This is outside P3. | Pointer: LOG L1713 (Band 5) and orchestrator results 1-3 (Census I 1,014,533, II 835,341; 39 rows; Korea 33.00%; Significant rows Japan, Germany and the Sinian Federation), for the census and composition pieces (AM-P3-N12) | high (pointer only) | confirmed by all three |
+| AM-P3-D2 Frame L56 | B: "inherited PLANT" is narrower than the rulings. A and C: it stands. | No change required. Optional qualifier (B): the plant and its records, research, equipment and techniques (AM-P3-F1) | low | conflict resolved to the narrower reading |
+| AM-P3-D3 Frame L57, second sentence | The blanket "site history is not an input" is false under `DR-24` to `DR-26`, and the pass itself used the plant's weather record. | Amendment note (merged from A, B and C): the station's plant, records, research, equipment and techniques are inputs the city may build on and may take up as its own (`DR-24` L631, `DR-25` L645, `DR-26` L661). The station's operator or nation is never a reason, and no person, tradition or institutional continuity crossed (`DR-19` L552; `DR-24` L632; `DR-26` L662; NNS L21, L170). The first sentence stands. (AM-P3-F1) | high | confirmed by all three |
+| AM-P3-D4 Frame L60-61 | The reason for refusing the dual type is stated as "the real station's identity". | Qualifier, in C's wording (adopted by A): "would make an installation's staffed life structural to the city, and none of it crossed the gap". The city was founded by allocation and settlement, not as an installation (A). (AM-P3-F4) | medium | found by two |
+| AM-P3-D5 Frame L62-63 | A claim about every city, inside a one-location pass | Note: this belongs to the terminal differentiation check. It is not struck here; whether to strike it is the developer's call (C). (AM-P3-K6) | medium | conflict resolved to the narrower reading |
+| AM-P3-D6 Frame L69 (Resettled) | The ground "site history and inadmissible" no longer holds, and "may not use it" is false in part. | Amendment note (merged): Resettled stays refused, and its stated ground is replaced. Only plant and papers crossed (NNS L21). The predecessors were an unspecified rotation whose only job is the infrastructure (NNS L15). The operator is never a reason (`DR-24` L632), and no tradition crossed (`DR-25` L646). Whether the refusal rests on these rulings, on fit (no predecessor population that lived there as a home), or on both is conditional on `01` §1.1 (AM-P3-Q1). Closing clause, C's wording: "The city may use what the predecessors left; it may not use who they were." (AM-P3-F5) | medium | conflict resolved to the narrower reading |
+| AM-P3-D7 Frame L74-77 (the method gap) | The condition is stated as "a predecessor whose history is inadmissible". | The condition is built form and records inherited from predecessors whose plant and papers cross and whose people, institution and tradition do not (B's name: "inheritance without personhood"). It is a methodology question, not a fact about this city. Keep "Flagged, not invented". (AM-P3-F6; AM-P3-Q11) | medium | confirmed by all three |
+| AM-P3-D8 Frame L87 (the typicality item, "Founded by DIPLOMATIC ALLOCATION") | A: it needs the geography qualifier (medium). B, after withdrawing "high": optional and low. C: it stays, because geography is additional, not a replacement. | No change required. Optional pointer to Register L62, where geography is an additional factor. | low | conflict resolved to the narrower reading |
+| AM-P3-D9 Frame L118-137 (Gate 0) | The quoted defect is no longer in the spec. | Amendment note: resolved upstream. Spec L4 now retires "Soyuz" as the old working label (`DR-102`: state the current fact with its address). (AM-P3-K15) | high | confirmed by all three |
+| AM-P3-D10 Frame L196-199 (G4) | The founding is restated without geography, against Register rule 1. | Point to Register L62 for the founding: the allocation, with geography (zone gap 3 to the Prydz Bay coast, at the edge of the rule) as an additional factor. Founders come only from the Register (Register L8-13). (AM-P3-F11) | medium | confirmed by all three |
+| AM-P3-D11 Frame L200 ("Russia was not a party to the Jeju-do court at all.") | Names the operator nation in the founding account only to deny it a role. No finding needs it. | Pointer only. No change until the developer answers AM-P3-Q6. (AM-P3-N5) | low | found by two |
+| AM-P3-D12 Frame L203-207 | The quoted spec phrase is no longer in the spec. Its readings of "the plant" and "a GPS fact" are narrower than the rulings. | Amendment note: resolved upstream. Spec L211 now reads "inheriting Russian-built polar research infrastructure, but never a Russian founding claim". Read "the plant" as plant, records, research, equipment and techniques, and "a GPS fact" as a fact about infrastructure (C). The bar on institutional continuity stands. (AM-P3-F12) | high | confirmed by all three |
+| AM-P3-D13 Frame L248; Spine L239, L257 | The rock-allocation question is recorded as open. This is outside P3. | Pointer to LOG L1712 item (4). The arithmetic belongs to another piece. (AM-P3-N13) | medium | found by one |
+| AM-P3-D14 Spine L10-14 (the input set) | It lacks the stations source that Phase 1's MUST OPEN box names (03 L337, L342). | Pointer: a re-derived spine opens the Stations folder for plant facts and records whether it was opened and empty (AM-P3-N2; AM-P3-R1) | high (as a gap) | found by one |
+| AM-P3-D15 Spine L13-14 (G7 marked GPS-only) | Superseded by `DR-24` to `DR-26` | G7 supplies the plant's infrastructure, records, research, equipment and techniques as inputs (`DR-24` to `DR-26`). Only the operator stays GPS-only (`DR-19`). (AM-P3-K8) | medium-high | found by one |
+| AM-P3-D16 Spine L57-58 (the G4 opener) | The founding stands on the allocation alone. | Add the Register pointer and the geography leg. The G4 quadrants (L62-64, L138, L224) stand. (AM-P3-F11) | medium | confirmed by all three |
+| AM-P3-D17 Spine L64 ("What validates the claim is a court's decision, not anything the city does") | A (after Round 3) and C: it needs the geography qualifier. B: it stays true, because geography is the access basis, not what validates the title. | Optional qualifier: a court's decision, with geography as an additional factor; still nothing the city does | low-medium | conflict resolved to the narrower reading |
+| AM-P3-D18 Spine L67-69 | Relies on the spec's account of the retired alias, which the readers' sources do not support | Pointer (AM-P3-N7) | low | found by two |
+| AM-P3-D19 Spine L77 (the IN list, "A site, from a court") | C: it lacks geography. A: it omits the plant. B: either addition is optional. | Optional additions, neither required: the geography leg (C), and "a site with a functioning plant on it" (A, `seed`) | low | conflict resolved to the narrower reading |
+| AM-P3-D20 Spine L83 and L170-174 | The shore conflict may meet a plant technique: cargo over the fast ice, and by air. | Pointer only. Check `03_Research.md` first. (AM-P3-N8; AM-P3-R3) | low | confirmed by all three |
+| AM-P3-D21 Spine L88 | "everything it receives is unfinished" leaves out the one finished stock, the plant. | Optional, in A's wording: "everything it receives as a flow is unfinished; the one finished thing it received was the plant on its site, once, at founding." (AM-P3-K16) | low | conflict resolved to the narrower reading |
+| AM-P3-D22 Spine L96-98, L105-108, L124, L247-251 | The composition, retention and census figures are superseded. This is outside P3. | Pointer: orchestrator results 1-3. L117's direction survives, but the size of the gap does not. L124's "a third" still holds. (AM-P3-N12) | high (pointer only) | confirmed by all three |
+| AM-P3-D23 Spine L204; Recon L76-77 | "Owns" is looser than the spine's own evidence ("originated", L141), and would read against `DR-26` if any plant material is taken up. | Qualifier in the note: read "owns" as "originated". The spine does not move. (AM-P3-F7) | medium | found by one |
+| AM-P3-D24 Recon L57 (the C.1 header) | The station is not "THE ONE INPUT THE GPS LAW FORBIDS". | The identity was built on the station's operator, on continuity, and on identity drawn from the station, which the rulings forbid. The station's plant and records are admissible. (AM-P3-K9) | medium | found by two |
+| AM-P3-D25 Recon L59-61 | Attributes "an actively operating Russian research station" to §5. The phrase is not in the sheet. | Re-point to sheet §3 L44, "a fully operational Russian research station, mid-program", on the grounds of NNS L13, L15, L170 and `DR-24` L632. Note that §5 L62's "What they inherited was the station's infrastructure and records, not a history of their own on this ground." already complies. (AM-P3-K10) | high | confirmed by all three |
+| AM-P3-D26 Recon L61-62 | It classes §9's plant fact as forbidden input. §5b, §18 and §21 do not rest on the station. §3 is omitted. | On the barred ground: §3 L44, §5 L62's negotiating-room clause, §5a L66 and §9's identity clauses. §9's plant clause is admissible; its faults are its weight (proportion) and the operator label. §5b, §18 and §21 stand on the allocation (G4); their faults are comparison with other locations (§5b and §21, and also §9) and the missing geography leg. (AM-P3-F10) | high | confirmed by all three |
+| AM-P3-D27 Recon L70 | §1 is not fully "scrupulous". | Add: §1 L25 attaches the station-operator note to a resident-origin row, and L25 and the L28 bracket disagree on that row's tier. §2 (L34) is scrupulous. (AM-P3-K12) | medium | found by two |
+| AM-P3-D28 Recon L71 | "the SITE's history is not" admissible repeats the overbreadth of Frame L57. | The site's plant, records, research, equipment and techniques are admissible. Its operator, its lineage read as continuity, and any identity drawn from it are not. (AM-P3-K7) | medium | confirmed by all three |
+| AM-P3-D29 Recon L73-78 (the salvage) | It has no geography leg and no population or shadow scope, and is partly already in the sheet. | Add the geography leg. Scope the claim story to the founding stock's account (about a third of the city), inside the spine's city-wide identity. Keep any unease as a byproduct only (00d L115). Note that sheet §5 L62 already rests the identity on the allocation and on "infrastructure and records". (AM-P3-F11) | medium | confirmed by all three |
+| AM-P3-D30 Recon L82 | "Russia `6.85%`, Significant tier" is stale. | Pointer: not a Significant row (orchestrator result 2); the Russian-named rows are separate origins (LOG L1712). The sheet's L28 bracket gives 2.03% (Notable); check only. (AM-P3-K13) | medium-high | confirmed by all three |
+| AM-P3-D31 Recon L83-85 (the §20 strike) | The strike is too narrow. | Widen it to the whole characterization that ties the community to the station builder (sheet L186: "the nation whose station this city was physically built on — has, ironically, the least visible claim"). Keep the community's private practice as composition. (AM-P3-F13) | medium-high | found by one |
+| AM-P3-D32 Recon L181-182 | Both close-pass rows are resolved upstream. | Amendment note: spec L4 and L211, and sheet §2 L34, no longer carry the defects. The bar on institutional continuity stands. (AM-P3-F12; AM-P3-K15) | high | confirmed by all three |
+| AM-P3-D33 Spec L4, L215 (the developer's file) | "the physical station's Russian namesake" is not supported by the readers' sources. | Low priority: leave the name as retired, or reword it when a rename sweep next touches it. B's Round 1 wording leaned on the sheet's spacecraft-program account, which B and C now hold untested, so no wording is proposed here. (AM-P3-N7) | low | found by two |
+| AM-P3-D34 Spec L211, L213 (the developer's file) | The founding lines lack geography, and Register L62 cites L213 as its source. | Add geography as an additional factor. (AM-P3-N6) | high | found by one |
+| AM-P3-D35 Spec L213 (the developer's file) | "against Russia's purely physical, non-diplomatic presence at the original station" makes the builder a counterparty, on either reading. A held this `firm` in Round 3; B and C held it `conditional`. | Strike the "against" clause (A's form, the narrowest). B's and C's rewordings are listed at AM-P3-Q5. (AM-P3-N4) | medium | conflict resolved to the narrower reading |
+| AM-P3-D36 Spec L3, L9, L150 (the developer's file) | "physical infrastructure only, a GPS fact" is narrower than `DR-25` and `DR-26`. | Optional: physical infrastructure, records, research, equipment and techniques; the operator a GPS fact only (AM-P3-F1) | low | found by one |
+| AM-P3-D37 03 L337 (methodology) | "physical and infrastructure facts only, `DR-24`" omits `DR-25` and `DR-26`. | C's form: physical infrastructure, records, logs, journals, manifests, maps, research, equipment, techniques and results (`DR-24` to `DR-26`); a station's operator or nation is never a founder, identity or tie input (`DR-19`). Change its runbook mirror (`§C.8c`) in the same change. (AM-P3-N1) | medium-high | found by one |
+| AM-P3-D38 Sheet §1 L25, L28 (Tier 3, the developer's file) | A station-operator note sits on a resident-origin row, and the tiers contradict (L25 Significant, L28 Notable). | Move the station note out of the row (C), or strike the parenthetical (A); the founding rule lives in §2 and the Register. Reconcile the tier with the current composition. (AM-P3-F13) | medium | found by two |
+| AM-P3-D39 Sheet §3 L44 | The builder's program is placed running at the founders' arrival (NNS L13, L15, L170). | Strike "a fully operational Russian research station, mid-program". If the plant is wanted, one of: "a functioning, maintained station plant, its successive maintainers unspecified (NNS L15)" (A); "a maintained station plant and its records" (B); "an inherited station plant, maintained and still functional, with its records" (C). (AM-P3-F9) | medium-high | confirmed by all three |
+| AM-P3-D40 Sheet §5 L62 | "a negotiating room Russia was never invited into" gives the operator a part in the identity's account. | Strike the clause. Keep the allocation, "infrastructure and records" and "made by treaty", and add geography (B). (AM-P3-F9) | medium-high | confirmed by all three |
+| AM-P3-D41 Sheet §5a L66 | Prior occupancy is made a source of identity. | Recast without the "someone else's" ground. One form (C): "the daily work of building a home among plant, records and design that others made". (AM-P3-F8) | medium | confirmed by all three |
+| AM-P3-D42 Sheet §9 L99-101 | Identity is drawn from the plant, the operator label is attached, and the proportion fails. | Keep "modular, purpose-built for temporary scientific occupation" as one scoped fact about one early building group. Strike "still reads, in its bones, as someone else's design", "a physical argument for the claim" and the builder label. Widen the section to the city's own built form (B). (AM-P3-F10) | medium | confirmed by all three |
+| AM-P3-D43 Sheet §20 L186 | The whole sentence, not only its trailing clause, ties a resident community to the station builder (the swap test). | Strike from the builder nation's mention to the end of that characterization, which includes the clause Recon L85 already proposes to strike. Keep the community's private practice as composition. (AM-P3-F13) | medium-high | found by one |
+| AM-P3-D44 Sheet §21 L196, L198 | "rather than inherited" and "rather than inheriting" sit against `DR-24` to `DR-26`, because the city did inherit plant and papers. Geography is missing, and L196 compares the city with another location. | Read "inheriting" as birthright (rather than by birthright; C). Add geography as an additional factor. The comparison is out of scope for one location (another location: not used). (AM-P3-F10) | low | found by one |
+
+
+## 5. Questions for the developer (PROVISIONAL; each with a recommended answer and what is waiting on it)
+
+**Every recommended answer below is PROVISIONAL.** This piece proceeds on them, marked as such. Where the readers' recommended answers differ, the split is named and the narrower answer is recommended.
+
+### AM-P3-Q1 Does Resettled require a predecessor population?
+*Asked by A and C; B named it as a need. Disposition: confirmed by all three.*
+- **The question.** Does the Resettled modifier (`01` §1.1) require a prior population, or can a prior staffed installation's plant and paper satisfy it?
+- **Recommended answer.** It requires a prior population. Documents and equipment belong to the type's inherited plant. The readers word "population" in three ways:
+  - A: people who lived there as a home;
+  - C: a population whose ways reach the second;
+  - B: a predecessor population whose relation to the newcomers can be written.
+- **On that answer,** Resettled is refused on fit as well as on the rulings.
+- **Waiting on it:** AM-P3-F5, AM-P3-F6, AM-P3-D6 and AM-P3-D7, and whether AM-P3-F4 moves from `conditional` to `firm`.
+
+### AM-P3-Q2 Does `DR-25` admit an inherited institution?
+*K's question. A, B and C concur with K's answer. Disposition: confirmed by all three.*
+- **The question.** LOG L639 (`DR-25`) says "inherited `[xyz]` institution/tradition/etc" citations are fine, apart from the tradition wording. Does that admit an inherited institution from a station in general, or only approve that wording in the files the ruling names?
+- **Recommended answer.** Only the latter (K; A, B, C).
+  - Read "institution" there as inherited infrastructure or records, referred to in an institution's terms.
+  - Institutional continuity stays barred (NNS L15, L156 item 6, L170).
+  - The ruling's own sentence scopes it to named files (LOG L640-641, L647). One of those files, the DoI README, restates the inheritable set with no institution in it (K).
+- **Waiting on it:** AM-P3-F12 (what stays), and the rows that strike "institutional" wording (AM-P3-D31, AM-P3-D43).
+
+### AM-P3-Q3 May unspecified prior occupancy bear on who the city is?
+*K's question. A, B and C concur with K's answer. Disposition: confirmed by all three.*
+- **The question.** May an unspecified prior occupancy of the plant ("this ground was someone's before ours") bear on the city's self-understanding, as distinct from the operator nation?
+- **Recommended answer.** No.
+  - NNS L15: "The rotation's only job is explaining functional infrastructure across the gap". The operator is never a reason for identity (LOG L632).
+  - The bar cannot rest on NNS L7's swap test, which does not reach an unnamed predecessor (B).
+- **Waiting on it:** AM-P3-F8, AM-P3-D41 and AM-P3-D42.
+
+### AM-P3-Q4 Record the closed items as resolved upstream?
+*K's question, widened by A, B and C. Disposition: confirmed by all three.*
+- **The question.** Should the Frame's docketed "deep institutional roots" phrase be recorded as resolved upstream by spec L211, without editing the pass? And should the same treatment cover the Frame's Gate 0 defect (spec L4) and Recon L181-182 (spec L4, L211; sheet §2 L34)?
+- **Recommended answer.** Yes to both, as current facts with their addresses (`DR-102`).
+- **Waiting on it:** AM-P3-D9, AM-P3-D12 and AM-P3-D32.
+
+### AM-P3-Q5 What replaces spec L213's "against" clause?
+*Asked by A, B and C. Disposition: conflict sent to the developer.*
+- **The question.** In spec L213, does "against Russia's purely physical, non-diplomatic presence at the original station" mean the builder's long-past construction, or a presence at the time of the court? What wording replaces it?
+- **What the readers agree on.** All three recommend the construction (or plant) reading. Under that reading the clause is still barred (C; A adopted this in Round 3), so on either reading it should go.
+- **Where they differ:** the wording.
+  - A: "applied here to secure this site for Korea." (the clause struck)
+  - B: "applied here to secure this site for Korea; the station's physical plant carried no founding claim."
+  - C: "to secure this site, with its inherited station plant, for Korea"
+- **Recommended answer (the narrowest).** Strike the "against" clause and add nothing. Leave the Register's basis (the allocation, plus geography) as it stands.
+- **Waiting on it:** AM-P3-D35, and the Register's source citation (Register L62).
+
+### AM-P3-Q6 Should "Russia was not a party to the Jeju-do court at all." stay?
+*Asked by C; B gave the same treatment for Frame L200; A adopted it in Round 3. Disposition: found by two.*
+- **The question.** Spec L211 ends with this sentence, Frame L200 repeats it, and sheet §2 L34 carries a variant. Should it stay?
+- **Recommended answer.**
+  - It may stay in the spec, as the developer's record.
+  - Do not carry it into any characterization (identity, politics, psychology), because there it gives the operator a role by negation (C).
+  - Frame L200 is not needed by any finding (B).
+  - The ground is LOG L632. NNS L170 is not used; see AM-P3-N5.
+- **Waiting on it:** AM-P3-D11 and AM-P3-D40.
+
+### AM-P3-Q7 May real-world plant facts stand as what the exiles inherited in 2564?
+*Asked by A and C, with different answers. Disposition: conflict sent to the developer.*
+- **The question.** May the amendment treat the real-world plant facts (1988 to 2022/23) as what the exiles inherited in 2564, or state only the admitted categories?
+- **A's answer.** Only the categories. Cite the real-world plant as a comparable, and specify no in-world holdings until a phase needs one (NO FORCED FIT; NNS L160: "nothing is better than something wrong presented as fact").
+- **C's answer.** Use the real-world facts as infrastructure that outlasts its founders "provided it's maintained" (LOG L626), and as the records and research of that real span. Leave whatever the rotation added unspecified, and never name the rotation's holders.
+- **Recommended answer (the narrower, A's).** State only the categories, and use the real-world facts as comparables.
+- **Waiting on it:** AM-P3-F2, AM-P3-F3, AM-P3-N3, the four seeds, and any scale claim about the plant.
+
+### AM-P3-Q8 Should this amendment site any uptake of the station's material?
+*Asked by B. Disposition: found by one.*
+- **The question.** Should this amendment site any of the station's records, research, equipment or techniques as taken up by the city (`DR-26`)?
+- **Recommended answer.** No, not in this amendment.
+  - Leave the slot open: none is sited here.
+  - Carry the seeds to the later finished-city review, where a phase can test them against its own research.
+  - Take the moving-ice seed first, because it touches the spine's heaviest standing cost (B).
+- **Waiting on it:** AM-P3-F2, AM-P3-K17 and AM-P3-D23.
+
+### AM-P3-Q9 How should a later piece treat the sheet's §31 placeholder figure?
+*Raised by A, B and C, with split readings. Disposition: conflict resolved to the narrower reading.*
+- **The line.** The sheet's §31 L275 credits a placeholder figure (named in the sheet; the name is not reproduced here) as "credited with adapting the inherited Russian research infrastructure into the fabrication economy that now defines the city." Should a later piece treat that as a candidate uptake under `DR-26`?
+- **The split.**
+  - A, in Round 3, adopted B's Round 1 reading: taken as seeding a 45% sector, the line fails proportion (`conditional`).
+  - C: the line says the plant was adapted into the economy, not that it seeded the sector. Also, the sheet is limited to checking Recon, and Recon is silent on this line.
+  - B withdrew its own reading as a finding in Round 3, for C's reason.
+- **Recommended answer (the narrower reading).** Not as evidence: the sheet is Tier 3. Treat it as a pointer only, for whichever piece owns Phase 10's figures, to check two things:
+  - whether the pass's Phase 10 catalog already carries it (Recon L145 says of the second figure, "the pass had carried only one");
+  - whether it reads as plant uptake (admissible) or as continuity.
+
+  No reading of the line is adopted here.
+- **Waiting on it:** the uptake slot (AM-P3-K17).
+
+### AM-P3-Q10 Re-declare G7, and widen the Phase 1 canon list?
+*Asked by C; A and B adopted the 03 L337 point in Round 3. Disposition: found by one.*
+- **The question.** For amendment pieces, should G7 be re-declared as a plant input (infrastructure, records, research, equipment, techniques; the operator excluded)? And should the method's Phase 1 canon list (03 L337, and its runbook mirror `§C.8c`) carry the full `DR-24` to `DR-26` set?
+- **Recommended answer.** Yes to both (C).
+- **Waiting on it:** AM-P3-D15, AM-P3-D37 and AM-P3-N1.
+
+### AM-P3-Q11 Re-file the method gap as methodology?
+*Asked by B and C; A adopted it in Round 3. Disposition: found by two.*
+- **The question.** Should the Frame's modifier-set gap be re-filed as a methodology item, "inheritance without personhood" (plant and papers cross, people do not), rather than as a Sinheung finding? And should the modifier set get a term for it?
+- **Recommended answer.**
+  - Re-file it as a methodology question for whoever next edits `01` §1.1.
+  - Add no new modifier (NO FORCED FIT).
+  - Record it as a standing note under the type, because the rule makes it the ordinary condition (C).
+- **Waiting on it:** AM-P3-F6 and AM-P3-D7.
+
+## 6. Reserved findings and requests
+
+What the pass needs and this piece cannot produce, and the research questions still open.
+
+- AM-P3-R1 **The Stations folder.** `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Reference/Real-World/Stations/`, named by 03 L337. A piece whose list contains it should read this site's file for plant facts and record a receipt that it was opened (03 L344-347). *Found by A; B and C adopted it. Disposition: found by one.*
+- AM-P3-R2 **`01` §1.1.** The full definitions of Resettled, Installation and `Settlement + Installation`, and the modifier set. They would make AM-P3-F4, AM-P3-F5 and AM-P3-F6 firm. *Disposition: confirmed by all three.*
+- AM-P3-R3 **Step 3's research (`03_Research.md`).** Did the pass already resolve the shore conflict (Spine L161-174), and on what? If it did, AM-P3-N8 is either confirmed or redundant. *Found by B and C. Disposition: found by two.*
+- AM-P3-R4 **The spec's airstrip, highway, network and economy lines,** which lie outside every admitted span. They are needed to test AM-P3-N9 and AM-P3-N11. *Found by B and C. Disposition: found by two.*
+- AM-P3-R5 **The 2021 revised management plan** (Measure 1 (2021)). It superseded the 2014 plan that all three readers used for the plant, and its text could not be fetched (dead at the sources: over-size PDFs). Research question: does it change the plant description, for example the 2022 runway or the old buildings? *Found by A and B; C adopted it as a limit. Disposition: found by two.*
+- AM-P3-R6 **The weather record's gap.** Confirm the GHCN gap (1993 to 2002) against the operator's own archive. It matters for Frame L165's "1988–2026", which belongs to the climate piece. A had asked whether the record starts in 1988 or about 1989; for the daily file, the first record is April 1988 (B; C's Round 3 re-run). The start year in the SCAR READER tables is still unconfirmed (C). *Found by B. Disposition: found by one.*
+- AM-P3-R7 **Source discrepancies,** logged and not resolved; none changes a finding.
+  - Opening date: 7 March 1988 against 1 April 1988.
+  - Closure: 1993/94 to 1997/98 against 2000 to 2003.
+  - Summer capacity: 100 against 50.
+  - Runway: a 1,000 m skiway, a 2,000 m skiway, 1,500 × 60 m, 3,000 × 60 m (proposed) and 3,000 × 100 m.
+  - Annual precipitation: 148.9 mm against 213 mm.
+  - Traverse length: 1,280 to 1,480 km.
+
+  The proportion check uses the larger capacity, which is the conservative choice (B). *Disposition: confirmed by all three.*
+- AM-P3-R8 **The station's document set.** What does a station of this kind keep on site as logs, journals, manifests and orientation manuals, as against what goes home to its institute? The plan calls the area's history "well-documented" but lists no documents. *Found by A and C. Disposition: found by two.*
+- AM-P3-R9 **The glaciological and geodetic record.** What does the station's record actually hold: ice velocity near the plateau edge, mass balance, crust-movement series? AM-P3-N10 stays a seed until someone looks. *Found by B. Disposition: found by one.*
+- AM-P3-R10 **Data series across a change of operator.** How do long polar data series survive changes of operator? Real-world handovers of stations between programs are legal comparables. This bears on what newcomers could inherit, misread or fail to notice in a record kept by a rotation. *Found by B. Disposition: found by one.*
+- AM-P3-R11 **The 2564 plant.** What the plant held in 2564 beyond its real-world record. No research can answer this; it is canon's to decide or to leave open (NNS L15). Until then, none is sited here. *Found by C. Disposition: found by one.*
+- AM-P3-R12 **Where the records are kept.** Does the city keep the inherited records anywhere: an archive, a reading room, a working copy? No admitted line says so, and none is invented. The Standard's archive (Spine L149-150, L157-159) holds schematic revisions from another location (not used), not the station's papers. *Found by C. Disposition: found by one.*
+- AM-P3-R13 **For the climate piece.** The 2017 catalog gives a mean annual −8.9 °C and 213 mm of precipitation. The Frame gives about −10 °C (L164) and about 149 mm a year (L175). An encyclopedia climate table gives 148.9 mm (C). The definitions may differ, and P3 did not change. *Found by B and C. Disposition: found by two.*
+- **The §31 placeholder** is held as a pointer only; see AM-P3-Q9.
+
+## 7. Limits
+
+- **Real world is not in-world.** The plant facts describe the coordinate up to 2022/23. The 2564 plant is whatever an unspecified rotation maintained (NNS L15), so the arithmetic is a bound, not a size (A, B, C).
+- **The 2014 plan is superseded,** and the 2021 measure's text could not be read (AM-P3-R5).
+- **`01` §1.1 is not in any list.** The type, modifier and gap findings depend on it, and know it only through the Frame's quotations at L47-48 and L69 (A, B, C).
+- **Uptake cannot be shown.** Whether the city took any of the plant up is a design decision, and the admitted lines are silent (A, B, C).
+- **No sheet history.** No reader can tell whether the sheet changed after 2026-09-07 or Recon misquoted it. Git history is in no list, and `DR-102` asks only for the current fact (A, B).
+- **The sheet was a check only.** Its other sections were not evaluated (B, C). Lines the readers saw in passing (§3 L44, §1 L25, §30 L268, §31 L275) are reported only where they bear on what Recon says the sheet contains.
+- **Census and composition.** The census figures come from orchestrator results and LOG L1713; no reader opened the census (B). The current share of the community descended from the builder's nation comes only from the sheet's L28 bracket (C).
+- **Files outside the lists.** The spec's composition table, network and economy sections, the Phase files, `03_Research.md` and `01_Inherited.md` are in no list. Any uptake written there is invisible to this piece (C).
+- **Spans that do not show headers.**
+  - The Register's column headers are outside its admitted span (B).
+  - The LOG span 919-931 begins mid-entry. `DR-44` is identified only by Register L62's citation (A, B, C, K).
+- **Robots.** No P3 finding makes a bodily or environmental claim about robots.
+  - The robot file was read in full. Its ordinary condition (human-looking, with synthetic interiors, and clothed; robot file L27-45) changes none of these findings (A).
+  - Its line that "robot kinship runs on shared experience, not fabrication lineage" (L418) is consistent with the rule here, and is not used as a cause (A).
+  - Its "The transmission channel is the COMMUNITY, not the fabrication" (L216) supports the Resettled finding (B).
+- **Disciplines applied.** Shadow proportion is applied in AM-P3-F11. General-population discipline is applied in AM-P3-F3, AM-P3-F10 and AM-P3-K18.
+- **Concurrences with K.** The readers concur with K's recommended answers as the brief printed them. They could not see K's verdicts or arguments (C).
+
+
+## 8. Research log (every search string verbatim from the readers' logs, or: no web research in this piece)
+
+**How the research was done.** All three readers loaded the web tools with `ToolSearch` (`select:WebSearch,WebFetch`). Each search string below is copied verbatim from the reader's own log, with one exception: where a string names another location in this project, the name is replaced with `[another location: not used]`, and the omission is recorded in section 9. No reader's prose names the station's operator; operator names appear only inside URLs and quotations. Inside the tables below, a pipe character in a command or pattern is written `\|` so that the table renders; the reader's command used a plain pipe.
+
+**Results used across the piece.**
+- **The main plant source** for all three readers was the 2014 management plan, the Measure 15 (2014) Annex. Each read it with `pdftotext` to standard output after the fetch tool saved the PDF.
+- **The 2017 station catalog** was used by B and C.
+- **The 2021 revision** could not be read by anyone (AM-P3-R5).
+- **What changed a finding:** the 2014 plan, the operator's station page, the 2017 catalog, the GHCN files and the runway reports.
+- **What only ornamented:** the permafrost and borehole records, and some traverse-length reports.
+
+### Reader A
+
+| Search string or address | What it gave | Changed a finding, ornament, or dead end |
+|---|---|---|
+| `Progress Station Larsemann Hills facilities buildings wintering complex` | The operator's station page and an encyclopedia entry: founded 1988, field-base origin, the 2008 fire, the 2012/2013 wintering complex, a skiway, and runway figures the sources disagree on | Changed the plant categories (A's plant finding) |
+| `Larsemann Hills ASMA No. 6 management plan Progress station facilities personnel buildings footprint` | The 2014 plan's PDF and the area maps | Changed it: this became the main source |
+| `"Larsemann Hills" ASMA revised management plan 2021 Measure 1 Progress station "year-round" PDF` | Confirmation that Measure 1 (2021) superseded the 2014 plan, but no text | Dead end, at the sources |
+| `ats.aq ASMA 6 Larsemann Hills management plan 2021 pdf "Progress"` | The same results | Dead end, at the query |
+| `documents.ats.aq Measure 1 (2021) Antarctic Specially Managed Area No 6 Larsemann Hills revised management plan` | The same results | Dead end, at the sources (recorded as AM-P3-R5) |
+| `Zenit airfield Antarctica 2022 Il-76 runway 3000 meters near Progress station` | A 3,000 m × 100 m snow-ice runway about 6 km from the station, built March to August 2022, first heavy landing 7 November 2022 | Changed the runway facts |
+| `WMO 89574 Progress Antarctica meteorological station observations since` | Index 89574 is this station; climatological data from about 1989, unconfirmed | Changed the record link (AM-P3-N3). The start year was later answered for the daily file by B and C. |
+| `Larsemann Hills permafrost borehole Progress station ground temperature active layer monitoring` | Vieira et al. 2010, *Permafrost and Periglacial Processes* 21(2):182-197: −8.5 °C permafrost at the station | Ornament |
+| Fetch: `https://www.aari.ru/expeditions/russian-antarctic-expedition/progress-eng` | Founded 1 April 1988; wintering building 2012; synoptic index 89574; inland-traverse base; observation programs | Changed the plant finding and the record link |
+| Fetch: `https://en.wikipedia.org/wiki/Progress_Station` | 2017 population of 50 in summer and 25 in winter; halted 2000 and reopened 2003; the 2008 fire; a 2013 complex with a medical unit; a 1,000 m skiway; the 2022 runway | Changed the plant finding and the medical-unit candidate |
+| Fetch: `https://www.env.go.jp/earth/nankyoku/kankyohogo/database/jyouyaku/asma/asma_pdf_en/ASMA06_en.pdf` | The Measure 15 (2014) Annex | Changed the plant finding (the main source) |
+| Fetch: `https://assets.publishing.service.gov.uk/media/62d012dbd3bf7f285f60c889/The_Antarctic_Treaty_43rd_Measures_CP_726.pdf` | Error: maximum content length exceeded | Dead end, at the source |
+| Fetch: `https://www.boe.es/boe/dias/2022/02/08/pdfs/BOE-A-2022-1983.pdf` | The same error | Dead end, at the source |
+| Fetch: `https://interfax.com/newsroom/top-stories/84853/` | Zenit runway, 3,000 × 100 m, first heavy landing 7 November | Confirmation |
+| Fetch: `https://gtnpdatabase.org/sites/view/282` | Two permafrost boreholes; no start year | Ornament |
+| Fetch: `https://data.aad.gov.au/database/mapcat/larsemann/ASMA_6_MapE_14658.pdf` (redirects to `https://transfer.data.aad.gov.au/aadc-maps/public/larsemann/ASMA_6_MapE_14658.pdf`) | The building labels and a 20″ × 20″ coordinate window | Changed the footprint figure (recomputed by C in Round 3) |
+
+**A's read-only commands.**
+- **Plant arithmetic, by `awk`:** 10,145, 20,291 and 40,581 residents per place; 0.00986%; 1,125 m³.
+- **The footprint window, by `awk`:** 617 m by 217 m. A's printed share was mislabeled in its own command.
+- **Positional prints with `sed -n`.**
+- **Fixed-string greps of the sheet** for "actively operating" and "deep institutional": no match for either.
+- **`pdftotext` extracts of the 2014 plan.**
+
+### Reader B
+
+| Search string or address | What it gave | Changed a finding, ornament, or dead end |
+|---|---|---|
+| `Progress Station Larsemann Hills facilities buildings wintering complex` | Established 1988; 25 staff in winter and 50 in summer; the 2012/13 building; pointers to the plan and maps | Led to the plan |
+| `Larsemann Hills ASMA No. 6 management plan Progress station facilities fuel storage airfield` | The plan's status (2014, revised 2021); map legends | Led to the plan |
+| Fetch: `https://www.env.go.jp/earth/nankyoku/kankyohogo/database/jyouyaku/asma/asma_pdf_en/ASMA06_en.pdf`, read with `pdftotext` and the pattern `progress\|measure\|[another location: not used]\|traverse\|skiway\|airstrip\|airfield\|fuel\|helicop\|fire` | The whole plant inventory, and the shore quotation in §4.5.2 | Changed the plant, seeds, proportion and medical-unit findings (B's main source) |
+| `AYM00089574 GHCN station name` | No station name | Dead end, at the sources |
+| Fetch: `https://www.aari.ru/expeditions/russian-antarctic-expedition/progress-eng` | "Synoptic index 89574"; opened 1 April 1988; base for inland transport; polar night and day dates | Changed the record link |
+| Fetch: `https://www.antarctica.ac.uk/met/metlog/latest-met/89574.latest-met.html` (redirected to `https://www.bas.ac.uk/met/metlog/latest-met/89574.latest-met.html`) | An empty page | Dead end, at the source |
+| `Progress station Antarctica 2008 fire new wintering complex 2013 built` | The October 2008 fire; the 2012/2013 complex; year-round construction from 2004 | No change |
+| `Progress station [another location: not used] tractor traverse route length sledge convoy Larsemann Hills resupply base relocated from [another location: not used]` | The interior resupply base moved to the Hills; route figures of 1,350, 1,460 and 1,480 km | Changed the traverse technique and AM-P3-N9 |
+| Fetch: `https://www.ncei.noaa.gov/pub/data/ghcn/daily/all/AYM00089574.dly` (three calls, excerpted reads) | First record April 1988; years 1988-1992 and 2003-2010 in the first 100,000 characters; 2017-2025 later on | Changed the record finding (the series gap) |
+| Fetch: `https://southpolestation.com/trivia/20s/ATCM45_bp027_e.pdf` | A 2023 treaty background paper: a 1,480 km route; 90 drivers and 45 vehicles; 2,486 tons of cargo; heavy aircraft from November 2022 | Changed the plant finding |
+| `Progress compacted snow runway Larsemann Hills heavy wheeled aircraft Il-76 operational` | A 3,000 m runway from November 2022; a 1,500 m strip; surface type unsettled | Changed the plant and airstrip findings |
+| Fetch: `https://interfax.com/newsroom/top-stories/84853/` | 3,000 m by 100 m, snow and ice; first flight on 7 November | Changed the plant finding |
+| `Soyuz station Antarctica seasonal Soviet station Amery oasis Beaver Lake location established 1982` | A station of the placeholder's name in another oasis, about 260 km from the coast, opened December 1982 | Changed AM-P3-N7 |
+| `Larsemann Hills Progress Lake limnology sediment core long-term monitoring data station meteorological record since 1989` | Lake studies by other programs | Dead end for this pick, at the sources (not plant research) |
+| `"Larsemann Hills" management plan Measure 1 (2021) Progress station runway "Il-76" revised`, then fetches of the two over-size PDFs listed under A | That the 2021 revision exists; no text | Dead end, at the sources |
+| `Progress station GNSS GLONASS geodetic monitoring Larsemann Hills crustal movement observation point` | Nothing specific to the station | Dead end, at the sources (AM-P3-R9) |
+| `COMNAP Antarctic facilities Progress station year-round capacity peak population`, then fetches of `https://www.comnap.aq/s/Russia_Antarctic_Station_Catalogue_Aug2017.pdf` (redirected) and `https://static1.squarespace.com/static/61073506e9b0073c7eaaf464/t/615634aa53366351511d2b0b/1633039541354/Russia_Antarctic_Station_Catalogue_Aug2017.pdf` | The 2017 catalog: 1,500 m² under roof; 50 beds; a 40 m² medical facility with 2 staff; a 1,500 × 60 m runway; opened 7 March 1988; −8.9 °C; 213 mm | Changed the proportion finding and the medical-unit candidate |
+
+**B's read-only commands.**
+- **Two `python3 -I` arithmetic runs:** places per resident, W and L per resident, m² per resident, residents per medical staffer.
+- **A phrase check on the sheet,** cut to 50 bytes a line so that no other location's name printed. "actively operating": 0 matches. "deep institutional": 0 matches.
+
+### Reader C
+
+| Search string or address | What it gave | Changed a finding, ornament, or dead end |
+|---|---|---|
+| `Progress Station Larsemann Hills facilities main building runway` | The station's dates and the 2022 runway; a pointer to the plan | Changed the runway facts |
+| Fetch: `https://en.wikipedia.org/wiki/Progress_Station` | Dates; the medical unit "doubles as a regional hospital"; a climate table with 148.9 mm of precipitation | Changed the record finding (the precipitation match) and the medical-unit candidate |
+| Fetch: `https://www.aari.ru/expeditions/russian-antarctic-expedition/progress-eng` | Founded 1 April 1988; synoptic index 89574; the observation programs | Changed the plant and record findings |
+| `AYM00089574 GHCN station name` | No result named the ID | Dead end, at the query |
+| Fetch: `https://www.antarctica.ac.uk/met/metlog/latest-met/89574.latest-met.html`, then `https://www.bas.ac.uk/met/metlog/latest-met/89574.latest-met.html` | An empty page | Dead end, at the source |
+| Command: `curl -s --max-time 90 https://www.ncei.noaa.gov/pub/data/ghcn/daily/ghcnd-stations.txt \| grep -E "AYM0008957[0-9]"` | The line `AYM00089574 -69.3830   76.3830   64.0    PROGRESS                       GSN     89574` (excerpted: 6 other lines omitted because they name other stations) | Changed the record finding (the series identity) |
+| `Progress station [another location: not used] sledge-tractor traverse route length kilometers Russian Antarctic Expedition` | Traverse lengths of 1,350, 1,460, 1,480 and more than 1,280 km | Changed the plant finding (lengths given as a range) |
+| Fetch: `https://www.southpolestation.com/trivia/20s/ATCM44_bp022_e.pdf` | A 2022 background paper: fast ice 90 km wide; a 27-day icebreaker channel; unloading 25 November to 18 December 2021; fuel sub-bases at 550 and 1,100 km | Changed the plant finding and AM-P3-N8 |
+| `Larsemann Hills ASMA No. 6 management plan Progress station facilities fuel storage helicopter pad Thala Fjord cargo` | A pointer to the plan and maps | Led to the plan |
+| Fetch: `https://www.env.go.jp/earth/nankyoku/kankyohogo/database/jyouyaku/asma/asma_pdf_en/ASMA06_en.pdf`, read with `pdftotext` and `grep -n -i -E "progress"` | The 2014 Annex, sections 1.2.1, 1.2.2, 4.5.2, 4.5.3, 4.6.2, 4.6.5 and 4.6.6 | Changed the plant, type, shore and medical-unit findings |
+| Fetch: `https://interfax.com/newsroom/top-stories/84853/` | Zenit, 3,000 × 100 m, operating from November 2022 | Confirmation |
+| `Progress station new wintering complex 2013 opened capacity people laboratories hospital` | The date conflict (2012 or 2013); no headcount | Dead end for capacity, at the sources |
+| `COMNAP Antarctic Station Catalogue Progress station peak population summer winter 89574` | A pointer to the catalog | Led to the catalog |
+| Fetch: `https://www.comnap.aq/s/Russia_Antarctic_Station_Catalogue_Aug2017.pdf` (redirected; the squarespace copy read with `pdftotext`) | The 2017 catalog figures, as under B; "Ship landing facilities: None"; automated weather and geodetic stations nearby | Changed the proportion finding and the medical-unit candidate |
+| `SCAR READER surface meteorological data Progress station 89574 record start year` | One site gives daily data for 1988-2026 | Dead end for the READER start year, at the sources |
+| `Soyuz Soviet Antarctic field base Beaver Lake Prince Charles Mountains 1982` | A summer base on the east shore of Beaver Lake, in the Amery Oasis, about 260 km from the Prydz Bay coast, opened December 1982 | Changed AM-P3-N7 |
+
+**C's read-only commands.** A `python3 -I` arithmetic run reproduced 20,291, 10,145 and 40,581 residents per place, 0.00148 m², 0.887 W and 1,125 m³.
+
+### Round 3 recomputations (read-only)
+
+**What was reproduced.** Each reader recomputed every figure that appears in at least two outputs, and all of them reproduced:
+- 10,145, 20,291 and 40,581 residents per place;
+- 0.00986% of Census I;
+- 1,125 m³ of fuel;
+- 0.00148 m² and 0.887 W per resident;
+- retention of 83.09% (humans), 81.62% (robots) and 82.34% (combined), a gap of 1.47 points;
+- robots at 51.27% of Census I;
+- census sums that check: 494,341 + 520,192 = 1,014,533, and 410,746 + 424,595 = 835,341.
+
+**What the recomputations also showed:**
+- B's 507,266 is 507,266.5, rounded half to even (A, C);
+- A's footprint is 0.134 km², or 0.34% of 40 km², not "roughly 0.1 km², about 0.25%" (C);
+- the pass's old 83.07% recomputes correctly from the old census (A);
+- Korea's 33.00% is 0.99 of a third (A);
+- Korea, Japan and the Sinian Federation sum to 47.85% (B, C).
+
+**C's GHCN re-run.** C re-ran B's GHCN check with `curl ... AYM00089574.dly | cut -c12-15 | sort | uniq -c`. Raw output, excerpted to its two load-bearing facts (the per-year counts are omitted; every year from 2003 to 2026 is present):
+```
+1988:26 1989:35 1990:6 1991:28 1992:6 2003:4 2004:37
+AYM00089574198804PRCP
+```
+There are no lines for 1993 to 2002, and the first record is April 1988.
+
+
+## 9. Merge record (a found-by / confirmed-by table for every item; every conflict and how it was decided; every withdrawal; anything a reader flagged as unclear in the brief)
+
+### How the merge was done
+
+**What was read.** The merge writer read the merge brief (sha256 checked, first 16 characters `d39f06d5b87bb9a8`) and the readers' common brief. It read each reader's Round 1 output in full (A, B and C), each Round 3 reply in full, and the first check's single-reader output (K).
+
+**One verification read.** The brief allows the merge writer to read a list entry, at its admitted range, to check a quotation it uses. It made one such read: the spec, lines 209-218 (inside list entry 9's admitted span). The purpose was to settle where the sentence "Russia was not a party to the Jeju-do court at all." sits. It is the last sentence of spec L211, as C said. A and B had quoted an earlier sentence of the same line as its end. No other repository file was opened. No graphify was used, and no repository-wide search was run (`DR-6`). The graphify hook fired on these reads and was disregarded under `DR-6`, which is compliance, not override.
+
+**Checks run on this document.** Two checks ran before hand-off, both read-only.
+- **Quotations.** Every double-quoted string in the parts was compared against the three outputs, the three replies and K's output. Asterisks were ignored, so bold and italic marks do not count. Every string matched.
+- **Keys.** Every reference marker was checked against a definition marker, and no key is defined twice.
+
+The quotation check ran from a short helper script in the session scratchpad, outside the repo. It wrote nothing, and it was deleted after use.
+
+**Counting the dispositions.**
+- The disposition words count the three Round 1 readers, A, B and C.
+- K's independent agreement is listed in the *Found by* column. An item found only by K would be `found by one` with finder K. None of this piece's items rests on K alone, but several of K's single facts are written under union and credited to K: the dates of the pass and of the rulings; LOG L648 and L649; NNS L23; NNS L48-52; the point that taking only the plant is permitted.
+- *Found by* names who raised an item in Round 1. *Round 3* names who adopted, withdrew, or changed a strength in their replies. Where readers still disagreed after Round 3, the item is `conflict resolved to the narrower reading` or `conflict sent to the developer`.
+
+**Strength and confidence.**
+- **Strength** follows the weakest strength any reader gave after Round 3. Where a reader's own reply changed its strength, the reply governs for that reader. For example, A raised its spec L213 finding to `firm`, while B and C stayed `conditional`, so `conditional` is written.
+- **Docket confidence** is the lowest any proposing reader gave.
+
+**Round 2 and Round 3 in brief.**
+- **Round 2.** All 45 PROOF cells (three readers, fifteen files) matched ground truth. The record's verdict line was "UNANIMOUS - CLEARED TO WRITE". The Round 2 file labels the readers agent1, agent2 and agent3, without mapping those labels to letters. Every cell passed, so the mapping does not matter.
+- **Round 3.** Each reader checked the other two outputs against its own reading of the admitted lines. None found a claim that contradicts an admitted source line. They found slips in line citation, arithmetic and inference, and those are recorded below.
+
+### Found-by and confirmed-by table
+
+**Findings, killed items, new findings, questions and reserved items.**
+
+| Item | Source items in the readers' outputs | Found by (Round 1) | Round 3 | Disposition |
+|---|---|---|---|---|
+| AM-P3-F1 | XA-1; XB-101; XC-201, XC-203; K: XU3-5 to XU3-8, XU3-12, XU3-19 | A, B, C; K | No change | confirmed by all three |
+| AM-P3-F2 | XA-2; XB-102; XC-202 | A, B, C | B withdrew "matching" (the record gap against the closure dates) | confirmed by all three |
+| AM-P3-F3 | XA-2(b); XB-104; XC-202, XC-205 | A, B, C | B withdrew `firm` for the in-world plant; C recomputed A's footprint figure | confirmed by all three |
+| AM-P3-F4 | XA-5; XB-107; XC-205; K's question | A, B, C | B withdrew "stands" for Frame L60-61 and L62-63 | confirmed by all three |
+| AM-P3-F5 | XA-4; XB-105; XC-206; K: XU3-16 | A, B, C | A withdrew its claim that the refusal was not by law (A's withdrawal W1); B withdrew the unconditional "by law"; C held its reading | conflict resolved to the narrower reading |
+| AM-P3-F6 | XA-6; XB-106; XC-207 | A, B, C | A adopted the methodology framing (A's adoption A2); B withdrew "sets this city apart" | confirmed by all three |
+| AM-P3-F7 | XA-3; XB-108; XC-208 | A, B, C | A and C adopted "owns" against "originated"; B and C adopted the G5 qualifier at low confidence; A and B adopted G7 | confirmed by all three |
+| AM-P3-F8 | XA-11 (part); XB-109(b), XB-123; XC-213, XC-231; K: XU3-Q2 | A, B, C; K | C adopted B's point on the swap test | confirmed by all three |
+| AM-P3-F9 | XA-10; XB-109(a), XB-109(d), XB-117(a), XB-117(b); XC-211, XC-222 | A, B, C | A adopted the header qualifier and the narrower barred ingredient (A's adoptions A4 and A5) | confirmed by all three |
+| AM-P3-F10 | XA-7; XB-109(c), XB-112, XB-117(c), XB-117(d), XB-117(h); XC-209 | A, B, C | A and B adopted C's §21 "birthright" point | confirmed by all three |
+| AM-P3-F11 | XA-8, XA-11; XB-110, XB-117(b); XC-210, XC-211 | A, B, C | A raised the geography qualifier to `firm`; B withdrew the sufficiency of its salvage (B's withdrawal 12); A adopted the population scope (A6) | confirmed by all three |
+| AM-P3-F12 | XA-9; XB-111, XB-117(e); XC-204, XC-222; K: XU3-11, XU3-13, XU3-18 | A, B, C; K | No change | confirmed by all three |
+| AM-P3-F13 | XA-12; XB-112, XB-116, XB-117(f), XB-117(g); XC-212, XC-222; K: XU3-S5 | A, B, C | A and B adopted C's wider strike; B withdrew "confirmed" for §1 | confirmed by all three |
+| AM-P3-K1 | The section 2 tables of A, B and C; K: XU3-12 | A, B, C; K | No change | confirmed by all three |
+| AM-P3-K2 | XA-4; XB-105; XC-206 | A, B, C; K | As for the Resettled finding | confirmed by all three |
+| AM-P3-K3 | XA-4; XB-105; XC-206 | A, B, C | No change | confirmed by all three |
+| AM-P3-K4 | XA-6; XB-106; XC-207; K: XU3-16 | A, B, C; K | No change | confirmed by all three |
+| AM-P3-K5 | XA-5; XC-203, XC-205 | A, C | B adopted it (B's withdrawal 5) | found by two |
+| AM-P3-K6 | XA-5 (A's docket row XA-43) | A | B adopted it (B's withdrawal 6); C adopted the routing but not the strike | conflict resolved to the narrower reading |
+| AM-P3-K7 | XA-1; XB-101; XC-203; K: XU3-12 | A, B, C; K | No change | confirmed by all three |
+| AM-P3-K8 | XC-201, XC-208 | C | A adopted it (A9); B adopted it (B's adoption 10) | found by one |
+| AM-P3-K9 | XB-109(d); XC-211 | B, C | A adopted it (A4) | found by two |
+| AM-P3-K10 | XA-10; XB-119c; XC-222 | A, B, C | No change | confirmed by all three |
+| AM-P3-K11 | XA-7; XB-119b; XC-209 | A, B, C | No change | confirmed by all three |
+| AM-P3-K12 | XA-12; XC-222 | A, C | B withdrew "confirmed" (B's withdrawal 7) | found by two |
+| AM-P3-K13 | XA-12; XB-116; XC-212; K: XU3-S5 | A, B, C; K | No change | confirmed by all three |
+| AM-P3-K14 | XA-9; XB-111; XC-204; K: XU3-13 | A, B, C; K | No change | confirmed by all three |
+| AM-P3-K15 | XA-14; XB-114; XC-218 | A, B, C | No change | confirmed by all three |
+| AM-P3-K16 | XA-3(2) | A | B and C adopted it, as optional and low | conflict resolved to the narrower reading |
+| AM-P3-K17 | XA-2(c); XB-119a; XC-202; K: U-3's question on the plant's holdings | A, B, C | No change | confirmed by all three |
+| AM-P3-K18 | XA-20; XB-118; XC-220 | A, B, C | A changed its class to "killed by evidence" (A's withdrawal W3); C adopted B's class | confirmed by all three |
+| AM-P3-N1 | XC-214 | C | A adopted it (A9); B adopted it (B's adoption 9); A corrected the mirror-note line to L327 | found by one |
+| AM-P3-N2 | XA-19 | A | B and C adopted it | found by one |
+| AM-P3-N3 | XA-17; XB-103 item 5; XC-215 | A, B, C | B withdrew "matching"; C withdrew its unqualified "1988-2026" and re-ran the file | confirmed by all three |
+| AM-P3-N4 | XA-13; XB-113; XC-216; K: XU3-S4 | A, B, C | A raised its strength to `firm` (A's withdrawal W4); B and C held `conditional` | confirmed by all three |
+| AM-P3-N5 | XB-113; XC-216 | B, C | A adopted it (A12); B disputed C's use of NNS L170 | found by two |
+| AM-P3-N6 | XC-217 | C | A adopted it (A10); B adopted it (B's adoption 12) | found by one |
+| AM-P3-N7 | XB-115; XC-221 | B, C | B withdrew "fits the facts" (B's withdrawal 11); C narrowed its claim (C's withdrawal 3); A adopted it (A13) | found by two |
+| AM-P3-N8 | XA-18; XB-103 item 1; XC-219 | A, B, C | C lowered its strength to `seed` (C's withdrawal 2) | confirmed by all three |
+| AM-P3-N9 | XB-103 item 2 | B | A adopted it (A15); C adopted it | found by one |
+| AM-P3-N10 | XB-103 item 3; XC-246 | B, C | A adopted it (A14) | found by two |
+| AM-P3-N11 | XA-18; XB-103 item 4; XC-242 | A, B, C | No change | confirmed by all three |
+| AM-P3-N12 | XA-15, XA-21; XB-116; XC-224; K: XU3-S5 | A, B, C; K | B and C adopted A's Frame L98 and Spine L247-251 | confirmed by all three |
+| AM-P3-N13 | XA-16 | A | B adopted it as `conditional`; C adopted it, calling it a real miss on its own part | found by one |
+| AM-P3-Q1 | XA-62; XC-235; B's section 6 and XB-105 | A, B, C | No change | confirmed by all three |
+| AM-P3-Q2 | K: XU3-Q1; A's concurrence; XB-122; XC-230 | K's question; A, B, C concur | No change | confirmed by all three |
+| AM-P3-Q3 | K: XU3-Q2; A's concurrence; XB-123; XC-231 | K's question; A, B, C concur | No change | confirmed by all three |
+| AM-P3-Q4 | K: XU3-Q3; XA-48, XA-49, XA-60; XB-124; XC-232 | K's question; A, B, C widen it | No change | confirmed by all three |
+| AM-P3-Q5 | XA-61; XB-125; XC-233 | A, B, C | A (W4) agrees the clause is barred on either reading; the wordings still differ | conflict sent to the developer |
+| AM-P3-Q6 | XC-234; XB-125 (the treatment of Frame L200 and sheet L62) | B, C | A adopted it (A12) | found by two |
+| AM-P3-Q7 | XA-63; XC-237 | A, C | No change; the recommended answers differ | conflict sent to the developer |
+| AM-P3-Q8 | XB-121 | B | No change | found by one |
+| AM-P3-Q9 | XA-64; XB-120; XC-244 | A, B, C | B withdrew XB-120; A adopted B's reading (A16); C rejected that reading | conflict resolved to the narrower reading |
+| AM-P3-Q10 | XC-236 | C | A and B adopted the 03 L337 point | found by one |
+| AM-P3-Q11 | XB-126; XC-238 | B, C | A adopted it (A2) | found by two |
+| AM-P3-R1 | XA-81 | A | B and C adopted it | found by one |
+| AM-P3-R2 | XA-82; B's section 6; C's section 7 | A, B, C | No change | confirmed by all three |
+| AM-P3-R3 | B's section 6; XC-243 | B, C | No change | found by two |
+| AM-P3-R4 | B's section 6; XC-242 | B, C | No change | found by two |
+| AM-P3-R5 | XA-83; B's search 15 and section 7 | A, B | C adopted it as a limit | found by two |
+| AM-P3-R6 | B's research question 3; XC-245 (the SCAR READER start year) | B | C re-ran the file and confirmed it; this answers A's XA-84 for the daily file | found by one |
+| AM-P3-R7 | XA-85; B's research question 4; C's list of discrepancies | A, B, C | No change | confirmed by all three |
+| AM-P3-R8 | XA-86; XC-245 | A, C | No change | found by two |
+| AM-P3-R9 | B's research question 1 | B | No change | found by one |
+| AM-P3-R10 | B's research question 2 | B | No change | found by one |
+| AM-P3-R11 | XC-240 (and XC-223) | C | No change | found by one |
+| AM-P3-R12 | XC-241 | C | No change | found by one |
+| AM-P3-R13 | B's section 6 climate note; C's precipitation discrepancy | B, C | No change | found by two |
+
+
+**Docket rows.**
+
+| Item | Source rows in the readers' outputs | Found by (Round 1) | Round 3 | Disposition |
+|---|---|---|---|---|
+| AM-P3-D1 | XA-50 (and XA-15 for L98); B's L37 and L178-186 row; C's L37 and L178-186 row | A, B, C | B and C adopted L98 | confirmed by all three |
+| AM-P3-D2 | B's row for L56 and L204-207; A and C hold that L56 stays | B (a qualifier); A, C (it stands) | No change | conflict resolved to the narrower reading |
+| AM-P3-D3 | XA-41; B's row; C's row | A, B, C | No change | confirmed by all three |
+| AM-P3-D4 | XA-42; C's row | A, C | B adopted it (B's withdrawal 5); A adopted C's wording | found by two |
+| AM-P3-D5 | XA-43 | A | B adopted it; C adopted the routing, but not the strike | conflict resolved to the narrower reading |
+| AM-P3-D6 | XA-44; B's row; C's row | A, B, C | A (W1) and B (withdrawal 3) changed the ground | conflict resolved to the narrower reading |
+| AM-P3-D7 | XA-45; B's row; C's row | A, B, C | A adopted the methodology framing | confirmed by all three |
+| AM-P3-D8 | XA-46; B's row | A, B (C: it stays) | B lowered its row to optional and low (B's withdrawal 10); A held a medium qualifier | conflict resolved to the narrower reading |
+| AM-P3-D9 | XA-49; B's row; C's row | A, B, C | No change | confirmed by all three |
+| AM-P3-D10 | XA-47; B's row; C's row | A, B, C | No change | confirmed by all three |
+| AM-P3-D11 | B's row (part of its L196-200 row); C's row | B, C | A adopted it (A12) | found by two |
+| AM-P3-D12 | XA-48; B's row; C's row | A, B, C | No change | confirmed by all three |
+| AM-P3-D13 | XA-51 | A | B and C adopted it | found by one |
+| AM-P3-D14 | XA-52 | A | B and C adopted it | found by one |
+| AM-P3-D15 | C's row | C | A and B adopted it | found by one |
+| AM-P3-D16 | XA-8 (its pass locations); B's row; C's row | A, B, C | No change | confirmed by all three |
+| AM-P3-D17 | C's row | C | A adopted it (A's withdrawal W2); B held its reading | conflict resolved to the narrower reading |
+| AM-P3-D18 | C's row; XB-115 | B, C | No change | found by two |
+| AM-P3-D19 | XA-53; C's row | A (the plant); C (geography) | B held both additions optional and low | conflict resolved to the narrower reading |
+| AM-P3-D20 | C's row; the shore seed in XA-18 and XB-103 | A, B, C | C turned its row into a pointer only (C's withdrawal 2) | confirmed by all three |
+| AM-P3-D21 | XA-54 | A | B and C adopted it at low confidence, C as optional | conflict resolved to the narrower reading |
+| AM-P3-D22 | B's row; C's row; XA-15 and XA-21 | A, B, C | B and C adopted Spine L247-251 | confirmed by all three |
+| AM-P3-D23 | B's row (Spine L204 and Recon L76-77) | B | A and C adopted it | found by one |
+| AM-P3-D24 | B's row; C's row | B, C | A adopted it (A4) | found by two |
+| AM-P3-D25 | XA-55; B's row; C's row | A, B, C | No change | confirmed by all three |
+| AM-P3-D26 | XA-56; B's two rows; C's row | A, B, C | No change | confirmed by all three |
+| AM-P3-D27 | XA-57 (part); C's row | A, C | B withdrew "confirmed" | found by two |
+| AM-P3-D28 | XA-57 (part); B's row; C's row | A, B, C | No change | confirmed by all three |
+| AM-P3-D29 | XA-58; B's row; C's row | A, B, C | A and B adopted the two scopes | confirmed by all three |
+| AM-P3-D30 | XA-59; B's row; C's L82-85 row | A, B, C | No change | confirmed by all three |
+| AM-P3-D31 | C's L82-85 row (the wider strike) | C | A adopted it (A7); B adopted it (B's adoption 11) | found by one |
+| AM-P3-D32 | XA-60; B's L182 row; C's L181 and L182 rows | A, B, C | No change | confirmed by all three |
+| AM-P3-D33 | B's row; XC-221 | B, C | B withdrew "fits the facts"; C narrowed its claim | found by two |
+| AM-P3-D34 | C's row | C | A and B adopted it | found by one |
+| AM-P3-D35 | XA-70; B's row; C's row | A, B, C | A raised its strength to `firm`; B and C held `conditional` | conflict resolved to the narrower reading |
+| AM-P3-D36 | C's row | C | No change | found by one |
+| AM-P3-D37 | C's row | C | A and B adopted it | found by one |
+| AM-P3-D38 | XA-74; C's row | A, C | B adopted it (B's adoption 5) | found by two |
+| AM-P3-D39 | XA-71; B's row; C's row | A, B, C | No change | confirmed by all three |
+| AM-P3-D40 | XA-72 (part); B's row; C's row | A, B, C | No change | confirmed by all three |
+| AM-P3-D41 | XA-72 (part); B's row; C's row | A, B, C | No change | confirmed by all three |
+| AM-P3-D42 | XA-73; B's row; C's row | A, B, C | B and C held the proportion fault `conditional` | confirmed by all three |
+| AM-P3-D43 | C's row (the wider strike); B's §20 row (the clause only) | C (widening); B (the clause) | A and B adopted the widening | found by one |
+| AM-P3-D44 | C's row | C | A and B adopted it at low confidence | found by one |
+
+### Conflicts, and how each was decided
+
+**Decided by the merge writer: sixteen.** Fourteen were resolved to the narrower reading, and two were sent to the developer.
+
+- **The Resettled ground** (AM-P3-F5).
+  - A and C hold the rulings ground `firm`. B holds which ground applies `conditional` on `01` §1.1.
+  - **Decided:** the refusal is `firm`. Both grounds are written as offered, and the rulings ground as `conditional`. A's withdrawn claim that the refusal was not by law is evidence for neither side, and was not used as a tie-break.
+- **Frame L56** (AM-P3-D2).
+  - B wants a qualifier; A and C say the line stands.
+  - **Decided:** no change required, and B's qualifier is optional.
+- **Frame L62-63** (AM-P3-D5).
+  - A would strike the line here; C would route it to the terminal check without striking it.
+  - **Decided:** route it without striking it.
+- **Frame L87** (AM-P3-D8).
+  - A: a qualifier is needed. B: it is optional. C: the line stays.
+  - **Decided:** no change required, with an optional pointer.
+- **Spine L64** (AM-P3-D17).
+  - A (after Round 3) and C: a qualifier is needed. B: optional.
+  - **Decided:** optional.
+- **Spine L77** (AM-P3-D19).
+  - A and C each propose a different addition. B: both are optional.
+  - **Decided:** both are optional.
+- **Spine L88** (AM-P3-D21).
+  - A: a qualifier is needed. B: low. C: optional.
+  - **Decided:** optional, and low.
+- **Spec L213's strength** (AM-P3-D35).
+  - A: `firm` after Round 3. B and C: `conditional`.
+  - **Decided:** `conditional`. The proposed action, striking the clause, is the narrowest of the three.
+- **Spec L213's wording** (AM-P3-Q5). The three wordings differ.
+  - **Sent to the developer,** with the narrowest wording (strike only) recommended.
+- **Whether real-world plant facts stand as the 2564 plant** (AM-P3-Q7).
+  - A: state the categories only. C: use the real-world facts as the inherited plant, maintained.
+  - **Sent to the developer,** with A's narrower answer recommended.
+- **The §31 placeholder line** (AM-P3-Q9).
+  - A (adopting B's withdrawn reading): it fails proportion if read as seeding a sector. C: the line does not say seed. B withdrew its own reading.
+  - **Decided:** a pointer only, and no reading is adopted. B's withdrawal is evidence for the narrower reading.
+- **NNS L170 as a ground for the "not a party" sentence** (AM-P3-N5).
+  - C cited it; B showed it governs the rotation of later operators, not the builder.
+  - **Decided:** the ground is LOG L632 only.
+- **NNS L7 as a ground for the sheet's negotiating-room clause** (AM-P3-F9).
+  - A cited the swap test; C showed it does not clearly fire, because swapping the nation leaves the clause's meaning intact.
+  - **Decided:** the ground is LOG L632 only.
+- **The word "nucleus" as a location** (AM-P3-F3).
+  - A placed the plant "at the city's nucleus"; C showed no admitted line places it there.
+  - **Decided:** "nucleus" is used only as a word of scale.
+- **The footprint figure** (AM-P3-F3).
+  - A: roughly 0.1 km², about 0.25%. C's recomputation of A's own window: 0.134 km², 0.34%.
+  - **Decided:** the window figure, 0.134 km² and 0.34%, written as a bound on the labeled buildings, not as their footprint.
+- **The claim that "a bed serves either body"** (AM-P3-F3).
+  - This was C's inference, and A showed the robot file does not say it.
+  - **Decided:** the inference is omitted. The arithmetic does not depend on it.
+
+**Settled by the readers themselves in Round 3** (not counted above):
+- the medical-unit kill class;
+- the shore seed's strength;
+- Frame L60-61;
+- the §1 "scrupulous" check;
+- the wider §20 strike;
+- the geography qualifier's strength;
+- the proportion strength;
+- the method gap as methodology rather than a Sinheung seed;
+- the G7 and 03 L337 points;
+- the sufficiency of the salvage;
+- the alias accounts.
+
+### Every withdrawal
+
+**Reader A (four withdrawals, and one upgrade).**
+- **W1.** A had said Resettled "stays unassigned" on fit, not law, at XA-4, at section 0 item 2, at docket row XA-44 ("NOT ASSIGNED"), in its section 2, and at XA-6. Now held: the refusal stands, on the rulings (`firm`) and on fit (`conditional`).
+- **W2.** For Spine L64, A had said the qualifier was optional. Now held: the qualifier is needed.
+- **W3.** The medical-unit candidate (XA-20), first classed as killed for want of an admitted line, is now classed as killed by evidence.
+- **W4.** XA-13 had said that, read as the historical construction, "against" does no work. Now held: the clause is barred on either reading, and XA-13 rises to `firm`.
+- **The upgrade.** A raised the geography qualifier (XA-8) from `conditional` to `firm`. This is not a withdrawal.
+
+**Reader B (twelve withdrawals).**
+- **1.** The gap in the GHCN record was said to be "matching" the closure dates. It is not.
+- **2.** The proportion result was stated as `firm` for the in-world plant (XB-104).
+- **3.** The refusal of Resettled was said to be unconditionally "by law" (XB-105).
+- **4.** The phrase "sets this city apart" (XB-106), which compares, was withdrawn.
+- **5.** Frame L60-61 was said to stand (XB-107).
+- **6.** Frame L62-63 was said to stand (XB-107).
+- **7.** The §1 "scrupulous" check was "confirmed" (XB-117(g)).
+- **8.** XB-120 was a finding, with a docket row against the sheet's §31.
+- **9.** XB-120's "Pass locations. None." was ungrounded.
+- **10.** The docket row for Frame L87 was at "high" confidence.
+- **11.** The sheet's alias account was said to fit the facts (XB-115).
+- **12.** The salvage was said to be sufficient by striking clauses and adding geography (XB-117(b)).
+
+**Reader C (three withdrawals).**
+- **1.** The unqualified span "1988-2026" (XC-202, XC-215).
+- **2.** The `conditional` strength of the shore relation, and its rewording of Spine L83 (XC-219). Both are now a seed and a pointer.
+- **3.** That "neither matches the real-world record" (XC-221). Now held: the spec's account is unsupported, and the sheet's account is untested.
+
+**A note on XB-120.** A adopted B's XB-120 reading in Round 3 (A16) after B had withdrawn it. The merge treats B's withdrawal as evidence for the narrower reading (AM-P3-Q9).
+
+### What the readers flagged as unclear, and other snags
+
+- **The graphify hook.** A `PreToolUse` graphify hook fired on the readers' Read and Bash calls, including MANDATORY notices. A, B and C disregarded it under `DR-6`, as their brief instructs: this is a warm piece, so the cold-run exception was not cited. K reports that no hook notice appeared in its tool results.
+- **The LOG span 919-931** begins partway through an entry, so its heading falls outside the span. All four views identify L930 as `DR-44` only through Register L62's citation.
+- **`01` §1.1** is named by the brief's question on the modifier but is in no list. All three took the most conservative reading.
+- **The question on the plant's holdings** asks for plant facts "without naming which operators held it". A named no operator in its own prose; operator names appear only in quotations and URLs.
+- **The question on §5b, §18 and §21** presumes that they rest on the same foundation. The check showed they do not (C), and this is reported as a result.
+- **The subnet name.** Every pass path, and Register L62 (a positional line), carry the parent subnet's name. A, B and C treated it as the Frame's PARENT, not as another location, so they attached no EXEMPT line. This document keeps that name out of its prose and its paths.
+- **Saved PDFs.** The fetch tool saved downloaded PDFs to the session's tool-results folder, outside the readers' staging directories. All three read them only to standard output.
+- **C's helper file.** C wrote a read-only helper, `proofcheck_C.py`, at the scratchpad root, outside its staging directory. The brief's section 0 forbids that. A project hook blocked C's attempt to delete it. A and B recorded the breach. It does not affect what C read.
+- **An unopened file.** C found a file, `reader_stopped_first_dispatch.md`, in its own staging directory, and did not open it.
+- **The sheet's later edits.** The sheet carries edits dated after Recon (B). Whether the Recon quotations that no longer match were misquotes or later edits cannot be told from the lists.
+- **The megasheet.** `DR-25` L647 records wording "Applied" to a megasheet, and megasheets are closed to this piece, so A did not check it.
+- **Phantom lines.** The Read display showed a phantom final line on several whole-file reads. B and K took counts from `wc -l` and `awk`.
+- **A line in the sheet A saw and did not use:** the sheet's L12 one-liner, which is the summary-line form NNS L138-139 and L151 address.
+- **K's out-of-span read.** K ran one read-only count over the whole spec, outside its spans. K disclosed it and did not rely on it.
+- **Citation slips found in Round 3:**
+  - C cited 03 L279 for the Phase 1 mirror note, which sits at L327 (L279 is the Phase 0 box; A).
+  - C cited LOG L626 for a phrase that runs onto L627 (A).
+  - B printed 507,266 for a value of 507,266.5 (A, C).
+  - A identified the rock-allocation ruling by the pass's own label, which LOG L1712 does not print (B).
+- **A check that matched.** Recon L7's description of the sheet ("282 lines, 32 sections") matches it (C).
+
+### What the merge writer left out, and why
+
+- **Other locations' names in search strings.** Three search strings and one command pattern named other locations in this project: B's search on the traverse route (two names), C's search on the traverse route (one name), and B's `grep` pattern for the 2014 plan (one name). Each is written with `[another location: not used]` in place of the name; section 8 is otherwise verbatim.
+- **Spec L211 and L213.** Spec L213 is quoted only from "applied here", because its earlier clause names another location. Spec L211 is quoted only from its third sentence on, because its first sentences name other locations.
+- **LOG L1713** is quoted only from "Sinheung (1,014,533) are Band 5".
+- **The sheet's §31 placeholder figure** is named in the sheet. The name is not reproduced here.
+- **NNS L48-52, the developer's words that K quoted,** name another location, so they are written unquoted.
+- **Other station names in the plan text and the search results,** and other locations' names in sheet L196, L282 and the robot file's L438, are not reproduced.
+- **The readers' own item numbers** (XA-, XB-, XC-, XU3-) appear only in this section, as sources.
+

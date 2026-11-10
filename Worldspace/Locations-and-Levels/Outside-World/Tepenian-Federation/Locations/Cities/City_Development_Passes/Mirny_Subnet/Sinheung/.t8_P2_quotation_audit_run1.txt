@@ -1,0 +1,117 @@
+pass audited : Sinheung
+corpus mode  : default (own pass excluded)
+corpus files : 6670   chars: 100,885,795
+files audited: Amendment_Rederivation_P2_Composition_Chain_2026-11-09.md
+own-pass mode: a quotation may also be found in this pass's OTHER files (never in its own file)
+
+=== POSITIVE CONTROLS ===
+  [easy                      ] FOUND     a terminus is nobody's midpoint
+  [HARD - blockquote wrap    ] FOUND     A pass may not proceed to Step 5 with a NEVER CITED row
+  [HARD - outside Worldspace ] FOUND     Paste raw QA scan output into the QA block. Never summa
+  [HARD - case mismatch      ] FOUND     YOU GO TO ESPERANZA AND YOU DO NOT COME HOME FOR FOUR Y
+  [HARD - long wrapped       ] FOUND     Different content is not differentiation; a different q
+
+  INSTRUMENT VALID: YES
+  NEGATIVE CONTROL (must be absent): PASS - absent
+
+=== QUOTATION AUDIT ===
+fragments tested (single-line, ellipsis-split, >=7 words): 189
+NOT FOUND in corpus: 91
+  of those, in TABLE CELLS : 14
+  of those, in PROSE       : 77
+
+  [Amendment_Rederivation_P2_Composition_Chain_2026-11-09.md:12]           stays, because the court's allocation is still the basis (
+  [Amendment_Rederivation_P2_Composition_Chain_2026-11-09.md:17]           stands only in its founded form: korea is the founding stock and the primary row; the form of words for a frame that is mostly act
+  [Amendment_Rederivation_P2_Composition_Chain_2026-11-09.md:28]           (its utc 5 zone taking in yekaterinburg and perm)
+  [Amendment_Rederivation_P2_Composition_Chain_2026-11-09.md:28]           while a nation four zones off, at the table's outer edge with germany, hungary and japan, founded the city. p9 l57 repeats the phr
+  [Amendment_Rederivation_P2_Composition_Chain_2026-11-09.md:34]           log l552: founding nations are legitimate on geography and access. nns l9
+  [Amendment_Rederivation_P2_Composition_Chain_2026-11-09.md:39]           ) at 1.4538% in thirteen cities, this one among them. spec l84: kazakhstan was added at 1.45%
+  [Amendment_Rederivation_P2_Composition_Chain_2026-11-09.md:56]  [CELL]  log l930). the first check's recommended answer (keep
+  [Amendment_Rederivation_P2_Composition_Chain_2026-11-09.md:61]           folded into am-p2-d12) p2 l96 (first sentence false
+  [Amendment_Rederivation_P2_Composition_Chain_2026-11-09.md:71]           (l50): east asian core (korea, china, japan) 52.14%, southeast asian 14.71%, baltic/balkan/central european 12.86%, germanic 8.64%
+  [Amendment_Rederivation_P2_Composition_Chain_2026-11-09.md:71]           (l62), the pooled core a majority that can, and
+  [Amendment_Rederivation_P2_Composition_Chain_2026-11-09.md:76]           (the line also names another location: not used). pspine l460: at band 4 composition
+  [Amendment_Rederivation_P2_Composition_Chain_2026-11-09.md:79]           the freed points going to japan and germany; manchuria's share multiplied by a second draw. log l1613
+  [Amendment_Rederivation_P2_Composition_Chain_2026-11-09.md:103]           the founder, is not written as a finding: summing 35 separate origins into one comparison reads them as a group, which
+  [Amendment_Rederivation_P2_Composition_Chain_2026-11-09.md:105]           (c-2 (a)). not a threshold: both are pluralities, so the plurality-against-majority line that made them
+  [Amendment_Rederivation_P2_Composition_Chain_2026-11-09.md:114]           should rest on a share either (am-p2-k10). k added that the 48.635 figure only approximately matches the old
+  [Amendment_Rederivation_P2_Composition_Chain_2026-11-09.md:116]           and state the members every time, because the ruled membership leaves out rows that are geographically east asian (b: the un m49
+  [Amendment_Rederivation_P2_Composition_Chain_2026-11-09.md:116]           region includes mongolia, hong kong, macao and taiwan). they differ on whether to keep the ruled label in use: conflict sent to th
+  [Amendment_Rederivation_P2_Composition_Chain_2026-11-09.md:118]           the weakest strength is written). the pass's sentence about them fails on four counts (am-p2-k9)
+  [Amendment_Rederivation_P2_Composition_Chain_2026-11-09.md:118]           compares pooled notable decimals and falls under dr-12 (a, c)
+  [Amendment_Rederivation_P2_Composition_Chain_2026-11-09.md:119]           is now two separate rows, germany (8.75%, significant) and austro-bavaria (1.31%, notable) (c)
+  [Amendment_Rederivation_P2_Composition_Chain_2026-11-09.md:119]           names a unit the rulings replaced with thirteen separate origins, several of them not slavic (am-p2-k11)
+  [Amendment_Rederivation_P2_Composition_Chain_2026-11-09.md:121]           ) am-p2-d9 p2 l69-71 (mid-clusters) am-p2-d10 p2 l136, l141-142, l156, l172 (
+  [Amendment_Rederivation_P2_Composition_Chain_2026-11-09.md:123]           (p2 l65; a, b and c). the pooling as a candidate reading (p2 l66; a). e.1's absence of any western-hemisphere row: none of the 39 
+  [Amendment_Rederivation_P2_Composition_Chain_2026-11-09.md:131]           (l290), quoting phase 2's old figures (l292-295)
+  [Amendment_Rederivation_P2_Composition_Chain_2026-11-09.md:136]           robot l418: robot kinship runs on shared experience, not fabrication lineage. spec l132
+  [Amendment_Rederivation_P2_Composition_Chain_2026-11-09.md:139]           ); census l878 (korea is south and north korea); spec l9 (
+  [Amendment_Rederivation_P2_Composition_Chain_2026-11-09.md:139]           the line names another location: not used); nns l51 (the developer
+  [Amendment_Rederivation_P2_Composition_Chain_2026-11-09.md:160]           (c-2 (e)). the six-way partition no longer exists (a, b and c). restated (c's wording
+  [Amendment_Rederivation_P2_Composition_Chain_2026-11-09.md:162]           (p9 l433). the pooling stays as a demographic description (47.85%, arithmetic of the ruled rows). as a social reality it is untest
+  [Amendment_Rederivation_P2_Composition_Chain_2026-11-09.md:163]           korea is the founding stock (reg l62) and the primary row (33.00%, south and north korea; spec l92; census l878)
+  [Amendment_Rederivation_P2_Composition_Chain_2026-11-09.md:163]           is true of the founding: the spec's own line now reads
+  [Amendment_Rederivation_P2_Composition_Chain_2026-11-09.md:163]           (spec l9). for a frame that is mostly act 2, the form of words names stock, people and local culture separately
+  [Amendment_Rederivation_P2_Composition_Chain_2026-11-09.md:163]           (nns l136-139; robot l229-230). strength: firm for the founding stock and the primary row (a, b and c); the form of words is provi
+  [Amendment_Rederivation_P2_Composition_Chain_2026-11-09.md:163]           (nns l51), in the passage that admits founding-stock culture (b, c). the pass's
+  [Amendment_Rederivation_P2_Composition_Chain_2026-11-09.md:163]           narrows to: true of the founding; as a description of the whole population it is the bare national-city label that nns l138 calls 
+  [Amendment_Rederivation_P2_Composition_Chain_2026-11-09.md:166]           no correction is proposed on population-share grounds. c proposed rewording it (a 33.00% row named as the city's character) and wi
+  [Amendment_Rederivation_P2_Composition_Chain_2026-11-09.md:166]           (nns l51); a adopted c's rewording in round 3 and still holds it; b keeps the phrase and applies the nns l136-139 form of words on
+  [Amendment_Rederivation_P2_Composition_Chain_2026-11-09.md:166]           label. conflict resolved to the narrower reading (section 9). the
+  [Amendment_Rederivation_P2_Composition_Chain_2026-11-09.md:173]           verdict, the failed necessary premise, the wrong scarce thing and the founded form of
+  [Amendment_Rederivation_P2_Composition_Chain_2026-11-09.md:179]           the east asian core pooled 52.14%; two unrelated second-tier clusters; germanic, slavic, anglo
+  [Amendment_Rederivation_P2_Composition_Chain_2026-11-09.md:179]           and the baltic/balkan cluster's cured and soured line and the southeast asian cluster's fish- and shrimp-fermented line
+  [Amendment_Rederivation_P2_Composition_Chain_2026-11-09.md:196]  [CELL]  used to be a german staple up until the mid-20th century
+  [Amendment_Rederivation_P2_Composition_Chain_2026-11-09.md:219]  [CELL]  each is notable, at most 2.03%, a separate origin (a, b and c). if named, the core state ferments cabbage and cucumbers (a, c)
+  [Amendment_Rederivation_P2_Composition_Chain_2026-11-09.md:235]           stays: the register keeps the court's allocation as the basis. replaced by am-p2-f1. disposition: confirmed by all three for the k
+  [Amendment_Rederivation_P2_Composition_Chain_2026-11-09.md:237]           narrowed : the demographic restatement is killed by evidence (geography at the edge of the rule is an additional factor, so proxim
+  [Amendment_Rederivation_P2_Composition_Chain_2026-11-09.md:242]           is stale (b, c). the only in-world line records coordination: the three
+  [Amendment_Rederivation_P2_Composition_Chain_2026-11-09.md:242]           at jeju-do (spec l211; c). c's research found both a standing trilateral secretariat and continuing disputes in the real world, so
+  [Amendment_Rederivation_P2_Composition_Chain_2026-11-09.md:243]           killed by evidence for today's nations (b; c adopted it in round 3, conditional on b's sources)
+  [Amendment_Rederivation_P2_Composition_Chain_2026-11-09.md:243]           killed by evidence under dr-12 , a comparison of pooled notable decimals (a, c)
+  [Amendment_Rederivation_P2_Composition_Chain_2026-11-09.md:250]           is true of the founding (spec l9), not of the whole population; as a description of the population, the bare national-city label i
+  [Amendment_Rederivation_P2_Composition_Chain_2026-11-09.md:251]           killed by evidence : the same file withdrew that verdict at p9 l315 (
+  [Amendment_Rederivation_P2_Composition_Chain_2026-11-09.md:251]           ) and gave the corrected verdict at l324. disposition: found by two (a, b), and k noted it; c first held that the row
+  [Amendment_Rederivation_P2_Composition_Chain_2026-11-09.md:252]           for fermentation (the australia row's documented core is bottling, salting and brining; the south africa row depends on a stock no
+  [Amendment_Rederivation_P2_Composition_Chain_2026-11-09.md:253]           killed by evidence : it names two unruled pools and omits japan, germany and the sinian federation, the significant rows (spec l92
+  [Amendment_Rederivation_P2_Composition_Chain_2026-11-09.md:254]           as a social or historical claim: killed for want of an admitted line (a after round 3; b on l91
+  [Amendment_Rederivation_P2_Composition_Chain_2026-11-09.md:255]           (robot l270); the parallel infers non-human physiology from a word (pspine l194
+  [Amendment_Rederivation_P2_Composition_Chain_2026-11-09.md:267]           ). comp l38-42 score a nation by its legal zones in their own worked example (
+  [Amendment_Rederivation_P2_Composition_Chain_2026-11-09.md:277]           with geography (zone gap 3) as an additional factor
+  [Amendment_Rederivation_P2_Composition_Chain_2026-11-09.md:281]           (log l1527), which is consistent with the pool-size ground; korea's row is tagged
+  [Amendment_Rederivation_P2_Composition_Chain_2026-11-09.md:281]           (spec l92; census l33). k reads korea's 33.00% weight as coming with the founding role, not from pool size alone, and notes that t
+  [Amendment_Rederivation_P2_Composition_Chain_2026-11-09.md:281]           (p2 l94) already conceded this. census l33 adds that the tag
+  [Amendment_Rederivation_P2_Composition_Chain_2026-11-09.md:286]           the developer's cluster (log l1711) has exactly these members and no others. this gives the cluster a local relation from sinheung
+  [Amendment_Rederivation_P2_Composition_Chain_2026-11-09.md:290]           ) and log l1528 write romania and hungary in their latest-period form; sinheung's hungary row began as romania's share (spec l138
+  [Amendment_Rederivation_P2_Composition_Chain_2026-11-09.md:292]           ) is the admitted source of the row; census l863 (
+  [Amendment_Rederivation_P2_Composition_Chain_2026-11-09.md:292]           ) is a national name key, not a statement about this city's row. austria was among the places
+  [Amendment_Rederivation_P2_Composition_Chain_2026-11-09.md:300]           used to be a german staple up until the mid-20th century
+  [Amendment_Rederivation_P2_Composition_Chain_2026-11-09.md:305]           (nns l106, l112; b). neither ground rules out an ancestry grouping (nns l108-110; b). act 1 stays open
+  [Amendment_Rederivation_P2_Composition_Chain_2026-11-09.md:313]           every stock arrived knowing how to preserve food
+  [Amendment_Rederivation_P2_Composition_Chain_2026-11-09.md:320]           p2 l62, p8 l62, p8 l396, p9 l57 and p9 l331 call korea a plurality that cannot impose; p8 l88-89 make the korean preserving tradit
+  [Amendment_Rederivation_P2_Composition_Chain_2026-11-09.md:350]  [CELL]  ) the ruled cluster is a 47.85% plurality
+  [Amendment_Rederivation_P2_Composition_Chain_2026-11-09.md:353]  [CELL]  compares pooled notable decimals ( dr-12 )
+  [Amendment_Rederivation_P2_Composition_Chain_2026-11-09.md:360]  [CELL]  ) stale count and partition; ungrounded labels c's wording for the list
+  [Amendment_Rederivation_P2_Composition_Chain_2026-11-09.md:366]  [CELL]  do the three jeju-do stocks act together in the city's life, and does anything sort by origin
+  [Amendment_Rederivation_P2_Composition_Chain_2026-11-09.md:377]  [CELL]  divergence) reasons from elapsed time then this place's own conditions acted on it: the moving ice, the thaw, the chamber works an
+  [Amendment_Rederivation_P2_Composition_Chain_2026-11-09.md:378]  [CELL]  ungrounded korea is 33.00%: primary, the founding stock, a plurality and not a majority. the ruled cluster is 47.85%, and c.3 find
+  [Amendment_Rederivation_P2_Composition_Chain_2026-11-09.md:381]  [CELL]  ) carries the verdict the file withdrew at l315 korea is the founding stock and the primary row (33.00%)
+  [Amendment_Rederivation_P2_Composition_Chain_2026-11-09.md:392]  [CELL]  the re-derived statement of am-p2-f4: korea's line first, then japan's, germany's and the sinian federation's; the mid-pools as ca
+  [Amendment_Rederivation_P2_Composition_Chain_2026-11-09.md:393]  [CELL]  is wrong; elapsed time the local conditions acting on every stock present ; c's wording for l93-94
+  [Amendment_Rederivation_P2_Composition_Chain_2026-11-09.md:396]  [CELL]  ) omits the three significant rows; japanese-derived words are national
+  [Amendment_Rederivation_P2_Composition_Chain_2026-11-09.md:399]  [CELL]  with geography (zone gap 3) as an additional factor (reg l62)
+  [Amendment_Rederivation_P2_Composition_Chain_2026-11-09.md:418]           the east asian cluster as ruled (korea, japan, the sinian federation)
+  [Amendment_Rederivation_P2_Composition_Chain_2026-11-09.md:418]           only as the ruling's recorded label; c names it by its members or as
+  [Amendment_Rederivation_P2_Composition_Chain_2026-11-09.md:418]           recommended (the narrower, because it applies the ruling as it stands without renaming it): keep the ruled label and state the mem
+  [Amendment_Rederivation_P2_Composition_Chain_2026-11-09.md:419]           for a distance argument recommended: no, not as one nation. name each row by its current name and zone; a pool needs a stated reas
+  [Amendment_Rederivation_P2_Composition_Chain_2026-11-09.md:813]           c proposed rewording it on population-share grounds and withdrew that in round 3, citing the developer's own
+  [Amendment_Rederivation_P2_Composition_Chain_2026-11-09.md:827]           the pass's wording stands with that qualifier
+  [Amendment_Rederivation_P2_Composition_Chain_2026-11-09.md:827]           the social claim killed for want of an admitted line. w7: the kill of
+  [Amendment_Rederivation_P2_Composition_Chain_2026-11-09.md:828]           ). w2: the minimal-group ground in xb-103b; the conclusion stands on other evidence. w3: the
+  [Amendment_Rederivation_P2_Composition_Chain_2026-11-09.md:828]           (xb-117) and the matching remark in its outer-edge answer. w6
+  [Amendment_Rederivation_P2_Composition_Chain_2026-11-09.md:829]           on population-share grounds (xc-203 item 10, first half). its sixth: the
+  [Amendment_Rederivation_P2_Composition_Chain_2026-11-09.md:851]           includes the finland row (a's self-correction); the pass's 9 has no source, and the register states no reckoning for its 3
+
+⚠ TRIAGE BY HAND. A miss is not yet a defect: the pass quoting ITSELF, and
+  connective prose captured between two adjacent quotations, both show here.
+  Confirm each at source before calling it a defect.

@@ -1,0 +1,9 @@
+== numbering: numbered piece P4: D=60, F=16, K=26, N=17, Q=11, R=14
+part files: 9; merged lines: 1727
+other-city names: none
+BRITISH SPELLING HITS (1): 542:analyses
+QUOTED STRINGS (14+ chars) checked against the admitted ranges of the reading list: not found anywhere: 4; found only outside an admitted range: 0
+  NOT FOUND   L1447 (section 9):  for D as 20%; A withdrew 
+  NOT FOUND   L1676 (section 9): about four times
+  NOT FOUND   L1686 (section 9): Most of the city stands on ice either way
+  NOT FOUND   L1701 (section 9): ** is a line headed 
