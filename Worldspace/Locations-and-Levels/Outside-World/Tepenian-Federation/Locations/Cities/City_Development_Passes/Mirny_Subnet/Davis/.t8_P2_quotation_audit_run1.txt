@@ -1,0 +1,65 @@
+pass audited : Davis
+corpus mode  : default (own pass excluded)
+corpus files : 6473   chars: 94,154,673
+files audited: Amendment_Rederivation_P2_Composition_2026-11-09.md
+own-pass mode: a quotation may also be found in this pass's OTHER files (never in its own file)
+
+=== POSITIVE CONTROLS ===
+  [easy                      ] FOUND     a terminus is nobody's midpoint
+  [HARD - blockquote wrap    ] FOUND     A pass may not proceed to Step 5 with a NEVER CITED row
+  [HARD - outside Worldspace ] FOUND     Paste raw QA scan output into the QA block. Never summa
+  [HARD - case mismatch      ] FOUND     YOU GO TO ESPERANZA AND YOU DO NOT COME HOME FOR FOUR Y
+  [HARD - long wrapped       ] FOUND     Different content is not differentiation; a different q
+
+  INSTRUMENT VALID: YES
+  NEGATIVE CONTROL (must be absent): PASS - absent
+
+=== QUOTATION AUDIT ===
+fragments tested (single-line, ellipsis-split, >=7 words): 203
+NOT FOUND in corpus: 39
+  of those, in TABLE CELLS : 4
+  of those, in PROSE       : 35
+
+  [Amendment_Rederivation_P2_Composition_2026-11-09.md:33]           (01 l88). the same bar stands at 02 l116-118, p2 l318 (a.2 limit 2) and p2 l1362 (section k). p2 l50 calls the per-nation model
+  [Amendment_Rederivation_P2_Composition_2026-11-09.md:101]           stays within 0.02 points in rows above about 10,000 people
+  [Amendment_Rederivation_P2_Composition_2026-11-09.md:180]           since no plurality can be named (am-p2-f4) and no row is named china (census l845). the
+  [Amendment_Rederivation_P2_Composition_2026-11-09.md:180]           contrast read as two arrival populations, since the tag is not a cohort (am-p2-f8)
+  [Amendment_Rederivation_P2_Composition_2026-11-09.md:222]           and route-like phrases about ports of approach: a pre-rework pool derivation, as ueic l601 says
+  [Amendment_Rederivation_P2_Composition_2026-11-09.md:244]           the french assumed a minority status relative to the british
+  [Amendment_Rederivation_P2_Composition_2026-11-09.md:251]           there is no 'the community' and no 'the newcomers'
+  [Amendment_Rederivation_P2_Composition_2026-11-09.md:288]           leads to no precedence politics, as the first of
+  [Amendment_Rederivation_P2_Composition_2026-11-09.md:298]           (p2 l631; 02 l250) is killed by evidence: the founder's row is not the founding cohort. the
+  [Amendment_Rederivation_P2_Composition_2026-11-09.md:337]           (p2 l354-355). the fourth order says that how a person came to be at davis sorts nobody
+  [Amendment_Rederivation_P2_Composition_2026-11-09.md:419]           if enough of its members keep the same practice
+  [Amendment_Rederivation_P2_Composition_2026-11-09.md:425]           is ungrounded for the small rows); p2 l1448 (a record; pointer only, dr-102 ); p2 l1469 (p.1 feeds phase 4 the two-layer structure
+  [Amendment_Rederivation_P2_Composition_2026-11-09.md:444]           has most often survived through traditional songs, dance and stories
+  [Amendment_Rederivation_P2_Composition_2026-11-09.md:454]           census l878: korea is south korea and north korea, and of jeju-do
+  [Amendment_Rederivation_P2_Composition_2026-11-09.md:471]           census l870 maps thailand to patani; census l871
+  [Amendment_Rederivation_P2_Composition_2026-11-09.md:471]           spec l28 lists the pools new at this city
+  [Amendment_Rederivation_P2_Composition_2026-11-09.md:538]           and that one method organizes everything do not depend on the row count, and
+  [Amendment_Rederivation_P2_Composition_2026-11-09.md:547]           (the same at treaty l140 and rwi l21). treaty l46 (ii.2.1, territorial)
+  [Amendment_Rederivation_P2_Composition_2026-11-09.md:547]           treaty l48 (ii.2.3); treaty l15. census l841, l845-871 and l877-878. log l1527. log l551 ( dr-19 ): the time-zone window gates the
+  [Amendment_Rederivation_P2_Composition_2026-11-09.md:565]           (p2 l1075-1076); what survives is membership, not rank (p2 l1077-1078). fire 11 (01 l78; p2 l317) reads the tiers as
+  [Amendment_Rederivation_P2_Composition_2026-11-09.md:584]           has no admitted line: killed for want of an admitted line (a, b, c)
+  [Amendment_Rederivation_P2_Composition_2026-11-09.md:584]           has a loose ground in phys l422: on upper earth before 2564
+  [Amendment_Rederivation_P2_Composition_2026-11-09.md:593]           (p2 l708, l713); the persistence test run on the journals, logs and orientation manuals (p2 l719-721)
+  [Amendment_Rederivation_P2_Composition_2026-11-09.md:597]           log l661 ( dr-26 ): the station's research (data, results, ongoing datasets), its equipment and its techniques, which a city may
+  [Amendment_Rederivation_P2_Composition_2026-11-09.md:625]           log l552 ( dr-19 ). log l648 ( dr-25 ): a row headed
+  [Amendment_Rederivation_P2_Composition_2026-11-09.md:625]           which rests on another location (not used). nns l21; nns l170
+  [Amendment_Rederivation_P2_Composition_2026-11-09.md:633]           and it fits every reader's own account of what the inheritance confers, b's included, since b's own answer to u-2 q27 lists capabi
+  [Amendment_Rederivation_P2_Composition_2026-11-09.md:645]           if a later phase writes a continuation, dr-26 's wording binds (log l663; a, b, c). no admitted pass line breaks that wording rule
+  [Amendment_Rederivation_P2_Composition_2026-11-09.md:708]           (p2 l424-425), which reads robots genealogically where canon gives
+  [Amendment_Rederivation_P2_Composition_2026-11-09.md:733]           ). treaty l46 (ii.2.1) keeps a robot channel open in law, with no term (
+  [Amendment_Rederivation_P2_Composition_2026-11-09.md:739]           and item 1, which concerns another location (not used), treats whether a founder
+  [Amendment_Rederivation_P2_Composition_2026-11-09.md:784]           under its founding-population heading. register l8-10 forbid any spec or pass to
+  [Amendment_Rederivation_P2_Composition_2026-11-09.md:784]           register l59 holds australia as founder, and its last cell (
+  [Amendment_Rederivation_P2_Composition_2026-11-09.md:797]           phase 2 builds headline findings on the treaty (h-1, b.1 to b.3, e.1, e.3, h.1 ), including
+  [Amendment_Rederivation_P2_Composition_2026-11-09.md:818]           the file now has 584 lines by both counts. the pass cites the spec's founding line as
+  [Amendment_Rederivation_P2_Composition_2026-11-09.md:853]  [CELL]  the bar at any precision the replacement sentence of am-p2-f3 and the bar of am-p2-f1
+  [Amendment_Rederivation_P2_Composition_2026-11-09.md:875]  [CELL]  no row's arrival order is recorded, so the host-and-guest model has no order to stand on; no later arrival is recorded
+  [Amendment_Rederivation_P2_Composition_2026-11-09.md:885]  [CELL]  unscoped (k); the fourth order (a) the figures of am-p2-f4; add the h8 condition (b); scope
+  [Amendment_Rederivation_P2_Composition_2026-11-09.md:1223]  [CELL]  cities and product variety: evidence from restaurants
+
+⚠ TRIAGE BY HAND. A miss is not yet a defect: the pass quoting ITSELF, and
+  connective prose captured between two adjacent quotations, both show here.
+  Confirm each at source before calling it a defect.

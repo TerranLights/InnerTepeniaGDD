@@ -1,0 +1,41 @@
+pass audited : Davis
+corpus mode  : default (own pass excluded)
+corpus files : 6473   chars: 94,154,673
+files audited: Amendment_Rederivation_P10_Character_Draft_2026-11-09.md
+own-pass mode: a quotation may also be found in this pass's OTHER files (never in its own file)
+
+=== POSITIVE CONTROLS ===
+  [easy                      ] FOUND     a terminus is nobody's midpoint
+  [HARD - blockquote wrap    ] FOUND     A pass may not proceed to Step 5 with a NEVER CITED row
+  [HARD - outside Worldspace ] FOUND     Paste raw QA scan output into the QA block. Never summa
+  [HARD - case mismatch      ] FOUND     YOU GO TO ESPERANZA AND YOU DO NOT COME HOME FOR FOUR Y
+  [HARD - long wrapped       ] FOUND     Different content is not differentiation; a different q
+
+  INSTRUMENT VALID: YES
+  NEGATIVE CONTROL (must be absent): PASS - absent
+
+=== QUOTATION AUDIT ===
+fragments tested (single-line, ellipsis-split, >=7 words): 83
+NOT FOUND in corpus: 15
+  of those, in TABLE CELLS : 1
+  of those, in PROSE       : 14
+
+  [Amendment_Rederivation_P10_Character_Draft_2026-11-09.md:16]           ( 04 phase 10 catalog.md l499) was a two-source result. the project's own character folders were never opened, refused or marked n
+  [Amendment_Rederivation_P10_Character_Draft_2026-11-09.md:305]           the draft's sourced role falls inside this role
+  [Amendment_Rederivation_P10_Character_Draft_2026-11-09.md:318]           is provisional after b's round 3 withdrawal of
+  [Amendment_Rederivation_P10_Character_Draft_2026-11-09.md:335]           provisional. no ruling states it yet (a). b withdrew its
+  [Amendment_Rederivation_P10_Character_Draft_2026-11-09.md:348]           her sourced work sits inside davis's established research function
+  [Amendment_Rederivation_P10_Character_Draft_2026-11-09.md:399]           no admitted line names the file that held the two matches. and l599 attributes them to
+  [Amendment_Rederivation_P10_Character_Draft_2026-11-09.md:422]           the folder's build descriptor says something about davis's robot builds
+  [Amendment_Rederivation_P10_Character_Draft_2026-11-09.md:430]           her role (schematics sent to the space-dwelling population) is further evidence for fusion 5's export reading (phase 10 l201-222)
+  [Amendment_Rederivation_P10_Character_Draft_2026-11-09.md:446]           in the present day ( 2822-2827), after this pass's frame
+  [Amendment_Rederivation_P10_Character_Draft_2026-11-09.md:456]           davis's present-day scale can be read from the general robot file's l430
+  [Amendment_Rederivation_P10_Character_Draft_2026-11-09.md:547]           in the current 03 the phase spine.md , the asks line (
+  [Amendment_Rederivation_P10_Character_Draft_2026-11-09.md:670]  [CELL]  her sourced work sits inside davis's established research function
+  [Amendment_Rederivation_P10_Character_Draft_2026-11-09.md:689]           a character in development; name to be chosen; siting developer-sourced
+  [Amendment_Rederivation_P10_Character_Draft_2026-11-09.md:731]           stp-06, and any later character sited in davis
+  [Amendment_Rederivation_P10_Character_Draft_2026-11-09.md:956]           the rulings log at l1711 does carry the developer's
+
+⚠ TRIAGE BY HAND. A miss is not yet a defect: the pass quoting ITSELF, and
+  connective prose captured between two adjacent quotations, both show here.
+  Confirm each at source before calling it a defect.

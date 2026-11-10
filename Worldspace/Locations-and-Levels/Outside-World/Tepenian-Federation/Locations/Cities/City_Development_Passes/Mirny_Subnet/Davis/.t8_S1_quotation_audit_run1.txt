@@ -1,0 +1,39 @@
+pass audited : Davis
+corpus mode  : default (own pass excluded)
+corpus files : 6473   chars: 94,154,673
+files audited: Amendment_Rederivation_S1_Step_Minus1_Composition_Region_2026-11-09.md
+own-pass mode: a quotation may also be found in this pass's OTHER files (never in its own file)
+
+=== POSITIVE CONTROLS ===
+  [easy                      ] FOUND     a terminus is nobody's midpoint
+  [HARD - blockquote wrap    ] FOUND     A pass may not proceed to Step 5 with a NEVER CITED row
+  [HARD - outside Worldspace ] FOUND     Paste raw QA scan output into the QA block. Never summa
+  [HARD - case mismatch      ] FOUND     YOU GO TO ESPERANZA AND YOU DO NOT COME HOME FOR FOUR Y
+  [HARD - long wrapped       ] FOUND     Different content is not differentiation; a different q
+
+  INSTRUMENT VALID: YES
+  NEGATIVE CONTROL (must be absent): PASS - absent
+
+=== QUOTATION AUDIT ===
+fragments tested (single-line, ellipsis-split, >=7 words): 30
+NOT FOUND in corpus: 13
+  of those, in TABLE CELLS : 3
+  of those, in PROSE       : 10
+
+  [Amendment_Rederivation_S1_Step_Minus1_Composition_Region_2026-11-09.md:35]           is killed; randomization narrows to two rows
+  [Amendment_Rederivation_S1_Step_Minus1_Composition_Region_2026-11-09.md:315]           pass-time l58-l236 equal current l82-l260 at 24 for 176 of 179 lines
+  [Amendment_Rederivation_S1_Step_Minus1_Composition_Region_2026-11-09.md:348]           l243 is right; l286 is in the other numbering
+  [Amendment_Rederivation_S1_Step_Minus1_Composition_Region_2026-11-09.md:574]  [CELL]  (00.1 l179) killed by evidence spec l78
+  [Amendment_Rederivation_S1_Step_Minus1_Composition_Region_2026-11-09.md:581]  [CELL]  narrows to 100.004% within rounding b, c
+  [Amendment_Rederivation_S1_Step_Minus1_Composition_Region_2026-11-09.md:623]           name the same 44 lines a . the coverage table's heading at 00.1a l73 says
+  [Amendment_Rederivation_S1_Step_Minus1_Composition_Region_2026-11-09.md:624]           k . 00.1a l232 records the spec as 181 lines, so
+  [Amendment_Rederivation_S1_Step_Minus1_Composition_Region_2026-11-09.md:738]           through the tag is barred (dr-99 item 2) a . whether
+  [Amendment_Rederivation_S1_Step_Minus1_Composition_Region_2026-11-09.md:855]           can only mean the post-relabel significant rows
+  [Amendment_Rederivation_S1_Step_Minus1_Composition_Region_2026-11-09.md:918]  [CELL]  are pass-time; l167's wording changed; the oasis class is open. wording: l167 (wording changed; partial strike kept; use held unti
+  [Amendment_Rederivation_S1_Step_Minus1_Composition_Region_2026-11-09.md:1068]           mean, in particular whether the last column records exile groups. blocks: the open
+  [Amendment_Rederivation_S1_Step_Minus1_Composition_Region_2026-11-09.md:1266]           can only mean the post-relabel significant rows
+  [Amendment_Rederivation_S1_Step_Minus1_Composition_Region_2026-11-09.md:1294]           replaced by use held and g3 conditional (w4)
+
+⚠ TRIAGE BY HAND. A miss is not yet a defect: the pass quoting ITSELF, and
+  connective prose captured between two adjacent quotations, both show here.
+  Confirm each at source before calling it a defect.

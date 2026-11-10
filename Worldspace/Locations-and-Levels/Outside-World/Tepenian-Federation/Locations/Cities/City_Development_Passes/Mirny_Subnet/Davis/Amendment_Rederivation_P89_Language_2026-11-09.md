@@ -1,0 +1,1479 @@
+# Davis amendment re-derivation piece P89: Phases 8 and 9, language (what Davis speaks; the Language row of the robot module) (2026-11-09)
+
+> **Status: PROPOSED. Nothing is applied.** Three independent readers (A, B, C) re-derived this piece from one
+> frozen brief. A mechanical Round 2 check confirmed each read its files. In a Round 3 cross-check, each reader
+> read the other two outputs and recorded agreements, differences and withdrawals. One merge writer, who took
+> no part in Round 1, wrote this document under merge rule M-246 and its 2026-11-04 refinements. The first
+> check's single reader for item C-6 is a seventh view with a different brief; its finds are unioned and
+> credited to `K`. **No pass file, spec, census or source was edited.** This piece is appended beside the pass
+> (DR-101) and enters through the amendment note (LOG L1703 item (3)). Davis only, on its own terms.
+
+**Conventions.** Text in double quotation marks is an exact quotation of a source line or of a reader's output, and
+each quotation sits on one physical line. Proposed wording written by this merge is set as an indented block or in
+plain text, never in quotation marks.
+
+**Abbreviations.** SPEC = the Davis spec (admitted L1-3, L5-8, L10-81); BLOCS = `Language_Blocs_By_City_2026-11-03.md`
+(L916-930); SETS = `Language_Sets_By_City_Reference_2026-11-03.md` (L30, L58, L71); LOG = `DEVELOPER_RULINGS_LOG.md`
+(L1628-1637, L1664-1672, L1698-1706); PHYS = `Robot_Physiology_and_Cultural_Practices.md`; P6, P7, P8, P9 = Davis's
+Phase 6, 7, 8 and 9 files; SPINE = Davis's `02_Spine.md`; ULM03 = `03_The_Phase_Spine.md` (L133-201, L955-1100);
+00b, 00d = the two discipline files; S1 = the Step −1 re-derivation piece (L17-46); ORCH n = the brief's
+orchestrator-verified result n. A, B, C = the three readers; K = the first check's reader.
+
+## 0. In short
+
+- **Changes (firm, as ruled; confirmed by all three).** Davis's dominant language is Hawaiian (later Tepenian).
+  Its supporting tier is English, Mandarin, Japanese and German: English's midpoint is 21.400, so the cutoff is
+  9.400. Phase 8 §E.1 and the city half of hole H48 can now say this (AM-P89-F1).
+- **Flag.** German is in by 0.530 points only because Austro-Bavaria's 1.39 is counted as German; without it,
+  German is out by 0.860. Real-world sources support the mapping. Carried as ruled (AM-P89-F11).
+  The tier is also sensitive to the English range and, under one illustrative method, to the reserved decision on
+  four rows; it is carried as computed on the current shares (AM-P89-N9, AM-P89-N10).
+- **Changes (the most consequential).** Phase 9's Language row (P9 L92) merges a language with a habit of argument.
+  The Module delivers a vernacular language (PHYS L426); the claim-register is social convention, learned by living
+  here (PHYS L422). The row is split in two (AM-P89-F7).
+- **Stands.** The positive half of Phase 8 §E.2: someone from Davis makes a claim by reaching for the dated entry.
+  Its derivation has no language input, so it is carried in Hawaiian and in each supporting language
+  (AM-P89-F10).
+- **Killed for want of an admitted line.** "it is not an accent", "NOT HOW THEY PRONOUNCE IT", "not a dialect" and
+  "the one Davis marker". That the habit travels survives as conditional. Whether Davis has an accent, local words or
+  contact features is unwritten (AM-P89-F9).
+- **Narrowed.** "Davis is Act 2" becomes: opens in Act 1, mostly Act 2. Phase 6's claim that the proposition is
+  "the only thing the whole city does the same way" needs a qualifier, because the city also shares a dominant
+  language (AM-P89-F12).
+- **Stale.** "21-fold" and "21 internal communities" become 45 origin rows (DR-104 item (2)). H48's group half stays
+  open, now on DR-100 item (5), and concerns origin rows, not communities (AM-P89-F2).
+- **Open.** What each origin row speaks among itself; the builders' language beyond a Hawaiian floor; when
+  Hawaiian becomes Tepenian; any Davis accent or vocabulary; how robots produce speech; the language of
+  Davis's record; whether the Module delivers supporting-tier languages or a local form.
+- **Sent to the developer.** Whether what marks someone as from Davis may be written as a claim of
+  distinctiveness (AM-P89-Q7), plus twelve other PROVISIONAL questions (section 5).
+
+## 1. Findings re-derived
+
+### AM-P89-F1 What Davis speaks, at city level (Phase 8 §E.1; the city half of H48; XC6-32, XC6-39)
+
+- **Pass finding.**
+  - P8 L248: "⛔ **What any given community speaks is NOT written, and `DR-4` defers the distribution.** **`H48`.**"
+  - P8 L320: "| `H48` | **What Davis's 21 internal communities actually speak** — `DR-4` deferred |"
+- **Current inputs.**
+  - LOG L1669 item (1): "Hawaiian (later Tepenian) is the dominant language everywhere" (the rest of the item names another location: not used).
+  - LOG L1669 item (2), a supporting tier is: "a language that is not dominant but widely enough understood that business, social talk and general dealings can be done in it and people can be assumed to follow"
+  - LOG L1669 item (3): "A city's supporting tier is **every language group within 12 percentage points of its largest group** (mid-points of the ranges; nations sharing a language are summed); the set can have several members."
+  - BLOCS L922: "| English | 17.02 | 25.78 |"
+  - BLOCS L923: "| Mandarin | 13.29 | 14.08 |"
+  - BLOCS L924: "| Russian | 4.46 | 11.61 |"
+  - BLOCS L925: "| Japanese | 10.42 | 10.42 |"
+  - BLOCS L926: "| German | 9.93 | 9.93 | Germany 8.54; Austro-Bavaria 1.39 |"
+  - BLOCS L927: "| Korean | 8.35 | 8.35 |"
+  - SETS L71: "| Davis | English 17.0–25.8 | Japanese 10.4, German 9.9 | 4 |" (its column headers are not admitted; all three readers and K use the trailing 4 only as a consistency check).
+  - LOG L1703 item (3): "the language rule enters through the note."
+- **Re-derived statement (strength: firm, as ruled; German's membership conditional on the Austro-Bavaria mapping, AM-P89-F11).**
+
+  > At Davis, as everywhere in Tepenia, Hawaiian (later Tepenian) is the dominant language. Davis's supporting tier
+  > is English, Mandarin, Japanese and German. In each of the four, business, social talk and general dealings can
+  > be done, and people can be assumed to follow.
+
+- **Arithmetic (A, B and C each computed it; all three reproduce it in Round 3; K computed it by hand, K XC6-7).**
+  English midpoint 21.400; cutoff 9.400. Margins: Mandarin +4.285, Japanese +1.020, German +0.530; Korean −1.050,
+  Russian −1.365, Indonesian −3.510.
+- **The largest group counts as a member.** All three readers read the rule as including the largest group itself,
+  which gives four members and matches SETS L71 (A snag 5; B snag 4; C XC-247). If the developer meant the tier to
+  exclude the largest group, it would have three members; nothing else here changes.
+- **General-population guard (A; 00b).** The tier is a city-level property. It does not say that every resident
+  speaks all five languages, or which resident speaks which. No sector's working language may stand for the city's.
+- **Pass locations affected.** P8 L248 (the city-level clause is now answerable); P8 L320 (H48 must be split);
+  P8 L247 (the civic layer now also carries a national dominant language); P8 L292 (AM-P89-F12);
+  P9 L92 (AM-P89-F7).
+- **What stays.** The caution that what any one origin row speaks among itself is not written (AM-P89-F2).
+- **Robustness.** A and B wrote in Round 1 that Mandarin's membership does not depend on the four reserved rows.
+  Both withdrew that in Round 3. The narrower statement is at AM-P89-N10.
+- **Disposition:** `confirmed by all three` (K concurs).
+
+### AM-P89-F2 What each origin row speaks among itself (the group half of H48; XC6-29, XC6-38)
+
+- **Pass finding.**
+  - P8 L247: "⚠ **Davis's composition is 21-fold with a thin, procedural civic layer over it** *(Phases 2 and 6)*."
+  - P8 L248 and L320, quoted at AM-P89-F1.
+- **Current inputs.**
+  - SPEC L32-76: 45 rows (ORCH 1).
+  - LOG L1703 item (2): "All 45 rows of Davis's composition are origins; Phase 2 reasons by headcount, with no cutoff."
+  - LOG L1669 item (5): "The shares are national-origin shares, not speaker counts, and the mapping of nations to languages is recalled knowledge, not verified"
+  - PHYS L230: "stock, people, and local culture named separately"
+- **Re-derived statement (strength: null, a result).** Reader A's wording, adopted:
+
+  > What any of Davis's 45 origin rows speaks among itself is not written, and it cannot be worked out from the
+  > shares: they are origin shares, not speaker counts, and the nation-to-language mapping is recalled, not verified.
+
+  None is sited here; that is not a statement that none is possible here.
+- **Ground.** The ground moves from DR-4 to DR-100 item (5). DR-4's own text is in no reader's list, so whether it
+  still applies is unchecked (A Limits; B snag 2; C XC-248; K XC6-49). C adds the divergence operator (PHYS L200-L206):
+  composition names the stock, not the speech.
+- **The unit is the origin row.** Whether an origin row forms a speech community at Davis is itself unwritten
+  (A XA-2; B XB-101 (c), on PHYS L229-L230). C wrote of 45 origin communities in Round 1 and withdrew that in
+  Round 3 (C W3).
+- **What a finding would need (A, C).** Real-world language-vitality work ties maintenance to group size, and also
+  to concentration, mixed marriage and institutional support such as schools, media and religion (A §8 S16; C
+  searches 9 and 26). None of these is written for any Davis origin. No reader reasons from the elapsed time.
+- **Origin material stays admissible (K, single-reader find).** K reads the rule against national stereotypes:
+  once composition is established, origin material is admissible, and a pass that refuses it "will produce placeless cities"
+  (K XC6-10, citing that file at L56-57 and L68; the file is not in the readers' list). So this null is written as
+  not written, never as refused. Under the merge rule's named exception, an origin-language finding that a later
+  source supplies is demoted to a conditional or seed reading, never excluded. K gave no strength word; this is
+  recorded as a guard, not as a finding about any language. No reader and not K assigns any language to any row.
+- **Pass locations affected.** P8 L247, L294 and L320 (count and unit); P9 L77 and L96 (count);
+  P6 L204, L207 and L347 (the same count in the belief layer; pointer only, outside P89).
+- **What stays.** The pass's refusal to state any origin row's language, and its refusal to assert a distribution
+  (P8 L308). DR-100 item (5) now grounds it on its own.
+- **Disposition:** `confirmed by all three` for the null and its ground. The unit (origin rows, not communities):
+  `conflict resolved to the narrower reading` (C withdrew communities). The admissibility guard: `found by one` (K).
+
+### AM-P89-F3 The Acts and language; "Davis is Act 2" (XC6-30)
+
+- **Pass finding.**
+  - P9 L76-L77, as A quotes it: "**Davis is Act 2, where origin is ancestry rather than identity, and its composition is 21-fold with no single thread to anchor to** *(Phase 2)*."
+  - P9 L96: "**21 origin stocks, Act 2 — origin is ancestry, not identity**"
+- **Current inputs.**
+  - PHYS L221: "| **ACT 1** *(2564 → early 2600s)* | still *"X who live in Antarctica"* — origin cultures FRESH |"
+  - PHYS L223 (Act 2, late 2600s or early 2700s on): "**origin is ancestry, not identity**"
+  - PHYS L229: "⚠ **The Second Interwar spans both Acts and is mostly Act 2.**"
+  - PHYS L226 (the mechanism, C): "**not the creation of unity**"
+  - SPINE L490 (A): "- **Does not say when anything happened inside the frame.** The transition is undated *(fire #12)*."
+  - K reaches the same point from the rule against national stereotypes, L112 (K XC6-10; not in the readers' list).
+- **Re-derived statement (strength: firm, a qualifier).**
+
+  > Davis's frame (2564–2812) opens in Act 1 and is mostly Act 2.
+
+- **For language.**
+  - The group-level null (AM-P89-F2) holds in both parts of the frame, for different reasons: in the
+    Act 1 part the content is unwritten; in the Act 2 part, origin as ancestry does not settle what is spoken at
+    home (A, C). No date and no elapsed-time reasoning is used.
+  - The dominant language applies in both Acts (B XB-109 (b), firm): DR-100 item (1) gives no date, and LOG L1632
+    has Hawaiian already in place "at the time of the signing of the Falkland Treaty". `found by one` (B).
+  - **Seed (B; a labeled inference, withdrawn in Round 3 from conditional to seed).** In the Act 2 part, keeping a
+    home language would be "keeping an origin practice alive", which SPINE L110 lists as a grudging tolerance;
+    SPINE L143 calls the grudging tolerances "*permitted, unpoliced, and charged to the individual*". No admitted
+    line says a home language is an origin practice. A population-origin seed: demoted, not excluded.
+- **The lens.** Phase 9's lens decision (city-locality, not founding-nation threads) survives without "Davis is Act 2",
+  on its other ground: 45 rows, the largest Japan at 10.42% (SPEC L32; ORCH 2), so there is no single thread.
+- **Pass locations affected.** P9 L76-L77 and L96 need the qualifier and the count.
+- **What stays.** Origin as ancestry, not identity, for the Act 2 part; the lens decision.
+- **Disposition:** the qualifier `confirmed by all three` (K concurs). The dominant language across both Acts:
+  `found by one` (B). The home-language seed: `found by one` (B).
+
+### AM-P89-F4 Hawaiian or Tepenian within the frame (XC6-31)
+
+- **Pass finding.** None; the pass names no language.
+- **Current inputs.**
+  - LOG L1632, the developer's general statement, verbatim (the rest of that ruling concerns another location: not used): "the de-facto national language is Hawaiian, and later becomes Tepenian. But at the time of the signing of the Falkland Treaty, it's Hawaiian."
+  - LOG L1669 item (1): "Hawaiian (later Tepenian)"
+- **Re-derived statement.** Write Hawaiian (later Tepenian), undated, wherever the amendment names the dominant
+  language. **Strength: firm for the wording; null for the timing.** No admitted line dates the treaty or the change,
+  and none says whether becoming Tepenian is a renaming or a successor language.
+- **Source needed.** The national-language canon and the treaty date (neither is in this piece's list).
+- **Pass locations affected.** None false.
+- **Disposition:** `confirmed by all three`. Question at AM-P89-Q4.
+
+### AM-P89-F5 Is DR-100's dominant language the "dominant local culture" the Module tracks? (XC6-26)
+
+- **Pass finding.** P9 L92 reads the Module's dominant local culture as Phase 6's civic layer:
+  - P9 L92 (excerpt): "⚠ **Davis's dominant local layer is thin and procedural** *(Phase 6)*"
+  - P8 L247 frames the civic layer the same way.
+- **Current inputs.**
+  - PHYS L426: "**Robot vernacular language tracks the dominant local culture and the community who had her built — robot, human, or both"
+  - PHYS L426, the example: "a robot who comes online and develops where the dominant local culture and the residents who built her are Chinese-speaking speaks Chinese, delivered at least in part through the Language Module (exact mechanism not yet determined)."
+  - LOG L1669 item (1).
+  - PHYS L217 (A): "⛔ **And `Robot_Universals/` Ch. 13 still seats identity in CITY-LOCALITY**"
+- **Re-derived statement (strength: conditional).**
+
+  > For the Language Module, the dominant local culture at Davis speaks Hawaiian (later Tepenian).
+
+  It needs one bridging reading: that the language of the Module's dominant local culture is DR-100's dominant
+  language, read at city scale. That is the recommended yes at AM-P89-Q1 and the recommended city reading
+  at AM-P89-Q6.
+- **Two supporting grounds.**
+  - A: PHYS L217 seats identity in city-locality, which favors the city-scale reading. `found by one` (A); B and C
+    accepted it in Round 3.
+  - B: no origin culture can be the dominant local culture at Davis, because the largest row is about a tenth
+    (SPEC L32) and no row is near a majority. P9 L62 already says "***51.3 / 48.7 IS NOT DOMINANCE.***" of the
+    robot and human split. The only dominant language any admitted line names for Davis is Hawaiian.
+    `found by one` (B); C adopted it in Round 3.
+- **The pass's reading is killed for the language question.** Phase 6's thin civic layer is a standard of truth, not a
+  language; the Module's input is a language (AM-P89-K3).
+- **Pass locations affected.** P9 L92; P8 L247 (as a reading of the Module).
+- **What stays.** Phase 6's thin civic layer, as a finding about belief (outside P89).
+- **Disposition:** `confirmed by all three` (conditional; K concurs at K XC6-15).
+
+### AM-P89-F6 The language of the community that had a Davis robot built (XC6-27)
+
+- **Pass finding.** P9 L92 names "the community who had her built" and then drops it from its conclusion (C).
+  P9 L89: "⇒ **Davis's local interests are agriculture, research, and the record**"
+- **Current inputs.**
+  - PHYS L424 (Build): "which local robot community initiated it, and for what local interest or need (not an individual robot's personal whim, and not human commissioning either, though that hasn't vanished as a possibility)"
+  - PHYS L426: "the community who had her built — robot, human, or both"
+  - PHYS L418 (C): robots' clan sense rests on "geography and ideas/experience, not genetics"
+  - PHYS L436 (A, C), open: "who specifically initiates a given build within a local community and how (a request process, an assignment, something else) — not yet resolved."
+- **Re-derived statement (after Round 3; strength: conditional for the Hawaiian floor, null beyond it).** C's merged
+  wording from its Round 3 reply, adopted:
+
+  > Hawaiian is in a Davis robot community's members' vernacular (conditional); what the community speaks among
+  > itself is not written.
+
+  - The floor rests on applying the PHYS L426 rule to the building community's own robot members, conditional on
+    AM-P89-Q1 (C's ground; A preferred it in Round 3 over B's original ground, because dominant does not by
+    itself establish that every member speaks it).
+  - Null: whether a building community also uses a supporting-tier or origin language among itself, and anything
+    about a human or mixed building community. No admitted line names the language of any Davis building community.
+- **It cannot be read off the origin table (A, C).** A building community is defined by a local interest or need,
+  not by origin (A, PHYS L424); robot community rests on geography and shared experience, not genetics (C, PHYS L418);
+  and DR-100 item (5) says origin shares are not speaker counts. P9 L89 names interests, not languages, so it supplies
+  no language. `found by two` (A, C).
+- **Seed (A).** If building communities are interest communities, nothing ties their language to an origin, which
+  points toward Hawaiian or a supporting language. A seed only; not written. `found by one` (A).
+- **Pass locations affected.** P9 L92 must state that this half exists and is unwritten (AM-P89-F7).
+- **What stays.** P9 L89 as a statement of interests, not as evidence about language.
+- **Disposition:** `confirmed by all three` after Round 3. A withdrew its bare null for the floor (A W4); B withdrew
+  its sentence that the Module's two inputs point at the same language (B withdrawal 3).
+
+### AM-P89-F7 Phase 9's Language row: a language and a habit of argument, kept apart (XC6-28)
+
+- **Pass finding.** P9 L92: "| **Language** | **The Module tracks the dominant local culture AND the community who had her built.** ⚠ **Davis's dominant local layer is thin and procedural** *(Phase 6)* ⇒ **what she acquires is the claim-register** *(Phase 8 §E.2)* |"
+- **Current inputs.**
+  - PHYS L420: "three separate things get set at fabrication, not two"; the three are "Personality, Build, and Language"
+  - PHYS L426: Language is "a fully separate, third phenomenon"; it is "delivered at least in part through the Language Module (exact mechanism not yet determined)"
+  - PHYS L422: "social convention all develop **emergently, through lived experience**"
+  - PHYS L216 (B, C): "**The transmission channel is the COMMUNITY, not the fabrication**"
+  - SPINE L172-L173: Davis's characteristic form of argument is show me the entry. A form of argument is a social convention (C).
+- **Re-derived statement.** Two things, traveling by two routes.
+  - **Vernacular (strength: conditional).** Delivered at least in part through the Module, which tracks the dominant
+    local culture (Hawaiian, later Tepenian: AM-P89-F5) and the community that had her built
+    (AM-P89-F6).
+  - **The claim-register (strength: firm, for the separation).** It is a social convention, so it develops through
+    lived experience at Davis (PHYS L422), with the community as the channel (PHYS L216). It is not a Module output.
+    Because the Module's mechanism is undetermined, the admitted set does not say whether the Module also carries
+    any pragmatic habit; PHYS L422 assigns social convention to lived experience, so the conservative reading is
+    by living here (C).
+- **Proposed Language row (PROPOSED; for the amendment note; the pass is not edited).**
+
+  > Language. Vernacular: Hawaiian (later Tepenian), the dominant language (DR-100 item (1); PHYS L426), plus the
+  > language of the community that had her built, which no admitted line states for any Davis build (a Hawaiian
+  > floor where a local robot community initiated it), delivered at least in part by the Language Module, mechanism
+  > undetermined. Habit of argument: the claim-register (Phase 8 §E.2), learned by living here, as every resident
+  > learns it, human or robot; not a Module output. Supporting tier (English, Mandarin, Japanese, German): canon does
+  > not say whether the Module delivers any of them.
+
+  The row is written for Davis-built robots. B wrote it that way because Phase 9's "born at Davis" (P9 L88) rests on
+  `Robot_Universals/` Ch. 13 and Ch. 14, which no reader could check (AM-P89-Q1).
+- **Defects in the pass row.**
+  - It merges a language with a habit of argument (all three; K XC6-15).
+  - Its premise reads Phase 6's standard of truth as the Module's dominant local culture (AM-P89-K3).
+  - It drops the builders' half from its conclusion. `found by one` (C).
+  - Its "AND" is unmarked added emphasis (AM-P89-N22).
+  - K notes that this row borders a reversal rather than a narrowing, because the answer changes kind, from a habit
+    to a language (K XC6-48). `found by one` (K).
+- **Pass locations affected.** P9 L92 (false as an inference). P9 L33's receipt of the Language Module stays (C).
+- **What stays.** The citation of the Module rule and the §B.1 table structure; the claim-register itself, moved off
+  the Module and onto lived experience.
+- **Disposition:** `confirmed by all three` (K concurs).
+
+### AM-P89-F8 Which languages a Davis exchange can move between (XC6-32)
+
+- **Pass finding.** None. Phase 8 §E carries no statement on code-switching, though its own template line asks for it.
+  - P8 L238: "accent, code-switching, slang, and what dialect"
+  - ULM03 L987-L989 lists the same component (A, B).
+- **Current inputs.** LOG L1669 items (2) and (3); BLOCS L922-L927.
+- **Re-derived statement.**
+  - **Availability (strength: firm, as ruled, for Hawaiian, English, Mandarin and Japanese; conditional for German,
+    on the flag at AM-P89-F11).** A Davis exchange can be carried on in Hawaiian, and business, social talk
+    and general dealings can also be done in English, Mandarin, Japanese or German, with people assumed to follow.
+    This states what is available, not frequency, domain, or who switches.
+  - **Proposed sentence for §E** (B's docket wording, adopted): "An exchange at Davis can move between Hawaiian and the four supporting languages; whether, when and how often people switch is not written."
+  - **Outside the tier (null, C).** Other languages may be spoken wherever groups keep them, but nothing admitted says so.
+- **What real-world settings show (strength: seed; sources, not specifications).**
+  - Switching in a trilingual society runs by domain, occupation and interlocutor, and in a news corpus is mostly the
+    insertion of single words (A §8 S12, Luxembourg).
+  - Receptive use: each party speaks their own language and understands the other's; its success turns on attitude,
+    contact and exposure, and linguistic distance (A §8 S18). DR-100 item (2)'s own list of examples includes
+    "Norwegian in Denmark" (LOG L1669), which is that case (A).
+  - Where several languages are widely understood, switching depends on the speaker, the place and the kind of talk,
+    mostly at the phrase level (B search 14, Singapore).
+  - Words from heritage languages enter the shared variety, often without speakers knowing which language a word came
+    from (C search 29, Singapore).
+- **Guards.** No claim that this sets Davis apart, and no comparison (all three). No sector's working language
+  stands for the city's (A; 00b). For robots, see AM-P89-N4. The harbor as a candidate working
+  domain is a seed at AM-P89-N17.
+- **Slang.** P8 L306's refusal ("Does not invent games, humor forms, dishes, garments, instruments or slang.") stands
+  (B, C).
+- **Pass locations affected.** None false; an addition to §E is proposed (AM-P89-D12).
+- **Disposition:** `confirmed by all three` after Round 3 (A withdrew its conditional for the availability statement,
+  A W5; C narrowed German to conditional, C W5; B refined the same split). The real-world seeds: each `found by one`
+  (A for Luxembourg and receptive use; B and C for Singapore, which makes that one `found by two`).
+
+### AM-P89-F9 A Davis accent, contact features or loan vocabulary (XC6-33)
+
+- **Pass finding.**
+  - P8 L250: "## E.2 ⭐⭐⭐ But the MARKER is derivable, and it is not an accent"
+  - P8 L255's negative half and P8 L256's "not a dialect" (AM-P89-F10).
+- **Current inputs (canon).** No admitted line describes Davis pronunciation, vocabulary or contact features, in
+  Hawaiian or in any supporting language. **Canon: null** (all three; K XC6-13).
+- **What real-world populations of many origins who share a language show** (research run by all three readers;
+  sources, not specifications; strings at section 8).
+  - Locally born children form a new local variety; the majority variant usually, but not always, wins (A S1, F1).
+  - Older children drive the new-town variety, and leveling is faster in a new town (A S2, F3). Focusing is
+    "substantial but not complete" in the first child generation, and demography and the social networks of
+    individuals are crucial to the outcome (B search 2; C search 1).
+  - In an acquired common language, older speakers keep features of their first languages, and the pronunciation
+    "rapidly coalesced" among younger native speakers (A F5, Modern Hebrew; C could not confirm those two words).
+    Modern Hebrew is also described as having "no dialects in the traditional sense" (B searches 15-16), so absence of
+    dialects is a real outcome too.
+  - First-generation adult learners carry their first language into pronunciation: in Pidgin Hawaiian, "Allophonic variation typically reflected first language interference"
+    (B search 3; C search 8; confirmed by A and C in Round 3).
+  - A group's size does not predict its contribution: the largest immigrant group's substrate influence in Hawaiʻi
+    Creole English was slight (A S4; B search 4 corroborates); in Singapore, discourse particles entered in waves tied
+    to which language was dominant in an era (A S13-S14); substrate comes from the groups present when a variety
+    stabilized (B search 4; B and C on Mufwene).
+  - High diversity supplies a feature pool, and children take the local variety from peers, fairly uniformly across
+    ethnic groups (A S17; C search 4). Sound and discourse features arrive together (B search 13), so a claim habit
+    and a pronunciation are not alternatives.
+  - Population mobility is a leading explanation of low regional variation, though recent work finds some regional
+    vowel differences and calls the evidence thin (A S11, Australian English).
+  - Settlers extend vocabulary for a new environment by borrowing or repurposing words (A S19).
+  - An isolated adult winter group showed measurable convergence within one winter, not yet perceptible as an accent
+    (B search 1; C search 27; confirmed in Round 3). See AM-P89-K13 for the wording.
+- **The divergence operator, from Davis's own data.**
+  - **Separation (all three).** Davis sits on the `Hwy 110` main line with road and air links (P7 L357-L358) and is a
+    year-round import port (P7 L158-L161). It is not isolated. In the comparables, low separation goes with leveling,
+    not with sharp local difference (A); an isolation study is not a direct comparable for a connected city (B, C).
+  - **Environment (A; seed).** "residents track MULTIPLE, DISTINCT local environmental calendars rather than one unified seasonal clock"
+    (P6 L117-L118, as A quotes it; Tier 3 material, opened at Step 5). By the settler-vocabulary comparable, it is a
+    candidate field for vocabulary. No word is invented. `found by one` (A); B accepted it as a seed.
+  - **Struggles, goals and habits.** The only speech habit Davis's data supplies is the claim-register (A, C).
+  - **Arrival order (B, C).** Absent from Davis's data, so founder and substrate reasoning cannot run
+    (AM-P89-K12).
+  - **Composition (B; seed only).** The largest row is 10.42% (SPEC L32), so no single input would dominate leveling;
+    B itself notes this rests on a reading DR-100 item (5) warns against.
+  - **The robot majority (all three).** Every comparable is human; robots, 51.20% of Census I (ORCH 3), acquire
+    language at least in part through the Module, a channel no comparable has. See AM-P89-N15,
+    AM-P89-N6 and AM-P89-N2.
+- **Divergence stated (A).** In the settler comparables the shared language was the settlers' own. At Davis no origin
+  row names a Hawaiian-speaking origin (on the recalled mapping DR-100 item (5) flags), so the closer comparables in
+  shape are acquired common languages (Modern Hebrew; the Hawaiʻi plantation contact language). `found by one` (A).
+  B's seed on the plantation case is at AM-P89-N20.
+- **Re-derived statement.**
+  - **Null** (all three): whether Davis's Hawaiian or its supporting languages carry local pronunciation features,
+    features from origin languages, or loans. No word, sound or particle is invented.
+  - **Seed** (B, C; A accepted B's XB-106 in Round 3): a local form of Hawaiian at Davis is plausible by the
+    comparables, but nothing in Davis's data specifies a feature of one.
+  - **Guards.** No origin-colored Davis Hawaiian may be written: that would treat origin shares as speakers and a
+    real-world source as a specification (B). A share does not predict a contribution (A). Whether any Davis feature
+    would set a speaker apart is a comparison and belongs to the terminal check (A; AM-P89-Q7).
+  - B reports from the 2019 paper's body that adult accent is "labile in adulthood"; A and C could not confirm the
+    phrase in Round 3. It is used only to keep travel conditional (AM-P89-F10).
+- **Pass locations affected.** P8 L250, L255 and L256 (AM-P89-K4, AM-P89-K5, AM-P89-K6).
+- **What stays.** P8 L306's refusal to invent slang.
+- **Disposition:** the null `confirmed by all three` (K concurs). The plausibility seed `found by two` (B, C). The
+  lexical-field seed and the divergence statement each `found by one` (A). A new hole for Davis speech features is
+  proposed at AM-P89-D13.
+
+### AM-P89-F10 The claim-register, restated against Hawaiian and the four supporting languages (XC6-34)
+
+- **Pass finding.**
+  - P8 L252-L253, as A quotes it: "**Phase 6 and Phase 7 both landed on the same thing: Davis's form of argument is *show me the entry*, and its standard of truth is *what was written down when it happened*.**"
+  - P8 L255: "> # ⇒ ⭐⭐⭐ ***WHAT MARKS SOMEONE AS FROM DAVIS IS HOW THEY MAKE A CLAIM, NOT HOW THEY PRONOUNCE IT.***"
+  - P8 L256: "> **A register, not a dialect** — **the habit of reaching for the record as the natural form of assertion.**"
+  - P8 L258: "✅ **General-population safe:** **everybody makes claims.**"
+  - P8 L259: "⭐ **And it travels: it is the one Davis marker that would still be audible in someone who had left.**"
+- **Current inputs (the grounds the pass names).**
+  - SPINE L164: "***Davis's environment can be learned from written observation because it is STATIONARY.***"
+  - SPINE L171: "2. *Second:* ⭐ **verification replaces authority.** Nobody here has to be *believed* — the ground can be checked."
+  - SPINE L172-L173: Davis's characteristic form of argument is show me the entry, and its characteristic form of authority is a dated observation rather than a person.
+  - SPINE L175-L176, as B quotes it: "The record is not a library. It is the city's only instrument of agreement."
+  - P6 L99: "What was written down when it happened is true. What was not written down cannot be said."
+  - P6 L105 sources its clause to "`02` §3.1: *verification replaces authority*"
+  - P7 L212: "| **What Davis's instrument covers** | **Series, entries, dates, observations.** **`02` §3.1: verification replaces authority; the form of argument is *show me the entry*** |"
+  - P6 L128 (B): "This city AGREES ON ENTRIES WITHOUT AGREEING ON CONCLUSIONS."
+  - P7 L216 (B): "***Davis's governance is REGISTRARIAL, not legislative.***"
+  - SPINE is T8-verified (A).
+- **Re-derived statement.**
+  - **(a) The positive half (strength: firm, as to its derivation).** Every premise sits in the stationary ground and
+    the documentary inheritance, and in the registrar-style order built on them. None involves language or
+    composition. So the habit is independent of language (all three; K XC6-18 and XC6-19). Proposed wording,
+    peer-free (the distinctiveness question is at AM-P89-Q7):
+
+    > Someone from Davis makes a claim by reaching for the record: the dated entry is the warrant (show me the
+    > entry). It is a habit of argument, not a feature of any one language, and it is carried in Hawaiian and in each
+    > supporting language alike. Whether Davis speech also carries an accent, local words or contact features is
+    > not written.
+
+  - **(b) Carried across languages (strength: conditional; A, B).** A speech community can be defined by shared norms
+    of use across several varieties (A §8 S6, Gumperz). Immigrants fluent in two languages carried request habits
+    across both but realized them differently in each (A S7; B search 7). A habit of marking where a claim comes from
+    crossed into another language and outlived its source (A S20, Andean Spanish; the divergence: there the habit came
+    from a language that encodes it, at Davis from a civic standard). Children's reasoning about information sources
+    did not depend on their grasp of evidential grammar (C search 20). None of these studies evidence-citing directly
+    (B).
+  - **(c) Its surface form will differ by language (strength: seed; A gave conditional, B and C seed).** WALS 77A codes
+    Japanese and German with indirect evidential marking only, and Mandarin and English with no grammatical
+    evidentials (C searches 13-19; B searches 9-10 agree). Nothing is found for Hawaiian (C and B, each a dead end).
+    Not adopted; recorded so a later pass does not search again.
+  - **(d) Both phases carry one source.** P6 L105 and P7 L212 both cite SPINE §3.1, so "both landed on the same thing"
+    overstates independence (AM-P89-K10).
+  - **(e) The exclusions go.** AM-P89-K4, AM-P89-K5, AM-P89-K6, AM-P89-K7.
+  - **(f) The habit travels (strength: conditional, all three after Round 3).** A habit of argument plausibly goes
+    with someone who leaves. Whether a habit or an accent survives a move intact is not settled (B; the Siegel review
+    at A F7 says age matters less for adults).
+  - **(g) General-population safe (strength: firm; all three).** The habit is stated of everyone who makes claims.
+    Phase 6's guard keeps it general: a series is "a crop ledger or a household's own carried record as readily as an observation run"
+    (P6 L316-L317, as B quotes it).
+  - **(h) The word "register".** It is kept with a gloss: a habit of argument, not a language variety (B's term; A and
+    C agree on a gloss). P8 also uses "register" for dress (AM-P89-N18).
+- **Pass locations affected.** P8 L250, L252, L255, L256 and L259; P8 L331, the feed to Phase 10 (AM-P89-N19).
+- **What stays.** The positive marker, its general-population scope, and its derivation through Phases 6 and 7.
+- **Disposition:** the positive half `confirmed by all three` (K concurs). Carried across languages (conditional)
+  `found by two` (A, B). The surface-form seed `confirmed by all three`. Its framing as what marks someone as from
+  Davis: `conflict sent to the developer` (AM-P89-Q7).
+
+### AM-P89-F11 German's place in the tier (XC6-35, XC6-39)
+
+- **Current inputs.** BLOCS L926: "| German | 9.93 | 9.93 | Germany 8.54; Austro-Bavaria 1.39 |"; LOG L1669 item (5);
+  SPEC L53 (Austro-Bavaria 1.39%).
+- **Arithmetic (all three; reproduced in Round 3).** German is 9.93, in by +0.530. Without Austro-Bavaria it is 8.54,
+  out by −0.860. At Census I the Austro-Bavaria row is 16,840 people and the Germany row 103,416 (SPEC L35, L53;
+  `found by one`, A; B and C reproduced it).
+- **Real-world check (sources, not specifications).**
+  - A (S15, F9): "Bavaria and Austria officially use Standard German as the primary medium of education", and "Educated Bavarians and Austrians can almost always read, write and understand Standard German".
+  - B (searches 11-12): Bavarian carries its own ISO 639-3 code (`bar`); "most of its speakers can code-switch to Standard German"; Austria's Federal Constitutional Law, Art. 8, makes German "die Staatssprache der Republik".
+  - C (searches 10-11): the Glottolog classification path for Bavarian runs through High German nodes (labels not shown).
+  - That is DR-100 item (2)'s own test (understood well enough for dealings), so the real world supports the mapping.
+- **Limits.** No admitted line states the in-world language of the spec's Austro-Bavaria (A, B, C).
+- **Re-derived statement.** Carry the four-member tier as ruled, with German flagged (amendment-note line at
+  AM-P89-D32). **Strength: firm for the arithmetic; conditional for the membership; seed for the
+  real-world corroboration (C).** DR-100 is not reopened.
+- **A guard (B).** German in and Korean out does not turn on a gap between Germany (8.54) and Korea (8.35): both fall
+  below the cutoff alone, and only the Austro-Bavaria sum separates them. The Japan and Korea pair is different
+  (AM-P89-N1). The tier must never be read as saying that German-origin residents outnumber, or speak
+  more than, Korean-origin residents (B; DR-100 item (5)).
+- **Disposition:** `confirmed by all three` (K concurs; K XC6-39).
+
+### AM-P89-F12 Does a dominant language change Phase 6's "only thing" and Phase 8 §G's shared items? (XC6-36)
+
+- **Pass finding.**
+  - P6 L203: "| ⭐ **The thin civic layer** | ***The proposition*** *(§A.2)*. **Procedural, belongs to nobody, works for everybody — and it is the only thing the whole city does the same way** |"
+  - P8 L292: "| ⭐ The genuinely shared items | **The lit-vault food supply** · **the two-register daily crossing** · **the claim-register** · **the leisure fact** |"
+  - P7 L381-L382 (C), as A quotes it in Round 3: "Davis's governance is the upkeep of the one thing everybody shares"
+- **Current inputs.** LOG L1669 item (1); LOG L1632, the developer: "the de-facto national language is Hawaiian".
+- **Re-derived statement.**
+  - **P6 L203's "only" is false without a qualifier (strength: firm; all three; K XC6-16).** The whole city also
+    shares a dominant language. A's wording, adopted by B and accepted by C after C withdrew its own (C W1):
+
+    > ...and it is the one standard of truth the whole city shares; alongside it the city shares a dominant language,
+    > Hawaiian (later Tepenian), which is national rather than Davis's own.
+
+    (Strength of the wording: conditional, as A gave it.)
+  - **P8 L292 gains one item:** the dominant language (Hawaiian, later Tepenian), labeled national, not Davis's own,
+    and kept visibly apart from the Davis-specific items (A, C). B would also add the supporting tier as a shared
+    item; C objects that the tier is a set of four languages each widely understood, not one item every resident
+    shares, and belongs in §E.1. Written to the narrower reading: the tier is not added to §G.
+  - **P7 L381-L382 needs the same qualifier** (C XC-227): the upkeep of the one standard of truth everybody shares.
+    `found by one` (C); A and B accepted the site in Round 3, with A's form of words.
+  - **Caution (A, C).** Dominant does not mean every resident speaks it; DR-100 does not state universal speakership.
+    The item is shared as the dominant medium, not necessarily as everyone's home language.
+- **A pre-existing inconsistency (B, C).** P6 L203's "only" and P8 L292's four shared items could not both stand
+  unqualified even before DR-100 (B XB-120). C reaches the same point through P6 L287 (the night the whole city
+  observes) and P8 L292's leisure fact; B notes in Round 3 that P6 L287 is the shared night, not the leisure fact, and
+  that both are national items. DR-100 adds one more shared item.
+- **Why this sharpens Phase 6.** A language is a medium; the proposition is a standard. The dominant language fails
+  the peer-free swap test as a Davis item because it could be true anywhere (A; ULM03 L1089-L1090), and K reaches the
+  same point from the rule against national stereotypes, where national identity is "not a differentiator" (K XC6-19).
+  So the habit of argument, not the language, stays the Davis-specific shared item (A).
+- **Pass locations affected.** P6 L203; P8 L292; P7 L381-L382.
+- **Disposition:** the narrowing `confirmed by all three`. The P8 L292 supporting-tier addition:
+  `conflict resolved to the narrower reading`. The P7 site: `found by one` (C). The pre-existing inconsistency:
+  `found by two` (B, C). The swap-test reason: `found by two` (A, K).
+
+### AM-P89-F13 The Sumerian refusal (Phase 8 §E.3; H49) stands
+
+- **Current inputs.** PHYS L426 frames Sumerian as "a liturgical register" adopted by particular robots or factions,
+  "not a vernacular any ordinary robot speaks day to day".
+- **Re-derived statement.** DR-100 governs vernacular and supporting languages; it does not touch a liturgical
+  register. P8 §E.3 (L261-L271) and H49 stand as written. **Strength: firm (unchanged).**
+- **Limit.** The Sumerian file itself is not in this piece's list (A).
+- **Disposition:** `found by two` (A, C). B first called it out of scope and accepted A's reading in Round 3.
+
+## 2. Killed or narrowed findings
+
+Each item is classed as **killed by evidence**, **killed for want of an admitted line**, or **narrowed**.
+
+### AM-P89-K1 "21-fold", "21 internal communities", "21 origin stocks" — killed by evidence
+
+- **Where.** P8 L247, L294, L320; P9 L77, L96; P6 L21, L204, L207, L347; P7 L379 (C; B corrected its own L380 to
+  L379 in Round 3); SPINE L107 ("**21 origins, largest at 19.04%**").
+- **Evidence.** SPEC L32-76 has 45 rows (ORCH 1); LOG L1703 item (2). K adds that the rule's Davis values are computed
+  across rows beyond any 21: BLOCS L922 has seven English contributors and L924 has fifteen Russian ones (K XC6-17;
+  checked against BLOCS L922 and L924).
+- **Disposition:** `confirmed by all three` (K concurs). K's contributor count: `found by one` (K).
+
+### AM-P89-K2 "⇒ what she acquires is the claim-register", as the Module's output (P9 L92) — killed by evidence
+
+- **Evidence.** PHYS L420 and L426 make the Module's output a vernacular language; PHYS L422 assigns social convention
+  to lived experience (AM-P89-F7).
+- **Disposition:** `confirmed by all three` (K concurs).
+
+### AM-P89-K3 The thin civic layer read as the Module's "dominant local culture" (P9 L92; P8 L247) — killed by evidence, for the language question
+
+- **Evidence.** LOG L1669 item (1) supplies a dominant language; Phase 6's layer is a standard of truth, not a language
+  (A); C calls the pass's move a category substitution that PHYS L426 does not support.
+- **Disposition:** `confirmed by all three`.
+
+### AM-P89-K4 "it is not an accent" (P8 L250) — killed for want of an admitted line
+
+- **Ground.** Phases 6 and 7 say nothing about pronunciation, and no admitted line addresses Davis pronunciation either
+  way. The comparables cut against presuming its absence (AM-P89-F9).
+- **Disposition:** `confirmed by all three` (K: unsourced).
+
+### AM-P89-K5 "NOT HOW THEY PRONOUNCE IT" (P8 L255, negative half) — killed for want of an admitted line
+
+- **Ground.** As above. How Davis speakers pronounce is not written. For the robot majority, voice production is not
+  described (AM-P89-N15). The positive half survives (AM-P89-F10).
+- **Disposition:** `confirmed by all three` (K concurs).
+
+### AM-P89-K6 "not a dialect" (P8 L256) — killed for want of an admitted line
+
+- **Ground.** Read as a claim about Davis speech, "not a dialect" has no admitted line behind it; whether Davis speech
+  has dialect features is open (AM-P89-F9).
+- **The split.** In Round 1, A narrowed the phrase (true as a classification of the habit) while B and C killed it.
+  In Round 3, A withdrew its narrowing (A W2): in linguistics a register is itself a variety tied to a situation of
+  use, so "a register, not a dialect" contrasts two kinds of variety, and the claim habit is neither. C, which had not
+  seen that withdrawal, endorsed A's Round 1 split as more precise (the classification survives). Written to the
+  narrower reading: the phrase is killed, and the word "register" is kept with a gloss (a habit of argument, not a
+  language variety), as B, C and A's withdrawal all allow (AM-P89-F10 (h)).
+- **Disposition:** `conflict resolved to the narrower reading` (A's withdrawal is evidence for the narrower reading).
+
+### AM-P89-K7 "it is the one Davis marker that would still be audible in someone who had left" (P8 L259) — "the one" killed for want of an admitted line; its reasoning contradicted by evidence; "travels" narrowed
+
+- **"The one" (all three).** No admitted line says nothing else would travel.
+- **Its reasoning is contradicted by evidence (A).** Pronunciation acquired in childhood also travels with a speaker
+  who leaves. The LINGUIST List review of Siegel (2010) reports that "native-like usage of phonological features is very difficult after 7 years of age"
+  (A F7; B and C each re-fetched it and confirmed it in Round 3). The reviewer also says age matters less for adult
+  learners, which is why travel stays conditional.
+- **A further reason (K).** A person's command of the supporting languages also goes with them when they leave
+  (K XC6-13). `found by one` (K).
+- **"It travels" (narrowed to conditional).** A wrote that it survives as a plain property of speech habits and withdrew
+  that to conditional in Round 3 (A W3); B and C held conditional throughout.
+- **Disposition:** `confirmed by all three` for the kill, the added class (B accepted A's class at B A-6; C at C W6)
+  and the conditional; K's further reason `found by one` (K).
+
+### AM-P89-K8 "Davis is Act 2" (P9 L76; also L96) — narrowed by evidence
+
+- **Narrowed to** opens in Act 1, mostly Act 2 (PHYS L229). The lens built on it survives (AM-P89-F3).
+- **Disposition:** `confirmed by all three` (K concurs).
+
+### AM-P89-K9 "the only thing the whole city does the same way" (P6 L203) — narrowed by evidence
+
+- **Narrowed to** the one standard of truth the whole city shares; a dominant language is also shared
+  (AM-P89-F12). The same applies to P7 L381-L382.
+- **Disposition:** `confirmed by all three`; wording per AM-P89-F12.
+
+### AM-P89-K10 "Phase 6 and Phase 7 both landed on the same thing" (P8 L252) — narrowed by evidence
+
+- **Narrowed to** one source and two carriers: P6 L105 and P7 L212 both cite SPINE §3.1 (A XA-10 (b)).
+- **Disposition:** `found by one` (A); B (B A-5) and C (C W4) accepted it in Round 3.
+
+### AM-P89-K11 "What any given community speaks is NOT written, and `DR-4` defers the distribution" (P8 L248) — narrowed by evidence
+
+- **The split.** A and B class the sentence as narrowed: its city-level clause is now answered by DR-100 and its
+  group-level clause stays open on DR-100 item (5). C classes the city half as killed by evidence and the group half as
+  narrowed (C XC-221). Written to the narrower reading: **narrowed by evidence**, with the city half superseded and the
+  group half re-grounded (AM-P89-F1, AM-P89-F2).
+- **DR-4.** Whether DR-4 still reaches the group half is unchecked by every reader (its text is not in any list).
+- **Disposition:** `conflict resolved to the narrower reading`.
+
+### AM-P89-K12 A candidate raised and killed: the real-world founder principle applied to a Davis accent — killed for want of an admitted line
+
+- **The candidate.** In real-world creole formation, the founder population's features gain a selection advantage
+  (C search 28; B search 5, Mufwene).
+- **Why it cannot run at Davis.** It needs arrival order, and Davis's data does not carry it:
+  - CENSUS L33's tag (ORCH 4): where a nation is named as a city's founder in `Founding_Register.md`, its row carries
+    the tag "(founding wave)"; the tag says nothing about when people arrived.
+  - SPINE L250 (D5): "No arrival narrative"
+  - SPEC L78: the shares are "identical between censuses" (B).
+  - DR-104 item (2) has Phase 2 reason by headcount, not by order of arrival (B).
+- **Recorded** so a later pass does not reach for it. No finding reads English's place in the tier as a founding-wave
+  inheritance (A Limits).
+- **Disposition:** `found by two` (B, C); A accepted it in Round 3.
+
+### AM-P89-K13 Two phrasings in C's accent finding — narrowed
+
+- **The phrasings.** C XC-210 (5): "Isolation measurably speeds convergence." C XC-215: the comparables lead one to
+  expect local features "in a long-settled many-origin population".
+- **A's Round 3 objection.** The winter study measured convergence within one winter in one isolated group, with no
+  non-isolated control, so "speeds" implies a comparison the study does not make; and "long-settled" leans on elapsed
+  time, which the brief bars. C did not answer this (C's reply was written without sight of A's).
+- **Written to the narrower reading.** Measurable convergence within one winter in one isolated adult group, not yet
+  perceptible as an accent; "long-settled" is dropped (AM-P89-F9).
+- **Disposition:** `conflict resolved to the narrower reading`.
+
+### AM-P89-K14 A readers' claim withdrawn: "Mandarin's membership does not depend on the reserved rows" — narrowed by evidence
+
+- **The claim.** A XA-1 (robustness line) and B XB-115 ("So no tier finding depends on the reserved shares").
+- **The evidence.** C's Command 2, scenario S2, reproduced by A and B in Round 3, shows Mandarin falling 0.114 below a
+  raised cutoff when the freed points go to the six largest rows (AM-P89-N10).
+- **Narrowed to:** Mandarin stays in if no other row moves, or if every row scales in proportion; it can fail under a
+  redistribution to the largest rows.
+- **Disposition:** `found by one` (C); A (A W1) and B (B withdrawal 1) withdrew the stronger claim in Round 3.
+
+## 3. New findings
+
+### AM-P89-N1 The tier boundary falls between two origins of the same tier (Japan in, Korea out)
+
+- **Inputs.** SPEC L20: "| Primary | Japan, Sinian Federation, United Kingdom, Germany, Korea |"; BLOCS L925 (Japanese
+  10.42, Japan alone) and L927 (Korean 8.35, Korea alone); LOG L1703 item (1): DR-12 stands for Davis on its first ground,
+  and "no finding rests on a gap between two nations of the same tier".
+- **Finding (strength: conditional).** DR-100 item (3) puts Japanese in and Korean out; both are single Primary rows,
+  so the line falls inside the 2.07-point gap between two nations of the same tier. The tier is a ruled output, not a
+  pass finding, so it stands. But any pass sentence that leaned on Korean being outside the tier would rest on exactly
+  the gap DR-12's first ground forbids. Being outside the tier says nothing about whether Korean is spoken at Davis
+  (DR-100 item (5)).
+- **B's narrowing (Round 3).** B had written that the bar "is not engaged"; that holds for Germany and Korea
+  (AM-P89-F11) but not for Japan and Korea. B narrowed it: the bar is not engaged by the tier itself, but it is
+  engaged by any finding that leans on a particular origin being outside the tier (B withdrawal 4). C's Limits sentence
+  (membership rests on bloc sums) is corrected the same way for this pair (A Round 3).
+- **Disposition:** `found by one` (A); B and C accepted it. Question at AM-P89-Q5.
+
+### AM-P89-N2 For the robot half, the origin shares are a modeling convention
+
+- **Inputs.** SPEC L78: "Robot figures apply the same proportions as the human population."; BLOCS L918 counts 619,764
+  robots inside the bloc shares; PHYS L426 gives a robot's language by the dominant culture and her builders, not by
+  national origin; robots are 51.20% of Census I (ORCH 3).
+- **Finding (strength: conditional).** The bloc ranges, and so the tier, are computed on origin shares applied to robots
+  in the same proportions as to humans. For the robot majority, the tier's footing runs through the languages of their
+  builders, which are unwritten (AM-P89-F6). This is not a reason to reopen DR-100; it is a reason not
+  to read the tier as a description of robots' repertoires.
+- **Disposition:** `found by one` (A); B accepted it, and C adopted it in Round 3 as an extension of its own limit that
+  the human comparables transfer only partly to robots (C XC-229).
+
+### AM-P89-N3 PHYS L426's example assumes a dominant local culture that is not Hawaiian-speaking
+
+- **Inputs.** PHYS L426's example (a Chinese-speaking dominant local culture and builders); LOG L1669 item (1); PHYS L217.
+- **Finding (strength: conditional).** If local means the city, DR-100 item (1) rules the example's case out for any
+  Tepenian city, and the example then illustrates only the form of the rule, or its builders' half. If local can mean a
+  smaller setting (a household, a community), a robot who develops in an origin-language setting could receive that
+  language through the Module's first input, which would reopen AM-P89-F2 from the robot side. PHYS L217 seats
+  identity in city-locality, which favors the city reading. The source is never edited; the docket carries a note only
+  (AM-P89-D31).
+- **Disposition:** `found by one` (A). B (B A-11) said its own XB-111 silently assumed city scale and that the assumption
+  should be stated; C added "at city scale (PHYS L217)" to its own condition. Question at AM-P89-Q6.
+
+### AM-P89-N4 Canon does not say the Module delivers any supporting-tier language
+
+- **Inputs.** PHYS L426 (two inputs only; "at least in part"; mechanism "not yet determined"); PHYS L422.
+- **Finding (strength: null, with its reason).** Canon names two Module inputs. It does not say a Davis robot receives
+  English, Mandarin, Japanese or German, unless one of them is her builders' language. She may acquire them by living
+  here, but canon states that channel only for social convention. So for robots, the tier's people-can-be-assumed-to-
+  follow is unwritten as to its channel. It must not be written as robots not speaking them (A).
+- **Disposition:** `found by two` (A XA-17; B XB-114 (ii)); C accepted it. Question at AM-P89-Q8.
+
+### AM-P89-N5 PHYS L426 does not say what a robot gets when its two inputs differ
+
+- **Finding.** L426's only example has the dominant local culture and the builders coinciding. The file does not say
+  what a robot gets when they speak different languages (B XB-103, XB-114 (i)). This bears on every Davis build whose
+  builders' language is not Hawaiian.
+- **Disposition:** `found by one` (B); C called it a real gap; A treated it as complementary to its own scale question.
+  B's provisional reading (both, where they differ) is at AM-P89-Q1.
+
+### AM-P89-N6 Does the Module deliver a local form or a national standard?
+
+- **Finding (strength: null; a question).** Real-world new-variety research puts young speakers at the center (B, citing
+  Kerswill and Williams 2000), and a new robot's language arrives at least in part through the Module. If the Module
+  delivers a national standard, the main real-world engine of a local accent is weakened for half the city; if it
+  delivers a local form, it may fix one (B XB-106, XB-114 (iii)). Both are open.
+- **Related.** A's research question on accent formation where most of a population acquires the common language
+  through a channel other than childhood, for which no real-world comparable exists (AM-P89-R19).
+- **Disposition:** `found by one` (B); C accepted it. Question at AM-P89-Q8.
+
+### AM-P89-N7 Robots as long-lived carriers of their builders' language across the two Acts
+
+- **Inputs.** PHYS L215: "**Robots live longer, so a single individual spans more of the divergence**"; PHYS L67: "They do not age in the biological sense"; PHYS L420 (language is set at fabrication, B); PHYS L216; PHYS L221 and L223.
+- **Finding (strength: seed at Davis).** A robot built in the Act 1 part of the frame, whose builders spoke an origin
+  language, carries that language into the Act 2 part. In the robot half the Act gradient in speech plausibly runs by
+  build cohort; in the human half, by generation (B). As a national mechanism it fails the peer-free swap test as a
+  Davis finding (A). At Davis its weight is unknown: what builders spoke is unwritten, and who left between the censuses
+  is not recorded (SPINE L488: "- **Does not say who left, or which communities.**"). The Module mechanism is
+  undetermined, and B reports that adult speech is labile.
+- **Strength note.** A gave conditional for the national mechanism and seed at Davis; B gave seed. Written at seed.
+- **Disposition:** `found by two` (A XA-18; B XB-109 (d)); C accepted it.
+
+### AM-P89-N8 D4 ("no shortfall vocabulary"), restated against a shared language (pointer; outside P89)
+
+- **Inputs.** SPINE L249 (D4, addressed IN THE PARENT); P6 L251: "**A ritual for shortfall would require a way of SAYING shortfall.**"; LOG L1669 item (1).
+- **Finding (strength: conditional, interpretive).** Once Davis speaks the national dominant language, D4 cannot be a gap
+  in any of Davis's languages: the language that carries the parent's vocabulary is the one Davis speaks. D4 must then
+  be read as the absence of a local, admissible way to use that vocabulary, a gap in the register, not in the lexicon.
+  This sharpens D4: the words are available to everyone, and using them is the act that concedes the failure.
+- **Disposition:** `found by one` (A). B accepted it as a pointer (low-medium); C left it to the Step 2 piece.
+
+### AM-P89-N9 The tier depends on the midpoint convention and on the English range
+
+- **Inputs.** LOG L1669 item (3) (midpoints); LOG L1668: "the developer's exact words for them are not captured in any file"; BLOCS L922.
+- **Finding (strength: firm, the arithmetic).** On the ruled midpoint convention the cutoff is 9.400. Taking English at its
+  low end (17.02) gives 5.020, which would bring Korean, Russian and Indonesian in (seven groups). Taking it at its high
+  end (25.78) gives 13.780, which would leave English alone (Mandarin 13.685 out). The 8.76-point spread is exactly the
+  Philippines 3.06, Malaysia 2.95 and South Africa 2.75 rows, counted in English's high bound only (C). The convention is
+  ruled and applied as recorded, never re-derived case by case (A); it is recorded as a flag, not a reopening.
+- **Real-world context (C; secondary sources; not in-world).** English is a household language for 8.7% in South Africa
+  (Census 2022, via a Stats SA-sourced table); about 1.4% are native speakers in Malaysia; 63.71% of Filipinos aged 5 and
+  over could speak English in the 1995 census. None of this says what the in-world populations speak.
+- **Disposition:** `confirmed by all three` (A XA-20; B XB-115; C XC-223). Recording it as an amendment-note flag:
+  `found by one` (C), accepted by A and B (AM-P89-D33; AM-P89-Q11).
+
+### AM-P89-N10 Mandarin's membership under the reserved decision on four rows
+
+- **Inputs.** ORCH 9 (the exact shares of the Taiwan, Mongolia, East Turkestan and Tibet rows are reserved by DR-85; no
+  finding may depend on them); SPEC L32-L76 shares; C's Command 2, reproduced by A and B in Round 3.
+- **Finding (strength: conditional; a flag only).** The four rows contribute 3.647 points to Mandarin's high bound.
+  - With them removed and nothing else moved: Mandarin 10.430 against 9.400, in (+1.030); the Sinian Federation row
+    alone is 9.720 (+0.320).
+  - With them removed and every other row scaled in proportion (S1): cutoff 10.210; all four members stay in.
+  - With them removed and the freed points routed to the six largest rows by size (S2): cutoff 10.544; Mandarin 10.430,
+    out by 0.114. S2 borrows a method SPEC L28 records for a different step; it is not a ruled method for this decision,
+    and S1 treats L28 only as a limit, so S2 is strictly illustrative (A, Round 3).
+  - So the tier is carried as computed on the current shares, with a note that the reserved decision could change
+    Mandarin's membership under some methods.
+- **Disposition:** `found by one` (C); A and B withdrew their contrary claim (AM-P89-K14). Question at
+  AM-P89-Q12.
+
+### AM-P89-N11 Stale figures in the files this piece read (pointers; the composition pieces own them)
+
+- **Where, and the current figures.**
+  - P8 L18 and L106: "51.34%" of Census I; current 51.20% (SPEC L15; ORCH 3).
+  - P9 L16-L17, L57-L62 (C narrows it to L59-L60), L67, L143 and L174: Census I 563,599 humans and 594,715 robots,
+    and the 51.3 / 48.7 split; current 590,668 and 619,764, 51.20 / 48.80; Census II current 454,101 and 363,374
+    (SPEC L15-L16). The not-dominance finding stands on the new figures (C).
+  - SPINE L107: "**21 origins, largest at 19.04%**"; current 45 rows, the largest 10.42% (ORCH 1, 2).
+  - SPINE L108 and L250: the founders at 4.93%; the row now tagged (founding wave) in the spec, Australia, is 5.74%
+    (ORCH 2; C; B accepted in Round 3).
+  - SPINE L112-L114, L389 and L394 (A; B confirmed L389 and L394 read 67.48%, 57.87% and 77.61%): retention now
+    67.54% combined, 76.88% humans, 58.63% robots (ORCH 3).
+- **Strength: firm (the figures).** None of these changes a language finding (B).
+- **Disposition:** `confirmed by all three`.
+
+### AM-P89-N12 P8 L146's "876,515 people" is a weighted workforce, not a population
+
+- **Inputs.** P7 L87: "**Davis's workforce: 876,515** *(robots + 0.5 × humans)*"; P8 L146 uses the figure as a head count
+  of people (A, B, C).
+- **Arithmetic (C Command 3; A; reproduced by B).** From the pass-time census, robots plus half the humans is 876,514.5,
+  against a head count of 1,158,314. On the current census the same formula gives 915,098, and the head count is
+  1,210,432 (SPEC L15).
+- **Finding.** The figure was wrong when the pass was written (C: killed by evidence). Proposed: drop the figure, or
+  state the Census I head count (B, C; A accepted this in Round 3). Whether the workforce source itself has been
+  recomputed is outside this list (A).
+- **Disposition:** `confirmed by all three`. Confidence split: A and B medium, C high; written at medium in the docket.
+
+### AM-P89-N13 Stale spine addresses, and a defect the spine has since resolved
+
+- P8 L5 cites "`03` L953" for its Asks line; the current address is ULM03 L957.
+- P9 L5 cites "`03` L1024"; the current address is ULM03 L1028.
+- P9 §Q.2 (L246) records a methodology defect, the comparative swap test. The current spine already runs the peer-free
+  form (ULM03 L1089-L1094).
+- Under DR-102 nothing is reworded; the amendment note states the current addresses. **Strength: firm.**
+- **Disposition:** `found by one` (A); B and C each confirmed the addresses in Round 3.
+
+### AM-P89-N14 The language of Davis's record is unwritten, and it bears on the marker
+
+- **Inputs.** SPINE L176: the record is the city's only instrument of agreement; the form of argument is show me the
+  entry (SPINE L172-L173).
+- **Finding (strength: null; a new hole).** No admitted line says what language the inherited record is in, or what
+  language Davis's own entries are kept in. The reach of show me the entry depends on it: whoever cannot read the
+  record's language cannot use the city's warrant (A). It must not be inferred from the real-world station's operator:
+  the station-builder is a coordinate only (B; DR-19). If the record and the dominant language differ, show me the entry
+  would carry a translation step: a seed for a later pass, not a finding (B).
+- **Disposition:** `found by two` (A §6 item 1; B XB-112); C accepted it in Round 3. Docket at
+  AM-P89-D35; question at AM-P89-Q10.
+
+### AM-P89-N15 How robots produce speech is not described in the general physiology file
+
+- **Inputs.** PHYS L9: "They do not breathe." PHYS L297: internal air systems exist "not for respiration, but for **thermal regulation and sensory input processing**".
+- **A's nuance (Round 3).** PHYS L297 also says "These systems move air or vapor-equivalent substances through internal chambers",
+  so not breathing does not mean no airflow. The voice mechanism is still unwritten.
+- **Finding (strength: null, as a limit).** Robots are 51.20% of Census I (ORCH 3), so any claim about how Davis sounds is
+  unsupported for the majority body until voice production is written. This bears on every pronunciation claim, not
+  only on Davis's. A request, not something this piece fills (AM-P89-R1).
+- **Disposition:** `found by one` (B); A accepted it with the nuance; C adopted it as the governing limit on any accent
+  finding.
+
+### AM-P89-N16 The spine's "common medium" now has a candidate spoken content (flag; routed to the Step 2 piece)
+
+- **Inputs.** SPINE L109: "**Carrying a common medium across cohorts**" (G8's standing cost); the spine never names the
+  medium.
+- **Finding (strength: seed).** DR-100 item (1) supplies a national spoken medium. If speech is meant, the standing cost
+  that stays Davis's own falls on the record (B). Recorded so the amendment note can say DR-100 bears on G8 without
+  asserting the reading (C). A routes it to the Step 2 piece.
+- **Strength note.** B gave conditional (low confidence), C seed, A a pointer; written at seed.
+- **Disposition:** `confirmed by all three`.
+
+### AM-P89-N17 The harbor as a candidate working domain for a supporting-tier language (seed)
+
+- **Inputs.** P7 L158-L167: Davis is an import port where "Cargo transfers between blue-water shipping and the national highway network"
+  and raw materials arrive from Upper-Earth countries through neutral hubs. Real world: the IMO's 2001 Standard Marine
+  Communication Phrases set "a common language - namely English - should be established for navigational purposes"
+  (C search 22). English is in Davis's tier.
+- **Not written.** Whether ships reaching Davis are crewed from Upper Earth or only from the hubs, and whether harbor
+  workers deal with foreign crews directly.
+- **Guard (00b).** Harbor speech is a sector's practice, not the city's.
+- **Disposition:** `found by one` (C); A and B accepted it as a seed. Request at AM-P89-R11.
+
+### AM-P89-N18 "Register" carries two senses in Phase 8
+
+- **Inputs.** P8 L190 (B, Round 3): "***Davis is a two-register city with a daily transition between them.***" (dress,
+  indoor and outdoor). §E.2's claim-register is a habit of argument.
+- **Finding.** A merge that reads both into one piece could conflate them. A gloss in the amendment note is enough
+  (AM-P89-F10 (h)).
+- **Disposition:** `found by one` (C); A and B accepted it.
+
+### AM-P89-N19 Phase 8's feed carries the unnarrowed marker to Phase 10
+
+- **Inputs.** P8 L331: "| ⭐⭐ **Phase 10 — Catalog** | **§A.1's schedule axis · §C.2's two registers · §E.2's claim-register** — *the three things a character from here would carry* |"
+- **Finding.** If Phase 10 copied §E.2's exclusions, the same correction applies there. Phase 10 is not in any reader's
+  list, so this is a pointer (A, B, C). The habit itself still feeds Phase 10, without the exclusions (C).
+- **Disposition:** `confirmed by all three`. Request at AM-P89-R7.
+
+### AM-P89-N20 A real-world precedent for Hawaiian as the shared language of many origins (seed; not adopted)
+
+- **Source (B search 3; C search 8).** By the 1880s, Pidgin Hawaiian was the primary contact medium of Chinese,
+  Portuguese and Japanese contract laborers on the plantations; pronunciation varied with the speaker's first language;
+  English-based speech later displaced it (APICS survey 71). B also reports that it largely kept the sound contrasts of
+  Hawaiian; C could not confirm that phrase in Round 3.
+- **Divergence.** In Tepenia, Hawaiian is the dominant national language, not a plantation contact variety, and Davis's
+  residents are not contract laborers. What carries over is only the shape: first-generation adult speakers of a
+  shared Hawaiian keep origin-varying pronunciation.
+- **Not adopted.** DR-100 item (5) forbids mapping it onto Davis's shares.
+- **Disposition:** `found by one` (B) as a seed; the plantation-pidgin source itself was used by A, B and C.
+
+### AM-P89-N21 P6 L204's "each sustainable internally at full scale" is unsupported at 45 rows
+
+- **Inputs.** P6 L204: "**21 origin stocks, each sustainable internally at full scale.**"; the four smallest rows are 152,
+  212, 230 and 240 people at Census I (ORCH 1; SPEC L73-L76; C reproduced them in Round 3).
+- **Finding.** No admitted line says each stock sustains an internal culture. It bears on AM-P89-F2: nothing
+  can be said about home-language upkeep row by row. Proposed qualifier: whether each stock sustains an internal culture
+  is not written (pointer to the composition piece).
+- **Disposition:** `found by one` (B); A and C accepted it.
+
+### AM-P89-N22 Phase 8's quotation of PHYS L426 adds unmarked emphasis
+
+- **Inputs.** P8 L243 reads "tracks the dominant local culture AND the community who had her built"; PHYS L426 reads
+  "tracks the dominant local culture and the community who had her built". The same unmarked capital appears at P9 L92 (C).
+- **The split.** A found it. B (XB-102) and K (K XC6-8) had called the quotation accurate, and C called it exact.
+  In Round 3 C withdrew "exact" (C W2) and B accepted A's row (B A-14). K was not part of Round 3.
+- **Written to the narrower reading.** Accurate in substance; "AND" is unmarked added emphasis.
+- **Disposition:** `conflict resolved to the narrower reading`. Confidence: low.
+
+## 4. Docket of proposed corrections (PROPOSED; never applied)
+
+| Location | What is wrong | Proposed wording or pointer | Confidence | Disposition |
+|---|---|---|---|---|
+| AM-P89-D1 P8 L5; P9 L5 | Stale spine addresses (AM-P89-N13) | Pointer: ULM03 L957; ULM03 L1028 (the amendment note states the current addresses; DR-102) | high | `found by one` (A) |
+| AM-P89-D2 P8 L18, L106 | The robot share of Census I is stale | Pointer: 51.20% (SPEC L15; ORCH 3); the composition piece owns it | medium (A, B high; C medium, outside P89) | `confirmed by all three` |
+| AM-P89-D3 P8 L146 | A weighted workforce is used as a head count (AM-P89-N12) | Drop the figure, or state the Census I head count, 1,210,432 (SPEC L15) | medium (A, B medium; C high) | `confirmed by all three` |
+| AM-P89-D4 P8 L243 (also P9 L92) | Unmarked added emphasis inside a verbatim quotation (AM-P89-N22) | Pointer: emphasis added; the source reads and | low | `conflict resolved to the narrower reading` |
+| AM-P89-D5 P8 L247 | 21-fold is false; the civic layer is described without the national dominant language and offered as the Module's frame | Davis's composition has 45 origin rows (SPEC L32-L76; DR-104 item (2)). Its dominant language is Hawaiian (later Tepenian) (DR-100 item (1)), national rather than Davis's own. | high | `confirmed by all three` |
+| AM-P89-D6 P8 L248 | States as wholly unwritten what is now written at city level; its ground has moved | Davis's dominant language is Hawaiian (later Tepenian), as everywhere (DR-100 item (1)). Its supporting tier is English, Mandarin, Japanese and German (DR-100 item (3); BLOCS L922-L927; German flagged). What any origin row speaks among itself is not written: origin shares are not speaker counts (DR-100 item (5)). H48b. | high | `confirmed by all three` |
+| AM-P89-D7 P8 L250 | The exclusion of an accent is unsourced (AM-P89-K4) | Heading: E.2 But the marker is derivable, and it is a habit of argument. Add: whether Davis has an accent is not written. | high | `confirmed by all three` |
+| AM-P89-D8 P8 L252 | Overstates independence (AM-P89-K10) | Phases 6 and 7 both carry SPINE §3.1: Davis's form of argument is show me the entry, and its standard of truth is what was written down when it happened. | medium | `found by one` (A) |
+| AM-P89-D9 P8 L255 | The negative half is unsourced; the line is framed as a claim of distinctiveness | The peer-free wording at AM-P89-F10 (a). Pronunciation is not written. The distinctiveness framing waits on AM-P89-Q7. | high | `confirmed by all three` (the kill); `conflict sent to the developer` (the framing) |
+| AM-P89-D10 P8 L256 | "not a dialect" is unsourced; "register" is a loose term with a second sense in P8 | Keep "A register" with a gloss: a habit of argument, the reach for the record as the natural form of assertion, carried in whichever language an exchange uses. Whether Davis has a local form of Hawaiian is not written. | high (the kill); low (the term) | `conflict resolved to the narrower reading` |
+| AM-P89-D11 P8 L259 | "the one Davis marker" is unsourced and its reasoning contradicted; travel is asserted | It plausibly travels with someone who leaves (conditional); it is not established as the only marker. | high | `confirmed by all three` |
+| AM-P89-D12 P8 §E, after L259 | No statement on switching between languages, though P8 L238 and ULM03 L987-L989 ask for it | Add B's sentence at AM-P89-F8. | medium | `confirmed by all three` |
+| AM-P89-D13 P8 §I (holes) | No hole records Davis speech features | New hole: Davis speech features (accent, local vocabulary, contact features, in Hawaiian or a supporting language): not written; robot voice production is not described (AM-P89-N15). | high (C, within its H48 row) | `found by one` (C); B accepted it |
+| AM-P89-D14 P8 L292 | The shared items omit the dominant language | Add: the dominant language (Hawaiian, later Tepenian), national, not Davis's own. The supporting tier is not added here; it belongs in §E.1. | medium-high (A, C; B high) | `confirmed by all three` (the addition); `conflict resolved to the narrower reading` (the tier) |
+| AM-P89-D15 P8 L294 | 21-fold is false; deferral ground | 45 origin rows; what each speaks or holds internally is unwritten (language: DR-100 item (5)). | medium (A, B high; C medium) | `confirmed by all three` |
+| AM-P89-D16 P8 L320 (H48) | Merges two questions; 21 internal communities; ground DR-4 only | Split. H48a: answered at city level (DR-100). H48b: what each of the 45 origin rows speaks among itself; open on DR-100 item (5); an origin row is a stock, not a speech community (PHYS L229-L230). | high | `confirmed by all three`; the unit `conflict resolved to the narrower reading` |
+| AM-P89-D17 P8 L331 | Feeds the unnarrowed marker to Phase 10 (AM-P89-N19) | Pointer: Phase 10 should carry the narrowed habit, not the exclusions; check it. | low (A; B and C medium) | `confirmed by all three` |
+| AM-P89-D18 P9 L16-L17, L57-L62, L67, L143, L174 | Census figures and ratio superseded | Pointer: SPEC L15-L16; the composition piece owns them. | medium (A high; C medium) | `confirmed by all three` |
+| AM-P89-D19 P9 L76-L77 | Davis is Act 2; 21-fold | Davis's frame opens in Act 1 and is mostly Act 2 (PHYS L229); its composition has 45 origin rows, the largest 10.42%, so there is no single thread to anchor to. | high | `confirmed by all three` |
+| AM-P89-D20 P9 L92 | Merges a language with a habit of argument; misreads the dominant local culture; drops the builders' half; unmarked emphasis | The proposed row at AM-P89-F7. | high | `confirmed by all three` |
+| AM-P89-D21 P9 L96-L98 | 21 origin stocks, Act 2; the shared list at L97-L98 omits the language | 45 origin rows; the frame is mostly Act 2. Add the same dominant language to the shared list at L97-L98. | medium-high (C; A, B high) | `confirmed by all three` (count and Act); `found by two` (B, C) for the L97-L98 addition |
+| AM-P89-D22 P9 L246 (§Q.2) | The recorded defect is resolved in the current spine | Pointer: ULM03 L1089-L1094 runs the peer-free form. | high | `found by one` (A) |
+| AM-P89-D23 P6 L203 | The only thing, unqualified, is false | A's wording at AM-P89-F12. | medium-high (A, B; C high) | `confirmed by all three` |
+| AM-P89-D24 P6 L204 | 21 origin stocks; each sustainable internally at full scale (AM-P89-N21) | 45 origin rows; whether each sustains an internal culture is not written (pointer to the composition piece). | medium | `confirmed by all three` (the count); `found by one` (B) (the sustainability) |
+| AM-P89-D25 P6 L21, L207, L347 | 21 or twenty-one composition counts | Pointer: 45 origin rows (the composition piece). | medium (A, B high; C medium) | `confirmed by all three` (L207, L347); `found by two` (B, C) (L21) |
+| AM-P89-D26 P6 L251-L252 | D4's way of saying reads as a lexical gap (AM-P89-N8) | Pointer: a register gap; the shared language carries the word. | low-medium | `found by one` (A) |
+| AM-P89-D27 P7 L379 | twenty-one | Pointer: 45 origin rows (the composition piece). | high (B, as a pointer) | `found by two` (B, C) |
+| AM-P89-D28 P7 L381-L382 | The one thing everybody shares, unqualified | Davis's governance is the upkeep of the one standard of truth everybody shares. | medium-high (C) | `found by one` (C) |
+| AM-P89-D29 SPINE L107-L108, L112-L114, L250, L389, L394 | Composition and retention figures superseded | Pointer: the composition and retention pieces (largest row 10.42%; the founding-wave row 5.74%; retention 67.54 / 76.88 / 58.63). | medium (A, B high; C medium) | `confirmed by all three` |
+| AM-P89-D30 SPINE L109 | G8's common medium is unnamed (AM-P89-N16) | Flag for the Step 2 piece: the spoken common medium is national (DR-100 item (1)); the Davis-specific medium is the record. Not asserted. | low | `confirmed by all three` |
+| AM-P89-D31 PHYS L426 (source; never edited) | Its example assumes a dominant local culture that is not Hawaiian-speaking (AM-P89-N3) | Amendment-note line only: under DR-100 item (1) the example's case does not arise at city scale in Tepenia; the rule's form stands. | medium | `found by one` (A) |
+| AM-P89-D32 Amendment note (new line) | German's dependency is not recorded | German's place in the supporting tier depends on counting Austro-Bavaria (1.39) as German-speaking, a mapping DR-100 item (5) calls unverified: +0.530 with it, −0.860 without. A real-world check supports Standard German competence. Carried as ruled. | high | `confirmed by all three` |
+| AM-P89-D33 Amendment note (new line) | The tier's dependence on the English range is not recorded | Flag: the tier's membership depends on the midpoint convention for the English bloc's range (the Philippines, Malaysia and South Africa rows); applied as ruled, not reopened. | high (C) | `found by one` (C) as a flag; the arithmetic `confirmed by all three` |
+| AM-P89-D34 Amendment note (new line) | The tier's sensitivity to the reserved decision is not recorded | Flag: the tier is carried as computed on the current shares; the reserved decision on four rows could change Mandarin's membership under some redistribution methods (AM-P89-N10). | high (C) | `found by one` (C) |
+| AM-P89-D35 Amendment note (new hole) | The language of the record is unrecorded (AM-P89-N14) | New hole: the language or languages of Davis's record, inherited and current: not written; not to be inferred from the station's operator (DR-19). | medium (B) | `found by two` (A, B) |
+
+## 5. Questions for the developer (PROVISIONAL; each with a recommended answer and what is waiting on it)
+
+### AM-P89-Q1 Is a Davis-built robot's vernacular Hawaiian, plus the language of whoever had her built? (the first check's XC6-37)
+
+- **Recommended answer: yes (PROVISIONAL).** DR-100 item (1) makes Hawaiian dominant everywhere, and PHYS L426 ties the
+  Module's delivery to the language of the dominant local culture and of the builders. Leave the builders' language open
+  wherever the building community is not specified.
+- **Additions.**
+  - The claim-register is not a Module output; it is learned by living here (A; PHYS L422).
+  - Whether the Module delivers any supporting-tier language stays unwritten (A; AM-P89-Q8).
+  - Where the two inputs differ, record both as the provisional reading (B; K's proposed row says the same, for the
+    developer to confirm). PHYS L426 does not cover that case (AM-P89-N5).
+  - Write Davis-built, not Davis-born. K and C wrote Davis-born; A and B wrote Davis-built, because Phase 9's born at
+    Davis (P9 L88) rests on `Robot_Universals/` Ch. 13 and Ch. 14, which no reader could check. Written to the narrower term.
+- **Waiting on it.** The P9 L92 row (AM-P89-D20); AM-P89-F5; AM-P89-F6;
+  AM-P89-F7.
+- **Disposition:** `confirmed by all three` (the recommended yes); `found by two` (B, K) (both, where they differ);
+  `conflict resolved to the narrower reading` (Davis-built).
+
+### AM-P89-Q2 Should H48's group half stay open, now on DR-100 item (5) instead of DR-4? (XC6-38)
+
+- **Recommended answer: yes (PROVISIONAL).** Do not work out home languages from origin shares. The hole reads the 45
+  origin rows, not communities: whether a row forms a speech community is itself unwritten (A, B; C withdrew its
+  wording).
+- **Waiting on it.** The H48 split (AM-P89-D16).
+- **Disposition:** `confirmed by all three`.
+
+### AM-P89-Q3 Carry English, Mandarin, Japanese and German as ruled, with German's dependency flagged? (XC6-39)
+
+- **Recommended answer: yes (PROVISIONAL).** Record the margins (+0.530 with Austro-Bavaria, −0.860 without) and the
+  real-world check (Standard German as the written, media and education language of Bavaria and Austria) in the flag.
+  The flag names the mapping, not the ruling (A). DR-100 is not reopened.
+- **Waiting on it.** The amendment-note line (AM-P89-D32).
+- **Disposition:** `confirmed by all three`.
+
+### AM-P89-Q4 Within 2564–2812, when does Hawaiian become Tepenian, and is that a renaming or a successor language?
+
+- **Recommended answer (PROVISIONAL).** Write Hawaiian (later Tepenian), undated, in Davis's amendment, mirroring DR-100.
+  Settle the timing in the national-language canon, not at Davis (A).
+- **Waiting on it.** AM-P89-F4; every naming of the dominant language in the amendment.
+- **Disposition:** `confirmed by all three` (A XA-26; B question 5; C XC-236).
+
+### AM-P89-Q5 Does DR-12's first ground (LOG L1703 item (1)) bar a pass sentence that relies on the tier boundary between two origins of the same tier (Japan in, Korea out)?
+
+- **Recommended answer (PROVISIONAL).** The tier stands as DR-100's output. No pass finding may rest on a particular
+  origin's being outside it: state the tier and stop.
+- **Waiting on it.** AM-P89-N1.
+- **Disposition:** `found by one` (A); B and C accepted it for the developer.
+
+### AM-P89-Q6 In PHYS L426, is the "local" of the dominant local culture the city?
+
+- **Recommended answer: yes, the city (PROVISIONAL),** consistent with PHYS L217. At Davis the Module's first input is
+  then Hawaiian, and any origin language arrives only through the builders' half.
+- **Waiting on it.** AM-P89-F5; AM-P89-N3.
+- **Disposition:** `found by one` (A); B recommends the same answer.
+
+### AM-P89-Q7 How should a city pass answer the spine's what-marks-someone-as-from-here (ULM03 L988-L989) under the rule of one location on its own terms?
+
+- **The split.** B keeps, as firm: "What marks someone as from Davis, as far as Davis's own lines go, is how they make a claim: they reach for the dated entry."
+  A routes any claim of distinctiveness to the terminal differentiation check (A XA-10 (d), XA-29). C's proposed
+  wording ("includes how they make a claim") is already peer-free, and C accepted A's question in Round 3. K adds that
+  saying the four-language set marks someone as from Davis would mean comparing it with sets elsewhere, which belongs
+  to the terminal check (K XC6-20).
+- **Recommended answer (the narrower; PROVISIONAL).** Answer it peer-free, by stating the speech habits a person from
+  here carries (AM-P89-F10 (a)). Send any reading of it as setting Davis apart, including whether a
+  pronunciation would set a speaker apart, to the terminal differentiation check.
+- **Waiting on it.** The P8 L255 wording (AM-P89-D9).
+- **Disposition:** `conflict sent to the developer`.
+
+### AM-P89-Q8 Does the Language Module deliver any supporting-tier language? Does it deliver a local form of the dominant language or a national standard?
+
+- **Recommended answer (PROVISIONAL).** Leave both open. Do not write robots as lacking the supporting languages; a pass
+  may state only the Module's two named inputs (A). Mark any Davis accent as not written until ruled (B).
+- **Waiting on it.** AM-P89-N4; AM-P89-N6; AM-P89-F9.
+- **Disposition:** `found by two` (A XA-30; B question 6) for the supporting tier; `found by one` (B) for local form or
+  standard.
+
+### AM-P89-Q9 Does the supporting tier hold across the whole frame, both Acts, or does it thin in the Act 2 part?
+
+- **Recommended answer (PROVISIONAL).** Carry it across the frame as ruled: DR-100 gives no date, and the shares are
+  "identical between censuses" (SPEC L78).
+- **Waiting on it.** The §E switching sentence (AM-P89-D12).
+- **Disposition:** `found by one` (B); A supported the answer and C accepted it in Round 3.
+
+### AM-P89-Q10 In what language or languages is Davis's record kept, inherited and current?
+
+- **Recommended answer (PROVISIONAL).** Leave it open as a new hole; never infer it from the real-world station's
+  operator (DR-19).
+- **Waiting on it.** AM-P89-N14; any later pass that uses show me the entry in a scene.
+- **Disposition:** `found by two` (A, B).
+
+### AM-P89-Q11 Should the amendment note record that the tier's membership depends on the English bloc's range as well as on Austro-Bavaria?
+
+- **Recommended answer: yes, as a flag only (PROVISIONAL).** The ruled convention is applied, not changed.
+- **Waiting on it.** AM-P89-N9; AM-P89-D33.
+- **Disposition:** `found by one` (C); A and B accepted it.
+
+### AM-P89-Q12 Should the tier be carried as computed on the current shares, with a note that the reserved decision on four rows could change Mandarin's membership under some methods?
+
+- **Recommended answer: yes (PROVISIONAL).** Which redistribution applies is the developer's when the reserved decision
+  is taken.
+- **Waiting on it.** AM-P89-N10; AM-P89-D34.
+- **Disposition:** `found by one` (C); A and B withdrew their contrary claim.
+
+### AM-P89-Q13 Should Phase 8 §E.2's exclusions be struck in the docket, and a new hole opened for Davis speech features?
+
+- **Recommended answer: yes (PROVISIONAL).** The exclusions go (AM-P89-K4, AM-P89-K5,
+  AM-P89-K6, AM-P89-K7); the new hole is at AM-P89-D13.
+- **Waiting on it.** AM-P89-F9; AM-P89-F10.
+- **Disposition:** `found by one` (C); B accepted it in Round 3.
+
+## 6. Reserved findings and requests
+
+- AM-P89-R1 **Physiology.** How robots, who do not breathe, produce speech. Without it, no claim about how
+  any Tepenian city sounds can cover the majority body (AM-P89-N15). `found by one` (B).
+- AM-P89-R2 **The Module.** Its mechanism (PHYS L426: not yet determined), and the three open questions:
+  differing inputs, supporting-tier languages, local form or standard (AM-P89-N5,
+  AM-P89-N4, AM-P89-N6). `found by two` (A, B).
+- AM-P89-R3 **Canon.** The language or languages of Davis's record (AM-P89-N14).
+  `found by two` (A, B).
+- AM-P89-R4 **The treaty date and the national-language canon** (AM-P89-F4). Neither is in
+  this piece's list. `confirmed by all three`.
+- AM-P89-R5 **What H48b, or any Davis variety, would need.** Per-origin speaker data (not shares),
+  concentration, mixed marriage and institutional support at Davis (A); how Davis's neighborhoods mix origins, whether a
+  child cohort acquires Hawaiian together, intermarriage across origin rows, schools and institutions in each language,
+  and, for robots, whether Module-delivered speech carries a local form (C XC-241). None is in the admitted set.
+  `found by two` (A, C).
+- AM-P89-R6 **Composition.** Any in-world arrival order or stabilization cohort for Davis's origin rows;
+  real-world research says that order decides substrate and founder effects, and the census tag explicitly does not carry
+  it (AM-P89-K12). `found by one` (B).
+- AM-P89-R7 **Phase 10's catalog.** Check whether it carried §E.2's exclusions forward (P8 L331;
+  AM-P89-N19). `confirmed by all three`.
+- AM-P89-R8 **The Step 5 culture files** (read-last; not in this list). Check whether they say anything about
+  language at Davis. `found by one` (A).
+- AM-P89-R9 **Files outside every reader's list that these findings touch.** `Robot_Universals/` Ch. 13 and
+  Ch. 14 (P9 cites them); the text of DR-4; the table headers above SETS L30, L58 and L71; the census section that dates
+  nothing about arrival; the Sumerian file; the workforce source; the national-language canon. `confirmed by all three`
+  (each names some of them).
+- AM-P89-R10 **Who initiates builds at Davis** (PHYS L436 leaves it open); needed to say anything about the
+  builders' language beyond the Hawaiian floor. `found by two` (A, C).
+- AM-P89-R11 **The crewing of the final leg into Davis's harbor** (P7 L165-L167); needed before
+  AM-P89-N17 can rise above seed. `found by one` (C).
+- AM-P89-R12 **Does Hawaiian have grammatical source or reportative marking?** WALS 77A has no Hawaiian
+  datapoint (a dead end at the source). C's lead is a 2019 University of Hawaiʻi thesis on the particles following
+  demonstratives, which lists mood among its keywords. Needed before §E.2 can say anything about the habit's surface form
+  in the dominant language. `found by two` (B, C).
+- AM-P89-R13 **Do evidence-citing norms, as opposed to requests, apologies and disagreement, transfer across
+  a speaker's languages?** The pragmatic-transfer sources did not study this directly; contrastive rhetoric is the likely
+  literature. `found by one` (B).
+- AM-P89-R14 **How a shared second language sounds in the first locally born generation when its
+  speakers come from many first languages.** Leads: the unread remainder of APICS survey 71; an Indonesian perception
+  study (production studies not found). `found by one` (B).
+- AM-P89-R15 **Hawaiian's small sound inventory** (eight or nine consonants depending on the analysis, five
+  vowels with length) and its free variation, as possible places where local pronunciation would settle. Recorded only.
+  `found by one` (B).
+- AM-P89-R16 **National, not Davis.** How a dominant language from a tropical archipelago would extend its
+  vocabulary to serve a polar continent, and whether that is already canon. `found by one` (A).
+- AM-P89-R17 **Whether Davis's many-water-body calendars carry a local vocabulary** (P6 L115-L118, Tier 3;
+  a seed at AM-P89-F9); needs Step 5 or the developer. `found by one` (A).
+- AM-P89-R18 **The in-fiction language of Austro-Bavaria** (AM-P89-F11).
+  `found by one` (A).
+- AM-P89-R19 **Accent formation in a population whose majority acquires the common language through a
+  channel other than childhood.** No real-world comparable exists, so this is fiction-side only. `found by one` (A).
+- AM-P89-R20 **Untouched by this piece.** The mortuary reservation (`A-1`) is carried intact (B). H49 is not
+  reopened (AM-P89-F13).
+
+## 7. Limits
+
+- **DR-4.** Its text is in no reader's list, so whether H48's original ground still holds is unchecked; only DR-100
+  item (5) is verified here (A, B, C, K).
+- **SETS headers.** SETS L30, L58 and L71 were admitted without their column headers; only L71's count of four is used,
+  and only as a consistency check (A, B, C, K). K offers an inference about the columns and says nothing depends on it.
+- **BLOCS** was read at L916-L930 only; the table may continue past L930, which does not matter at a 9.400 cutoff (A; K).
+- **Not read.** The Sumerian file, `Robot_Universals/` Ch. 13 and Ch. 14, Phase 10, the Step 5 culture files, the
+  workforce source, the pass-time spec and the national-language canon (A). Because Ch. 13 and Ch. 14 were not read, the
+  Module findings are written for Davis-built robots (B).
+- **Pass locations beyond the list.** The brief asked for every pass location; readers read only the pass files in their
+  list. Phases 2, 3, 4, 5, 10 and Step 5 may carry the 21 count or the marker too; unverified (B snag 9).
+- **Real-world sources.** Every comparable is a source, not a specification, and shows what is plausible, not what Davis
+  is; every research-backed statement here is seed or conditional (B). Several results came from search-tool summaries
+  of secondary sources (A, B, C mark which). Every accent and contact comparable is human; robots acquire language at
+  least in part through a Module whose mechanism is undetermined, so the comparables transfer only partly (C).
+- **The mapping.** The nation-to-language mapping is recalled, not verified (DR-100 item (5)). The research checked
+  Austro-Bavaria (all three) and the English high-bound nations (C) only, and those checks describe the present-day
+  world, not the in-world populations (C).
+- **The tier** is a ruled classification from origin shares. It says nothing about how many people speak any language,
+  and this piece never treats it that way (B). Its sensitivity to the midpoint convention is recorded as a flag, not a
+  challenge to DR-100 (B, C).
+- **The reserved-row runs** use two illustrative redistribution assumptions; neither is the method the reserved decision
+  will use, which is not in the admitted set (C).
+- **Unconfirmed phrases.** B's "labile in adulthood" was not confirmed by A or C; B's
+  "largely maintains the contrasts of its lexifier" was not confirmed by C; A's "rapidly coalesced" was not confirmed by C. The Hebrew dialect finding rests on
+  a publisher's description and library records; the Siegel, Hawaiʻi Creole English and Singapore findings rest on
+  abstracts and summaries (B).
+- **No comparison, no date, no elapsed time.** No comparison with any other location was made or is implied; no date is
+  assigned inside the frame; no elapsed-time reasoning is used (A). C used language-shift research only to name inputs
+  that are absent at Davis, never to date or predict anything; A declined to search it at all; both are compliant.
+- **No founding-wave inheritance.** No finding reads English's place in the tier as a founding-wave inheritance; the tag
+  says nothing about when people arrived (A; ORCH 4).
+- **No shadow.** No shadow (00d) was derived for language, and none was forced; nothing admitted supplies an unintended
+  cost of the language arrangement (B).
+- **K's view.** K read a narrower span of PHYS (L420-L432) and one file outside the readers' list (the rule against
+  national stereotypes, in the Timeline repo). K's finds from that file are credited to K and are not checked against it
+  by this merge.
+
+## 8. Research log
+
+Every search string and fetched address below is copied verbatim from the readers' logs (Round 1, and the checks each
+reader ran in Round 3), with the readers' own spelling kept inside each string. The first check's reader (K) did no
+web research. The merge writer ran no web research.
+Summary means the search tool's own summary of its results; fetched means the page itself was read.
+
+### Reader A (web tools loaded with `ToolSearch`; all searches in standard mode)
+
+| # | Search string or fetched address (verbatim) | Source used | What it gave | Changed or not | Dead end |
+|---|---|---|---|---|---|
+| S1 | `Trudgill new-dialect formation koineization three generations mixing leveling New Zealand English` | Summary; LINGUIST List review (F1) | Staged model: adult settlers level rudimentarily; the first locally born children vary; the second focuses on majority variants | Changed: the accent exclusion is unsupported | — |
+| F1 | https://listserv.linguistlist.org/pipermail/linguist/2004-December/025827.html | Fetched | The second New Zealand-born generation faced fewer variants; the majority does not always decide | Confirmed S1 | — |
+| S2 | `Kerswill Williams Milton Keynes new town children dialect leveling age 4 8 12 peer group accent formation` | Summary | 48 children aged 4, 8 and 12; older children form the new dialect; faster leveling in a new town | A second comparable | — |
+| F2 | https://eprints.whiterose.ac.uk/75325/1/Kerswill_Williams2000.pdf | — | Binary PDF, unreadable | — | Died at the source |
+| F3 | https://eprints.lancs.ac.uk/id/eprint/32088 | Fetched (abstract page) | Results strongly support both hypotheses | Confirmed S2 | — |
+| S3 | `Hawaiʻi Creole English formation plantation immigrants Japanese Portuguese Chinese Filipino substrate features loanwords Roberts locally born children` | Summary | Substrates named; the immigrants' children stabilized the creole; substrates added little vocabulary | Changed: a share does not predict a contribution | — |
+| F4 | https://www.ling.upenn.edu/NWAVE/abstracts/nwav36_roberts.pdf | — | HTTP 403 | — | Died at the source |
+| S4 | `Sarah Roberts "Demographics of Creole Formation in Hawaii" Japanese substratal influence slight locally born Portuguese Honolulu` | Summary (quoting the abstract) | Japanese substratal influence slight despite large numbers | Changed: size and contribution | The locally born Portuguese sub-claim died at the sources |
+| S5 | `Modern Hebrew immigrants many origins native Israeli accent leveling second generation substrate Yiddish features Zuckermann Blanc` | Summary | Substrate debate; two accents | Led to F5 | The second-generation study died at the query |
+| F5 | https://en.wikipedia.org/wiki/Modern_Hebrew_phonology | Fetched | Two main accents; older speakers keep substrate features; pronunciation coalesced quickly | Changed: an acquired common language | — |
+| S6 | `Gumperz speech community definition shared norms of interaction multilingual "speech community" not single language Hymes` | Summary; F6 | Varieties form a system related to shared social norms; Labov: norms over forms | Changed: a habit can span languages | — |
+| F6 | https://en.wikipedia.org/wiki/Speech_community | Fetched | Confirmed the Gumperz and Labov wording | Confirmed S6 | The Hymes sub-claim died at this source |
+| S7 | `pragmatic transfer bilinguals carry speech act norms across languages Kasper Blum-Kulka cross-cultural pragmatics evidence` | Summary (secondary) | Bilingual immigrants realized requests differently in each language; transfer runs both ways | Changed: the norm is shared, the realization differs | Primary texts not fetched |
+| S8 | `Chambers 1992 "Dimensions of dialect acquisition" Canadian children in southern England adults rarely acquire new phonology age of arrival` | Summary | Six Canadian children; eight principles | Did not change anything | The adult claim died at the sources |
+| S9 | `second dialect acquisition adults versus children age effect Siegel 2010 adults rarely native-like phonology movers retain original accent` | Summary | Only second-language age studies | Did not change anything | Died at the query |
+| S10 | `Siegel "Second Dialect Acquisition" Cambridge University Press 2010 age of acquisition findings summary` | Summary; F7 | Phonology very difficult after about age 7 | Changed: early-acquired pronunciation also travels | — |
+| F7 | https://listserv.linguistlist.org/pipermail/linguist/2011-July/053897.html | Fetched | The age-7 finding for phonology; morphology up to 16 or 17; the reviewer: age matters less for adults | Confirmed and qualified S10 | — |
+| S11 | `Australian English remarkable regional homogeneity little regional variation explanation mixing founding population mobility` | Summary | Mixing, mobility and short time depth explain low variation; some regional vowel differences; thin evidence | Changed: low separation goes with leveling (time depth deliberately not used) | — |
+| S12 | `Luxembourg trilingualism Luxembourgish French German domains everyday code-switching which language for which situation sociolinguistics` | Summary | Choice by domain and occupation; news switching mostly lexical insertion | Changed: code-switching seed | — |
+| S13 | `Singapore Colloquial English discourse particles lah loanwords from Hokkien Malay substrate features mixed origin population common language` | Summary | Particles from several substrates | Led to S14 | — |
+| F8 | https://www.ebsco.com/articles/language-and-linguistics/7019b151-1736-5c65-ae97-1f30d31471ce/the-ages-of-pragmatic-particles-in-colloquial-singapore-english-a-corpus-study-based-on-oral-history-interviews | — | HTTP 403 | — | Died at the source |
+| S14 | `Lisa Lim 2007 "Mergers and acquisitions" Singapore English particles Cantonese later period media dominance ecology` | Summary (abstract) | Three ages, each with a different dominant language | Changed: contribution follows the era of dominance | Full text not fetched |
+| S15 | `Bavarian language Austro-Bavarian ISO 639-3 bar mutual intelligibility with Standard German speakers diglossia Austria Bavaria standard German` | Summary; F9 | ISO `bar`; Standard German for writing, media and education | Led to F9 | — |
+| F9 | https://en.wikipedia.org/wiki/Bavarian_language | Fetched (first 100,000 characters) | Educated Bavarians and Austrians read, write and understand Standard German; it is the primary medium of education | Changed: supports the German mapping | — |
+| S16 | `ethnolinguistic vitality Giles Bourhis Taylor 1977 status demography institutional support factors heritage language maintenance group size concentration` | Summary (secondary) | Vitality = status + demography + institutional support | Changed: why shares alone cannot answer H48b | Primary not fetched |
+| S17 | `Cheshire Kerswill Fox Torgersen 2011 Multicultural London English feature pool high diversity no single dominant group emergence` | Summary | Feature pool; peer acquisition; fairly uniform across groups | Changed: accent comparables | The no-single-dominant-group wording not stated directly |
+| S18 | `receptive multilingualism lingua receptiva Scandinavian semicommunication Haugen speakers each use own language understand the other` | Summary | Each party speaks their own language; attitude, contact, distance | Changed: the second practice the ruling's definition covers | — |
+| S19 | `colonial lag new environment vocabulary settlers coined or borrowed words for unfamiliar landscape Australian English lexicon Ramson` | Summary | Settlers borrowed or repurposed words for a new environment | Changed: the lexical-field seed | The colonial-lag sub-claim died at the query |
+| S20 | `Andean Spanish evidentiality from Quechua Aymara contact reportative "dice" pluperfect evidential transfer Aikhenvald evidentials spread through language contact` | Summary | A source-marking habit crossed languages by contact | Changed: a habit about a claim's source can cross languages | Aikhenvald died at the query |
+| R3 | `Harrington Gubian Stevens Schiel 2019 "Phonetic change in an Antarctic winter" Journal of the Acoustical Society of America abstract` | LMU repository abstract; press | JASA 146(5), 2019, pp. 3327-3332; first stages of a common accent; differences hard to hear | Confirmed B's and C's use (Round 3) | The station named in the result is not reproduced |
+
+**Deliberately not searched (A).** Heritage-language shift over generations (brief rule 4 forbids elapsed-time
+reasoning); real-world station vocabulary at the coordinate (the station-builder is a coordinate only).
+
+### Reader B
+
+| # | Search string or fetched address (verbatim) | Source used | What it gave | Changed or not | Dead end |
+|---|---|---|---|---|---|
+| 1 | `Antarctic accent study overwintering British Antarctic Survey vowel change Harrington 2019` | Harrington, Gubian, Stevens and Schiel, JASA 146 (2019) 3327; PDF read from the saved file | First stages of a common accent among 11 winterers; vowel convergence; adult accent labile; authors caution against extrapolating | Changed: the accent exclusion; travel narrowed; an isolation case only | WebFetch returned binary (died at the tool); recovered by reading the saved PDF |
+| 2 | `Kerswill Williams Milton Keynes new town koineization children peer group parents dialect levelling` | Kerswill and Williams 2000, *Language in Society* 29:65-115 (PDF read from the saved file); 2005 abstract | Substantial but not complete focusing in the child generation; demography and social networks crucial | Changed: the deciding inputs are absent at Davis; the robot analogue of the child channel | WebFetch returned binary (died at the tool); recovered |
+| 3 | `Pidgin Hawaiian plantation workers Chinese Japanese Portuguese 19th century Hawaiian-lexified pidgin Roberts`; then WebFetch `https://apics-online.info/surveys/71` | APICS survey 71 | Primary contact medium of laborers by the 1880s; first-language interference in pronunciation | Changed: the plantation-pidgin seed; the guard against projecting shares | Only the first 100,000 characters read |
+| 4 | `Hawai'i Creole English loanwords Japanese Portuguese Hawaiian substrate features Siegel origins` | Abstracts and summaries | Substrate from groups dominant at stabilization; Japanese and Hawaiian mainly vocabulary | Changed: arrival timing decides substrate | Died at the sources (abstracts only) |
+| 5 | `Mufwene founder principle creole features founder population feature pool` | Summaries | Founder features have a selective advantage | Reinforced the arrival-order point | No feature predictions (died at the sources) |
+| 6 | `three-generation model immigrant language shift heritage language loss third generation Alba Rumbaut "language graveyard"` | Alba, Logan, Lutz and Stults 2002; Rumbaut, Massey and Bean | Home languages fade; drivers are intermarriage and communal context | Not used as reasoning (rule 4); named drivers unwritten at Davis | The phrase not confirmed (died at the sources) |
+| 7 | `pragmatic transfer bilinguals discourse norms carried across languages argumentation style evidence citing sources cross-cultural pragmatics` | Summaries | Discourse norms carry across a speaker's languages, sometimes into a mixed style | Changed: carried across languages made conditional | Nothing directly on evidence-citing (died at the sources) |
+| 8 | `Hawaiian language evidentiality grammatical marking information source particles` | Grammar summaries; an overview | No dedicated evidential system found in Hawaiian | Not changed; research question | Dead end at the sources |
+| 9 | `Japanese evidential markers sou rashii yoo hearsay inferential grammatical evidentiality German sollen reportative` | Japanese evidentials literature | Japanese inferential and reportative markers | Seed only | German half died at the query; re-run as 10 |
+| 10 | `German modal "sollen" reportative evidential "er soll" hearsay use` | Summaries of four studies | *sollen* is a reportative evidential, about 8% in one corpus | Seed only | Full papers not read |
+| 11 | `Bavarian language Austro-Bavarian ISO 639-3 bar speakers Standard German diglossia Austria official language` | Encyclopedia entries | ISO `bar`; most speakers can switch to Standard German; education in Standard German | Changed: real-world support for German | Austria's official language died at the query; re-run as 12 |
+| 12 | `Austrian Federal Constitutional Law Article 8 "German language" official language of the Republic Staatssprache` | B-VG Art. 8 (translation; Constitution Net text) | German is the state language of the Republic | Changed: real-world support for German | Consolidated official text not checked |
+| 13 | `Multicultural London English multiethnolect feature pool Cheshire Kerswill speakers of all ethnic backgrounds Hackney` | Project pages and talks | A core of innovative phonetic, grammatical and discourse-pragmatic features | Changed: sound and discourse features arrive together | None |
+| 14 | `code-switching multilingual society common lingua franca plus several widely understood languages Singapore English Mandarin Malay Tamil everyday conversation study` | Singapore studies | Switching depends on speaker, place and kind of talk; mostly phrase level | Changed: code-switching seed | Mixed study types |
+| 15 | `Modern Hebrew immigrants many origins second generation native accent leveling Mizrahi Ashkenazi pronunciation ethnolect Israel sociolinguistics` | Sociophonetics overview; Striedl; a second-language accent study | Modern Hebrew described as having no dialects in the traditional sense | Changed: absence of dialect is also a real outcome | One page judged unreliable and not used |
+| 16 | `Striedl Modern Hebrew "no dialects" perceptual dialectology variation everyday language De Gruyter 2025`; WebFetch `https://www.degruyterbrill.com/isbn/9783111390628` | Publisher blurb and library records | Confirms the no-dialects premise | Confirmed 15 | HTTP 405 (died at the source); full text not read |
+| 17 | `Indonesian national language regional accents substrate influence Javanese Batak speakers of Indonesian L1 transfer phonology study` | Perception study; corpus abstracts | First-language vowel systems shape perception; substrate influence | Corroborates the seed | No production study (died at the sources) |
+| 18 | `Hawaiian language phoneme inventory eight consonants five vowels vowel length smallest inventories okina` | Phonology entries | One of the smallest inventories; 8 or 9 consonants by analysis; 5 vowels | Not changed; research question | Sources differ on the count |
+| R3 | WebFetch `https://listserv.linguistlist.org/pipermail/linguist/2011-July/053897.html` | The Siegel review | Confirmed A's F7 verbatim | Confirmed A's class for the one-marker kill | — |
+
+**Outside the list (B).** Two PDFs that WebFetch saved to the session's tool-results folder were read for research only
+(Harrington et al. 2019, pp. 1-3 and 5-7; Kerswill and Williams 2000, pp. 1-6).
+
+### Reader C (web tools loaded with `ToolSearch`)
+
+| # | Search string or fetched address (verbatim) | Source used | What it gave | Changed or not | Dead end |
+|---|---|---|---|---|---|
+| 1 | `new dialect formation koineization Milton Keynes children Kerswill Williams many origins`; WebFetch `https://eprints.whiterose.ac.uk/id/eprint/75325/` | Lancaster and White Rose eprints | Substantial but not complete focusing in the child generation | Changed: accent comparables | Volume not shown |
+| 2 | `Trudgill new-dialect formation inevitability colonial Englishes three generations mixing leveling` | LINGUIST List 17.126; a review in *Language* 83.3 | Crystallization over two to three generations; fewer minority features | Changed: accent comparables | No full text (died at the sources) |
+| 3 | `Modern Hebrew immigrants many origins ethnic accent leveling generations Mizrahi Ashkenazi pronunciation native Israeli` | Wikipedia and mirrors; a dissertation PDF | Pharyngeals kept mainly by older speakers | Did not change a finding | Died at the sources (reliability) |
+| 4 | `multiethnolect definition Multicultural London English substrate features many heritage languages Cheshire Kerswill`; WebFetch `https://pure.york.ac.uk/portal/en/publications/contact-the-feature-pool-and-the-speech-community-the-emergence-o/` | Cheshire, Kerswill, Fox and Torgersen 2011 | Group second-language acquisition; a feature pool from high diversity | Changed: accent comparables | — |
+| 5 | `Pidgin Hawaiian plantation lingua franca Chinese Japanese Portuguese workers before Hawaiian Pidgin English Roberts history` | Wikipedia; an abstract listing | Pidgin Hawaiian as the plantation pidgin | Led to 6 and 7 | — |
+| 6 | WebFetch `https://www.ling.upenn.edu/NWAVE/abstracts/nwav36_roberts.pdf` | — | HTTP 403 | — | Died at the source |
+| 7 | `"Pidgin Hawaiian" Hawaiian-lexifier pidgin plantations 1870s 1880s Chinese Japanese laborers used Hawaiian language lingua franca` | APICS; ScholarSpace | Primary medium of contract laborers by the 1880s | Led to 8 | — |
+| 8 | WebFetch `https://apics-online.info/surveys/71` | APICS survey 71 | First-language interference in pronunciation; glottal stops not phonemic in the substrate languages | Changed: accent comparables | Only the first 100,000 characters read |
+| 9 | `three-generation model language shift immigrants heritage language loss third generation Alba Rumbaut "language graveyard"` | Alba et al. 2002; Rumbaut | Intermarriage and communal context drive home-language loss | Changed: names what H48b would need; not used to date anything | — |
+| 10 | `Austro-Bavarian Bavarian dialect group spoken Bavaria and Austria standard German written language ISO 639-3 bar mutual intelligibility` | Wikipedia and mirrors; Glottolog | ISO `bar`; most speakers also speak Standard German | Changed: real-world support for German | — |
+| 11 | WebFetch `https://glottolog.org/resource/languoid/id/bava1246` | Glottolog | Classification path through High German nodes | Corroborated 10 | Node labels not shown |
+| 12 | `Hawaiian language grammar evidential markers evidentiality "Hawaiian" particles reportative` | ScholarSpace (a 2019 thesis) | No description of a Hawaiian evidential | Lead recorded | Died at the sources |
+| 13 | WebFetch `https://wals.info/feature/77A` | WALS | Counts by value; chapter author | — | Per-language values not visible |
+| 14 | `WALS evidentiality Japanese Korean "indirect only" Mandarin German English "no grammatical evidentials" de Haan chapter 77` | WALS chapter and valuesets | Pointed to per-language valuesets | — | — |
+| 15 | WebFetch `https://wals.info/valuesets/77A-haw` | — | HTTP 404; no Hawaiian datapoint | — | Died at the source |
+| 16 | WebFetch `https://wals.info/valuesets/77A-jpn` | WALS | Japanese: indirect only | Changed: surface-form seed | — |
+| 17 | WebFetch `https://wals.info/valuesets/77A-ger` | WALS | German: indirect only | Changed: surface-form seed | — |
+| 18 | WebFetch `https://wals.info/valuesets/77A-mnd` | WALS | Mandarin: no grammatical evidentials | Changed: surface-form seed | — |
+| 19 | WebFetch `https://wals.info/valuesets/77A-eng` | WALS | English: no grammatical evidentials | Changed: surface-form seed | — |
+| 20 | `Papafragou Li Choi Han 2007 evidentiality in language and cognition Korean children source monitoring grammatical evidentials` | *Cognition* 103(2) abstract | Source reasoning about equal despite fragile grasp of evidential morphemes | Changed: the habit does not depend on grammar | — |
+| 21 | `Aikhenvald evidentiality language contact diffusion areal feature speakers borrow evidential strategies bilingual communities` | Research repositories | Evidentials diffuse under contact | Did not change a finding | — |
+| 22 | `IMO Standard Marine Communication Phrases English working language maritime resolution A.918(22) STCW requirement`; WebFetch `https://imo.org/en/OurWork/Safety/Pages/StandardMarineCommunicationPhrases.aspx` | IMO | English as the common navigational language; SMCP required for certification | Changed: the harbor seed | — |
+| 23 | `port city multilingual dockworkers language contact loanwords maritime lingua franca sociolinguistics harbor` | A Cambridge article on port loanwords | Port contact leaves loanwords | Did not change a finding | Nothing on dockworkers (died at the sources) |
+| 24 | `English language Philippines Malaysia South Africa percentage speakers home language census second language widely spoken` | Wikipedia list and mirrors; press | Philippines 63.71% able (1995); Malaysia about 1.4% native | Changed: the English-range flag context | Secondary |
+| 25 | `Stats SA Census 2022 language most often spoken in household English percentage isiZulu 24.4` | Stats SA presentation; a Stats SA-sourced table | English household language 8.7% | Changed: the English-range flag context | Primary table not fetched |
+| 26 | `heritage language maintenance small immigrant community size critical mass ethnolinguistic vitality Giles Bourhis Taylor demographic factors` | Vitality papers | Size, endogamy, institutional support | Changed: what H48b would need | No numeric threshold (died at the sources) |
+| 27 | `Antarctic overwintering crew new accent study Harrington 2019 Journal of the Acoustical Society of America isolation vowel change`; WebFetch `https://www.scientificamerican.com/podcast/episode/linguists-hear-an-accent-begin/` | Press coverage | Convergence measurable within one winter, not yet perceptible | Changed: accent comparables | The paper itself not fetched; the station deliberately not named |
+| 28 | `Mufwene founder principle creole formation features of founder population disproportionate influence later arrivals` | *The Ecology of Language Evolution*, ch. 2 | Founder features gain a selection advantage | Changed: killed in application (arrival order unwritten) | The input died at Davis's data, not at the query |
+| 29 | `Singapore Colloquial English substrate Hokkien Malay Tamil code-switching many ethnic groups common language Gupta diglossia` | A Malay-borrowing study; Leimgruber 2014 | Borrowings whose origin speakers often do not know; common switching | Changed: code-switching and accent seeds | — |
+| R3a | WebFetch `https://listserv.linguistlist.org/pipermail/linguist/2011-July/053897.html` | The Siegel review | Confirmed A's F7 verbatim | Changed C's class for the one-marker kill (C W6) | — |
+| R3b | `"Phonetic change in an Antarctic winter" Harrington Gubian Stevens Schiel abstract "labile in adulthood" "first stages of a common accent"` | LMU repository; a PDF listing; press | Confirmed the abstract's first-stages sentence | Confirmed B's search 1 in part | The labile-in-adulthood phrase died at the sources available to a search |
+
+C's count for Round 1: 23 WebSearch calls and 13 WebFetch calls (3 of the fetches dead: 403, 404, and one partial read).
+
+### The first check's reader (K)
+
+No web research in that check. K noted that the accent question needs real web research before any claim (K XC6-33).
+
+## 9. Merge record
+
+### 9.1 Found-by and confirmed-by, item by item
+
+Reader item numbers are cited here only as the source of each point. K = the first check's reader (items XC6-n).
+
+| Item | Found by (source items) | Confirmed by, after Round 3 | Disposition |
+|---|---|---|---|
+| AM-P89-F1 | A XA-1; B XB-101 (a); C XC-204, XC-206; K XC6-7, XC6-12 | A, B, C | `confirmed by all three` |
+| AM-P89-F2 | A XA-2; B XB-101 (b), (c); C XC-206; K XC6-21 (admissibility: K XC6-10, XC6-14) | A, B, C (null); unit per A, B | `confirmed by all three`; unit `conflict resolved to the narrower reading`; guard `found by one` (K) |
+| AM-P89-F3 | A XA-3; B XB-109; C XC-207; K XC6-10 | A, B, C (qualifier) | `confirmed by all three`; B's two additions `found by one` (B) |
+| AM-P89-F4 | A XA-4; B XB-110; C XC-208 | A, B, C | `confirmed by all three` |
+| AM-P89-F5 | A XA-5; B XB-111; C XC-201; K XC6-15 | A, B, C | `confirmed by all three`; A's and B's grounds each `found by one` |
+| AM-P89-F6 | A XA-6; B XB-103; C XC-203 | A, B, C after A W4 and B withdrawal 3 | `confirmed by all three`; origin-table point `found by two` (A, C); A's seed `found by one` (A) |
+| AM-P89-F7 | A XA-7; B XB-102; C XC-202; K XC6-15 | A, B, C | `confirmed by all three`; dropped builders' half `found by one` (C); reversal note `found by one` (K) |
+| AM-P89-F8 | A XA-8; B XB-105; C XC-209; K XC6-14 | A, B, C after A W5 and C W5 | `confirmed by all three`; Singapore seed `found by two` (B, C); Luxembourg and receptive-use seeds `found by one` (A) |
+| AM-P89-F9 | A XA-9; B XB-106; C XC-210; K XC6-13, XC6-33 | A, B, C (null) | `confirmed by all three` (null); plausibility seed `found by two` (B, C); lexical seed and divergence `found by one` (A) |
+| AM-P89-F10 | A XA-10; B XB-104; C XC-211; K XC6-18, XC6-19 | A, B, C (positive half) | `confirmed by all three`; carried across `found by two` (A, B); framing `conflict sent to the developer` |
+| AM-P89-F11 | A XA-11; B XB-107; C XC-205; K XC6-7 | A, B, C | `confirmed by all three`; Census I persons `found by one` (A) |
+| AM-P89-F12 | A XA-12; B XB-108, XB-120; C XC-212, XC-227; K XC6-16, XC6-19 | A, B, C (narrowing) after C W1 | `confirmed by all three`; tier addition `conflict resolved to the narrower reading`; P7 site `found by one` (C); inconsistency `found by two` (B, C) |
+| AM-P89-F13 | A XA-13; C XC-214 | A, C; B accepted (B A-15) | `found by two` |
+| AM-P89-K1 | A killed row 1; B XB-101; C XC-221, XC-226; K XC6-17 | A, B, C | `confirmed by all three`; contributor count `found by one` (K) |
+| AM-P89-K2 | A killed row 2; B killed row (XB-102); C XC-218; K XC6-15 | A, B, C | `confirmed by all three` |
+| AM-P89-K3 | A killed row 3; B XB-102; C XC-201 | A, B, C | `confirmed by all three` |
+| AM-P89-K4 | A killed row 4; B XB-104 (c); C XC-210; K XC6-23 | A, B, C | `confirmed by all three` |
+| AM-P89-K5 | A killed row 5; B XB-104 (c); C XC-215; K XC6-23 | A, B, C | `confirmed by all three` |
+| AM-P89-K6 | A killed row 7 (withdrawn, A W2); B XB-104 (c); C XC-216; K XC6-23 | A, B; C held A's Round 1 split | `conflict resolved to the narrower reading` |
+| AM-P89-K7 | A killed row 6; B XB-104 (d); C XC-217; K XC6-13 | A, B, C after A W3 and C W6 | `confirmed by all three`; K's further reason `found by one` (K) |
+| AM-P89-K8 | A killed row 8; B XB-109; C XC-219 | A, B, C | `confirmed by all three` |
+| AM-P89-K9 | A killed row 9; B XB-108; C XC-220 | A, B, C | `confirmed by all three` |
+| AM-P89-K10 | A killed row 10 (XA-10 (b)) | A; B (B A-5) and C (C W4) accepted | `found by one` (A) |
+| AM-P89-K11 | A killed row 11; B killed row; C XC-221 | A, B (narrowed); C (city half killed) | `conflict resolved to the narrower reading` |
+| AM-P89-K12 | B XB-106; C XC-222 | B, C; A accepted | `found by two` |
+| AM-P89-K13 | A Round 3 (against C XC-210 (5), XC-215) | A; C did not answer | `conflict resolved to the narrower reading` |
+| AM-P89-K14 | C XC-224 (against A XA-1, B XB-115) | C; A W1 and B withdrawal 1 | `found by one` (C) |
+| AM-P89-N1 | A XA-14 | A; B (withdrawal 4) and C accepted | `found by one` (A) |
+| AM-P89-N2 | A XA-15 | A; B and C accepted | `found by one` (A) |
+| AM-P89-N3 | A XA-16 | A; B and C accepted the condition | `found by one` (A) |
+| AM-P89-N4 | A XA-17; B XB-114 (ii) | A, B; C accepted | `found by two` |
+| AM-P89-N5 | B XB-114 (i) | B; C accepted | `found by one` (B) |
+| AM-P89-N6 | B XB-114 (iii), XB-106 | B; C accepted | `found by one` (B) |
+| AM-P89-N7 | A XA-18; B XB-109 (d) | A, B; C accepted | `found by two` |
+| AM-P89-N8 | A XA-19 | A; B accepted as a pointer | `found by one` (A) |
+| AM-P89-N9 | A XA-20; B XB-115; C XC-223 | A, B, C | `confirmed by all three`; flag `found by one` (C) |
+| AM-P89-N10 | C XC-224 | C; A and B withdrew the contrary | `found by one` (C) |
+| AM-P89-N11 | A XA-21; B XB-117; C XC-226 | A, B, C | `confirmed by all three` |
+| AM-P89-N12 | A XA-21; B XB-117; C XC-225 | A, B, C after A W6 | `confirmed by all three` (confidence written at the lower) |
+| AM-P89-N13 | A XA-22 | A; B and C confirmed | `found by one` (A) |
+| AM-P89-N14 | A §6 item 1; B XB-112 | A, B; C accepted | `found by two` |
+| AM-P89-N15 | B XB-113 | B; A (with nuance) and C accepted | `found by one` (B) |
+| AM-P89-N16 | A §6 item 6; B XB-116; C XC-228 | A, B, C | `confirmed by all three` (written at seed) |
+| AM-P89-N17 | C XC-230 | C; A and B accepted | `found by one` (C) |
+| AM-P89-N18 | C XC-231 | C; A and B accepted | `found by one` (C) |
+| AM-P89-N19 | A docket; B docket; C XC-232 | A, B, C | `confirmed by all three` |
+| AM-P89-N20 | B XB-119 | B | `found by one` (B) |
+| AM-P89-N21 | B XB-118 | B; A and C accepted | `found by one` (B) |
+| AM-P89-N22 | A docket (P8 L243) | A; C after C W2; B accepted (B A-14); K contrary | `conflict resolved to the narrower reading` |
+| AM-P89-D1 | A docket | A; B, C confirmed | `found by one` (A) |
+| AM-P89-D2 | A, B, C dockets | A, B, C | `confirmed by all three` |
+| AM-P89-D3 | A, B, C dockets | A, B, C | `confirmed by all three` |
+| AM-P89-D4 | A docket | as AM-P89-N22 | `conflict resolved to the narrower reading` |
+| AM-P89-D5 | A, B, C dockets; K XC6-23 | A, B, C | `confirmed by all three` |
+| AM-P89-D6 | A, B, C dockets; K XC6-25 | A, B, C | `confirmed by all three` |
+| AM-P89-D7 | A, B dockets; C XC-215; K XC6-23 | A, B, C | `confirmed by all three` |
+| AM-P89-D8 | A docket | A; B, C accepted | `found by one` (A) |
+| AM-P89-D9 | A, B, C dockets; K XC6-23 | A, B, C (kill) | `confirmed by all three`; framing `conflict sent to the developer` |
+| AM-P89-D10 | A, B, C dockets | see AM-P89-K6 | `conflict resolved to the narrower reading` |
+| AM-P89-D11 | A, B, C dockets; K XC6-23 | A, B, C | `confirmed by all three` |
+| AM-P89-D12 | B docket; A XA-8; C XC-209 | A, B, C | `confirmed by all three` |
+| AM-P89-D13 | C docket (H48 row), XC-239 | C; B accepted | `found by one` (C) |
+| AM-P89-D14 | A, B, C dockets; K XC6-24 | A, B, C (addition) | `confirmed by all three`; tier `conflict resolved to the narrower reading` |
+| AM-P89-D15 | A, B, C dockets | A, B, C | `confirmed by all three` |
+| AM-P89-D16 | A, B, C dockets; K XC6-25 | A, B, C | `confirmed by all three`; unit `conflict resolved to the narrower reading` |
+| AM-P89-D17 | A, B, C dockets | A, B, C | `confirmed by all three` |
+| AM-P89-D18 | A, B, C dockets | A, B, C | `confirmed by all three` |
+| AM-P89-D19 | A, B, C dockets | A, B, C | `confirmed by all three` |
+| AM-P89-D20 | A, B, C dockets; K XC6-25 | A, B, C | `confirmed by all three` |
+| AM-P89-D21 | A, B, C dockets | A, B, C (count); B, C (L97-L98) | `confirmed by all three`; addition `found by two` |
+| AM-P89-D22 | A docket | A; B, C confirmed | `found by one` (A) |
+| AM-P89-D23 | A, B, C dockets; K XC6-24 | A, B, C after C W1 | `confirmed by all three` |
+| AM-P89-D24 | A, B, C dockets (count); B (sustainability) | A, B, C | `confirmed by all three`; sustainability `found by one` (B) |
+| AM-P89-D25 | A, B, C dockets | A, B, C (L207, L347); B, C (L21) | `confirmed by all three`; L21 `found by two` |
+| AM-P89-D26 | A docket | A | `found by one` (A) |
+| AM-P89-D27 | B docket (after withdrawal 5); C XC-226 | B, C | `found by two` |
+| AM-P89-D28 | C docket | C; A, B accepted the site | `found by one` (C) |
+| AM-P89-D29 | A, B, C dockets | A, B, C | `confirmed by all three` |
+| AM-P89-D30 | B, C dockets; A §6 item 6 | A, B, C | `confirmed by all three` |
+| AM-P89-D31 | A docket | A | `found by one` (A) |
+| AM-P89-D32 | B, C dockets; A XA-25; K XC6-39 | A, B, C | `confirmed by all three` |
+| AM-P89-D33 | C docket | C; A, B accepted | `found by one` (C) |
+| AM-P89-D34 | C docket | C; A, B accepted | `found by one` (C) |
+| AM-P89-D35 | B docket; A §6 item 1 | A, B | `found by two` |
+| AM-P89-Q1 | A XA-23; B question 1; C XC-233; K XC6-37 | A, B, C | `confirmed by all three`; both-where-they-differ `found by two` (B, K); Davis-built `conflict resolved to the narrower reading` |
+| AM-P89-Q2 | A XA-24; B question 2; C XC-234; K XC6-38 | A, B, C | `confirmed by all three` |
+| AM-P89-Q3 | A XA-25; B question 3; C XC-235; K XC6-39 | A, B, C | `confirmed by all three` |
+| AM-P89-Q4 | A XA-26; B question 5; C XC-236 | A, B, C | `confirmed by all three` |
+| AM-P89-Q5 | A XA-27 | A; B, C accepted | `found by one` (A) |
+| AM-P89-Q6 | A XA-28 | A; B same answer | `found by one` (A) |
+| AM-P89-Q7 | A XA-29 | split: B firm; A, C, K narrower | `conflict sent to the developer` |
+| AM-P89-Q8 | A XA-30; B question 6 | A, B | `found by two`; local form `found by one` (B) |
+| AM-P89-Q9 | B question 4 | B; A, C accepted | `found by one` (B) |
+| AM-P89-Q10 | B question 7; A §6 item 1 | A, B | `found by two` |
+| AM-P89-Q11 | C XC-237 | C; A, B accepted | `found by one` (C) |
+| AM-P89-Q12 | C XC-238 | C; A, B accepted | `found by one` (C) |
+| AM-P89-Q13 | C XC-239 | C; B accepted | `found by one` (C) |
+| AM-P89-R1 | B §6 | B | `found by one` (B) |
+| AM-P89-R2 | A §6 7(d); B §6 | A, B | `found by two` |
+| AM-P89-R3 | A §6 item 1; B §6 | A, B | `found by two` |
+| AM-P89-R4 | A §6 item 2; B snag 8; C XC-208 | A, B, C | `confirmed by all three` |
+| AM-P89-R5 | A §6 item 3; C XC-241 | A, C | `found by two` |
+| AM-P89-R6 | B §6 | B | `found by one` (B) |
+| AM-P89-R7 | A §6 item 4; B docket; C XC-244 | A, B, C | `confirmed by all three` |
+| AM-P89-R8 | A §6 item 5 | A | `found by one` (A) |
+| AM-P89-R9 | A Limits; B Limits; C XC-244 | A, B, C | `confirmed by all three` |
+| AM-P89-R10 | A XA-6; C XC-242 | A, C | `found by two` |
+| AM-P89-R11 | C XC-243 | C | `found by one` (C) |
+| AM-P89-R12 | B §6 question 3; C XC-240 | B, C | `found by two` |
+| AM-P89-R13 | B §6 question 2 | B | `found by one` (B) |
+| AM-P89-R14 | B §6 question 1 | B | `found by one` (B) |
+| AM-P89-R15 | B §6 question 4 | B | `found by one` (B) |
+| AM-P89-R16 | A §6 7(a) | A | `found by one` (A) |
+| AM-P89-R17 | A §6 7(b) | A | `found by one` (A) |
+| AM-P89-R18 | A §6 7(c) | A | `found by one` (A) |
+| AM-P89-R19 | A §6 7(e) | A | `found by one` (A) |
+| AM-P89-R20 | B §6 | B | `found by one` (B) |
+
+### 9.2 Every conflict, and how it was decided
+
+Conflicts that remained after Round 3 (eight; seven resolved to the narrower reading, one sent to the developer):
+
+1. **The unit of H48b** (AM-P89-F2, AM-P89-D16). A and B: origin rows or stocks. C wrote communities
+   and withdrew it (C W3); K, not part of Round 3, still writes communities (K XC6-25). Decided: origin rows, the reading
+   that claims least (it does not presume a speech community). `conflict resolved to the narrower reading`.
+2. **Adding the supporting tier to Phase 8 §G** (AM-P89-F12, AM-P89-D14). B adds it; C objects (low
+   confidence) that the tier is not one item every resident shares; A adds only the dominant language. B did not answer
+   C's objection. Decided: not added; it belongs in §E.1. `conflict resolved to the narrower reading`.
+3. **"not a dialect"** (AM-P89-K6, AM-P89-D10). A narrowed it in Round 1 and withdrew the narrowing
+   (A W2); B and C killed it; C in Round 3 endorsed A's Round 1 split without having seen A's withdrawal. Decided: killed
+   for want of an admitted line, with "register" glossed; A's withdrawal counted as evidence for the narrower reading,
+   not as a tie-break. `conflict resolved to the narrower reading`.
+4. **The class of P8 L248** (AM-P89-K11). A and B: narrowed. C: the city half killed by evidence. Decided:
+   narrowed by evidence. `conflict resolved to the narrower reading`.
+5. **Two phrasings in C's accent finding** (AM-P89-K13). A objected to "speeds" and "long-settled";
+   C did not answer. Decided: trimmed. `conflict resolved to the narrower reading`.
+6. **Whether P8 L243 quotes PHYS L426 accurately** (AM-P89-N22, AM-P89-D4). A: unmarked
+   emphasis. B and K: accurate; C: exact, withdrawn (C W2); B accepted A's row (B A-14). K, not in Round 3, stands
+   contrary. Decided: accurate in substance, emphasis unmarked (checked against both lines by the merge writer).
+   `conflict resolved to the narrower reading`.
+7. **Davis-born or Davis-built** (AM-P89-Q1). K and C wrote Davis-born; A and B wrote Davis-built, because
+   Phase 9's born-at-Davis claim rests on chapters no reader could check. Decided: Davis-built.
+   `conflict resolved to the narrower reading`.
+8. **What marks someone as from Davis, as a claim of distinctiveness** (AM-P89-Q7,
+   AM-P89-F10, AM-P89-D9). B keeps it firm "as far as Davis's own lines go"; A routes the
+   distinctiveness to the terminal check; C and K take the peer-free side. This turns on how a per-location pass answers
+   a spine question under the one-location rule, which no ruling in the admitted set settles. Sent with the narrower
+   reading as the recommendation. `conflict sent to the developer`.
+
+Conflicts in Round 1 that Round 3 resolved by withdrawal, so no conflict remains (recorded here, not counted above):
+
+- Mandarin's robustness to the reserved rows: A and B withdrew; C's narrower statement stands (AM-P89-K14).
+- The builders' language: A withdrew its bare null; B withdrew its two-inputs sentence (AM-P89-F6).
+- The strength of the switching statement: A withdrew conditional; C narrowed German (AM-P89-F8).
+- The P6 L203 wording: C withdrew its Davis-specific wording; B adopted A's (AM-P89-F12).
+- The home-language-as-origin-practice inference: B withdrew it from conditional to seed (AM-P89-F3).
+- The DR-12 bar and the tier: B narrowed its not-engaged sentence (AM-P89-N1).
+- "It travels": A withdrew plain-property to conditional (AM-P89-K7).
+- The class of "the one marker": C added contradicted-by-evidence (C W6); B accepted A's class.
+- The independence of Phases 6 and 7: C adopted A's one-source qualifier (C W4).
+
+### 9.3 Every withdrawal
+
+- **A.** W1: XA-1's robustness line (Mandarin and the reserved rows). W2: the narrowing of "not a dialect". W3: travel as a
+  plain property, now conditional. W4: the bare null for the builders' language, now a conditional Hawaiian floor with
+  null beyond it. W5: conditional availability in XA-8, now firm as ruled with German flagged. W6: the workforce pointer
+  at P8 L146, deferring to a head count or dropping the figure.
+- **B.** 1: XB-115's "no tier finding depends on the reserved shares". 2: XB-109 (c), demoted from conditional to seed.
+  3: XB-103's sentence that the two Module inputs point at the same language. 4: XB-107's not-engaged sentence, narrowed.
+  5: the docket row at P7 L380, corrected to L379.
+- **C.** W1: the Davis-specific wording at P6 L203 and P7 L381-L382. W2: "exact" for P8 L243's quotation.
+  W3: "45 origin communities". W4: XC-211 narrowed to one source, two carriers. W5: XC-209 narrowed (German conditional). W6: XC-217
+  amended to contradicted by evidence. Not withdrawn: XC-224 (the reserved-rows flag).
+- **K.** Not part of Round 3; no withdrawals.
+
+### 9.4 Strength and confidence choices
+
+- Where readers gave different strength words after Round 3, the weakest was written: AM-P89-N7 (seed),
+  AM-P89-N16 (seed), AM-P89-F10 (c) (seed), AM-P89-F12 wording (conditional).
+- Where readers gave different confidence levels for one docket row, the lower was written and the split named in the row.
+- No finding was strengthened or softened to reach agreement.
+
+### 9.5 Items a reader flagged as unclear in the brief, and process notes
+
+- **SETS headers.** L30, L58 and L71 were admitted without their column headers (A snag 2; B snag 1; C XC-246; K XC6-40).
+- **DR-4.** Cited by the pass as H48's ground, but in no list (A Limits; B snag 2; C XC-248; K XC6-49).
+- **The four supporting groups.** All three read the brief's phrase as counting English, the largest group, as a member
+  (A snag 5; B snag 4; C XC-247).
+- **A line citation.** XC6-27 cites physiology L424 for the language of a local robot community; L424 is Build and the
+  language rule is L426. Both were used (A snag 3; C XC-254).
+- **A file outside the list.** XC6-30 cites the rule against national stereotypes at L112, which is not in the readers'
+  list; PHYS L219-L229 was used instead (A snag 4). K read that file.
+- **Every pass location.** The brief asked for every pass location in any pass file; readers read only the files in their
+  list (B snag 9).
+- **The amendment note's section.** K's brief placed the items in section C of the note; DR-104 item (3) says section F;
+  probably renumbered (K XC6-41).
+- **Elapsed time.** Brief rule 4 led A not to use generational language-shift research (A snag 7); C used it only to name
+  absent inputs.
+- **DR-96.** Its lines name other locations; only the developer's national statement at LOG L1632 was used (A snag 6; B;
+  C).
+- **Hooks.** No tool-use hook was observed in Round 1 by A, B or C. In Round 3, the graphify hook fired once for each of
+  A, B and C on a Bash call, and each disregarded it under DR-6. K saw the Read advisory on every Read and the Bash notice
+  once, and disregarded both under DR-6.
+- **Process notes.** A wrote a transient file in its own staging directory and deleted it (A snag 12). B read two PDFs
+  saved by WebFetch in the session's tool-results folder, as research inputs (B snag 7). K ran one command that touched
+  spec L4 and L9 and printed only a byte count, and loaded whole files in a read-only check that printed only flags
+  (K XC6-42). C described one real-world study without naming its station (C XC-249). C noted that session context
+  mentions a different form of the language's name and used only the admitted wording (C XC-253). The APICS page was read
+  only to its first 100,000 characters (B; C XC-250).
+- **Paths.** Several admitted paths contain a subnet folder name; readers used it only as an address (A snag 11; B snag 5;
+  C XC-252).
+
+### 9.6 Points written without content the rules forbid (rule 7)
+
+- LOG L1669 items (1) and (4), and the DR-96 heading at LOG L1628, name other locations. They are not reproduced; the
+  points are written with "(another location: not used)" or without the name.
+- The 2019 winter study's station, named in some readers' sources, is not reproduced (as C and A did).
+- The positional lines at PHYS L438 and in K's copy of the rule against national stereotypes name other locations; the
+  readers' PROOF blocks are not carried into this merge.
+- SPEC L15-L16 carry revision notes naming another location; only the current figures are used (S1 reads those notes and
+  does not use them).
+- PHYS L426's description of which robots use Sumerian includes a vocation word that the naming rule bars; only the
+  phrases "a liturgical register" and "not a vernacular any ordinary robot speaks day to day" are quoted.
+- File paths are written as short file names, without the subnet folder name.
+- No reader output named another city as a comparison, so no comparison had to be dropped.
+
+### 9.7 The merge writer's own process
+
+- Read in full: the merge brief, the readers' common brief, the three reader outputs, the three Round 3 replies and the
+  first check's reader output.
+- Read only to check quotations and line citations, all inside admitted ranges: LOG L1664-L1672 and L1698-L1706 (and
+  L1632-L1633 by search of those two lines); P8 L236-L261 and L288-L332; P9 L74-L99; P6 L200-L212 and single lines L99,
+  L105, L115-L118, L128, L251-L252, L287, L316-L318; P7 L378-L382 and single lines L87, L157-L167, L356-L361; BLOCS
+  L916-L930; PHYS L213-L230, L418-L426 and single lines L9, L67, L297, L436; SPINE L105-L111, L162-L177 and single lines
+  L249, L250, L488, L490; ULM03 L987-L989 and L1089-L1094; SPEC L15, L16, L20, L32 and L78.
+- K's contributor counts (seven English rows at BLOCS L922, fifteen Russian rows at L924) were checked against BLOCS.
+- No graphify call and no repo-wide search was made. The graphify Read advisory appeared on each Read, and the Bash hook
+  fired once; both were disregarded under DR-6, which is compliance, not override.
+- After writing, a read-only script checked that every quoted string in these parts occurs in an admitted source span
+  or a reader output (198 strings; none missing) and that every research-log string and address occurs verbatim in the
+  readers' logs (86; none missing). The script and one concatenated copy of the parts were written to the scratchpad as
+  temporary files and deleted after use; recorded here because the brief limits writes to the part files.
+- No web research was run by the merge writer. No file was edited other than these part files.
+

@@ -1,0 +1,48 @@
+== numbering: numbered piece P7: D=44, F=10, K=17, N=24, Q=13, R=14
+part files: 9; merged lines: 1700
+other-city names: none
+American English sweep: no British variants found by the pattern list (only 'judgement' is kept)
+QUOTED STRINGS (14+ chars) checked against the admitted ranges of the reading list: not found anywhere: 43; found only outside an admitted range: 0
+  NOT FOUND   L8: (another location: not used)
+  NOT FOUND   L63: supplemented, not substituted
+  NOT FOUND   L188: the own-need term has one live value: zero
+  NOT FOUND   L344: With the denominator still unsettled nationally (19:50)
+  NOT FOUND   L346: Carry 320,284 only as the open national denominator caveat (Register item 11)
+  NOT FOUND   L359: feeds about 1,309,000 beyond itself
+  NOT FOUND   L395:  in Round 3 and adopted 
+  NOT FOUND   L396:  here means humans. File 04 L148 counts demand in humans only (
+  NOT FOUND   L418: firm as to structure
+  NOT FOUND   L507: narrows at minimum
+  NOT FOUND   L512: open only for any people-fed conversion
+  NOT FOUND   L596: narrows at minimum
+  NOT FOUND   L620: open national denominator caveat
+  NOT FOUND   L670: not replaceable from the present national surplus
+  NOT FOUND   L687: §B to §E stand
+  NOT FOUND   L737: firm on the model
+  NOT FOUND   L737: conditional on the model
+  NOT FOUND   L771: supply to the rest of the Federation
+  NOT FOUND   L784: Davis grows 44% of Tepenia's food
+  NOT FOUND   L792: indicative only
+  NOT FOUND   L801: national export food supply
+  NOT FOUND   L802: national export-supply headcount
+  NOT FOUND   L809: 44.2% of the national export-supply headcount
+  NOT FOUND   L887: disposed 2026-09-16
+  NOT FOUND   L909:  and Register item 11 at 
+  NOT FOUND   L1099:  by letter; the Half B L261 claim is untested | Mandate 27.6% · free 30.5% on the current 
+  NOT FOUND   L1104:  sentence and its H39 pointer) | Three rows, of which one is live; 
+  NOT FOUND   L1108:  overreaches the canon word 
+  NOT FOUND   L1155: only as the open national denominator caveat (Register item 11)
+  NOT FOUND   L1212: to the rest of the Federation
+  NOT FOUND   L1212: national supply
+  NOT FOUND   L1573 (section 9): 22.74% of residents
+  NOT FOUND   L1595 (section 9): the denominator still unsettled nationally
+  NOT FOUND   L1596 (section 9): narrows at minimum
+  NOT FOUND   L1624 (section 9): could feed (a capacity; 17 L7)
+  NOT FOUND   L1627 (section 9): one live value: zero
+  NOT FOUND   L1631 (section 9): §B to §E stand
+  NOT FOUND   L1633 (section 9): national export food supply
+  NOT FOUND   L1633 (section 9): national export-supply headcount
+  NOT FOUND   L1651 (section 9): With the denominator still unsettled nationally (19:50)
+  NOT FOUND   L1653 (section 9): file 16's own formula text
+  NOT FOUND   L1683 (section 9): the 2026-10-29 determination file
+  NOT FOUND   L1685 (section 9): (another location: not used)

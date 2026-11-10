@@ -1,0 +1,1856 @@
+# Davis amendment re-derivation piece P5: what Davis's own relation lines rest on, the port, air access and the arrival types (2026-11-09)
+
+> **Status: PROPOSED. Nothing in this document is applied, and no pass file is edited** (`DR-101`). Three
+> independent readers (A, B, C) re-derived Phase 5 from one frozen brief. A mechanical Round 2 check confirmed
+> that each read its files. In Round 3 each reader cross-checked the other two. One merge writer then wrote this
+> document under merge rule `M-246` (developer ruling 2026-09-28, with its 2026-11-04 refinements). The first
+> check's single reader is unioned and credited as K. Every correction is a docket row held for the developer.
+> Every recommended answer to a developer question is PROVISIONAL.
+
+**How to read this document.**
+
+- **Finders.** Each item names who found it: A, B or C (the three readers) or K (the first check's reader). It
+  also carries one of the five disposition phrases: `confirmed by all three` · `found by two` · `found by one` ·
+  `conflict resolved to the narrower reading` · `conflict sent to the developer`. Section 9 explains how these
+  phrases were assigned.
+- **Strengths.** `firm`, `conditional`, `seed` and `null` follow the weakest strength any reader gave after
+  Round 3, unless a reader's own Round 3 reply moved it. A **hole** is content that an admissible source leaves
+  unwritten. It is neither an in-world absence nor an exclusion.
+- **Abbreviations.** PH5 = the pass's `04_Phase_05_Relation_and_Geometry.md` · SPINE = the pass's `02_Spine.md` ·
+  PSPINE = `03_The_Phase_Spine.md` · SPEC = Davis's own spec, `Davis.md` under `Specs/` · CONN = `City_National_Connections.md` ·
+  RELDB = `City_Relationship_Database.md` · XSUB = `City_Cross_Subnet_Relationships.md` · HWY = `Highways.md` ·
+  PORTS = `Ports.md` · AIR = `Airports.md` · REG = `Founding_Register.md` · LOG = `DEVELOPER_RULINGS_LOG.md` ·
+  NNS = `No_National_Stereotypes.md` · ROBOT = `Robot_Physiology_and_Cultural_Practices.md` ·
+  ALR = `Amendment_Layer_Rules.md` · 00b and 00d = the two discipline files. An orchestrator result is one of
+  the seven orchestrator-verified results in the readers' brief.
+- **Other locations.** Partners are named by the CONN line that names them: the CONN:304 partner, the CONN:307
+  partner and the CONN:308 partner. Davis's own subnet is called Davis's own subnet, because its label is also
+  another location's name. Where a source line names another location, this document writes
+  "(another location: not used)" or describes the place only by its position relative to Davis.
+- **Quotations.** Every quoted string is an exact quotation of a source line or of a reader's output. Proposed
+  wordings are set as indented blocks without quotation marks, because they are proposals, not quotations.
+
+## 0. In short
+
+- **The port changes the phase most.** PORTS:559 designates Davis's Prydz Bay harbor as the sector's import
+  port (a developer ruling dated 2026-09-16; canon's word "principal" is quoted and attributed, never restated).
+  Raw materials from Upper-Earth countries come in through two neutral transshipment hubs. The harbor runs
+  year-round on an icebreaker-kept channel, and the Federation pays for that channel. H30 closes "yes". The
+  claims that the port is "the inverse of a dependency" and that Davis rebuilds a port for nothing it needs are
+  killed.
+- **Air falls.** AIR:50 and AIR:54-56 list Davis among the cities with no air access in Tepenia. Four arrival
+  types become three: road, sea (year-round, with cargo stated and persons not), and the treaty right.
+- **The founding-nation ties return, as ties whose content is a hole.** CONN:304-308 now rest them on the
+  Founding Register (`DR-19`) and, for two of them, on Hwy 110 (`DR-32`: "the Register and the map"). The
+  pass's "structural exclusion" is killed by evidence that postdates the pass. H31 closes. A new hole replaces
+  it: what passes along the ties.
+- **Line by line:** the CONN:304 tie is a seed (a shared founding nation; no route; `DR-32`'s "if any"). The
+  CONN:307 tie is firm as a route and a hole in content. The CONN:308 tie is Davis's direct eastern neighbor on
+  Hwy 110 plus a named link of unknown kind. Its presence clause describes another location and is not used.
+- **The sixth line is null.** CONN:314-315 carries only a comparison. The words PH5:79 quotes are not on it.
+- **5c, 5e and H33.** One parent-paid service is now written: the icebreaker channel, a national service sited
+  at Davis. "Davis has no dependency it can discuss" needs a qualifier. H33 narrows but stays open, because the
+  stated cargo is raw materials, not plant and equipment.
+- **The axis.** Two of its three legs fall. The developer chooses whether it gets a replacement.
+- **What stands:** 5b's own-eras set, the membership mechanism, `D4` and the under-reporting mechanism, H29,
+  H32, H34, the treaty right, the refusal to rank Davis, and the rule that no partner is named.
+- **What is open:** what passes along the ties; what the Relay Vaults link carries; where the imports go after
+  landing; whether persons arrive by sea; RELDB:193 against PORTS:559 on route and supplier; CONN's file-level
+  sourcing; AIR beyond L57; whether the scientific prospects are admissible inputs.
+
+## 1. Findings re-derived
+
+### AM-P5-F1 What each of Davis's six relation lines rests on now (question XC5-27)
+
+- **Found by:** A, B, C and K · **Disposition:** confirmed by all three.
+- **The pass says:** PH5:26 records "Davis's own section, L296–308" with "Six outward relations." PH5:35
+  refuses one relation partly because `City_National_Connections.md` "states it builds on that same file" (the
+  withheld file). PH5:36 refuses two more on the "Same withheld root."
+- **The current inputs say** (Davis's section is now CONN:303-315; partner names are not reproduced):
+
+| CONN line | Canon's label | Stated basis | Does it lean on the station, its operator, a namesake, a subnet nickname or the withheld file? |
+|---|---|---|---|
+| 304-306 | "Medium, Cultural/Historical." | "Australia is among the founders of both cities" (`DR-19`; Founding Register). The line adds: "The real-world namesake thread that stood here is removed" (`DR-32`) | No, on the line's face |
+| 307 | "Strong, Cultural." | "Both founded by Australia (`DR-19`; Founding Register), on the same highway, Hwy 110." | No |
+| 308 | "Strong, Cultural/Infrastructure." | "Australia is among the exile groups present at" (another location: not used) (Founding Register); Hwy 110; the partner's "own Relay Vaults link." | No |
+| 309-311 | "Medium, Scientific." | No citation. "Davis's paleoclimate lake-sediment methodology" and the partner's ice-core archive, a "cross-reference once full connectivity exists." | Not on its face. Its provenance is the file's (AM-P5-F2) |
+| 312-313 | "Medium, Scientific." | No citation. "The same climate-record cross-reference" against a second archive | Same as above |
+| 314-315 | "Medium, Scientific." | No citation. A comparison only (AM-P5-F10) | Same as above; the line carries a ranking |
+
+- **The independent basis the pass said did not exist:**
+  - REG:59 gives Davis's row: Australia, basis *"extremely close… comparatively easy access"*, `DR-19`.
+  - LOG L545-547: the developer's verbatim naming of Davis among the cities in whose establishment Australia
+    played a central role. (A cited L546-547; B and C located the quotation's start at L545.)
+  - LOG L552: founding nations are legitimate on geography and access, and
+    "A real station's operator is a GPS coordinate only".
+  - LOG L553, the "Confirmed" row: Australia is confirmed as a founder of Davis and of the CONN:304 and CONN:307
+    partners. The CONN:308 partner is not in that row.
+  - LOG L752: "The two cities' tie, if any, stands on the Register and the map".
+- **Where the excluded bases still appear** (C and K). They appear in none of the six lines, only in Davis's
+  other lines:
+  - the station: RELDB:187 "Davis Station (Australia)", RELDB:193 "Major Australian station", SPEC L3 and
+    SPEC L151;
+  - the subnet nickname: RELDB:190;
+  - the namesake: SPEC L8 (its Significance line) and SPEC L155 (in the Founding section);
+  - post-frame status: RELDB:189 "Damaged; partially operational".
+
+  These are coordinates, flavor or post-frame material, and none of them is an input (LOG L552; LOG L632,
+  `DR-24`; LOG L752, where a namesake is "flavor only"). K adds that SPEC L151's operator and start year are
+  allowed as a statement about the physical infrastructure (LOG L631, `DR-24`), and that its journals and logs
+  are allowed as inherited records (`DR-25`).
+- **Re-derived statement (firm at line level):**
+
+  > Davis's section of `City_National_Connections.md` (L303-315) has six lines. Three rest on the Founding
+  > Register (`DR-19`): two on a shared founding nation, and one on the founding nation's presence at the
+  > partner. Two of those three also run on Hwy 110. None of the six cites the station, its operator, a
+  > namesake, a subnet nickname or the withheld file. The three scientific lines carry no citation of their own,
+  > and their provenance is conditional on CONN's file-level sourcing statement.
+
+- **Pass locations:** PH5:26's address is false (it is now L303-315), and its
+  "Their PATTERN is this phase's headline" needs a qualifier (AM-P5-F26 records the split on why). PH5:35 and PH5:36 state a basis that
+  is false on the current inputs (AM-P5-F3).
+- **What stays, and why:** the count of six. The rule that no partner is named in a relational finding (PH5:88;
+  PH5:307 "Does not name any partner city in its relational findings"), because the one-location law is
+  unchanged. The refusals at PH5:38 (another city's culture files) and PH5:39 (post-frame material).
+
+### AM-P5-F2 CONN's file-level sourcing statement (question XC5-35)
+
+- **Found by:** A, B, C and K · **Disposition:** confirmed by all three.
+- **The pass says:** PH5:35 says `City_National_Connections.md` "states it builds on that same file".
+- **The current inputs say:** CONN's header and method lines are outside every reader's admitted range,
+  including K's. The question cannot be answered from this list.
+- **Re-derived statement (conditional):** whatever the header says, the three founding-nation and presence ties
+  stand on REG:59, LOG L545-553 (`DR-19`) and LOG L752 (`DR-32`), and two of them also on HWY:199. REG:8 reads
+  "Founders are decided here and nowhere else." PSPINE L636 reads
+  "The tie itself is never dropped; its stated reason is." If the header still names the withheld file, two
+  things are at risk:
+  - (a) the three scientific lines, which carry no line-level citation (A; adopted by B and C in Round 3);
+  - (b) canon's grades and type labels on all six lines (B; adopted by C in Round 3).
+- **Pass locations:** reason (1) of PH5:35 can be neither confirmed nor refuted here. Under
+  AM-P5-F3 it no longer disqualifies the ties in any case.
+- **What stays, and why:** no finding in this piece depends on the header. The read is requested at
+  AM-P5-Q15.
+
+### AM-P5-F3 The "structural exclusion" of the founding-nation ties, the premise of H31
+
+- **Found by:** A, B, C and K · **Disposition:** confirmed by all three.
+- **The pass says:**
+  - PH5:36: "A structural exclusion, not a search gap. No admissible independent route exists; searching harder will not surface one."
+  - Its remedy: "Re-derive, or escalate for a ruling on partial Megasheet declassification".
+  - The same claim is carried at PH5:105 ("the flagged material removes the heritage relations entirely"),
+    PH5:114, PH5:303-306, PH5:330, PH5:346, PH5:359 and PH5:383-386.
+- **The current inputs say:**
+  - REG:8: "Founders are decided here and nowhere else."
+  - REG:11: "A founding nation stands on geography and access, never on the real station".
+  - REG:59: Davis's row (above).
+  - LOG L552-553: `DR-19`.
+  - LOG L752: `DR-32`, "The two cities' tie, if any, stands on the Register and the map".
+  - PSPINE L636: "The tie itself is never dropped; its stated reason is."
+  - LOG L1711 (`DR-105`): "Yes: a re-derivation uses the rulings as they stand".
+  - LOG L1868, item (5) of `DR-122`: "A single location's run takes a relation only from its own lines."
+- **Re-derived statement (firm):** an admissible basis now exists, it is independent of the withheld file, and
+  it governs. It is the Register, `DR-19` and `DR-32`, plus the map (Hwy 110, HWY:199) for CONN:307 and CONN:308.
+  The ties are admitted as ties. "Heritage" is still not admitted as their stated reason (PSPINE L636). No line
+  states anything flowing along any of them (AM-P5-R1).
+- **Why the classification inverts rather than merely narrowing** (K). By the pass's own instrument at PH5:357,
+  the ties now sit in the third state: "I looked, the source exists, and it has not been written yet." An
+  admissible source states each tie's basis and canon's grade and writes no flow. That is a hole, not an
+  exclusion. So "structurally excluded, not missing" (PH5:346) becomes, in substance, admitted with its content
+  unwritten.
+- **Exclusion was never the available treatment** (K). A population-origin finding is demoted, never excluded,
+  and NNS L56 reads "A pass that refuses all ethnic material is not obeying this law — it is misreading it".
+- **The pass was right on its own inputs** (A, B, C). `DR-19` is dated 2026-09-30 (LOG L540) and `DR-32`
+  2026-10-01 (LOG L745). PH5:3 reads "Written 2026-09-16." K adds that Phase 5's receipt (PH5:15-45) does not
+  open or cite the Register at all (AM-P5-N18 carries K's related finding).
+- **Class:** killed by evidence. The evidence is current and postdates the pass.
+- **Pass locations, all false on the current inputs:** PH5:35, PH5:36, PH5:105, PH5:114 (its second clause),
+  PH5:303-306, PH5:330, PH5:346, PH5:359 (which needs a qualifier rather than a strike) and PH5:383-386.
+- **What stays, and why:** the refusal of the tie's withheld description and of its post-frame fate
+  (AM-P5-F8); the refusal of other locations' culture files (PH5:38); and the refusal of the namesake as
+  a basis (LOG L752).
+
+### AM-P5-F4 The CONN:304 tie: a shared founding nation with a location in another subnet (questions XC5-28, XC5-29)
+
+- **Found by:** A, B, C and K · **Disposition:** confirmed by all three. In Round 3, C withdrew its strength
+  from conditional to seed.
+- **The pass says:** PH5:35 says "Neither recorded". PH5:303 says the pass does not record the
+  "connection, in any form".
+- **The current inputs say:**
+  - CONN:304-306 (quoted at AM-P5-F1).
+  - LOG L553 confirms Australia as a founder of Davis and of this partner.
+  - LOG L752: the namesake detail "grounds no tie", and the tie stands on "the Register and the map", "if any".
+  - XSUB:123 and CONN:304 put the partner in another subnet; SPEC L5 gives Davis's own.
+  - HWY:199 does not put the partner on Hwy 110.
+  - SPEC L8 says Davis is "(not paired with" the partner, "which is in a different subnet".
+- **The one-sentence test** (all three). Delete the partner's name and what is left is
+  "Australia is among Davis's founders". That is REG:59's population-origin fact, not a mechanism, dependency,
+  direction or flow.
+  K weighed this as the strongest case for the pass (a shared founder is a similarity, not a relation). K
+  concluded that it bears on what a re-derivation records, not on whether a route exists.
+- **Re-derived statement:**
+  - **(a) Population-origin fact (firm, demoted).** Davis's founder is Australia, on geography and access
+    (REG:59; `DR-19`). In the form of words NNS L139 prescribes, Davis is an Australia-founded Tepenian city
+    (C). The founder names stock, not culture: NNS L88 says
+    "take the origin culture as the STARTING STOCK, then apply the local divergence to it". See also the
+    general-population guard (AM-P5-N3).
+  - **(b) The tie (seed).** Canon records a tie whose only stated basis is that Australia is among both places'
+    founders. This admitted set states no route, and the map half of `DR-32` is empty here, so `DR-32`'s
+    "if any" stays attached. Its content is a hole (AM-P5-R1). No sameness or similarity is written.
+    NNS L94, "Two cities founded from the same stock MUST diverge, because the operator's inputs differ.", is
+    cited only as the reason no sameness is written. No comparison is made. (K treats NNS L94 as a matter for
+    the terminal check and does not use it; section 9 records why this is not a conflict.)
+  - **(c)** Canon's label "Medium, Cultural/Historical." is carried only as attributed wording
+    (AM-P5-F7; AM-P5-N7).
+- **Whether the tie exists at all** is a question for the developer (AM-P5-Q7).
+- **Pass locations:** "Neither recorded" at PH5:35 is false; PH5:303-304 is false; PH5:105 and PH5:114 are
+  false through AM-P5-F3.
+- **What stays, and why:**
+  - The namesake detail grounds nothing. It may appear only as an in-world detail (LOG L752), and nothing may be
+    built on it (AM-P5-R11).
+  - The tie's withheld description and its post-frame severance stay out (AM-P5-F8).
+
+### AM-P5-F5 The CONN:307 tie: a shared founding nation and the same highway
+
+- **Found by:** A, B and C · **Disposition:** confirmed by all three. In Round 3, A withdrew its single
+  "conditional" label.
+- **The pass says:** PH5:36 and PH5:305-306 treat this tie as part of the excluded
+  "intra-subnet Australian-heritage network".
+- **The current inputs say:**
+  - CONN:307: "Both founded by Australia (`DR-19`; Founding Register), on the same highway, Hwy 110."
+  - LOG L553 confirms Australia as a founder of both.
+  - HWY:199 gives the order of Hwy 110's five stops: the northwest endpoint (another location: not used),
+    Davis, the CONN:308 partner, the CONN:307 partner, and the southern endpoint (another location: not used).
+    SPEC L7 gives the same order.
+  - RELDB:192 names Davis's two direct highway neighbors, one to the west and one to the east.
+- **The one-sentence test.** Delete the partner's name and two Davis facts are left: Davis was founded by
+  Australia (an origin fact), and Davis is on Hwy 110 (geometry). The relational remainder is geometry. The
+  partner lies on Hwy 110 beyond Davis's eastern direct neighbor, toward the southern endpoint.
+- **Re-derived statement:** the tie is **firm** as a route, and the shared founding nation is firm on the
+  Register. Its content is a **hole** (null): Davis's lines state a channel and no flow (AM-P5-R1).
+  The founding-nation half is the same population-origin fact as at AM-P5-F4, demoted. Canon's
+  "Strong, Cultural." is attributed only.
+- **Pass locations:** PH5:36, PH5:105, PH5:114 and PH5:305-306 are false.
+- **What stays, and why:** "heritage" does not return as the tie's reason (PSPINE L636), and the label
+  "intra-subnet Australian-heritage network" does not return either (A).
+
+### AM-P5-F6 The CONN:308 tie: a direct neighbor, on presence rather than founding
+
+- **Found by:** A, B and C · **Disposition:** confirmed by all three after Round 3. A and B both withdrew their
+  treatment of the presence clause in favor of C's, and A adopted the named link that B and C recorded.
+- **The pass says:** PH5:36 excludes the same-subnet rows, and PH5:305-306 repeats the exclusion.
+- **The current inputs say:**
+  - CONN:308: "Australia is among the exile groups present at" the partner (Founding Register); Hwy 110; the
+    partner's "own Relay Vaults link."
+  - RELDB:192 makes this partner Davis's direct eastern neighbor, and HWY:199 agrees.
+  - LOG L553's confirmed list does not include it.
+  - SPEC L153 calls this partner "a Significant-tier presence" and counts it among the
+    "three cities carrying Australian founding-wave heritage across the subnet." (AM-P5-N6).
+- **The one-sentence test.** Delete the partner's name and the presence clause says nothing about Davis. It is
+  a fact about another location's composition. What survives is geometry (direct neighbors on Hwy 110) and a
+  second named channel, the partner's Relay Vaults link, whose kind and content no admitted line states.
+- **Re-derived statement:**
+  - The direct-neighbor tie on Hwy 110 is **firm**.
+  - The named link is a **seed** (the weakest strength any reader gave; B gave it as a hole).
+  - What flows along either is **null**, a hole (AM-P5-R1; AM-P5-R2).
+  - The presence clause is not used in a Davis finding. This is not a shared-founder tie and is never written as
+    one. Davis's own population-origin fact (REG:59) is unaffected and stays recorded, demoted
+    (AM-P5-F4). So no population-origin finding about Davis is excluded.
+  - Canon's "Strong, Cultural/Infrastructure." is attributed only.
+- **The link may wait on an open decision** (B; adopted by A and C). LOG L1869 lists "the relay questions" as
+  not decided. That line does not say what those questions are, so this pointer is conditional
+  (AM-P5-Q14).
+- **How to record the line** is a question for the developer (AM-P5-Q6).
+- **Pass locations:** PH5:36, PH5:105, PH5:114 and PH5:305-306 are false.
+- **What stays, and why:** no partner is named.
+
+### AM-P5-F7 Canon's grades, type labels and "principal" (question XC5-31)
+
+- **Found by:** A, B and C · **Disposition:** confirmed by all three. Applying the rule to "principal" was C's
+  find. A adopted it by withdrawing its own restatement in Round 3, and B had already attributed the word.
+- **The pass says:** PH5:308: "Does not rank Davis against anywhere". PH5:361 strips
+  "the two most genuinely comparable".
+- **The current inputs say:**
+  - The CONN labels: L304 "Medium, Cultural/Historical."; L307 "Strong, Cultural."; L308
+    "Strong, Cultural/Infrastructure."; L309, L312 and L314 "Medium, Scientific.".
+  - The grade legend is outside every admitted range.
+  - PORTS:559: "TEPENIA'S PRINCIPAL INDIAN-OCEAN-SECTOR IMPORT PORT".
+- **Re-derived statement (firm as a recording rule; seed for the residue reading):**
+  - Carry each grade and type label verbatim, in quotation marks, attached to its own line and attributed to
+    CONN. Never use one in the pass's own voice.
+  - Never sort, total or compare the six. Never write "strongest", "closest" or "main" partner.
+  - Give "Strong" and "Medium" no meaning while the legend is unread (A).
+  - Never treat a grade as evidence of what flows. Two lines graded "Strong" state no content, and no later
+    phase may fill them to match the grade (B; no forced fit).
+  - A "Cultural" label on a founder tie gives no shared culture to write (NNS L88, NNS L94).
+  - The same treatment applies to "principal". The word compares the port with other ports. It is quoted and
+    attributed, never restated in the pass's voice, and never turned into a quantity such as "most imports"
+    (C). In Round 3, A withdrew both its restatement and its "most of them" inference. The relation stands
+    without the word.
+  - The labels' basis is unstated, and some may predate the re-basing (AM-P5-N7).
+- **Pass locations:** none false. PH5:308 stays. For PH5:361 see AM-P5-F10.
+- **The developer question** is at AM-P5-Q2.
+
+### AM-P5-F8 XSUB:123-131: what stays out, and what survives on the Register and the map (question XC5-32)
+
+- **Found by:** A, B, C and K · **Disposition:** confirmed by all three. One wording point was decided as a
+  conflict resolved to the narrower reading (below).
+- **The pass says:** PH5:27: "L53's routing is clean." and "L125–147 and L233–234 are the flagged material".
+  PH5:35 refuses the tie because an XSUB line cites the withheld file.
+- **The current inputs say, clause by clause:**
+
+| XSUB lines | Content | Its source | Verdict |
+|---|---|---|---|
+| 123-124 | "Australia is among the founders of both" (the partner's own founder list is not used) | the Register | **Survives.** It agrees with REG:59 and LOG L553 |
+| 124-126 | "confirmed administratively separate," and "symbolic-only connection (occasional ceremonial/national-holiday acknowledgment, not genuine" operational ties | "established in `Davis_Full_Extrapolation.md` Section IV" (L126), the withheld file | **Stays out** |
+| 126-127 | a low-cost severance under "the Planetary Split Brain since there was never a deep working relationship to lose." | the withheld file; post-frame | **Stays out** |
+| 128-131 | the same-subnet links "survive the Split Brain", "per the same Full_Extrapolation finding" | the withheld file; post-frame | Only "Hwy 110 runs through all three" survives, on the map (HWY:199) |
+| 53-54 | Hwy 110 runs the length of Davis's own subnet, through Davis | the map | **Survives** |
+
+- **Re-derived statement (firm).** On the Register and the map alone, XSUB yields three facts:
+  - Australia is among Davis's founders, and among the founders of the CONN:304 partner.
+  - The CONN:304 partner sits in another subnet. This rests on the subnet labels at XSUB:123 and CONN:304, with
+    Davis's own subnet at SPEC L5.
+  - Hwy 110 runs through Davis and two same-subnet partners.
+
+  Nothing about what passes along any tie survives. The tie's character, its severance and the survival of the
+  same-subnet links stay out. They may be true, but they are unavailable.
+- **The wording point (conflict resolved to the narrower reading).** B called the subnet difference
+  "an administrative fact that needs no withheld source". A noted that "administratively separate" is the
+  withheld file's own wording at XSUB:124. The narrower reading is used: the admissible fact is the subnet label
+  only.
+- **A note on the withheld description** (C). Had it been admitted, the description would be a source affirming
+  an absence (no genuine operational ties). It is not admitted, so the tie's content stays a hole and is not
+  written as merely ceremonial.
+- **Pass locations:** PH5:27 needs a qualifier. Davis's entries are now XSUB:123-131, with the withheld citation
+  at L126. L139-147 and L233-234 lie outside every reader's range and were not checked. For PH5:35 see
+  AM-P5-F3.
+- **What stays, and why:** PH5:39's refusal of post-frame material covers XSUB:126-131. The source-fix question
+  is at AM-P5-Q5.
+
+### AM-P5-F9 H31 closes; the headline count and the second doubt restated (question XC5-33)
+
+- **Found by:** A, B, C and K · **Disposition:** confirmed by all three.
+- **The pass says:**
+  - PH5:330 (H31):
+    "What, if anything, about Davis's heritage relations survives independent of the withheld Megasheets",
+    which "Requires re-derivation or a ruling on partial declassification".
+  - PH5:72 says CONN "lists six outward relations", and says three are disqualified at the source. PH5:73:
+    "The three that survive are all scientific, and canon writes each as a prospect".
+  - The second doubt (PH5:383-386) calls the removal "structural rather than evidentiary".
+- **Re-derived statement (firm):**
+  - **H31 is answered and closes. No declassification ruling is needed.** What survives is the founding-nation
+    basis (REG:59; LOG L553; LOG L752) and, for two ties, the Hwy 110 geometry (HWY:199). What does not survive
+    is the withheld character and the post-frame severance and survival. Under `DR-102` the identifier H31 stays
+    stable: ALR L28 says
+    "An amendment note states the current fact with its source address, not what the text used to say".
+  - **A new hole replaces H31:** AM-P5-R1, with the sub-hole AM-P5-R2. Whether the
+    CONN:304 tie exists at all is a question, not a hole (AM-P5-Q7).
+  - **The restated headline count, for PH5:72-73 (PROPOSED).** Its wording waits on AM-P5-Q8:
+
+    > Davis's own section of `City_National_Connections.md` (L303-315) lists six outward lines. None is
+    > disqualified at the source on the current text. Three rest on the Founding Register: two on a shared
+    > founding nation, and one on the founding nation's presence at the partner. Two of the three also run on
+    > Hwy 110. All three are admitted as ties, and none states what passes along it. Two lines are scientific
+    > prospects, which canon gates on full connectivity. The sixth states only a comparison and is not carried.
+
+  - **The restated second doubt, for PH5:383-386 (PROPOSED):**
+
+    > Second doubt: what passes along Davis's three founding-nation ties is unwritten. The ties stand on the
+    > Founding Register and Hwy 110 (`DR-19`, `DR-32`). The description a withheld file gives one of them, and
+    > its post-frame fate, stay out. This phase is incomplete about what Davis's ties carry, and says so rather
+    > than presenting the remainder as the whole.
+
+- **Pass locations:** PH5:72-73, PH5:330 and PH5:383-386 are false on the current inputs. PH5:346 needs
+  restating. PH5:359 needs a qualifier: it was true at pass time, and the route now exists in rulings that
+  postdate the pass.
+- **What stays, and why:** "This phase is certainly incomplete about Davis's relations" (PH5:385) stays (A, K).
+  The pass's judgment was right on its own inputs (B).
+
+### AM-P5-F10 The sixth line (CONN:314-315) carries no relation once its ranking is stripped (question XC5-36)
+
+- **Found by:** A, B, C and K · **Disposition:** confirmed by all three. In Round 3, A withdrew its class for
+  the relation, and the classes were then split by object (below).
+- **The pass says:** PH5:79 records "A hard-science professional correspondence" and quotes canon as
+  "a natural professional correspondence once full connectivity exists". PH5:361: "Davis's half kept, the ranking removed".
+- **The current inputs say:** CONN:314-315 reads, after its label "Medium, Scientific.", only
+  "The two most genuinely comparable" "hard science" civic "identities in the country." Neither the words
+  "professional correspondence" nor the gate "once full connectivity exists" appears on it.
+- **Re-derived statement (null):** once the ranking is removed, the line states no mechanism, dependency,
+  direction or flow. What is left is that Davis has a "hard science" civic identity. That is a
+  characterization, not a relation, and it is not admitted as a description of Davis (AM-P5-N14).
+- **Classes, split by object** (agreed by all three in Round 3):
+  - **The relation:** killed for want of an admitted line. The line exists and carries none.
+  - **PH5:79's quotation, as a citation of canon's words:** killed by evidence. The current line shows the
+    quoted words absent.
+  - Whether the words ever stood in CONN cannot be told from this list (AM-P5-R10).
+- **Pass locations:**
+  - PH5:73's "The three that survive" becomes two scientific prospects, and the third line is no longer a
+    prospect at all.
+  - PH5:79 is false.
+  - PH5:361's "Davis's half kept" is ungrounded, because no admitted Davis half remains. (One reader's output
+    also said PH5:361 stays; section 9 records how that was read.)
+- **What stays, and why:** PH5:308's guard against canon's comparative phrasing.
+
+### AM-P5-F11 The two scientific prospects (CONN:309-313)
+
+- **Found by:** A, B and C · **Disposition:** confirmed by all three. One point was decided as a conflict
+  resolved to the narrower reading (direction, below).
+- **The pass says:** PH5:77-78 records the two prospects. PH5:82: "These read as authoring notes — connections identified as worth developing, and not yet developed."
+  PH5:84: "It is NOT established that Davis has no realized relations". PH5:355 records the developer's
+  correction (undeveloped canon, not a characterizing absence).
+- **The current inputs say:** PH5:77's quotation matches CONN:310-311 word for word, and PH5:78 matches CONN:312
+  (B; confirmed by C in Round 3). CONN:310 calls the two records
+  "two independently developed long-term climate-record traditions".
+- **Re-derived statement (seed):** two prospective cross-references between Davis's lake-sediment climate record
+  and ice-core archives elsewhere, gated on full connectivity. The line's "first-time" marks them as not yet
+  happened at the line's vantage point (C). The developer's correction stands: these are undeveloped canon, not
+  a characterizing absence (PH5:355-357). The line also names Davis's own half, which PH5:77 omits
+  (AM-P5-N10).
+- **Direction (conflict resolved to the narrower reading).** B wrote "The direction is mutual". C held that the
+  line states no direction, only a possible future exchange, and that "mutual" is an inference. The narrower
+  reading is used: no direction is stated.
+- **When full connectivity exists** is not stated, and no date is inferred (AM-P5-N11;
+  AM-P5-Q9).
+- **Whether the lines are admissible inputs** under PSPINE L636 is open (AM-P5-Q8).
+  Until it is answered, they are carried only as canon's attributed prospects, at seed strength.
+- **Pass locations:** PH5:77 needs a qualifier. That is an omission, not a falsehood. PH5:82-86 stands. For
+  PH5:114's leftover "(headline)" see AM-P5-N1.
+- **What stays, and why:** the guard at PH5:84-86. Nothing establishes that the cross-references did not occur.
+
+### AM-P5-F12 "Largely unwritten" (PH5:83), on the corrected count (question XC5-36)
+
+- **Found by:** A, B, C and K · **Disposition:** confirmed by all three.
+- **The pass says:** PH5:83: "DAVIS'S RELATIONAL CONTENT IS LARGELY UNWRITTEN." The Phase 6 feed at PH5:341
+  repeats it: "most of Davis's relational content is simply UNWRITTEN."
+- **Re-derived statement (conditional; the weakest strength given, by A):** the headline holds for Davis's ties
+  to other places. All six lines name a basis or a prospect, and none states a realized flow. It no longer holds
+  for Davis's relational content as a whole, because its relation to the nation through the import port is now
+  written (PORTS:559; AM-P5-F15). Proposed wording (PROPOSED):
+
+  > Davis's ties to other places are written as bases and prospects, without content. Its relation to the
+  > nation, through its import port, is written (PORTS:559).
+
+- **K's scope note:** for the check's own inputs (the ties alone), the headline survives. The change comes from
+  the port, which lay outside K's row.
+- **Pass locations:** PH5:83 needs this qualifier, and so does PH5:341. The standing caution at PH5:341 against
+  reading silence as character stays.
+- **What stays, and why:** PH5:84-86 and PH5:88-89. Unwritten is not absent.
+
+### AM-P5-F13 5a's flow table and Hwy 110 (question XC5-30)
+
+- **Found by:** A, B and C · **Disposition:** confirmed by all three.
+- **The pass says** (PH5:112-114):
+  - flows out: "Food.";
+  - flows in: "Plant and equipment Davis cannot make" (`D6`, unresolved);
+  - does not flow: "Any realized scientific exchange", marked "(headline)", and
+    "And any heritage relation admissible to this pass".
+- **The current inputs say:**
+  - Hwy 110's route and endpoints (HWY:197-201); RELDB:191-192; XSUB:53-54; SPEC L7.
+  - PORTS:559's inbound sentence, and its siting "where `Hwy 110` meets the sea".
+  - CONN:307 and CONN:308 put two ties on Hwy 110.
+- **Re-derived statement:**
+  - **Along Hwy 110 between Davis and its two direct neighbors, Davis's own lines state no flow in either
+    direction (null).** The route, the order and the neighbors are firm. Only the eastern neighbor has a CONN
+    line at all (AM-P5-N12).
+  - **Out:** food. It comes from the spine (`PA-3`) and Phase 4, and is not re-tested in this piece
+    (conditional).
+  - **In, new (firm):** raw materials from Upper-Earth countries, by sea, through two neutral transshipment hubs,
+    landing year-round at Davis's harbor where Hwy 110 meets the sea (PORTS:559). RELDB:193 agrees on the cargo
+    (AM-P5-F14).
+  - **In, standing:** plant and equipment (`D6`), with no stated source or channel (AM-P5-F21).
+  - **Onward:** whether the imports stay at Davis or move on by road is not stated. That is a hole
+    (AM-P5-R3).
+  - **The ties change only the "does NOT flow" row**, never the flow rows: no tie line states a flow. That row
+    should be relabeled from an in-world absence to a documentation state. PH5:357 permits "no flow is stated"
+    here, not "does not flow" (A, B, C).
+- **Proposed table for PH5:110-115 (PROPOSED):**
+
+| | |
+|---|---|
+| Flows out | Food (baseline, `PA-3`; not re-tested in this piece) |
+| Flows in | Raw materials from Upper-Earth countries, by sea, through the two neutral transshipment hubs, year-round (PORTS:559), firm. Plant and equipment (`D6`): no stated source or channel (H33) |
+| Through | Not stated: whether the port's imports leave Davis by Hwy 110 |
+| Not written to flow (a documentation state) | Anything along the three founding-nation and presence ties. Any scientific exchange, which canon writes only as a prospect gated on full connectivity |
+| The quiet friction | Unchanged: no source records one |
+
+- **Pass locations:** PH5:113 needs a qualifier, because the raw-materials inflow is missing. PH5:114 is false:
+  its second clause is killed by evidence, and its label and first clause are covered at
+  AM-P5-N1. PH5:297 needs a qualifier (AM-P5-F24).
+- **What stays, and why:** PH5:107-108 (mechanism, not rivalry), and PH5:115 (the friction as a documentation
+  state).
+
+### AM-P5-F14 The freighter note at RELDB:193 (questions XC5-34 and XC5-41)
+
+- **Found by:** A, B, C and K · **Disposition:** confirmed by all three. The strengths and the route wording
+  were settled in Round 3: the route is a conflict resolved to the narrower reading, and the supplier's
+  strength follows C's downgrade.
+- **The pass says:** PH5:25 reads RELDB only as "Davis's own header — real station, Australia".
+- **The current inputs say:**
+  - RELDB:193 opens "Major Australian station" and places Davis between two other locations (not used).
+  - It then calls Davis a "Coastal port receiving Australian freighter shipments", carrying raw materials staged
+    via two Upper-Earth ports, as part of a coastal supply line spanning Davis's own subnet and another subnet.
+  - It points to a Theoretical-Calculations file that is not in this list.
+  - PORTS:559 instead routes the raw materials through two neutral transshipment hubs.
+  - RELDB:187 gives the station header.
+- **Re-derived statement:**
+  - **In form,** RELDB:193 is an inbound trade flow by sea, which PSPINE L636 admits
+    ("routes, trade, supply and population ties only"). It is not a heritage tie.
+  - **The cargo (firm, resting on PORTS:559; RELDB:193 corroborates):** raw materials come in by sea to Davis.
+  - **The route: unreconciled.** RELDB stages the cargo at two Upper-Earth ports, and PORTS transships it at two
+    neutral hubs. Neither line rules out one chain (staged at origin, then transshipped). That is a research
+    question (AM-P5-R7).
+  - **The supplier: null as a relation until the two lines are reconciled.** RELDB names
+    "Australian freighter shipments", and PORTS names "Upper-Earth countries". The line opens on station-operator
+    framing, so the supplier's identity may be a residue of the operator. LOG L632 bars the operator as a reason
+    for "founders, identity, culture or ties" (A, B, C).
+  - **Do not join the founding nation to the supply line** (A, B). A founding nation is a population-origin fact
+    (REG:59). An Upper-Earth trade flow is a separate fact. The note must never be read as the founding nation
+    supplying the city it founded.
+  - **How it bears on the rest:** it adds raw materials to 5a's in-row (AM-P5-F13). H30 closes on
+    PORTS:559 alone. H33 is untouched, because both lines say raw materials, not plant.
+  - **PROVISIONAL:** PORTS:559 is used, and RELDB:193 goes to the source-fix list. Whether the 2026-09-16 ruling
+    on PORTS:559 covers its route sentence, or only the designation it is attached to, is open
+    (AM-P5-Q4).
+- **Pass locations:** PH5:25 under-reads RELDB and needs a qualifier. RELDB:191-193 also give Davis's highway
+  position, its direct neighbors and this supply note.
+- **What stays, and why:** the refusal to take a station-operator fact as a relation. The RELDB:187 header is a
+  coordinate only (LOG L552).
+
+### AM-P5-F15 The port: H30 closes, and "the inverse of a dependency" is killed
+
+- **Found by:** A, B, C and K · **Disposition:** confirmed by all three. Two points were decided as conflicts
+  resolved to the narrower reading: who pays, and the "every year" sub-clause.
+- **The pass says:**
+  - PH5:22 gives the tier `CONSTRUCTED` with the quoted phrases "rebuilt or cut open, every year" and
+    "paid, forever", and quotes the port's season as
+    "maritime access in the austral summer, November–March, when ice allows delivery directly to station coastal facilities".
+  - PH5:264: "And the port is the inverse of a dependency".
+  - PH5:271: "Davis rebuilds a port every year for cargo that does not leave through it."
+  - PH5:273: "the port reads as an INBOUND asset, not an outbound one".
+  - PH5:275: "LABELED AS INFERENCE."
+  - PH5:276: "It does not state that the port exists for imports".
+  - The same claims recur at PH5:309, PH5:329 (H30), PH5:344, PH5:358 and PH5:362, and in the axis at PH5:56.
+- **The current inputs say** (PORTS:559):
+  - "TEPENIA'S PRINCIPAL INDIAN-OCEAN-SECTOR IMPORT PORT", marked "developer ruling, 2026-09-16".
+  - "Deep sheltered water in the Vestfold Hills' fjord-like inlets, rock-founded, where `Hwy 110` meets the sea."
+  - "Inbound: raw materials from Upper-Earth countries, transshipped via the French Southern and Antarctic Lands and Heard Island and McDonald Islands"
+  - "The natural ice window is the austral summer, Nov–March. A principal import port runs past it, on a channel kept open by icebreaker"
+  - "an established Tepenian practice; this coast is not the only place the Federation pays for one"
+  - The tier: "CONSTRUCTED", "year-round, icebreaker-dependent".
+- **None of PH5:22's quoted phrases is on L559.** They may sit in the tier legend of `Ports.md`, outside every
+  reader's range, or the ruling may have replaced them (A, B, C). "Station coastal facilities" was also
+  station-framed wording (C).
+- **Re-derived statement (firm):**
+  - Davis's Prydz Bay harbor is canon's designated import port for the sector. Canon's word "principal" is
+    attributed only (AM-P5-F7). The harbor is rock-founded and sits where Hwy 110 meets the sea.
+  - Raw materials from Upper-Earth countries come in through two neutral transshipment hubs.
+  - The port runs year-round on an icebreaker-kept channel, past the natural November-March window, and the
+    Federation pays for that channel.
+  - **H30 closes: yes, the port exists for inbound cargo.** The pass's labeled inference was right, and the pass
+    deserves credit for labeling it rather than asserting it.
+  - **No Davis actor keeps the channel open in the text** (conflict resolved to the narrower reading). B's
+    restatement had "Davis keeps an import channel open". C and A held that PORTS:559 puts the payment with the
+    Federation and names no Davis actor. Who operates the icebreakers, and who works the port, is not stated.
+- **Killed by evidence:** "the inverse of a dependency"; the point of PH5:271, which was a cost paid for nothing
+  needed; and "It does not state that the port exists for imports".
+- **Narrowed:**
+  - **"paid, forever" (conflict resolved to the narrower reading).** A killed it as a cost with Davis as payer.
+    B held that PORTS:559 shows only who pays for the channel. The narrower reading is used: the channel's payer
+    is the Federation, and who pays any other port cost is not stated. C added that PH5:22 itself names no payer.
+  - **"rebuilt or cut open, every year" (conflict resolved to the narrower reading).** A and C killed the
+    sentence at PH5:271 outright. B agreed that its point is killed, but held that this sub-clause stays
+    conditional on the unread tier legend. The narrower reading is used.
+  - In the narrow sense of imports, not exports, Davis's own output still does not leave through the port. That
+    rests on Phase 4 and Division of Industry file 16 §19, which are untested here (conditional).
+- **Pass locations:** PH5:22 needs a qualifier. PH5:202 is false. PH5:264, PH5:271 and PH5:275-277 are false or
+  superseded, and so is PH5:309. PH5:329 closes. PH5:344 is superseded. PH5:358 needs a qualifier (the tier
+  stands, and the Federation pays for the channel). PH5:362's inference is now confirmed by the source.
+- **What stays, and why:**
+  - the tier word `CONSTRUCTED`, and the natural November-March window;
+  - PH5:268's point that Davis "is not dependent on its own shipping" for its output, with "and air" removed
+    (AM-P5-F16);
+  - the emphasis on "delivery" at PH5:272, which the import role vindicates (A).
+- **General-population guard:** the port is one sector at Davis, not the city (AM-P5-N3).
+
+### AM-P5-F16 Air access: none
+
+- **Found by:** A, B, C and K · **Disposition:** confirmed by all three.
+- **The pass says:**
+  - PH5:23 and PH5:203: "Davis holds a confirmed airport marker".
+  - PH5:269: "by road and air."
+  - PH5:275: "the road/air routing", repeated at PH5:329.
+  - PH5:345: "the airport", among the nameable features.
+  - PH5:197, PH5:297 and PH5:373-374 count four arrival types.
+- **The current inputs say:**
+  - AIR:40: "Everything Else Has No Air Access", and AIR:50 lists Davis.
+  - AIR:54: "Many of these have a real-world station with a genuine airstrip today", with Davis among them.
+  - AIR:56: "and none of them has one in Tepenia."
+  - AIR:47: "Basis: this file's own 1:1 reconciliation with both map images".
+  - AIR:48: "No further marker exists, so no further city hosts an airport."
+  - AIR:45: "The negative is now checkable from this file instead of requiring 37 spec reads."
+  - AIR:57: "Access is via the highway network only", followed by "except where noted". The sentence continues
+    past the admitted range.
+- **Re-derived statement (firm):** Davis has no airport and no air access in Tepenia. It is reached by highway
+  (AIR:57), and separately by sea at its import port (PORTS:559). The airstrip at its real-world station is a
+  fact about that station only. This is an affirmed absence, so by the pass's own test at PH5:357,
+  "Only an absence a source AFFIRMS may be characterized.", it may be characterized (A).
+- **Qualifier:** AIR:57's exception clause runs past the range, but AIR:50 names Davis in the no-access list and
+  marks no served-through arrangement (A). Two readers printed AIR L58 by accident while verifying, and neither
+  uses it (section 9).
+- **At pass time:** AIR:42 reads "Enumerated 2026-09-03", before PH5:3's 2026-09-16. That fits the brief's
+  statement that the pass misread the file. The pass-time text is not visible here (conditional).
+- **Class:** killed by evidence.
+- **Pass locations, all false:** PH5:23; PH5:197; PH5:203; the air half of PH5:269; "road/air" at PH5:275 and
+  PH5:329; PH5:297; PH5:345; PH5:373-374.
+- **Elsewhere:** SPINE L555 (AM-P5-N16). Phase 4's "road and air", as PH5:267-269 relays it, and
+  any air statement in `03_Research.md` or Phase 10 are routed (AM-P5-Q3).
+- **What stays, and why:** nothing of the air row.
+
+### AM-P5-F17 5d: the arrival types, and the sea arrival restated
+
+- **Found by:** A, B and C · **Disposition:** confirmed by all three. In Round 3, C withdrew to "conditional"
+  for persons on the road.
+- **The pass says:** PH5:197: "four, and they are not one thing". PH5:201 calls the road "The ordinary case".
+  PH5:202 says the sea route is seasonal: "Roughly five months open, seven shut". PH5:203 lists air. PH5:204
+  lists the treaty right: "By legal right, and never recorded".
+- **Re-derived statement (three types):**
+
+| Route | Statement | Strength |
+|---|---|---|
+| By road | Hwy 110, the Coastal Cut main line. Davis is the second of five stops, one from the northwest endpoint, with a direct neighbor on each side (HWY:199-201; RELDB:191-192; SPEC L7) | Firm on geometry. "The ordinary case" for persons is conditional (A; C withdrew to it). With no airport, and with the port's stated traffic being cargo, the road is the only stated route for persons |
+| By sea, year-round | An icebreaker-kept channel into deep, sheltered, fjord-like inlets, past the natural November-March window (PORTS:559). The stated traffic is cargo (raw materials) | Firm for the channel and the cargo. Persons are a hole (AM-P5-R4) |
+| By legal right | Falkland Treaty Art. VI.1, as PH5:204 gives it. The treaty is not in this list and is untested here; it stays with H32 | Baseline |
+
+- **The robot body is not a gate on any route** (B): ROBOT L50 writes exposure as
+  "exposure as PREPARATION, the same category it is for a human".
+- **Pass locations:** PH5:197 is false. PH5:202 is false: the port is open year-round, and its quoted wording is
+  not on the current line. PH5:203 is false. PH5:297 and PH5:373-374 need the count of three.
+- **What stays, and why:** type 4, and PH5:206-207 as a documentation state. No source here touches them.
+
+### AM-P5-F18 5d: whether the ties bear on "outsider", and what arrivals meet first (question XC5-37)
+
+- **Found by:** A, B, C and K · **Disposition:** confirmed by all three for the ties (K: 5d uses no heritage
+  material). The point about PH5:211-213 was decided as a conflict resolved to the narrower reading.
+- **The pass says:** PH5:211-212 concludes "Davis has no category for the person arriving." PH5:215-216 says
+  arrivals meet "the quiet" and a varied terrain, and then "Nobody meets them".
+- **Re-derived statement:**
+  - **The ties stay out of 5d (firm, a null).** No Davis line says that anyone arrives along any tie, and a shared
+    founding stock does not define who counts as an outsider. Inferring a softer arrival for people of the same
+    stock would assert a sameness the divergence operator forbids (B). The CONN:307 and CONN:308 partners share
+    Hwy 110, so a road arrival from them is physically possible, but that possibility is geometry, not an arrival
+    type (C).
+  - **PH5:211-213 stands on the current inputs (conflict resolved to the narrower reading).** It rests on
+    Phase 2, which is outside this list. A would qualify it now for sea arrivals. B and C would leave it standing
+    until the question of persons arriving by sea is answered, because no input has changed Davis's vocabulary.
+    The narrower reading is used: it stands, and its dependency on AM-P5-R4 is recorded.
+  - **PH5:216, "Nobody meets them", needs a qualifier for sea arrivals** (all three). It was written for an
+    ungated road arrival. At a year-round import port someone handles the cargo; whether anyone receives or
+    screens arriving people is not stated.
+  - **What a sea arrival meets first** is the icebreaker-kept channel and the sheltered inlets where Hwy 110
+    meets the sea. This is conditional: A gave it as firm and C as conditional, and the weaker is used. No
+    customs, pilot, harbor office or other receiving institution is written, because none is stated (A).
+- **Pass locations:** PH5:216-217 needs the sea-arrival qualifier. PH5:211-213 stands, with its dependency
+  recorded.
+- **What stays, and why:** the membership mechanism (PH5:219-233), and its 00b guard at PH5:232: "a series here is a crop ledger or a carried record as readily as an observation run".
+
+### AM-P5-F19 5c: what the parent supplies and requires
+
+- **Found by:** A, B and C · **Disposition:** confirmed by all three. In Round 3, B rescoped its wording to match
+  A and C.
+- **The pass says:** PH5:168 gives what the parent requires (a production number). PH5:169 gives what it
+  supplies: `PA-6`, "what the parent determines returns UNKNOWN". PH5:170 gives where they disagree (`D4`).
+- **The current inputs say:** PORTS:559: the channel is kept open by icebreaker, and
+  "an established Tepenian practice; this coast is not the only place the Federation pays for one". The import
+  designation is a developer ruling.
+- **Re-derived statement:**
+  - **Supplies (firm on the text).** The Federation pays for the icebreaker channel that keeps Davis's import
+    port open past the natural window. It is a Federation-paid service sited at Davis, which keeps the nation's
+    import port open. No line says it addresses Davis's own deficits (`D1` water, `D6` plant, H29 heat).
+  - **Requires (seed).** This is A's strength, the narrowest given, and C accepted it in Round 3. The import
+    designation is a ruling about the place. What the parent requires of Davis in-world because of it (land,
+    labor, the road junction), and who works the port, are not stated.
+  - **The production number (`PA-3`) and the disagreement (`D4`) are unchanged.**
+  - **A two-way mechanism (conditional, because it joins stated parts; C).** The nation's inbound goods for this
+    ocean sector come ashore on Davis's ground, through a channel kept open by the nation's icebreakers. There is
+    no grievance and no villain (00d L139: "No villains.").
+- `PA-6` is narrowed, not closed.
+- **Pass locations:** PH5:169 needs a qualifier. So does SPINE L293, which says `PA-6`
+  "is explicit that the parent is UNWRITTEN" (C; adopted by B in Round 3). The Phase 7 feed at PH5:342 needs
+  the same addition.
+- **What stays, and why:** PH5:170-191 (`D4`, under-reporting, the misreading), and the provisional-assumption
+  protocol for everything else the parent does (PH5:315-316). The developer questions are at
+  AM-P5-Q10 and AM-P5-Q11.
+
+### AM-P5-F20 5e: "who knows?"
+
+- **Found by:** A, B and C · **Disposition:** confirmed by all three. In Round 3, B narrowed its wording to C's.
+- **The pass says:** PH5:281: "Two of Davis's four dependencies are UNNAMED". PH5:284: "Davis has no dependency it can discuss."
+  PH5:285: "By the spine's own definition that makes every one of them a shadow and none of them politics".
+- **The current inputs say:** PSPINE L737:
+  "dependency nobody has named is a shadow; a dependency everyone has named is politics."
+  PORTS:559 calls the port "icebreaker-dependent", and its channel "an established Tepenian practice" that the
+  Federation pays for.
+- **Re-derived statement (conditional):** the import channel is a named, paid national arrangement sited at
+  Davis. By PSPINE L737's definition, a dependency named at that level is politics, not a shadow. Whether Davis
+  itself depends on it, and whether anyone at Davis discusses it, is not stated. Proposed qualifier (PROPOSED):
+
+  > Of the dependencies in Davis's own deficit table, none can be discussed. The one named arrangement at
+  > Davis, the Federation-paid import channel, is the nation's, and canon names it.
+
+- The other entries (plant, heat, water, `D4`) are not re-tested here and stand. The four-row table at
+  PH5:244-249 stands: this piece's sources add a row and remove none (A).
+- H29 is untested, because the geothermal file is not in this list.
+- The change also keeps the shadow in proportion: the surface is true, and the shadow is a byproduct
+  (00d L136-137; B).
+- **Pass locations:** PH5:284-286 needs the qualifier, and so does PH5:342.
+
+### AM-P5-F21 H33 and `D6`: narrowed, not closed
+
+- **Found by:** A, B, C and K · **Disposition:** confirmed by all three.
+- **The pass says:** PH5:273-274 reads the port as inbound and as exactly
+  "where `D6`'s unresolved dependency would land". PH5:332: "`H30` is the nearest candidate". SPINE L285-297
+  leaves `D6` unresolved, on a split of two readers to one.
+- **Re-derived statement:** the port is now a firm inbound channel, but for raw materials, and `D6` is plant and
+  equipment. No line names a supplier of plant, so H33 stays open, in a narrower form:
+
+  > Does Davis's plant and equipment come in through the national import port, by road, or another way? No
+  > admitted line says.
+
+  The address is null; the channel is conditional. PORTS:559 writes one thing the parent pays for, not a
+  supplier of plant, so it does not settle the spine's split.
+- **Pass locations:** PH5:273-274 needs a qualifier: the port is a route `D6`'s supply could use, not its
+  address. PH5:332 needs the same qualifier.
+
+### AM-P5-F22 The axis (PH5:54-56)
+
+- **Found by:** A, B and C · **Disposition:** the legs are confirmed by all three; the replacement is a conflict
+  sent to the developer (AM-P5-Q13).
+- **The pass says:** PH5:54:
+  "WHAT DOES THIS PLACE HAVE ON PAPER THAT HAS NEVER ACTUALLY HAPPENED — AND WHAT DOES IT PAY FOR, FOREVER, WITHOUT NEEDING IT?"
+  PH5:56: "CORRESPONDENCES THAT HAVE NOT OCCURRED · A PORT IT DOES NOT DEPEND ON · A DEBT IT CANNOT NAME".
+- **Re-derived statement:**
+  - **Leg 1** (correspondences that have not occurred; what has never actually happened) is **killed for want of
+    an admitted line**. CONN gives prospects only. PH5:84 itself says
+    "It is NOT established that Davis has no realized relations", and the correction at PH5:355 removes the
+    leg's ground. B adopted this class in Round 3.
+  - **Leg 2** (a port it does not depend on; what it pays for, forever, without needing it) is **killed by
+    evidence** (PORTS:559).
+  - **Leg 3** (a debt it cannot name, `D4`) **stays**.
+  - Three replacement axes were proposed. None is adopted here. They are set out for the developer at
+    AM-P5-Q13.
+- **Pass locations:** PH5:54 and PH5:56 are false or ungrounded. The two tests at PH5:58-59 stay valid for any
+  replacement.
+
+### AM-P5-F23 5a's outward half: "nobody out there thinks about this place at all"
+
+- **Found by:** A and C · **Disposition:** found by two. B adopted it in Round 3.
+- **The pass says:** PH5:118 gives the outward answer as "nobody out there thinks about this place at all.",
+  sharpened by a medical-file line that puts Davis on the replaceable side: "Davis can be supplemented by fishing fleets." (PH5:122).
+- **Re-derived statement:**
+  - **The outward half is not empty (firm on the text).** PORTS:559 is the country's own text. In it the country
+    designates Davis's harbor a national import port and keeps its channel open at national expense.
+  - **The inward half is unwritten (null):** what Davis makes of that arrangement.
+  - The medical-file point at PH5:120-124 is not re-derived, because its source is not in this list.
+  - The wording avoids "principal" (AM-P5-F7).
+- **Pass locations:** PH5:117-124 needs a qualifier.
+
+### AM-P5-F24 Section 6, the corridor note (PH5:297)
+
+- **Found by:** A, B and C · **Disposition:** confirmed by all three. One wording point was decided as a conflict
+  resolved to the narrower reading (direction words, below).
+- **The pass says:** PH5:297: "Davis sits ON a main line rather than at an end of one." Combined with four
+  arrival types and "nothing flows but food outward and plant inward", the pass concludes that
+  "the road passes through and canon records nobody stopping".
+- **Re-derived statement:**
+  - **Firm on geometry.** Davis sits on the Hwy 110 main line, one stop from the northwest endpoint (HWY:199,
+    HWY:201). The other three stops lie along the route toward the southern endpoint.
+  - **Direction words.** B wrote that three stops lie east. C noted that HWY:201 labels the far endpoint as
+    south, and that RELDB:192 uses "east" only for the direct neighbor. The narrower wording is used: the other
+    stops lie along the route toward the southern endpoint.
+  - **Davis is where sea and road meet.** Its harbor is where Hwy 110 meets the sea, at the national import port
+    (PORTS:559).
+  - **Conditional:** if the imports move on by road, which is not stated, they enter the highway at Davis.
+  - Canon still records nobody stopping, because no traffic figure exists. The clause
+    "produces no traffic finding" holds only for persons (A).
+- **Pass locations:** PH5:297 is false in two clauses: the four arrival types, and the summary of what flows. Its
+  through-route framing needs the port qualifier.
+- **What stays, and why:** "Davis sits ON a main line rather than at an end of one."
+
+### AM-P5-F25 Sections 7, 9 and 10: the feeds, the non-claims and the recording-law items
+
+- **Found by:** A, B and C · **Disposition:** confirmed by all three. The Phase 9 feed row is A's, adopted by C
+  in Round 3; the Phase 6 feed row is A's and B's, adopted by C.
+- **Re-derived restatements** (each conditional on the findings it points to):
+  - **PH5:341 (Phase 6):** replace "most of Davis's relational content is simply UNWRITTEN." with the
+    AM-P5-F12 wording. The caution against reading silence as character stays.
+  - **PH5:342 (Phase 7):** add the Federation-paid channel (AM-P5-F19), and qualify
+    "no dependency can be discussed ⇒ all shadow, no politics" (AM-P5-F20).
+  - **PH5:343 (Phase 9):** beside "the absence of any word for an outsider", add whether persons arrive by sea,
+    as an open question (AM-P5-R4).
+  - **PH5:344 (Phase 8):** "`H29`/`H30`: what is supplied vs. what is made here is still open" becomes: H29
+    stays open; H30 is answered (raw materials come in by sea), and where they go after landing is open.
+  - **PH5:345 (Phase 10):** strike "the airport" from
+    "Prydz Bay harbor, the Hwy 110 main line, the airport — the nameable relational features."
+    Add the icebreaker-kept channel and the fjord-like inlets as features, not names (A).
+  - **PH5:346 (Step 5):** "the heritage relations are structurally excluded, not missing." is superseded
+    (AM-P5-F9). What Step 5 should raise is the new hole.
+  - **Section 7:** PH5:303-306 and PH5:309 are false. PH5:307, PH5:308 and PH5:310-320 stay.
+  - **Section 10:** item 4 (PH5:358) needs the tier qualifier. Item 5 (PH5:359),
+    "a third source was ACTIVELY SEARCHED FOR and does not exist", was true at pass time and is superseded now.
+    Item 7 (PH5:361) is ungrounded (AM-P5-F10). Item 8 (PH5:362), "the port-as-inbound reading", is
+    confirmed by the source.
+  - **Section 11 (PH5:373-374):** three arrival types, not four.
+
+### AM-P5-F26 The canon-opened receipt: current addresses, and PH5:26's "pattern" clause
+
+- **Found by:** A, B and C · **Disposition:** confirmed by all three for the addresses. PH5:26's clause was
+  decided as a conflict resolved to the narrower reading.
+- **The rule:** under `DR-102`, ALR L28 says an amendment note states the current fact with its source address.
+  It does not reword the pass.
+- **Current addresses:**
+  - PH5:21 stands.
+  - PH5:22's wording has changed (AM-P5-F15), and PH5:23 is false (AM-P5-F16).
+  - PH5:25 under-reads RELDB (AM-P5-F14).
+  - PH5:26: Davis's CONN section is now L303-315, with the six lines at L304-306, L307, L308, L309-311,
+    L312-313 and L314-315.
+  - PH5:27: Davis's XSUB entries are now L123-131 (L139-147 and L233-234 were not checked).
+  - PH5:35 cites XSUB "L125–133" and CONN "L296–299". These are now XSUB:123-131 and CONN:304-306.
+  - PH5:36 cites the same-subnet rows at "L300–301". These are now CONN:307 and CONN:308.
+  - SPINE L95 and SPINE L100-101 cite the spec as "(L127)". The quoted sentence now sits at SPEC L151, and its
+    content matches (B; confirmed by A and C in Round 3). This is consistent with orchestrator result 6, a shift
+    of 24 lines.
+- **PH5:26's "Their PATTERN is this phase's headline" (conflict resolved to the narrower reading):**
+  - C read it as contradicting the pass's own withdrawal of a headline (PH5:91-96, PH5:355).
+  - A held that the withdrawn headline was a different claim, assembled from four phases' absences. On this
+    reading the six-line pattern, set out under "THE STATE OF DAVIS'S RELATIONS" (PH5:63-89), is simply stale.
+  - B called C's reading plausible but not certain.
+  - The narrower reading is used: the clause is stale and needs a qualifier because the pattern changed. The
+    docket outcome is the same either way.
+
+## 2. Killed or narrowed findings
+
+Each row is classed as killed by evidence or killed for want of an admitted line. Narrowed rows say what
+narrowed them.
+
+| Item | Pass finding (location) | Result | Class | Finders · disposition |
+|---|---|---|---|---|
+| AM-P5-K1 | "No admissible independent route exists; searching harder will not surface one." (PH5:36), carried at PH5:105, PH5:114, PH5:303-306, PH5:330, PH5:346 and PH5:383-386 | The ties stand on REG:59, `DR-19` (LOG L545-553) and `DR-32` (LOG L752), and PSPINE L636 forbids dropping a tie. Both rulings postdate the pass (AM-P5-F3) | Killed by evidence | A, B, C, K · confirmed by all three |
+| AM-P5-K2 | "Neither recorded" (PH5:35), on two disqualifications | (1) No longer applies at the line, because CONN:304 now cites the Register and `DR-19`. (2) Narrowed: under `DR-32` the namesake grounds no tie and may appear only as an in-world detail (AM-P5-F4) | (1) Killed by evidence · (2) narrowed, by evidence | A, B, C, K · confirmed by all three |
+| AM-P5-K3 | H31 as an open hole needing re-derivation or a declassification ruling (PH5:330, PH5:346) | Answered and closed. A new hole replaces it (AM-P5-R1) | Killed by evidence (as an open question) | A, B, C, K · confirmed by all three |
+| AM-P5-K4 | "a third source was ACTIVELY SEARCHED FOR and does not exist" (PH5:359) | True at pass time. The route now exists in rulings that postdate the pass | Narrowed, by evidence | A, B, C · confirmed by all three |
+| AM-P5-K5 | The tie's withheld character, its post-frame severance, and the survival of the same-subnet links (XSUB:124-131, as a possible input) | These stay out. They may be true and are unavailable (AM-P5-F8) | Killed for want of an admitted line | A, B, C, K · confirmed by all three |
+| AM-P5-K6 | The third scientific relation (PH5:79), "canon writes each as a prospect" for it (PH5:73), and "Davis's half kept" (PH5:361) | CONN:314-315 carries only a comparison (AM-P5-F10) | Killed for want of an admitted line | A, B, C, K · confirmed by all three (A withdrew its class in Round 3) |
+| AM-P5-K7 | PH5:79's quotation as canon's words: "a natural professional correspondence once full connectivity exists" | The current CONN:314-315 does not contain the words | Killed by evidence | A · found by one (B and C agreed in Round 3) |
+| AM-P5-K8 | "Davis holds a confirmed airport marker" (PH5:23, PH5:203); "by road and air." (PH5:269); "the road/air routing" (PH5:275, PH5:329); "the airport" (PH5:345) | False: AIR:40, AIR:48, AIR:50, AIR:54-57 (AM-P5-F16) | Killed by evidence | A, B, C, K · confirmed by all three |
+| AM-P5-K9 | "Roughly five months open, seven shut" (PH5:202) | False: year-round on an icebreaker-kept channel (PORTS:559) | Killed by evidence | A, B, C, K · confirmed by all three |
+| AM-P5-K10 | "And the port is the inverse of a dependency" (PH5:264); the point of "Davis rebuilds a port every year for cargo that does not leave through it." (PH5:271) | A national import channel, kept open year-round and paid for by the Federation (AM-P5-F15) | Killed by evidence | A, B, C · confirmed by all three |
+| AM-P5-K11 | "rebuilt or cut open, every year" (PH5:22, PH5:266) | Not on PORTS:559. It stays conditional on the unread tier legend | Narrowed, by evidence | conflict resolved to the narrower reading (B against A and C) |
+| AM-P5-K12 | "paid, forever" read with Davis as the payer (PH5:22, PH5:358; the axis at PH5:54) | The channel's payer is the Federation. The payer of any other port cost is not stated | Narrowed, by evidence | conflict resolved to the narrower reading (B against A; C noted PH5:22 names no payer) |
+| AM-P5-K13 | "It does not state that the port exists for imports" (PH5:276; PH5:309; H30 at PH5:329; PH5:362) | Canon now states it (PORTS:559). H30 is answered yes, and the inference is promoted, not wrong | Killed by evidence | A, B, C, K · confirmed by all three |
+| AM-P5-K14 | "CORRESPONDENCES THAT HAVE NOT OCCURRED" and the axis's "NEVER ACTUALLY HAPPENED" (PH5:54, PH5:56) | No line states non-occurrence, and PH5:84 and PH5:355 say so themselves (AM-P5-F22) | Killed for want of an admitted line | A, B, C · confirmed by all three (B added the class in Round 3) |
+| AM-P5-K15 | "A PORT IT DOES NOT DEPEND ON" and "PAY FOR, FOREVER, WITHOUT NEEDING IT" (PH5:54, PH5:56) | PORTS:559 | Killed by evidence | A, B, C · confirmed by all three |
+| AM-P5-K16 | "What does NOT flow": "Any realized scientific exchange", marked "(headline)", and "And any heritage relation admissible to this pass" (PH5:114) | The first clause states an absence no line affirms. The second is false on the current inputs (AM-P5-F13) | First clause: killed for want of an admitted line · second clause: killed by evidence | A, B, C, K · confirmed by all three |
+| AM-P5-K17 | "four, and they are not one thing" (PH5:197); four arrival types at PH5:297 and PH5:373-374 | Three: road, sea (year-round), and the treaty right | Narrowed (one type killed by evidence) | A, B, C · confirmed by all three |
+| AM-P5-K18 | `PA-6`: "what the parent determines returns UNKNOWN" (PH5:169); SPINE L293 | One parent-paid service is now written (AM-P5-F19) | Narrowed, by evidence | A, B, C · confirmed by all three |
+| AM-P5-K19 | "Davis has no dependency it can discuss." (PH5:284); PH5:342 | Holds for the deficit table. The import channel is a named national arrangement sited at Davis (AM-P5-F20) | Narrowed, by evidence | A, B, C · confirmed by all three |
+| AM-P5-K20 | The port as exactly "where `D6`'s unresolved dependency would land" (PH5:273-274) | The stated cargo is raw materials. The port is a route `D6`'s supply could use, not its address | Narrowed, by evidence | A, B, C · confirmed by all three |
+| AM-P5-K21 | H33, with "`H30` is the nearest candidate" (PH5:332) | H33 stays open, in a narrower form (AM-P5-F21) | Narrowed, by evidence | A, B, C, K · confirmed by all three |
+| AM-P5-K22 | "DAVIS'S RELATIONAL CONTENT IS LARGELY UNWRITTEN." (PH5:83); PH5:341 | True of the ties to other places only (AM-P5-F12) | Narrowed, by evidence | A, B, C · confirmed by all three |
+| AM-P5-K23 | "Nobody meets them" (PH5:216) | Holds for road arrivals. A sea arrival is unconsidered, and persons by sea are a hole | Narrowed, by evidence | A, B, C · confirmed by all three |
+| AM-P5-K24 | "produces no traffic finding" (PH5:297) | Holds for persons. Davis is where the import port meets the highway (AM-P5-F24) | Narrowed, by evidence | A, B, C · confirmed by all three |
+| AM-P5-K25 | "nobody out there thinks about this place at all." as Davis's outward answer (PH5:117-124) | The country's own port text is an outward half (AM-P5-F23) | Narrowed, by evidence | A, C · found by two (B adopted in Round 3) |
+
+**Not narrowed:** PH5:211-213, "Davis has no category for the person arriving.", stands on the current inputs,
+with its dependency recorded (AM-P5-F18).
+
+## 3. New findings
+
+### AM-P5-N1 The withdrawn headline survives in the axis and in 5a's table (an internal contradiction in the pass)
+
+- **Found by:** A, B and C · **Disposition:** confirmed by all three.
+- **Source:** PH5:54, PH5:56 and PH5:114, against PH5:84-86 and PH5:355-357.
+- **Finding (firm):** the developer correction at PH5:355 ("WITHDRAWN — developer") withdrew the reading in
+  which undeveloped canon characterizes the city. Yet the axis still asks what has "NEVER ACTUALLY HAPPENED" and
+  names "CORRESPONDENCES THAT HAVE NOT OCCURRED". And 5a still files "Any realized scientific exchange" under
+  "does NOT flow", marked "(headline)". PSPINE L153 names this failure:
+  "A phase-level null flag does not cover every claim inside that phase."
+  It is a second instance of PH5:357's own lesson, inside the phase that recorded it.
+- **Methodology note** (A): when a headline is withdrawn, sweep the axis and every table row that carries its
+  wording.
+- **The fix:** relabel the row as a documentation state, as what is not written to flow. That is B's wording,
+  and A's and C's are to the same effect (AM-P5-F13).
+
+### AM-P5-N2 PSPINE L636 limits what the three relationship files are read for
+
+- **Found by:** A · **Disposition:** found by one. B and C agreed in Round 3 that the question exists.
+- **Source:** PSPINE L636:
+  "The three city-relationship files are read for routes, trade, supply and population ties only."
+- **Finding (conditional):**
+  - CONN:304-308 are population ties, with routes on two of them, so they are inside the list.
+  - CONN:309-315 are scientific prospects and a comparison. They are not routes, trade, supply or population
+    ties, unless an exchange of records counts as trade.
+  - The pass used them as "The three that survive" (PH5:73). On the current rule they may be carried only as
+    canon's attributed prospects.
+  - B used PSPINE L636 to bar the leftover in CONN:314-315 but did not apply it to CONN:309-313. That is A's
+    point.
+  - Whether PSPINE L636 postdates the pass cannot be told. The pass's receipt (PH5:15-45) does not cite it.
+- **The question:** AM-P5-Q8.
+
+### AM-P5-N3 The founding-nation ties name one stock row, at 5.74% of Davis's combined Census I population
+
+- **Found by:** A and C · **Disposition:** found by two. B adopted the guard in Round 3. B's sharper point about
+  "the founders" is credited below.
+- **Source:**
+  - Orchestrator result 2: the row tagged "(founding wave)" is Australia, at 5.74% (69,475 people at Census I).
+  - Orchestrator result 1: the composition table has 45 rows.
+  - Orchestrator result 4: the tag "says nothing about when people arrived."
+  - 00b L156: "What population, over what span, does my source actually describe".
+- **Finding (firm on the arithmetic; firm as a guard):**
+  - A founding-nation tie between Davis and a partner names one stock row of 45. That row is 5.74% of Davis's
+    combined Census I population of 1,210,432 (orchestrator result 3). A wrote "under a sixteenth".
+  - C's Round 3 recomputation: the 5.74% holds against the combined population, and against humans alone it
+    would be 11.76%. So any such statement must say "combined". C's raw output:
+    `69475/1210432 = 0.057397 ; 1/16 = 0.062500 ; 69475/590668 = 0.117621`
+    B's recomputation agrees on 5.7397.
+  - The 5.74% is not "the founders' share" (B; adopted by C), because the tag says nothing about arrival.
+  - Under 00b, canon's "Strong, Cultural" label on a founder tie may never be written as what Davis's people
+    are. The tie is a fact about one row, not about the city.
+  - The Acts govern its wording (NNS L105-106). In Act 1 this stock is among Davis's many groups of people
+    from elsewhere who live in Antarctica. In Act 2 they are Tepenian, and NNS L106 says
+    "Origin is now ANCESTRY, not identity". The change is a gradient, not a switch (NNS L127, NNS L133). This
+    states the frame only; no reasoning from elapsed time is applied.
+  - The import port is likewise one sector (00b L219:
+    "Does this label describe the whole breadth of what that category means in a place this size").
+- **Affects:** any reuse of the tie language; SPEC L8 and SPEC L153 (AM-P5-N6); and
+  SPINE L108 and SPINE L250 (AM-P5-N15).
+
+### AM-P5-N4 The robot population, and what a founding-nation tie can mean to it
+
+- **Found by:** A, B and C · **Disposition:** confirmed by all three. B withdrew "the majority body" in Round 3.
+- **Source:**
+  - Orchestrator result 3: robots are 51.20% of Census I and 44.45% of Census II.
+  - ROBOT L198: "A community's own origin is canon and IS admissible once composition is established."
+  - ROBOT L216: "The transmission channel is the COMMUNITY, not the fabrication".
+  - ROBOT L217: `Robot_Universals/` Ch. 13 "still seats identity in CITY-LOCALITY".
+  - ROBOT L40: "a robot can (and nearly almost always does) wear clothing".
+  - ROBOT L57: "it is a GRADIENT across locations, never a gate."
+- **Finding:**
+  - **The share.** At Davis, robots are the majority at Census I only (A; adopted by B and C).
+  - **Identity (conditional, because Ch. 13 is cited, not read; A).** A shared founding stock cannot be written
+    as a felt identity bond for Davis's robots. Canon seats robot identity in city-locality, not in origin, and
+    the divergence operator applies to robots exactly as to humans (ROBOT L191; C).
+  - **The body (seed; A, B, C).** Port and channel work through the dark season is done by people dressed for
+    it, robot or human. Gloves trade dexterity against warmth, which bounds cargo handling as a gradient, not a
+    gate. A robot is safer moving than resting (ROBOT L15-16; C).
+  - **Who works the port is not stated**, so it is not assigned to either body (B, C). This is routed to the
+    Phase 4 and Phase 8 pieces.
+
+### AM-P5-N5 The sea edge faces outward
+
+- **Found by:** A · **Disposition:** found by one. A withdrew its second-order step in Round 3.
+- **Source:** PORTS:559 (inbound from Upper-Earth countries through neutral hubs); AIR:50 (no air); HWY:199 and
+  HWY:201 (the road runs into the country).
+- **Finding:**
+  - **Firm geometry:** Davis's two outside edges face opposite ways. The sea edge receives goods from beyond
+    Tepenia through neutral hubs. The road edge runs into the country.
+  - **Withdrawn:** A's second-order step, that the sector's imports touch Davis first if "principal" means most
+    of them. It read "principal" as a quantity (AM-P5-F7).
+  - **Third order, a hole:** whether any person from beyond Tepenia, such as a crew from the hubs, ever comes
+    ashore. If one does, "outsider" has a concrete referent at Davis (AM-P5-R4).
+  - **No invention:** no crew nationality, landing rule or quarantine is written.
+
+### AM-P5-N6 SPEC L8 and SPEC L153 restate founding claims that conflict with the Register and with CONN
+
+- **Found by:** A, B, C and K · **Disposition:** confirmed by all three.
+- **Source:**
+  - REG:8-10: no spec "may originate or restate a founding claim that this file doesn't hold", and specs point
+    to the Register instead.
+  - SPEC L8: "Shares Australian founding-wave heritage with" two same-subnet neighbors, Davis being
+    "(not paired with" the CONN:304 partner, "which is in a different subnet". The same Significance line also
+    carries the namesake.
+  - SPEC L153: "Australian exiles.", then the "three cities carrying Australian founding-wave heritage across the subnet."
+    These include the CONN:308 partner, called "a Significant-tier presence".
+  - SPEC L155 carries the namesake in the Founding section.
+- **Finding (conditional, because the partners' Register rows are not read and must not be):**
+  - **(a)** L8's "not paired with" can be read as denying the CONN:304 tie, which `DR-19` (LOG L553) and CONN:304
+    affirm. The most conservative reading is that L8 speaks to subnet membership. SPEC L5 records a subnet
+    correction, "corrected 2026-07-03" (C).
+  - **(b)** L8 and L153 give founding-wave heritage to the CONN:308 partner. CONN:308 places Australia there only
+    among the exile groups present, and LOG L553 does not list it.
+  - **(c)** Both lines frame the ties as "heritage", which PSPINE L636 bars as a stated reason.
+  - **(d)** The namesake is flavor only (LOG L752). It sits in L8's Significance line and in L155's Founding
+    section. (C's output placed both in "Significance". A corrected L155's place in Round 3.)
+  - **(e)** L153 restates a founding claim instead of pointing to the Register (REG:8-10).
+  - **K adds:** SPEC L153's founder for Davis agrees with REG:59. Its claim about two other locations is a spec
+    restating a founding claim, and Davis's run may not verify it against those locations' rows. "Founding-wave"
+    says nothing about arrival time (orchestrator result 4).
+- All five points go on the source-fix list. Nothing is edited here.
+
+### AM-P5-N7 CONN:304's type label "Historical" may be left over from the removed namesake thread
+
+- **Found by:** A, B and C · **Disposition:** confirmed by all three.
+- **Source:** CONN:304 keeps "Medium, Cultural/Historical." after
+  "The real-world namesake thread that stood here is removed". No historical content remains on the line.
+- **Finding (seed):** the label may be a residue of the removed thread. Flag it for the CONN source owner, and
+  carry it only as canon's wording (AM-P5-F7).
+
+### AM-P5-N8 The port's own records, beside the spine's record of a stationary ground
+
+- **Found by:** A · **Disposition:** found by one. B and C accepted it as a seed in Round 3.
+- **Source:**
+  - 00b L234-235, a worked case: for a gateway port,
+    "arrival logs, cargo manifests, customs records are what a landfall city runs on".
+  - SPINE L164: "Davis's environment can be learned from written observation because it is STATIONARY."
+  - SPINE L172: Davis's characteristic form of argument is "show me the entry".
+- **Finding (seed; it needs research and a stated line):** a year-round import port would generate a second kind
+  of record at Davis. Its subject changes with every arrival, beside the spine's record of a ground that does not
+  change. That makes the port a candidate meeting point for the "show me the entry" culture. It also bears on
+  00b: port work is a sector, not the city. No Davis line states any of this, so none of it is written as fact
+  (AM-P5-R8).
+
+### AM-P5-N9 Geometry: the sea-road junction, and RELDB's "midpoint"
+
+- **Found by:** A, B and C · **Disposition:** confirmed by all three. The route-south point is C's alone.
+- **Source:** HWY:199 and HWY:201 (Davis is the second of five stops, one from the northwest endpoint);
+  RELDB:191 "Hwy 110 — midpoint"; PORTS:559 "where `Hwy 110` meets the sea"; SPEC L7.
+- **Finding:**
+  - **Firm:** Davis is where Hwy 110 meets the sea, at a deep sheltered harbor, one stop from the highway's
+    northwest end.
+  - **Firm, low consequence:** RELDB:191's "midpoint" can only mean an intermediate stop. Read as the route's
+    geometric middle, it conflicts with HWY:199.
+  - **Firm (C):** Davis's road route to the southern endpoint passes its eastern direct neighbor, the CONN:308
+    partner, and then the CONN:307 partner. The CONN:304 partner is not on Hwy 110. This is relation in the
+    spatial sense; whether imports ride this route is conditional (AM-P5-F24).
+
+### AM-P5-N10 Davis's own half of the climate cross-references
+
+- **Found by:** A, B and C in substance · **Disposition:** confirmed by all three. The docket row for PH5:77 was
+  C's, adopted by A and B in Round 3.
+- **Source:** CONN:309 names "Davis's paleoclimate lake-sediment methodology". CONN:310 calls it one of
+  "two independently developed long-term climate-record traditions". PH5:77 records only the far half
+  ("with an ice-core archive elsewhere").
+- **Finding (seed):**
+  - This is relation content: what Davis would bring to the cross-reference. It is admissible as a relation fact
+    from Davis's own line (LOG L1868 item 5; C), subject to the scope question at AM-P5-Q8.
+  - Under the one-sentence test, what survives is a claim about Davis itself: it holds an independently developed
+    long-term climate-record practice (B).
+  - It corroborates the spine's clause that Davis's method is its own. SPINE L438 seats that clause on
+    "the exiles still built their own practical mastery of the terrain independently" (A). C adds that it fits
+    the spine's §2.1 note on liquid water already present in basins (SPINE L81, as cited by C and located by B),
+    and SPINE L555's flagged lake-typology pick.
+- **Wording guard** (C). "Tradition" is admissible here only as the city's own tradition. LOG L646:
+  "A city's own tradition is fine when it starts with the city". If the method grew from the station's records
+  or data, it is written as LOG L663 gives it, "inherited the station's research results, equipment and techniques",
+  and never as "research heritage". The line gives no basis for the method, so its origin is open.
+- **General-population guard** (A, C). It is a research specialty, scoped to the people who practice it. It is
+  not the general population's method. PH5:232 already guards the series:
+  "a series here is a crop ledger or a carried record as readily as an observation run". (C's output cited this
+  guard at SPINE L232-233. A located it at PH5:232-233 in Round 3, and the merge uses that address.)
+- Routed to Phases 6 and 9 and to the function and research pieces. It is not a relation finding about any
+  other place.
+
+### AM-P5-N11 "Once full connectivity exists" may name a condition inside the frame
+
+- **Found by:** A and C · **Disposition:** found by two. In Round 3 A narrowed it from conditional to seed, and
+  B agreed that it is a developer question.
+- **Source:** CONN:311: "cross-reference once full connectivity exists." NNS L120:
+  "Their being fully interconnected further defined their sense of national identity". NNS L133:
+  "The Tower completes ~2688". The frame runs 2564-2812 (PH5:3).
+- **Finding (seed):** if the phrase is meant in-world, the cross-references became possible inside the frame.
+  Whether they happened is then a question for the developer, not something to characterize. The developer's
+  correction at PH5:355 (undeveloped canon) is kept. The link between CONN's phrase and NNS's interconnection is
+  an inference across files (A). Until the question is answered, no date is inferred (B). See
+  AM-P5-Q9.
+
+### AM-P5-N12 Davis's western direct neighbor has no line in Davis's CONN section
+
+- **Found by:** C · **Disposition:** found by one. A and B adopted it in Round 3.
+- **Source:** RELDB:192 names two direct highway neighbors. Davis's six CONN lines cover only the eastern one
+  (CONN:308). The western neighbor is the northwest endpoint on HWY:199. The CONN:309 partner is labeled as
+  Davis's own subnet but is not on Hwy 110's route (A).
+- **Finding (a documentation state):** question XC5-30's "two direct highway neighbors" has one line to work
+  from. Under PH5:357 this is the corpus's default incompleteness. It says nothing about Davis's character.
+
+### AM-P5-N13 The nation keeps open the one channel Davis does not have to carry across the dark half
+
+- **Found by:** C · **Disposition:** found by one. B accepted it in Round 3 as a seed only.
+- **Source:** PORTS:559; SPINE L146: "carrying something across a gap in which it cannot be replenished".
+- **Finding (seed, a third-order chase):**
+  - **First order:** the national import port at Davis takes Upper-Earth raw materials.
+  - **Second order:** it runs past the natural November-March window on Federation-paid icebreaking, so Davis's
+    coast is worked through the dark half of the year.
+  - **Third order:** the spine's standing cost applies to what Davis holds: water, seed, light and the series.
+    The import channel is the exception, because the nation pays so that the gap does not apply to it. At Davis
+    the gap is a local condition and continuity is a national purchase, side by side on the same coast.
+  - **Player-facing:** icebreakers working the bay in the polar night, visible from a city in its carry season.
+- **Conditions:** this rests on the Phase 3 sensory findings, which are not in this list, and on the research at
+  AM-P5-R6. No villain and no grievance (00d L139).
+
+### AM-P5-N14 The "civic identities" left over in CONN:314-315 are not admitted
+
+- **Found by:** B and C · **Disposition:** found by two. A adopted the guard in Round 3.
+- **Source:** CONN:314-315; PSPINE L636; SPINE L358: "L143 contains no self-understanding at all."
+- **Finding (firm):** with its ranking removed, CONN:314-315 would leave a "hard science" civic identity. That is
+  a self-understanding claim. SPINE §7.1 (SPINE L353-365) killed a claim of exactly that kind on the function
+  line. The relationship files are read for routes, trade, supply and population ties only (PSPINE L636), so the
+  leftover is not admitted, and the spine's kill stands. This is flagged so that no later phase picks it up from
+  CONN.
+
+### AM-P5-N15 The spine's composition and census figures have drifted (a pointer; not P5's to amend)
+
+- **Found by:** A, B and C · **Disposition:** confirmed by all three. B's point about "the founders" was adopted
+  by C in Round 3.
+- **Source:**
+  - SPINE L107: "21 origins, largest at 19.04%".
+  - SPINE L108: "the founding population is 4.93%".
+  - SPINE L250: "No arrival narrative; the founders are 4.93%".
+  - SPINE L112-114: retention of 67.48% combined, 77.61% human and 57.87% robot, a spread of 19.74 points.
+  - SPINE L318: a population of 1,158,314.
+  - Against them, orchestrator results 1-3: 45 rows; the row tagged "(founding wave)" at 5.74%; Census I of
+    1,210,432; retention of 67.54% combined, 76.88% human and 58.63% robot, a spread of 18.25 points.
+- **Finding (firm that the figures differ):**
+  - These figures belong to the composition and spine piece, not to P5, and P5 uses none of them.
+  - They are flagged so that no Phase 5 restatement imports 4.93%.
+  - B's sharper point: "the founders are" reads the founding-nation row as the founders, and the census tag
+    sentence now rules that out (orchestrator result 4). So 5.74% must not be written as the founders' share
+    either (AM-P5-N3).
+  - C notes that this rests on the orchestrator figures, because the SPEC composition table is not in this list.
+
+### AM-P5-N16 SPINE L555's aviation research pick
+
+- **Found by:** A, B and C · **Disposition:** confirmed by all three.
+- **Source:** SPINE L555 flags the Step 3 pick "ski-only aviation access and its seasonal availability". AIR:56
+  says of the real-world airstrips "and none of them has one in Tepenia."
+- **Finding (firm; low consequence):** the pick's in-world premise is contradicted. As real-world research it is
+  harmless. If it is run, it describes the real-world station only and must not feed a Davis arrival type. It
+  needs a qualifier: Davis has no air access in Tepenia.
+
+### AM-P5-N17 XSUB:124's founder list for the CONN:304 partner differs from LOG L754
+
+- **Found by:** A and B · **Disposition:** found by two. C adopted it in Round 3.
+- **Source:** XSUB:124 names three founding nations for the CONN:304 partner. LOG L754 records the partner's
+  founders under `DR-33` as two co-founders.
+- **Finding:** this is the partner's data, outside Davis, and it is not used. It is noted only for whoever owns
+  that row (low).
+
+### AM-P5-N18 Davis is the same-nation case, and the current lines pass the swap test
+
+- **Found by:** K · **Disposition:** found by one.
+- **Source:**
+  - NNS L7: "if a sentence's meaning would change were the station-builder nation swapped for a different one, that sentence violates this rule."
+  - NNS L32: "WHERE THEY NAME THE SAME NATION, THAT COMES FROM GEOGRAPHY AND ACCESS, NEVER FROM THE STATION."
+  - NNS L56: "A pass that refuses all ethnic material is not obeying this law — it is misreading it".
+  - SPEC L3 names the real station's operator. REG:59 names the founder.
+- **Finding (firm):**
+  - Davis's station-builder (SPEC L3, a coordinate only) and its founder (REG:59) name the same nation. Under
+    NNS L32, the founder stands on geography and access, not on the station. The shared nation is therefore not
+    the station taint the pass guarded against.
+  - CONN:304-308 cite the Register, so swapping the station-builder changes nothing in them: they pass NNS L7's
+    test.
+  - Phase 5's receipt (PH5:15-45) does not open or cite the Register at all. The pass's only route to the ties
+    was the withheld one.
+  - Refusing all such material would misread the law (NNS L56). See AM-P5-F3.
+
+## 4. Docket of proposed corrections
+
+**PROPOSED, never applied.** One row per location. Confidence is the lowest any reader gave, and a split is
+named where it matters. Proposed wordings are pointers or plain text, not quotations.
+
+| Location | What is wrong | Proposed wording or pointer | Confidence | Disposition |
+|---|---|---|---|---|
+| AM-P5-D1 PH5:22 | Its quoted season wording and the phrases "rebuilt or cut open, every year" and "paid, forever" are not on PORTS:559. It omits the import role, the year-round channel and the Federation as payer | Pointer to PORTS:559: the import port by developer ruling (2026-09-16), with canon's "principal" attributed; inbound raw materials from Upper-Earth countries through two neutral hubs; a year-round icebreaker-kept channel past the November-March window, paid for by the Federation; tier CONSTRUCTED (year-round, icebreaker-dependent). Check the two tier phrases against the tier legend of `Ports.md` (AM-P5-F15) | high (pointer); medium (legend check) | confirmed by all three |
+| AM-P5-D2 PH5:23 | "Davis holds a confirmed airport marker" is false | Davis has no airport and no air access in Tepenia (AIR:40, AIR:48, AIR:50, AIR:54-57) (AM-P5-F16) | high | confirmed by all three |
+| AM-P5-D3 PH5:25 | It records only the station header. RELDB:191-193 also give the highway position, the direct neighbors and an inbound supply note that is unreconciled with PORTS:559 | Pointer to AM-P5-F14. The station header is a coordinate only (`DR-19`) | medium | confirmed by all three |
+| AM-P5-D4 PH5:26 | The address "L296–308" is stale, and "Their PATTERN is this phase's headline" no longer describes the set | CONN:303-315, six lines (AM-P5-F1). Qualify the pattern clause as stale (AM-P5-F26) | high (address); medium (pattern clause) | confirmed by all three (address); conflict resolved to the narrower reading (pattern clause) |
+| AM-P5-D5 PH5:27 | The XSUB address is stale and the scope too broad | Davis's entries are XSUB:123-131. The founding basis (L123-124) is admissible; the character, severance and survival (L124-131) stay out (AM-P5-F8) | medium | confirmed by all three |
+| AM-P5-D6 PH5:35 | "Neither recorded", on two disqualifications | Disqualification (1) no longer applies at the line, because CONN:304 cites the Register and `DR-19`. Under `DR-32`, (2) the namesake grounds no tie and may appear only as an in-world detail. The tie is recorded on the Register as a seed whose content is open (AM-P5-F4) | high | confirmed by all three |
+| AM-P5-D7 PH5:36 | "No admissible independent route exists"; the escalation for a declassification ruling; "heritage" as the reason | Superseded by REG:59, `DR-19` (LOG L545-553) and `DR-32` (LOG L752); CONN:307 and CONN:308 also run on Hwy 110 (HWY:199). No declassification ruling is needed, and "heritage" is still not a basis (PSPINE L636) (AM-P5-F3; AM-P5-F5; AM-P5-F6) | high | confirmed by all three |
+| AM-P5-D8 PH5:54 | The axis question rests on one leg killed for want of an admitted line and one killed by evidence | Record legs 1 and 2 as killed and leg 3 as standing (AM-P5-F22). Any replacement is the developer's choice (AM-P5-Q13) | medium (legs); low (any replacement) | confirmed by all three (legs); conflict sent to the developer (replacement) |
+| AM-P5-D9 PH5:56 | "CORRESPONDENCES THAT HAVE NOT OCCURRED · A PORT IT DOES NOT DEPEND ON" | Leg 1 is killed for want of an admitted line; leg 2 is killed by evidence (PORTS:559); leg 3 stays | medium-high | confirmed by all three |
+| AM-P5-D10 PH5:72-73 | The count: three disqualified at the source, and three scientific survivors each written "as a prospect" | The restated count at AM-P5-F9 | high | confirmed by all three |
+| AM-P5-D11 PH5:77 | It omits Davis's own half of the prospect (an omission, not a falsehood) | Add Davis's paleoclimate lake-sediment methodology (CONN:309) (AM-P5-N10) | medium | found by one |
+| AM-P5-D12 PH5:79 | The quoted canon words are not in CONN:314-315 | Strike as a relation. CONN:314-315 states only a comparison, and once it is stripped no relation survives (AM-P5-F10) | high | confirmed by all three |
+| AM-P5-D13 PH5:82-83 | "LARGELY UNWRITTEN" is now too broad | The ties to other places are written as bases and prospects without content; the relation to the nation through the import port is written (PORTS:559) (AM-P5-F12) | medium | confirmed by all three |
+| AM-P5-D14 PH5:104-105 | "the flagged material removes the heritage relations entirely" | The founding-nation ties are admitted on the Register and the map, and no flow is stated along them | high | confirmed by all three |
+| AM-P5-D15 PH5:113 | The in-row omits the port's inbound raw materials | Add the raw-materials inflow by sea through the import port (PORTS:559); onward movement is not stated (AM-P5-F13) | medium | confirmed by all three |
+| AM-P5-D16 PH5:114 | "What does NOT flow" asserts an absence; its "(headline)" survives the withdrawal; its heritage clause is false | Relabel the row as a documentation state: no flow is written along the ties or for the scientific prospects (holes) (AM-P5-F13; AM-P5-N1) | high | confirmed by all three |
+| AM-P5-D17 PH5:117-124 | "nobody out there thinks about this place at all." needs a qualifier | The nation's own port text designates Davis's harbor a national import port and keeps its channel open at national expense (PORTS:559). Davis's inward half is unwritten (AM-P5-F23) | medium | found by two |
+| AM-P5-D18 PH5:169 | `PA-6` returns "UNKNOWN" | One parent-paid service is written: the Federation-paid icebreaker channel, a national service sited at Davis (PORTS:559) (AM-P5-F19) | medium | confirmed by all three |
+| AM-P5-D19 PH5:197 | "four, and they are not one thing" | Three (AM-P5-F17) | high | confirmed by all three |
+| AM-P5-D20 PH5:202 | "Roughly five months open, seven shut", and the quoted season wording is not on the current line | By sea, year-round, on an icebreaker-kept channel; the natural window is November-March; cargo is stated and persons are not (PORTS:559; AM-P5-R4) | high | confirmed by all three |
+| AM-P5-D21 PH5:203 | The air arrival type | Strike it: Davis has no air access (AIR:50) | high | confirmed by all three |
+| AM-P5-D22 PH5:211-213 | Nothing on the current inputs | No correction now. Record that the outsider reading depends on AM-P5-R4 (AM-P5-F18) | low | conflict resolved to the narrower reading |
+| AM-P5-D23 PH5:215-217 | "Nobody meets them" overreaches for sea arrivals | A sea-arrival qualifier: at a year-round import port someone handles the cargo, and whether anyone receives arriving people is not stated. What a sea arrival meets first is the channel and the inlets (conditional). Check against Phase 3 | low | confirmed by all three |
+| AM-P5-D24 PH5:264 | "And the port is the inverse of a dependency" | Superseded by PORTS:559: a national import channel, kept open year-round and paid for by the Federation (AM-P5-F15) | high | confirmed by all three |
+| AM-P5-D25 PH5:266-267 | The tier quotation is not on PORTS:559 | The tier as PORTS:559 gives it: CONSTRUCTED (year-round, icebreaker-dependent). Check "rebuilt or cut open, every year" and "paid, forever" against the tier legend | medium | confirmed by all three |
+| AM-P5-D26 PH5:268-269 | "by road and air." (relayed from Phase 4) | Strike "and air" (AIR:50), and route the Phase 4 source line to its own piece | high | confirmed by all three |
+| AM-P5-D27 PH5:271 | "Davis rebuilds a port every year for cargo that does not leave through it." | The sentence's point, a cost paid for nothing needed, is killed. Its "every year" sub-clause stays conditional on the tier legend. No Davis actor keeps the channel open in the text (AM-P5-F15) | medium | conflict resolved to the narrower reading |
+| AM-P5-D28 PH5:273-274 | The port read as exactly where `D6` would land | The stated cargo is raw materials, not plant. The port is a route `D6`'s supply could use, not its address (AM-P5-F21) | medium | confirmed by all three |
+| AM-P5-D29 PH5:275-277 | "It does not state that the port exists for imports"; "the road/air routing" | Canon states it (PORTS:559), so H30 closes. Strike "/air" (AM-P5-F16) | high | confirmed by all three |
+| AM-P5-D30 PH5:281-288 | "Davis has no dependency it can discuss." | The qualifier at AM-P5-F20 | medium | confirmed by all three |
+| AM-P5-D31 PH5:297 | Four arrival types; "nothing flows but food outward and plant inward"; the through-route framing | Three arrival types; raw materials also come in by sea; sea meets road at Davis; onward movement is not stated (AM-P5-F24) | medium | confirmed by all three |
+| AM-P5-D32 PH5:303-304 | It does not record the "connection, in any form" | It is recorded as a seed tie on the Register whose content is open. The namesake is flavor only (`DR-32`). The withheld description and the post-frame fate stay out | high | confirmed by all three |
+| AM-P5-D33 PH5:305-306 | "confirmed to have no independent route." | Killed by evidence. Two ties are recorded on the Register and Hwy 110, and "heritage" is not a basis | high | confirmed by all three |
+| AM-P5-D34 PH5:309 | "Does not assert that the port exists for imports" | PORTS:559 states it | high | confirmed by all three |
+| AM-P5-D35 PH5:329 | H30 is open; "road/air" | H30 is closed: yes (PORTS:559). The replacement hole is where the imports go after landing (AM-P5-R3). Strike "/air" | high | confirmed by all three |
+| AM-P5-D36 PH5:330 | H31 is open | Closed, and replaced by AM-P5-R1 and AM-P5-R2 | high | confirmed by all three |
+| AM-P5-D37 PH5:332 | "`H30` is the nearest candidate" | H33 is narrowed: the port's stated cargo is raw materials, and no plant supplier is named (AM-P5-F21) | medium | confirmed by all three |
+| AM-P5-D38 PH5:341 | "most of Davis's relational content is simply UNWRITTEN." | The wording at AM-P5-F12. The caution against reading silence as character stays | medium | found by two |
+| AM-P5-D39 PH5:342 | The Phase 7 feed: "no dependency can be discussed ⇒ all shadow, no politics" | Add the Federation-paid channel, and qualify per AM-P5-F20 | medium | confirmed by all three |
+| AM-P5-D40 PH5:343 | The Phase 9 feed omits the sea arrival | Add whether persons arrive by sea, as an open question (AM-P5-R4) | medium | found by one |
+| AM-P5-D41 PH5:344 | The Phase 8 feed keeps H30 open | H30 is closed. Carry the import function and the hole on where the imports go | medium | confirmed by all three |
+| AM-P5-D42 PH5:345 | The Phase 10 feed lists "the airport" | Strike it. Add the icebreaker-kept channel and the fjord-like inlets, as features, not names | medium (A's grouped row; high in B and C) | confirmed by all three |
+| AM-P5-D43 PH5:346 | The Step 5 feed: H31 "structurally excluded, not missing" | Superseded. Raise the new hole instead (AM-P5-F9) | medium (A's grouped row; high in B and C) | confirmed by all three |
+| AM-P5-D44 PH5:358 | Item 4 quotes the tier as "paid, forever" | The tier as PORTS:559 gives it: CONSTRUCTED (year-round, icebreaker-dependent). The Federation pays for the channel | medium | found by two |
+| AM-P5-D45 PH5:359 | Item 5: "a third source was ACTIVELY SEARCHED FOR and does not exist" | True at pass time, and superseded by rulings that postdate the pass: the Register is that source | medium | confirmed by all three |
+| AM-P5-D46 PH5:361 | Item 7: "Davis's half kept" | No admitted Davis half remains in CONN:314-315 (AM-P5-F10) | low | confirmed by all three |
+| AM-P5-D47 PH5:362 | Item 8 labels the port-as-inbound reading an inference | Confirmed by PORTS:559 | low | confirmed by all three |
+| AM-P5-D48 PH5:373-374 | The verdict counts four arrival types | Three | high | confirmed by all three |
+| AM-P5-D49 PH5:383-386 | The second doubt (H31) | The restated second doubt at AM-P5-F9 | high | confirmed by all three |
+| AM-P5-D50 SPINE L293 | "is explicit that the parent is UNWRITTEN" | Qualifier: one parent-paid service is written (PORTS:559), and `D6` stays unconverged | low | found by one |
+| AM-P5-D51 SPINE L555 | The aviation pick's in-world premise is contradicted | Qualifier: no air access in Tepenia (AIR:54-56) (AM-P5-N16) | low | confirmed by all three |
+| AM-P5-D52 SPINE L107-108, L112-114, L250 and L318 | The composition and census figures have drifted, and "the founders are 4.93%" reads a stock row as the founders | Route to the composition and spine piece (AM-P5-N15) | low (for P5) | confirmed by all three |
+| AM-P5-D53 The Phase 4 file, not in this list, as relayed at PH5:267-269 | "road and air" | Strike the air half against AIR:50. The piece that holds Phase 4 finds the line | high that the air half is false; low for locating the line | confirmed by all three |
+| AM-P5-D54 `03_Research.md`, Phase 10 and other files outside this list | Any statement of air access or an airport | Check against AIR:50 | low | found by one |
+| AM-P5-D55 RELDB:187 and RELDB:189 (source) | The station header, and post-frame status | Not inputs. No fix is needed for P5; noted only | low | found by one |
+| AM-P5-D56 RELDB:190 (source) | The subnet nickname | Not an input and not used here. No fix is needed for P5; its source owner may tidy it | low | conflict resolved to the narrower reading |
+| AM-P5-D57 RELDB:191 (source) | "midpoint", against HWY:199's order | An intermediate stop, the second from the northwest endpoint (AM-P5-N9) | low | confirmed by all three |
+| AM-P5-D58 RELDB:193 (source) | The route and supplier are unreconciled with PORTS:559, and the line uses station-operator framing | Source-fix list. Record the difference without choosing; PORTS:559 is used PROVISIONALLY (AM-P5-F14; AM-P5-Q4) | medium | confirmed by all three |
+| AM-P5-D59 XSUB:124-131 (source) | It cites the withheld file for the tie's character, and states a post-frame severance and survival | Source-fix list, not edited here. No declassification ruling is needed (AM-P5-Q5) | medium | confirmed by all three |
+| AM-P5-D60 XSUB:124 (source) | The partner's founder list differs from LOG L754 | For that row's owner; not used here (AM-P5-N17) | low | found by two |
+| AM-P5-D61 SPEC L8 (source) | "Shares Australian founding-wave heritage with"; "(not paired with" a `DR-19` partner; the namesake as significance | Source-fix list: point to the Register, and drop "heritage" as a reason (AM-P5-N6) | medium | confirmed by all three |
+| AM-P5-D62 SPEC L153 (source) | It restates the founders, and gives founding-wave heritage to a partner present only as an exile group | Source-fix list: point to REG:59 for Davis's founder (AM-P5-N6) | medium | confirmed by all three |
+| AM-P5-D63 CONN:304 (source) | The label "Historical" may be a residue of the namesake thread | The source owner confirms a basis or drops it (AM-P5-N7) | low | confirmed by all three |
+| AM-P5-D64 CONN:314-315 (source) | A ranking only, with no relation; its pass-time wording is unknown | The source owner rewrites it as a relation or removes it. It is never carried as a ranking (AM-P5-R10) | low | found by two |
+
+## 5. Questions for the developer
+
+**Every recommended answer below is PROVISIONAL, and none is a ruling.** Where the readers' recommended answers
+differ, the split is named and the narrower answer is recommended. This piece proceeded on each recommended
+answer, marked PROVISIONAL.
+
+### AM-P5-Q1 Is a shared founding nation in Davis's own line a relation, or only a population-origin fact? (question XC5-38)
+
+- **Found by:** A, B and C · **Disposition:** confirmed by all three.
+- **Recommended answer:** adopt the first check's answer. Record it as a tie whose basis is the Register and,
+  where a line states it, Hwy 110 (`DR-32`). State no sameness or similarity. Mark what passes along it as an
+  open hole. Demote the Davis half to a population-origin fact, and never exclude it. Add one thing (B, C): the
+  CONN:308 line is recorded as road adjacency plus a named link, not as a shared-founder tie.
+- **Waiting on it:** AM-P5-F4, AM-P5-F5, AM-P5-F6 and
+  AM-P5-F9, and the wording of the docket rows for PH5:35, PH5:36, PH5:72-73, PH5:303-306 and
+  PH5:383-386.
+
+### AM-P5-Q2 May canon's grades and type labels be carried into the pass? (question XC5-39)
+
+- **Found by:** A, B and C · **Disposition:** confirmed by all three.
+- **Recommended answer:** yes, but only as canon's own attributed wording on each line. Never sort or compare
+  them, give them no meaning until the grade legend is read, and never use one as evidence of what flows. The same
+  treatment applies to PORTS:559's "principal".
+- **Waiting on it:** AM-P5-F7.
+
+### AM-P5-Q3 Do the port and air contradictions belong to another item? (question XC5-40)
+
+- **Found by:** A, B and C · **Disposition:** confirmed by all three.
+- **Recommended answer:** within Phase 5, no. The readers' brief puts the arrival types and the air-access
+  statement in P5, so P5 owns every Phase 5 statement about the port and air. Statements outside Phase 5 go to
+  their own pieces: Phase 4's "road and air", SPINE L555, the spine's figures, and any air statement in
+  `03_Research.md` or Phase 10. Open an item for any that has none.
+- **Waiting on it:** the docket rows AM-P5-D53, AM-P5-D54,
+  AM-P5-D51 and AM-P5-D52.
+
+### AM-P5-Q4 RELDB:193 or PORTS:559 on the inbound route, and how far does the 2026-09-16 ruling reach? (question XC5-41)
+
+- **Found by:** A, B and C · **Disposition:** confirmed by all three. The question of the ruling's reach was B's,
+  adopted by A and C in Round 3.
+- **The split:** the first check recommended that PORTS:559 governs because it carries a developer ruling. In
+  Round 3, C withdrew its claim that the route itself is ruled. B had noted that the ruling's parenthesis sits on
+  the import designation, not on the transshipment sentence.
+- **Recommended answer (the narrower):** PORTS:559 governs, PROVISIONALLY. Record the difference without
+  choosing, and put RELDB:193 on the source-fix list. Do not adopt the founding nation as a named supplier. The
+  developer is also asked to say whether the 2026-09-16 ruling covers PORTS:559's route sentence, or only the
+  designation it is attached to.
+- **Waiting on it:** AM-P5-F14, the in-row of AM-P5-F13, and the docket row
+  AM-P5-D58.
+
+### AM-P5-Q5 Does XSUB:123-131 need a source fix? (question XC5-42)
+
+- **Found by:** A, B and C · **Disposition:** confirmed by all three.
+- **Recommended answer:** yes. Flag it for the source-fix list, and do not edit it here. No declassification
+  ruling is needed, because the Register and `DR-32` already give the basis.
+- **Waiting on it:** AM-P5-D59.
+
+### AM-P5-Q6 Should CONN:308 be recorded as a founding tie at all?
+
+- **Found by:** C · **Disposition:** found by one. A and B withdrew their own treatments to C's in Round 3.
+- **Recommended answer:** no. Record a direct-neighbor tie on Hwy 110 plus a named link whose content is
+  undescribed, with canon's label attributed. Do not use the presence clause, which describes another location's
+  composition. Davis's own population-origin fact (REG:59) stays recorded and demoted, so no population-origin
+  finding about Davis is excluded.
+- **Waiting on it:** AM-P5-F6.
+
+### AM-P5-Q7 Does the CONN:304 tie exist, given SPEC L8's "not paired with"?
+
+- **Found by:** B and C · **Disposition:** found by two. A joined in Round 3.
+- **Recommended answer:** `DR-19` and `DR-32` govern. Record a seed tie on the Register (Australia among both
+  places' founders), with no route stated and nothing said about what passes along it. Read SPEC L8's
+  parenthesis as a statement about subnet membership, and put SPEC L8 and SPEC L153 on the source-fix list.
+- **Waiting on it:** AM-P5-F4, and the docket rows AM-P5-D6, AM-P5-D32 and
+  AM-P5-D61.
+
+### AM-P5-Q8 Are CONN's scientific prospect lines admissible inputs under PSPINE L636?
+
+- **Found by:** A · **Disposition:** found by one. B and C agreed in Round 3 that the question exists, and all
+  three recommend the same answer.
+- **Recommended answer:** carry them only as canon's attributed prospects (seed), gated on full connectivity,
+  unless the developer rules that an exchange of records counts as trade.
+- **Waiting on it:** AM-P5-F11, AM-P5-N10, and the wording of the restated count at
+  AM-P5-F9.
+
+### AM-P5-Q9 Does CONN:311's "once full connectivity exists" name an in-world condition inside the frame?
+
+- **Found by:** A and C · **Disposition:** found by two. B agreed in Round 3 that it is a developer question.
+- **Recommended answer:** keep the correction at PH5:355 (an undeveloped prospect). Record the dating question as
+  a seed and characterize nothing. Until the question is answered, no date is inferred.
+- **Waiting on it:** AM-P5-N11, and the Phase 6 feed.
+
+### AM-P5-Q10 Is the Federation-paid icebreaker channel a parent supply to Davis for 5c, or a national asset sited at Davis?
+
+- **Found by:** A and C · **Disposition:** found by two. B rescoped its own wording to this answer in Round 3.
+- **Recommended answer:** record it as a Federation-paid service sited at Davis that keeps the nation's import port
+  open. That is firm on the text. Do not say it serves Davis's own needs. It fills part of `PA-6` in that scope
+  only, and the provisional-assumption protocol keeps the rest.
+- **Waiting on it:** AM-P5-F19, and the docket rows AM-P5-D18 and AM-P5-D50.
+
+### AM-P5-Q11 Does the port's designation re-open the spine's "Davis was assigned both of its vocations"?
+
+- **Found by:** B · **Disposition:** found by one. C accepted it in Round 3.
+- **Recommended answer:** record the port as a national function sited at Davis, not as a third vocation of its
+  people. Route any re-test of SPINE L430 and SPINE L436 to the piece that holds Step 2.
+- **Waiting on it:** AM-P5-F19.
+
+### AM-P5-Q12 Does anyone from beyond Tepenia come ashore at Davis, and who crews the leg from the hubs?
+
+- **Found by:** A · **Disposition:** found by one. The hole itself was found by all three (AM-P5-R4).
+- **Recommended answer:** leave it as a hole. Write no sea arrival of persons until a line states one.
+- **Waiting on it:** AM-P5-F17, AM-P5-F18, AM-P5-N5, and Phase 9's outsider
+  question.
+
+### AM-P5-Q13 Should Phase 5's axis be replaced, and if so with what?
+
+- **Found by:** A, B and C · **Disposition:** conflict sent to the developer.
+- **The three proposals:**
+  - A: "What comes into the country here, and what is written about the ties along the road?" A withdrew it in
+    Round 3 in favor of C's.
+  - B: "What is Davis tied to, what passes along those ties, and how much of that has canon written?"
+  - C: "WHAT COMES ASHORE HERE FOR THE COUNTRY — AND WHAT DOES THE CITY OWE THAT IT CANNOT NAME?"
+- **The arguments:**
+  - A and C hold that B's axis (and A's own) writes canon's documentation state into the axis, which is the error
+    PH5:357 records. They also note that C's is the only one of the three that keeps the surviving leg 3.
+  - B cautions that two of the three center the import port, which risks making one sector the phase's identity
+    (00b L219-220). B also grants that the port is the phase's best-written relation, so that is defensible.
+- **Recommended answer (the narrower):** record legs 1 and 2 as killed and leg 3 as standing, and adopt no
+  replacement in the amendment. If the developer wants a replacement, C's is the candidate that A (after
+  withdrawing its own) and C support, and the one that keeps leg 3. Attach B's caution to it: the port is one
+  sector, not the city.
+- **Waiting on it:** AM-P5-F22, and the docket row AM-P5-D8.
+
+### AM-P5-Q14 Is CONN:308's Relay Vaults link among "the relay questions" that LOG L1869 lists as not decided?
+
+- **Found by:** B · **Disposition:** found by one. A and C adopted it in Round 3.
+- **Recommended answer:** treat the link's content as a hole until those questions are decided. Line L1869 does
+  not say what the questions are.
+- **Waiting on it:** AM-P5-F6 and AM-P5-R2.
+
+### AM-P5-Q15 Should a later round read CONN's header and method lines?
+
+- **Found by:** A · **Disposition:** found by one. B and C requested the same source.
+- **Recommended answer:** yes, as a single span read. Until then the founding-nation ties stand on REG,
+  `DR-19` and `DR-32`. The provenance of the scientific lines, and of canon's grades and labels, stays
+  conditional.
+- **Waiting on it:** AM-P5-F2.
+
+### AM-P5-Q16 Does the one-location rule reach real-world territories and Upper-Earth ports named as route points?
+
+- **Found by:** B, in Round 3 · **Disposition:** found by one.
+- **Background:** the readers' practice differed. A named the two transshipment hubs in its prose. C named them
+  in a research question. B withheld them.
+- **Recommended answer (the narrower):** name them only inside quotations and in research questions. This merge
+  follows that practice PROVISIONALLY. The two Upper-Earth staging ports in RELDB:193 are not named at all.
+- **Waiting on it:** wording only. No finding depends on it.
+
+## 6. Reserved findings and requests
+
+### AM-P5-R1 The new hole that replaces H31: what passes along Davis's founding-nation and presence ties
+
+- **Found by:** A, B and C · **Disposition:** confirmed by all three.
+- **The hole:** what, if anything, passes along Davis's three founding-nation and presence ties: people, goods,
+  correspondence, acknowledgment, or any other mechanism, dependency, direction or flow. No Davis line states one.
+- Under `DR-102` the identifier H31 stays stable and its answer is stated (AM-P5-F9). The new
+  hole's identifier is left to whoever applies the docket, and no number is typed for it here.
+
+### AM-P5-R2 What the CONN:308 partner's Relay Vaults link is, and what it carries to or from Davis
+
+- **Found by:** A, B and C · **Disposition:** confirmed by all three.
+- It cannot be answered from Davis's own lines in a one-location run, and it may wait on "the relay questions"
+  at LOG L1869 (AM-P5-Q14).
+
+### AM-P5-R3 Where the port's imports go after landing
+
+- **Found by:** A, B and C · **Disposition:** confirmed by all three.
+- Whether the raw materials stay at Davis or move on along Hwy 110 is not stated. This replaces H30 as the open
+  question about the port (AM-P5-F15; AM-P5-F13).
+
+### AM-P5-R4 Whether persons arrive by sea
+
+- **Found by:** A, B and C · **Disposition:** confirmed by all three.
+- The open points: who crews the final leg into Davis, whether any person from beyond Tepenia comes ashore, and
+  whether anyone at Davis receives or screens arriving people. PORTS:559 says the cargo is "transshipped via" the
+  hubs, which suggests a change of vessel before Tepenia, but that is not stated (C). The source needed is
+  `Neutral_Transshipment_Hubs.md`.
+- It bears on what "outsider" means at Davis (AM-P5-F18; AM-P5-N5;
+  AM-P5-Q12).
+
+### AM-P5-R5 Sources this piece needs and cannot read
+
+- **Found by:** A, B and C · **Disposition:** confirmed by all three for the core requests. Single-reader
+  requests are credited inline.
+- CONN's header and method lines (A, B, C; AM-P5-Q15).
+- The tier legend of `Ports.md`, to locate "rebuilt or cut open, every year" and "paid, forever", and to say what
+  the tier costs and who pays (A, B).
+- `Airports.md` from L58 on, for the "except where noted" clause (A, B, C).
+- `Neutral_Transshipment_Hubs.md`, for who runs the leg from the hubs (A, B, C).
+- The Phase 4 file, and Division of Industry file 16 §19, the source of the "not dependent on its own shipping"
+  reading and of "road and air" (A, B, C).
+- `Geothermal_Heating.md`, for H29 (A), and the Falkland Treaty text, for the treaty right and H32 (A).
+- The Theoretical-Calculations file that RELDB:193 cites, for the period and basis of its supply line (B, C).
+- The Register's header row, to interpret REG:59's columns (C), and the map images, for `DR-32`'s map half on the
+  CONN:304 tie (C).
+- Phase 2 §E.2 and Phase 3 §B.1, for the outsider reading and "the quiet" (C), and the medical-institutes file
+  behind PH5:120-124 (A, B).
+- **The partners' Register rows (conflict resolved to the narrower reading).** B asked for them in order to
+  confirm presence rather than founding at CONN:308 and to check XSUB:124's founder list. A, C and K hold that a
+  Davis run may not read or verify another location's rows. The narrower course is used: the request goes to the
+  Register's owner as a source check, not into a Davis run.
+
+### AM-P5-R6 Research question: the sea ice of Prydz Bay, and what a year-round channel requires
+
+- **Found by:** A, B and C · **Disposition:** confirmed by all three.
+- No web research was done in this piece (LAW 0-R applies when it is). In the real world, what are the sea-ice
+  conditions in Prydz Bay off the Vestfold Hills across the year? That covers the fast-ice extent and thickness,
+  the icebreaker class needed, the dark-season operating limits, and whether a year-round icebreaker-kept channel
+  into the fjord-like inlets is physically realistic. Any texture of the winter port, including the image at
+  AM-P5-N13, stays conditional until this is researched.
+
+### AM-P5-R7 Research question: the two transshipment hubs
+
+- **Found by:** A and C · **Disposition:** found by two.
+- What real-world status, harbor and anchorage capacity do the French Southern and Antarctic Lands and Heard
+  Island and McDonald Islands have, and what would transshipment there require (A)? Could a route staged at
+  origin ports and then transshipped at those hubs join RELDB:193 and PORTS:559 into one chain (C)? Does canon's
+  word "neutral" fit if a hub belongs to the founding nation (C)? Nothing is stated about either hub from recall.
+
+### AM-P5-R8 Research question: what a remote polar import port records
+
+- **Found by:** A · **Disposition:** found by one.
+- What records does a remote polar import port keep in practice (arrival logs, manifests, ice-channel logs), and
+  how are they kept through a polar night? This bears on AM-P5-N8.
+
+### AM-P5-R9 Research question: the Vestfold Hills lake-sediment records
+
+- **Found by:** C · **Disposition:** found by one.
+- Research the real-world lake-sediment paleoclimate records from the Vestfold Hills lakes as geography, not as
+  station history. This would ground AM-P5-N10.
+
+### AM-P5-R10 A read-only history check of the source lines at pass time
+
+- **Found by:** B and C · **Disposition:** found by two.
+- Did "professional correspondence" ever stand at CONN:314-315? This is for the orchestrator, because it lies
+  outside a reader's list. The limits of A and C ask the same of the pass-time `Airports.md` list and of the
+  port phrases PH5:22 quotes.
+
+### AM-P5-R11 Reserved: nothing is built on the namesake
+
+- **Found by:** C · **Disposition:** found by one.
+- No person, honorific, holiday or founding story is built on the namesake or on the relief-voyage detail
+  (LOG L752; NNS L160). The reserved items stay unforeclosed, as PH5:320 says the pass left them.
+
+## 7. Limits
+
+- **Pass-time source text is not visible** (A, B, C). So this piece cannot prove whether a changed statement was
+  a pass error or a later change in the source. The air misreading rests only on AIR:42's date and the brief.
+  PH5:79's quotation and PH5:22's port phrases cannot be traced. Nor can it be proved whether PORTS:559's ruling,
+  dated 2026-09-16 (the day Phase 5 was written), was available to the pass (A).
+- **Outside every range:** CONN's header, XSUB's method section, the tier legend of `Ports.md`, and `Airports.md`
+  beyond L57.
+- **The partners' halves of the ties are not read** (the one-location law). LOG L553 confirms the founding
+  premise for the CONN:304 and CONN:307 partners only. The presence claim at CONN:308 is unverified, and is not
+  used.
+- **The composition figures** come from the orchestrator results. The SPEC composition table is not in this list
+  (C).
+- **`DR-32`'s map** is not read. For the CONN:304 tie, only the Register half is checked (C).
+- **Not re-derived and left as baseline:** the food out-row (`PA-3`); H29 (the geothermal file); the treaty right
+  and H32; the medical-file point at PH5:120-124; the Phase 2, 3 and 4 claims PH5 relays (the quiet, the inputs
+  to the membership mechanism, the heat reasoning); `D4`; and 5b.
+- **"Full connectivity"** read as the Tower's interconnection is an inference across files (A).
+- **Later phases** (Phases 6-10, Steps 5-10, `03_Research.md`) are flagged by route only, not checked (C).
+- **No claim is made about who works the port**, human or robot (B).
+- **No web research was done**, so every real-world question stays open.
+- **This merge re-derived nothing.** Quotations were checked against the readers' listed files at their stated
+  ranges only.
+
+## 8. Research log
+
+No web research in this piece. None of the three readers, nor K, ran a web search, so there are no search strings
+to copy. The readers' read-only commands (line counts, positional-line prints, arithmetic) are not searches. They
+are recorded in section 9.
+
+## 9. Merge record
+
+### How the dispositions were assigned
+
+- **The brief does not say whether a reader's Round 3 adoption of another reader's point changes its "found by"
+  count.** This merge reads the counts as Round 1 finders, with K counted as a finder and credited.
+  - `confirmed by all three`: A, B and C each found the item in Round 1, at least in substance, and no reader
+    disputed it after Round 3.
+  - `found by two` and `found by one`: the number of Round 1 finders. Where the other readers adopted the point
+    in Round 3, the tables say so, and the disposition keeps the Round 1 count.
+  - A conflict is a contradiction that still stood after Round 3.
+- The words from Round 3's verdicts are not used as dispositions. Each reader found the other two consistent with
+  the sources, and differing only in classification, strength and emphasis.
+
+### Findings (section 1)
+
+| Item | Round 1 finders (reader items) | Round 3 | Disposition |
+|---|---|---|---|
+| AM-P5-F1 | A (XA-1), B (XB-101), C (XC-201), K (XC5-7, XC5-8) | no change | confirmed by all three |
+| AM-P5-F2 | A (XA-1(b)), B (XB-112), C (XC-219), K (XC5-24) | what is at risk: A's scientific lines and B's grades, both adopted by C; B adopted A's | confirmed by all three |
+| AM-P5-F3 | A (XA-1, XA-2), B (XB-122), C (XC-202), K (XC5-13 to XC5-18) | no change | confirmed by all three |
+| AM-P5-F4 | A (XA-2), B (XB-102), C (XC-203), K (XC5-23) | C withdrew conditional to seed | confirmed by all three |
+| AM-P5-F5 | A (XA-2), B (XB-103), C (XC-204) | A withdrew its single conditional label | confirmed by all three |
+| AM-P5-F6 | A (XA-2), B (XB-104, XB-138), C (XC-205) | A and B withdrew to C's treatment of the presence clause; A adopted the named link | confirmed by all three |
+| AM-P5-F7 | A (XA-3), B (XB-109), C (XC-206) | A withdrew its voicing of "principal" | confirmed by all three |
+| AM-P5-F8 | A (XA-4), B (XB-110), C (XC-207), K (XC5-9, XC5-21) | A disputed B's "administrative" wording | confirmed by all three; one conflict resolved to the narrower reading |
+| AM-P5-F9 | A (XA-5), B (XB-107, XB-111), C (XC-208), K (XC5-19) | no change | confirmed by all three |
+| AM-P5-F10 | A (XA-6(a)), B (XB-106), C (XC-209), K (XC5-7) | A withdrew its class; classes split by object | confirmed by all three |
+| AM-P5-F11 | A (XA-6(b)), B (XB-105), C (XC-210) | C held against B's "mutual" | confirmed by all three; one conflict resolved to the narrower reading |
+| AM-P5-F12 | A (XA-6(c)), B (XB-107), C (XC-209), K (XC5-23) | no change | confirmed by all three |
+| AM-P5-F13 | A (XA-7), B (XB-108), C (XC-211) | no change | confirmed by all three |
+| AM-P5-F14 | A (XA-9), B (XB-117), C (XC-211), K (XC5-8) | A withdrew its blanket null; C withdrew to null for the supplier, and withdrew its claim that the route itself is ruled; B withdrew "conflicts" | confirmed by all three; one conflict resolved to the narrower reading |
+| AM-P5-F15 | A (XA-8), B (XB-116), C (XC-212), K (XC5-11) | A withdrew "the sector's imports depend on it"; payer, actor and "every year" disputed | confirmed by all three; three conflicts resolved to the narrower reading |
+| AM-P5-F16 | A (XA-10), B (XB-114), C (XC-213), K (XC5-11) | C added the PH5:275 and PH5:329 rows from A and B | confirmed by all three |
+| AM-P5-F17 | A (XA-11), B (XB-115, XB-128), C (XC-214) | C withdrew to conditional for persons by road | confirmed by all three |
+| AM-P5-F18 | A (XA-12), B (XB-113), C (XC-214), K (XC5-4) | B held against A's qualifier on PH5:211-213 | confirmed by all three; one conflict resolved to the narrower reading |
+| AM-P5-F19 | A (XA-13), B (XB-118), C (XC-215) | B withdrew its reading of the channel as a supply to Davis; C accepted A's seed for what the parent requires | confirmed by all three |
+| AM-P5-F20 | A (XA-14(a)), B (XB-119), C (XC-220) | B withdrew "one of Davis's dependencies is named" | confirmed by all three |
+| AM-P5-F21 | A (XA-14(b)), B (XB-116, XB-131), C (XC-216), K | no change | confirmed by all three |
+| AM-P5-F22 | A (XA-15), B (XB-133), C (XC-217) | B added the leg 1 class; A withdrew its replacement in favor of C's | legs confirmed by all three; replacement: conflict sent to the developer |
+| AM-P5-F23 | A (docket row PH5:117-124), C (XC-221) | B adopted (M1) | found by two |
+| AM-P5-F24 | A (XA-16), B (XB-120), C (XC-218) | C corrected B's "east" | confirmed by all three; one conflict resolved to the narrower reading |
+| AM-P5-F25 | A (XA-16), B (XB-107, docket), C (docket) | C adopted A's Phase 9 row and A's and B's Phase 6 row | confirmed by all three |
+| AM-P5-F26 | A (XA-4), B (XB-121), C (XC-201, XC-243) | A and C confirmed B's SPINE L95 check; A and B weighed C's PH5:26 reading | confirmed by all three; one conflict resolved to the narrower reading |
+
+### Killed or narrowed findings (section 2)
+
+| Item | Round 1 finders (reader items) | Round 3 | Disposition |
+|---|---|---|---|
+| AM-P5-K1 | A (section 2 table), B (XB-122), C (XC-202), K (XC5-13 to XC5-16) | no change | confirmed by all three |
+| AM-P5-K2 | A (XA-1), B (XB-102), C (XC-203), K (XC5-15) | no change | confirmed by all three |
+| AM-P5-K3 | A (XA-5), B (XB-111), C (XC-208) | no change | confirmed by all three |
+| AM-P5-K4 | A (XA-5: qualifier), B (docket: no longer true), C (docket: superseded) | no change; the readings fit together (true then, superseded now) | confirmed by all three |
+| AM-P5-K5 | A (XA-4), B (XB-127), C (XC-207), K (XC5-21) | no change | confirmed by all three |
+| AM-P5-K6 | A (XA-6(a)), B (XB-126), C (XC-209) | A withdrew to this class (D3) | confirmed by all three |
+| AM-P5-K7 | A (XA-6(a), as evidence) | B (D1) and C (H3) agreed that A is right for the quotation | found by one |
+| AM-P5-K8 | A (XA-10), B (XB-123), C (XC-213), K | no change | confirmed by all three |
+| AM-P5-K9 | A (XA-11), B (XB-124), C (XC-212), K | no change | confirmed by all three |
+| AM-P5-K10 | A (XA-8(c)), B (B's D3 agreed on the point), C (XC-212) | B agreed in Round 3 that the sentence's point is killed | confirmed by all three |
+| AM-P5-K11 | B (XB-116; Round 3 D3) against A (XA-8(c)) and C (XC-212) | not withdrawn by either side | conflict resolved to the narrower reading |
+| AM-P5-K12 | B (Round 3 A3, D4) against A (XA-8(c)); C's note (Round 3 A3) | not withdrawn by either side | conflict resolved to the narrower reading |
+| AM-P5-K13 | A (XA-8), B (XB-125), C (XC-212), K | no change | confirmed by all three |
+| AM-P5-K14 | A (XA-15), B (XB-133, without a class), C (XC-217) | B adopted the class (D7) | confirmed by all three |
+| AM-P5-K15 | A (XA-15), B (XB-133), C (XC-217) | no change | confirmed by all three |
+| AM-P5-K16 | A (XA-7(e), XA-18), B (XB-108, XB-134), C (XC-211, XC-245), K | no change | confirmed by all three |
+| AM-P5-K17 | A (XA-11), B (XB-128), C (XC-214) | no change | confirmed by all three |
+| AM-P5-K18 | A (XA-13), B (XB-129), C (XC-215) | no change | confirmed by all three |
+| AM-P5-K19 | A (XA-14), B (XB-130), C (XC-220) | B narrowed its wording (W5) | confirmed by all three |
+| AM-P5-K20 | A (XA-14(b)), B (XB-131), C (XC-216) | no change | confirmed by all three |
+| AM-P5-K21 | A (XA-14(b)), B (docket), C (XC-216), K | no change | confirmed by all three |
+| AM-P5-K22 | A (XA-6(c)), B (XB-107), C (XC-209) | no change | confirmed by all three |
+| AM-P5-K23 | A (XA-12(b)), B (XB-115), C (XC-214) | no change | confirmed by all three |
+| AM-P5-K24 | A (XA-16), B (XB-132), C (XC-218) | no change | confirmed by all three |
+| AM-P5-K25 | A (docket row), C (XC-221) | B adopted (M1) | found by two |
+
+### New findings (section 3)
+
+| Item | Round 1 finders (reader items) | Round 3 | Disposition |
+|---|---|---|---|
+| AM-P5-N1 | A (XA-18), B (XB-133, XB-134), C (XC-245) | no change | confirmed by all three |
+| AM-P5-N2 | A (XA-19) | B (D9) and C (H5) agreed that the question exists | found by one |
+| AM-P5-N3 | A (XA-17), C (XC-240); B's point on "the founders" (XB-139) | B adopted the guard (M5); C adopted B's point (D5); C asked for "combined" | found by two |
+| AM-P5-N4 | A (XA-20), B (XB-115), C (XC-240, XC-241) | B withdrew "the majority body" (W2); C adopted A's share point (D6) | confirmed by all three |
+| AM-P5-N5 | A (XA-21) | A withdrew its second-order step (D2) | found by one |
+| AM-P5-N6 | A (XA-22), B (XB-135), C (XC-232), K (XC5-10) | A corrected C's placement of SPEC L155 | confirmed by all three |
+| AM-P5-N7 | A (XA-23), B (XB-136), C (XC-233) | no change | confirmed by all three |
+| AM-P5-N8 | A (XA-24) | B (M7) and C (D7) accepted it as a seed | found by one |
+| AM-P5-N9 | A (XA-25), B (XB-137), C (XC-235) | C corrected B's "east" (counted at AM-P5-F24) | confirmed by all three |
+| AM-P5-N10 | A (XA-26), B (XB-105, in substance), C (XC-230) | A and B adopted C's docket row; A corrected C's guard citation | confirmed by all three |
+| AM-P5-N11 | A (XA-6(b)), C (XC-231) | A narrowed to seed (D6); B agreed it is a developer question (D10) | found by two |
+| AM-P5-N12 | C (XC-234) | A (D10) and B (M2) adopted it | found by one |
+| AM-P5-N13 | C (XC-236) | B accepted it as a seed only (M7) | found by one |
+| AM-P5-N14 | B (XB-106), C (XC-238) | A adopted the guard (D4) | found by two |
+| AM-P5-N15 | A (XA-27), B (XB-139), C (XC-239) | C adopted B's sharper point (D5) | confirmed by all three |
+| AM-P5-N16 | A (XA-28), B (XB-140), C (XC-213) | no change | confirmed by all three |
+| AM-P5-N17 | A (docket row XSUB:124), B (XB-141) | C adopted (D8) | found by two |
+| AM-P5-N18 | K (XC5-5, XC5-12, XC5-17, XC5-20) | not part of Round 3 | found by one |
+
+### Questions (section 5)
+
+| Item | Round 1 finders (reader items) | Round 3 | Disposition |
+|---|---|---|---|
+| AM-P5-Q1 | A (XA-30), B (XB-143), C (XC-260); first check XC5-38 | no change | confirmed by all three |
+| AM-P5-Q2 | A (XA-31), B (XB-144), C (XC-260); first check XC5-39 | no change | confirmed by all three |
+| AM-P5-Q3 | A (XA-32), B (XB-147), C (XC-263); first check XC5-40 | B adopted C's added routes (D15) | confirmed by all three |
+| AM-P5-Q4 | A (XA-33), B (XB-145), C (XC-262); first check XC5-41 | A (D8) and C (W3) adopted B's question on the ruling's reach | confirmed by all three |
+| AM-P5-Q5 | A (XA-34), B (XB-148), C (XC-267); first check XC5-42 | no change | confirmed by all three |
+| AM-P5-Q6 | C (XC-261) | A (D1) and B (W1) withdrew to C's answer | found by one |
+| AM-P5-Q7 | B (XB-142), C (XC-265) | A joined (D16); C withdrew its strength to seed (W1) | found by two |
+| AM-P5-Q8 | A (XA-35) | B (D9) and C (H5) agreed, with the same recommended answer | found by one |
+| AM-P5-Q9 | C (XC-264), A (XA-6(b)) | A (D6) and B (D10) agreed it is a developer question | found by two |
+| AM-P5-Q10 | A (XA-36), C (XC-266) | B withdrew to the same scope (W4) | found by two |
+| AM-P5-Q11 | B (XB-146) | C accepted it (D9) | found by one |
+| AM-P5-Q12 | A (XA-37) | C added the Phase 9 feed row (D3) | found by one |
+| AM-P5-Q13 | A (XA-15, XA-38), B (XB-133), C (XC-217) | A withdrew its axis to C's (D9); B (D8) and C (H6) held | conflict sent to the developer |
+| AM-P5-Q14 | B (XB-138, XB-149) | A (D17) and C (D4) adopted it | found by one |
+| AM-P5-Q15 | A (XA-39); B (XB-150) and C (XC-283) as requests | no change | found by one |
+| AM-P5-Q16 | B (Round 3, D13) | raised in Round 3 only | found by one |
+
+### Reserved findings and requests (section 6)
+
+| Item | Round 1 finders (reader items) | Round 3 | Disposition |
+|---|---|---|---|
+| AM-P5-R1 | A (XA-5, XA-44), B (XB-111), C (XC-208) | no change | confirmed by all three |
+| AM-P5-R2 | A (XA-44), B (XB-111), C (XC-208) | A adopted B's and C's reading of the link as a named channel (D1) | confirmed by all three |
+| AM-P5-R3 | A (XA-44), B (XB-116), C (XC-211) | no change | confirmed by all three |
+| AM-P5-R4 | A (XA-21, XA-37), B (XB-115), C (XC-237) | no change | confirmed by all three |
+| AM-P5-R5 | A (XA-40), B (XB-150 to XB-155), C (XC-283) | B's request for the partners' rows set against A, C and K | confirmed by all three; one conflict resolved to the narrower reading |
+| AM-P5-R6 | A (XA-41), B (XB-157), C (XC-281) | no change | confirmed by all three |
+| AM-P5-R7 | A (XA-42), C (XC-280) | B adopted the "possibly one chain" reading (W3) | found by two |
+| AM-P5-R8 | A (XA-43) | not addressed | found by one |
+| AM-P5-R9 | C (XC-282) | not addressed | found by one |
+| AM-P5-R10 | B (XB-156), C (XC-283) | no change | found by two |
+| AM-P5-R11 | C (XC-284) | not addressed | found by one |
+
+### Docket rows (section 4)
+
+Each docket row's own disposition column is authoritative. This table groups the rows by finder.
+
+| Rows | Round 1 finders | Disposition |
+|---|---|---|
+| AM-P5-D1, AM-P5-D2, AM-P5-D3, AM-P5-D5, AM-P5-D6, AM-P5-D7, AM-P5-D9, AM-P5-D10, AM-P5-D12, AM-P5-D13, AM-P5-D14, AM-P5-D15, AM-P5-D16, AM-P5-D18, AM-P5-D19, AM-P5-D20, AM-P5-D21, AM-P5-D23, AM-P5-D24, AM-P5-D25, AM-P5-D26, AM-P5-D28, AM-P5-D29, AM-P5-D30, AM-P5-D31, AM-P5-D32, AM-P5-D33, AM-P5-D34, AM-P5-D35, AM-P5-D36, AM-P5-D37, AM-P5-D39, AM-P5-D41, AM-P5-D42, AM-P5-D43, AM-P5-D45, AM-P5-D46, AM-P5-D47, AM-P5-D48, AM-P5-D49, AM-P5-D51, AM-P5-D52, AM-P5-D53, AM-P5-D57, AM-P5-D58, AM-P5-D59, AM-P5-D61, AM-P5-D62, AM-P5-D63 | A, B and C (in their dockets, or in findings the dockets point to) | confirmed by all three |
+| AM-P5-D4 | A, B and C for the address; C against A on the pattern clause, with B undecided | confirmed by all three (address); conflict resolved to the narrower reading (clause) |
+| AM-P5-D8 | A, B and C for the legs; three replacement axes | confirmed by all three (legs); conflict sent to the developer (replacement) |
+| AM-P5-D27 | A and C against B on the sub-clause; C against B on the actor | conflict resolved to the narrower reading |
+| AM-P5-D22 | A against B and C | conflict resolved to the narrower reading |
+| AM-P5-D56 | A (source fix) against C (no fix needed) | conflict resolved to the narrower reading |
+| AM-P5-D17, AM-P5-D38, AM-P5-D44, AM-P5-D60, AM-P5-D64 | two readers each: A and C; A and B; A and C; A and B; A and C | found by two |
+| AM-P5-D11, AM-P5-D40, AM-P5-D50, AM-P5-D54, AM-P5-D55 | one reader each: C; A; C; C; C | found by one |
+
+### Every conflict, and how it was decided
+
+**Thirteen conflicts stood after Round 3. Twelve were resolved to the narrower reading, and one was sent to the
+developer.** A vote count decided none of them. Where a reader withdrew its own claim, the withdrawal was treated
+as evidence for the narrower reading, never as a tie-break.
+
+- **PH5:26's pattern clause** (AM-P5-F26; AM-P5-D4).
+  - C (XC-201): the clause contradicts the pass's own withdrawal of a headline.
+  - A (Round 3 D12): the withdrawn headline was a different claim, so the clause is merely stale.
+  - B (Round 3 C3): C's reading is plausible but not certain.
+  - **Decided:** the clause is stale and needs a qualifier. That claims less than a contradiction.
+- **"An administrative fact"** (AM-P5-F8).
+  - B (XB-110 item 2) called the subnet difference an administrative fact.
+  - A (Round 3 D13): "administratively separate" is the withheld file's own wording.
+  - **Decided:** the admissible fact is the subnet label only.
+- **Who pays "paid, forever"** (AM-P5-F15; AM-P5-K12).
+  - A (XA-8(c)) killed it, with Davis read as the payer.
+  - B (Round 3 A3, D4): PORTS:559 shows only that the Federation pays for the channel; other port costs are
+    unstated. C (Round 3 A3) noted that PH5:22 names no payer.
+  - **Decided:** the channel's payer is the Federation, and the payer of any other port cost is not stated.
+- **Who keeps the channel open** (AM-P5-F15; AM-P5-D27).
+  - B (XB-116) restated PH5:271 with Davis as the actor.
+  - C (Round 3 B3, H12), with A: PORTS:559 names no Davis actor.
+  - **Decided:** no Davis actor; who operates the icebreakers is not stated.
+- **The "every year" sub-clause** (AM-P5-K11).
+  - A and C killed PH5:271 outright.
+  - B (Round 3 D3) agreed that the point is killed, but held that the sub-clause is conditional on the unread tier
+    legend.
+  - **Decided:** the point is killed by evidence, and the sub-clause stays conditional.
+- **The direction of the scientific prospects** (AM-P5-F11).
+  - B (XB-105): mutual.
+  - C (Round 3 H8): no direction is stated.
+  - **Decided:** no direction is stated.
+- **PH5:211-213, "no category for the person arriving"** (AM-P5-F18; AM-P5-D22).
+  - A (XA-12(b)): qualify it now.
+  - B (Round 3 D6) and C (XC-214): leave it standing until the persons-by-sea hole is answered.
+  - **Decided:** it stands, with its dependency recorded.
+- **RELDB:193's route against PORTS:559** (AM-P5-F14).
+  - A and C called it a conflict. B withdrew "conflicts" (Round 3 W3) in favor of
+    "unreconciled; possibly one chain".
+  - **Decided:** unreconciled. Neither line rules out one chain.
+- **RELDB:190's source fix** (AM-P5-D56).
+  - A: a source fix. C: not an input, and no fix is needed for P5. B (Round 3 D12) sided with C for P5.
+  - **Decided:** no fix for P5; the source owner may tidy it.
+- **Direction words on Hwy 110** (AM-P5-F24).
+  - B (XB-120): three stops lie east.
+  - C (Round 3 B3): HWY:201 labels the far endpoint south.
+  - **Decided:** the other stops lie along the route toward the southern endpoint.
+- **The partners' Register rows** (AM-P5-R5).
+  - B (XB-151) asked for them.
+  - A, C and K hold that a Davis run may not read or verify another location's rows.
+  - **Decided:** the request is routed to the Register's owner, not into a Davis run.
+- **Naming the transshipment hubs** (AM-P5-Q16).
+  - A named them in prose, C in a research question, and B withheld them.
+  - **Decided, PROVISIONALLY:** they are named only in quotation and in research questions. The question goes to
+    the developer.
+- **The replacement axis** (AM-P5-Q13). A withdrew its own; B and C each held theirs.
+  - **Sent to the developer.** The recommendation is the narrower course: adopt no replacement in the amendment.
+
+### Every withdrawal
+
+Each withdrawal is evidence for the narrower reading.
+
+- **A (Round 3 reply):**
+  - D1: the presence clause at CONN:308 as an overlap of origin groups.
+  - D2: voicing "principal", the second-order step at XA-21, and XA-8's dependency of the sector's imports.
+  - D3: the class "killed by evidence" for the CONN:314-315 relation.
+  - D7: the blanket "null" for RELDB:193.
+  - D9: its replacement axis, in favor of C's.
+  - D19: the single "conditional" label for the CONN:307 tie.
+  - D6 (partial): the dating of full connectivity, narrowed from conditional to seed.
+- **B (Round 3 reply):**
+  - W1: the presence note at CONN:308.
+  - W2: "the majority body" for Davis.
+  - W3: "conflicts" for the RELDB:193 route.
+  - W4: the parent's channel as a supply to Davis.
+  - W5: "one of Davis's dependencies is named".
+  - W6: a procedural self-correction, an unreported helper script (see the process notes below).
+- **C (Round 3 reply):**
+  - W1: the CONN:304 tie at "conditional", withdrawn to seed.
+  - W2: the founding nation as supplier at "conditional at most", withdrawn to null as a relation until the two
+    lines are reconciled.
+  - W3: the claim that PORTS:559's ruling covers the route.
+  - W4: "The ordinary case" as firm for persons, withdrawn to conditional.
+
+### Strength-rule applications (weakest strength after Round 3, unless a reply moved it)
+
+- The CONN:308 named link: seed (C), where B gave a hole.
+- What a sea arrival meets first: conditional (C), where A gave firm.
+- "Largely unwritten" restated: conditional (A), where B and C gave firm.
+- What the parent requires in 5c: seed (A), and C accepted it.
+- The founding nation as supplier at RELDB:193: null as a relation, by C's Round 3 downgrade.
+- The CONN:304 tie: seed, by C's Round 3 downgrade.
+- The scientific prospects: seed (B, C), and A narrowed its dating to seed.
+
+### Single-reader finds of the first check's reader (K), unioned
+
+All of these are credited to K and written in the body:
+- Phase 5's receipt does not open or cite the Register (AM-P5-F3; AM-P5-N18).
+- Davis is NNS L32's same-nation case, and its current lines pass NNS L7's swap test
+  (AM-P5-N18).
+- NNS L56: exclusion was never open even for a population-origin finding (AM-P5-F3).
+- The PH5:357 inversion to admitted-with-content-unwritten (AM-P5-F3).
+- The case that the pass stands (a shared founder is a similarity, not a relation), weighed at
+  AM-P5-F4.
+- SPEC L151's operator and start year are admissible as infrastructure (`DR-24`), and its journals as records
+  (`DR-25`) (AM-P5-F1).
+- SPEC L153 is a restatement of a founding claim that a Davis run may not verify against other rows
+  (AM-P5-N6).
+- The scope note that, for the ties alone, the headline survives (AM-P5-F12).
+
+K treated NNS L94 as a matter for the terminal check and did not use it. A, B and C cite it only as the reason
+no sameness is written, and make no comparison. Both fit, because no sameness is written and no comparison is
+made, so this is not counted as a conflict.
+
+### Citation slips found in Round 3, and how this merge treats them
+
+- A cited LOG L546-547 for the developer's verbatim, which starts at L545 (B, C). This merge uses L545-547.
+- C cited the 00b series guard at SPINE L232-233. A located it at PH5:232-233, and this merge uses that address.
+- C placed SPEC L155's namesake in "Significance". It sits in the Founding section (A).
+- C's XC-206 said PH5:361 stays, while C's own XC-209, and A and B, say it needs a qualifier (A). This merge uses
+  the XC-209 reading, which matches CONN:314-315.
+- A's "under a sixteenth" holds only against the combined Census I population (C). This merge says "combined".
+
+### Omissions made under the brief's rules
+
+- **No other location's name is reproduced.** The partners are named by their CONN line, Davis's subnet is
+  "Davis's own subnet", and Hwy 110's endpoints and neighbors are described by position.
+- **Readers' names are not copied.** The readers' partner labels (B's T-304, T-307 and T-308) are replaced. The
+  readers' PROOF positional lines that carry names are not copied.
+- **PH5:35, PH5:36 and PH5:303 name partners.** They are quoted only in fragments that leave the names out.
+- **Not named:** the two Upper-Earth staging ports at RELDB:193 and in the first check's question XC5-41.
+- **The two transshipment hubs** are named only inside a quotation of PORTS:559 and in a research question
+  (AM-P5-Q16).
+- **The namesake person's name** (SPEC L8, SPEC L155) is not reproduced, and neither is the relief-voyage detail
+  at LOG L752.
+- **Two composition rows** that A's XA-17 named beside the Australia row are not reproduced, because no finding
+  needs them.
+
+### What readers flagged as unclear in their briefs
+
+- **The graphify hook fired for every reader** (A, B, C, K). Each disregarded it under `DR-6`. The same hook
+  fired on this merge writer's reads and was disregarded under `DR-6`, as the merge brief directs.
+- **Ranges that end mid-sentence:** AIR:57 ends inside "except where noted", and REG:12 ends mid-sentence
+  (A, B, C, K).
+- **Brief rule 7 calls robots "the majority body".** At Davis they are 51.20% at Census I and 44.45% at
+  Census II (A; B withdrew its own use; C adopted the point).
+- **Pass-time line numbers:** the questions' references to CONN L296-308 and XSUB L125-147 are the pass's own
+  numbers, now drifted (A, K).
+- **"LOG DR-105 item 4":** the general verbatim sits at L1711, and the recorded item (4) applies it to one city
+  only (A, B).
+- **XSUB L121-122** belong to another location's entry (A, C).
+- **Names in PROOF lines:** PORTS:559 and REG:59 carry names that the readers treated conservatively in their
+  PROOF blocks (B, C).
+- **Scope overlap:** brief §1 puts the port and air in P5, while XC5-40 asks whether they belong elsewhere (B).
+- **Partner names:** the questions refer to partners that rule 1 forbids naming (B).
+- **CONN:308's "Founding Register" cites presence.** Whether the Register records presence at all cannot be
+  checked in REG:6-12 and REG:59 (B).
+- **The brief's premise holds only in part.** It says Davis's relation lines rest the ties on the Founding
+  Register and Hwy 110, but that is true only of CONN:307 and CONN:308. CONN:304 rests on the Register alone (C).
+- **XC5-30 presumes that both direct neighbors have a line,** and only one does (C).
+- **XC5-35 cannot be answered from the list** (A, B, C, K).
+- **The Register's header row is outside the range** (C).
+- **K's own flags:**
+  - brief rule 4 cited no ruling in K's list (XC5-51);
+  - the reserved-items list was not in its list (XC5-47);
+  - its reading log was written after reading rather than during (XC5-44).
+- **This merge writer's own flag:** the merge brief does not say whether a Round 3 adoption changes a "found by"
+  count. The convention used is stated at the head of this section.
+
+### Process notes
+
+- **Reads outside an admitted span, all disclosed and none used:**
+  - A and B each printed `Airports.md` L58 while verifying a positional line. C could not confirm that line.
+  - C's quotation check ran `grep` over whole files and printed three RELDB line numbers outside the range; no
+    content was used.
+  - K's checker loaded whole files in memory and compared only the admitted lines.
+- **Helper files:**
+  - B wrote a checker script at `scratchpad/tools_B/`. It was unreported in Round 1 and disclosed in Round 3 as
+    W6.
+  - C wrote `pieces/P5/C_tools/check.py`. The project's `rm` hook blocked its deletion.
+  - K wrote a temporary script and deleted it.
+  - The orchestrator may delete or ignore the two that remain.
+- **A line-count discrepancy, unexplained.** B's Round 3 reply reports `round3/out_C.md` as 599 lines, read in
+  two pages. A reports 745 lines. This merge writer's read shows 745 lines, with C's prose ending at line 600 and
+  its PROOF blocks beginning at line 601. The difference matches the PROOF-block region, which carries no
+  findings.
+- **PROOF fields:** each reader reported in Round 3 that the other two readers' positional fields matched its
+  own on all 17 files.
+- **This merge writer** read the readers' brief, the three outputs, the three Round 3 replies and the first
+  check's output in full. It read entries of the readers' list only at their stated ranges, and only to check
+  quotations and line citations. It edited no file other than these part files, ran no graphify and made no
+  repo-wide search.
+- **One read-only check, disclosed.** After writing the parts, this merge writer printed the admitted ranges of
+  the listed files (with `sed`, stopping at each range's end), together with the readers' outputs, replies and
+  briefs, into a temporary file at `pieces/P5/merge_check/corpus.txt`. It then checked every quoted string in these
+  parts against that file. Three phrases of its own that stood in quotation marks were unquoted as a result. The
+  temporary file was deleted after use. A second check confirmed that every reference marker has a matching
+  definition marker and that no key is defined twice.
+

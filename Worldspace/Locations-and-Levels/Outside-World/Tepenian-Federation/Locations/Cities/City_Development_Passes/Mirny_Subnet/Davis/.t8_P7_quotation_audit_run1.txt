@@ -1,0 +1,31 @@
+pass audited : Davis
+corpus mode  : default (own pass excluded)
+corpus files : 6473   chars: 94,154,673
+files audited: Amendment_Rederivation_P7_Export_2026-11-09.md
+own-pass mode: a quotation may also be found in this pass's OTHER files (never in its own file)
+
+=== POSITIVE CONTROLS ===
+  [easy                      ] FOUND     a terminus is nobody's midpoint
+  [HARD - blockquote wrap    ] FOUND     A pass may not proceed to Step 5 with a NEVER CITED row
+  [HARD - outside Worldspace ] FOUND     Paste raw QA scan output into the QA block. Never summa
+  [HARD - case mismatch      ] FOUND     YOU GO TO ESPERANZA AND YOU DO NOT COME HOME FOR FOUR Y
+  [HARD - long wrapped       ] FOUND     Different content is not differentiation; a different q
+
+  INSTRUMENT VALID: YES
+  NEGATIVE CONTROL (must be absent): PASS - absent
+
+=== QUOTATION AUDIT ===
+fragments tested (single-line, ellipsis-split, >=7 words): 78
+NOT FOUND in corpus: 5
+  of those, in TABLE CELLS : 3
+  of those, in PROSE       : 2
+
+  [Amendment_Rederivation_P7_Export_2026-11-09.md:396]           here means humans. file 04 l148 counts demand in humans only (
+  [Amendment_Rederivation_P7_Export_2026-11-09.md:670]           not replaceable from the present national surplus
+  [Amendment_Rederivation_P7_Export_2026-11-09.md:1090]  [CELL]  answered since amendment note: drq-09 answered 2026-10-28 by dr-73 (log l1393-1399): shares are of the distinctive tier; file 04 3
+  [Amendment_Rederivation_P7_Export_2026-11-09.md:1104]  [CELL]  sentence and its h39 pointer) three rows, of which one is live
+  [Amendment_Rederivation_P7_Export_2026-11-09.md:1106]  [CELL]  and the convention's source the convention dr-73 supersedes (l1399); file 16 l2094 now reads
+
+⚠ TRIAGE BY HAND. A miss is not yet a defect: the pass quoting ITSELF, and
+  connective prose captured between two adjacent quotations, both show here.
+  Confirm each at source before calling it a defect.

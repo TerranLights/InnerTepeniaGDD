@@ -1,0 +1,42 @@
+== numbering: numbered piece P2: D=112, F=28, K=40, N=22, Q=22, R=19
+part files: 14; merged lines: 1593
+other-city names: none
+American English sweep: no British variants found by the pattern list (only 'judgement' is kept)
+QUOTED STRINGS (14+ chars) checked against the admitted ranges of the reading list: not found anywhere: 35; found only outside an admitted range: 2
+  NOT FOUND   L101: stays within ±0.02 points in rows above about 10,000 people
+  NOT FOUND   L101: under about 5,000
+  NOT FOUND   L244: the French assumed a minority status relative to the British
+  NOT FOUND   L244: Canadian Racial Formations
+  NOT FOUND   L251: There is no 'the community' and no 'the newcomers'
+  NOT FOUND   L340: symbolic, optional and inconsequential
+  NOT FOUND   L363: may require only 800 or so customers
+  NOT FOUND   L419: if enough of its members keep the same practice
+  NOT FOUND   L425:  is ungrounded for the small rows); P2 L1448 (a record; pointer only, `DR-102`); P2 L1469 
+  NOT FOUND   L434: only one-person forms
+  NOT FOUND   L444: has most often survived through traditional songs, dance and stories
+  NOT FOUND   L517: heterolocalism
+  NOT FOUND   L539: ); P2 L957-958 (
+  NOT FOUND   L584:  has no admitted line: killed for want of an admitted line (A, B, C). 
+  NOT FOUND   L584:  has a loose ground in PHYS L422: on Upper Earth before 2564, 
+  NOT FOUND   L631: : conflict resolved to the narrower reading.** A grounded it partly on TREATY II.1. C held
+  NOT FOUND   L643: ). NNS L23: skills come from 
+  NOT FOUND   L767: existing on memories
+  NOT FOUND   L818: ; the file now has 584 lines by both counts. The pass cites the spec's founding line as 
+  NOT FOUND   L875:  | *No row's arrival order is recorded, so the host-and-guest model has no order to stand 
+  NOT FOUND   L1073: in the treaty's current draft
+  NOT FOUND   L1149: institutional completeness
+  NOT FOUND   L1162: third generation
+  NOT FOUND   L1168: Melting Pot or Salad Bowl
+  NOT FOUND   L1169: symbolic ethnicity
+  NOT FOUND   L1193: Threshold population
+  NOT FOUND   L1205:  Porter Canada British French 
+  NOT FOUND   L1222: institutional completeness
+  NOT FOUND   L1223: Cities and product variety: evidence from restaurants
+  NOT FOUND   L1225: Immigration and product diversity
+  NOT FOUND   L1232: Only English by the third generation
+  NOT FOUND   L1245: Demography and cultural evolution
+  NOT FOUND   L1247: ethnic precinct
+  NOT FOUND   L1257: Melting Pot or Salad Bowl
+  NOT FOUND   L1260: Melting Pot or Salad Bowl
+  OUTSIDE-RANGE L1138: (another location: not used)
+  OUTSIDE-RANGE L1583 (section 9): (another location: not used)

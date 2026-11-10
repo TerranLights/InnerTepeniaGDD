@@ -1,0 +1,60 @@
+== numbering: numbered piece S1: D=38, F=12, K=14, N=19, Q=10, R=10
+part files: 9; merged lines: 1373
+other-city names: none
+American English sweep: no British variants found by the pattern list (only 'judgement' is kept)
+QUOTED STRINGS (14+ chars) checked against the admitted ranges of the reading list: not found anywhere: 55; found only outside an admitted range: 0
+  NOT FOUND   L23: Australia is the Register's named founder
+  NOT FOUND   L161: the region is admitted in full
+  NOT FOUND   L186: Australia is the Register's named founder
+  NOT FOUND   L197: has left the spec
+  NOT FOUND   L236:  CENSUS L881 places that pool 
+  NOT FOUND   L253: read but not used
+  NOT FOUND   L314: ; L286 excludes 
+  NOT FOUND   L318:  LOG L1530 (DR-85): 
+  NOT FOUND   L348: L243 is right; L286 is in the other numbering
+  NOT FOUND   L399: Japan is Davis's largest row
+  NOT FOUND   L435: . DR-85, not decided (LOG L1529): 
+  NOT FOUND   L436: . CENSUS L877: 
+  NOT FOUND   L472: . ALR L29 (DR-74): 
+  NOT FOUND   L485: Nothing rests on a single reader's claim
+  NOT FOUND   L502: nothing rests on a single reader's claim
+  NOT FOUND   L558:  → L167 (changed); L125 
+  NOT FOUND   L559:  → L151, L153; L126 
+  NOT FOUND   L559:  → L179; L128 
+  NOT FOUND   L559:  → L88, L92; §4.2 L267 
+  NOT FOUND   L561:  → L98 (identical); L330 R-7 
+  NOT FOUND   L561:  → L109 (changed) and 
+  NOT FOUND   L573: , zero struck lines, the LRANGE value and 
+  NOT FOUND   L577: killed by evidence in its main part
+  NOT FOUND   L616: `Specs/Davis.md` L<n>
+  NOT FOUND   L622:  while its title (L1) says 
+  NOT FOUND   L623:  name the same 44 lines [A]. The coverage table's heading at 00.1a L73 says 
+  NOT FOUND   L624:  [K]. 00.1a L232 records the spec as 181 lines, so 
+  NOT FOUND   L722: ), L277-L280, L330 (R-7) and L374-L376 (
+  NOT FOUND   L726: L109 read as a climate figure only
+  NOT FOUND   L727: L167 grounds G3 provisionally
+  NOT FOUND   L731:  (spec lines only); 00.1 L190: 
+  NOT FOUND   L841: here a Russia successor row
+  NOT FOUND   L850:  is a typo (firm, low weight). Which rows 
+  NOT FOUND   L855: can only mean the post-relabel Significant rows
+  NOT FOUND   L879: , now current L98) and L331 (R-8, 
+  NOT FOUND   L912: , zero struck lines and 
+  NOT FOUND   L918:  are pass-time; L167's wording changed; the oasis class is open. | Wording: L167 (wording 
+  NOT FOUND   L929:  is lowercase; 
+  NOT FOUND   L929:  is ambiguous at the Manchuria step. | Wording: mark the pool figures, multipliers, ranges
+  NOT FOUND   L931: rows that took a share
+  NOT FOUND   L953: climate figure only
+  NOT FOUND   L953: provisional ground
+  NOT FOUND   L1033: not reproduced elsewhere
+  NOT FOUND   L1068:  mean, in particular whether the last column records exile groups. **Blocks:** the open 
+  NOT FOUND   L1115: no web research in this piece
+  NOT FOUND   L1243 (section 9): has left the spec
+  NOT FOUND   L1266 (section 9): can only mean the post-relabel Significant rows
+  NOT FOUND   L1293 (section 9): used only as a scope limit
+  NOT FOUND   L1293 (section 9): here a Russia successor row
+  NOT FOUND   L1294 (section 9): , replaced by use held and G3 conditional (W4); 
+  NOT FOUND   L1294 (section 9):  for L24, replaced by 
+  NOT FOUND   L1297 (section 9): has left the spec
+  NOT FOUND   L1317 (section 9): Killed or narrowed findings
+  NOT FOUND   L1322 (section 9): are not in this list
+  NOT FOUND   L1346 (section 9): (another location: not used)

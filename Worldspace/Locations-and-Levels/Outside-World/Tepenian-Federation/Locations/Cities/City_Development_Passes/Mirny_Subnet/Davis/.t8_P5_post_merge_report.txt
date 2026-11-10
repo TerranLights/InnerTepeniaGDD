@@ -1,0 +1,38 @@
+== numbering: numbered piece P5: D=64, F=26, K=25, N=18, Q=16, R=11
+part files: 10; merged lines: 1857
+other-city names: none
+American English sweep: no British variants found by the pattern list (only 'judgement' is kept)
+QUOTED STRINGS (14+ chars) checked against the admitted ranges of the reading list: not found anywhere: 30; found only outside an admitted range: 3
+  NOT FOUND   L29: (another location: not used)
+  NOT FOUND   L186: Australia is among Davis's founders
+  NOT FOUND   L318: an administrative fact that needs no withheld source
+  NOT FOUND   L409: The direction is mutual
+  NOT FOUND   L464: no flow is stated
+  NOT FOUND   L552: Davis keeps an import channel open
+  NOT FOUND   L635:  and a varied terrain, and then 
+  NOT FOUND   L906: says nothing about when people arrived.
+  NOT FOUND   L910: under a sixteenth
+  NOT FOUND   L915: the founders' share
+  NOT FOUND   L1071: two direct highway neighbors
+  NOT FOUND   L1161:  are not on PORTS:559. It omits the import role, the year-round channel and the Federation
+  NOT FOUND   L1164:  is stale, and 
+  NOT FOUND   L1167:  as the reason | Superseded by REG:59, `DR-19` (LOG L545-553) and `DR-32` (LOG L752); CONN
+  NOT FOUND   L1195:  | H30 is closed: yes (PORTS:559). The replacement hole is where the imports go after land
+  NOT FOUND   L1342: What comes into the country here, and what is written about the ties along the road?
+  NOT FOUND   L1344: What is Davis tied to, what passes along those ties, and how much of that has canon writte
+  NOT FOUND   L1345: WHAT COMES ASHORE HERE FOR THE COUNTRY — AND WHAT DOES THE CITY OWE THAT IT CANNOT NAME?
+  NOT FOUND   L1539 (section 9): the sector's imports depend on it
+  NOT FOUND   L1544 (section 9): one of Davis's dependencies is named
+  NOT FOUND   L1588 (section 9):  (XB-139) | B adopted the guard (M5); C adopted B's point (D5); C asked for 
+  NOT FOUND   L1636 (section 9): possibly one chain
+  NOT FOUND   L1668 (section 9): An administrative fact
+  NOT FOUND   L1696 (section 9): unreconciled; possibly one chain
+  NOT FOUND   L1723 (section 9): killed by evidence
+  NOT FOUND   L1733 (section 9): one of Davis's dependencies is named
+  NOT FOUND   L1737 (section 9): conditional at most
+  NOT FOUND   L1779 (section 9): under a sixteenth
+  NOT FOUND   L1784 (section 9): Davis's own subnet
+  NOT FOUND   L1806 (section 9): LOG DR-105 item 4
+  OUTSIDE-RANGE L904: (founding wave)
+  OUTSIDE-RANGE L1089: civic identity
+  OUTSIDE-RANGE L1109: (founding wave)

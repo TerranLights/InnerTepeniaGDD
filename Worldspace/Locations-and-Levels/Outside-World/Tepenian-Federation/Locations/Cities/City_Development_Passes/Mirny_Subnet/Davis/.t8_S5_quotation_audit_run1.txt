@@ -1,0 +1,69 @@
+pass audited : Davis
+corpus mode  : default (own pass excluded)
+corpus files : 6473   chars: 94,154,673
+files audited: Amendment_Rederivation_S5_Reconciliation_2026-11-09.md
+own-pass mode: a quotation may also be found in this pass's OTHER files (never in its own file)
+
+=== POSITIVE CONTROLS ===
+  [easy                      ] FOUND     a terminus is nobody's midpoint
+  [HARD - blockquote wrap    ] FOUND     A pass may not proceed to Step 5 with a NEVER CITED row
+  [HARD - outside Worldspace ] FOUND     Paste raw QA scan output into the QA block. Never summa
+  [HARD - case mismatch      ] FOUND     YOU GO TO ESPERANZA AND YOU DO NOT COME HOME FOR FOUR Y
+  [HARD - long wrapped       ] FOUND     Different content is not differentiation; a different q
+
+  INSTRUMENT VALID: YES
+  NEGATIVE CONTROL (must be absent): PASS - absent
+
+=== QUOTATION AUDIT ===
+fragments tested (single-line, ellipsis-split, >=7 words): 151
+NOT FOUND in corpus: 43
+  of those, in TABLE CELLS : 0
+  of those, in PROSE       : 43
+
+  [Amendment_Rederivation_S5_Reconciliation_2026-11-09.md:32]           developer review. rc's own sources section names the excluded megasheet files (rc l33-37) and the historical vignettes and course 
+  [Amendment_Rederivation_S5_Reconciliation_2026-11-09.md:101]           05:65 gives the spec as 37 and 55 days. 05:69
+  [Amendment_Rederivation_S5_Reconciliation_2026-11-09.md:122]           reclassified 2026-09-04 from katabatic margin. spec l96 puts davis
+  [Amendment_Rederivation_S5_Reconciliation_2026-11-09.md:125]           in lc l43, lc l160 and spec l84 names ice-free ground, which no admitted line disputes. dr-104 item 4 holds open the precipitation
+  [Amendment_Rederivation_S5_Reconciliation_2026-11-09.md:138]           no admitted line sizes it. the check file says
+  [Amendment_Rederivation_S5_Reconciliation_2026-11-09.md:147]           and would mark it as the ruling's word; b and c leave it as written, because it is already attributed. written to the narrower rea
+  [Amendment_Rederivation_S5_Reconciliation_2026-11-09.md:147]           is the ruling's word (ports l559) is optional, at low confidence. (a withdrew its round 1
+  [Amendment_Rederivation_S5_Reconciliation_2026-11-09.md:180]           and p7 narrows the pass's label to supplemented, not substituted
+  [Amendment_Rederivation_S5_Reconciliation_2026-11-09.md:188]           p5 l38: h30 closes yes. p5 l41: air falls. p5 l43-46: the founding-nation ties return, as ties whose content is a hole. p5 l54: tw
+  [Amendment_Rederivation_S5_Reconciliation_2026-11-09.md:200]           the row originated in davis's own prior culture pass and migrated into t16, so it is corroboration
+  [Amendment_Rederivation_S5_Reconciliation_2026-11-09.md:202]           credit set the norm. t16 l2104: a robot's family
+  [Amendment_Rederivation_S5_Reconciliation_2026-11-09.md:202]           t16 l2082-2083 carries a provenance clause (
+  [Amendment_Rederivation_S5_Reconciliation_2026-11-09.md:203]           runbook l2877: a row whose only stated ground is material excluded at every step is
+  [Amendment_Rederivation_S5_Reconciliation_2026-11-09.md:203]           input l684: the vignettes and course of events files
+  [Amendment_Rederivation_S5_Reconciliation_2026-11-09.md:204]           from the historical vignettes and course of events, among them a named naturalist's declined-credit decision
+  [Amendment_Rederivation_S5_Reconciliation_2026-11-09.md:234]           rc l147-151: no established human drinking-culture institution appears in the gathered material
+  [Amendment_Rederivation_S5_Reconciliation_2026-11-09.md:251]           may both be true of different objects, so this is a qualifier, not a kill (c; a and b accepted it in round 3, and b withdrew keepi
+  [Amendment_Rederivation_S5_Reconciliation_2026-11-09.md:286]           falls. p10 l17: her davis residence on the admitted lines is the present day, about 2822 to 2827
+  [Amendment_Rederivation_S5_Reconciliation_2026-11-09.md:305]           open, and the draft stp-06 is present-day, not the founding administration (b)
+  [Amendment_Rederivation_S5_Reconciliation_2026-11-09.md:315]           the inference that the station's operation since 1957 means
+  [Amendment_Rederivation_S5_Reconciliation_2026-11-09.md:315]           05:161 cites dr-28 for the namesake's biography. 05:163
+  [Amendment_Rederivation_S5_Reconciliation_2026-11-09.md:315]           05:164-166: h62 is ruled by dr-19, and the
+  [Amendment_Rederivation_S5_Reconciliation_2026-11-09.md:315]           (dr-29, the founding register); the operator-to-character inference is the culture sheet's to correct, outside this pass. 05:189
+  [Amendment_Rederivation_S5_Reconciliation_2026-11-09.md:341]           at davis. where the icebreaking is based, and who operates it, are unwritten. paying is not operating, so 05:186's
+  [Amendment_Rederivation_S5_Reconciliation_2026-11-09.md:351]           (05:205). the count is killed by evidence, and
+  [Amendment_Rederivation_S5_Reconciliation_2026-11-09.md:376]           b notes that the list itself ( 14 downstream mentions.md ) is in no reader's list, and c withdrew to
+  [Amendment_Rederivation_S5_Reconciliation_2026-11-09.md:383]           a significant-tier mix, and its note that japan
+  [Amendment_Rederivation_S5_Reconciliation_2026-11-09.md:403]           the count is killed by evidence: the same file says
+  [Amendment_Rederivation_S5_Reconciliation_2026-11-09.md:403]           (05:114), and one row is now out of frame (am-s5-k8). the phrase
+  [Amendment_Rederivation_S5_Reconciliation_2026-11-09.md:403]           is narrowed, not killed: in the four-tier vocabulary tier 3 is canon (runbook l2789
+  [Amendment_Rederivation_S5_Reconciliation_2026-11-09.md:403]           ), so the phrase overstates rather than misstates. only tier 1 outranks, and every one of the seven rows cites tier 3 material. th
+  [Amendment_Rederivation_S5_Reconciliation_2026-11-09.md:405]           is killed by evidence: lc is not admissible as an input (input l514; input l629-631) and may be read only as a check. the word
+  [Amendment_Rederivation_S5_Reconciliation_2026-11-09.md:417]           the mechanism survives as a self-originated proposal
+  [Amendment_Rederivation_S5_Reconciliation_2026-11-09.md:468]           the partial correction under dr-103 item 5 produced an internal conflict that did not exist before. a file that has been repeatedl
+  [Amendment_Rederivation_S5_Reconciliation_2026-11-09.md:859]           from killed to narrowed following c, while c moved the count from narrowed to killed following a and b; all three now hold the cou
+  [Amendment_Rederivation_S5_Reconciliation_2026-11-09.md:867]           that the named leg rests on no absence (as to the tier 1 side); that the credit-kinship mechanism survives as a self-originated pr
+  [Amendment_Rederivation_S5_Reconciliation_2026-11-09.md:867]           as conditional (now seed); glass and co₂ as open (a moved to a full kill); no change at 05:95; that
+  [Amendment_Rederivation_S5_Reconciliation_2026-11-09.md:868]           as killed (now narrowed); the timing leg as conditional (now seed)
+  [Amendment_Rederivation_S5_Reconciliation_2026-11-09.md:868]           killed; its glitch-coolant reading made provisional on s1's hold
+  [Amendment_Rederivation_S5_Reconciliation_2026-11-09.md:868]           (now the water bodies); that the draft does not falsify the bare sentence
+  [Amendment_Rederivation_S5_Reconciliation_2026-11-09.md:868]           for h62 (now not made). b also narrowed its falsity claim at 05:54 to the word
+  [Amendment_Rederivation_S5_Reconciliation_2026-11-09.md:869]           for the readme (now recorded as changed, readme unread); its docket row on 05:95-98; that glitch-coolant stands; that
+  [Amendment_Rederivation_S5_Reconciliation_2026-11-09.md:869]           for 05:205's count (now killed); its assertion that dr-85 covers the check files (now conditional); its wording for t16's tier 1 s
+
+⚠ TRIAGE BY HAND. A miss is not yet a defect: the pass quoting ITSELF, and
+  connective prose captured between two adjacent quotations, both show here.
+  Confirm each at source before calling it a defect.

@@ -1,0 +1,42 @@
+== numbering: numbered piece S5: D=72, F=27, K=30, N=17, Q=13, R=12
+part files: 9; merged lines: 913
+other-city names: none
+American English sweep: no British variants found by the pattern list (only 'judgement' is kept)
+QUOTED STRINGS (14+ chars) checked against the admitted ranges of the reading list: not found anywhere: 35; found only outside an admitted range: 2
+  NOT FOUND   L14:  falls, and the bare sentence 
+  NOT FOUND   L57: the whole finding is conditional
+  NOT FOUND   L101: . 05:65 gives the spec as ~37 and ~55 days. 05:69: 
+  NOT FOUND   L125:  in LC L43, LC L160 and SPEC L84 names ice-free ground, which no admitted line disputes. D
+  NOT FOUND   L138: **: no admitted line sizes it. The check file says 
+  NOT FOUND   L141: : `found by two` (A, B); A withdrew 
+  NOT FOUND   L147:  and would mark it as the ruling's word; B and C leave it as written, because it is alread
+  NOT FOUND   L147:  is the ruling's word (PORTS L559) is optional, at low confidence. (A withdrew its Round 1
+  NOT FOUND   L180: , and P7 narrows the pass's label to *supplemented, not substituted*. 
+  NOT FOUND   L211: a robot's family is whoever she shares discovery-credit with
+  NOT FOUND   L237:  in Round 3; A withdrew its retained 
+  NOT FOUND   L286:  falls. P10 L17: her Davis residence on the admitted lines is the present day, about 2822 
+  NOT FOUND   L295: whose README cites the pre-rework composition
+  NOT FOUND   L295: listed as changed
+  NOT FOUND   L295: recorded as changed
+  NOT FOUND   L315:  the inference that the station's operation since 1957 means 
+  NOT FOUND   L315: . 05:161 cites DR-28 for the namesake's biography. 05:163: 
+  NOT FOUND   L315: . 05:164-166: `H62` is ruled by DR-19, and the 
+  NOT FOUND   L315:  (DR-29, the Founding Register); the operator-to-character inference is the culture sheet'
+  NOT FOUND   L325: ; B (after Round 3) and C wrote 
+  NOT FOUND   L325: . Written to the narrower reading, because 
+  NOT FOUND   L376: . B notes that the list itself (`14_Downstream_Mentions.md`) is in no reader's list, and C
+  NOT FOUND   L405:  is killed by evidence: LC is not admissible as an input (INPUT L514; INPUT L629-631) and 
+  NOT FOUND   L405:  stands in the four-tier vocabulary (RUNBOOK L2789). The sentence as a whole is narrowed t
+  NOT FOUND   L407:  attributed to §3, and 
+  NOT FOUND   L417: the mechanism survives as a self-originated proposal
+  NOT FOUND   L454: whose README cites the pre-rework composition
+  NOT FOUND   L572: whose README cites the pre-rework composition
+  NOT FOUND   L604: before or after the pass
+  NOT FOUND   L845 (section 9):  is false. C: narrowed. Decided: 
+  NOT FOUND   L868 (section 9):  (now the water bodies); that the draft does not falsify the bare sentence; 
+  NOT FOUND   L868 (section 9):  for `H62` (now not made). B also narrowed its falsity claim at 05:54 to the word 
+  NOT FOUND   L869 (section 9): listed as changed
+  NOT FOUND   L869 (section 9):  for 05:205's count (now killed); its assertion that DR-85 covers the check files (now con
+  NOT FOUND   L893 (section 9): The national-law citation
+  OUTSIDE-RANGE L141:  and C withdrew 
+  OUTSIDE-RANGE L319: extremely close... comparatively easy access

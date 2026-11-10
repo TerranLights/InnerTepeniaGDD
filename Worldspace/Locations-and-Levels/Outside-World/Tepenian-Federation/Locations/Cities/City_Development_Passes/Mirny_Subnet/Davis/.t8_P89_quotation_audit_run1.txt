@@ -1,0 +1,41 @@
+pass audited : Davis
+corpus mode  : default (own pass excluded)
+corpus files : 6473   chars: 94,154,673
+files audited: Amendment_Rederivation_P89_Language_2026-11-09.md
+own-pass mode: a quotation may also be found in this pass's OTHER files (never in its own file)
+
+=== POSITIVE CONTROLS ===
+  [easy                      ] FOUND     a terminus is nobody's midpoint
+  [HARD - blockquote wrap    ] FOUND     A pass may not proceed to Step 5 with a NEVER CITED row
+  [HARD - outside Worldspace ] FOUND     Paste raw QA scan output into the QA block. Never summa
+  [HARD - case mismatch      ] FOUND     YOU GO TO ESPERANZA AND YOU DO NOT COME HOME FOR FOUR Y
+  [HARD - long wrapped       ] FOUND     Different content is not differentiation; a different q
+
+  INSTRUMENT VALID: YES
+  NEGATIVE CONTROL (must be absent): PASS - absent
+
+=== QUOTATION AUDIT ===
+fragments tested (single-line, ellipsis-split, >=7 words): 86
+NOT FOUND in corpus: 15
+  of those, in TABLE CELLS : 1
+  of those, in PROSE       : 14
+
+  [Amendment_Rederivation_P89_Language_2026-11-09.md:289]           an exchange at davis can move between hawaiian and the four supporting languages; whether, when and how often people switch is not
+  [Amendment_Rederivation_P89_Language_2026-11-09.md:328]           allophonic variation typically reflected first language interference
+  [Amendment_Rederivation_P89_Language_2026-11-09.md:443]           bavaria and austria officially use standard german as the primary medium of education
+  [Amendment_Rederivation_P89_Language_2026-11-09.md:443]           educated bavarians and austrians can almost always read, write and understand standard german
+  [Amendment_Rederivation_P89_Language_2026-11-09.md:444]           most of its speakers can code-switch to standard german
+  [Amendment_Rederivation_P89_Language_2026-11-09.md:551]           killed for want of an admitted line; its reasoning contradicted by evidence
+  [Amendment_Rederivation_P89_Language_2026-11-09.md:555]           native-like usage of phonological features is very difficult after 7 years of age
+  [Amendment_Rederivation_P89_Language_2026-11-09.md:609]           implies a comparison the study does not make; and
+  [Amendment_Rederivation_P89_Language_2026-11-09.md:615]           mandarin's membership does not depend on the reserved rows
+  [Amendment_Rederivation_P89_Language_2026-11-09.md:617]           so no tier finding depends on the reserved shares
+  [Amendment_Rederivation_P89_Language_2026-11-09.md:817]           a common language - namely english - should be established for navigational purposes
+  [Amendment_Rederivation_P89_Language_2026-11-09.md:882]  [CELL]  is a loose term with a second sense in p8 keep
+  [Amendment_Rederivation_P89_Language_2026-11-09.md:967]           what marks someone as from davis, as far as davis's own lines go, is how they make a claim: they reach for the dated entry
+  [Amendment_Rederivation_P89_Language_2026-11-09.md:1100]           largely maintains the contrasts of its lexifier
+  [Amendment_Rederivation_P89_Language_2026-11-09.md:1403]           no tier finding depends on the reserved shares
+
+⚠ TRIAGE BY HAND. A miss is not yet a defect: the pass quoting ITSELF, and
+  connective prose captured between two adjacent quotations, both show here.
+  Confirm each at source before calling it a defect.

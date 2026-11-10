@@ -1,0 +1,45 @@
+== numbering: numbered piece P10: D=25, F=10, K=14, N=14, Q=9, R=12
+part files: 6; merged lines: 992
+other-city names: none
+American English sweep: no British variants found by the pattern list (only 'judgement' is kept)
+QUOTED STRINGS (14+ chars) checked against the admitted ranges of the reading list: not found anywhere: 40; found only outside an admitted range: 0
+  NOT FOUND   L10: (another location: not used)
+  NOT FOUND   L123: does not name every folder searched
+  NOT FOUND   L152: as the orchestrator's filenames-only, case-sensitive result
+  NOT FOUND   L221: TBN <label> (<ID>)
+  NOT FOUND   L245: name to be chosen
+  NOT FOUND   L305: The draft's sourced role falls inside this role
+  NOT FOUND   L318:  is PROVISIONAL after B's Round 3 withdrawal of 
+  NOT FOUND   L335: : PROVISIONAL.** No ruling states it yet (A). B withdrew its 
+  NOT FOUND   L348: her sourced work sits inside Davis's established research function.
+  NOT FOUND   L357: zero in the two sources run
+  NOT FOUND   L387: false as written
+  NOT FOUND   L399: . No admitted line names the file that held the two matches. And L599 attributes them to 
+  NOT FOUND   L416: STP-06 is a §31 notable figure of Davis
+  NOT FOUND   L422: the folder's build descriptor says something about Davis's robot builds
+  NOT FOUND   L430: her role (schematics sent to the space-dwelling population) is further evidence for Fusion
+  NOT FOUND   L436: the draft falsifies Disanalogy B
+  NOT FOUND   L446: in the present day (~2822–2827), after this pass's frame
+  NOT FOUND   L456: Davis's present-day scale can be read from the general robot file's L430
+  NOT FOUND   L491: a gap at pass time, not later drift
+  NOT FOUND   L495: not an input change
+  NOT FOUND   L563: says nothing about when people arrived
+  NOT FOUND   L586: Davis's finished catalog is an input to her Enneagram-adjusted fields
+  NOT FOUND   L586: the Second Interwar setting
+  NOT FOUND   L670: her sourced work sits inside Davis's established research function.
+  NOT FOUND   L689: a character in development; name to be chosen; siting developer-sourced
+  NOT FOUND   L689: a character draft, not a §31 entry
+  NOT FOUND   L707: name to be chosen
+  NOT FOUND   L731: STP-06, and any later character sited in Davis
+  NOT FOUND   L798: No web research in this piece.
+  NOT FOUND   L909 (section 9): on three sources
+  NOT FOUND   L930 (section 9): as the Second Interwar setting
+  NOT FOUND   L931 (section 9): Research questions: none
+  NOT FOUND   L933 (section 9): city to character only
+  NOT FOUND   L934 (section 9):  for L563 and XB-101's unqualified 
+  NOT FOUND   L939 (section 9): false as written
+  NOT FOUND   L949 (section 9): Scope only, not false
+  NOT FOUND   L956 (section 9): the rulings as they stand govern
+  NOT FOUND   L956 (section 9): LOG DR-105 item 4
+  NOT FOUND   L958 (section 9): two background files
+  NOT FOUND   L959 (section 9): agricultural and research life

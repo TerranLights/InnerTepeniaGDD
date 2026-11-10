@@ -1,0 +1,1592 @@
+# Davis amendment re-derivation piece P2: Phase 2, Composition and Arrival (2026-11-09)
+
+> **Status: PROPOSED. Nothing is applied.** Three readers (A, B, C) re-derived this piece independently from one frozen brief. A mechanical Round 2 check confirmed that each read its files. In Round 3 each read the other two outputs and answered a cross-check. One merge writer, who took no part in Round 1, wrote this document under merge rule `M-246` (developer ruling 2026-09-28, with its 2026-11-04 refinements). The first check's single readers for items C-1, C-2, C-3, C-4, C-7 and U-2 are unioned as a further view and credited to `K`. **No pass file, spec, census line or other source was edited** (`DR-101`). Every correction below is a docket row for the developer to apply or refuse.
+
+**Short names.** P2 = `04_Phase_02_Composition_and_Arrival.md`; 01 = `01_Inherited.md`; 02 = `02_Spine.md`; SPEC = the Davis spec; CENSUS = `Official_Population_Census.md`; REGISTER = `Founding_Register.md`; UEIC = `Upper_Earth_Immigration_Composition.md`; TREATY = `Falkland_Treaty_Draft_v1.md`; SCAFFOLD = `Scaffold.md`; RWI = `Real_World_Influences.md`; LOG = `DEVELOPER_RULINGS_LOG.md`; NNS = `No_National_Stereotypes.md`; PHYS = `Robot_Physiology_and_Cultural_Practices.md`; SPINE03 = `03_The_Phase_Spine.md`; S1 = the Step −1 re-derivation piece (its lines 17-46). Every line number is the file's own current numbering. CI and CII are Census I and Census II.
+
+**Finders.** A, B and C are the three readers. K is the first check's reader for the item named in brackets (C-1, C-2, C-3, C-4, C-7 or U-2). The words *in Round 3* mark a point a reader made, adopted or withdrew in its cross-check reply.
+
+**Strength words** are `firm`, `conditional`, `seed` and `null`. PROVISIONAL marks a recommended answer the developer has not ruled on; the piece proceeds on it and names what would change under the other answer. **Quotation marks hold only exact quotations** of a source line or of a reader's output. Proposed wordings are set in italics without quotation marks.
+
+## 0. In short
+
+- **The seal changes width, not existence.** Davis carries `DR-12`'s recorded bar as `DR-104` item 1 keeps it: no finding rests on a gap between two rows of the same tier (PROVISIONAL on which bar was kept). Who left still cannot be read from the table, now because SPEC L78 makes every row's share identical between censuses (AM-P2-F1, AM-P2-F3).
+- **No row may be named as the largest origin or the plurality.** The top two Primary rows differ by 0.70 points, and an approximate reconstruction shows their order flips inside the stated random draw range. What may be said: no origin is a majority; the largest row is about one person in ten; the five Primary rows together hold 46.39% (AM-P2-F4).
+- **The founder is Australia, by the Register, on geography and access** (REGISTER L59; `DR-19`). The census tag is a pointer to that designation and carries no arrival information (CENSUS L33). `H6` is closed by ruling. The pass's "plurality-Chinese", its route datum and B.0's "classifiable for about 5%" fall (AM-P2-F5, AM-P2-F8, AM-P2-F9).
+- **Nothing in admitted canon tells any row's arrival apart from another's.** Fire #3 becomes a hole with no term on either side. A later arrival is unrecorded, which is a silence and not a bound: the treaty closes the human channel at signing, leaves a robot channel open in law, and its ten-year clock governs supplies, not people (AM-P2-F11).
+- **Precedence, asked once per Act:** no arrival-based precedence has a recorded ground. The pass's mechanism (a difference "that dies with the first generation") holds for humans and fails for robots, who have no senescence. Whether the founding designation carries standing is unstated in both Acts (AM-P2-F12).
+- **The tacit chain narrows** to: no origin can make its habits Davis's tacit default by weight. The wider claim holds only while no origin holds Davis's institutions. A population-type majority and the season's calendar are open candidates. "FORCED BY THE ALLOCATION CRITERION" overstates (AM-P2-F13).
+- **The scale check holds for rows of tens of thousands and fails for rows of a few hundred.** Rows run from 126,123 down to 152 people at Census I (74 humans). Forms that need a full-time officiant or a co-located street cannot be carried from the smallest rows' own numbers; quorum, household and conversational forms can, in the present tense (AM-P2-F15, AM-P2-F16).
+- **"fully staffed, carried at full scale" and "acts identically" give way to one mechanism with a yield set by each row's own headcount.** A row's robot column is a copy of the human proportions, so a row's robots are not counted carriers of its practices (AM-P2-F21, AM-P2-F19).
+- **E.1 survives as a membership statement only.** Its human half is conditional; its "fossil record" third order is killed by evidence; its converse fails against a separately ruled national absence (AM-P2-F22, AM-P2-F23, AM-P2-F24).
+- **What crossed the gap is a library and a plant, not a library alone.** The filter is person-to-person transmission, not occupancy. The inheritance confers capability and an upkeep charge, and no claim, standing or precedence (AM-P2-F25, AM-P2-F27).
+- **New:** Phase 2 never opened the physiology file its own spine requires; robot longevity answers `H.4`'s named test; the treaty is a draft; orchestrator result 9 appears superseded by `DR-94` item 4 (AM-P2-N1, AM-P2-N2, AM-P2-N16, AM-P2-N17).
+- **Open:** the founder's in-world role and standing; the Register's last cell; which territories the successor rows took; spatial co-location; whether robots carry origin practices; post-2564 robot in-flow (section 5).
+
+## 1. Findings re-derived
+
+### AM-P2-F1 The seal: which bar Davis carries
+
+*Scope item 1. Answers C-4 Q1, Q2 and part of Q8. Applies the brief's PROVISIONAL answer to C-4's developer question (AM-P2-Q1).*
+
+- **Found by:** A, B, C; K (C-4). **Disposition:** confirmed by all three.
+- **The pass's finding.** "No two nations' figures may be compared, at any precision, in either direction" (01 L87), on the ground that "the within-tier ordering is an artifact of the de-stacking randomization" (01 L87-88), followed by "Corroborated twice independently." (01 L88). The same bar stands at 02 L116-118, P2 L318 (A.2 limit 2) and P2 L1362 (section K). P2 L50 calls the per-nation model "Present but SEALED", makes per-nation comparison "inadmissible at any precision", and records it as "Opened, read, deliberately not used".
+- **Current inputs.**
+  - LOG L1703 (`DR-104` item 1): "per-nation figures are weights for deriving a location (headcounts in the world), and no finding rests on a gap between two nations of the same tier"; the randomized "ground now applies only to the Sinian Federation and Manchuria rows". LOG L1702 (developer): "Keep the bar, re-ground it".
+  - LOG L472: "The tiers and the city totals are the information." and "No finding may rest on a within-tier difference". LOG L473: "Stating a figure as a population in-fiction is fine" and "deriving a characterization from a within-tier gap is not". LOG L474 (K): the rows are ADMITTED-DEMOTED, "(readable; cannot ground a within-tier finding)".
+  - SPEC L78: "identical between censuses"; "the 8 / 3 / 1 share weights no longer produce the figures".
+  - UEIC L598 (B): "Re-ordered 2026-09-05 at the developer's direction, tier totals preserved exactly; this raw ranking and the Specs table now agree."
+- **Re-derived statement.** Davis carries `DR-12`'s recorded bar, as `DR-104` item 1 keeps it: **no finding rests on a gap between two rows of the same tier.** Its kept ground is that per-nation figures are weights for deriving the place and headcounts in the world. The randomization ground covers the two drawn rows only (for how far the draws reach, see AM-P2-N13).
+  - **Barred:** any same-tier ordering, including which of the two largest Primary rows is larger, and the founder's row set against Indonesia's.
+  - **Barred separately, by construction:** any difference between rows in who left. Every row keeps one share at both censuses (SPEC L78), so fire #2 now stands on that line.
+  - **Allowed:** one row's own headcount stated flatly; tier membership and tier totals; city totals; a cross-tier contrast at tier precision (PROVISIONAL, AM-P2-Q2); a per-row ceiling at a precision the draw cannot move (AM-P2-F4); rows of one split country pooled as a carrier count inside Davis's own table (PROVISIONAL, AM-P2-Q14).
+  - **Strength:** firm on the text of `DR-12` and `DR-104` item 1; conditional for the allowed list, which rests on PROVISIONAL answers (A, B, C).
+- **Added by single finders.**
+  - The randomization ground was already partly stale when the pass was written: UEIC L598 records the within-tier order re-set to pool size on 2026-09-05 (found by one: B; adopted by A and C in Round 3).
+  - The pass never states the ground the ruling keeps. Its nearest sentence, fire #11's production-weight guard (01 L78; P2 L317), puts the weight on the tiers, while SPEC L78 now makes tier labels follow the final shares. And "Corroborated twice independently" (01 L88) corroborates the withdrawn ground (found by one: K, C-4).
+- **Pass locations.**
+  - 01 L87-88: needs a qualifier. It is wider than the recorded bar, and its ground now covers two rows. A pointer, since `DR-102` forbids rewording a record.
+  - 02 L116-118: the same; its "share-weighted" clause is killed (AM-P2-F3).
+  - P2 L50: wider than the bar. K (C-4) adds that "deliberately not used" runs against `DR-104` item 2 and against LOG L474's readable disposition.
+  - P2 L318: the same as 01 L87-88; "any two of the 21" is also a stale count (K, C-4).
+  - P2 L1362: a pointer only. The line is a true record of the pass's own stricter restraint (AM-P2-D93).
+- **What stays.** The bar binds every phase. Nothing in Phase 2 ranks two rows of one tier. Fire #2's consequence (which communities left cannot be answered) stays, now on SPEC L78. The instruction at 01 L274 not to build on the per-nation ordering stays for orderings within a tier (A, B; K).
+
+### AM-P2-F2 What each per-nation statement in Phase 2 rests on
+
+*Answers C-4 Q3 and Q6.*
+
+- **Found by:** A, B, C; K (C-4). **Disposition:** confirmed by all three.
+
+| Pass location | Statement | Rests on | Legal under the recorded bar? |
+|---|---|---|---|
+| P2 L309 | "Davis has no majority origin" | each row's own share against 50% | yes |
+| P2 L309, L240, L349; 02 L107 | the largest at about one in five, under a fifth, or 19.04% | naming the largest: a gap between two Primary rows | no as a named row; the figure is also false (AM-P2-F4) |
+| P2 L305, L324-325 | the plurality share as a sole-occupant tier's own share | a sole-occupant tier | the ground is gone: the Primary tier has five rows (SPEC L20) |
+| P2 L226-227 | the founding row at 4.93% against the Primary community at 19.04% | a cross-tier contrast | yes at tier precision (PROVISIONAL); figures false; "Primary-tier community" in the singular is false |
+| P2 L236 | "plurality-Chinese" | naming a plurality: a same-tier gap | no (AM-P2-F6) |
+| P2 L948, L1448 | "≈220,543" as the largest origin share | naming the largest | no; the figure is stale (126,123 for the ceiling row) |
+| P2 L949 | "≈57,105" for the founding-wave community | one row's own headcount | yes; now 69,475 |
+| P2 L306, L585, L631; 02 L108, L250 | the founders at 4.93% | one row's figure | yes as a number (now 5.74%); its reading as the founding cohort is false (AM-P2-F5) |
+| P2 L949-950 | "Not one of the 21 lacks numbers" | each row's own headcount against a threshold | yes in form (`DR-104` item 2); false for the smallest rows (AM-P2-F15) |
+| P2 L26, L297-303 | 21 rows in tiers of 1 / 7 / 13 | a count and tier membership | yes; now 45 rows in 5 / 2 / 38 (SPEC L20-22) |
+| P2 L607, L903 | robots at 51.34% of Census I | city totals | yes; now 51.20% |
+| P2 L1075-1078 | the refusal to read tiers as robot density | tier membership | yes; its ground is now SPEC L78 (AM-P2-F23) |
+
+- **Uses of a row's headcount that are not a comparison between two nations** (C-4 Q6; A, B, C): stating it flatly as a population (LOG L473); reading it against a fixed line (50%), a researched real-world threshold, the city total (a share) or a tier boundary; summing rows into a tier or a pooled set for a practice they share (PROVISIONAL); a ceiling over all rows. **Not legal** (B): ordering two same-tier rows; naming the largest; setting the founder's row against Indonesia's; using one row as another's baseline.
+- **Strength:** firm (A), resting on the PROVISIONAL bar answer wherever a cell says so.
+
+### AM-P2-F3 "Share-weighted" and the rounding guard
+
+*Answers C-4 Q7 and Q8.*
+
+- **Found by:** A, B, C; K (C-4). **Disposition:** confirmed by all three. One wording point is a conflict resolved to the narrower reading (below).
+- **The pass's finding.** "The per-nation model is share-weighted and identical across both censuses BY CONSTRUCTION" (P2 L319; the same at 02 L116). "The residual per-nation spread is 0.009 pp of rounding noise, not zero" (P2 L320; the same at P2 L1360-1361 and 01 L327-329), never to be stated as an exact equality.
+- **Current inputs.** SPEC L78: "Robot figures apply the same proportions as the human population." and "the 8 / 3 / 1 share weights no longer produce the figures". S1 L35-36 records the "share-weighted model" as killed and the randomization narrowed to two rows. LOG L1528 item 8 (K, C-4): the old tables carried rounding drift.
+- **Computation** (read-only, on SPEC L32-76; A's command 2, checked by B and C). The city's own retention is 67.5358% combined, 76.8792% humans and 58.6310% robots (B and C; A's stated reference values differ in the fourth decimal, as B noted in Round 3). The largest deviation of any row from those values, by the row's own size at CI:
+
+| Row size at CI | Rows | Combined (points) | Humans (points) | Robots (points) |
+|---|--:|--:|--:|--:|
+| 50,000 or more | 7 | 0.008 | 0.006 | 0.009 |
+| 20,000 to 49,999 | 11 | 0.019 | 0.027 | 0.012 |
+| 5,000 to 19,999 | 10 | 0.033 | 0.069 | 0.014 |
+| 1,000 to 4,999 | 9 | 0.214 | 0.219 | 0.327 |
+| under 1,000 | 8 | 0.579 | 0.791 | 1.004 |
+
+- The largest single values are Ingushetia's robots at −1.004 points (230 people), Karachay-Cherkessia's humans at +0.791 (212 people) and Ingushetia combined at −0.579. No row above 1,200 people exceeds 0.089 points on any column (A in Round 3). A printed 0.218 for the humans of the 1,000 to 4,999 band against its own reference; against the exact city value it is 0.219 (B and C in Round 3).
+- Per-row human-robot spread: from 17.86 points (Patani) to 19.87 points (Karachay-Cherkessia), against the city's 18.25 (found by one: C).
+- Spread across rows, largest minus smallest row retention (found by one: K, C-4): 1.009 points for humans, 1.331 for robots and 0.793 combined across all 45 rows; 0.047, 0.024 and 0.034 across the 24 rows at 1% or more. Every one of these exceeds the pass's 0.009 pp.
+- **Re-derived guard (firm).** The banded form C recommended in Round 3, with B's point at about 1,200 people:
+  > *Every row keeps one share at both censuses by construction (SPEC L78), so every row's retention is the city's: 67.54% combined, 76.88% humans, 58.63% robots. Any difference a row shows is the rounding of whole persons. It stays within about 0.03 points combined (0.07 for humans) in rows of 5,000 people or more, rises above a tenth of a point only in rows of about 1,200 people or fewer, and reaches about 0.6 points combined, 0.8 for humans and 1.0 for robots in rows of a few hundred people. It never records a difference in who left, and it is never stated as an exact equality.*
+  - **Conflict resolved to the narrower reading:** B's wording, that the gap "stays within ±0.02 points in rows above about 10,000 people", holds for the combined figure but not for humans (Idelsk-Uralia −0.027; Bulgaria +0.020), as C showed in Round 3. A's band "under about 5,000" was withdrawn by A in Round 3. The banded wording claims only what every column supports.
+- **Replacement for "share-weighted" (firm; the merged wording A proposed in Round 3):**
+  > *The per-nation rows are a constructed split of the city's totals: latest-period rows split by headcount, pools for places new to the table, a time-zone window, two random multipliers and stated refills (SPEC L28). Each row keeps the same share at both censuses and in both populations (SPEC L78), so no row's retention differs from the city's except by rounding, and which communities left cannot be read from the table. The figures are weights for derivation and headcounts in the world (`DR-104` item 1).*
+  - K (C-4) read "share-weighted" as ambiguous: false if it meant the 8 / 3 / 1 tier weights, true if it meant a share applied to the city total. The three readers read it the first way, on S1 L35-36. The replacement sentence removes the ambiguity under either reading.
+- **Pass locations.** P2 L319 and 02 L116: "share-weighted" is killed by evidence; identical by construction stays. P2 L320, P2 L1360-1361 and 01 L327-329: the 0.009 pp figure is killed by evidence; the rule against an exact equality stays and now matters more, because the rounding is about a hundred times larger.
+- **What stays.** Identical between censuses by construction; fire #2 (01 L69).
+
+### AM-P2-F4 The largest share, without naming its nation
+
+*Answers C-4 Q4 and Q5; C-7 Q1 and Q2.*
+
+- **Found by:** A, B, C; K (C-4, C-7). **Disposition:** confirmed by all three.
+- **The pass's finding.** "Its largest is a minority in its own city, at roughly one person in five." (P2 L309), checked as "A single ratified figure compared once against 50%." (P2 L310). The plurality share of 19.04% (P2 L305) is called safe because "The first is a sole-occupant tier's own share, not an ordering." (P2 L325). The same figure stands as "21 origins, largest at 19.04%" (02 L107; P2 L349) and as "the largest is under a fifth" (P2 L240).
+- **Current inputs.** SPEC L20: "| Primary | Japan, Sinian Federation, United Kingdom, Germany, Korea |". SPEC L32: Japan 10.42% (126,123 people at CI). SPEC L33: Sinian Federation 9.72% (117,596). SPEC L28: "the Sinian Federation's share was multiplied by 0.5719 (random 0.55 to 0.65), and the freed points went in proportion to size to: Japan, Germany, United Kingdom, Korea, Indonesia, Australia". LOG L1703: the randomized ground applies to the Sinian Federation row.
+- **Computation (approximate).** A reconstruction from SPEC L28's stated method (A's command 4, B's C3, C's reconstruction; recomputed by A and B in Round 3). The draw range is used as a limit only, and no L28 pool percentage is used as a share. In final-share units:
+
+| Draw | Sinian Federation row | Japan row | Larger |
+|---|--:|--:|---|
+| 0.55 | 9.35% | 10.50% | Japan |
+| 0.5719 (the stated draw) | 9.72% | 10.42% | Japan |
+| 0.60 | 10.20% | 10.32% | Japan |
+| 0.65 | 11.05% | 10.13% | Sinian Federation |
+
+- The order flips at a draw near 0.606: 0.6057 in B's and C's model and in both Round 3 recomputations; 0.6058 in A's simpler model. Across the range the largest row stays between 10.30% and 11.05%. C's first figure of 11.2% was in pre-Kazakhstan units and rescales to 11.05% (C in Round 3).
+- K's rougher estimates point the same way: about 0.6131 if Japan were held at 10.42% (C-4); about 0.61, labeled and not relied on (C-7).
+- Assumptions: the three L28 steps in L28's order; Kazakhstan's share from LOG L1602; the Manchuria refill does not change the ratio of the top two rows. A assumed it reached neither row; B and C split it between Indonesia and Australia. Both give the same crossover (A and B in Round 3).
+- **Re-derived statement.** **No sentence may name Davis's largest origin or its plurality.** The bar alone forbids it (a 0.70-point gap between two Primary rows), and the draw sets the order of those two rows (a second, independent reason). What may be said:
+  > *Davis has no majority origin. Its largest row is about one person in ten (10.42% at the stated draw, 126,123 people at Census I), and its five Primary rows together hold 46.39% (561,543 people), under half.*
+  - Tier totals at CI (A; checked by B and C): Primary 561,543 (46.39%); Significant 138,987 (11.48%); Notable 509,902 (42.13%).
+  - About one in ten holds across the whole draw range (one in 9 to 10); the exact figure does not (B). How precisely to print it is a question (AM-P2-Q4).
+- **Tier boundaries are robust to the draw; within-tier order is not** (found by one: B; adopted by A in Round 3). Among rows at 4.5% or more, the ratio between the last Primary row and the first Significant row is 1.455, and every other neighboring ratio is 1.096 or less. Cross-tier statements survive the draw.
+- **The ceiling passes the six A.2 limits as `DR-104` item 1 restates them** (C-7 Q2; A, B, C): it reads no tier as a rank; rests on no gap and names no row; is the same at both censuses; is far from 50% next to any rounding at 126,123 people; needs no date; uses no ordinal. This holds only while the nation is not named (C). A adds a seventh check, dependence on the draw, which the one-in-ten precision meets.
+- **Strength:** firm that no row may be named, for the ceiling and for no majority origin (A, B, C); conditional that the order is set by the draw (B: approximate reconstruction; C: the crossover is approximate).
+- **Pass locations.** P2 L240 (figure stale; under a fifth is still literally true, K (C-7), but is replaced); P2 L297-306 (21 rows; one Primary row; the plurality share); P2 L309 (figure false; no majority origin stays); P2 L324-326 (false ground: no sole-occupant tier, SPEC L20); P2 L349 and 02 L107 (stale figure and counts, with "13 nations at Notable tier" now 38); P2 L1448 (naming the largest; a pointer only, `DR-102`).
+- **What stays.** No majority origin, on each row's own figure against 50%, now with about twice the margin.
+
+
+### AM-P2-F5 The founder: what Davis's founding nation is now
+
+*Scope item 2. Answers C-1 Q25 (first half) and Q33; C-4 Q9.*
+
+- **Found by:** A, B, C; K (C-1, C-4). **Disposition:** confirmed by all three.
+- **The pass's finding.** The founding-wave community carries the census tag "at an inherited 4.93%" (P2 L226). A.3 calls the tag "the only arrival annotation in the table" (P2 L342), and A.2 says "Every other cell says who; that one cell says when." (P2 L331-332). The founding share appears as 4.93% at P2 L226, L306, L324, L585, L631 and L1452, at 02 L108 and L250, and in fire #3 at 01 L70 (B).
+- **Current inputs.**
+  - REGISTER L59: Davis's row names Australia, with the basis "extremely close… comparatively easy access", the ruling `DR-19`, and a last cell of "—". The row's second cell names another location (not used).
+  - REGISTER L8: "Founders are decided here and nowhere else." REGISTER L9: no spec or pass "may originate or restate a founding claim that this file doesn't hold". REGISTER L11: "A founding nation stands on geography and access, never on the real station".
+  - CENSUS L33: "the tag says nothing about when people arrived".
+  - LOG L1555 (`DR-88` item 2): the tag "now means a nation named as a founder in the Founding Register, and nothing else".
+  - LOG L1660 (`DR-99` items 2 and 3): the tag "means the establishing country named in the Register, not people who arrived in a wave"; "Australia = Australia". Item 1 concerns another location (not used).
+  - LOG L545-547 (`DR-19`, the developer's words): Australia "playing a central role in the establishment" of Davis. The line also names two other locations (not used).
+  - NNS L9: "A city's founders stand on geography and access — time-zone proximity and practical reach — never on the station".
+  - SPEC L21 and L38: Australia in the Significant tier at 5.74%; at CI 35,573 robots and 33,902 humans (69,475); at CII 20,857 robots and 26,062 humans (46,919).
+- **Re-derived statement (firm).**
+  - Davis's founding nation is **Australia, named by the Founding Register on geography and access** (`DR-19`). The census tag on the Australia row is a pointer to that designation and nothing else. It carries no arrival time, route, order or mechanism.
+  - Separately, Davis has an Australia origin row: one of 45 origins (`DR-104` item 2), 5.74% of the city, **69,475 people at CI (33,902 humans) and 46,919 at CII (26,062 humans)**, in the Significant tier. No arrival time is recorded for it.
+  - The only in-world wording for the founder's act is the developer's ruling text that Australia played "a central role in the establishment" of Davis (LOG L545-547). The act itself is not described (C; A notes in Round 3 that these are ruling words describing an in-world fact). See AM-P2-Q6.
+- **C-4 Q9.** 5.74% replaces 4.93%. The row stands level with Indonesia in the same tier: 69,512 against 69,475 people at CI, 37 apart (17 robots and 20 humans, K, C-4). No statement may set the two against each other, in either direction or as an equality (A, B, C). The 37-person difference carries no meaning: SPEC L28 and LOG L1613 send freed points to the rows at 4.5% or more outside the top tier, and the rest is rounding (AM-P2-N13).
+- **C-1 Q33, the Register's last cell.** REGISTER L59 ends in "—" under a column whose header lies outside every reader's admitted range, so what the cell denies is unknown. No restated sentence needs the answer. The Australia row exists in the composition either way, and no restated sentence says how, when or in what role its people came (A, B, C; K, C-1). C adds that a restated H-2 should say that people of the founding nation's origin are present, and should not say that the founding nation sent the first people (AM-P2-Q7, AM-P2-R1).
+- SPEC L153 is not founder or arrival evidence (AM-P2-N14).
+- **Pass locations.** P2 L22 and L26 (the receipt records the census lines and the tag as a marker; pointer only); P2 L98-99 ("The census entry is EXILE-POPULATION ORIGIN": the row is an admissible exile-population origin, but the tag is a Register pointer, not an origin datum; a qualifier, B; listed by C); P2 L226, L236, L302, L305-306, L324-326, L329-332, L342, L585, L631, L1438 and L1452; 02 L108 and L250; 01 L70. Each states 4.93% (stale) or reads the tag as arrival information (false).
+- **What stays.** The reading that the Australia row is an admissible exile-population origin (P2 L98-99, L1435; B). The founding nation itself, which is the same nation the tag marked when the pass was written (K, C-1).
+
+### AM-P2-F6 H-2: the founded slot and the stock slot
+
+*Answers C-1 Q25 (second half).*
+
+- **Found by:** A, B, C; K (C-1). **Disposition:** confirmed by all three for the restated form. The class of the pass's form-of-words claim is a conflict resolved to the narrower reading (below).
+- **The pass's finding.** P2 L224: "Davis's founding stock and Davis's plurality stock are two different communities, and canon writes nothing between them." P2 L231-232: the form "has one slot, and it silently assumes the founding stock and the demographic plurality are the same community", so at Davis "the form has no correct single instantiation" (P2 L234). P2 L236: "Davis is a founding-wave-Australian, plurality-Chinese Tepenian city".
+- **Current inputs.**
+  - NNS L139: "A Japan-FOUNDED TEPENIAN city." and "Stock: Japanese. People: Tepenian. Local culture: its own." The nation named there is the canon example of the form, not Davis (C).
+  - NNS L9 and L42 source the founded field from the Register and the stock from the census: "the census gives the composition" (NNS L42; K, C-1).
+  - CENSUS L845: "| China | East Turkestan, Manchuria, Mongolia, Sinian Federation, Tibet |". The old China row's people now sit in five rows, none of them named Chinese (B).
+  - SPEC L20-22; REGISTER L59; LOG L1703.
+- **Re-derived statement.**
+  - The founder (a Register designation) and the stock (the census composition) are different kinds of fact, filled from different sources. **The form fills cleanly at Davis** (firm for the form; A, B, C):
+    > *An Australia-founded Tepenian city. Stock: forty-five origins, none a majority; the largest about one in ten; the five Primary rows together under half; the founding nation's own row 5.74% and outside the Primary tier. People: Tepenian. Local culture: its own.*
+  - The founded slot takes one nation, from the Register. The stock slot cannot take one nation: there is no majority, and no plurality can be named under the bar.
+  - **What survives of the contrast** (conditional; cross-tier; PROVISIONAL on AM-P2-Q2): the founder's row is a minority row outside the five Primary rows. At Davis, who founded the city and where most people came from are different questions, and the founded slot says nothing about who most people are (B; A, C).
+  - Proposed heading for H-2 (C): *H-2: Davis's founder and Davis's stock are different kinds of fact, and the stock has no single name.*
+- **What dies (killed by evidence; all three).** "plurality-Chinese", since no plurality can be named (AM-P2-F4) and no row is named China (CENSUS L845). The "two different communities" contrast read as two arrival populations, since the tag is not a cohort (AM-P2-F8). "canon writes nothing between them" read as a gap between two terms, since there is no arrival term at all (AM-P2-F9). The figures 4.93% and 19.04%.
+- **Conflict resolved to the narrower reading: the form-of-words claim at P2 L231-234.** After Round 3, B narrowed its own kill to a description (the founder field takes one nation; the stock field has no correct one-nation filling). C moved the other way: the pass's one-slot claim is killed, and the plural fill is only a description. A withdrew its clause that the form's single word assumes a coincidence. **Written here:** the clause that the form "has one slot" and "silently assumes" a coincidence is killed by evidence, because NNS L139 writes the fields separately. What remains true at Davis (the stock field takes no single nation) is written as a description of Davis, not as a survival of the pass's argument. Every reader's facts fit this reading, and it keeps no claim for the pass's reasoning.
+- **Pass locations.** P2 L224 (headline: restate); P2 L226-228 (figures and the tag); P2 L231-234 (as above); P2 L236 (killed); P2 L240 (figure); P2 L253-258 (the declared risk materialized, AM-P2-F8); P2 L1400; P2 L1598-1599.
+- **What stays.** "No stock at Davis is a majority" (P2 L240; C). The contrast between the founding nation and the bulk of the stock, as a cross-tier fact (K, C-1).
+
+### AM-P2-F7 Collision 3: the station-builder and the founder
+
+*No question in the brief asked for this; all three readers re-derived it because SPEC L3 and L151 are now admitted.*
+
+- **Found by:** A, B, C. **Disposition:** confirmed by all three.
+- **The pass's finding.** The spec was out of contract, "so the station-builder is unavailable and cannot be checked against the founding-wave origin either way" (P2 L93-95). The pass resolves the collision "by declining the question rather than answering it in either direction" (P2 L97-104), citing NNS lines that have since moved.
+- **Current inputs.**
+  - SPEC L3 and L151 now sit inside the admitted ranges. L3 names the station's operator; it is a coordinate only and is not used here.
+  - NNS L32: "WHERE THEY NAME THE SAME NATION, THAT COMES FROM GEOGRAPHY AND ACCESS, NEVER FROM THE STATION." NNS L7, the self-check (quoted by K, C-3): "if a sentence's meaning would change were the station-builder nation swapped for a different one, that sentence violates this rule."
+  - LOG L552 (`DR-19`): "A real station's operator is a GPS coordinate only". LOG L631-632 (`DR-24`): the operator may be named as a statement about the physical infrastructure the exiles inherited, never as the reason for the city's "founders, identity, culture or ties". REGISTER L11.
+- **Re-derived statement (firm).** Collision 3 dissolves on a different ground. The founder comes from the Register, on geography and access; the station is a coordinate and an infrastructure fact only. No sentence in Phase 2 connects the two, now because the law forbids it (NNS L5, L7 and L32; `DR-19`), not because the contract withheld the spec. A re-derivation need say nothing about whether the two coincide; if the question is raised, NNS L32's sentence is the only form (C). The pass's disposal under II.3.3 (P2 L103-104) stands: II.3.3 moots the question in-world (TREATY L54).
+- **Citations.** The pass cites NNS L30, L40-41, L54 and L150 (P2 L91-101). Those texts now stand at about L32, L42-43, L56-57 and L152 (B; C corrected its own L41-43 to B's L42-43 in Round 3). The file has grown from 172 to 174 lines; P2 L22 records it as "FULL, 172" (B, C; K, C-1, C-2 and U-2). A adds that NNS L152 concerns creative-inspiration picks, not founders, so the pass's L150 citation is misapplied, and the governing lines are NNS L5, L7 and L32 (found by one: A; B agreed in Round 3; C called the drift fix and the re-grounding both useful). Both go to the docket (AM-P2-D29).
+- **Pass locations.** P2 L40 (superseded: the station lines are admitted and inert; A); P2 L89-104 (premise outdated; citations drifted, one misapplied); P2 L1368 (section K: keep and re-ground; A); P2 L1456 (O item 9: the dead end now dies at the law alone; A).
+- **What stays.** The pass's conduct: no claim in either direction. The premise is stale; the conduct was right (C).
+
+### AM-P2-F8 The tag, `H6`, A.3's layer call and the third doubt
+
+*Answers C-1 Q30 and part of Q26.*
+
+- **Found by:** A, B, C; K (C-1). **Disposition:** confirmed by all three for the closure of `H6`. A.3's discriminator is a conflict resolved to the narrower reading (below).
+- **The pass's finding.** `H6` (P2 L1400; risk box P2 L253-258): "If ruled authoring, H-2 loses its first term and this phase must be re-run." A.3 (P2 L334-345) sorts annotations by "dated ⇒ authoring, undated ⇒ content" and calls Australia's tag "LOAD-BEARING, and the only arrival annotation in the table" (P2 L342). The third doubt (P2 L1598-1599): the layer call "is a judgment, not a citation, and H-2 rests on it".
+- **Current inputs.** CENSUS L33; LOG L1555; LOG L1660; S1 L22-23: the tag is read only as "Australia is the Register's named founder".
+- **Re-derived statement (firm).** **`H6` is closed by ruling, and on neither of the pass's two branches.** The tag is not in-world arrival content. Nor is it a free authoring annotation: it is a mandatory pointer to the founder record (REGISTER L8-10; CENSUS L33), in-world only in the narrow sense that Australia is the establishing country (A). H-2 loses its first term in the sense the pass foresaw (a founding stock read as an arrival community), and this piece is the re-run the pass called for (B).
+- **Replacement for the third doubt** (C's fuller wording, adopted by B in Round 3; A's and K's wordings agree in substance):
+  > *The founding designation's in-world content is unstated: what Australia's central role in the establishment was, whether it is known at Davis, and whether it carries any standing, in Act 1 or in Act 2. The restated H-2 does not depend on it. Each is an open slot, not a judgment call.*
+- **A.3's discriminator: conflict resolved to the narrower reading.** After Round 3, C and A hold that the dated-means-authoring half holds and the undated-means-content half failed at its one load-bearing case, the tag. B holds that the layer call held, because LOG L1660 makes the tag an in-world designation, and that only the pass's reading of it as an arrival mechanism failed. **Written here:** the dated-means-authoring half is kept as a test, and it still sorts SPEC L28 and UEIC L598 as authoring (all three). The reading of the tag as arrival content failed (all three). Whether the undated-means-content half held or failed depends on what counts as content; no restated finding rests on it, and this piece does not use it again.
+- **Pass locations.** P2 L253-258 (the risk materialized; pointer to this piece); P2 L334-345 (A.3's Australia row is false; the dated half stays); P2 L1400 (`H6`: closed); P2 L1598-1599 (replaced).
+
+### AM-P2-F9 Nothing tells any row's arrival apart: the route datum, B.0 and fire #3
+
+*Answers C-1 Q26, Q31 and Q32.*
+
+- **Found by:** A, B, C; K (C-1). **Disposition:** confirmed by all three.
+- **The pass's finding.** "The marker is the survivor that does real work, because it is the only thing in the entire composition block that says anything about a ROUTE." and "Every other cell says who; that one cell says when." (P2 L330-332). B.0 (P2 L374): Davis's arrival mix is "classifiable for about 5% of its founding population and structurally unknowable for the rest". Section N (P2 L1438): the marker is "the only route datum". Fire #3 (01 L70): "Founding wave vs. composition, with nothing written in between", with the founders and the Primary tier as two communities and "no arrival waves, dates, order or mechanism exists anywhere". P2 L152-153: "nothing exists between the founding wave and the composition".
+- **Current inputs and the candidate lines examined** (C; A and B agree on each):
+  - the tag: CENSUS L33 says it carries nothing about arrival;
+  - SPEC L28, "places never counted before were added by time-zone window": dated authoring provenance, bound as a limit only (S1 L24-25);
+  - UEIC L598, with "RUSSIA ADDED 2026-09-05" and route-like phrases about ports of approach: a pre-rework pool derivation, as UEIC L601 says: "The pool-based table above is the derivation before the rework.";
+  - REGISTER L59's basis: the ground of a designation; NNS L9 glosses access as "time-zone proximity and practical reach";
+  - the treaty: it separates the two populations, not the origins;
+  - SPEC L153: not admissible as a founding claim (REGISTER L8-10).
+  - TREATY L53 (II.3.2): allocation by arrangements concluded "in the years following this Treaty's signing"; TREATY L89 (V.2): the ten-year assistance.
+- **Re-derived statement (firm; the treaty-derived parts are conditional on the treaty's draft status, B, AM-P2-N16).** **No admitted line distinguishes any row's arrival (time, order, route or mode) from any other row's.**
+  - **A.2 restated** (P2 L328-332; A and B, with C's closing sentence): *Three facts survive the limits: the count (45), the split (two populations, inverting), and the founder (a Register pointer, not a route). No cell in the composition block says anything about a route or a time.*
+  - **B.0 restated** (P2 L374; A, B, C): *Davis's arrival can be classified by mode for its whole founding population, at the level of the treaty: robots by class exile (II.2.1-2), humans by elected accompaniment (II.2.3-4), both by allocation (II.3.2). It can be classified by route, date or order for none of its 45 rows, the founder's row included. The treaty provides for a multi-year allocation whose output canon does not record.*
+  - **Fire #3 restated** (01 L70; A, B, C; K): *No arrival waves, dates, order, route or mechanism is recorded for any of the forty-five origins; the founding designation is not an arrival datum. The treaty gives the national mechanism only. Ask it once per Act.* It is now a hole with no "between": there is no first term for anything to lie between. Its answer-location stays II.3.2's arrangements (`H3`; C).
+  - **Asked once per Act** (B): in Act 1, the founding allocation under II.3.2, multi-year and unrecorded, inside V.2's ten-year assistance window; in Act 2, no arrival is recorded, while II.2.1's prospective clause and V.3 leave legal channels open (AM-P2-F11).
+- **Reading guard (C-1 Q32; firm; C's wording, with A and B agreeing):**
+  > *No row's authoring provenance (date added, time-zone window, pool, multiplier, draw, seed) and no founder's Register basis is read as an arrival time, order or route.*
+  - Grounds (A, B, C): SPEC L28's window clause is a dated (2026-11-02) statement of method and binds as a limit only (S1 L24-25). `DR-104` item 2 makes all 45 rows origins on equal footing, so no row counts as later for having been added later in authoring; the same holds for UEIC L598's dated addition. The Register's basis ("extremely close… comparatively easy access") is the ground on which the designation stands (LOG L552) and records no journey.
+- **Pass locations.** 01 L70 (restate); P2 L148 (native by default on fire #3's silence: keep, citing the restated fire, with the robot qualifier of AM-P2-F11); P2 L150-153 (restate: no arrival account exists for any of the 45 rows); P2 L328-332 (killed); P2 L374 and L376 (restated; L376 quotes the old fire, pointer only); P2 L1397 (`H3`: twenty of twenty-one origins becomes all forty-five); P2 L1438 (killed); P2 L1452 (self-correction 5 is moot; pointer only, B and C).
+
+
+### AM-P2-F10 The host/guest model, and "too small to host"
+
+*Answers C-1 Q27.*
+
+- **Found by:** A, B, C; K (C-1). **Disposition:** confirmed by all three, after C withdrew two points in Round 3.
+- **The pass's finding.** The ordinary model of a plural city, "founding stock as host, later stocks as guests", is unavailable at Davis in both of its terms: "The founding stock is too small to host, and there are no later stocks because there was no later arrival." (P2 L242-244).
+- **Current inputs.** CENSUS L33 (the tag dates nothing); SPEC L21 and L38 (5.74%, Significant tier); no admitted line dates any row. Research (B; a real-world comparable, never a specification): Canada's two charter groups are the British and the French, and "the French assumed a minority status relative to the British" (encyclopedia.com, "Canadian Racial Formations"). Founding standing can sit with a numerical minority.
+- **Re-derived statement (conditional: holds while no arrival order is recorded).**
+  - The model's failure stays a finding, on one main ground: **no admitted line gives any row an earlier arrival than another**, and the tag is not one. A host-and-guest order therefore has nothing to stand on.
+  - The order is unrecorded, not shown to be absent. A staged allocation implies that an order existed in Act 1 (A; B and C in Round 3).
+  - Weight of numbers is a supporting ground only, stated by headcount: the founder's row is 69,475 people at CI (5.74%), not a majority and outside the five Primary rows (cross-tier; PROVISIONAL). That no row is large enough to set a default, the founder's included (C), is the no-default result of AM-P2-F13, not a ground against hosting (A in Round 3; C withdrew it as an independent firm ground).
+- **"too small to host": killed for want of an admitted line.** No admitted line sets the size a host needs, 69,475 people is not small by itself, and real-world founding groups include a numerical minority (B; A and C in Round 3). K (C-1) reached the same point: too small holds only in a relative sense.
+- **Pass locations.** P2 L242-246; 02 L108 ("the founding population is 4.93%": the figure is stale and the row is not the founding population); 02 L250.
+- **What stays.** "There is no 'the community' and no 'the newcomers'" (P2 L241; B), on the no-majority ground and the absence of any recorded order.
+
+### AM-P2-F11 No later wave, all at once, and the born-here mode
+
+*Answers C-1 Q28.*
+
+- **Found by:** A, B, C; K (C-1). **Disposition:** confirmed by all three. Sub-findings found by one reader are marked.
+- **The pass's finding, in five forms** (C's list; A and B agree):
+  - as a fact: "there are no later stocks because there was no later arrival" (P2 L243-244), and "the founding arriving all at once and never being followed" (P2 L245-246);
+  - as a labeled inference (B.4): "no in-migration is recorded after the founding at all" (P2 L585-590);
+  - as a bound: "II.2.1 is one-directional and self-exhausting." and "Once that population has left, the source is spent." (P2 L594-595);
+  - as a clock: "a staged arrival inside a ten-year assistance window, after which the flow stops by the document's own terms" (P2 L510-511);
+  - in Act 2: "No arrival mode is operating at all." (P2 L882).
+  - Also P2 L148 (native by default), P2 L843 (B.10: born here, dominant by population), P2 L1160-1161 and P2 L1589-1592 (B).
+- **Current inputs.**
+  - TREATY L46 (II.2.1): "every robot who may hereafter come into being within such territory, shall depart that territory and take up residence within the Federation of Tepenia".
+  - TREATY L48 (II.2.3): a human's eligibility rests on ties formed "prior to the date of this Treaty".
+  - TREATY L53 (II.3.2): "in the years following this Treaty's signing". TREATY L89 (V.2): assistance "in transport, in raw material, and in technical instrument" during the first ten years. TREATY L91 (V.3): later agreements on "trade, the exchange of goods, and lawful passage".
+  - TREATY L76 (IV.2.3) bars a human exile's return to Assembly territory, not arrival in Tepenia (B).
+  - CENSUS L33; PHYS L67, L104 and L432.
+- **Re-derived statements.**
+  - **No later wave rests on silence only** (firm). No admitted line dates any row's arrival, and the rows added by time-zone window are authoring, not arrivals (AM-P2-F9). Proposed form: no later arrival is recorded (firm); none occurred (unsupported; A). Read as an inference from absence, it is a seed (C).
+  - **All at once: killed by evidence** (found by one: A; adopted by B and C in Round 3; K, C-1, noted the tension with B.0 and did not test it). II.3.2 provides for assignment in the years following, and the pass's own B.0 reads it as a multi-year, staged allocation (P2 L379-381). In Act 1 an order of arrival existed and is unrecorded.
+  - **Self-exhausting: killed by evidence** (A, B, C). II.2.1 binds every robot who may hereafter come into being on Assembly territory, with no term: a standing legal channel for later robot arrivals. Whether any such robot was made, or reached Davis, is unrecorded.
+  - **The treaty splits later arrival by population** (found by one: A; adopted by B and C in Round 3). Human eligibility is fixed at signing (II.2.3). Travel could still be staged over the allocation years, and only unrecorded V.3 passage agreements could reopen a human channel. The robot channel stays open in law (II.2.1).
+  - **V.2's ten-year clock governs supplies, not people** (found by one: C; adopted by A and B in Round 3). V.2 bounds material assistance, transport included; it does not bound the arrival of people. P2 L510-511 narrows to a supply clock, and the "two independent routes" to HOLD-not-MAKE (P2 L513-516) keep their supply leg only.
+  - **Proposed restatement** (C's wording, with A's human channel added):
+    > *Canon records no arrival at Davis after the founding allocation. That is a silence, not a bound. The treaty leaves a standing channel for robots (II.2.1), closes the human channel at signing (II.2.3), leaves II.3.2's allocation arrangements open-ended, and permits later agreements on passage (V.3). V.2's ten-year window governs material assistance, transport included, and not the presence of people. Whether any channel ever carried anyone to Davis is unrecorded.*
+  - **Born here (conditional).** For humans, born-here dominance remains an inference from absence, as B.4 labels it (A, B, C). For robots it is not entailed. Canon gives robots no senescence (PHYS L67, L104), so robots allocated at the founding can still be present late in the frame unless something kills them. A robot made here needs a chamber at Davis, which canon makes likely ("almost every city", PHYS L432) but does not state (B; A, C). Whether the robot majority is mostly made here or mostly founding arrivals is unknown (AM-P2-N2).
+  - **B.4's premise.** "The founding-wave origin is 4.93% of the city" (P2 L585) no longer marks a cohort. The inference works from the recorded absence, not from the tag, and "the twenty unannotated origins" (P2 L592) are now all 45 rows alike (K, C-1; A, B). Brief rule 4 bars reasoning from the elapsed time; A and B ground the human half on the Acts law (NNS L106) rather than on the length of the frame (section 9 records the tension).
+- **Pass locations.** P2 L148 (add: for humans; for robots, unknown); P2 L243-244 (fact form becomes the inference form); P2 L245-246 (killed); P2 L507-516 (supply clock only); P2 L585-590 (premise; robot half); P2 L592 (twenty becomes forty-five); P2 L594-595 (killed); P2 L601-602 ("a founding-era in-flow followed by no recorded renewal" stays only as no recorded renewal, with II.2.1's open channel added; B); P2 L843 (born here dominant: humans only; B); P2 L882 (qualifier); P2 L1160-1161 (the foreclosure "no post-founding wave record (fire #3)" stays as a statement about the record and cites the restated fire #3; B listed L1161); P2 L1589-1592 (the biggest doubt stands and widens); 02 L250 (the question expires by Act 2 for humans only, AM-P2-F12).
+
+### AM-P2-F12 No precedence politics (`D5`), asked once per Act
+
+*Answers C-1 Q29.*
+
+- **Found by:** A, B, C; K (C-1). **Disposition:** confirmed by all three.
+- **The pass's finding.** 02 L250 (`D5`): "No precedence politics can form", "and by Act 2 the question expires before it is ever asked". P2 L247-249: "precedence requires that having-arrived be a difference that PERSISTS. A terminal assignment with no successor wave makes it a difference that dies with the first generation". P2 L631: "The founders are 4.93%" leads to no precedence politics, as the first of "two independent derivations" (P2 L635-636); the second is the inheritance route (P2 L632-636, L738-740).
+- **Current inputs.** CENSUS L33; LOG L1660; REGISTER L59. PHYS L67; PHYS L104: "there is no senescence and no background attrition"; PHYS L105: "They die when something kills them"; PHYS L215: "Robots live longer, so a single individual spans more of the divergence". LOG L646 (`DR-25`): a tradition "that passes person to person, and no one carried it across the gap". NNS L105-106: in Act 2, "Origin is now ANCESTRY, not identity". NNS L142-144: national identity is not a differentiator.
+- **Re-derived statements.**
+  - **No arrival-based precedence has a recorded ground at Davis** (firm): no row's arrival order is recorded. This is B's wording, which C adopted in Round 3 and A's matches. C withdrew its first wording, that no such precedence "can form" among people born at Davis: an unrecorded order is not an absent one, and descendants could inherit an order their parents held (B in Round 3).
+  - **The pass's mechanism fails for robots and stands for humans** (killed by evidence for robots; A, B, C). The mechanism assumes generational turnover. Robots have none (PHYS L67, L104-105), so a robot present at the founding can be alive in Act 2, and having arrived can persist in a living person. The question expires by Act 2 for humans only.
+  - **The inheritance route stands** (firm): what crossed the gap was records and plant, with no persons and no heirs, so nothing inherited can assert precedence (AM-P2-F27).
+  - **The founding designation's standing is an open slot** (null; A, B, C). Whether it is known in-world, or carries standing for anyone, is unstated in Act 1 and in Act 2. In Act 1 origins are live identities (NNS L105), so a known designation could matter; nothing says it is known. In Act 2 origin is ancestry and national identity is shared (NNS L106, L142-144); nothing says the designation means anything then. None is sited here; that does not mean none is possible here (B). K (C-1) adds that a designation-based ground, if one existed, would pass by descent rather than die with the first generation, so the pass's mechanism does not reach it.
+  - **Act by Act** (A): in Act 1, an arrival order existed inside the staged allocation and is unwritten, so arrival precedence was possible and is unrecorded. In Act 2, for humans, arrival has become ancestry (NNS L106), so any precedence would run by descent and is unrecorded; for robots, founding-era individuals can still be present.
+- **Restated `D5` (conditional; PROVISIONAL on C-1's developer question D2, AM-P2-Q6):**
+  > *No arrival-based precedence has a recorded ground at Davis, in either Act. Whether the founding designation is known in-world or carries any standing is unstated in either Act, and the slot is open. The pass's mechanism (the difference dies with the first generation) holds for humans and does not hold for robots.*
+- **The premise "The founders are 4.93%"** (P2 L631; 02 L250) is killed by evidence: the founder's row is not the founding cohort. The "two independent derivations" (P2 L635-636) become one derivation, the inheritance route, plus the recordless-arrival ground (A, B, C).
+- **Pass locations.** 02 L250 (premise false; expiry for humans only); 02 L303 (`D5` among the unformulable; C); P2 L247-249 (mechanism: robot qualifier); P2 L250-251 (fourth order: conditional on this entry); P2 L631 (premise false); P2 L632-636 and L738-740 (stay, with the plant added to the inheritance, AM-P2-F27).
+
+### AM-P2-F13 The chain "nothing load-bearing can be tacit"
+
+*Scope item 3. Answers C-7 Q3, Q4 and Q6.*
+
+- **Found by:** A, B, C; K (C-7). **Disposition:** confirmed by all three.
+- **The pass's finding.** 02 L107: "21 origins, largest at 19.04%" leads to "nothing load-bearing can be tacit; everything must be explicit." P2 L466-468: "with no majority origin, there is no community whose habits could become the default by sheer weight". P2 L469: G8's strength is "FORCED BY THE ALLOCATION CRITERION". P2 L470-471: "A tacit norm is one a majority carries without stating it. With no majority, a tacit norm has no carrier." P2 L961: G8's claim "is the arithmetic, not a temperament".
+- **Current inputs.**
+  - SPEC L32-76: no row is a majority; the largest is about one in ten.
+  - SPEC L15-16: robots are 619,764 of 1,210,432 at CI (51.20%); humans are 454,101 of 817,475 at CII (55.55%). A population type is a majority at each census, and the two majorities are of opposite types (S1 L37-38: "The majority still inverts").
+  - TREATY L54 (II.3.3): "the orderly and humane distribution of the exiled population across habitable ground".
+  - LOG L1527: the national language is "down at its foundational level core, a Pidgin between English and Japanese".
+  - 02 L475-476: "a four-month blaze of light and work followed by an eight-month carry". PHYS L336: "Robots and humans stop at the same time, for different reasons."
+  - Pooled split-country sets at CI, by headcount (A, B, C; C preferred the headcount form in Round 3): old China's five rows 135,620 (11.20%); old Germany's two 120,256 (9.93%); old United Kingdom's two 116,062 (9.59%); old Russia's thirteen 77,854 (6.43%); old Indonesia's three 71,874 (5.94%); old Thailand's two 40,181 (3.32%); old Romania's two 33,903 (2.80%). The five Primary rows together hold 46.39%; the Primary and Significant tiers together 57.87% (B, C), but tiers are production labels, not carriers (B).
+- **Re-derived statements.**
+  - **No origin can make its habits Davis's tacit default by weight** (firm; A, B, C). No row, no tier and no pooled successor set holds a majority at either census. The largest pooled set, old China's pieces, holds 11.20% by headcount; the reserved shares inside it could move only its last decimal (C).
+  - **Scope fix** (C-7's recommended answer; A, B, C): P2 L470-471 should say no majority origin, because a population type is a majority at each census.
+  - **Whether a population-type majority can carry a tacit norm is an open hole** (null; A, B, C; K). Seed (B): PHYS L336 records one rhythm both types keep for different reasons.
+  - **The wider claim holds only while no origin holds Davis's institutions** (conditional; found by one: B; adopted by A and C in Round 3). The pass's definition of a tacit norm as one a majority carries is its own and unsourced. Real-world comparables show norms carried by a group that holds institutions while a numerical minority (the charter groups of AM-P2-F10). Davis's founding administration is unknown (`H8`, P2 L1402).
+  - **Other candidate carriers** (C-7 Q4):
+    - a set of rows sharing one medium: none established. No admitted line gives any row's language or other medium (null; B), and even the pooled split-country sets stay under a majority (C);
+    - a minority placed in institutions: unstated (`H8`);
+    - the inherited record: explicit by nature, since it is written, so not a tacit carrier (found by one: C; adopted by A in Round 3);
+    - the season's calendar, shared by everyone (02 L475-476): a place-derived carrier that belongs to no origin; open (A, C; adopted by B in Round 3);
+    - the national common language: in Act 2 everyone shares it, and at its core it is a contact language of two stocks (LOG L1527). It is national context, true everywhere and never a Davis differentiator (B). A keeps it as a seed only (found by one: A).
+  - A's extension (seed): *No origin carries a Davis-wide tacit norm by weight. Whatever is tacit at Davis is carried by what everyone shares regardless of origin.*
+  - **"FORCED BY THE ALLOCATION CRITERION" overstates** (firm; A, B, C; K, C-7 Q6). II.3.3's capacity criterion permits a no-majority composition and does not produce one. The composition is the census's construction (SPEC L28, L78), and in-world the arrangements that made Davis's mix are unrecorded (`H3`). Proposed (C's wording, adopted by A in Round 3, with B's closing clause): *consistent with the allocation criterion, and not explained by it; the composition itself comes from the census.*
+  - **Proposed restatement of the chain:**
+    > *No origin can make its habits Davis's tacit default by weight. No origin is a majority (the largest about one in ten), and no set of rows filled by one split country's people reaches a majority either. A city-wide tacit norm from an origin would need a majority origin to carry it, and there is none. The wider claim, that nothing load-bearing can be tacit, holds while no origin holds Davis's institutions.*
+  - **Found by one: K (C-7)** (strength not graded by its finder; carried here as seed). More, smaller origins make an explicit common medium more necessary, not less, which fits G8's standing cost, "Carrying a common medium across cohorts" (02 L109). And the strongest objection to the pass's definition, that a large plurality can set a default without being a majority, is weaker against a ceiling of 10.42% than it was against 19.04%.
+- **Pass locations.** 02 L107 (figures stale; qualifier); P2 L349-350 (A.4 quotes the stale ground); P2 L353 and L466-468 (stay); P2 L469-471 (overstatement; scope); P2 L959-961 (qualifier, AM-P2-F21).
+
+### AM-P2-F14 A.4: explicit and inert
+
+*Answers part of C-7 Q5.*
+
+- **Found by:** A, B, C; K (C-7). **Disposition:** confirmed by all three for the first order. The fourth-order qualifier is found by one (A); the second-order scope point is found by one (K).
+- **The pass's finding.** "No origin is large enough to be the unmarked default" (P2 L353). Davis's origin material is "EXPLICIT AND INERT" (P2 L357). "A 21-origin city can be non-tacit without being factional" (P2 L357-358). The second order calls origin material "maximally visible" (P2 L354-355). The fourth order says that how a person came to be at Davis sorts nobody, "because the answer does not vary" (P2 L360-363).
+- **Re-derived statements.**
+  - **First order** (no unmarked default): firm, on AM-P2-F4 and AM-P2-F13 (A, B, C; K).
+  - **Third order** (explicit and inert): seed (A); C keeps it as an origin result; B makes it conditional on the `H8` condition. The weakest grade governs: seed. A real-world comparable has the same shape: where immigration stopped, descendants' ethnicity became "symbolic, optional and inconsequential" (Jiménez 2008, drawing on Gans 1979 and Waters 1990). The divergence: there it followed absorption into a majority culture, and at Davis there is no majority origin to be absorbed into. The resemblance is noted, not leaned on (A).
+  - **Second order** ("maximally visible"): ungrounded for the smallest rows; its scope needs restating, and it is not shown false (found by one: K, C-7). For a row of a few hundred people, explicit means explicit when stated: a practice with a few hundred carriers in a city of 1.21 million is nameable but rarely met (A, B, C on C-7 Q5; seed in A, conditional in B).
+  - **Fourth order** ("the answer does not vary"): false for Act 1, where human electors and robots by class had different routes and arrival years differed within the staged allocation; false for founding-era robots still alive in Act 2 (PHYS L103-106). It holds, conditionally, for people born or made at Davis (found by one: A; adopted by B in Round 3).
+- **Pass locations.** P2 L349-350 (stale ground); P2 L353 (stays); P2 L354-355 (scope; K); P2 L357-359 (count; conditional); P2 L360-363 (Act and robot qualifiers; A).
+- **What stays.** "A thing that decides nothing is safe to name" still follows, because no row decides anything by weight (C).
+
+
+### AM-P2-F15 The scale check, every row read by its own headcount
+
+*Scope item 4. Answers C-2 (a) and (b), part of (h), and C-7 Q5.*
+
+- **Found by:** A, B, C; K (C-2, C-7). **Disposition:** confirmed by all three. Two sub-points are conflicts resolved to the narrower reading: the quorum in the smallest rows, and the kitchen.
+- **The pass's finding.** The scale check computed two figures only: about 220,543 people for the largest origin share and about 57,105 for the founding-wave community (P2 L948-949). From those it concluded, for every row: "Not one of the 21 lacks numbers for a liturgy, a street, a kitchen or a conversation" (P2 L949-950). The figures carried the caveat that they are "the model's outputs, not independently established populations" (P2 L951; K, C-2). The deciding rule was 03 §3.1's caveat that crew-scale cases are tens of people and class-structure cases are thousands (P2 L945-947; K, C-2).
+- **Current inputs.** SPEC L32-76: 45 rows, from 152 to 126,123 people at CI, with 74 to 61,547 humans. LOG L1703 item 2: "All 45 rows of Davis's composition are origins; Phase 2 reasons by headcount, with no cutoff." LOG L1703 item 1 makes the figures headcounts in the world, which supersedes the caveat at P2 L951 (K, C-2 and C-4). PHYS L238: "Siligel is the established robot equivalent of food"; PHYS L275 makes coolant the robot equivalent of drinking; so a kitchen's customers are humans (found by one: B; adopted by A and C in Round 3).
+- **Researched comparables** (section 8 logs every search; real-world comparables, never specifications; counts of people, never prices; Round 3 corrections applied):
+  - **Quorum scale.** A congregational rite has a fixed quorum of about 3 to 40 adults, depending on the tradition. For Friday prayer: three besides the imam (Hanafi), twelve (Maliki), forty (Shafi'i and Hanbali). A minyan is ten adults, and no rabbi is needed (A, B, C).
+  - **Typical congregation.** The median US congregation in 2018-19 had about 70 regular participants, adults and children counted. The figure of about 50 regularly participating adults belongs to the congregation led by the median clergy person, not to the median congregation (A's Round 3 correction of B and C).
+  - **Full-time officiant and building.** About 75 to 100 regular attenders in US denominational guidance (A); about 80 to 125 in commentary of low reliability (B); about 80 to 100 (C). A congregation of about 50 families made its minyan easily; one of about 10 families could not (A). A congregation of more than 50 members, now about 30 attending, keeps a church and a heritage-language school (B; a search summary only, since the source returned HTTP 403).
+  - **Share scale.** In the US censuses of 1900-1930, immigrant groups below roughly 23 to 35 percent of their county adopted majority practices. Above about one third, English acquisition fell from 90% to 50% and in-marriage rose from about 55-60% to about 75% (Advani and Reich 2015; A, with the figures confirmed against the paper by B and C in Round 3).
+  - **Partnering and renewal.** A group's relative size is inversely related to its out-marriage (Blau, Blum and Schwartz 1982; A, B, C). Third-generation home language is most affected by intermarriage and communal context (Alba and colleagues 2002; A, B, C). Exogamy considerably reduces transmission (Statistics Canada; A). Immigrant replenishment sustains ethnic boundaries; where immigration stopped, ethnicity became symbolic (Jiménez 2008; A).
+  - **Isolation.** Kaifeng's community, at its peak about 4,000 (A's source) or about 5,000 (C's source), lost its rabbinate, synagogue and Hebrew literacy once isolated, while food rules, burial shape, clan identity and family memory persisted. Sources disagree on the dates and on the cause (A, C).
+  - **A public channel.** Mother-tongue instruction in Sweden runs on five pupils if a suitable teacher exists: the specialist, not the learner count, binds (A).
+  - **Street.** No tested headcount threshold was found; the enclave thresholds in the literature are shares (A, B, C). One enclave definition reports more than 250 co-ethnic residents in a tract of about 4,000; it is unverified, because the source returned HTTP 403 (C).
+  - **Kitchen.** Whether a city has a cuisine depends on the city's total population and density (Schiff 2015) and on a producer who holds the skill (Mazzolari and Neumark 2012), not on the matching group's size alone (C). Ethnic populations predict ethnic restaurants, and majority customers also buy (Diaz and Ore 2020; A, B). A low-order shop "may require only 800 or so customers", a general-population encyclopedia figure of low reliability (B; confirmed as stated by C in Round 3).
+- **The merged per-row table.** One table, with every threshold as a column and no grouping that could act as a cutoff (C's Round 3 recommendation), at both censuses (A's). Each cell reads one row's own headcount against an external threshold, never against another row. Rows are in SPEC order, and the table ranks nothing. Shares are lower bounds wherever a threshold counts adults, because no row's age structure is admitted (C). The humans-only cells rest on no open question; the cells on totals hold only if a row's robots carry its practices (AM-P2-F19). The Sinian Federation and Manchuria rows are draw-set; the Taiwan, Mongolia, East Turkestan and Tibet rows are shown, and no finding rests on their exact shares (AM-P2-N17). Columns A1 to A3 are A's (75 to 100 regular participants); C1 to C3 are C's (each cell gives the share of CII humans / of the CII total).
+
+| SPEC | Row | Tier | CI total (humans) | CII total (humans) | A1: 75-100 of CI humans | A2: 75-100 of CII humans | A3: 75-100 of CI total | C1: 40-adult quorum | C2: about 100 participants | C3: 250 co-located |
+|---|---|---|--:|--:|---|---|---|---|---|---|
+| L32 | Japan | Primary | 126,123 (61,547) | 85,180 (47,318) | 0.12 to 0.16% | 0.16 to 0.21% | 0.06 to 0.08% | <0.1% / <0.1% | 0.2% / 0.1% | 0.5% / 0.3% |
+| L33 | Sinian Federation | Primary | 117,596 (57,384) | 79,418 (44,117) | 0.13 to 0.17% | 0.17 to 0.23% | 0.06 to 0.09% | <0.1% / <0.1% | 0.2% / 0.1% | 0.6% / 0.3% |
+| L34 | United Kingdom | Primary | 113,313 (55,294) | 76,524 (42,509) | 0.14 to 0.18% | 0.18 to 0.24% | 0.07 to 0.09% | <0.1% / <0.1% | 0.2% / 0.1% | 0.6% / 0.3% |
+| L35 | Germany | Primary | 103,416 (50,465) | 69,845 (38,799) | 0.15 to 0.20% | 0.19 to 0.26% | 0.07 to 0.10% | 0.1% / <0.1% | 0.3% / 0.1% | 0.6% / 0.4% |
+| L36 | Korea | Primary | 101,095 (49,332) | 68,274 (37,925) | 0.15 to 0.20% | 0.20 to 0.26% | 0.07 to 0.10% | 0.1% / <0.1% | 0.3% / 0.1% | 0.7% / 0.4% |
+| L37 | Indonesia | Significant | 69,512 (33,922) | 46,951 (26,081) | 0.22 to 0.29% | 0.29 to 0.38% | 0.11 to 0.14% | 0.2% / <0.1% | 0.4% / 0.2% | 1.0% / 0.5% |
+| L38 | Australia (the Register's founder) | Significant | 69,475 (33,902) | 46,919 (26,062) | 0.22 to 0.29% | 0.29 to 0.38% | 0.11 to 0.14% | 0.2% / <0.1% | 0.4% / 0.2% | 1.0% / 0.5% |
+| L39 | Thailand | Notable | 39,039 (19,050) | 26,364 (14,645) | 0.39 to 0.52% | 0.51 to 0.68% | 0.19 to 0.26% | 0.3% / 0.2% | 0.7% / 0.4% | 1.7% / 0.9% |
+| L40 | Vietnam | Notable | 37,554 (18,326) | 25,362 (14,088) | 0.41 to 0.55% | 0.53 to 0.71% | 0.20 to 0.27% | 0.3% / 0.2% | 0.7% / 0.4% | 1.8% / 1.0% |
+| L41 | Philippines | Notable | 37,098 (18,103) | 25,056 (13,918) | 0.41 to 0.55% | 0.54 to 0.72% | 0.20 to 0.27% | 0.3% / 0.2% | 0.7% / 0.4% | 1.8% / 1.0% |
+| L42 | Malaysia | Notable | 35,729 (17,436) | 24,130 (13,404) | 0.43 to 0.57% | 0.56 to 0.75% | 0.21 to 0.28% | 0.3% / 0.2% | 0.7% / 0.4% | 1.9% / 1.0% |
+| L43 | Taiwan | Notable | 34,653 (16,910) | 23,403 (13,000) | 0.44 to 0.59% | 0.58 to 0.77% | 0.22 to 0.29% | 0.3% / 0.2% | 0.8% / 0.4% | 1.9% / 1.1% |
+| L44 | Russia (core state) | Notable | 33,655 (16,423) | 22,731 (12,628) | 0.46 to 0.61% | 0.59 to 0.79% | 0.22 to 0.30% | 0.3% / 0.2% | 0.8% / 0.4% | 2.0% / 1.1% |
+| L45 | South Africa | Notable | 33,330 (16,264) | 22,509 (12,504) | 0.46 to 0.61% | 0.60 to 0.80% | 0.23 to 0.30% | 0.3% / 0.2% | 0.8% / 0.4% | 2.0% / 1.1% |
+| L46 | Romania | Notable | 30,415 (14,842) | 20,539 (11,409) | 0.51 to 0.67% | 0.66 to 0.88% | 0.25 to 0.33% | 0.4% / 0.2% | 0.9% / 0.5% | 2.2% / 1.2% |
+| L47 | Ukraine | Notable | 26,599 (12,979) | 17,965 (9,979) | 0.58 to 0.77% | 0.8 to 1.0% | 0.28 to 0.38% | 0.4% / 0.2% | 1.0% / 0.6% | 2.5% / 1.4% |
+| L48 | New Zealand | Notable | 20,431 (9,970) | 13,799 (7,666) | 0.8 to 1.0% | 1.0 to 1.3% | 0.37 to 0.49% | 0.5% / 0.3% | 1.3% / 0.7% | 3.3% / 1.8% |
+| L49 | Idelsk-Uralia | Notable | 20,192 (9,854) | 13,633 (7,573) | 0.8 to 1.0% | 1.0 to 1.3% | 0.37 to 0.50% | 0.5% / 0.3% | 1.3% / 0.7% | 3.3% / 1.8% |
+| L50 | Belarus | Notable | 18,608 (9,080) | 12,565 (6,980) | 0.8 to 1.1% | 1.1 to 1.4% | 0.40 to 0.54% | 0.6% / 0.3% | 1.4% / 0.8% | 3.6% / 2.0% |
+| L51 | Kazakhstan | Notable | 17,597 (8,587) | 11,885 (6,602) | 0.9 to 1.2% | 1.1 to 1.5% | 0.43 to 0.57% | 0.6% / 0.3% | 1.5% / 0.8% | 3.8% / 2.1% |
+| L52 | Bulgaria | Notable | 17,236 (8,411) | 11,643 (6,468) | 0.9 to 1.2% | 1.2 to 1.5% | 0.44 to 0.58% | 0.6% / 0.3% | 1.5% / 0.9% | 3.9% / 2.1% |
+| L53 | Austro-Bavaria | Notable | 16,840 (8,218) | 11,371 (6,317) | 0.9 to 1.2% | 1.2 to 1.6% | 0.45 to 0.59% | 0.6% / 0.4% | 1.6% / 0.9% | 4.0% / 2.2% |
+| L54 | Lithuania | Notable | 14,269 (6,963) | 9,638 (5,354) | 1.1 to 1.4% | 1.4 to 1.9% | 0.53 to 0.70% | 0.7% / 0.4% | 1.9% / 1.0% | 4.7% / 2.6% |
+| L55 | Estonia | Notable | 14,155 (6,908) | 9,560 (5,311) | 1.1 to 1.4% | 1.4 to 1.9% | 0.53 to 0.71% | 0.8% / 0.4% | 1.9% / 1.0% | 4.7% / 2.6% |
+| L56 | Latvia | Notable | 10,730 (5,236) | 7,246 (4,025) | 1.4 to 1.9% | 1.9 to 2.5% | 0.70 to 0.93% | 1.0% / 0.6% | 2.5% / 1.4% | 6.2% / 3.5% |
+| L57 | Manchuria | Notable | 8,597 (4,195) | 5,806 (3,225) | 1.8 to 2.4% | 2.3 to 3.1% | 0.9 to 1.2% | 1.2% / 0.7% | 3.1% / 1.7% | 7.8% / 4.3% |
+| L58 | Siberia | Notable | 8,023 (3,915) | 5,420 (3,011) | 1.9 to 2.6% | 2.5 to 3.3% | 0.9 to 1.2% | 1.3% / 0.7% | 3.3% / 1.8% | 8.3% / 4.6% |
+| L59 | Donska-Kubania | Notable | 7,696 (3,756) | 5,195 (2,885) | 2.0 to 2.7% | 2.6 to 3.5% | 1.0 to 1.3% | 1.4% / 0.8% | 3.5% / 1.9% | 8.7% / 4.8% |
+| L60 | Mongolia | Notable | 4,800 (2,343) | 3,242 (1,800) | 3.2 to 4.3% | 4.2 to 5.6% | 1.6 to 2.1% | 2.2% / 1.2% | 5.6% / 3.1% | 13.9% / 7.7% |
+| L61 | Künnarantaiga | Notable | 4,636 (2,262) | 3,131 (1,739) | 3.3 to 4.4% | 4.3 to 5.8% | 1.6 to 2.2% | 2.3% / 1.3% | 5.8% / 3.2% | 14.4% / 8.0% |
+| L62 | East Turkestan | Notable | 4,055 (1,979) | 2,738 (1,520) | 3.8 to 5.1% | 4.9 to 6.6% | 1.8 to 2.5% | 2.6% / 1.5% | 6.6% / 3.7% | 16.4% / 9.1% |
+| L63 | Hungary | Notable | 3,488 (1,702) | 2,358 (1,310) | 4.4 to 5.9% | 5.7 to 7.6% | 2.2 to 2.9% | 3.1% / 1.7% | 7.6% / 4.2% | 19.1% / 10.6% |
+| L64 | Northern Ireland | Notable | 2,749 (1,341) | 1,857 (1,032) | 5.6 to 7.5% | 7.3 to 9.7% | 2.7 to 3.6% | 3.9% / 2.2% | 9.7% / 5.4% | 24.2% / 13.5% |
+| L65 | Dagestan | Notable | 1,424 (695) | 962 (534) | 11 to 14% | 14 to 19% | 5.3 to 7.0% | 7.5% / 4.2% | 18.7% / 10.4% | 46.8% / 26.0% |
+| L66 | West Papua | Notable | 1,200 (586) | 813 (451) | 13 to 17% | 17 to 22% | 6.2 to 8.3% | 8.9% / 4.9% | 22.2% / 12.3% | 55.4% / 30.8% |
+| L67 | Aceh | Notable | 1,162 (567) | 785 (435) | 13 to 18% | 17 to 23% | 6.5 to 8.6% | 9.2% / 5.1% | 23.0% / 12.7% | 57.5% / 31.8% |
+| L68 | Patani | Notable | 1,142 (557) | 771 (427) | 13 to 18% | 18 to 23% | 6.6 to 8.8% | 9.4% / 5.2% | 23.4% / 13.0% | 58.5% / 32.4% |
+| L69 | Chechnya | Notable | 680 (331) | 458 (254) | 23 to 30% | 30 to 39% | 11 to 15% | 15.7% / 8.7% | 39.4% / 21.8% | 98.4% / 54.6% |
+| L70 | Tibet | Notable | 572 (279) | 385 (215) | 27 to 36% | 35 to 47% | 13 to 17% | 18.6% / 10.4% | 46.5% / 26.0% | >100% / 64.9% |
+| L71 | Kabardino-Balkaria | Notable | 405 (197) | 274 (152) | 38 to 51% | 49 to 66% | 19 to 25% | 26.3% / 14.6% | 65.8% / 36.5% | >100% / 91.2% |
+| L72 | North Ossetia-Alania | Notable | 309 (151) | 209 (116) | 50 to 66% | 65 to 86% | 24 to 32% | 34.5% / 19.1% | 86.2% / 47.8% | >100% / >100% |
+| L73 | Finland | Notable | 240 (117) | 162 (90) | 64 to 85% | 83 to 111% | 31 to 42% | 44.4% / 24.7% | >100% / 61.7% | >100% / >100% |
+| L74 | Ingushetia | Notable | 230 (112) | 154 (86) | 67 to 89% | 87 to 116% | 33 to 43% | 46.5% / 26.0% | >100% / 64.9% | >100% / >100% |
+| L75 | Karachay-Cherkessia | Notable | 212 (103) | 143 (80) | 73 to 97% | 94 to 125% | 35 to 47% | 50.0% / 28.0% | >100% / 69.9% | >100% / >100% |
+| L76 | Tuva | Notable | 152 (74) | 102 (57) | more than all (101 to 135%) | more than all (132 to 175%) | 49 to 66% | 70.2% / 39.2% | >100% / 98.0% | >100% / >100% |
+
+- **Readings** (C-2 (a)). The admitted set states no row's practices, so each reading is of capacity, not of what any row does (A).
+  - **Rows from Japan (126,123 at CI) down to Latvia (10,730):** every comparable form, a full-time officiant included, needs at most about 2.5% of the row's own humans at CII (C), and a fraction of one percent for most rows (A). The C.2 kill stands for these rows.
+  - **Rows from Manchuria (8,597) down to Northern Ireland (2,749):** an officiant needs about 3% to 10% of the row's humans at CII; a street, which is spatial and deferred, would need about 8% to 24% of them living in one place (C).
+  - **Dagestan, West Papua, Aceh and Patani (1,142 to 1,424 at CI):** an officiant needs about 19% to 23% of the row's humans at CII, and a 40-adult quorum about 8% to 9% (C).
+  - **The eight smallest rows, Chechnya down to Tuva (680 to 152 at CI):** a 40-adult quorum needs from about 16% to about 70% of the row's humans at CII. A full-time officiant needs 39% to 86% of the humans of four of them and more than all the humans of the other four. A street of 250 co-located residents is more than the human count of every one of the eight (C; A's figures agree).
+  - **The quorum: conflict resolved to the narrower reading.** B holds that every row has the numbers for a gathered liturgy and a conversation at both censuses, "if enough of its members keep the same practice". C showed in Round 3 that at a 40-adult quorum the smallest rows need most of their humans (Tuva, 70% at CII). A narrowed its own reading in Round 3. **Written here:** every row has quorum numbers at the small end of the real-world range (3 to 10 adults); at a 40-adult quorum, the eight smallest rows need from about 16% to about 70% of their humans at CII.
+  - **The kitchen: conflict resolved to the narrower reading.** B read twelve rows (Dagestan down to Tuva: 74 to 695 humans at CI and 57 to 534 at CII; recounted by C in Round 3) as lacking the human numbers for a kitchen living on co-ethnic trade alone, on the 800-customer figure. In Round 3, B withdrew any wider kitchen reading and kept only that narrow one; A held that no per-row kitchen verdict should rest on a figure of that reliability; C's comparables size a public kitchen by the city's demand and one producer who holds the skill. **Written here:** no per-row kitchen verdict is made. A public kitchen is not bounded by its row (seed; C, AM-P2-N12). Its customers are humans (B). A kitchen living on co-ethnic trade alone would need on the order of 800 customers, on a low-reliability figure, and the twelve rows listed have fewer humans than that (seed; B). Their food can still live in the home or on trade from the rest of the city (B).
+  - **Generations.** Every row is far below the real-world critical share of roughly 23 to 35 percent (the ceiling is about one in ten). In the comparable, groups below that share adopt the majority's practices. The divergence, stated: Davis has no majority origin, so the comparable's lower branch has nothing to adopt; what a small row's descendants join is the procedural civic layer and other rows' households, not a host culture (A; AM-P2-N9). Household transmission weakens as a row's size falls, through out-marriage; there is no threshold, so no row is cut off (B). The conversation is the form each row is least likely to carry across generations, and the small rows least of all; Davis has no replenishment, because separation is total (TREATY IV.1, IV.2.3) (C). Strength: seed for the generational readings (C); conditional for the rest.
+- **C-7 Q5.** For rows of a few hundred people, explicit means explicit when stated, not seen. Whether such a row's practice is visible to a stranger depends on whether the row can mount the assembling form at all, and on spatial co-location, which is deferred (A, B, C).
+- **Re-derived statement (conditional).** It rests on real-world comparables built in wage economies with a majority culture and continuing immigration, all three of which differ at Davis, and on the open question of robot carriers. C's wording, with A and B agreeing in kind:
+  > *In the rows of tens of thousands, no assembling form lacks numbers. In the rows of a few hundred people, forms that need a full-time officiant or a co-located street cannot be carried from the row's own human numbers, while quorum, household and conversational forms can be, in the present tense. Whether any of them crosses a generation depends on things canon does not state for any row: in-group marriage, internal officiant succession and co-location.*
+- **Pass locations.** P2 L939-951 (C.2: figures stale; the kill narrowed, AM-P2-F16); P2 L947 (a quotation of another file carries an old city total; the current CI total is 1,210,432; pointer only; found by one: K, C-2); P2 L951 (the model-output caveat is superseded by `DR-104` item 1; found by one: K, C-2 and C-4); P2 L955 ("21 substantial communities": the count is wrong, and "substantial" is ungrounded for the small rows); P2 L1448 (a record; pointer only, `DR-102`); P2 L1469 (P.1 feeds Phase 4 the two-layer structure: qualifier; B). P2 L1377-1378 (section K: "does not generalize crew-scale material") stays (B).
+
+### AM-P2-F16 The killed draft, narrowed, and how it meets C.4's lapse mechanism
+
+*Answers C-2 (c).*
+
+- **Found by:** A, B, C; K (C-2). **Disposition:** confirmed by all three.
+- **The pass's finding.** A draft held that at Davis "origin culture survives only in its one-person forms — the portable ones — and the assembling forms die" (P2 L941-942); the pass declared it "FALSE. KILLED." (P2 L944). C.4: "What survives lapse is not what was most loved. It is what had an external cadence or a second person who would notice." (P2 L998-999). Surviving origin material is therefore biased toward the calendar-locked and the household-locked (P2 L999-1001), a bias stated "IN KIND, qualitative and expressly UN-SIZED" (P2 L1002; K, C-2).
+- **Re-derived statements (conditional).**
+  - **The original universal stays killed** for every row from Japan down to the rows of a few thousand people (C; A, B). Its "only one-person forms" stays false in every row, because gathered forms survive in every row at the small end of the quorum range (A, B, C).
+  - **For the smallest rows the draft survives in a narrowed scope** (A, C; B calls it narrowed and not revived, a difference of wording only, which B noted in Round 3). C's narrowed wording, with A and B agreeing:
+    > *In Davis's smallest rows (by their own human counts at Census I: Tuva 74, Karachay-Cherkessia 103, Ingushetia 112, Finland 117, North Ossetia-Alania 151, Kabardino-Balkaria 197, Chechnya 331; Tibet 279 sits on a share whose reservation is in question), an origin practice that needs a full-time officiant or a co-located street cannot be carried from the row's own human numbers. Those numbers can carry the quorum, household and conversational forms. Whether any of these crosses a generation depends on in-group marriage, internal officiant succession and co-location, which canon does not state for any row.*
+  - **Specialists must be trained at Davis** (found by one: A; adopted by B in Round 3). Even the large rows' specialist forms need specialists trained somewhere. With return barred for human electors (TREATY IV.2.3) and no passage recorded (V.3), origin specialists cannot be renewed from the origin, so they must be trained at Davis from the household and the record. Whether origin specialists were among the founding exiles is reserved (AM-P2-R11).
+- **How it meets C.4** (four compatible refinements; all three agreed in Round 3 that they merge):
+  - **The second person is scarcer in a small row** (found by two: B, C). Small groups marry out more, so the second person in a small row's household is less likely to share the practice, and C.4's bias toward the household-locked holds least in the smallest rows. Proposed restatement of the bias (B): *toward the calendar-locked; toward the household-locked only where households stay in-group, which is least likely in the rows of a few hundred people.* A seed, not adopted (B): in a mixed household the noticing second person may come from another row, so a small row's practice can survive outside its row.
+  - **A quorum lapse has a moment** (found by one: A; seed; AM-P2-N10).
+  - **Lapse steps down before it stops** (found by one: C; seed; AM-P2-N11).
+  - **Size alone does not decide** (C; conditional). The Samaritans fell to about 146 people, most often dated 1917 (A's Round 3 correction of C's "19th century"), and kept their liturgy and priesthood under endogamy and co-location while their daily speech shifted. At Davis, the keeping of group boundaries is unstated for every row.
+  - **The conversation is the form C.4 should expect to lapse first, in every row** (C; seed). Third-generation home-language loss is the norm under intermarriage without replenishment, even in very large groups: in 2000, 71% of third-generation Mexican-American children spoke only English at home (University at Albany, 2004). The Sorbs, about 60,000 people with schools and co-official status, rarely pass Lower Sorbian on outside a compact core.
+  - In Cape Breton, Gaelic heritage "has most often survived through traditional songs, dance and stories" while home transmission failed (B). With Gans 1979 (symbolic ethnicity persists in visible, easily expressed symbols; the holiday link is a later extension), this supports the calendar-locked half (B).
+- **Class.** The pass's "FALSE. KILLED." (P2 L944) is narrowed, not reversed: killed by evidence for the large rows, surviving in a narrowed scope for the smallest (A, B, C).
+- **Pass locations.** P2 L939-951 (the kill, narrowed); P2 L998-1005 (C.4 refined, not reversed); P2 L1471 (P.1 feeds Phase 6 the C.4 bias: qualifier; B).
+
+
+### AM-P2-F17 The unit of an origin practice
+
+*Answers C-2 (d).*
+
+- **Found by:** A, B, C; K (C-2). **Disposition:** confirmed by all three.
+- **Current inputs.** CENSUS L841: "A country that split is written as its successor states, each taking its share of the old country's people". CENSUS L845-871 give the mapping. CENSUS L877: the Sinian Federation is "China's nine Han states, with Hong Kong and Macau"; "Mongolia (with Inner Mongolia)"; "Taiwan is a separate nation." CENSUS L878: Korea is South Korea and North Korea, and of Jeju-do, "its people count as Korea's". CENSUS L858: "| Ukraine | Russia (core state) |". SPEC L28 lists today's Mongolia among the pools new at this city (the percentage there is not a share, S1 L24-25).
+- **Re-derived statement (conditional).** B graded the whole entry conditional; A and C graded the structure firm and its content open or null. The weakest grade governs.
+  - **Three units** (A, B, C; K):
+    - *A practice shared across one split country's rows.* Its carriers may be pooled, as an aggregation inside Davis's own table (PROVISIONAL, AM-P2-Q14). The pooled sizes are in AM-P2-F13. A shared practice still has to be established before a pool is used (A), and which practices are shared is not in canon (B, C).
+    - *A practice belonging to one row alone.* That row's own headcount only.
+    - *A regional practice-set inside a merged row.* The merged row's headcount is a ceiling, and the regional subset's carriers are unsized, since no admitted line splits a merged row. The merged rows: the Sinian Federation (nine states and two cities); Korea (two halves, with Jeju-do's people counted as Korea's); Mongolia (China's piece with Inner Mongolia, plus today's Mongolia as a new pool); Russia (core state), which also carries part of Ukraine's people (A, B, C).
+  - Taiwan is a separate nation and is not pooled with the Sinian Federation by Section E (C).
+  - The pooled labels are approximate: the Mongolia row also holds today's Mongolia's people, and Russia (core state) holds part of Ukraine's (A). A's first claim that Austro-Bavaria holds Austria's people was withdrawn in Round 3 (AM-P2-F18); old Germany's pooled figure of 120,256 is unchanged either way (A in Round 3).
+  - Which practices fall into which unit is not in admitted canon. Real-world comparables may only illustrate, with the divergence operator applied, and never by a row's name alone (C).
+  - **K's hypothesis (C-2).** For Romania, Ukraine, Thailand and Indonesia, Section E lists only the rows that took part of the old country's people, yet Davis keeps a row under each continuing name. So even a row named for a continuing nation may carry another former country's people (CENSUS L858). Recorded as a hypothesis (AM-P2-R18).
+- Merged rows overstate the carriers of any one regional practice (AM-P2-N8).
+
+### AM-P2-F18 What a successor row's stock is
+
+*Answers C-2 (e) and part of C-3 Q1. PROVISIONAL on C-2's developer answer (2).*
+
+- **Found by:** A, B, C; K (C-2). **Disposition:** confirmed by all three, after A withdrew its Austro-Bavaria claim in Round 3.
+- **Current inputs.** CENSUS L841: the tables write every country in its "latest-period form (the world atlas's latest period)". LOG L1527: "At the time of the latest period along the timeline." LOG L1528 item 1 names the author's atlas. CENSUS L857: "| Russia | Chechnya, Dagestan, Donska-Kubania, Finland, Idelsk-Uralia, Ingushetia, Kabardino-Balkaria, Karachay-Cherkessia, Künnarantaiga, North Ossetia-Alania, Russia (core state), Siberia, Tuva |". CENSUS L862-863 map Germany and Austria to Austro-Bavaria; CENSUS L866 maps the UK to Northern Ireland and the United Kingdom; CENSUS L869: "| Indonesia | Aceh, West Papua |"; CENSUS L870 maps Thailand to Patani; CENSUS L871: "| Romania | Hungary |". SPEC L28 lists the pools new at this city: "Hong Kong 0.88%, Macau 0.10%, Taiwan 2.92%, Mongolia 0.09%, North Korea 0.36%" (the names only are used; the percentages are not shares, S1 L24-25), and Kazakhstan was added later (LOG L1602). UEIC L597-599: the pre-rework rows include Russia and Romania and no Finland or Hungary (A, C).
+- **Re-derived statement (conditional; PROVISIONAL).** A successor row's stock is the people of the in-world latest-period unit, read through Section E. The real-world population of that territory is the comparable, with the divergence operator applied, never the name alone. At Davis:
+  - **The Finland row** (240 people at CI) carries a share of the old Russia's people (CENSUS L857), not the real-world Finnish nation (A, B, C; K).
+  - **The Hungary row** (3,488) carries a share of the old Romania's people (CENSUS L871) (A, B, C; K).
+  - **Austro-Bavaria at Davis carries only Germany's people.** CENSUS L862-863 map both Germany and Austria into that row nationally, but SPEC L28 lists no Austrian pool among the pools new at this city (found by two: B, C; B marks it an inference; A withdrew its contrary claim in Round 3).
+  - Northern Ireland carries the UK's people; Aceh and West Papua carry Indonesia's; Patani carries Thailand's; Russia (core state) carries Russia's, plus part of Ukraine's (B, C).
+  - Which territory each successor unit took is in the atlas, which is in no reader's list (AM-P2-R4, AM-P2-Q13). Reading a stock off a row's name is a misreading (A).
+  - Two row names, Korea and the Sinian Federation, coincide with 2564 Assembly Powers in the draft treaty (TREATY L15: "Unified Korea, the Sinian Federation"). For the other rows, whether a split predates 2564 is not in admitted canon (A, B).
+- **C-3 Q1.** In the tables, the unit of origin is a latest-period territorial label (PROVISIONAL, AM-P2-Q16; A, B, C; K, C-3).
+
+### AM-P2-F19 Do a row's robots carry its origin practices? (`H2`, fire #13)
+
+*Answers C-2 (f) and part of C-3 Q5.*
+
+- **Found by:** A, B, C; K (C-2, C-3). **Disposition:** confirmed by all three for the carrier count. The canon-level statement about founding-era robots is found by one (C).
+- **Current inputs.**
+  - SPEC L78: "Robot figures apply the same proportions as the human population."
+  - PHYS L191: the culture-and-ethnicity law "applies to robots exactly as to humans". PHYS L221: in Act 1, "origin cultures FRESH".
+  - PHYS L210-211: "if they're built in Tepenia and also learn from the humans and other robots they're in the community of, their cultures will be different as well".
+  - PHYS L216: "The transmission channel is the COMMUNITY, not the fabrication". PHYS L217 seats robot identity in the city, "not in origin, not in Gen/Mark, not in build".
+  - PHYS L418: "robot kinship runs on shared experience, not fabrication lineage" (B).
+  - PHYS L422 and L424: a build is initiated by "a local robot community acting on a local interest, or a human commissioning one". PHYS L426: robot vernacular tracks "the dominant local culture and the community who had her built".
+  - PHYS L27-45: robots are human-looking and ordinarily clothed (B). PHYS L67, L103-105. TREATY L46.
+- **Re-derived statements (conditional).**
+  - **A row's robot count is a construction, not a count of carriers** (A, B, C). The robot column is the human proportions applied and carries no robot-specific origin information. A row's robot count is no evidence that those robots carry the row's practices.
+  - **Two classes of robot at Davis** (C; B called the split fuller than its own in Round 3):
+    - *Robots exiled in 2564.* Their ground was residence on Assembly territory (II.2.1). Canon applies the culture law to them as to humans (PHYS L191) and gives Act 1 people their origin cultures fresh (PHYS L221), so founding-era robots held origin cultures (found by one: C). A called this plausible and unstated; C read that in Round 3 as an understatement, not a contradiction, since A spoke of particular practices. With no senescence these robots can be present throughout the frame; how many remain is unstated.
+    - *Robots made later.* Their culture runs through the community, their language tracks the dominant local culture and the community that had them built, and their identity is seated in the city. At Davis no origin is the dominant local culture, and whether an origin community commissions builds is unstated.
+  - That a particular row's robots carry a particular practice is unstated (all three).
+  - **The carrier count** (A, B, C; K): the count that rests on no open question is the row's human headcount, plus an unsized number of robots in its community. For the ten smallest rows that is 74 to 567 humans at CI and 57 to 435 at CII. The total is an upper figure that holds only for robots who carry the practice.
+  - **`H2` narrows** (A, B, C). For an exiled robot, national origin is a residence fact (II.2.1) plus a lived culture. For a robot made in Tepenia, canon supplies the transmission channel (the community) and the seat of identity (the city), and no line assigns it a national origin; the census's assignment of robots to rows is a modeling device (B, C). Whether a census origin means anything for such a robot is unstated (A).
+  - The refusal to read rows or tiers as robot density now rests on construction stated in the text (SPEC L78), a stronger ground than fire #11 (AM-P2-F23).
+- **Pass locations.** P2 L604-608 (`H1`: partly filled by PHYS L432, AM-P2-N4); P2 L900-916 (fire #13 and `H2`: partly answered; B, C); P2 L1076-1078 (the refusal: re-ground on SPEC L78); P2 L1395-1396 (`H1`, `H2`); P2 L1369 (section K's "Does not assert robot longevity": the longevity part is now canon; C, AM-P2-N2).
+- The developer question is AM-P2-Q9.
+
+### AM-P2-F20 Whether a row of a few hundred people has a street
+
+*Answers C-2 (g).*
+
+- **Found by:** A, B, C; K (C-2). **Disposition:** confirmed by all three.
+- **The pass's finding.** The spatial distribution of the origins is deferred by `DR-4`, and there are no sub-locations yet (Collision 1, P2 L56-70; P.2 item 1, P2 L1482-1483).
+- **Re-derived statement** (null for whether any row has a street; firm that the question is deferred).
+  - A street, meaning a co-located concentration, needs co-location by definition. `DR-104` lifted nothing spatial (LOG L1703), so `DR-4`'s bar on spatial claims stays (PROVISIONAL, C-2's developer answer (1); AM-P2-Q11). P.2 item 1 stands, and it is also blocked by the deferral of the step that would divide Davis into sub-locations (C).
+  - A headcount is necessary, not sufficient. The pass's scale check treated numbers as enough for a street (P2 L949-950; B).
+  - For the smallest rows a street would need nearly all of the row's people in one place (AM-P2-F15).
+  - Whether any row has a street: none is sited here, because the question is deferred; never none is possible here (A).
+- **Research.** No source tests a headcount threshold for a street. Ethnic precincts form through entrepreneurs clustering and through designation by authorities and place marketers (Collins; C). Real-world dispersed communities hold together without a street, through institutions, telecommunication and personal visits ("heterolocalism", Zelinsky and Lee 1998; A). The divergence, stated (A): at Davis the homeland half of that channel is cut, since human electors may not return (TREATY IV.2.3) and robot personhood is withdrawn there (IV.1.1).
+- **Pass locations.** P2 L949-950 (numbers for a street are necessary only); P2 L1482-1483 (stays; 21 becomes 45).
+
+### AM-P2-F21 C.3: the two layers, the staffing, the single mechanism and the civic layer
+
+*Answers C-2 (h) and (i).*
+
+- **Found by:** A, B, C; K (C-2). **Disposition:** confirmed by all three. Whether to name a contested factor in the yield is a conflict resolved to the narrower reading.
+- **The pass's finding.** P2 L955: "21 substantial communities, and none of them able to make its own habit the city's default." P2 L957: "A practice can be sustained internally at full strength." P2 L959-960: anything civic "cannot be inherited from any stock. It has to be BUILT, and built in a form twenty-one communities can all run." P2 L963: "A rich internal layer, twenty-one-fold, fully staffed, carried at full scale — and a thin, explicit, procedural civic layer that belongs to nobody and works for everybody." P2 L965: "the only thing that had to be built from nothing". P2 L975: "a SHAPE that acts identically on all twenty-one stocks". P2 L1014: "The transplanted layer supplies 21 origins that organize nothing. The native layer supplies one method that organizes everything." P2 L1020: "plural and thick on the inside, thin and explicit in common".
+- **Current inputs.** AM-P2-F15; LOG L1527 (the national language is, at its core, a pidgin of English and Japanese). Research (B): a pidgin is a contact language that is not the native language of any speech community; a creole results when children acquire it.
+- **Re-derived statements (conditional).**
+  - **Proposed C.3** (merged from A, B and C):
+    > *A rich internal layer, forty-five-fold, whose depth is set by each row's own headcount: fully staffed and thick where a row runs to tens of thousands; reduced to quorum, household and conversational forms where it runs to a few hundred. And a thin, explicit, procedural civic layer that belongs to nobody and works for everybody.*
+  - "fully staffed" holds only for rows in the tens of thousands, and even there only for staffing on numbers: specialists must be trained locally (AM-P2-F16), and carriage across generations is not established (A).
+  - "acts identically" becomes: *acts by one mechanism (lapse, C.4), with a yield set by each row's own headcount* (A, B, C; K, C-2 (h)). The mechanism is identical; its effect is not (K).
+  - **Conflict resolved to the narrower reading.** C added two factors to the yield: how hard a practice is to learn (Henrich 2004, a contested thesis) and whether the row keeps its own officiants and marriages. A held in Round 3 that the contested factor should stay out of the docket wording and be kept as a seed; B found it acceptable as labeled. **Written here:** the docket wording names headcount only, and C's two factors are kept as seeds. Henrich's thesis is contested (Collard and colleagues; Read 2006).
+  - **C-2 (i), the civic layer and the national language** (A, B, C). For the city's method, the procedural civic layer, built at Davis stands. For the city's medium the claim is too wide: the national language is at its core a contact language formed from two stocks, neither inherited intact nor built from nothing. It is national context, true everywhere, and never a Davis differentiator. Proposed C.3 item 2 (merged):
+    > *Anything civic that is Davis's own (its method) could not be inherited whole from any one origin and had to be built at Davis. The common medium is national: a contact language at its core (national context).*
+  - P2 L974 (no trait is assigned to Davis from any single nation's real-world culture) stays (B).
+  - **C's cautions** (found by one: C). The developer's line at LOG L1527 gives an authoring reason why two rows stay large; it must not be read as ranking Davis's rows. When the national language formed (Act 1 or Act 2) is unstated, so `H10` (P2 L1404) is touched but not answered.
+  - The phrase "the only thing that had to be built from nothing" (P2 L965) also needs the qualifier of AM-P2-F28: built at Davis by the exiles, from the inherited record and their own era's skills (found by one: A; adopted by C in Round 3).
+  - **C.5 survives as a city-level statement** (K, C-2). The claims that the origins "organize nothing" and that one method organizes everything do not depend on the row count, and "plural and thick on the inside" is supported by the 25 rows of 7,696 or more people. Only the count is wrong. B: L1020 stays, with the staffing qualifier.
+- **Pass locations.** P2 L955 (count; "substantial"); P2 L957-958 ("sustained internally at full strength": ungrounded for the small rows; found by one: K, C-2); P2 L959-961 (qualifier); P2 L963-965 (staffing; built from nothing); P2 L972-976 (stock of twenty-one; acts identically); P2 L1014 (count only); P2 L1020 (stays, with the staffing qualifier).
+
+### AM-P2-F22 E.1: the unit of origin, ground or polity, absences, and the converse
+
+*Scope item 5. Answers C-3 Q1, Q2 and Q3.*
+
+- **Found by:** A, B, C; K (C-3). **Disposition:** confirmed by all three for the unit and for absences. Ground or polity is a conflict resolved to the narrower reading. The converse point is found by one (C).
+- **The pass's finding.** "A place with no robots produced no robot exiles — and therefore no human ones either." and "It is the set of places that had no robots." (P2 L1067). "Davis's 21 origins are not a sample of humanity." (P2 L1071-1072), but a sample of where robots were.
+- **Current inputs.** TREATY L5: the excluded are small nations with "no robot populations of their own" (the same at TREATY L140 and RWI L21). TREATY L46 (II.2.1, territorial): "presently residing within the territory of any Assembly Power". TREATY L48 (II.2.3); TREATY L15. CENSUS L841, L845-871 and L877-878. LOG L1527. LOG L551 (`DR-19`): the time-zone window gates the Notable tier only; "Large pools reach any city by size". LOG L1603: "the roster of 43 was built before the successor-state rework". NNS L44: "a separate binding rule that no South Asian population ever came to Tepenia at all". K (C-3): every one of the 45 rows carries a nonzero robot count at CI (SPEC L32-76), and no current row is one of the treaty's excluded examples.
+- **Re-derived statements.**
+  - **Q1, the unit** (PROVISIONAL; A, B, C; K). In the tables, a row is a latest-period territorial label carrying a headcount share of an old country's people (CENSUS L841). In-world, a founding robot's departure ground is residence on Assembly territory (II.2.1); a human's qualifying ground is a tie to the robot population, with no place in it (II.2.3). For E.1's inference to run, origin must mean the ground of residence at departure (C). Two labels coincide in name with 2564 Assembly Powers; whether the atlas's latest period comes before 2564 is unstated (A).
+  - **Q2, ground or polity: conflict resolved to the narrower reading.** A: the inference attaches to the territory of the 2564 polity whose pool a row draws on, not to the ground. B: it runs at polity level, to the extent each row's ground lay inside a member's territory at 2564, which canon does not state label by label. C: it runs on ground (II.2.1 is territorial), with split rows' membership coming from the parent pool. K (C-3): it holds only if read as territory, not polity. In Round 3, C held that A's wording equates the pool's old country with the 2564 polity, which is unstated; A called the substance the same. **Written here:** the inference holds at the level of the parent pools (the robot-holding world), not as a datum about each labeled piece. Whether its unit is the territory of a 2564 polity or the ground now so labeled is left open, because where the atlas's latest period falls relative to 2564 is unstated. Split labels (Tibet, Tuva, Patani, Aceh, West Papua and the others) are present through a headcount split of a parent pool, with robots set at human proportions; their membership shows that the parent's people are present, not that robots were measured on that piece of ground (C; K). The same holds for merged labels (Mongolia) and for labels carrying a former parent's people (Finland, Hungary). Strength: conditional (B).
+  - **A's illustration** (found by one: A; the geography was searched and logged). The treaty's own excluded example, Papua New Guinea, a non-member with no robots, shares the island of New Guinea with the ground of Davis's West Papua row, whose people are a headcount share of Indonesia's pool (CENSUS L869).
+  - **Authoring omissions are not absences** (found by one: K, C-3). Taiwan and Kazakhstan, pools for places never counted before, show that a place's earlier absence from the table was an authoring omission, not an in-world absence, which is consistent with the pass's E.0 (P2 L1056-1058).
+  - **Q3, absences** (firm; A, B, C; K). No absence can be read from row names. A label absent from Davis's table may be folded into another row (Hong Kong and Macau into the Sinian Federation; North Korea and Jeju-do into Korea; China's pieces into the Sinian Federation outside their windows), excluded by the window (LOG L551; SPEC L28), never counted (LOG L1603), or ruled absent nationally on a separate rule (NNS L44). This is C's fuller list, adopted by A in Round 3. A name missing from the table is not evidence of missing people.
+  - **The converse fails** (firm; found by one: C; adopted by A and B in Round 3; AM-P2-N22). E.1 may state only the one-way implication: no robots means no robot exiles. Its converse, that the absent set is the set of places without robots, is contradicted at the national tier by an absence canon grounds on a separate rule (NNS L44), which the pass itself records (P2 L1137). This is national context and never a Davis differentiator.
+  - **A tension in the pass** (found by one: K, C-3). The headline at P2 L1067 makes a national-scope claim about origins absent from Tepenia, while P2 L1079-1081 disclaims the national set. Recorded, not resolved.
+- **Re-derived second order** (firm on membership; conditional for the human half), merged from A, B and C:
+  > *Davis's 45 origins are drawn only from the pools of polities that, by the treaty, held robots: territories from which robots, and the humans tied to them, departed under II.2. Which places reached Davis was set by II.3.2's arrangements, which canon does not record, and the set says nothing about how robots were distributed.*
+- **Pass locations.** P2 L1062-1074 (restate); P2 L1067 (the converse; the human half, AM-P2-F24); P2 L1069-1070 (the entire origin stock: conditional on the human half; K, C-3); P2 L1071-1072 and L1079-1081 (21 becomes 45; restated as membership); P2 L1077-1078 (needs the ground-or-polity qualifier above; K, C-3); P2 L1436 (section N's row for the treaty influences, the mechanism behind E.1, stands narrowed; C).
+
+### AM-P2-F23 E.1's third order, and the refusal to read robot density
+
+*Answers C-3 Q4 and Q5.*
+
+- **Found by:** A, B, C; K (C-3). **Disposition:** confirmed by all three for the kill, after B's Round 3 withdrawal. Two sub-points are conflicts resolved to the narrower reading: the time-zone window as an in-world proxy, and the status of fire #11.
+- **The pass's finding.** The third order: Davis's composition is "a fossil record of the pre-exile global distribution of robot manufacture, employment and residence" (P2 L1073-1074). The fourth order is refused, "FIRE #11 FORBIDS IT" (P2 L1075-1076); what survives is membership, not rank (P2 L1077-1078). Fire #11 (01 L78; P2 L317) reads the tiers as "a PRODUCTION WEIGHT, not a social fact" whose meaning is nowhere stated.
+- **Current inputs.** SPEC L28: rows added by time-zone window, pools for new places estimated on income and inequality (LOG L1528), two random multipliers, and refills. LOG L551: the window gates the Notable tier only. SPEC L78: the robot figures copy the human proportions, and tier labels follow the final shares ("boundaries fall at the largest ratio gaps"). LOG L1703.
+- **Re-derived statements.**
+  - **Q4: the third order is killed by evidence** (A, C; B withdrew its class, for want of an admitted line, in Round 3). Davis's row set is placed by construction: pool size, the window for the Notable tier, headcount splits, pools estimated on income and inequality, two random multipliers, a ruling that folds a place into another row (CENSUS L878), and a robot column copied from the human proportions (SPEC L78). A set partly placed by a geographic window cannot be global, and a distribution of robots cannot be read from figures that copy human proportions (K, C-3). C adds in Round 3 that both classes apply, at different layers: at the authoring layer the construction is positive evidence; in-world, no line says the composition records a distribution. Both are recorded. The word "employment" is killed for want of an admitted line (AM-P2-F24).
+  - What survives is a membership statement (AM-P2-F22).
+  - **The window is not an in-world proxy: conflict resolved to the narrower reading.** A read the window as standing in-world for geography and access (NNS L9). C held in Round 3 that NNS L9 concerns founders, and that S1 L24-25 binds SPEC L28's window clause as a limit only, so an in-world reading uses it beyond a limit. **Written here:** the window is an authoring-layer method, bound as a limit only; no in-world reading of it is made.
+  - **Q5** (firm; A, B, C; K). The refusal to read rows or tiers as robot density now rests on construction stated in the text: SPEC L78 makes the robot column a copy of the human proportions, so no row or tier can show robot density at all. This is a stronger ground than fire #11.
+  - **Fire #11's "tier semantics never stated" (01 L78): conflict resolved to the narrower reading.** A held it superseded by SPEC L78's labeling rule, and C agreed in Round 3; K (C-3) read SPEC L78 as now stating the tier semantics. B held in Round 3 that SPEC L78 states only the production rule for labels, an authoring-layer meaning, and says nothing of what a tier means in-world. **Written here:** a qualifier, not a supersession:
+    > *SPEC L78 now states the production rule for tier labels. What a tier means in-world remains unstated. The guard stands, now on L78.*
+  - K (C-4) adds that SPEC L78 reverses the pass's direction: the pass put the weight on the tiers, and the labels now follow the shares.
+- **Pass locations.** P2 L1073-1074 (killed); P2 L1075-1078 (the refusal stands; re-ground on SPEC L78); 01 L78 (qualifier); P2 L317 (the same premise; K, C-4).
+
+### AM-P2-F24 E.1's human half, and manufacture, employment and residence
+
+*Answers C-3 Q6 and Q7.*
+
+- **Found by:** A, B, C; K (C-3). **Disposition:** confirmed by all three. That manufacture has a loose ground is found by one (C).
+- **Re-derived statements.**
+  - **Q6** (conditional; PROVISIONAL on C-3's developer question 15, AM-P2-Q15). That a place without robots sent no human exiles holds only if a human's origin row records residence at departure. II.2.3's grounds are ties to the robot population, not to a place: a national of a polity without robots who lived among robot communities elsewhere could elect to go, and which row would count such a person is unstated (A, B, C; K). The gap was already in the pass before the inputs changed (K, C-3). The same condition applies to P2 L1069-1070's claim about the entire origin stock.
+  - **Q7.** II.2.1 supplies residence ("presently residing") and coming into being ("may hereafter come into being"). The word "employment" has no admitted line: killed for want of an admitted line (A, B, C). "manufacture" has a loose ground in PHYS L422: on Upper Earth before 2564, "a human commissioning a robot could have it built fully to their own personality specification" (found by one: C; A and B withdrew, in Round 3, their claims that manufacture is unsourced). It still grounds no distribution. Proposed: *robot residence and coming into being (II.2.1), with manufacture loosely grounded (PHYS L422).*
+- **Pass locations.** P2 L1067 (the human half: conditional); P2 L1069-1070 (conditional; K); P2 L1074 (employment unsourced; the third order is killed in any case).
+
+
+### AM-P2-F25 What crossed the founding gap, and why it still worked
+
+*Scope item 6. Answers U-2 Q23, Q24 and Q29. PROVISIONAL on U-2's developer answer Q31.*
+
+- **Found by:** A, B, C; K (U-2). **Disposition:** confirmed by all three.
+- **The pass's finding.** B.6 (P2 L708-743): persons inherited with the place, zero (P2 L712); records inherited, under the heading "OCCUPIED FOR RECORDS" (P2 L708, L713); the persistence test run on the journals, logs and orientation manuals (P2 L719-721); "DAVIS INHERITED A LIBRARY AND NOT A SOUL." (P2 L728). 02 L94, G4's strength: "A documentary inheritance that still works". 02 L166-167: the record "survived usefully because its subject did not change".
+- **Current inputs.**
+  - SPEC L151: settled "on Davis Station infrastructure"; "the station was continuously maintained by a rotating succession of national operators"; "preserved journals, logs, and orientation manuals left behind across the centuries gave the exiles a real documentary starting point"; "Learning from a written record isn't the same as being taught by a living institution, and the exiles still built their own practical mastery of the terrain independently, over generations of their own."
+  - LOG L626 (`DR-24`, the developer's words): infrastructure, "provided it's maintained, or at least not-degraded", can outlast its station founders. (C corrected A's citation of L631 for these words in Round 3.)
+  - LOG L645 (`DR-25`): "records, logs, journals, manifests, maps". LOG L661 (`DR-26`): the station's research (data, results, ongoing datasets), its equipment and its techniques, which a city may "carry it on as its own".
+  - NNS L15: "why the infrastructure was still functional". NNS L21: "Records, research, results, equipment and techniques can cross the gap; personhood cannot." and "the techniques written into them".
+  - Division of Industry README L3-6: "a city's inherited infrastructure, records, research, equipment and techniques are facts it may build on" (K, U-2).
+- **Re-derived statements.**
+  - **U-2 Q23** (firm; A, B, C; K). *Stated at Davis:* the station infrastructure, and the journals, logs and orientation manuals (SPEC L151). *Admissible and unstated at Davis:* manifests and maps (`DR-25`); research data and results, ongoing datasets, equipment, and techniques beyond those written into the manuals (`DR-26`; NNS L21). These are an open slot, not invented (AM-P2-Q20).
+  - **U-2 Q24** (conditional, B's grade; A graded it firm). There are two different reasons. Written records and written techniques still worked because the artifact persists (the persistence test of `DR-7`) and their subject is stationary (02 L164-167). Infrastructure still worked because it was maintained across the operator chain (SPEC L151; LOG L626; NNS L15). Equipment, if any crossed, would likewise depend on maintenance (B). Datasets, if any crossed, would rest on stationarity and on instrument continuity (C).
+  - **U-2 Q29** (conditional; seed for the mechanism, A). Real-world long station records are broken by relocations, instrument changes and observer changes, and their own logs and metadata are what date the breaks (A, B; section 8). If instruments crossed with the logs, which is unstated, the record's usefulness also rests on instrument continuity and on reading its own breaks from its logs; the subject's stationarity (02 L166-167) is then necessary, not sufficient, for an instrumental series (B). A record kept by a rotating succession of operators over centuries is, on that comparable, a record full of breaks. That gives G4's standing cost, "Maintaining the verified/inherited distinction" (02 L96), a mechanism: every entry carries a question of which hand and which instrument (A; seed).
+- **Pass locations.** P2 L708 and L712-713 (the heading, and a table with no row for the plant: add one; A, C; K); P2 L728 (AM-P2-F27); 02 L94 (AM-P2-F26).
+
+### AM-P2-F26 G4 gains a material strength and an upkeep cost, and its relation to D6
+
+*Answers U-2 Q25. This is a Step 2 item; it is docketed here as a pointer for its own piece (B, C).*
+
+- **Found by:** A, B, C; K (U-2). **Disposition:** confirmed by all three. The plant's scale is a conflict sent to the developer.
+- **The pass's finding.** G4's strength, "A documentary inheritance that still works" (02 L94); its standing cost, "Maintaining the verified/inherited distinction" (02 L96); D6, "Cannot make its own plant" (02 L125, L251).
+- **Re-derived statement (seed: C's grade; A graded it conditional, with seed for scale; B conditional).**
+  - G4 gains a second strength item, **an inherited station plant, maintained across the operator chain up to 2564** (SPEC L151), and a second standing cost, **its upkeep**. State only what SPEC L151 states.
+  - They meet D6 directly. The city's first plant was inherited, and the parts and replacements it needs are exactly what D6 says Davis cannot make, so D6 bites from the founding day, not only at scale (A). Plant Davis cannot make must be carried and repaired across intervals and, beyond repair, replaced from elsewhere (B), from wherever D6's unresolved address points (02 L285-297; C). This places the inherited plant inside the standing-cost uniformity of 02 L146, "the cost of carrying something across a gap in which it cannot be replenished" (B, C).
+  - **K (U-2), conditional** (found by one: K). 02 L140's STRENGTH row, "something this place was given or built and need not renew", fails for G4 if a maintained material inheritance enters G4's strength cell, because a maintained plant has to be renewed.
+- **The plant's scale: conflict sent to the developer.** The in-world plant's size in 2564 is unstated (A, B, C). A researched the real station's present-day capacity as a scale caution (about 90 to 100 people in summer, about 20 in winter) and argued that, set against 1,210,432 people at CI, the inherited plant can only have been a founding-era nucleus. B held in Round 3 that a present-day figure says nothing about an in-world plant after five more centuries of rotating maintenance and should be left out. A and B both put the question to the developer (AM-P2-Q21). Meanwhile this piece states only that the plant's size relative to the city is unstated.
+- **Pass locations.** 02 L94-97 (add the strength and the cost, PROPOSED, for a Step 2 piece); 02 L140 (conditional; K); P2 L712-713 (AM-P2-F25).
+
+### AM-P2-F27 The filter at the gap, and what the inheritance confers
+
+*Answers U-2 Q26 and Q27. PROVISIONAL on U-2's developer answer Q32.*
+
+- **Found by:** A, B, C; K (U-2). **Disposition:** confirmed by all three. Three sub-points are conflicts resolved to the narrower reading.
+- **The pass's finding.** P2 L724: "The LIVING institution required occupation. The WRITTEN RECORD did not." P2 L733-737, the second order: in-world, the persistence test describes the selection filter, "whatever crossed the gap was, necessarily, the class of thing that does not require an occupant", so Davis's whole inheritance is indifferent to who holds it, and "A record brings none." P2 L738: "An inheritance with no heirs cannot produce a claim of precedence". P2 L739-740: "the thing that was here first is a document, and it has no interest." P2 L742-743: "The only inherited thing was the one class of thing that confers nothing."
+- **Current inputs.** LOG L636-639 (`DR-25`, the developer's words): a tradition "is personally passed down from one group of people to another, which is not possible here". LOG L646: a tradition "that passes person to person, and no one carried it across the gap". LOG L626 (`DR-24`): the maintenance condition. LOG L632 (`DR-24`) and LOG L662 (`DR-26`): the operator is never the reason for the city's "founders, identity, culture or ties". LOG L552 (`DR-19`). LOG L648 (`DR-25`): a row headed "Records can draw people", which rests on another location (not used). NNS L21; NNS L170: "just not living instruction or tradition".
+- **Re-derived statements.**
+  - **U-2 Q26** (firm; A, B, C; K). The in-world filter at the gap is **person-to-person transmission, not occupancy**. Infrastructure crossed precisely because the operator chain occupied and maintained it up to the gap (SPEC L151). Proposed restatement of P2 L733-737 (merged from A, B and C):
+    > *In-world, the persistence test describes what reached the exiles: the class of thing that does not have to pass from one person to another. Records crossed because they persist without a reader; the plant crossed because its operators kept it up until the exiles took it over. What needs a person to hand it to a person, a tradition or living instruction, could not cross. A population inherited with a place brings obligations, claims and grudges; a record brings none, and a plant brings only its own upkeep.*
+  - **P2 L724: conflict resolved to the narrower reading.** C proposed restating the line on transmission; K (U-2) held that it stands. **Written here:** the line stays as a true statement about the living institution and the written record. The filter is restated at P2 L733-737 only, so P2 L724 takes a pointer, not a correction.
+  - **U-2 Q27** (firm; A, B, C). The inheritance confers **capability** (orientation to the terrain from the records and written techniques; shelter and function from the plant) and **an obligation to the thing itself** (upkeep). It confers **no claim, no draw, and no standing, precedence or legitimacy** for any person: there are no heirs; LOG L632 and L662 forbid the operator as a reason for founders, identity, culture or ties; and LOG L663 forbids continuity wording (B, C). The draw recorded under `DR-25` (LOG L648) concerns another location and is not applied (PROVISIONAL, AM-P2-Q17).
+  - **The ground for "no claim": conflict resolved to the narrower reading.** A grounded it partly on TREATY II.1. C held in Round 3 that TREATY L43 (II.1) governs the Assembly Powers' territorial claims to Antarctica and says nothing about claims arising at Davis from inherited records or plant. **Written here:** "no claim" rests on `DR-19` and `DR-24` (LOG L552, L632) and on the absence of heirs; II.1 is not used as its ground.
+  - **The third order stands, with the plant added.** An inheritance with no heirs cannot produce a claim of precedence (P2 L738; A, B, C). Its phrase "the thing that was here first is a document" (P2 L739-740) needs the plant beside the document, since the station was also here first (found by one: K, U-2). B and C kept L738-740 as standing, and this qualifier does not disturb that, because the no-precedence conclusion is unchanged. Knock-on phrases of the same kind (found by one: K, U-2): "What was here first at Davis is a document" (P2 L632-633); "Inherited a RECORD instead" (P2 L846); "the mode's product inverted into a record" (P2 L1451).
+  - **The fourth order: conflict resolved to the narrower reading.** A narrowed "confers nothing" (P2 L742-743) to confers no claim, standing or precedence. K (U-2) found it false as an inventory, with the conclusion surviving on the corrected ground. C's own account (capability and upkeep are conferred) implies the same. B held that L738-743 stay. **Written here:** the narrower claim, *the only inherited things were of the classes that confer no claim, standing or precedence on any person.* It is narrower than "confers nothing", and it fits every reader's own account of what the inheritance confers, B's included, since B's own answer to U-2 Q27 lists capability and upkeep. K considered a charitable reading, that "confers nothing" was about legitimacy only, and rejected it as decisive because the surrounding sentences name the class as a record and a document.
+  - **The first order** (found by one: K, U-2). "a description of the ground with nobody attached to it", given as the whole of what the mode delivered (P2 L730-732), needs the plant beside the description; its half about no account-holders stands.
+  - **P2 L728 narrows** (A, B, C; K): *DAVIS INHERITED A LIBRARY AND A PLANT, AND NOT A SOUL.* The not-a-soul half stands.
+- **Pass locations.** P2 L708 (heading; K); P2 L724 (pointer only); P2 L728 (narrowed); P2 L730-732 (K); P2 L733-737 (restated); P2 L738 (stays); P2 L739-740 (qualifier; K); P2 L742-743 (narrowed); P2 L632-633, L846 and L1451 (knock-on; K).
+
+### AM-P2-F28 Serial observation under `DR-26`, the spec's "independently", and "built from nothing"
+
+*Answers U-2 Q28 and Q30.*
+
+- **Found by:** A, B, C; K (U-2). **Disposition:** confirmed by all three.
+- **Current inputs.** LOG L661 (`DR-26`): "A city may take up research it found in the station's records and equipment and carry it on as its own". LOG L663, the writing rule: "inherited the station's research results, equipment and techniques", never "the research heritage is continuous from the founding station". SPEC L151 ("independently"). NNS L23: skills come from "skilled exiles among the founding population itself", "people with real institutional backgrounds of their own era", or are "rediscovered from the station's records".
+- **Re-derived statements.**
+  - **U-2 Q28** (null at Davis for whether a series continued, B's grade; A graded the rule firm; C graded the point seed). The logs and journals are the inherited dataset class (A). Whether Davis continued any station series is unstated: an open slot. The line falls here (C): the inherited part is the record, plus any data, equipment and techniques written into it; Davis's own part is the practical mastery the exiles built "independently, over generations of their own". If a later phase writes a continuation, `DR-26`'s wording binds (LOG L663; A, B, C). No admitted pass line breaks that wording rule (B, C). The pass's "five-century environmental record" (02 L166; P2 L694) is acceptable as a description of the record's span, not of its continuity (A).
+  - **U-2 Q30** (firm; A, B, C). NNS L23's first source bears on the spec's "independently". In SPEC L151 the word stands against being taught by a living institution, in the same sentence: it means independent of the station's living institution, not built from nothing, and it does not exclude the exiles' own prior expertise. SPEC L151 does not close NNS L23; whether any such expertise applied at Davis is unstated (B; AM-P2-R11).
+  - **Qualifiers.** P2 L965's "the only thing that had to be built from nothing" becomes *built at Davis by the exiles, from the inherited record and their own era's skills* (found by one: A; adopted by C in Round 3). C.1 (P2 L929-937) stands with a qualifier: the method is the exiles' own, and the general skills they brought could be origin-carried, from their own era's institutions, never station-carried (found by one: C).
+  - **K (U-2): exposed, not shown false** (found by one: K). The spine's "its METHOD is its own" (02 L438) must find a place for `DR-26`'s category of inherited research a city carries on as its own.
+- **Pass locations.** P2 L929-937 (C.1 qualifier; C); P2 L965 (qualifier; A); 02 L438 (exposed; K).
+
+## 2. Killed or narrowed findings
+
+Each row gives the class the brief asks for. "Narrowed" rows keep part of the pass's finding; the class names what killed the rest.
+
+| Item | Pass finding (location) | Result | Class | Evidence | Finders | Disposition |
+|---|---|---|---|---|---|---|
+| AM-P2-K1 | the seal's ground, "the within-tier ordering is an artifact of the de-stacking randomization" (01 L87-88; P2 L318) | narrowed to the two drawn rows | killed by evidence (for 43 of 45 rows) | LOG L1703; UEIC L598 | A, B, C; K | confirmed by all three |
+| AM-P2-K2 | the seal's scope, "at any precision, in either direction" (01 L87; 02 L117; P2 L50, L318) | narrowed to the recorded bar (PROVISIONAL) | killed by evidence (as the bar's text) | LOG L1703, L472-473 | A, B, C; K | confirmed by all three |
+| AM-P2-K3 | "share-weighted" (P2 L319; 02 L116) | killed | killed by evidence | SPEC L78; S1 L35-36 | A, B, C; K (read it as ambiguous) | confirmed by all three |
+| AM-P2-K4 | the 0.009 pp rounding spread (P2 L320, L1360-1361; 01 L327-329) | killed (the figure); the rule stays | killed by evidence | recomputed from SPEC L32-76 | A, B, C; K | confirmed by all three |
+| AM-P2-K5 | "a sole-occupant tier's own share" as the safe-use ground (P2 L324-325) | killed | killed by evidence | SPEC L20: five Primary rows | A, B, C; K | confirmed by all three |
+| AM-P2-K6 | the largest at roughly one person in five, at 19.04%, under a fifth (P2 L240, L309, L349; 02 L107) | killed (the figure); naming the largest is barred | killed by evidence | SPEC L32-33; LOG L472, L1703 | A, B, C; K | confirmed by all three |
+| AM-P2-K7 | "plurality-Chinese" and the named plurality (P2 L236, L305) | killed | killed by evidence | SPEC L32-33; LOG L1703; CENSUS L845; the draw | A, B, C; K | confirmed by all three |
+| AM-P2-K8 | the form "has one slot" and "silently assumes" a coincidence (P2 L231-234) | killed; "no correct single instantiation" kept only as a description of Davis's plural stock field | killed by evidence | NNS L139 | A, B, C; K | conflict resolved to the narrower reading |
+| AM-P2-K9 | the tag as the route datum: "that one cell says when"; A.3's arrival annotation; N's "only route datum" (P2 L328-332, L342, L1438) | killed | killed by evidence | CENSUS L33; LOG L1555, L1660 | A, B, C; K | confirmed by all three |
+| AM-P2-K10 | B.0's "classifiable for about 5%" (P2 L374) | killed and restated | killed by evidence | CENSUS L33 | A, B, C; K | confirmed by all three |
+| AM-P2-K11 | `H6` as an open hole (P2 L1400, L253-258) | closed by ruling | killed by evidence (closed by `DR-88` item 2 and `DR-99` item 2) | CENSUS L33; LOG L1555, L1660 | A, B, C; K | confirmed by all three |
+| AM-P2-K12 | A.3's discriminator (P2 L339-345) | narrowed: the dated half kept; the arrival reading of the tag killed; whether the undated half failed is left open | killed by evidence (for the tag read as arrival content) | CENSUS L33; LOG L1660 | A, B, C | conflict resolved to the narrower reading |
+| AM-P2-K13 | fire #3's two terms and "nothing exists between the founding wave and the composition" (01 L70; P2 L152-153) | killed; restated as a hole with no "between" | killed by evidence | CENSUS L33 | A, B, C; K | confirmed by all three |
+| AM-P2-K14 | "The founding stock is too small to host" (P2 L243) | killed | killed for want of an admitted line | no admitted line sets a host's size; the charter-group comparable | A, B, C (C's first class withdrawn); K | confirmed by all three |
+| AM-P2-K15 | no later arrival, stated as fact (P2 L243-244) | narrowed to no later arrival is recorded, an inference | killed by evidence (as a fact) | CENSUS L33; TREATY L46 | A, B, C; K | confirmed by all three |
+| AM-P2-K16 | "the founding arriving all at once and never being followed" (P2 L245-246) | killed | killed by evidence | TREATY L53; the pass's own B.0 (P2 L379-381) | A (K noted the tension) | found by one |
+| AM-P2-K17 | II.2.1 read as "one-directional and self-exhausting", with the source spent (P2 L594-595) | killed | killed by evidence | TREATY L46 | A, B, C | confirmed by all three |
+| AM-P2-K18 | "after which the flow stops by the document's own terms" (P2 L510-511) | narrowed to a supply clock | killed by evidence (as a bound on people) | TREATY L89 | C | found by one |
+| AM-P2-K19 | a difference "that dies with the first generation" (P2 L247-249); the question expires by Act 2 (02 L250) | killed for robots; stands for humans | killed by evidence | PHYS L67, L104-105, L215 | A, B, C | confirmed by all three |
+| AM-P2-K20 | "The founders are 4.93%" as derivation 1 of no precedence, and the "two independent derivations" (P2 L631, L635-636; 02 L250) | premise killed; one derivation remains | killed by evidence | CENSUS L33 | A, B, C; K | confirmed by all three |
+| AM-P2-K21 | born or made here, overwhelmingly, and born here as dominant by population, for robots (P2 L585-587, L843, L882) | narrowed to humans; the robot half is ungrounded | killed by evidence (for robots) | PHYS L67, L104, L432 | A, B, C | confirmed by all three |
+| AM-P2-K22 | "Nothing in the admitted set states robot longevity" (P2 L1307); O item 3 (P2 L1450); section K's "Does not assert robot longevity" (P2 L1369) | answered now by the physiology file; true of the pass's admitted set when written; `H.4`'s candidate becomes conditional and stays not adopted | narrowed (answered, not refuted) | PHYS L67, L103-105, L143 | A, B, C | conflict resolved to the narrower reading |
+| AM-P2-K23 | "FORCED BY THE ALLOCATION CRITERION" (P2 L469) | narrowed to consistent with the criterion, and not explained by it | killed by evidence (as stated) | TREATY L54; SPEC L28, L78 | A, B, C; K | confirmed by all three |
+| AM-P2-K24 | "nothing load-bearing can be tacit" as a universal (02 L107; P2 L469-471, L961) | narrowed to no origin by weight; the wider claim conditional on `H8` | killed by evidence (as a universal) | SPEC L15-16; the charter-group comparable | A, B, C; K | confirmed by all three |
+| AM-P2-K25 | A.4's fourth order, "the answer does not vary" (P2 L360-363) | narrowed: false for Act 1 and for founding-era robots | killed by evidence (as a universal) | TREATY L53; PHYS L103-106 | A | found by one |
+| AM-P2-K26 | "Not one of the 21 lacks numbers" (P2 L949-950) | narrowed: holds for the large rows, false for the smallest | killed by evidence (for the smallest rows) | SPEC L65-76; research | A, B, C; K | confirmed by all three |
+| AM-P2-K27 | the C.2 kill of the one-person-forms draft (P2 L941-944) | the kill holds for the large rows; the draft survives narrowed for the smallest | killed by evidence (for the large rows) | AM-P2-F16 | A, B, C; K | confirmed by all three |
+| AM-P2-K28 | "fully staffed, carried at full scale" and "acts identically" (P2 L963, L975) | narrowed | killed by evidence (as universals) | AM-P2-F15 | A, B, C; K | confirmed by all three |
+| AM-P2-K29 | "the model's outputs, not independently established populations" (P2 L951) | superseded | killed by evidence | LOG L1703 item 1 | K | found by one |
+| AM-P2-K30 | E.1's third order, the "fossil record" (P2 L1073-1074) | killed | killed by evidence (the construction); C adds that in-world no line supports it either, and both classes are recorded | SPEC L28, L78; LOG L551 | A, B (after withdrawal), C; K | confirmed by all three |
+| AM-P2-K31 | "employment" in E.1 (P2 L1074) | killed | killed for want of an admitted line | TREATY L46 | A, B, C; K | confirmed by all three |
+| AM-P2-K32 | E.1's converse, "It is the set of places that had no robots." (P2 L1067) | narrowed to the one-way implication | killed by evidence (as an equivalence) | NNS L44 | C | found by one |
+| AM-P2-K33 | E.1's "and therefore no human ones either", as unconditional (P2 L1067) | narrowed to conditional | killed for want of an admitted line (origin as residence is unstated) | TREATY L48 | A, B, C; K | confirmed by all three |
+| AM-P2-K34 | fire #11's "tier semantics never stated" (01 L78) | narrowed: the production rule is now stated; the in-world meaning is not | killed by evidence (for the production rule only) | SPEC L78 | A, B, C; K | conflict resolved to the narrower reading |
+| AM-P2-K35 | Collision 3's premise that the station-builder is unavailable (P2 L93-95) | the premise killed; the conduct stands | killed by evidence | SPEC L3, L151 now admitted | A, B, C | confirmed by all three |
+| AM-P2-K36 | the pass's NNS "L150" citation for the defensive-note rule (P2 L101) | misapplied: that rule now sits at NNS L152 and concerns creative-inspiration picks | killed by evidence (as a citation) | NNS L152; NNS L5, L7, L32 | A (B agreed in Round 3) | found by one |
+| AM-P2-K37 | B.6's filter, "does not require an occupant" (P2 L733-737) | killed for infrastructure; restated on transmission | killed by evidence | LOG L626, L646; NNS L15 | A, B, C; K | confirmed by all three |
+| AM-P2-K38 | "DAVIS INHERITED A LIBRARY AND NOT A SOUL." (P2 L728) | narrowed to a library and a plant | killed by evidence (as an inventory) | SPEC L151 | A, B, C; K | confirmed by all three |
+| AM-P2-K39 | "the thing that was here first is a document" (P2 L739-740), with P2 L632-633 | narrowed: the plant beside the document | killed by evidence (as an inventory) | SPEC L151 | K | found by one |
+| AM-P2-K40 | "The only inherited thing was the one class of thing that confers nothing." (P2 L742-743) | narrowed to confers no claim, standing or precedence | killed by evidence (as stated) | SPEC L151; LOG L626 | A, C (by its own account); K; B held that it stands | conflict resolved to the narrower reading |
+
+
+## 3. New findings
+
+Findings the brief's questions did not ask for, or asked for only in part. Where a new finding is also worked through inside a section 1 entry, the entry is named.
+
+### AM-P2-N1 Phase 2 ran without the physiology file its own spine requires
+
+- **Found by:** B (adopted by A and C in Round 3; C called it the root cause of three of its own new findings). **Disposition:** found by one. **Strength:** firm.
+- SPINE03 L172-174: "The governing physiology document is read ONCE, EARLY, IN FULL" and "and it stays open for every phase thereafter". SPINE03 L176-178: "a setting whose non-human population is a MAJORITY has no phase that is not about them".
+- Phase 2's receipt (P2 L18-31) does not list the file, and P2 L1307 says "the physiology document is outside this phase's set". Yet P2 L27 shows the pass read SPINE03 L1-272, which holds the rule; the rule is marked as added on 2026-09-06, ten days before the pass (B).
+- **Consequences now visible in this piece:** `H1` (AM-P2-N4); `H2` and fire #13 (AM-P2-F19); `H.4`'s named test and the robot half of B.4 (AM-P2-N2); `D5`'s mechanism (AM-P2-F12); the kitchen's carriers (AM-P2-F15); and B.1's "Davis's robots descend from a status" (P2 L424-425), which reads robots genealogically where canon gives "robot kinship runs on shared experience, not fabrication lineage" (PHYS L418).
+
+### AM-P2-N2 Robot longevity answers `H.4`'s named test, and qualifies the Act language for robots
+
+- **Found by:** A, B, C. **Disposition:** confirmed by all three. **Strength:** firm on the text; conditional in application.
+- PHYS L67: "They do not age in the biological sense, though components degrade over time and require maintenance or replacement." PHYS L104: "there is no senescence and no background attrition". PHYS L105: "They die when something kills them". PHYS L143: "humans die much earlier/sooner than robots do" (C). PHYS L215: "Robots live longer, so a single individual spans more of the divergence".
+- **`H.4`.** The pass's named test asks "does canon state whether a robot present at Davis in 2564 is still present in 2780?" (P2 L1308). Canon states no senescence, so such a robot can be present unless killed or departed; how many are is unstated. By the pass's own conditional (P2 L1309-1310), this compounds `H.1` rather than killing `H.4`. The candidate moves from resting on an unstated fact to conditional, and it stays NOT ADOPTED, because which robots remained is deferred (A, B, C). Its class is recorded at AM-P2-K22.
+- **The Act language, for robots** (B, C). B.1's "Davis's robots descend from a status" (P2 L424-426) and the line that exile becomes a lineage (01 L122; P2 L577-578, L860, L880) hold for humans. For a robot exiled in 2564 and still present, the status is that robot's own past, not an ancestry. The axis's native within two generations (P2 L139) and NATIVE BY DEFAULT (P2 L148) need a robot qualifier (C). Section K's "Does not assert robot longevity" (P2 L1369) is outdated: canon now asserts it (C).
+- The born-here mode for robots is treated at AM-P2-F11.
+
+### AM-P2-N3 Non-senescent robots can carry Act 1 into Act 2
+
+- **Found by:** A, C. **Disposition:** found by two. **Strength:** seed (A); open (C).
+- A founding-era robot alive in Act 2 is a first-generation exile in a population whose humans hold the exile only as ancestry (PHYS L215). A long-lived robot who held an origin specialty (a rite, a craft) could carry it across the frame without the human break in transmission (A). Robots who arrived in 2564 and robots made later stand differently to having arrived; whether that difference does any social work is open (C). Whether any such robot exists at Davis is unstated (A, C).
+
+### AM-P2-N4 `H1`'s robot mechanism exists at the national tier
+
+- **Found by:** A, B, C. **Disposition:** confirmed by all three. **Strength:** firm at the national tier; conditional at Davis (A); null for Davis's cadence (C).
+- PHYS L409: a robot can be built "in any Tepenian city regardless of whether that city manufactures chambers itself"; the line's one named exception is another location (not used). PHYS L432: "a functional chamber had already been shipped to and installed in almost every city in the country, historically". PHYS L422 and L424: a build is initiated by "a local robot community acting on a local interest, or a human commissioning one" (C).
+- So P2 L605-606 (where, how, by whose act and on what cadence a robot comes into being is not in the admitted set) and `H1` (P2 L1395) are answered in part at the national tier: how (a chamber), where (any city with one; Davis is not the named exception) and by whose act (a local robot community, or a human commissioning one). The cadence, and whether Davis holds a chamber in this frame, are unstated (AM-P2-R8).
+- The pass's biggest doubt (P2 L1589-1592), that both coming-into-being mechanisms are unwritten for both populations, narrows for robots: the mechanism exists nationally, and at Davis it is unstated (A).
+
+### AM-P2-N5 The treaty splits later arrival by population
+
+- **Found by:** A (the human channel); A, B, C (the robot channel). **Disposition:** confirmed by all three for the robot channel; found by one (A) for the human channel, adopted by B and C in Round 3. **Strength:** firm as text; the volume is open.
+- TREATY L48 (II.2.3) fixes a human's eligibility at signing ("prior to the date of this Treaty"). TREATY L46 (II.2.1) keeps a robot channel open in law, with no term ("every robot who may hereafter come into being within such territory, shall depart that territory and take up residence within the Federation of Tepenia"). A later human in-flow could come only through V.3 passage agreements, and none is recorded. No pass file states this asymmetry. It reshapes the pass's no later wave and the Act 2 route question (AM-P2-F11; AM-P2-Q8).
+
+### AM-P2-N6 "Establishing country" has two admissible in-world readings, and neither carries standing
+
+- **Found by:** A, B, C. **Disposition:** confirmed by all three (each as a seed, each sent to the developer). **Strength:** seed.
+- **Reading (a):** the Australian-origin exile community played the central role. **Reading (b):** the Assembly Power Australia did, under the treaty's own provisions for Assembly Powers: conveyance (TREATY L46, "such means of conveyance as the Assembly Powers shall provide"), the allocation arrangements (II.3.2, TREATY L53) and material assistance, transport included (V.2, TREATY L89). Comparatively easy access (REGISTER L59; LOG L545-547) is what reading (b) would serve (B).
+- Membership of the United Assembly of Nations is near-universal, and its exclusions are small nations without robots (TREATY L5), so Australia is most plausibly an Assembly Power in 2564 (an inference; B). `DR-99` item 2 defines the tag by "the establishing country", and item 1, which concerns another location (not used), treats whether a founder "also sent people" as a separate question; so the designation and an exile group are distinct notions (B).
+- Under reading (b), the designation would sit with a party on the other side of the treaty from Davis's population and could not ground precedence for any resident row (B). If that country acted as an Assembly Power, the Register row is the one recorded name of a party to Davis's establishment; it would still be no criterion for any person (A).
+- Neither reading is canon. Either stands on access (`DR-19`), never on the station. None of the treaty slots may be read as an arrival route (C, under the guard of AM-P2-F9). The slot stays open (AM-P2-Q6).
+
+### AM-P2-N7 Phase 2's own departure arithmetic on the current figures
+
+- **Found by:** A, B, C. **Disposition:** confirmed by all three. **Strength:** firm.
+- From SPEC L15-16 (read-only commands in A, B and C, identical output): 392,957 people departed, 32.46% of CI. Robots departed 256,390 (65.25% of all departures; a robot departure rate of 41.37%); humans departed 136,567 (34.75% of departures; a human rate of 23.12%). The ratio of the two rates is 1.789. Retention is 67.54% combined, 76.88% for humans and 58.63% for robots, a spread of 18.25 points. Robots are 51.20% of CI and 44.45% of CII; humans 48.80% and 55.55%.
+- **Consequences.** P2 L1262's "nearly twice the human rate (42.13% against 22.39%)" becomes about 1.8 times (41.37% against 23.12%). P2 L1279's spread of 19.74 points is now 18.25. The direction holds, and S1 L38-39 permits no more: "A finding may rest on the direction, never on the spread's exact size." (A, B, C.) At 02 L369, "126,176 humans departed — 22.39%" becomes 136,567 (23.12%), and the spine's "A capability-based sorting cannot produce a better-than-one-in-five human departure rate" still holds (C). `H.3`'s refutation by unequal rates (P2 L1287) stands (C). The figures are S1's; these are their Phase 2 locations (B).
+
+### AM-P2-N8 Merged rows overstate the carriers of any one regional practice
+
+- **Found by:** A, B, C; K (C-2). **Disposition:** confirmed by all three. **Strength:** firm.
+- A practice of one of the nine states inside the Sinian Federation row, or of one Korean half, has an unknown fraction of the row as its carriers. The same holds for the Mongolia row (China's piece with Inner Mongolia, plus today's Mongolia) and for Russia (core state), which also carries part of Ukraine's people. No admitted line splits a merged row (AM-P2-F17).
+
+### AM-P2-N9 Davis diverges from the real-world critical-mass model: there is no host culture
+
+- **Found by:** A. **Disposition:** found by one. **Strength:** conditional.
+- The real-world comparable predicts that small groups take up the majority's practices (Advani and Reich 2015). At Davis no origin is a majority, so integration has no host culture to absorb into. Its target is the procedural civic layer and mixed households, which supports C.3's two-layer picture by a route the pass did not use. Every comparable found assumes a majority culture; a comparable without one is an open research question (AM-P2-R17).
+
+### AM-P2-N10 A quorum lapse has a moment
+
+- **Found by:** A. **Disposition:** found by one. **Strength:** seed (A graded it conditional in Round 1 and called all the lapse refinements seeds in Round 3; the reply governs).
+- For a quorum form, the second person who would notice is literal and countable. The lapse of a quorum rite has a moment: the day the count is not met, which the comparable shows as a congregation that cannot make a minyan. C.4's silent lapse belongs to the solitary form. In the small rows, then, lapse of a quorum form is noticed and still not prevented (AM-P2-F16).
+
+### AM-P2-N11 Lapse steps down before it stops
+
+- **Found by:** C. **Disposition:** found by one. **Strength:** seed.
+- In the comparables, an assembling form that loses its officiant shrinks to a reduced lay form, then to the household, then to memory. The Orthodox Typika or Reader's Service, used where no priest can be kept, cannot perform sacraments and needs a blessing from a priest or bishop elsewhere. Kaifeng lost its religious leader and synagogue and came to be described as "existing on memories" (sources disagree on the dates).
+- This gives C.4's lapse (P2 L994-997) a shape, and a relation: the reduced form depends on an officiant elsewhere. Whether a Davis row's reduced form draws on officiants outside Davis is a relation question no reader's list can answer (C). For the human electors, the origin is legally unreachable (TREATY IV.2.3; A in Round 3).
+
+### AM-P2-N12 An origin kitchen is not bounded by its row, and its customers are humans
+
+- **Found by:** C (not bounded by the row); B (customers are humans). **Disposition:** found by one (C), with the humans-only point found by one (B); each adopted by the others in Round 3. **Strength:** seed.
+- A cuisine's presence in a city rises with the city's total population and density (Schiff 2015). Immigration raises ethnic restaurant variety partly through immigrants' comparative advantage in producing it (Mazzolari and Neumark 2012). So at Davis a public kitchen for any row is sized by a city of 1.2 million and by one producer who holds the skill, not by the row's headcount (C). Robots eat siligel and drink coolant (PHYS L238, L275), so a kitchen's customers are humans (B). Nothing is priced here (`DR-3`).
+
+### AM-P2-N13 The random draws reach the refill rows
+
+- **Found by:** A, B, C. **Disposition:** confirmed by all three. **Strength:** firm on SPEC L28's text (A); conditional for the identity of the largest row, which rests on the approximate reconstruction (B).
+- SPEC L28 sends the Sinian Federation's freed points "in proportion to size to: Japan, Germany, United Kingdom, Korea, Indonesia, Australia", and LOG L1613 sends Manchuria's to "the rows at 4.5% or more outside the top tier". So those rows' figures, the founder's among them, are partly set by the two draws (A, B, C). The founder's row stands level with Indonesia partly by refill rule, and the 37-person difference at CI carries no meaning (A, C).
+- `DR-104` item 1 names the rows drawn, not every row whose figure the draws set (B). The bar does not change, since `DR-12`'s first ground already covers within-tier order; the reach of the randomized ground should be stated accurately (AM-P2-Q3).
+
+### AM-P2-N14 SPEC L153 and UEIC L598 are not founder or arrival evidence
+
+- **Found by:** A, B, C; K (C-1). **Disposition:** confirmed by all three. **Strength:** firm as an observation; sources are never edited, so these are pointers only.
+- SPEC L153 reads "Australian exiles" under its founding-population heading. REGISTER L8-10 forbid any spec or pass to "originate or restate a founding claim that this file doesn't hold". REGISTER L59 holds Australia as founder, and its last cell ("—") sits under a header no reader could read. The founder name agrees with the Register; a founding population, and the founders' role as exiles, are not in the admitted Register cells (A, B, C). The rest of SPEC L153 names other locations (not used).
+- UEIC L598's "sets founding wave character", together with its route-like phrases about ports of approach, belongs to a pre-rework pool derivation (UEIC L601) and predates `DR-88` and `DR-99`'s narrowing of the tag. None of these phrases is an in-world route (A, C).
+- SPEC L8's founding-wave wording is the pre-ruling sense (A, C; K, C-1); S1 already marks L8 as partial (C).
+- Flagged for the owner of the spec's docket, the Step −1 piece (B).
+
+### AM-P2-N15 The pass's citations into NNS no longer address their texts
+
+- **Found by:** B, C; K (C-1, C-2, U-2). **Disposition:** found by two. **Strength:** firm; docket pointers only.
+- P2 L22 records NNS as "FULL, 172"; the file now has 174 lines. P2 L91-101 cite NNS L30 (the station-builder disambiguation), L40-41 (the admissible column), L54 and L150 (the defensive-note rule). Those texts now stand at L32, L42-43, L56-57 and L152 (B; C corrected its own L41-43 to L42-43 in Round 3). Under `DR-102` nothing is reworded; a pointer belongs in the amendment note. A adds that the L150 citation was misapplied (AM-P2-K36).
+
+### AM-P2-N16 The founding treaty is a draft
+
+- **Found by:** B (A and C agreed in Round 3). **Disposition:** found by one. **Strength:** firm.
+- TREATY L3 and RWI L5 both say "Not locked canon." Phase 2 builds headline findings on the treaty (H-1, B.1 to B.3, E.1, E.3, `H.1`), including "THE FOUNDING INSTRUMENT CONTAINS THE ANTI-STEREOTYPE LAW AS POSITIVE IN-WORLD LAW" (P2 L453-457). The methodology mandates the treaty as the canon target (SPINE03 L410-411), so using it is right; the treaty-derived findings hold in its current draft only (AM-P2-Q19).
+
+### AM-P2-N17 Orchestrator result 9 appears superseded by `DR-94` item 4
+
+- **Found by:** B (A and C agreed on both texts in Round 3; C withdrew its own citation of LOG L1529 as support for the reservation). **Disposition:** found by one. **Strength:** firm on both texts; the conclusion conditional.
+- LOG L1529 (`DR-85`, not decided): "whether China's four pieces and Taiwan decline too". LOG L1613 (`DR-94` item 4, decided the same day): "Manchuria declines like the Sinian Federation; Mongolia, East Turkestan, Tibet and Taiwan do not." S1 L40-41 still calls the exact shares of those four rows a reserved decision. Unless a reserved aspect lies outside every reader's list, the decision was made.
+- All three readers proceed conservatively, and so does this piece: no finding depends on the exact shares of the Taiwan, Mongolia, East Turkestan or Tibet rows (AM-P2-Q18).
+
+### AM-P2-N18 The pass's census addresses are stale
+
+- **Found by:** B, C. **Disposition:** found by two. **Strength:** firm; docket pointers only.
+- P2 L26 cites the census at old lines (392-398, 496, 613). Davis's block is now CENSUS L390-396, and S1 L29-30 gives the current census read spec, with the snapshot rows at L506 and L650 (B, C). The tier rows carry no ordinal column (AM-P2-N19).
+
+### AM-P2-N19 A.2 limit 6 (the row ordinals) cannot be re-checked from the admitted ranges
+
+- **Found by:** A, B, C. **Disposition:** confirmed by all three, after A and B withdrew their wider claims in Round 3. **Strength:** firm that it cannot be re-checked.
+- A first held that limit 6 has no target in the current text, and B that it has no object in CENSUS L390-396. In Round 3 both withdrew to C's reading. The pass's limit 6 (P2 L322; 01 L244) pointed at the census snapshot rows, which never were the tier rows and now sit at L506 and L650 (per S1), outside every reader's range. There is no ordinal column in the admitted current lines (SPEC L30-76; CENSUS L392-396); the rows the limit referred to are unchecked (AM-P2-R14).
+
+### AM-P2-N20 Two more stale addresses in the pass's records
+
+- **Found by:** K (U-2). **Disposition:** found by one. **Strength:** firm (address drift, not a change of content).
+- P2 L30 records 02 as "FULL, 585"; the file now has 584 lines by both counts. The pass cites the spec's founding line as "L127" (02 L95, L101; P2 L722); the same words now stand at SPEC L151, unchanged. Neither changes a finding; each takes a pointer.
+
+### AM-P2-N21 Two tacit-norm carriers are open, and neither is an origin
+
+- **Found by:** A, B, C; K (C-7). **Disposition:** confirmed by all three for the population-type majority; the calendar is found by two (A, C; adopted by B in Round 3). **Strength:** null (an open hole); the shared-rhythm point is a seed (B).
+- A population type is a majority at each census: robots at 51.20% of CI, humans at 55.55% of CII. The season's calendar, the light-and-work block everyone shares (02 L475-476), is a place-derived candidate. PHYS L336, "Robots and humans stop at the same time, for different reasons.", records one rhythm both types keep (B). No admitted line says whether either can carry a tacit norm. Both are recorded so that the pass's claim is not restated beyond its evidence (AM-P2-F13; AM-P2-Q10).
+
+### AM-P2-N22 E.1's converse conflicts with a national absence ruled on a separate ground
+
+- **Found by:** C (adopted by A and B in Round 3). **Disposition:** found by one. **Strength:** firm; national context.
+- NNS L44 records a national absence on a separate binding rule: "a separate binding rule that no South Asian population ever came to Tepenia at all". That absence rests on its own rule, not on the no-robot criterion. So E.1's converse (P2 L1067) cannot stand as an equivalence, and the pass's own E.4 records the same absence (P2 L1137). This is national context, never a Davis differentiator; it only bounds what E.1 may claim (AM-P2-F22).
+
+
+## 4. Docket of proposed corrections
+
+**PROPOSED; never applied.** Per `DR-101` the pass files are never edited, and per `DR-102` nothing already recorded is reworded to carry its own history. Each row is a proposed line for the amendment note, or a pointer to it, applied only if the developer applies the docket. Sources (the spec, UEIC, the census) are never edited either; their rows are pointers. One row per location, in file order. Proposed wordings are in italics; quotation marks hold only exact quotations. **Confidence** is the lowest any reader gave for the row (section 9 explains the rule). **Disposition** uses the closed set; the finders follow in brackets.
+
+| Item | Location | What is wrong | Proposed wording or pointer | Confidence | Disposition |
+|---|---|---|---|---|---|
+| AM-P2-D1 | 01 L50 and L52 | the count "twenty-one communities" and stale figures | *forty-five origin rows* (SPEC L32-76); the figures: pointer to S1 | high | found by two (A, B) |
+| AM-P2-D2 | 01 L68 | stale figures | pointer to S1's current figures | high | found by one (B) |
+| AM-P2-D3 | 01 L69 (fire #2) | its stated ground has moved | *stands; re-ground on SPEC L78 (identical between censuses)* | high | confirmed by all three (A, B, C) |
+| AM-P2-D4 | 01 L70 (fire #3) | the founders at 4.93% against the Primary tier at 19.04%, and a "between" that no longer exists | *No arrival waves, dates, order, route or mechanism is recorded for any of the forty-five origins; the founding designation (the Register: Australia, 5.74%) is not an arrival datum. The treaty gives the national mechanism only. Ask it once per Act.* (AM-P2-F9) | high | confirmed by all three (A, B, C; K) |
+| AM-P2-D5 | 01 L78 (fire #11) | "tier semantics never stated" | *SPEC L78 now states the production rule for tier labels. What a tier means in-world remains unstated. The guard stands, now on L78.* (AM-P2-K34) | high | conflict resolved to the narrower reading (A, C: superseded; B: qualifier; K) |
+| AM-P2-D6 | 01 L80 (fire #13) | unanswered at pass time | pointer: partly answered (AM-P2-F19, AM-P2-N2; PHYS L215-217; SPEC L78) | medium | found by two (A, B) |
+| AM-P2-D7 | 01 L87-88 (guard 2) | wider than `DR-12`; its randomization ground now covers two rows and was already partly stale at pass time (UEIC L598); "Corroborated twice independently." corroborates the withdrawn ground (K) | pointer: *No finding rests on a gap between two rows of the same tier (`DR-12` as kept by `DR-104` item 1). Per-nation figures are weights for derivation and headcounts in the world. The randomization ground covers the Sinian Federation and Manchuria rows only.* | medium | confirmed by all three (A, B, C; K) |
+| AM-P2-D8 | 01 L120-123 | that the exile "becomes a LINEAGE" holds for humans only | add: *for humans; a robot exiled in 2564 may hold it as its own past (PHYS L67)* | medium | found by two (B, C) |
+| AM-P2-D9 | 01 L244 | the ordinals named as an admitted comparison vector (A.2 limit 6) | pointer: *cannot be re-checked from the admitted ranges; there is no ordinal column in the admitted current lines, and the snapshot rows (CENSUS L506 and L650, per S1) are unchecked* (AM-P2-N19) | high | confirmed by all three (A, B, C; after withdrawals by A and B) |
+| AM-P2-D10 | 01 L274 | "the de-stacked per-nation ordering" names a replaced table | *stands for orderings within a tier; re-ground on `DR-12` and `DR-104` item 1* | high | found by two (A, B; K) |
+| AM-P2-D11 | 01 L327-329 (1.7 item 5) | the 0.009 pp figure | the guard of AM-P2-F3; the rule against an exact equality stays | high | confirmed by all three (A, B, C; K) |
+| AM-P2-D12 | 02 L94-97 (G4) | no material inheritance; no upkeep cost | add, conditional, for a Step 2 piece: *strength: an inherited station plant, maintained across the operator chain (SPEC L151); standing cost: its upkeep; tied to D6* (AM-P2-F26) | medium | confirmed by all three (A, B, C; K) |
+| AM-P2-D13 | 02 L95 and L101 | cite the spec's founding line as "L127" | pointer: now SPEC L151, with the words unchanged | high | found by one (K) |
+| AM-P2-D14 | 02 L107 (G8 strength) | "21 origins, largest at 19.04%"; "13 nations at Notable tier"; the tacit claim as a universal | *45 origins, none a majority, the largest about one in ten, 38 rows at Notable. No origin can carry a Davis-wide tacit norm by weight; nothing load-bearing can be tacit while no origin holds the institutions.* | high | confirmed by all three (A, B, C; K) |
+| AM-P2-D15 | 02 L108 (G8 deficit) | "the founding population is 4.93%" | *No row carries arrival information; the founder (the Register) is one row of 45, at 5.74%.* | high | confirmed by all three (A, B, C) |
+| AM-P2-D16 | 02 L112-114 | old departure and retention figures | pointer to S1: retention 67.54% combined, 76.88% humans, 58.63% robots; spread 18.25 points; departures 392,957, of which 256,390 robots; robots 51.20% at CI, humans 55.55% at CII | high | confirmed by all three (A, B, C) |
+| AM-P2-D17 | 02 L116-118 (guard) | "share-weighted"; the bar at any precision | the replacement sentence of AM-P2-F3 and the bar of AM-P2-F1; "an artifact, not a finding" (02 L117-118) stands (K) | high | confirmed by all three (A, B, C; K) |
+| AM-P2-D18 | 02 L140 (the STRENGTH row) | "something this place was given or built and need not renew" fails for G4 if a maintained plant enters G4's strength cell | pointer, conditional on the G4 change, for the Step 2 piece | medium | found by one (K) |
+| AM-P2-D19 | 02 L250 (D5) | the premise "the founders are 4.93%"; the question's expiry by Act 2 holds for humans only | the restated D5 of AM-P2-F12 | high | confirmed by all three (A, B, C; K) |
+| AM-P2-D20 | 02 L303 | D5 among the unformulable rests on the old D5 | pointer to the restated D5 | medium | found by one (C) |
+| AM-P2-D21 | 02 L369, L382, L389 and L394 | old figures in the wording rule and its examples | pointer: 136,567 humans departed (23.12%); 817,475; 67.54%; robots 58.63%, humans 76.88%; the rule's text stands | high | found by two (A, C) |
+| AM-P2-D22 | 02 L438 | "its METHOD is its own" does not place `DR-26`'s category of inherited research carried on as the city's own | pointer: place that category beside the method (AM-P2-F28) | medium | found by one (K) |
+| AM-P2-D23 | P2 L22 (receipt) | NNS recorded as "FULL, 172"; the cited lines have moved | pointer: 174 lines; L30 to L32, L40-41 to L42-43, L54 to L56-57, L150 to L152 | high | found by two (B, C; K) |
+| AM-P2-D24 | P2 L26 (receipt) | the old census lines; 21 origins in 1 / 7 / 13; the tag as a marker | pointer only (`DR-102`): CENSUS L33 and L390-396 (with S1's L506 and L650); 45 rows in 5 / 2 / 38; the tag is a Register pointer | low | confirmed by all three (A, B, C) |
+| AM-P2-D25 | P2 L30 (receipt) | 02 recorded as "FULL, 585" | pointer: 584 lines | high | found by one (K) |
+| AM-P2-D26 | P2 L40 | the station-builder said to be "not in the admitted set" | pointer: SPEC L3 and L151 are admitted and inert; the founder comes from the Register (AM-P2-F7) | high | found by one (A) |
+| AM-P2-D27 | P2 L50 | "inadmissible at any precision"; "deliberately not used" runs against `DR-104` item 2 (K) | *Sealed for same-tier gaps and for who left; tiers, totals and one row's own headcount are free.* (B) | medium | confirmed by all three (A, B, C; K) |
+| AM-P2-D28 | P2 L67-68 and L1491-1493 | "A 21-origin city" | *a 45-origin city* | low | confirmed by all three (A, B, C; K) |
+| AM-P2-D29 | P2 L89-104 (Collision 3) | the premise (the spec out of contract) is stale; the NNS citations have drifted; the L150 citation is misapplied (A) | re-ground on NNS L5, L7 and L32 and `DR-19`; a pointer for the drift (as at P2 L22); the II.3.3 disposal and the pass's conduct stand (AM-P2-F7) | high | confirmed by all three (A, B, C) |
+| AM-P2-D30 | P2 L98-99 | "The census entry is EXILE-POPULATION ORIGIN" is read together with the tag | qualifier: *the row is an admissible exile-population origin; the tag is a Register pointer, not an origin datum* | medium | found by two (B, C) |
+| AM-P2-D31 | P2 L138-140 (the axis, long form) | native within two generations, with no arrival mode operating since | *native for its humans by Act 2; no later arrival recorded; founding-era robots may still be present* | medium | found by two (A, C) |
+| AM-P2-D32 | P2 L148 | native by default on fire #3's silence, unqualified for robots | keep, citing the restated fire #3; add *for humans; for robots, unknown (no senescence, PHYS L104)* | medium | confirmed by all three (A, B, C) |
+| AM-P2-D33 | P2 L150-153 | "nothing exists between the founding wave and the composition" | *No arrival account exists for any of the 45 rows.* | high | confirmed by all three (A, B, C) |
+| AM-P2-D34 | P2 L208-216 (H-1, fourth order) | a spread of 19.74 pp | 18.25 points | high | found by one (A) |
+| AM-P2-D35 | P2 L221 | 781,596 | 817,475 | high | found by one (A) |
+| AM-P2-D36 | P2 L224 (H-2 heading) | the founding stock set against a plurality stock | *H-2: Davis's founder and Davis's stock are different kinds of fact, and the stock has no single name.* | high | confirmed by all three (A, B, C; K) |
+| AM-P2-D37 | P2 L226-238 (H-2's terms and the form) | the founding-wave community at 4.93%; the "Primary-tier community" at 19.04%; the one-slot form (AM-P2-K8); "plurality-Chinese" | *An Australia-founded Tepenian city (the Register, on geography and access). Stock: forty-five origins, none a majority; the founder's own row 5.74% (69,475 people at CI), outside the five Primary rows. People: Tepenian. Local culture: its own.* The cross-tier clause is PROVISIONAL (AM-P2-F6) | high | confirmed by all three (A, B, C; K) |
+| AM-P2-D38 | P2 L240-241 | "the largest is under a fifth" | *the largest is about one in ten*; "No stock at Davis is a majority" stays | high | confirmed by all three (A, B, C; K) |
+| AM-P2-D39 | P2 L242-246 | "too small to host"; no later arrival as a fact; "all at once" | *No row's arrival order is recorded, so the host-and-guest model has no order to stand on; no later arrival is recorded.* "all at once" is killed (AM-P2-F10, AM-P2-F11) | high | confirmed by all three (A, B, C; K) |
+| AM-P2-D40 | P2 L247-251 | the mechanism fails for robots, and the fourth order rests on it | *No arrival difference between rows is recorded; were one remembered, a robot present at the founding could carry it personally across the frame, since robots have no senescence.* (B) | medium | confirmed by all three (A, B, C; K) |
+| AM-P2-D41 | P2 L253-258 (risk box) | the declared risk has materialized | pointer: `H6` closed by CENSUS L33, LOG L1555 and L1660; this piece is the re-run | high | confirmed by all three (A, B, C; K) |
+| AM-P2-D42 | P2 L283-292 (A.1) | old census figures | pointer to S1 and SPEC L15-16: 590,668 / 619,764 / 1,210,432; 454,101 / 363,374 / 817,475; departures 392,957 (AM-P2-N7) | high | found by two (A, C) |
+| AM-P2-D43 | P2 L297-306 | 21 origins in 1 / 7 / 13; one Primary row; the plurality share of 19.04%; the founding-wave share of 4.93% | 45 rows in 5 / 2 / 38 (SPEC L20-22); drop the plurality share; the founder's row at 5.74% as one row's own headcount | high | confirmed by all three (A, B, C; K) |
+| AM-P2-D44 | P2 L308-311 | "roughly one person in five" | *Davis has no majority origin. Its largest row is about one person in ten (10.42% at the stated draw, 126,123 people at CI); the five Primary rows together hold 46.39%.* No nation is named | high | confirmed by all three (A, B, C; K) |
+| AM-P2-D45 | P2 L313-322 (A.2 limits) | limit 2 wider than the recorded bar, with "any two of the 21" (K); limit 3 "share-weighted"; limit 4 the 0.009 pp figure; limit 6 unchecked | limit 2: AM-P2-F1; limit 3: AM-P2-F3; limit 4: the banded guard; limit 6: cannot be re-checked (AM-P2-N19) | medium | confirmed by all three (A, B, C; K) |
+| AM-P2-D46 | P2 L324-326 | the safe-use ground "a sole-occupant tier's own share"; the second figure "fixed by the census's own in-world annotation" | *The figures used are the ceiling (about one in ten, with no nation named), each row's own headcount and the 50% line; the founder's 5.74% is one row's own share, read flatly.* | high | confirmed by all three (A, B, C; K) |
+| AM-P2-D47 | P2 L328-332 | the marker "says when" | *Three facts survive: the count (45), the split (two populations, inverting) and the founder (a Register pointer). None of them says anything about a route or a time.* | high | confirmed by all three (A, B, C; K) |
+| AM-P2-D48 | P2 L334-345 (A.3) | Australia's tag as in-world arrival content, "LOAD-BEARING" | *(founding wave): a Register pointer (CENSUS L33), with no arrival weight. The dated-means-authoring test is kept.* The undated half is not used again (AM-P2-K12) | high | confirmed by all three (A, B, C; K) |
+| AM-P2-D49 | P2 L349-363 (A.4) | "21 origins, largest at 19.04%"; "A 21-origin city"; "maximally visible" unscoped (K); the fourth order (A) | the figures of AM-P2-F4; add the `H8` condition (B); scope "maximally visible" for the smallest rows (K); the fourth order's Act and robot qualifiers (A) (AM-P2-F14) | medium | confirmed by all three (A, B, C; K) |
+| AM-P2-D50 | P2 L374 and L376 (B.0) | "classifiable for about 5%"; L376 quotes the old fire #3 | the B.0 restatement of AM-P2-F9; L376: pointer only | high | confirmed by all three (A, B, C; K) |
+| AM-P2-D51 | P2 L424-426 (B.1) | "Davis's robots descend from a status" reads robots genealogically | add: *for humans; for a robot exiled in 2564 and still present, the status is its own past; robot kinship runs on shared experience (PHYS L418)* | medium | found by two (B, C) |
+| AM-P2-D52 | P2 L453-459 | treaty-derived headline findings carry no draft qualifier | pointer: *in the treaty's current draft (TREATY L3)*, stated once in the amendment's head (PROVISIONAL, AM-P2-Q19); B proposed it at this line | high | found by one (B) |
+| AM-P2-D53 | P2 L466-471 (B.2) | "FORCED BY THE ALLOCATION CRITERION"; with no majority, unscoped | *consistent with the allocation criterion, and not explained by it; the composition itself comes from the census*; *with no majority origin* | medium | confirmed by all three (A, B, C; K) |
+| AM-P2-D54 | P2 L485 | "21 origins, allocated" | *45 origins, allocated* | low | confirmed by all three (A, B, C; K) |
+| AM-P2-D55 | P2 L497-498 | 376,718 people | 392,957 people | high | found by two (A, C) |
+| AM-P2-D56 | P2 L507-516 | "after which the flow stops by the document's own terms"; the "two independent routes" to HOLD-not-MAKE | *after which the supply stops by the document's own terms; the arrival of people is not bounded by V.2*; the two routes keep their supply leg only | medium | found by one (C) |
+| AM-P2-D57 | P2 L577-578, L860 and L880 | the exile becomes a lineage, unqualified for robots | the robot qualifier of AM-P2-N2 | medium | found by two (B, C) |
+| AM-P2-D58 | P2 L585-602 (B.4) | the founding-wave origin at 4.93% as the premise; "the twenty unannotated origins"; "self-exhausting"; the bound at L601-602 | drop the premise (humans: an inference from absence; robots: unstated); *all forty-five rows*; *II.2.1 is one-directional and prospective: every robot who may later come into being on Assembly territory must go to Tepenia. No such arrival is recorded at Davis.*; L601-602: *a founding-era in-flow, no recorded renewal, and a standing legal channel for later robot arrivals* | high | confirmed by all three (A, B, C; K) |
+| AM-P2-D59 | P2 L604-608 (`H1`; L607's robot share) | the robot route said to be outside the admitted set; robots at 51.34% | add PHYS L409, L422 and L432 (AM-P2-N4); 51.20% | medium | confirmed by all three (A, B, C) |
+
+
+*The docket continues.*
+
+| Item | Location | What is wrong | Proposed wording or pointer | Confidence | Disposition |
+|---|---|---|---|---|---|
+| AM-P2-D60 | P2 L631-636 | "The founders are 4.93%" as derivation 1; "two independent derivations" | *No row's arrival order is recorded*, plus the inheritance route: one derivation and the recordless-arrival ground | high | confirmed by all three (A, B, C; K) |
+| AM-P2-D61 | P2 L632-633 | "What was here first at Davis is a document" | add the plant beside the document; the conclusion stands | medium | found by one (K) |
+| AM-P2-D62 | P2 L708 | the heading "OCCUPIED FOR RECORDS" | pointer: records and plant, the plant occupied and maintained up to the gap | medium | found by one (K) |
+| AM-P2-D63 | P2 L712-713 (the B.6 table) | no row for the plant | add: *Infrastructure inherited with the place: the station plant, maintained across the operator chain (SPEC L151; `DR-24`).* The persons row (zero) stays | medium | found by two (A, C; K) |
+| AM-P2-D64 | P2 L722-724 | L722 cites the spec's founding line as "L127" (K); L724 restated on transmission (C) or left standing (K) | L722: pointer to SPEC L151; L724: a pointer only; it stands as a true statement, and the filter is restated at L733-737 | medium | conflict resolved to the narrower reading (C; K) |
+| AM-P2-D65 | P2 L728 | "DAVIS INHERITED A LIBRARY AND NOT A SOUL." | *DAVIS INHERITED A LIBRARY AND A PLANT, AND NOT A SOUL.* | medium | confirmed by all three (A, B, C; K) |
+| AM-P2-D66 | P2 L730-732 | "a description of the ground with nobody attached to it" given as the whole delivery | add the plant; the half about no account-holders stands | medium | found by one (K) |
+| AM-P2-D67 | P2 L733-737 | the occupancy filter; "A record brings none." extended to the whole inheritance | the restatement of AM-P2-F27 | medium | confirmed by all three (A, B, C; K) |
+| AM-P2-D68 | P2 L739-740 | "the thing that was here first is a document" | add the plant; the no-precedence conclusion stands | medium | found by one (K) |
+| AM-P2-D69 | P2 L742-743 | "confers nothing" | *the only inherited things were of the classes that confer no claim, standing or precedence on any person; the inheritance confers capability, and the plant an upkeep charge* | high | conflict resolved to the narrower reading (A, C; K; B held that it stands) |
+| AM-P2-D70 | P2 L843 (B.10) | born here, dominant by population, for robots | *for humans, by elimination; for robots, unknown* | high | found by one (B) |
+| AM-P2-D71 | P2 L846 | "Inherited a RECORD instead" | add the plant | medium | found by one (K) |
+| AM-P2-D72 | P2 L859-860 | "The 21 origins are live national identities" | *The 45 origins* | low | confirmed by all three (A, B, C) |
+| AM-P2-D73 | P2 L882 | "born or made here, overwhelmingly"; "No arrival mode is operating at all." | *For humans, born here; for robots, made here or surviving from the founding era, in unstated proportion. No arrival is recorded; II.2.1 and V.3 leave channels open.* | medium | confirmed by all three (A, B, C) |
+| AM-P2-D74 | P2 L900-916 (fire #13, `H2`) | framed as wholly unstated | add PHYS L210-217 and SPEC L78; `H2` narrowed (AM-P2-F19) | medium | found by two (B, C) |
+| AM-P2-D75 | P2 L903 | robots at 51.34% | 51.20% | high | found by one (A) |
+| AM-P2-D76 | P2 L929-937 (C.1) | no qualifier on the exiles' general skills | *The method is the exiles' own; the general skills they brought could be origin-carried, from their own era's institutions, never station-carried.* | medium | found by one (C) |
+| AM-P2-D77 | P2 L939-951 (C.2) | the figures; the universal "Not one of the 21 lacks numbers"; the superseded caveat at L951 (K); an old city total inside a quotation at L947 (K) | the narrowed statement and the per-row table of AM-P2-F15; the narrowed draft of AM-P2-F16; 126,123 (the ceiling row) and 69,475 (the founder's row); the smallest row 152; pointers at L947 and L951 | medium | confirmed by all three (A, B, C; K) |
+| AM-P2-D78 | P2 L955 | "21 substantial communities" | *45 origin rows, from 126,123 down to 152 people at CI* | high | confirmed by all three (A, B, C; K) |
+| AM-P2-D79 | P2 L957-958 | "sustained internally at full strength", ungrounded for the small rows | qualifier: *at full strength in the rows of tens of thousands; at quorum, household and conversational scale in the rows of a few hundred* | medium | found by one (K) |
+| AM-P2-D80 | P2 L959-961 | "cannot be inherited from any stock"; twenty-one communities | C.3 item 2 of AM-P2-F21 | medium | confirmed by all three (A, B, C; K) |
+| AM-P2-D81 | P2 L963-965 | "twenty-one-fold, fully staffed, carried at full scale"; built from nothing | the proposed C.3 of AM-P2-F21; the qualifier of AM-P2-F28 | medium | confirmed by all three (A, B, C; K) |
+| AM-P2-D82 | P2 L972-976 | a stock of twenty-one; "acts identically" | *Stock: forty-five, named, canon, none a majority. The operator acts by one mechanism, with a yield set by each row's own headcount.* | medium | confirmed by all three (A, B, C; K) |
+| AM-P2-D83 | P2 L998-1005 (C.4) | the household-locked bias stated as uniform | *toward the calendar-locked; toward the household-locked only where households stay in-group, which is least likely in the rows of a few hundred people*; the seeds AM-P2-N10 and AM-P2-N11 | medium | confirmed by all three (A, B, C) |
+| AM-P2-D84 | P2 L1014 | "21 origins that organize nothing" | *45 origins*; organizing nothing stands | low | confirmed by all three (A, B, C; K) |
+| AM-P2-D85 | P2 L1020 | stands, but without the staffing qualifier | pointer: the staffing qualifier of AM-P2-F21 | medium | found by one (B; K agreed it stands) |
+| AM-P2-D86 | P2 L1062-1081 (E.1) | the unit; the converse; the human half; the third order; "employment"; the count of 21; the refusal's ground | the restatements of AM-P2-F22, AM-P2-F23 and AM-P2-F24 | high | confirmed by all three (A, B, C; K) |
+| AM-P2-D87 | P2 L1140 | 376,718 | 392,957 | high | found by one (A) |
+| AM-P2-D88 | P2 L1160-1161 | the foreclosure "no post-founding wave record (fire #3)" | stays as a statement about the record; cite the restated fire #3 | medium | found by one (B) |
+| AM-P2-D89 | P2 L1210 and L1217-1218 | old figures | 67.54%; 32.46% departed; robots 41.37%, humans 23.12%; retained humans 76.88%, robots 58.63% | high | found by two (A, B) |
+| AM-P2-D90 | P2 L1241-1242, L1262 and L1279 | old figures; "nearly twice" | 58.63% and 76.88%; *at a higher rate, about 1.8 times (41.37% against 23.12%)*; 18.25 points | high | confirmed by all three (A, B, C) |
+| AM-P2-D91 | P2 L1305-1310 (`H.4`), with L1450 (O item 3, added by B) | "Nothing in the admitted set states robot longevity"; the physiology file outside the set | *The named test is answered at the general level: robots have no senescence (PHYS L67, L103-105). The candidate becomes conditional and stays NOT ADOPTED.* (AM-P2-K22) | medium | confirmed by all three (A, B, C) |
+| AM-P2-D92 | P2 L1360-1361 (section K) | the 0.009 pp figure | the guard of AM-P2-F3 | high | confirmed by all three (A, B, C; K) |
+| AM-P2-D93 | P2 L1362 (section K) | "Does not compare any two origins, at any precision, in either direction" | a pointer only: the line is a true record of the pass's stricter restraint; it points to the recorded bar (AM-P2-F1) | medium | conflict resolved to the narrower reading (A, B, C) |
+| AM-P2-D94 | P2 L1368 (section K) | Collision 3's entry rests on the old premise | keep; re-ground on the law (NNS L5, L7, L32; `DR-19`) | high | found by one (A) |
+| AM-P2-D95 | P2 L1369 (section K) | "Does not assert robot longevity" | *Canon states no senescence; turnover and origin-transmission stay unasserted.* | medium | found by one (C) |
+| AM-P2-D96 | P2 L1395-1402 (section L: `H1`, `H2`, `H3`, `H6`, `H8`) | `H1` and `H2` partly answered; `H3`'s count; `H6` closed | `H1` per AM-P2-N4; `H2` per AM-P2-F19; `H3`: *all forty-five origins*; `H6`: closed; `H8` stands and is now also the condition of the tacit chain | medium | confirmed by all three (A, B, C; K) |
+| AM-P2-D97 | P2 L1436 (section N, the treaty-influences row) | the mechanism behind E.1 | stands, narrowed to membership (AM-P2-F22) | medium | found by one (C) |
+| AM-P2-D98 | P2 L1438 (section N, the census row) | "the only route datum" | *the Register's founder pointer; no route datum exists* | high | confirmed by all three (A, B, C; K) |
+| AM-P2-D99 | P2 L1448 (O item 1) | the figure of about 220,543; it names the largest | pointer only (`DR-102`): the kill narrowed (AM-P2-F16); no row named | low | confirmed by all three (A, B, C; K) |
+| AM-P2-D100 | P2 L1451 (O item 4) | "the mode's product inverted into a record" | add the plant | medium | found by one (K) |
+| AM-P2-D101 | P2 L1452 (O item 5) | the self-correction about 4.93% | pointer only; the point is moot | low | found by two (B, C) |
+| AM-P2-D102 | P2 L1456 (O item 9) | the dead end at the station-builder is said to die at the law and the contract | *The dead end now dies at the law alone.* (A) | medium | found by one (A) |
+| AM-P2-D103 | P2 L1469 and L1471 (P.1) | the feeds to Phase 4 (the two-layer structure) and Phase 6 (the C.4 bias) carry no size qualifier | add the staffing qualifier and the restated bias | medium | found by one (B) |
+| AM-P2-D104 | P2 L1474 (P.1, Phase 9) | a spread of 19.74 pp | 18.25 points | high | found by two (A, B) |
+| AM-P2-D105 | P2 L1482-1483 (P.2 item 1) | "the 21 origins" | *the 45 origins*; the item stands, deferred | low | confirmed by all three (A, B, C; K) |
+| AM-P2-D106 | P2 L1484 and L1487 (P.2 items 2 and 4) | 781,596; a spread of 19.74 pp | 817,475; 18.25 points | high | found by one (B) |
+| AM-P2-D107 | P2 L1589-1592 (the biggest doubt) | both coming-into-being mechanisms called unwritten for both populations | *The robot mechanism exists nationally (PHYS L432); at Davis it is unstated.* Add robot longevity and II.2.1's open channel | medium | confirmed by all three (A, B, C) |
+| AM-P2-D108 | P2 L1598-1599 (the third doubt) | `H6`, now closed | the replacement of AM-P2-F8 | high | confirmed by all three (A, B, C; K) |
+| AM-P2-D109 | SPEC L8 (a source; never edited) | founding-wave wording in the pre-ruling sense; other locations named (not used) | pointer: the tag means the Register's founder (CENSUS L33); S1 marks L8 partial | low | found by two (A, C; K) |
+| AM-P2-D110 | SPEC L153 (a source; never edited) | a founding population claim ("Australian exiles") that the Register does not visibly hold | pointer in the amendment note: not founder or arrival evidence (REGISTER L8-10, L59); flag to the owner of the Step −1 docket (AM-P2-N14) | medium | confirmed by all three (A, B, C; K) |
+| AM-P2-D111 | UEIC L598 (a source; never edited) | "sets founding wave character"; route-like driver phrases | pointer: a pre-rework derivation (UEIC L601), not an in-world route; the tag narrowed by `DR-88` and `DR-99` | low | confirmed by all three (A, B, C) |
+| AM-P2-D112 | S1 L40-41 and orchestrator result 9 (the amendment layer) | appears superseded by LOG L1613 | re-check against `DR-94` item 4 before the four rows' exact shares are used (AM-P2-N17) | medium | found by one (B) |
+
+
+## 5. Questions for the developer
+
+**All PROVISIONAL.** Each question is written once, with a recommended answer and what waits on it. The piece proceeds on the recommended answer. Where the readers' recommended answers differ, the split is named and the narrower answer is recommended.
+
+### AM-P2-Q1 Which bar did "Keep the bar, re-ground it" keep?
+
+- **Asked by:** B, C; K (C-4); A applied the PROVISIONAL answer without asking. **Disposition:** found by two.
+- `DR-104` item 1 records the kept bar as `DR-12`'s: no finding rests on a gap between two nations of the same tier. The pass's bar is wider: no two nations' figures compared at any precision, in either direction (01 L87; 02 L117; P2 L318).
+- **Recommended:** the recorded text governs (LOG L472, L1703). Barred: a gap between two same-tier rows, including which of the top two rows is larger, and the founder's row against Indonesia's. Barred separately, by construction: any difference between rows in who left (SPEC L78). Free: tiers, totals and one row's own headcount, stated flatly.
+- **Waiting on it:** AM-P2-F1, AM-P2-F4, AM-P2-F6, AM-P2-F10; the docket rows AM-P2-D7, AM-P2-D17, AM-P2-D27 and AM-P2-D45. Under the wider bar, the clause that the founder's row sits outside the Primary tier and the pooled sets would have to go; no other finding changes (C).
+
+### AM-P2-Q2 Are cross-tier statements allowed at tier precision?
+
+- **Asked by:** B; C, within its bar question; K (C-1, developer question D1). A applied the PROVISIONAL answer without asking. **Disposition:** found by two.
+- **Recommended:** yes, when written as headcounts and grounded on the tier boundary the spec states (SPEC L78). LOG L472, "The tiers and the city totals are the information.", supports it directly (B). The bar applies only within a tier.
+- **Waiting on it:** the surviving contrast of AM-P2-F6; the supporting ground of AM-P2-F10; the tier-boundary point of AM-P2-F4.
+
+### AM-P2-Q3 Should `DR-104` item 1's narrowing of the randomized ground note that the draws also set the refill rows' figures?
+
+- **Asked by:** B. **Disposition:** found by one.
+- **Recommended:** yes, as a note, with no new bar. The within-tier order of the refill rows is already barred, and the identity of the largest row is set by the draw.
+- **Waiting on it:** AM-P2-N13; AM-P2-F4.
+
+### AM-P2-Q4 Is the ceiling stated at its exact figure, or at about one in ten?
+
+- **Asked by:** A. **Disposition:** found by one.
+- The exact value moves with the Sinian Federation draw; about one in ten holds across the whole range. B prefers the rounded form; C printed the exact figure in parentheses. These are compatible.
+- **Recommended:** about one in ten, with 10.42% at the stated draw in parentheses.
+- **Waiting on it:** the wording of AM-P2-F4 and AM-P2-D44.
+
+### AM-P2-Q5 May a re-derivation use SPEC L28's draw range as a limit, to show that the order of the top two rows is an artifact?
+
+- **Asked by:** C. **Disposition:** found by one.
+- **Recommended:** yes, as a limit only (S1 L24-25), with the crossover labeled approximate.
+- **Waiting on it:** the second reason in AM-P2-F4. The bar alone already forbids naming the row.
+
+### AM-P2-Q6 What is the in-world role of Davis's "establishing country", and does it carry standing, in Act 1 and in Act 2?
+
+- **Asked by:** A, B, C; K (C-1, developer question D2). **Disposition:** confirmed by all three.
+- Is it Australia as an Assembly Power acting through conveyance (II.2.1), allocation arrangements (II.3.2) and material assistance (V.2); Australian-origin exiles; or both? Is the designation known at Davis, and does it confer standing on anyone?
+- **Recommended:** nothing is canon. Leave the slot explicitly open (none is sited here). Write Australia-founded (the Register), with no role attached. Record the two readings of AM-P2-N6 as seeds without choosing between them. No treaty slot may be read as an arrival route.
+- **Waiting on it:** the second sentence of the restated D5 (AM-P2-F12); the third doubt's replacement (AM-P2-F8); the founded-slot wording (AM-P2-F5).
+
+### AM-P2-Q7 What does the last cell of REGISTER L59 ("—") record, and did the establishing country also send people?
+
+- **Asked by:** A, B, C; K (C-1). **Disposition:** confirmed by all three.
+- **Recommended:** no ruling is needed now. Add the Register's table-header line to the next piece's reading list (AM-P2-R1).
+- **Waiting on it:** only a sentence that would say the founding nation sent the first people, and no such sentence is proposed.
+
+### AM-P2-Q8 Did robots come into being on Assembly territory after 2564 and arrive in Tepenia under II.2.1?
+
+- **Asked by:** A. **Disposition:** found by one.
+- **Recommended:** no ruling now. Write: no later arrival is recorded; the robot channel is open in law, and the human channel closed at signing.
+- **Waiting on it:** AM-P2-F11; AM-P2-N5; the Act 2 route at AM-P2-D73.
+
+### AM-P2-Q9 Are a row's robots counted carriers of its origin practices, and is a robot made in Tepenia assigned a national origin at all?
+
+- **Asked by:** A, C; K (C-2 (f)). **Disposition:** conflict sent to the developer.
+- **The split.** A recommends no: treat the robot columns as weights (SPEC L78), and count a practice's carriers as the row's humans plus an unstated share of founding-era robots. C recommends leaving `H2` open, sizing carriers on the human count, with the total as a conditional upper figure.
+- **Recommended (the narrower):** leave `H2` open; size carriers on the human count; show the total only as a conditional upper figure.
+- **Waiting on it:** the total columns of AM-P2-F15; AM-P2-F19; AM-P2-F21.
+
+### AM-P2-Q10 Can a population-type majority (robots at CI, humans at CII), or the season's calendar, carry a Davis-wide tacit norm?
+
+- **Asked by:** A, C; K (C-7, developer question 2). B recorded the same open hole in its findings without asking it. **Disposition:** found by two.
+- **Recommended:** record it as an open hole and route it to Phase 9. Narrow the pass's wording to no majority origin now.
+- **Waiting on it:** the extension in AM-P2-F13; AM-P2-N21.
+
+### AM-P2-Q11 Is `DR-4`'s spatial deferral still in force for Phase 2 after `DR-104` item 2?
+
+- **Asked by:** A; K (C-2, developer question 1). **Disposition:** found by one.
+- **Recommended:** yes. Reading each row's own headcount flatly against a researched threshold is reasoning by headcount, not a spread, a mode or a gap between nations. Keep the bar on spread, mode and spatial claims until it is lifted (K).
+- **Waiting on it:** AM-P2-F20; AM-P2-R6; `DR-4`'s full text (AM-P2-R2).
+
+### AM-P2-Q12 Does `DR-4`'s bar on distributional results cover a city-wide composition statistic, such as the chance that two residents share an origin row?
+
+- **Asked by:** C. **Disposition:** found by one.
+- **Recommended:** yes; keep it barred until `DR-4` lifts. Each row's own headcount read against an external threshold stays legal.
+- **Waiting on it:** a possible sharpening of C's out-marriage point in AM-P2-F16, held as a seed meanwhile.
+
+### AM-P2-Q13 Is a successor row's stock the in-world unit's people, and which territories did the atlas move to Davis's successor rows?
+
+- **Asked by:** A, B; K (C-2, developer question 2). **Disposition:** found by two.
+- **Recommended:** yes, the in-world unit's people, read through Census Section E, with the real-world territory as the comparable and the divergence operator applied, never the name alone. Supply the atlas rows, or allow a later piece to read them (AM-P2-R4). Meanwhile write the stock as the people of the territory that passed from the old Russia (or the old Romania).
+- **Waiting on it:** AM-P2-F18; AM-P2-F22.
+
+### AM-P2-Q14 May rows of one split country be pooled when sizing the carriers of a practice they share?
+
+- **Asked by:** B; K (C-2, developer question 3); applied PROVISIONALLY by A and C. **Disposition:** found by one.
+- **Recommended:** yes, as an aggregation inside Davis's own table. It is not a ranking or a gap between nations. Each row's own distinct practices are still sized on that row alone.
+- **Waiting on it:** AM-P2-F17; AM-P2-F13; AM-P2-F15.
+
+### AM-P2-Q15 What does a human exile's origin row record: nationality, or residence at departure?
+
+- **Asked by:** B; K (C-3, developer question 15); applied by A and C. **Disposition:** found by one.
+- **Recommended:** no new ruling now. State E.1's human half as conditional: it holds if origin means residence at departure. The treaty's human grounds (II.2.3) are ties to the robot population, not to a place.
+- **Waiting on it:** AM-P2-F24.
+
+### AM-P2-Q16 Are origin rows read in-world as latest-period territorial labels rather than as 2564 polities?
+
+- **Asked by:** B; K (C-3, developer question 16); applied by A and C. **Disposition:** found by one.
+- **Recommended:** yes, as CENSUS L841 already says for the tables. TREATY L15 shows two row names that also existed as 2564 polities in the draft.
+- **Waiting on it:** AM-P2-F18; AM-P2-F22.
+
+### AM-P2-Q17 Is `DR-25`'s "Records can draw people" row a general mechanism, or a ruling about the one location it names?
+
+- **Asked by:** B; K (U-2, developer question 32); applied by A and C. **Disposition:** found by one.
+- **Recommended:** treat it as specific to that location, and do not apply it at Davis without a Davis-specific ruling. This keeps the one-location law and carries no other location's answer across.
+- **Waiting on it:** AM-P2-F27.
+
+### AM-P2-Q18 Do `DR-94` item 4 (LOG L1613) and orchestrator result 9 conflict?
+
+- **Asked by:** B (A and C agreed on the texts in Round 3). **Disposition:** found by one.
+- **Recommended:** `DR-94` item 4 governs, as the later ruling. Re-check S1 L40-41 before any finding uses the exact shares of the four rows; meanwhile none does.
+- **Waiting on it:** AM-P2-N17; the table notes of AM-P2-F15; AM-P2-D112.
+
+### AM-P2-Q19 Should treaty-derived findings carry "in the treaty's current draft"?
+
+- **Asked by:** B; A and C answered in Round 3. **Disposition:** conflict sent to the developer.
+- **The split.** B recommends the qualifier on each treaty-derived finding, and C called B's recommendation right. A recommends stating it once, in the amendment's head, rather than on every line.
+- **Recommended (the narrower):** once, in the amendment's head. The treaty stays the mandated canon target (SPINE03 L410-411).
+- **Waiting on it:** AM-P2-N16; the treaty-derived parts of AM-P2-F9, AM-P2-F11 and AM-P2-F22; AM-P2-D52.
+
+### AM-P2-Q20 Does G4 gain the inherited plant as a strength and its upkeep as a standing cost, and did the inheritance include more than the spec names?
+
+- **Asked by:** B; K (U-2, developer question 31); applied by A and C. **Disposition:** found by one.
+- **Recommended:** yes, conditionally, docketed to a Step 2 piece. State only what is already canon: the infrastructure (SPEC L151) and the documentary record, with the techniques written into it (NNS L21). Record equipment, research data and results, and ongoing datasets as admissible and unstated, an open slot, unless the developer wants to state them. Do not invent them.
+- **Waiting on it:** AM-P2-F26; AM-P2-F25; AM-P2-D12.
+
+### AM-P2-Q21 May the real station's present-day capacity stand as a comparable for the inherited plant's scale?
+
+- **Asked by:** A, B. **Disposition:** conflict sent to the developer.
+- **The split.** A: keep it as a labeled comparable (about 90 to 100 people in summer, about 20 in winter), as an infrastructure fact `DR-24` allows, used for nothing about founders. B: leave it out, since a present-day figure says nothing about an in-world plant after five more centuries of rotating maintenance.
+- **Recommended (the narrower):** leave it out of any pass wording; keep it in the research log only. The plant's size in 2564 stays unstated.
+- **Waiting on it:** the scale caution in AM-P2-F26.
+
+### AM-P2-Q22 May a re-derivation rely on SCAFFOLD's note that the allocation mechanism outlived the founding decade?
+
+- **Asked by:** C. **Disposition:** found by one.
+- SCAFFOLD's note on II.3 names a later allocation instance "centuries downstream" at another location (not used).
+- **Recommended:** no. Rest the open-endedness on II.3.2's own text ("in the years following this Treaty's signing"), which suffices.
+- **Waiting on it:** nothing; recorded so that the line is not reached for.
+
+## 6. Reserved findings and requests
+
+What the pass needs and cannot produce from the admitted lines, and the research left open. Nothing here is to be invented.
+
+- AM-P2-R1 **The Founding Register's column header** for REGISTER L59, to read the "+5", the check mark and the last cell (A, B, C; K). Found by: A, B, C. Disposition: confirmed by all three.
+- AM-P2-R2 **`DR-4`'s full text,** to settle AM-P2-Q11 (A). Disposition: found by one.
+- AM-P2-R3 **Whether any ruling states an in-world role for "establishing country" in general terms** (A asked to read `DR-99`'s other rows). Those rows concern other locations, so any such reading may take only a general statement, never another location's answer (a caution this merge adds under the one-location law; section 9). Disposition: found by one.
+- AM-P2-R4 **The atlas rows** (`numbering.csv`, LOG L1528) for Davis's successor rows: which territory the Finland, Hungary, Austro-Bavaria, Northern Ireland, Aceh, West Papua, Patani, Tuva and other successor rows took, and whether each split predates 2564. Needed to choose real-world comparables without reading a name alone (A, B, C). Disposition: confirmed by all three.
+- AM-P2-R5 **Any in-world language, religion or other medium per row.** None is canon; until one is, no set of rows sharing a medium can be established. Research per row, once the developer allows it: what practices the population of each successor territory carries, from more than one angle, with the divergence operator applied (B). Disposition: found by one.
+- AM-P2-R6 **The spatial co-location of the origins** (deferred by `DR-4` and by the step that would divide Davis into sub-locations). It decides whether any row has a street (B, C). Disposition: found by two.
+- AM-P2-R7 **Davis's founding administration (`H8`).** It decides whether any origin held institutions, on which the wider tacit chain is conditional (B). Disposition: found by one.
+- AM-P2-R8 **Whether Davis holds a fabrication chamber,** and on what cadence it builds (A, B; C records the cadence as unstated in its findings; PHYS L432 says almost every city). It decides "made here" for the robot majority. Disposition: found by two.
+- AM-P2-R9 **Whether any robots exiled in 2564 remain at Davis, and how many.** It needs a ruling or a census field that does not exist (A, C). Disposition: found by two.
+- AM-P2-R10 **Each row's age structure and in-row partnering, and the share of each row that keeps a given practice.** The per-row shares in AM-P2-F15 are lower bounds until these exist; none is canon, and no participation rate is assigned (A, B, C). Disposition: confirmed by all three.
+- AM-P2-R11 **Whether origin specialists (clergy, language teachers) were among the founding exiles.** NNS L23 admits skilled exiles with their own era's institutional backgrounds; nothing at Davis names any. Not to be invented (A). Disposition: found by one.
+- AM-P2-R12 **II.3.2's allocation arrangements for Davis (`H3`).** Still the only answer-location for fire #3, and no admitted line holds them (C). Disposition: found by one.
+- AM-P2-R13 **Whether instruments crossed with the logs, and whether the logs carry instrument metadata** (B; A and C treat the same point as conditional in their findings on U-2 Q29). Disposition: found by one.
+- AM-P2-R14 **The census snapshot rows** (CENSUS L506 and L650, per S1), needed to re-check A.2 limit 6 (A, B, C). Disposition: confirmed by all three.
+- AM-P2-R15 **Pass files outside every reader's list** (`00_Frame.md`, `03_Research.md`, `05_Reconciliation.md` and Phases 3 to 10) very likely repeat the changed findings: 21 origins, 4.93%, 19.04%, the plurality, or the founding wave read as an arrival. Their locations are not listed in this docket (B). C notes that `03_Research.md` is cited by the pass for the crew-scale caveat. Disposition: found by one.
+- AM-P2-R16 **Primary texts not reached:** Breton 1964 (the size variable); Logan, Zhang and Alba 2002, and Logan and Zhang 2010 (the operational definition of an ethnic neighborhood); the UCSF enclave white paper (to verify the 250-resident figure); Aldrich and Waldinger 1990 (protected ethnic markets and community size). The secondary sources did not supply the needed numbers, and several died at the source (A, B, C). Disposition: confirmed by all three.
+- AM-P2-R17 **Research questions left open:** a real-world measure of transmission in a population with no majority culture (plural cities with no group above about 10 percent), since every comparable found assumes a majority (A, C); a tested headcount for an ethnic street (A, C; B's search for one died at the sources); officiant reproduction in small isolated communities beyond the Samaritans and Kaifeng (C). Disposition: found by two.
+- AM-P2-R18 **K's hypothesis about rows with continuing names** (C-2): for Romania, Ukraine, Thailand and Indonesia, Section E lists only the rows that took part of the old country's people, so a row named for a continuing nation may itself carry another former country's people. To be settled from the atlas. Disposition: found by one (K).
+- AM-P2-R19 **The shares of the Taiwan, Mongolia, East Turkestan and Tibet rows.** No finding here rests on them, pending AM-P2-Q18; the Sinian Federation and Manchuria rows are read as headcounts in the world only (B, C; A agreed in Round 3 that all three readers proceed conservatively). Disposition: found by two.
+
+
+## 7. Limits
+
+- **No row's practices are stated in the admitted set.** Every capacity reading in AM-P2-F15 is about what a headcount could carry against real-world thresholds, never about what any row does (A, B, C).
+- **The comparables differ from Davis on every axis that matters.** They come from wage economies with a majority culture and continuing immigration; Davis has total separation, robots, no dominant origin and a national contact language (A, C). They are comparables, never specifications, and each divergence is stated where it is used.
+- **Some sources are weaker than the rest.** The kitchen threshold of about 800 customers comes from an encyclopedia summary of general-population retail (B). The Kaifeng sources disagree on dates, and one attributes the decline to war and intermarriage rather than isolation (C). The Henrich and Kline-Boyd thesis on population size is contested (C). The 250-resident enclave figure is unverified (C). The Dinka congregation figures stand on a search summary only (B). The National Congregations Study's 50-adult figure belongs to a different measure (A's Round 3 correction). The Samaritans' low point is dated 1917 in most sources, not the 19th century (A's Round 3 correction).
+- **The draw reconstruction is approximate.** It reconstructs SPEC L28's stated method, not the developer's own script (L28's process pointers are not to be followed, S1). It shows that the order of the top two rows is set by the draw, not the exact crossover, and it ignores rounding of about 0.01 points (A, B, C).
+- **The per-row participation shares are lower bounds.** They assume every person is an adult and that no carrier comes from outside Davis (C).
+- **Figures outside Phase 2's scope** (extent, density, climate) were not re-derived. The census totals are the orchestrator's (result 3), and the readers' per-row sums reproduce them (A).
+- **Lines no reader could read:** the Register's header; the atlas; the census snapshot rows (L506, L650); `DR-4`'s full text; SPEC L82-148 and L159-260; `00_Frame.md`, `03_Research.md`, `05_Reconciliation.md` and the later phases. Pass locations in those files are not listed (AM-P2-R15).
+- **What this piece cannot say:** what any row's practices are; which territory any successor unit took; whether robots carry origin practices; how many robots of 2564 remain; whether any later arrival happened, only that none is recorded (B, C). Nothing here says how any row's people live, what they believe or where they live in the city, and no national trait is assigned to any row (B).
+- **The treaty is a draft;** every statement drawn from it holds in its current draft only (B).
+- **The in-world meaning of the establishing country is not decided here** (AM-P2-Q6).
+- **A rounding edge** (K, C-2): the count of ten rows under 0.1% depends on rounding, since West Papua shows 0.100%; it reproduces orchestrator result 1 only if the unrounded share is at least 0.1%, which no reader checked.
+- **One location only.** No other city was opened by any reader or by the merge. Lines naming other locations are marked "(another location: not used)", and no claim here survives only through another location's name.
+- **The merge itself** re-derived nothing and ran no search. Every figure is a reader's, with the Round 3 corrections applied. K's readers worked to different briefs and lists and did no web research.
+
+## 8. Research log
+
+The merge writer ran no search. Below is every search string and fetch from the readers' Round 1 logs and Round 3 replies, verbatim as each reader logged it, with the source used, what it gave, whether it changed a finding, and each dead end. K's readers ran no web research. The column "Entry" gives the reader and the reader's own log entry. One source name is withheld (section 9).
+
+### Reader A (Round 1)
+
+| Entry | Search string or fetch, verbatim | Source used | What it gave | Changed a finding? | Dead end |
+|---|---|---|---|---|---|
+| A, log 1 | `minimum population size ethnic community sustain institutions "institutional completeness" Breton 1964` | Erudit summaries | the concept (Breton 1964, AJS 70); informal networks precede formal organizations; no size threshold | no (ornament) | no number: died at the sources |
+| A, log 2 | fetch migrationresearch.com item 648005 | the page | title and DOI only | no | died at the source |
+| A, log 3 | `Breton institutional completeness determinants size of ethnic group distinctiveness resources personal relations in-group findings Montreal` | Breton and Pinard (via search) | in-group choices are much more likely if the group is large | yes: partnering falls with size | no |
+| A, log 4 | fetch cambridge.org Breton and Pinard | the page | HTTP 403 | no | died at the source |
+| A, log 5 | `how many members does a congregation need to sustain a full-time clergy and building average attendance threshold viability` | denominational guidance (an Episcopal diocesan model; Lutheran writers; consultants) | about 75 to 100 average attenders support a full-time clergy member and a building | yes: the specialist-and-building scale | no |
+| A, log 6 | `Friday prayer Jumu'ah minimum number of attendees Shafi'i forty men quorum Hanafi three` | SeekersGuidance, IslamQA, Mufti WP | quorum by school: 40 (Shafi'i, Hanbali), 12 (Maliki), 3 besides the imam (Hanafi) | yes: the quorum scale (a comparable only; no row is assigned any religion) | no |
+| A, log 7 | `small town synagogue closing cannot make a minyan dwindling Jewish community how many families needed` | JTA, J. Weekly, Forward | a minyan of ten; about 50 families made it easily, about 10 could not | yes: a quorum lapse has a moment | no |
+| A, log 8 | `ethnic restaurants supply immigrant population size threshold study number of co-ethnics needed to support ethnic grocery store` | Diaz and Ore (via University of Arizona); RIETI | more co-ethnics, more ethnic restaurants; majority customers also buy; no threshold | no (ornament) | no number: died at the sources |
+| A, log 9 | fetch rieti.go.jp dp 20e090 (PDF; text extracted with pdftotext) | Nakagawa, Sato, Tabuchi and Yamamoto 2020 | minority-good firms rise monotonically or in an inverted U with minority population (Tokyo) | no | no threshold |
+| A, log 10 | `intergenerational mother tongue transmission depends on size and residential concentration of language group census study immigrants children` | Schrauf 1999 (abstract); Statistics Canada | residence pattern and religious practice are the main factors to the third generation; same-tongue couples transmit more | yes | no |
+| A, log 11 | fetch Statistics Canada 11-008-x 2011002 article 11453 | Statistics Canada | exogamy considerably reduces transmission; strong migratory flows mattered more than concentration (the fetch summary's paraphrase) | yes: the renewal point | no |
+| A, log 12 | `Zelinsky Lee 1998 heterolocalism dispersed immigrant community without residential concentration sustained by institutions` | Penn State abstract; secondary sources | communities without propinquity, held by institutions, telecommunication and visits | yes: the street's divergence | no |
+| A, log 13 | `Blau Blum Schwartz group size intermarriage smaller groups higher out-marriage rates empirical evidence` | the 1982 study (abstract); later reviews | relative group size is inversely related to out-marriage | yes | no |
+| A, log 14 | `three-generation model language shift immigrants Alba Logan Lutz Stults "third generation" English monolingual small vs large groups` | Alba and colleagues 2002, Demography 39(3) (abstract) | third-generation home language depends most on intermarriage and communal context | yes (corroborates logs 10 and 11) | size not tested: died at the sources |
+| A, log 15 | `Kaifeng Jews isolation loss of Hebrew last rabbi died synagogue destroyed customs persisted household intermarriage` | Britannica (via search), J. Weekly, Forward | isolation; Hebrew lost by about 1700; the last rabbi about 1800-1810; the synagogue lost in the mid-19th century | yes | dates conflict across sources |
+| A, log 16 | fetch amazingjews.org Kaifeng profile | the page | empty | no | died at the source |
+| A, log 17 | fetch britannica.com Kaifeng-Jews | the page | HTTP 403 | no | died at the source |
+| A, log 18 | fetch en.wikipedia.org Kaifeng_Jews | Wikipedia | a peak of about 4,000; the synagogue dismantled 1850-1866; food rules, coffin shape, clan identity and memories persisted | yes: household- and kin-locked forms outlast assembling forms | no |
+| A, log 19 | `how large must an immigrant group be to form an ethnic neighborhood commercial street enclave formation size threshold` | Advani and Reich; Wikipedia; Andersson, Larsson and Öner | thresholds are shares, not counts | yes | no street headcount: died at the sources |
+| A, log 20 | fetch Advani and Reich 2015 PDF (text extracted with pdftotext) | "Melting Pot or Salad Bowl" | a small minority adopts majority practices; above about one third, English acquisition falls from 90% to under 50% and in-marriage rises; a lower threshold (23%) with more linguistic distance | yes: the critical-share divergence | no |
+| A, log 21 | `Gans 1979 symbolic ethnicity third generation holidays food persist after language lost "symbolic ethnicity"` | Sage encyclopedia; EBSCO summaries | symbolic ethnicity needs neither practice nor organization | yes (resemblance only) | food not confirmed in the snippets |
+| A, log 22 | fetch is.muni.cz Gans text | the page | empty | no | died at the source |
+| A, log 23 | fetch law.berkeley.edu Jiménez PDF (text extracted with pdftotext) | Jiménez 2008, AJS 113(6) | replenishment sustains ethnic boundaries; identity became symbolic against reduced immigration | yes | no |
+| A, log 24 | `island of New Guinea divided between Indonesia western half Papua provinces and Papua New Guinea eastern half border` | Wikipedia (border article) | the western half Indonesian, the eastern half Papua New Guinea | yes: the West Papua illustration | no |
+| A, log 25 | `Davis research station Antarctica accommodation capacity summer expeditioners winter population buildings` | the real station's operating agency (60th-anniversary material; a living page); the agency's name is withheld here (section 9) | about 90 to 100 people in summer, about 20 in winter | yes: the plant's scale caution (an infrastructure fact; used for nothing about founders; sent to the developer, AM-P2-Q21) | no |
+| A, log 26 | `long-term climate station record homogenization instrument change breakpoints inhomogeneity relocation observer change` | MET Norway report 2023; reviews | relocations and instrument and observer changes cause breaks; station metadata date them | yes: U-2 Q29 | no |
+| A, log 27 | `Sweden mother tongue instruction modersmålsundervisning municipality obligated if at least five pupils request language` | Skolverket; Skolkoll; Malmö | instruction required at five pupils with a suitable teacher | yes: the specialist, not the learner count, binds | no |
+
+### Reader B (Round 1)
+
+| Entry | Search string or fetch, verbatim | Source used | What it gave | Changed a finding? | Dead end |
+|---|---|---|---|---|---|
+| B, log 1 | WebSearch `Breton 1964 institutional completeness ethnic communities size immigrants` | erudit.org; a migrationresearch.com item; a vlex abstract | the concept; not the size variable | no | at the sources |
+| B, log 2 | WebSearch `National Congregations Study median congregation size regular participants` | NCS IV summary tables (Duke); baptistnews.com; christianitydaily.com | a median of 70 regular participants (the 50-adult gloss corrected by A in Round 3) | yes | no |
+| B, log 3 | WebSearch `minimum number of members for a congregation to be viable sustain a full-time clergy` | commentary (Substack, Christianity Today, Living Lutheran, Faith and Leadership) | about 80 to 90 members, about 100 weekly, about 125 adults for a full-time pastor | yes (low reliability) | no |
+| B, log 4 | WebSearch `ethnic restaurants number and size of immigrant population threshold study` | University of Arizona news (Diaz and Ore); phys.org; futurity.org | no numeric threshold | no | at the sources |
+| B, log 5 | WebFetch `https://migrationresearch.com/item/institutional-completeness-of-ethnic-communities-and-the-personal-relations-of-immigrants/648005` | the page | bibliographic data only | no | at the source |
+| B, log 6 | WebSearch `Breton institutional completeness "size" of ethnic group determinant churches newspapers welfare organizations Montreal 1964` | erudit.org; lowensteyn.com | informal networks precede formal organizations; no size figure | no | at the sources |
+| B, log 7 | WebSearch `minyan ten adult men required for communal prayer small Jewish communities could not sustain minyan` | myjewishlearning.com; ph.yhb.org.il | a quorum of ten adults; fragility in small synagogues | yes: quorum scale | no |
+| B, log 8 | WebSearch `Friday prayer jumu'ah minimum number of worshippers Shafi'i forty Hanafi three` | seekersguidance.org; islamqa.org; islamweb.net; wikishia.net | Hanafi three besides the imam; Maliki twelve; Shafi'i and Hanbali forty | yes: quorum range 3 to 40 | no |
+| B, log 9 | WebSearch `Blau Blum Schwartz 1982 heterogeneity and intermarriage smaller groups higher outmarriage group size` | abstract records; later reviews | relative size inversely related to out-marriage (ASR 47:45-62) | yes | no |
+| B, log 10 | WebSearch `Alba Logan Lutz Stults 2002 only English by the third generation language maintenance immigrant descendants` | econpapers.repec.org; IPUMS bibliography; IHSN catalog | third-generation home language most affected by intermarriage and communal context | yes | no |
+| B, log 11 | WebSearch `ethnolinguistic vitality demographic factors group numbers language maintenance Giles Bourhis Taylor 1977` | encyclopedia entries; course papers | group size, endogamy and exogamy, concentration | ornament | no number |
+| B, log 12 | WebSearch `Logan Zhang Alba 2002 immigrant enclaves and ethnic communities definition ethnic neighborhood concentration threshold` | krimdok record; citedrive | no operational threshold in the summaries | no | at the sources (full text needed) |
+| B, log 13 | WebSearch `ethnic grocery store threshold population central place theory minimum demand co-ethnic customers` | Wikipedia, "Threshold population"; extension pages | a low-order shop may need only about 800 customers | yes (low reliability) | no |
+| B, log 14 | WebSearch `small diaspora community of a few hundred people maintains church language school study` | search summaries (religionnews.com; juicyecumenism.com; citylimits.org) | a congregation of more than 50 members with a Sunday school and a language school, now about 30 attending; a Syriac program in a community of over 200 families | yes | no |
+| B, log 15 | WebFetch `https://religionnews.com/2021/10/20/south-sudanese-refugees-are-making-a-home-and-a-church-in-central-new-york/` | the page | HTTP 403 | no | at the source |
+| B, log 16 | WebSearch `Minnesota Estonian Latvian Lithuanian congregation decline small membership aging second generation language loss church closing` | mprnews.org; startribune.com; eestielu.ca; thenorthernvoices.com | a Baltimore Estonian congregation closing after 72 years | no | at the query (for Minnesota) |
+| B, log 17 | WebFetch `https://www.thenorthernvoices.com/post/Farewell-to-St-Marks-Estonian-Congregation-A-72-Year-Legacy-Ends-in-Baltimore` | the page | a final service in September 2024 after a decline over three years; no membership figures | ornament | no |
+| B, log 18 | WebSearch `St. Mark's Estonian Evangelical Lutheran congregation Baltimore final service 2024 members` | eestielu.ca | the decision took three years; no member count | no | at the sources (numbers) |
+| B, log 19 | WebSearch `Gans 1979 symbolic ethnicity third generation food holidays persist while language lost` | Gans text copies; Sage encyclopedia; EBSCO | symbols must be visible and easily expressed; the holiday link is a later (1994) extension | yes (with that caveat) | language not confirmed |
+| B, log 20 | WebSearch `critical mass immigrant group size ethnic institutions mosque temple formation number of coethnics needed study` | Advani and Reich 2015; Shertzer | a critical mass above which minorities keep practices; no headcount for a mosque or temple | yes | no |
+| B, log 21 | WebFetch `https://econpapers.repec.org/RePEc:ifs:ifsewp:15/30` | the abstract | a small minority adopts majority practices; groups above a critical mass may keep diverse practices | yes | no |
+| B, log 22 | WebSearch `Faroese church in Copenhagen congregation Faroese community size services in Faroese` | search results | a vicar for the Faroese in Denmark; no congregation size | no | at the sources |
+| B, log 23 | WebSearch `Gaelic-speaking community Cape Breton language decline community size church services Gaelic ended generations` | Nova Scotia archives and government study; CBC | heritage survived mostly in songs, dance and stories; home transmission in few families | yes | church services: at the sources |
+| B, log 24 | WebSearch `John Porter Vertical Mosaic "charter group" definition first ethnic group to come into previously unpopulated territory` | — | nothing on the definition | no | at the query |
+| B, log 25 | WebSearch `"charter group" Porter Canada British French "first ethnic group" prerogatives definition sociology` | Canadian Encyclopedia; encyclopedia.com; sociologyindex.com | the charter groups are the British and the French | yes: host and guest; the tacit chain | no |
+| B, log 26 | WebFetch `https://sociologyindex.com/charter_groups.html` | the page | a certificate error | no | at the source |
+| B, log 27 | WebFetch `https://thecanadianencyclopedia.ca/en/article/john-arthur-porter` | the page | a hierarchical patchwork with the British charter group at the top | ornament | no |
+| B, log 28 | WebFetch `https://encyclopedia.com/social-sciences/encyclopedias-almanacs-transcripts-and-maps/canadian-racial-formations` | the page | the French took a minority status relative to the British | yes: founding standing can sit with a minority | no |
+| B, log 29 | WebSearch `pidgin definition contact language no native speakers lexifier creole when children acquire it linguistics` | Wikipedia, "Pidgin"; a TRU textbook chapter | a pidgin is no community's native language; a creole results when children acquire it | yes: the C.3 qualifier | no |
+| B, log 30 | WebSearch `Hawaii plantation pidgin Japanese laborers contribution Hawaiian Pidgin English origins multiethnic plantation` | Wikipedia; popular-history sites | Japanese laborers among the contributors to a multiethnic contact language | ornament | no |
+| B, log 31 | WebSearch `Aldrich Waldinger 1990 ethnicity and entrepreneurship ethnic consumer products protected market size of ethnic community limits` | bibliographic data | nothing on community size | no | at the sources |
+| B, log 32 | WebFetch `https://en.wikipedia.org/wiki/Threshold_population` | Wikipedia | the 800-customer sentence, cited to a Hutchinson (Tiscali) encyclopedia entry | confirms log 13 and its low reliability | no |
+| B, log 33 | WebSearch `Diaz Ore Hispanic Asian population predict ethnic restaurants county Journal of Ethnic and Migration Studies 2020 findings` | University of Arizona news; phys.org; futurity.org | ethnic population predicts ethnic restaurants; majority populations buy ethnic groceries | yes: a small row's food can live on outside trade | no |
+| B, log 34 | WebSearch `climate station record homogenization instrument change relocation inhomogeneity breaks long-term temperature series` | NOAA (Menne and Williams 2009); ESSD 2012; MET Norway report 03/2020; ASCMO 2018 | instrument changes and relocations break long records; metadata are needed to detect the breaks | yes: U-2 Q29 | no |
+
+
+### Reader C (Round 1)
+
+| Entry | Search string or fetch, verbatim | Source used | What it gave | Changed a finding? | Dead end |
+|---|---|---|---|---|---|
+| C, log 1 | `Breton 1964 institutional completeness ethnic communities size of community` | erudit.org articles; citation records (AJS 70(2):193-205) | the concept; informal networks precede formal organizations | ornament | died at the sources (no size finding) |
+| C, log 2 | `"institutional completeness" ethnic group size number of organizations Breton findings larger communities more institutions` | erudit.org; ceeol | completeness as a spectrum | no | died at the sources |
+| C, log 3 | `Schiff "Cities and product variety: evidence from restaurants" population threshold cuisine minimum population` | IDEAS / RePEc abstract; a joeornstein.github.io PDF | the likelihood of a cuisine rises with population and density; the rarest cuisines only in the biggest cities | yes: the kitchen | no |
+| C, log 3a | WebFetch of the Schiff PDF | the same | the tool could not parse it; C extracted the text locally (a write C later reported as a breach) and read that a 10% rise in population raises the likelihood of a cuisine by 1.87% | yes | parse died at the fetch tool; recovered by local extraction |
+| C, log 4 | `Mazzolari Neumark 2012 "Immigration and product diversity" ethnic restaurants supply side comparative advantage findings` | NBER w14900; a Springer record | immigration raises ethnic restaurant diversity, partly through immigrants' comparative advantage in producing it | yes: the kitchen | no |
+| C, log 5 | `National Congregations Study median congregation size regular participants half of congregations fewer than` | Duke NCS tables; press coverage | a median of about 70 regular participants (the 50-adult gloss corrected by A in Round 3) | yes: the scale | no |
+| C, log 6 | `Kaifeng Jews last rabbi died Hebrew knowledge lost synagogue community size decline isolation` | myjewishlearning; Tablet; Shavei; Hadassah; a Britannica record | a peak of about 5,000; the last religious leader died in the early or mid-19th century (sources disagree); described as existing on memories | yes (seed) | dates disputed |
+| C, log 6a | WebFetch `https://www.britannica.com/topic/Kaifeng-Jews` | Britannica | — | — | died at the source (HTTP 403) |
+| C, log 6b | WebFetch `https://www.myjewishlearning.com/article/the-jews-of-kaifeng-chinas-only-native-jewish-community/` | My Jewish Learning | a peak of around 5,000; isolation; decline attributed to war and intermarriage | confirms, with a caveat on cause | no |
+| C, log 7 | `heritage language retention third generation relation to size and concentration of ethnic community study` | HRAF summaries; Springer (Alba and colleagues); a Sydney study | residence and religious practice the main factors; intermarriage drives third-generation loss; the spatial link said to be superseded | yes | partly (mixed evidence) |
+| C, log 7a | WebFetch `https://link.springer.com/content/pdf/10.1353/dem.2002.0023.pdf` | Springer | — | — | died at the source (authorization redirect) |
+| C, log 8 | `Alba Logan Lutz Stults 2002 "Only English by the third generation" abstract ethnic concentration bilingualism third generation` | RePEc and IPUMS records; the Albany release | the citation (Demography 39(3):467-484); third-generation figures | supports log 7 | abstract not retrieved |
+| C, log 8a | WebFetch `https://www.albany.edu/news/releases/2004/dec2004/bilingualism.htm` | University at Albany release (2004) | among third-generation Asians 92% speak only English; Hispanics 72%; Mexican-Americans 64% (1990) and 71% (2000); bilingualism concentrated in border communities | yes: the conversation lapses first | no |
+| C, log 9 | `Blau macrostructural theory intergroup marriage relative group size smaller groups higher outmarriage rates empirical` | Blau, Blum and Schwartz 1982 (ASR 47(1)); later reviews | relative size inversely related to out-marriage | yes | no |
+| C, log 10 | `how many co-ethnic residents needed to support an ethnic grocery store or ethnic business cluster threshold population study` | Kerr and Mandorff (NBER w21597); an HBS summary; a 2018 study | no threshold; small groups cluster tightly by industry | ornament | died at the sources |
+| C, log 11 | `ethnic enclave definition census tract threshold percent co-ethnic residents measurement Logan Zhang Alba` | search summary of a UCSF white paper and a review | more than 250 group residents in a tract (about 6% of about 4,000), plus other rules; no single standard | used only as an unverified scale | — |
+| C, log 11a | WebFetch `https://cancerregistry.ucsf.edu/document/enclave-white-paper-doc` | UCSF | — | — | died at the source (HTTP 403) |
+| C, log 11b | WebFetch `https://pmc.ncbi.nlm.nih.gov/articles/PMC8993138` | PMC | — | — | died at the source (a browser verification screen) |
+| C, log 12 | `quorum required for Friday prayer jumu'ah Shafi'i forty men Hanafi three minimum congregation` | islamqa.org; seekersguidance; wikishia | forty (Shafi'i, Hanbali), twelve (Maliki), three (Hanafi) | yes: quorum scale | no |
+| C, log 13 | `minyan quorum ten adults required for public prayer which prayers require a minyan` | Wikipedia; Chabad; My Jewish Learning | ten adults; no rabbi needed | yes: quorum scale | no |
+| C, log 14 | `Divine Liturgy cannot be celebrated without a priest Orthodox parish without priest reader's service typika small community` | OrthodoxWiki; Assembly of Bishops; parish resources | Typika or a Reader's Service replaces the Liturgy where no priest is available; needs a blessing; no sacraments | yes: lapse steps down | no |
+| C, log 15 | `how many families or members needed to support a full-time priest or pastor small parish financially viable minimum` | church-finance documents and articles | about 80 to 100 active members or regular attendees (US) | yes: the officiant scale (counted in people only, `DR-3`) | no |
+| C, log 16 | `Samaritan community population about 800 endogamy survived liturgy priesthood Mount Gerizim Holon numbers` | Wikipedia mirrors | about 900 today; a low below 150 (dated by A in Round 3 to 146 in 1917); endogamy; a continuous priesthood; daily speech shifted | yes: the counter-comparable | no (secondary sources) |
+| C, log 17 | `Henrich 2004 demography and cultural evolution Tasmanian case small isolated population loss of complex skills Kline Boyd 2010 population size tool complexity` | an HRAF summary of Kline and Boyd 2010 | population size predicts tool complexity in Oceania; Collard and colleagues failed to reproduce it | a factor only (contested) | Henrich not found on this query |
+| C, log 18 | `Henrich "Demography and cultural evolution" Tasmania American Antiquity 2004 loss of bone tools fishing isolation population size` | Cambridge abstract; Henrich's UBC record | long isolation let complex skills deteriorate while simple ones stayed; critiques (Read 2006) | a factor only (contested) | no |
+| C, log 19 | `Sorbs Lusatia number of people Upper Sorbian speakers Lower Sorbian endangered despite schools churches institutions` | Wikipedia; Mercator wiki; minorityrights.org | about 60,000 Sorbs; Lower Sorbian at most about 7,000 speakers and rarely passed on | yes: the conversation lapses first | no |
+| C, log 20 | `"ethnic precinct" emergence co-ethnic population size Collins Kunz Sydney ethnic precincts how they form` | UTS repository (Collins) | precincts form through entrepreneurs clustering and designation by authorities and place marketers | yes: the street | died at the sources (no threshold) |
+| C, log 21 | `Giles Bourhis Taylor 1977 ethnolinguistic vitality demographic factors absolute numbers concentration mixed marriages language maintenance` | encyclopedia entries and slides | demographic vitality covers numbers, birthrate, mixed marriages, immigration, emigration and distribution | supports the lapse refinements | secondary only |
+
+### Round 3 checks (searches and fetches run in the cross-check replies)
+
+| Entry | Search string or fetch, verbatim | Source used | What it gave | Changed a finding? | Dead end |
+|---|---|---|---|---|---|
+| A, Round 3 check 1 | `Samaritan population lowest point 146 people 1917 or 19th century fewer than 150` | Minority Rights Group; Al Jazeera (2004, 2013); encyclopedia.com; Britannica | a low of 146, most often dated 1917; single sources give the 1930s or 1946 | yes: corrects C's date; C's conclusion stands | no |
+| A, Round 3 check 2 | `National Congregations Study 2018-19 median congregation 70 regular participants 50 adults` | NCS IV report tables (Duke); Baptist News; Baptist Press | the median of 70 counts adults and children; about 50 adults belongs to the congregation led by the median clergy person | yes: corrects the gloss in B and C; no conclusion changes | no |
+| B, Round 3 check 1 | WebFetch `https://www.albany.edu/news/releases/2004/dec2004/bilingualism.htm` | University at Albany release | C's figures as the source states them | confirms C | no |
+| B, Round 3 check 2 | WebSearch `Advani Reich "Melting Pot or Salad Bowl" critical mass threshold share of county English acquisition in-marriage one third` | the paper's listing only | — | no | at the sources |
+| B, Round 3 check 3 | WebFetch `https://pet2017paris2.sciencesconf.org/140681/AdvaniReich2015_MeltingPotOrSaladBowl.pdf` | the paper (text read to the screen only) | thresholds around one third; English acquisition from 90% to 50%; in-marriage from 55% to 75%; estimated thresholds of .23 to .39 | confirms A | no |
+| C, Round 3 check 1 | WebFetch `https://econpapers.repec.org/RePEc:ifs:ifsewp:15/30` | the abstract | no numeric threshold | confirms B's quotation | no |
+| C, Round 3 check 1 (continued) | WebSearch `Advani Reich "Melting Pot or Salad Bowl" critical mass immigrant share county English intermarriage threshold percent` | the paper's PDF and a working-paper page | no numbers in the snippets | no | at the snippets |
+| C, Round 3 check 1 (continued) | WebFetch of the paper's PDF (text read to the screen only) | the paper | thresholds around one third (31%, 35%, 23% for one group); English acquisition from 90% to 50%; in-marriage from 55% to 75% | confirms A | no |
+| C, Round 3 check 2 | WebFetch `https://en.wikipedia.org/wiki/Threshold_population` | Wikipedia | the 800-customer sentence, sourced to a Tiscali / Hutchinson entry | confirms B, with B's low-reliability grade | no |
+
+### Read-only computations (listed; the raw outputs are in the readers' files)
+
+- **A:** command 1 (per-row headcounts and retention, SPEC L32-76; the sums reproduce the census totals); command 2 (the rounding bands); command 3 (departures, tiers, the ceiling); command 4 (the approximate draw reconstruction); command 5 (pooled successor sets); command 6 (the 75-to-100 participation shares). A's Round 3 recomputation reproduced B's and C's draw model.
+- **B:** C1 (every row by its own headcount); C2 (pooled sets, rows under thresholds, tier totals); C3 (the draw reconstruction and the ratio gaps); C4 (departures and retention). B's Round 3 commands recomputed the tier totals, the exact city retention and A's draw model.
+- **C:** the rounding table; the pooled shares; the per-row table (quorum, officiant, street); the departure figures. C's Round 3 recounts confirmed the twelve rows under 800 humans and rescaled its draw range to final units.
+- **K:** C-2 and C-4 computed the row-size bands and the across-row retention spreads from hand-typed rows that reproduce the spec's header totals.
+
+
+## 9. Merge record
+
+### How the merge rule was applied
+
+- **Dispositions** count the three Round 1 readers. An item one reader found in Round 1 and the others adopted in Round 3 stays `found by one`; the Round 3 column of the table below records the adoption. K is listed as a further finder. An item only K found is `found by one` with finder K.
+- **Conflicts** are contradictions that remain after Round 3. A point on which a reader withdrew in Round 3, leaving all three in agreement, is not a remaining conflict: its disposition is the agreement, and the withdrawal is recorded below as evidence for the narrower reading.
+- **Strength** follows the weakest grade any reader gave after Round 3, unless a reader's own reply changed it. A's reply called all the lapse refinements seeds, so they are written as seeds. Where K alone found a point and graded none, it is carried as seed and marked so where it is used.
+- **Confidence** in the docket is the lowest confidence any reader gave for that row. Where only K found a row (K gave no confidence), the merge set it from K's own verdict word: medium for a conditional or exposed point, high for a bare address.
+- **Proposed wordings** are merged from the readers' own wordings and credited to them. The merge added no finding of its own. Where it added a caution required by the brief's rules, it says so below.
+- **Round 3 corrections of fact were applied:** the Samaritans' low point is dated 1917, not the 19th century (A on C); the 50-adult figure belongs to a different measure than the median congregation (A on B and C); C's upper draw figure of 11.2% was in pre-Kazakhstan units and is 11.05% in final units (C); the words "provided it's maintained, or at least not-degraded" stand at LOG L626, not L631 (C on A); the old NNS "L40-41" text now stands at L42-43 (B; C corrected itself); A's city retention reference values differ from the exact ones in the fourth decimal (B).
+
+### Found by and confirmed by, for every item
+
+Sections 1 to 3:
+
+| Item | Found by (Round 1) | Round 3 | Disposition |
+|---|---|---|---|
+| AM-P2-F1 | A, B, C; K | A and C adopted B's UEIC L598 point | confirmed by all three |
+| AM-P2-F2 | A, B, C; K | — | confirmed by all three |
+| AM-P2-F3 | A, B, C; K | A withdrew its 5,000 band; C proposed the banded wording | confirmed by all three |
+| AM-P2-F4 | A, B, C; K | A and B recomputed the draw model; A adopted B's tier-boundary point | confirmed by all three |
+| AM-P2-F5 | A, B, C; K | — | confirmed by all three |
+| AM-P2-F6 | A, B, C; K | B, C and A each moved on the form claim | confirmed by all three |
+| AM-P2-F7 | A, B, C | B adopted A's re-grounding; C took B's line numbers | confirmed by all three |
+| AM-P2-F8 | A, B, C; K | B adopted C's third-doubt wording | confirmed by all three |
+| AM-P2-F9 | A, B, C; K | — | confirmed by all three |
+| AM-P2-F10 | A, B, C; K | C withdrew weight of numbers as a firm ground and its class for too small | confirmed by all three |
+| AM-P2-F11 | A, B, C; K | B and C adopted A's all-at-once kill and human channel; A and B adopted C's supply clock | confirmed by all three |
+| AM-P2-F12 | A, B, C; K | C adopted B's wording | confirmed by all three |
+| AM-P2-F13 | A, B, C; K | A and C adopted B's `H8` condition; A adopted C's record point and wording; B adopted the calendar | confirmed by all three |
+| AM-P2-F14 | A, B, C; K | B adopted A's fourth-order point | confirmed by all three |
+| AM-P2-F15 | A, B, C; K | A narrowed its quorum reading; B narrowed its kitchen reading; A and C adopted B's humans-only point | confirmed by all three |
+| AM-P2-F16 | A, B, C; K | B adopted A's specialists and quorum moment and C's step-down | confirmed by all three |
+| AM-P2-F17 | A, B, C; K | — | confirmed by all three |
+| AM-P2-F18 | A, B, C; K | A withdrew its Austro-Bavaria claim | confirmed by all three |
+| AM-P2-F19 | A, B, C; K | B adopted C's two classes | confirmed by all three |
+| AM-P2-F20 | A, B, C; K | — | confirmed by all three |
+| AM-P2-F21 | A, B, C; K | C adopted A's built-from-nothing qualifier | confirmed by all three |
+| AM-P2-F22 | A, B, C; K | A adopted C's fuller absence list; A and B adopted C's converse | confirmed by all three |
+| AM-P2-F23 | A, B, C; K | B withdrew its class | confirmed by all three |
+| AM-P2-F24 | A, B, C; K | A and B withdrew that manufacture is unsourced | confirmed by all three |
+| AM-P2-F25 | A, B, C; K | — | confirmed by all three |
+| AM-P2-F26 | A, B, C; K | A and B sent the scale question to the developer | confirmed by all three |
+| AM-P2-F27 | A, B, C; K | — | confirmed by all three |
+| AM-P2-F28 | A, B, C; K | C adopted A's qualifier at P2 L965 | confirmed by all three |
+| AM-P2-K1 | A, B, C; K | — | confirmed by all three |
+| AM-P2-K2 | A, B, C; K | — | confirmed by all three |
+| AM-P2-K3 | A, B, C; K | — | confirmed by all three |
+| AM-P2-K4 | A, B, C; K | — | confirmed by all three |
+| AM-P2-K5 | A, B, C; K | — | confirmed by all three |
+| AM-P2-K6 | A, B, C; K | — | confirmed by all three |
+| AM-P2-K7 | A, B, C; K | — | confirmed by all three |
+| AM-P2-K8 | A, B, C; K | B narrowed, C killed, A withdrew a clause | conflict resolved to the narrower reading |
+| AM-P2-K9 | A, B, C; K | — | confirmed by all three |
+| AM-P2-K10 | A, B, C; K | — | confirmed by all three |
+| AM-P2-K11 | A, B, C; K | — | confirmed by all three |
+| AM-P2-K12 | A, B, C | positions held | conflict resolved to the narrower reading |
+| AM-P2-K13 | A, B, C; K | — | confirmed by all three |
+| AM-P2-K14 | A, B, C; K | C withdrew its class; A added the class | confirmed by all three |
+| AM-P2-K15 | A, B, C; K | — | confirmed by all three |
+| AM-P2-K16 | A (K noted it) | B and C adopted | found by one |
+| AM-P2-K17 | A, B, C | — | confirmed by all three |
+| AM-P2-K18 | C | A and B adopted | found by one |
+| AM-P2-K19 | A, B, C | — | confirmed by all three |
+| AM-P2-K20 | A, B, C; K | — | confirmed by all three |
+| AM-P2-K21 | A, B, C | — | confirmed by all three |
+| AM-P2-K22 | A, B, C | B objected to A's class | conflict resolved to the narrower reading |
+| AM-P2-K23 | A, B, C; K | A adopted C's wording | confirmed by all three |
+| AM-P2-K24 | A, B, C; K | — | confirmed by all three |
+| AM-P2-K25 | A | B adopted | found by one |
+| AM-P2-K26 | A, B, C; K | — | confirmed by all three |
+| AM-P2-K27 | A, B, C; K | wording difference only (B) | confirmed by all three |
+| AM-P2-K28 | A, B, C; K | — | confirmed by all three |
+| AM-P2-K29 | K | — | found by one |
+| AM-P2-K30 | A, B, C; K | B withdrew its class; C recorded both layers | confirmed by all three |
+| AM-P2-K31 | A, B, C; K | — | confirmed by all three |
+| AM-P2-K32 | C | A and B adopted | found by one |
+| AM-P2-K33 | A, B, C; K | — | confirmed by all three |
+| AM-P2-K34 | A, B, C; K | C sided with A; B held its qualifier | conflict resolved to the narrower reading |
+| AM-P2-K35 | A, B, C | — | confirmed by all three |
+| AM-P2-K36 | A | B agreed | found by one |
+| AM-P2-K37 | A, B, C; K | — | confirmed by all three |
+| AM-P2-K38 | A, B, C; K | — | confirmed by all three |
+| AM-P2-K39 | K | — | found by one |
+| AM-P2-K40 | A, C; K (B held it stands) | positions held | conflict resolved to the narrower reading |
+| AM-P2-N1 | B | A and C adopted | found by one |
+| AM-P2-N2 | A, B, C | — | confirmed by all three |
+| AM-P2-N3 | A, C | — | found by two |
+| AM-P2-N4 | A, B, C | — | confirmed by all three |
+| AM-P2-N5 | A, B, C (robot channel); A (human channel) | B and C adopted A's human channel | confirmed by all three |
+| AM-P2-N6 | A, B, C | — | confirmed by all three |
+| AM-P2-N7 | A, B, C | — | confirmed by all three |
+| AM-P2-N8 | A, B, C; K | — | confirmed by all three |
+| AM-P2-N9 | A | B verified A's figures | found by one |
+| AM-P2-N10 | A | B adopted | found by one |
+| AM-P2-N11 | C | A and B adopted | found by one |
+| AM-P2-N12 | C; B (humans only) | each adopted by the others | found by one |
+| AM-P2-N13 | A, B, C | — | confirmed by all three |
+| AM-P2-N14 | A, B, C; K | — | confirmed by all three |
+| AM-P2-N15 | B, C; K | C took B's line numbers | found by two |
+| AM-P2-N16 | B | A and C agreed | found by one |
+| AM-P2-N17 | B | A and C agreed on the texts; C withdrew a citation | found by one |
+| AM-P2-N18 | B, C | — | found by two |
+| AM-P2-N19 | A, B, C | A and B withdrew to C's reading | confirmed by all three |
+| AM-P2-N20 | K | — | found by one |
+| AM-P2-N21 | A, B, C; K | B adopted the calendar | confirmed by all three |
+| AM-P2-N22 | C | A and B adopted | found by one |
+
+
+Sections 4 to 6:
+
+| Item | Found by (Round 1) | Round 3 | Disposition |
+|---|---|---|---|
+| AM-P2-D1 | A, B | — | found by two |
+| AM-P2-D2 | B | — | found by one |
+| AM-P2-D3 | A, B, C | — | confirmed by all three |
+| AM-P2-D4 | A, B, C; K | — | confirmed by all three |
+| AM-P2-D5 | A, B, C; K | C sided with A; B held its qualifier | conflict resolved to the narrower reading |
+| AM-P2-D6 | A, B | — | found by two |
+| AM-P2-D7 | A, B, C; K | A and C adopted B's UEIC L598 point | confirmed by all three |
+| AM-P2-D8 | B, C | — | found by two |
+| AM-P2-D9 | A, B, C | A and B withdrew to C's reading | confirmed by all three |
+| AM-P2-D10 | A, B; K | — | found by two |
+| AM-P2-D11 | A, B, C; K | — | confirmed by all three |
+| AM-P2-D12 | A, B, C; K | — | confirmed by all three |
+| AM-P2-D13 | K | — | found by one |
+| AM-P2-D14 | A, B, C; K | — | confirmed by all three |
+| AM-P2-D15 | A, B, C | — | confirmed by all three |
+| AM-P2-D16 | A, B, C | — | confirmed by all three |
+| AM-P2-D17 | A, B, C; K | — | confirmed by all three |
+| AM-P2-D18 | K | — | found by one |
+| AM-P2-D19 | A, B, C; K | — | confirmed by all three |
+| AM-P2-D20 | C | — | found by one |
+| AM-P2-D21 | A, C | — | found by two |
+| AM-P2-D22 | K | — | found by one |
+| AM-P2-D23 | B, C; K | C took B's line numbers | found by two |
+| AM-P2-D24 | A, B, C | — | confirmed by all three |
+| AM-P2-D25 | K | — | found by one |
+| AM-P2-D26 | A | — | found by one |
+| AM-P2-D27 | A, B, C; K | — | confirmed by all three |
+| AM-P2-D28 | A, B, C; K | — | confirmed by all three |
+| AM-P2-D29 | A, B, C | B adopted A's re-grounding | confirmed by all three |
+| AM-P2-D30 | B, C | — | found by two |
+| AM-P2-D31 | A, C | — | found by two |
+| AM-P2-D32 | A, B, C | — | confirmed by all three |
+| AM-P2-D33 | A, B, C | — | confirmed by all three |
+| AM-P2-D34 | A | — | found by one |
+| AM-P2-D35 | A | — | found by one |
+| AM-P2-D36 | A, B, C; K | — | confirmed by all three |
+| AM-P2-D37 | A, B, C; K | the form claim moved (see the conflicts) | confirmed by all three |
+| AM-P2-D38 | A, B, C; K | — | confirmed by all three |
+| AM-P2-D39 | A, B, C; K | B and C adopted A's all-at-once kill | confirmed by all three |
+| AM-P2-D40 | A, B, C; K | — | confirmed by all three |
+| AM-P2-D41 | A, B, C; K | — | confirmed by all three |
+| AM-P2-D42 | A, C | — | found by two |
+| AM-P2-D43 | A, B, C; K | — | confirmed by all three |
+| AM-P2-D44 | A, B, C; K | — | confirmed by all three |
+| AM-P2-D45 | A, B, C; K | A and B withdrew on limit 6 | confirmed by all three |
+| AM-P2-D46 | A, B, C; K | — | confirmed by all three |
+| AM-P2-D47 | A, B, C; K | — | confirmed by all three |
+| AM-P2-D48 | A, B, C; K | — | confirmed by all three |
+| AM-P2-D49 | A, B, C; K | B adopted A's fourth-order point | confirmed by all three |
+| AM-P2-D50 | A, B, C; K | — | confirmed by all three |
+| AM-P2-D51 | B, C | — | found by two |
+| AM-P2-D52 | B | A and C answered B's question | found by one |
+| AM-P2-D53 | A, B, C; K | A adopted C's wording | confirmed by all three |
+| AM-P2-D54 | A, B, C; K | — | confirmed by all three |
+| AM-P2-D55 | A, C | — | found by two |
+| AM-P2-D56 | C | A and B adopted | found by one |
+| AM-P2-D57 | B, C | — | found by two |
+| AM-P2-D58 | A, B, C; K | — | confirmed by all three |
+| AM-P2-D59 | A, B, C | — | confirmed by all three |
+| AM-P2-D60 | A, B, C; K | — | confirmed by all three |
+| AM-P2-D61 | K | — | found by one |
+| AM-P2-D62 | K | — | found by one |
+| AM-P2-D63 | A, C; K | — | found by two |
+| AM-P2-D64 | C; K | positions unchanged | conflict resolved to the narrower reading |
+| AM-P2-D65 | A, B, C; K | — | confirmed by all three |
+| AM-P2-D66 | K | — | found by one |
+| AM-P2-D67 | A, B, C; K | — | confirmed by all three |
+| AM-P2-D68 | K | — | found by one |
+| AM-P2-D69 | A, C; K (B held it stands) | positions unchanged | conflict resolved to the narrower reading |
+| AM-P2-D70 | B | — | found by one |
+| AM-P2-D71 | K | — | found by one |
+| AM-P2-D72 | A, B, C | — | confirmed by all three |
+| AM-P2-D73 | A, B, C | — | confirmed by all three |
+| AM-P2-D74 | B, C | — | found by two |
+| AM-P2-D75 | A | — | found by one |
+| AM-P2-D76 | C | — | found by one |
+| AM-P2-D77 | A, B, C; K | — | confirmed by all three |
+| AM-P2-D78 | A, B, C; K | — | confirmed by all three |
+| AM-P2-D79 | K | — | found by one |
+| AM-P2-D80 | A, B, C; K | — | confirmed by all three |
+| AM-P2-D81 | A, B, C; K | C adopted A's qualifier | confirmed by all three |
+| AM-P2-D82 | A, B, C; K | — | confirmed by all three |
+| AM-P2-D83 | A, B, C | all three agreed the refinements merge | confirmed by all three |
+| AM-P2-D84 | A, B, C; K | — | confirmed by all three |
+| AM-P2-D85 | B (K agreed it stands) | — | found by one |
+| AM-P2-D86 | A, B, C; K | — | confirmed by all three |
+| AM-P2-D87 | A | — | found by one |
+| AM-P2-D88 | B | — | found by one |
+| AM-P2-D89 | A, B | — | found by two |
+| AM-P2-D90 | A, B, C | — | confirmed by all three |
+| AM-P2-D91 | A, B, C | B objected to A's class (see the conflicts) | confirmed by all three |
+| AM-P2-D92 | A, B, C; K | — | confirmed by all three |
+| AM-P2-D93 | A, B, C | crossed withdrawals | conflict resolved to the narrower reading |
+| AM-P2-D94 | A | — | found by one |
+| AM-P2-D95 | C | A adopted | found by one |
+| AM-P2-D96 | A, B, C; K | — | confirmed by all three |
+| AM-P2-D97 | C | — | found by one |
+| AM-P2-D98 | A, B, C; K | — | confirmed by all three |
+| AM-P2-D99 | A, B, C; K | — | confirmed by all three |
+| AM-P2-D100 | K | — | found by one |
+| AM-P2-D101 | B, C | — | found by two |
+| AM-P2-D102 | A | — | found by one |
+| AM-P2-D103 | B | — | found by one |
+| AM-P2-D104 | A, B | — | found by two |
+| AM-P2-D105 | A, B, C; K | — | confirmed by all three |
+| AM-P2-D106 | B | — | found by one |
+| AM-P2-D107 | A, B, C | — | confirmed by all three |
+| AM-P2-D108 | A, B, C; K | B adopted C's wording | confirmed by all three |
+| AM-P2-D109 | A, C; K | — | found by two |
+| AM-P2-D110 | A, B, C; K | — | confirmed by all three |
+| AM-P2-D111 | A, B, C | — | confirmed by all three |
+| AM-P2-D112 | B | — | found by one |
+| AM-P2-Q1 | B, C; K (A applied it) | — | found by two |
+| AM-P2-Q2 | B, C; K (A applied it) | — | found by two |
+| AM-P2-Q3 | B | — | found by one |
+| AM-P2-Q4 | A | — | found by one |
+| AM-P2-Q5 | C | — | found by one |
+| AM-P2-Q6 | A, B, C; K | — | confirmed by all three |
+| AM-P2-Q7 | A, B, C; K | — | confirmed by all three |
+| AM-P2-Q8 | A | — | found by one |
+| AM-P2-Q9 | A, C; K | the recommendations differ | conflict sent to the developer |
+| AM-P2-Q10 | A, C; K | — | found by two |
+| AM-P2-Q11 | A; K | — | found by one |
+| AM-P2-Q12 | C | — | found by one |
+| AM-P2-Q13 | A, B; K | — | found by two |
+| AM-P2-Q14 | B; K (A and C applied it) | — | found by one |
+| AM-P2-Q15 | B; K (A and C applied it) | — | found by one |
+| AM-P2-Q16 | B; K (A and C applied it) | — | found by one |
+| AM-P2-Q17 | B; K (A and C applied it) | — | found by one |
+| AM-P2-Q18 | B | A and C agreed on the texts | found by one |
+| AM-P2-Q19 | B | A and C answered; the recommendations differ | conflict sent to the developer |
+| AM-P2-Q20 | B; K (A and C applied it) | — | found by one |
+| AM-P2-Q21 | A, B (in Round 3) | the recommendations differ | conflict sent to the developer |
+| AM-P2-Q22 | C | — | found by one |
+| AM-P2-R1 | A, B, C; K | — | confirmed by all three |
+| AM-P2-R2 | A | — | found by one |
+| AM-P2-R3 | A | — | found by one |
+| AM-P2-R4 | A, B, C | — | confirmed by all three |
+| AM-P2-R5 | B | — | found by one |
+| AM-P2-R6 | B, C | — | found by two |
+| AM-P2-R7 | B | — | found by one |
+| AM-P2-R8 | A, B | — | found by two |
+| AM-P2-R9 | A, C | — | found by two |
+| AM-P2-R10 | A, B, C | — | confirmed by all three |
+| AM-P2-R11 | A | — | found by one |
+| AM-P2-R12 | C | — | found by one |
+| AM-P2-R13 | B | — | found by one |
+| AM-P2-R14 | A, B, C | — | confirmed by all three |
+| AM-P2-R15 | B | — | found by one |
+| AM-P2-R16 | A, B, C | — | confirmed by all three |
+| AM-P2-R17 | A, C | — | found by two |
+| AM-P2-R18 | K | — | found by one |
+| AM-P2-R19 | B, C | A agreed | found by two |
+
+### Every conflict, and how it was decided
+
+Seventeen conflicts remained after Round 3. Fourteen were resolved to the narrower reading and three were sent to the developer. A vote count decided none of them.
+
+- **The section K line at P2 L1362.** A wanted it restated, B kept it unchanged, C wanted a qualifier. In Round 3 each withdrew toward another: A to B's view, B to a pointer, C to a pointer. Resolved to a pointer only, the reading that claims least about the line (AM-P2-D93).
+- **The rounding guard's wording.** B's limit of ±0.02 points above about 10,000 people fails for humans (C). Resolved to the banded wording every column supports (AM-P2-F3).
+- **The form of words at P2 L231-234.** B narrowed its kill; C moved to a kill; A withdrew a clause. Resolved: the one-slot clause is killed, and Davis's plural stock field is written as a description, not as a survival of the pass's argument (AM-P2-K8).
+- **A.3's discriminator.** A and C: the undated half failed; B: it held. Resolved: the dated half is kept, the arrival reading is killed, and the undated half is not used again (AM-P2-K12).
+- **The quorum in the smallest rows.** B: every row has the numbers; C: at a 40-adult quorum the smallest rows need most of their humans. Resolved to the reading bounded at both ends of the quorum range (AM-P2-F15).
+- **The kitchen.** B kept a per-row reading on a low-reliability figure; A rejected a per-row verdict; C framed the kitchen by the city's demand. Resolved: no per-row kitchen verdict (AM-P2-F15).
+- **A contested factor in the yield.** C named Henrich's thesis; A would keep it out of the docket wording; B accepted it as labeled. Resolved: the docket wording names headcount only; the factors are seeds (AM-P2-F21).
+- **Ground or polity in E.1.** A: the 2564 polity's territory; B: polity level, conditionally; C and K: ground. Resolved: the inference holds at the level of the parent pools, and the unit is left open (AM-P2-F22).
+- **The time-zone window as an in-world proxy.** A read it so; C held that it binds as a limit only. Resolved: no in-world reading of the window (AM-P2-F23).
+- **Fire #11.** A, C and K: superseded; B: a qualifier. Resolved to the qualifier (AM-P2-K34).
+- **The class of the longevity line.** A: killed by evidence; B: answered, not refuted; C: its ground changed. Resolved to answered, not refuted (AM-P2-K22).
+- **P2 L724.** C: restate it on transmission; K: it stands. Resolved to a pointer only (AM-P2-D64).
+- **The ground for no claim.** A used TREATY II.1; C showed that II.1 governs territorial claims in Antarctica. Resolved: II.1 is not used (AM-P2-F27).
+- **The fourth order, "confers nothing".** A, C and K: narrow or correct it; B: it stands. Resolved to the narrower claim, which fits B's own account of what the inheritance confers (AM-P2-K40).
+- **Sent to the developer:** whether a row's robots are counted carriers (A: no; C: leave open) (AM-P2-Q9); where the treaty's draft qualifier goes (B and C: on each finding; A: once in the head) (AM-P2-Q19); whether the station's present-day capacity may stand as a comparable (A: yes, labeled; B: no) (AM-P2-Q21). In each, the narrower answer is recommended.
+- **Not treated as a conflict:** B and C kept P2 L738-740 as standing, while K qualified L739-740's inventory phrase. B's and C's own inventories (a library and a plant) support K's qualifier, and the no-precedence conclusion that B and C kept is unchanged (AM-P2-K39). A called founding-era robots' origin cultures plausible and unstated, and C called them stated; C read the difference in Round 3 as an understatement, not a contradiction (AM-P2-F19).
+
+### Every withdrawal (each is evidence for the narrower reading)
+
+- **A:** that P2 L1362 needs restating; the rounding band under about 5,000 people; the clause that the form's single word assumes a coincidence; that Austro-Bavaria holds Austria's people; that manufacture is unsourced; that limit 6 has no target in the current text. A also narrowed its quorum reading for the smallest rows.
+- **B:** that P2 L1362 needs no change (now a pointer); its kill of the form of words (now narrowed); that the host-and-guest model has no order to stand on (now no recorded order); that the small rows lack the numbers for a kitchen (now only a kitchen living on co-ethnic trade alone); that E.1's third order is killed for want of an admitted line (now killed by evidence, with employment for want of a line); that manufacture has no ground (now a loose ground); that limit 6 has no object in CENSUS L390-396 (now cannot be re-checked).
+- **C:** weight of numbers as an independent firm ground against hosting; its framing of what survives of H-2; its correction of P2 L1362 (now a pointer only); its citation of LOG L1529 as support for the reserved shares; its NNS line numbers L41-43 (now B's L42-43). C also narrowed its kitchen seed to human customers, adopted B's wording for precedence, and rescaled its draw figure to final units.
+
+### Points the readers flagged as unclear in the brief, and process notes
+
+- **Brief rule 4 against reasoning from the elapsed time** sits uneasily with B.4's born-here inference, which partly rests on 248 years (A; K, C-1). A grounded the human half on the Acts law instead; B reported the rule observed. The restated born-here mode rests on the recorded absence and the Acts law, not on the length of the frame (AM-P2-F11).
+- **C-2 (b) asked for one size** at which a minority sustains its forms. The literature gives three kinds of threshold (quorum counts, specialist-and-building attendance, population shares), and all three are reported (A).
+- **The brief quotes LOG L1527 as "at its foundational level core";** the line reads "down at its foundational level core" (B; confirmed by A).
+- **Orchestrator result 9 appears to conflict with `DR-94` item 4** (B; AM-P2-N17).
+- **The Register's header lies outside every admitted range,** as the brief foresaw (A, B, C; K).
+- **Only 01, 02 and P2 of the pass files were admitted,** although the brief asks for every location in any pass file (B; AM-P2-R15).
+- **C-2 (a) asks whether each row carries its practices across generations;** no admitted line states any row's carriage, so the answer is the comparables' expectation, marked seed or conditional (C).
+- **Positional lines carrying forbidden names** (PHYS L438, REGISTER L59, NNS L174, LOG L1523 and L1550) were copied only inside the readers' PROOF blocks, with EXEMPT lines. B added a precautionary EXEMPT line to UEIC L598, whose middle line names real-world ports and cities; A and C added none and named the question. RWI L34 contains a compound word with the string the brief bars as a label; B flagged it, and A and C copied it only positionally. None of this text is reproduced in the merged piece.
+- **Files written outside a reader's output file:** A extracted three PDFs into folders at the scratchpad root, listed that root, and deleted the folders; C kept one extraction in its own staging folder and acknowledged it in Round 3 as a breach; K's readers wrote helper scripts (C-1 deleted its script; C-2 and C-4 kept theirs for audit). None affects a finding. **The merge writer** also wrote one file besides its part files: a temporary concatenation of the parts, `p2_all.tmp`, at the scratchpad root, used only for the key and reference checks. A hook blocked its deletion, and the merge writer did not work around the hook, so the file remains. It holds nothing that is not in the parts.
+- **Hooks.** No tool-use hook fired in Round 1 for A, B or C. In Round 3, the graphify hook fired on B's and C's read-only commands and was disregarded under `DR-6`. K's readers saw the hook and disregarded it under `DR-6`. In this merge the graphify hook fired on each shell command the merge writer ran over its own part files, and was disregarded under `DR-6`. A second hook blocked a file deletion and was obeyed.
+- **Whole-file reads for counting.** B's and C's read-only commands loaded whole files to count lines or to locate quotations, displaying nothing outside an admitted span; both reported it in case it counts against standing line 2.
+- **K's verdicts did not always fit their closed set** (C-1 chose FLIPS over NARROWS as the more conservative); and K (C-7) asked which item owns four uncited places. This piece re-derives all of them, so no routing ruling is needed.
+
+### Omissions the merge made under the brief's rules
+
+- **Other locations' names** are not copied: the two other cities in `DR-19` (LOG L545-547); `DR-99` item 1's location (LOG L1660); the rest of NNS L44; the later allocation instance in SCAFFOLD; the named exception in PHYS L409; the other locations in SPEC L8 and L153; the subnet name in REGISTER L59's second cell and in the readers' file paths. Each is written as "(another location: not used)" or left out.
+- **K's use of `DR-99`'s wording about another location** to show that the pass's word "founders" could stand for the founder nation's share (C-1) is left out, because it rests on another location's line.
+- **The real station's operating agency,** named as a source in A's research log (entry 25), is withheld, so that the station-builder stays a coordinate only and no sentence sits the founder beside the station's operator.
+- **UEIC L598's cross-city comparison phrase and real-world port names** are not reproduced.
+- **A's request to read `DR-99`'s other rows** is written with a caution added under the one-location law: only a general statement may be taken, never another location's answer (AM-P2-R3).
+- **K (C-1)'s weak reading of NNS L41,** which places the founder nation's people at the founding, is not used; K itself rejected it.
+- **The readers' PROOF blocks** are not reproduced; they are not part of the merged structure.
+
+*End of merged piece P2. Everything above is PROPOSED; no pass file was edited.*
+

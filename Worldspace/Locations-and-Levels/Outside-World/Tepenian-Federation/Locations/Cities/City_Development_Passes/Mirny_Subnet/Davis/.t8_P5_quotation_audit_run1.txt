@@ -1,0 +1,38 @@
+pass audited : Davis
+corpus mode  : default (own pass excluded)
+corpus files : 6473   chars: 94,154,673
+files audited: Amendment_Rederivation_P5_Relations_2026-11-09.md
+own-pass mode: a quotation may also be found in this pass's OTHER files (never in its own file)
+
+=== POSITIVE CONTROLS ===
+  [easy                      ] FOUND     a terminus is nobody's midpoint
+  [HARD - blockquote wrap    ] FOUND     A pass may not proceed to Step 5 with a NEVER CITED row
+  [HARD - outside Worldspace ] FOUND     Paste raw QA scan output into the QA block. Never summa
+  [HARD - case mismatch      ] FOUND     YOU GO TO ESPERANZA AND YOU DO NOT COME HOME FOR FOUR Y
+  [HARD - long wrapped       ] FOUND     Different content is not differentiation; a different q
+
+  INSTRUMENT VALID: YES
+  NEGATIVE CONTROL (must be absent): PASS - absent
+
+=== QUOTATION AUDIT ===
+fragments tested (single-line, ellipsis-split, >=7 words): 128
+NOT FOUND in corpus: 12
+  of those, in TABLE CELLS : 7
+  of those, in PROSE       : 5
+
+  [Amendment_Rederivation_P5_Relations_2026-11-09.md:318]           an administrative fact that needs no withheld source
+  [Amendment_Rederivation_P5_Relations_2026-11-09.md:1161]  [CELL]  are not on ports:559. it omits the import role, the year-round channel and the federation as payer pointer to ports:559: the impor
+  [Amendment_Rederivation_P5_Relations_2026-11-09.md:1167]  [CELL]  as the reason superseded by reg:59, dr-19 (log l545-553) and dr-32 (log l752); conn:307 and conn:308 also run on hwy 110 (hwy:199)
+  [Amendment_Rederivation_P5_Relations_2026-11-09.md:1189]  [CELL]  canon states it (ports:559), so h30 closes. strike
+  [Amendment_Rederivation_P5_Relations_2026-11-09.md:1193]  [CELL]  killed by evidence. two ties are recorded on the register and hwy 110, and
+  [Amendment_Rederivation_P5_Relations_2026-11-09.md:1195]  [CELL]  h30 is closed: yes (ports:559). the replacement hole is where the imports go after landing (am-p5-r3). strike
+  [Amendment_Rederivation_P5_Relations_2026-11-09.md:1221]  [CELL]  a dr-19 partner; the namesake as significance source-fix list: point to the register, and drop
+  [Amendment_Rederivation_P5_Relations_2026-11-09.md:1342]           what comes into the country here, and what is written about the ties along the road
+  [Amendment_Rederivation_P5_Relations_2026-11-09.md:1344]           what is davis tied to, what passes along those ties, and how much of that has canon written
+  [Amendment_Rederivation_P5_Relations_2026-11-09.md:1345]           what comes ashore here for the country - and what does the city owe that it cannot name
+  [Amendment_Rederivation_P5_Relations_2026-11-09.md:1588]  [CELL]  (xb-139) b adopted the guard (m5); c adopted b's point (d5); c asked for
+  [Amendment_Rederivation_P5_Relations_2026-11-09.md:1779]           holds only against the combined census i population (c). this merge says
+
+⚠ TRIAGE BY HAND. A miss is not yet a defect: the pass quoting ITSELF, and
+  connective prose captured between two adjacent quotations, both show here.
+  Confirm each at source before calling it a defect.

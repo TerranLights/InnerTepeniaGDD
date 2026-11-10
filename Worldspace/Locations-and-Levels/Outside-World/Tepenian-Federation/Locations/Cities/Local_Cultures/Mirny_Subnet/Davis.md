@@ -42,9 +42,9 @@ Asian corridor at this specific longitude.*
 
 Davis Station had been operated by the Australian Antarctic Division since 1957, in the Vestfold Hills — one of the largest ice-free coastal oasis areas on the continent, roughly 400 km² of exposed rock, lakes, and fjord-like inlets. When Falkland Treaty exiles arrived, they inherited both the physical station and its accumulated research records on a landscape unlike almost anywhere else in Tepenia.
 
-The name carries a specific, deliberate weight. John King Davis was not an explorer in the flag-planting sense — he was a ship's captain, the man whose seamanship enabled other people's expeditions to happen and, critically, to come home. He captained the *SY Aurora* on Mawson's expeditions and completed the relief voyage that rescued Mawson's stranded party after the loss of his companions. Davis isn't a Tepenian Saint (the Saints are pre-2083 explorers, not supporting mariners), but the founding generation chose his name deliberately anyway: a monument not to glory, but to the unglamorous, essential competence that makes glory possible for someone else.
+The city keeps the station's name. The real-world source of the name is John King Davis, the ship's captain of Mawson's expeditions. Keeping the name is a naming fact only: the name is a coordinate label and says nothing about the city's character, values, meaning or founding logic.
 
-Australian founding character shaped Davis from the outset, alongside — but administratively separate from — Casey and the subnet hub Mirny itself. Davis never carried Mirny's hub weight or Casey's junction-city function; instead, the city organized itself around the specific, exceptional resource its founders inherited: terrain unlike any other in Tepenia, which demanded a research tradition of the city's own to actually understand it.
+Davis's founding nation is Australia, on the Founding Register's ground of geography and access. The city stands alongside — but administratively separate from — Casey and the subnet hub Mirny itself. Davis never carried Mirny's hub weight or Casey's junction-city function; instead, the city organized itself around the specific, exceptional resource its founders inherited: terrain unlike any other in Tepenia, which demanded a research tradition of the city's own to actually understand it.
 
 ---
 
@@ -58,7 +58,7 @@ This variety shapes a genuinely different relationship to environment than any o
 
 ## 4. Seasonal Rhythms
 
-With polar night (~May 19 – July 24) and midnight sun (~November 18 – January 24) each lasting roughly two months, Davis's light cycle sits in the moderate-to-severe range typical of East Antarctic coastal cities, without the extremity of deeper interior sites. The Vestfold Hills' varied water bodies — freshwater lakes, saltwater lakes, fjord inlets — each freeze, thaw, and open on their own separate schedules, giving Davis a genuinely layered seasonal rhythm most cities don't have: the ice conditions of one lake say nothing reliable about another, and residents track multiple, distinct local environmental calendars rather than one unified seasonal clock.
+With polar night (~June 4 – July 10, about 37 days) and midnight sun (~November 25 – January 18, about 54 to 55 days depending on whether both end dates are counted), Davis's light cycle sits in the moderate-to-severe range typical of East Antarctic coastal cities, without the extremity of deeper interior sites. The Vestfold Hills' varied water bodies — freshwater lakes, saltwater lakes, fjord inlets — each freeze, thaw, and open on their own separate schedules, giving Davis a genuinely layered seasonal rhythm most cities don't have: the ice conditions of one lake say nothing reliable about another, and residents track multiple, distinct local environmental calendars rather than one unified seasonal clock.
 
 ---
 

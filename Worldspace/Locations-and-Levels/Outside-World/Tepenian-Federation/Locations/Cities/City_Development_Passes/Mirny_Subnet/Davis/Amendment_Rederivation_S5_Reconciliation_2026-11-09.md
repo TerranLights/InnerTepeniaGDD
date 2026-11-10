@@ -1,0 +1,912 @@
+# Davis amendment re-derivation piece S5: Step 5 reconciliation, the check files and what the record misstates (2026-11-09)
+
+> **Status: PROPOSED. Nothing is applied.** Three independent readers (A, B, C) re-derived this piece from one frozen brief. A mechanical Round 2 check confirmed that each read its files. In Round 3 each reader cross-checked the other two. One merge writer, who took no part in Round 1, wrote this document by merge rule M-246 and its 2026-11-04 refinements. The first check's single reader is unioned as finder `K`. No pass file, spec, census, check file or other source is edited (DR-101). Every correction below is a docket proposal for the developer. Davis is read on its own terms.
+
+**Short names used throughout.** "05:N" is line N of the pass file `05_Reconciliation.md`. SPEC is Davis's spec. LOG is `DEVELOPER_RULINGS_LOG.md`. T16 is `16_Per_City_Three_Tier_Run.md`. PORTS is `Ports.md`. INPUT is `05_The_Input_Contract.md`. RUNBOOK is `00_RUNBOOK.md`. S1, P2, P5, P7, P89 and P10 are the section 0 summaries of the six other amendment pieces of this review (proposals; none is applied; none outranks a source). LC is Davis's culture check file (`Local_Cultures`), and RC is Davis's robot-culture check file (`Local_Robot_Culture`). Every reader read the two check files last, as a check. Finders: A, B and C are the three readers; K is the first check's reader. Proposed wording is set in italics and is never a quotation. Text in double quotation marks is an exact quotation of a source line or of a reader's output.
+
+## 0. In short
+
+- **Most consequential change.** §1 re-sourced the pass's central amendment onto a tier 3 check file. That is not compatible with reading check files only as a check (INPUT L629-631). The amendment survives, narrowed. Its physical leg (the water bodies differ in their ice) is `firm` on SPEC L141. Its timing leg (separate freeze, thaw and open schedules, and several calendars) is a `seed` that rests on LC L61 alone, pending research. The word "admissible" at 05:54 is false (AM-S5-F2, AM-S5-K3).
+- **The headline narrows** from "Truth here is not singular." to *no single record speaks for the whole terrain* (AM-S5-F3).
+- **Credit kinship is out of frame as a convergence.** The claim that T16 carries it "independently of the incident" is killed by evidence. Whether the mechanism can still be carried, through the robot file's fit with robot biology canon, is sent to the developer (AM-S5-F14, AM-S5-Q6).
+- **Polar night.** H61 is closed for LC §3 and open for LC §4. The 54-against-55 midnight-sun gap is a counting convention (AM-S5-F6).
+- **Composition.** No Step 5 finding rests on the check files' stale composition text. Step 5 needs a new reconciliation row with the spec governing. The correction is not decided (DR-85, DR-94). Whether those rulings' list of unedited files covers LC and RC is conditional (AM-S5-F26).
+- **Character.** "Verified" falls, and the bare sentence "No character sited" is false. What holds is that no canon character is sited in Davis inside the frame. The README clause in the first check's recommendation is stale (AM-S5-F20).
+- **Founding citation.** 05:165 should read geography and access (DR-19; Register L59), confirmed for Davis by DR-29. LC L45 and L47 are not corrected, so H62 should say the correction is not made (AM-S5-F22).
+- **Port rows.** The split is now 27.6% / 30.5%. At 05:103, "those are imports" is killed for want of an admitted line, "the port feeds the greenhouses" is a seed, and "it does not empty them" is firm. The operating season is written, so it is no longer open, and H65's payer is written (AM-S5-F11, AM-S5-F25).
+- **Narrowed rows.** Glitch-coolant narrows against tier 2 (PROVISIONAL on S1's hold on SPEC L167). The lakes row widens to the water bodies, as a qualifier. The count "Seven convergences" is killed, and "on canon sources" narrows.
+- **Stands.** §2.2's public/private reconciliation, holidays pending, the Gen/Mark null (human majority at Census II only), the harbor, the GPS refusal and the `A-1` reservation.
+- **Open.** The lake-schedule research, the wind question, Phase 7 §C.1 and §D.2, the draft's date, the port ruling's verbatim text and the downstream-mentions list.
+- **Merge.** Thirteen conflicts: ten resolved to the narrower reading, three sent to the developer (section 9).
+
+## 1. Findings re-derived
+
+### AM-S5-F1 §0, the admissibility table and the exclusions (05:9-23)
+
+- **Pass.** 05:13 puts the spec, census arithmetic, the rulings (with the 2026-09-16 port ruling) and "`16_Per_City_Three_Tier_Run.md`'s determinations" in tier 1. 05:14 puts the breadbasket and the Open-Door Libraries in tier 2, the Libraries "ratified into `Specs` and `Local_Cultures` §13". 05:15 puts LC and RC in tier 3, with the parenthesis "Provisional — proposals for developer review, not asserted canon". 05:21 excludes the Course of Events files and the Historical Vignettes, quoting INPUT §6.3: "They are proposals awaiting a ratification decision the developer has not yet made." 05:22 excludes the megasheet attribute files, and 05:23 excludes `Test_Runs/` and the vision notes.
+- **Current inputs.**
+  - INPUT L683-684: the developer has ruled on the whole class; the vignettes and every Course of Events file "are not canon and are never an input" (rule 3a). The sentence 05:21 quotes is not in the current §6.3.
+  - INPUT L507-510 and L514 still carry the §6.1a words 05:22 quotes.
+  - RUNBOOK L2797-2799 gives the tiers. Tier 3 includes "any characterization an earlier instrument reached".
+  - SPEC L167 (tier 2 vision) carries both the breadbasket and the libraries. S1 L42-43 holds its use: "L109 and L167 changed wording and are carried" with their use held. T16 L2014 and L2022 give the breadbasket a second address.
+  - RC L3: "Provisional — findings are proposals for" developer review. RC's own sources section names the excluded megasheet files (RC L33-37) and the Historical Vignettes and Course of Events (RC L52-55) as inputs. INPUT L563-564: a file that cites a withheld document "is downstream of it, whatever it is called".
+  - T16's determinations sit at L2008-2024 and L2073-2076. Its sector commentary (L2082-2084) and its Notes (L2097-2106) are characterization.
+- **Re-derived (`firm`; the Libraries clause `conditional`, PROVISIONAL on S1's hold).**
+  - Every exclusion stands. The history-file exclusion is firmer than 05:21 says: it rests on a ruling on the whole class, not on a ratification still awaited (A, B, C).
+  - 05:13's "determinations" covers T16's determination ranges, not its sector commentary or Notes (B, C).
+  - The breadbasket stands on T16. The Libraries' only tier 1 or tier 2 address in any reader's list is SPEC L167, whose use S1 holds (LC L140 is a check file), so their tier 2 standing waits on that hold (A, C).
+  - 05:15's quotation drops "findings are" from RC L3 (A). K adds that 05:15's parenthesis reads as both files' self-declaration, while only RC declares itself provisional; LC's status line describes the city, not the file (K).
+  - Because RC cites excluded material as its own input, an RC finding corroborates a Step 5 finding only where it does not rest on that material (C). This is applied in AM-S5-F15 and AM-S5-N15.
+- **Pass locations.** 05:21 (the quotation is not in the current source; state the current text and address under DR-102); 05:13 (qualifier: determination ranges only); 05:14 (the Libraries need a qualifier tied to S1's hold); 05:15 (the quotation, and K's attribution point).
+- **Stays.** Every tier assignment and every exclusion; 05:22's reasoning.
+- **Disposition.** 05:21: `confirmed by all three`. 05:13: `found by two` (B, C). 05:14: `found by two` (A, C). 05:15, two words: `found by one` (A). 05:15, attribution: `found by one` (K). RC downstream of excluded material: `found by one` (C).
+
+### AM-S5-F2 §1, the finding that survived by changing its source (05:27-54); question 9 and XU5-37
+
+- **Pass.** The comfort-with-multiplicity amendment to Phase 6 §A.2 lost its history-file source (the two lake-cores incident) and was re-sourced onto LC §4, called "Tier 3 and admissible" (05:33). 05:49: "The re-sourcing makes it stronger." 05:54: "the amendment now rests on admissible canon".
+- **Current inputs.**
+  - INPUT L475: "An input must not be a prior culture-pass CONCLUSION about the same location". INPUT L514: "A file is admissible only if *every section* of it is." INPUT L629: "Conclusions are read LAST, and read as a CHECK." INPUT L630: "A mismatch is a finding site."
+  - 05:15, the pass's own table, puts LC in tier 3. RUNBOOK L2799 counts "Cultural Spec Sheets' own inferences" as tier 3.
+  - INPUT L490-494 and L596: column 3 (self-originated) is for a fact that "originated in this same location's own prior culture pass" and was later promoted or migrated; a pass that finds one "must tag it `[SELF-ORIGINATED]`".
+  - Tier 1: SPEC L141, "different bodies of water with different ice characteristics"; SPEC L84, "diverse terrain including freshwater and saltwater lakes"; SPEC L144 names lake ice in the terrain.
+  - Check (LC L61, read last): the water bodies "each freeze, thaw, and open on their own separate schedules"; "the ice conditions of one lake say nothing reliable about another"; residents "track multiple, distinct local environmental calendars rather than one unified seasonal clock". The pass's quotation at 05:36-39 matches L61 except one elided clause, a comparison with other places, so the elision is right (A, B, C).
+  - RC (dated 2026-08-10) paraphrases the spec at RC L29-31 as giving each lake its own ice chemistry, so a spec line of this kind predates the pass (A, B).
+- **Re-derived.**
+  - **Physical leg, `firm`.** Davis's water bodies differ in their ice (SPEC L141, tier 1) (A, C; B accepted it in Round 3).
+  - **Timing and calendar legs, `seed`.** That the water bodies keep separate freeze, thaw and open schedules, and that residents keep several calendars, rests only on LC L61. That is a check-file match: corroboration, never a ground. No tier 1 line states schedules. Research AM-S5-R1 is opened. (A graded this `seed`; B and C graded it `conditional` and withdrew to `seed` in Round 3.)
+  - **The amendment as a whole, `conditional`,** on Phase 6 (in no reader's list) and on the timing leg (A, B). C withdrew "the whole finding is conditional" in favor of the split by legs. The narrowed headline is AM-S5-F3.
+  - **Question 9.** Re-sourcing a Step 5 amendment onto a check file, so that the file becomes its ground, is not compatible with reading check files only as a check. The finding must be re-tagged. The accurate tag is *a conclusion read last as a check; corroboration only (INPUT L629-631)*, not "[SELF-ORIGINATED]". Column 3 is for a canon fact migrated out of the location's own culture pass, and LC is not migrated canon: it is the prior culture-pass file itself. The consequence is the same either way: corroboration, never independent derivation. An independent ground exists in part at SPEC L141 (the physical half) and not at all for the timing half (A, B, C; this refines XU5-37).
+  - **05:54.** The word "admissible" is false, because LC is not admissible as an input (INPUT L514, L629-631). The readers split on whether the whole sentence is false; see AM-S5-K3.
+- **Pass locations.** 05:33 (qualifier: read as a check); 05:49-50 ("stronger" is ungrounded as to evidence; the mechanism, a standing property producing the habit continuously, stands as a mechanism, and C notes that *differently grounded* is supportable); 05:54 (AM-S5-K3); 05:198-202 (the same qualifier; AM-S5-F4); Phase 6 §A.2 as amended (in no list; by 05:54's citation it needs the same qualifier).
+- **Stays.** The finding itself, narrowed (RUNBOOK L2874: "Nothing derived is discarded"). Also 05:70, "§4's multi-calendar finding does NOT depend on the day count", which all three checked: the LC L61 sentence it rests on carries no day figure.
+- **Disposition.** The re-tag, the physical leg and the timing leg as corroboration: `confirmed by all three`. The timing leg's strength settled at `seed` after B's and C's Round 3 withdrawals.
+
+### AM-S5-F3 The headline and "Truth here is not singular" (05:41, 05:45-47)
+
+- **Pass.** 05:41: "TWO RECORDS MADE AT THE TIME MAY DISAGREE WITHOUT EITHER BEING FALSE". 05:46: "Truth here is not singular." and "no procedure for collapsing them into one". 05:47: a city that "AGREES ON ENTRIES WITHOUT AGREEING ON CONCLUSIONS".
+- **Current inputs.** RUNBOOK L2783-2784: ask what single property would produce both, "then check whether the two claims are about different objects". LC L61: "the ice conditions of one lake say nothing reliable about another". The withdrawn incident, read only for its shape and never as a ground (it is out of frame), concerned cores from two differently salinated lakes (RC L206-207) (B).
+- **Re-derived.** Records that disagree here describe different water bodies. Under the both-are-true test that is not a contradiction: each record is true of its own water body at its own date. Narrowed: *no single record speaks for the whole terrain; records of different water bodies for the same period may point different ways, and neither is false.* "Agrees on entries without agreeing on conclusions" survives in this form: an entry is agreed, and no one entry carries a conclusion that generalizes across water bodies. "Truth here is not singular." does not survive as written: the truth about each water body is single, and it is the terrain's state that is not (B; A withdrew keeping the sentence in Round 3; C adopted B's wording in Round 3).
+- **Strength.** `conditional`, which is B's grade and the weakest after Round 3 (rule 4). A (in Round 1) and C (Round 3) grade the physical form, that records about two water bodies can disagree and both be true, `firm` on SPEC L141 alone.
+- **Pass locations.** 05:41 (qualifier: records of different water bodies); 05:46 (overstated); 05:47 (survives, narrowed); 05:199-202 (qualifier).
+- **Stays.** 05:45: "What was written down when it happened is true; what was not written down cannot be said". It is Phase 6's own, and no piece touches it.
+- **Disposition.** `found by one` (B), accepted by A and C in Round 3. Question AM-S5-Q9.
+
+### AM-S5-F4 The strongest finding and its named leg (05:198-202; RUNBOOK L2879-2888)
+
+- **Pass.** 05:198: "the pass's central amendment survived losing its source." 05:201: "Re-sourced, it is stronger". The pass names no leg. RUNBOOK L2888's leg rule was added 2026-11-04, after the pass (A, B).
+- **The leg named before opening.** Each reader wrote a pre-check statement before opening the check files, and all three named the same leg: that LC §4 still carries, in the words 05:36-39 quote, the separate-schedules and several-calendars statement (A's leg (c), B's leg (a), C's leg (b)).
+  - B also named a second leg that rests on an absence: 05:46's "no procedure for collapsing them into one", which a check file could contradict by describing any unifying calendar or reconciling practice.
+  - C named the tier 1 side's absence: no admitted tier 1 line says the water bodies share one schedule.
+  - RUNBOOK L2888: "A leg that rests on an absence is named as such." A first said the leg rests on no absence and withdrew that in Round 3.
+- **Check result: not contradicted.** LC L61 still carries the words. Neither LC nor RC describes a unifying calendar, almanac or reconciling practice, and LC L61 itself says "rather than one unified seasonal clock" (A, B, C).
+- **The check cannot be independent.** The leg's only ground for timing is the later-read file itself, so the check could at most find the file changed. It passes, but as evidence it is weak (A, B; C accepted it in Round 3; see AM-S5-N14). The same LC L61 carries an uncorrected light-cycle span (AM-S5-F6), so the file is still being derived (RUNBOOK L2867-2868) (A).
+- **RC adds no corroboration.** RC's own version of the finding is out of frame, so the only check-file corroboration is LC L61 (AM-S5-N15) (C).
+- **After the other pieces.** P89 L40-42 qualifies Phase 6's claim that the proposition is "the only thing the whole city does the same way" (the city also shares a dominant language). That is a different sentence from the amendment and does not touch the leg. P89 L34 supports the record-as-instrument leg: "The positive half of Phase 8 §E.2: someone from Davis makes a claim by reaching for the dated entry." P2 L22 narrows the `D3a` gloss (AM-S5-F5), not the core. S1, P5, P7 and P10 touch no leg (A, B, C).
+- **Re-derived (`conditional`,** on Phase 6, which no reader had, and on research AM-S5-R1). The strongest finding stands, narrowed as in AM-S5-F2 and AM-S5-F3: the physical leg on SPEC L141 (`firm`), and the many-clocks half as check-file corroboration (`seed`). "Survived losing its source" is true of the physical leg and of Phase 6's record proposition, not of the timing leg.
+- **Pass locations.** 05:198-202 (needs the narrowing). §9 lacks the named-leg paragraph. That is a record only, because the rule postdates the pass, and this entry supplies the paragraph.
+- **Disposition.** The named leg and the check result: `confirmed by all three`. The absence leg: `found by two` (B, C). The missing paragraph: `found by two` (A, B). RC adds no corroboration: `found by one` (C).
+
+### AM-S5-F5 §1's `D3a` extension, "a READING competence" (05:51-52)
+
+- **Pass.** 05:51: "the competence the exiles rebuilt is a READING competence", applied to a landscape that "never speaks with one voice" (05:52).
+- **Current inputs.** SPEC L151: the preserved journals, logs and orientation manuals "gave the exiles a real documentary starting point", and "the exiles still built their own practical mastery of the terrain independently, over generations of their own". P2 L22: "What crossed the gap is a library and a plant, not a library alone." As a check, LC L43 matches P2: "they inherited both the physical station and its accumulated research records" (A).
+- **Re-derived.** The competence began from inherited records and became practical mastery built over generations (SPEC L151). What was inherited was records and plant (P2, a proposal). The clause about a landscape that never speaks with one voice rests on the `seed` timing leg.
+- **Strength.** The half restated on SPEC L151 is `firm` (B; C in Round 3). The plant half is `conditional`, because P2 is a proposal. A grades the whole re-derived statement `conditional`, since it carries the plant half and the clause that rests on the seed leg. `D3a`'s own text is in no reader's list.
+- **Pass locations.** 05:51-52 (qualifier: reading was the start; the mastery is practical).
+- **Stays.** The link between a competence that began from records and the terrain it reads (A, B).
+- **Disposition.** `confirmed by all three`.
+
+### AM-S5-F6 §2.1, the polar-night span (05:60-71) and `H61` (05:185); question 1
+
+- **Pass.** 05:64 gives LC §3 and §4 as "polar night and midnight sun each running roughly" "66-67 days". 05:65 gives the spec as ~37 and ~55 days. 05:69: "37 / 55 GOVERNS." and "`Local_Cultures` §3 and §4 need correction". 05:185 (`H61`): §3 and §4 "carry a 66–67 day polar night against `Specs`' 37. Correction needed".
+- **Current inputs.**
+  - SPEC L99: "approximately Jun 4 → Jul 10 (~37 days)". SPEC L100: "approximately Nov 25 → Jan 18 (~55 days)". SPEC L138 repeats both.
+  - LOG L1694 (DR-103 item 5): Davis's culture file L53 states about 37 days of polar night and 54 days of midnight sun, "(counted at 68°35′S)". LOG L1696 lists the culture file among the files changed (A).
+  - LOG L1693, the developer's condition: "If the number of days for polar night is just a plain numerical value, then we can do it now."
+  - Check: LC L53, "polar night running about 37 days and midnight sun about 54 days". LC L61, "With polar night (~May 19 – July 24) and midnight sun (~November 18 – January 24) each lasting roughly two months".
+  - Arithmetic (each reader's own read-only command; all three recomputed it in Round 3): the spec's dates span 36 and 54 days as differences, or 37 and 55 counting both end dates. LC L61's dates span 66 and 67 days as differences, or 67 and 68 counting both end dates. The spec counts both end dates.
+- **Re-derived (`firm`).** The spec (tier 1) governs.
+  - **`H61` is closed for §3.** Polar night agrees at 37. Midnight sun's 54 against ~55 is a counting convention inside "about": the spec's own dates give 54 as a difference and 55 counting both ends, and DR-103 records 54 as counted at 68°35′S. It is not a conflict, and nothing should be opened on it.
+  - **`H61` is open for §4.** LC L61's dates and "roughly two months" are unchanged.
+  - Counted like for like, on the spec's convention, §4's spans are 67 and 68 days. As differences they are 66 and 67, which is where 05:64's "66-67" came from (A; B and C in Round 3). Both counts are correct, and the record names the convention (AM-S5-Q5).
+  - DR-103 item 5 named L53 only, and its condition was "a plain numerical value", while L61 carries dates. Whether the ruling covers L61 is AM-S5-Q4 (B, C; A withdrew its direct docket row in Round 3).
+  - LC now contradicts itself between §3 and §4 (AM-S5-N11).
+- **Pass locations.** 05:64 (the quoted text is no longer §3's, and §4's current words differ; state the current text under DR-102); 05:65 (the counting convention); 05:69 ("§3 and §4" becomes §4 only); 05:185 (`H61` splits).
+- **Stays.** "37 / 55 GOVERNS" and the tier reasoning at 05:67; 05:70-71.
+- **Disposition.** `confirmed by all three` (K reached the same split).
+
+### AM-S5-F7 The open oasis-or-katabatic-margin question against §1 and the lakes row (question 10)
+
+- **Current inputs.**
+  - LOG L1703 (DR-104 item 4): whether Davis is an ice-free oasis or a katabatic margin "stays open; the numbers in use are 28 mm staying and 38%". LOG L1695 says the same (B).
+  - SPEC L107: "ICE-FREE OASIS", reclassified 2026-09-04 from katabatic margin. SPEC L96 puts Davis "out of the katabatic regime". SPEC L84 uses "oasis" for the ice-free ground of rock, lakes and inlets.
+  - Check: LC L43 repeats the spec's geographic term. LC L160 calls the area an ice-free oasis in a sentence that also ranks it (the ranking is not used).
+- **Re-derived (`conditional`).**
+  - Both are true, on different objects. "Oasis" in LC L43, LC L160 and SPEC L84 names ice-free ground, which no admitted line disputes. DR-104 item 4 holds open the precipitation-and-wind regime class (SPEC L107's "Regime"). The water bodies exist on the ice-free ground under either class, so the open question does not reach the lakes row (05:128) or §1's physical leg (SPEC L84, L141) (A, B, C, K).
+  - A check file never settles a reserved question. Step 5 does not cite LC's oasis wording, and a re-run should not admit it as settled (C, K). No docket row against LC L43 or LC L160 is needed on this ground (A).
+  - **Whether the question reaches the timing leg.** C reads the class as able to bear only on why the water bodies keep different schedules, never on whether they do. A and B read it as able to reach the timing leg if the wind regime governs lake-ice timing; no admitted line says so, and that is research. Written to the narrower reading (A, B): no admitted line limits the reach either way, and the question goes to research AM-S5-R2.
+- **Pass locations.** None false. 05:128 and §1 need no change on this ground.
+- **Disposition.** No reach on §1's physical leg or on 05:128: `confirmed by all three`. Reach on the timing leg: `conflict resolved to the narrower reading`.
+
+### AM-S5-F8 §2.2, the counterculture (05:73-89); question 2 as it touches LC L193
+
+- **Pass.** LC §19's modest counterculture of residents wanting more overt recognition, and Phase 7 §D.2's finding of no counterculture population, reconcile on the public/private scale. 05:87: a dissatisfaction that is "widely felt, privately held, and structurally unable to" assemble.
+- **Current inputs.** Check, LC L193: "Modest — Davis's genuinely broad, multinational composition" and so on, then "What subculture exists tends toward residents who want more overt recognition or excitement than the city's quiet-competence ethos typically offers." The first sentence ends in a comparison with other places (not used). P2 L14: "no origin is a majority; the largest row is about one person in ten; the five Primary rows together hold 46.39%".
+- **Re-derived.**
+  - The both-are-true reconciliation on the public/private scale stands. Strength `conditional` (A: its Phase 7 side is in no reader's list), which is the weakest grade after Round 3; B grades it `firm` as a reconciliation and C `firm`.
+  - §2.2 uses LC L193's second sentence (its content), not its stated ground. The ground's composition half ("broad, multinational") survives re-keying to the 45 rows by headcount: no row is above 10.42% (SPEC L32-76), and no origin is a majority (P2 L14). Its comparison half is not used (another location: not used) (A, B, C, K).
+  - **"Widely felt"**: no admitted line sizes it. The check file says "Modest" and "What subculture exists". Its possible ground is Phase 7 §D.2, "the contradiction sitting inside each person" (05:76), which no reader had. After Round 3 it is `conditional` on Phase 7 §D.2. Interim wording under the general-population discipline is *a dissatisfaction held by some residents* (A, C); B would name Phase 7 §D.2 as its ground or drop the phrase. C adds that LC's "Modest" sizes the visible subculture, a different object from a privately held dissatisfaction, which supports a qualifier and not a kill.
+- **Pass locations.** 05:87 (qualifier).
+- **Stays.** The scale table (05:80-86) and "structurally unable to" assemble, which is Phase 7's own route.
+- **Disposition.** The reconciliation: `confirmed by all three`. "Widely felt": `found by two` (A, B); A withdrew "killed" and C withdrew "stays" in Round 3, so all three end at `conditional`.
+
+### AM-S5-F9 §3, the port ruling as stated (05:93-98)
+
+- **Pass.** 05:95: "Developer ruling, 2026-09-16: Davis is Tepenia's principal Indian-Ocean-sector import port", where `Hwy 110` meets deep sheltered water; inbound raw materials transshipped through the two hubs; tier `CONSTRUCTED`, "year-round" and icebreaker-dependent (05:97-98).
+- **Current inputs.** PORTS L559 carries every element, attributed "(developer ruling, 2026-09-16)". T16 L2052-2058 says the same. P5 L36: "canon's word "principal" is quoted and attributed, never restated".
+- **Re-derived (`firm`).** The statement stands, and 05:95 opens with the attribution. The readers split on whether the word itself must be quoted. After Round 3, A reads 05:95 as attributing but not quoting "principal" and would mark it as the ruling's word; B and C leave it as written, because it is already attributed. Written to the narrower reading: no correction is needed, and a pointer that "principal" is the ruling's word (PORTS L559) is optional, at low confidence. (A withdrew its Round 1 "no change", and C withdrew its Round 1 docket row, each moving to the other's position.)
+- **Pass locations.** None false. 05:95 (optional pointer only).
+- **Disposition.** `conflict resolved to the narrower reading`.
+
+### AM-S5-F10 §3 row, Phase 7 §A.4 and T16 §19's split (05:102)
+
+- **Pass.** 05:102: "Option B holds at mandate 28.2% / free 31.1%", and the sector stays free because hub status is infrastructure rather than provider work.
+- **Current inputs.** T16 L2011: 252,606 mandated, 27.6%. T16 L2012: 279,197 free, 30.5%. T16 L2076: "the ruling above quotes 28.2% and 31.1%, the same rule's result on the earlier workforce". LOG L1694 (DR-103 item 1) says the same. P7 L60: "the split 28.2 / 31.1 is now 27.6 / 30.5". T16 L2060-2066 keeps the free-sector reasoning.
+- **Re-derived (`firm`).** Option B holds. On the current population its result is mandate 27.6% and free 30.5% (252,606 and 279,197 of 915,098 workers). The reasoning stands.
+- **Pass locations.** 05:102 (stale figures; state the current figures with their address under DR-102); Phase 7 (stale per P7 L60; in no list).
+- **Stays.** "hub status is infrastructure rather than provider work" and the free disposition.
+- **Disposition.** `confirmed by all three`.
+
+### AM-S5-F11 §3 row, Phase 7 §A.3 and "the port feeds the greenhouses" (05:103)
+
+- **Pass.** 05:103: "STRENGTHENED, and it is the mechanism the ruling needed." File `10` §5e names the greenhouse's constraints as energy, glass, CO₂, labor and logistics, therefore "those are imports. The port feeds the greenhouses; it does not empty them".
+- **Current inputs.**
+  - PORTS L559: "Inbound: raw materials from Upper-Earth countries". T16 L2056: raw materials the closed continental economy cannot manufacture for itself. T16 L2058: "Davis's agricultural output is a domestic supply and does not leave the continent."
+  - P5 L53: the "stated cargo is raw materials, not plant and equipment". P5 L57-58 holds open where the imports go after landing.
+  - File `10` §5e is in no reader's list. Its words reach the readers only through LC L248-249, a check file, which carries the same conclusion in identical words at LC L250 (AM-S5-N2).
+- **Re-derived.**
+  - "it does not empty them" is `firm` (T16 L2058; PORTS L559) (A, B, C).
+  - "The port feeds the greenhouses" is a `seed`. No admitted line routes any import to the greenhouses, and where cargo goes after landing is open (P5) (C; A and B withdrew `conditional` to `seed` in Round 3).
+  - "those are imports" is killed for want of an admitted line; the readers split on its scope (AM-S5-K7).
+  - "STRENGTHENED, and it is the mechanism the ruling needed." does not stand as firm. Phase 7 §A.3 (power-limited, not land-limited) stands on its own ground; how the port relates to it is unwritten (A, B, C).
+- **Pass locations.** 05:103 (qualifier); Phase 7 §A.3 (in no list; by 05:103's citation its "STRENGTHENED" disposition depends on this qualifier).
+- **Stays.** "power-limited, not land-limited" as Phase 7's own finding; the inbound direction.
+- **Disposition.** The narrowing: `confirmed by all three`, with the seed grade reached through A's and B's Round 3 withdrawals.
+
+### AM-S5-F12 §3 row, Phase 7 §A.5, "Davis is the SUBSTITUTABLE one" (05:104)
+
+- **Pass.** 05:104: "Davis is the SUBSTITUTABLE one", quoting canon, "Davis can be supplemented by fishing fleets"; unaffected, because "Food substitutability and import dependence are different axes".
+- **Current inputs.** P7 L63: "§A.5's "backfillable" becomes "supplemented, not substituted" (conditional)". P7 L63-64: its canon source sits in a file that DR-73 names as written on the whole-workforce convention (that file is in no list).
+- **Re-derived (`conditional`).** The quoted canon says "supplemented", and P7 narrows the pass's label to *supplemented, not substituted*. "The ... one" frames Davis against unnamed others and is dropped (one location, on its own terms). On its own terms the claim is that Davis's food supply can be supplemented. The different-axes point stands.
+- **Pass locations.** 05:104 (the label over-reads its own quotation; qualifier; no ranking); Phase 7 §A.5 (P7 handles it).
+- **Stays.** "different axes".
+- **Disposition.** `confirmed by all three`.
+
+### AM-S5-F13 §3 rows, the harbor, Phase 5 and the breadbasket box (05:105-110)
+
+- **Pass.** 05:105: "The harbor is the catalog's primary structure". 05:106: "Written before Davis had an outward maritime relationship. Needs re-checking". 05:109: Davis grows food for the Federation, domestically; "The port is inbound." 05:110: "The two were never in competition, which is why the ruling cost nothing upstream."
+- **Current inputs.** P5 L35: "The port changes the phase most." P5 L38: H30 closes yes. P5 L41: air falls. P5 L43-46: the founding-nation ties return, as ties whose content is a hole. P5 L54: two of the axis's three legs fall. T16 L2078: open, "whether a national import port can be carried inside a sector sized at 15%". T16 L2081: "Any future re-size must not erode the breadbasket as arithmetic collateral." Check: LC L288 calls the harbor "the city's defining structure", in a line tagged with the ruling's date (AM-S5-N2).
+- **Re-derived.**
+  - 05:105 stands (`firm`). Phase 10 §C is in no list; the check file matches, though on a same-day line (A, B, C).
+  - 05:106 is now answered by P5, a proposal not yet applied. Its status becomes *re-checked by the Phase 5 piece (proposal)* (A, B, C).
+  - 05:108-109 stand (`firm`): the breadbasket is intact and the port is inbound (T16 L2058; PORTS L559) (A, B, C).
+  - 05:110 is `conditional` on `H67`: the maritime sector and agriculture share one fixed 100%, a re-size is open, and any re-size must not erode the breadbasket (A, C; B accepted it in Round 3).
+- **Pass locations.** 05:106 (pointer to P5); 05:110 (qualifier).
+- **Stays.** The harbor as the catalog's primary structure; the breadbasket intact.
+- **Disposition.** 05:105, 05:106 and 05:108-109: `confirmed by all three`. 05:110: `found by two` (A, C).
+
+### AM-S5-F14 §4 row, credit kinship (05:125), and the verdict's claim about it (05:205-206)
+
+- **Pass.** 05:125: "NOT AN INDEPENDENT ARRIVAL." The row originated in Davis's own prior culture pass and migrated into T16, so it is corroboration; "Still usable and the pass is obliged to use it". 05:205-206: "the whole credit-kinship mechanism", "which `16` carries independently of the incident that supposedly originated it."
+- **Current inputs.**
+  - T16 L2103: kinship is collective research credit, not teaching lineage, and "a founding-era decision to decline solo" credit set the norm. T16 L2104: a robot's family "is whoever she shares discovery-credit with". T16 L2082-2083 carries a provenance clause ("Worth pairing with the robot-culture finding"); L2103-2105 carries none (C).
+  - INPUT L590: "Provenance travels with a migrated fact." INPUT L593: "Migration must not promote." and "A claim keeps its original strength." RUNBOOK L2877: a row whose only stated ground is material excluded at every step is "OUT OF FRAME, never culture-only and never both-are-true." INPUT L684: the vignettes and Course of Events files "are not canon and are never an input".
+  - Check: RC L93 says Davis's robot kinship "is plausibly built on" collective research credit. RC L52 lists "six named founding-era incidents" from the Historical Vignettes and Course of Events, among them a named naturalist's declined-credit decision, "all flagged there as non-canon candidate material" (RC L55). RC L93-98 names that decision as the origin point of the custom. (The figure's name is not reproduced; it is one of the two figures 05:146 withdraws.)
+  - RC L98: "This resonates with Ch.11's own point that robots" lack the genetics axis that produces hierarchy in human kinship, so a non-hierarchical structure fits that absence. Ch.11 is in no reader's list.
+- **Re-derived.**
+  - **Text match, `firm`.** 05:125's origin tag holds: T16 L2103-2105 compresses RC L93-98 (the same three elements: credit and not teaching lineage; a founding-era decline of solo credit; family as shared credit). It is corroboration only (A, B, C).
+  - **05:205-206 is killed by evidence.** T16 does not carry the mechanism independently of the incident: T16 L2103-2104 carries it, unnamed, as the norm's cause (AM-S5-K1) (A, B, C).
+  - **The row is out of frame as a convergence** (RUNBOOK L2877). T16's only stated ground for the norm is a founding-era decision that has no admitted line, whatever it is identified as. So the row is neither corroboration nor both-are-true. Its strength as a convergence is `null` (B, C; rule 4, the weakest). The label "history-file material" for that decision rests on matching T16's text against a check file, and is `conditional` (A, B and C after Round 3) (AM-S5-K8).
+  - **Two provenance faults at the source.** Migration promoted RC's "plausibly" proposal to a stated fact (INPUT L593) (A). T16 L2103-2105 lacks the bracketed provenance clause migration requires (INPUT L590) (C). Both apply (AM-S5-N7, AM-S5-N8).
+  - **The mechanism.** Whether "a robot's family is whoever she shares discovery-credit with" survives at proposal strength through RC L98-100's fit with robot biology canon is sent to the developer. A withdrew its Round 1 claim that the mechanism survives, and reads RC L98-100 as a fit, not a ground. C (Round 3) reads it as a second stated ground, so the mechanism is not out of frame at RC's level, at proposal strength. B cannot test it, because Ch.11 is in no list (AM-S5-Q6).
+  - **Phase 7 §C.1** is in no list. Whether it carries a derivation of its own is reserved (AM-S5-R3). If it does, it stands on that; if its only ground is T16's note, it falls with the row (A, B, C).
+  - **The pass contradicts itself.** 05:146 already withdrew the figure as history-file, while 05:125 and 05:205-206 keep the mechanism that figure is said to have originated (B).
+- **Pass locations.** 05:125 (out of frame as a convergence); 05:205-206 (false); 05:13 (T16's Notes are not determinations; AM-S5-F1); Phase 7 §C.1 (its tag waits on its own ground).
+- **Stays.** 05:121's "The agreement is real; the independence is not." stays true of the text match. The row is not a usable convergence.
+- **Disposition.** The text match and the kill of 05:205-206: `confirmed by all three`. Out of frame as a convergence: `confirmed by all three` after A's Round 3 withdrawal, at `null` by rule 4. Promotion: `found by one` (A). Missing provenance clause: `found by one` (C). The mechanism: `conflict sent to the developer`. The pass's self-contradiction: `found by one` (B).
+
+### AM-S5-F15 §4 row, "let the work speak" (05:126), and the robot one-liner (05:133-137)
+
+- **Pass.** LC §6a's cardinal value converges with Phase 6's record proposition and Phase 8 §E.2's claim-register, reached with the file sealed. The robot one-liner of 2026-08-10 is the same city: "Two instruments, five weeks apart, same place." (05:137).
+- **Current inputs.** Check: LC L86, "Do the work well; let the work speak." Davis's cardinal value, "consistent with the founding namesake's own unglamorous competence". LC L73: Davis's culture is organized around "a value its own name enshrines". 05:163: "The law bars a site's identity AND its namesake's biography as inputs". P89 L34 (quoted in AM-S5-F4). RC L13-15 matches the one-liner at 05:134-135; the pass's elision drops a comparison with other places and a founding-ground clause, and the elision is right (B, C). RC L21-28 records a full read of LC as its Input A, and RC L108 builds on LC §6a (A). RC's sources include the excluded megasheet files and the history files (RC L33-37, L52-55) (B, C).
+- **Re-derived.** The match stands as corroboration on the pass's sealed route, and P89 confirms §E.2's positive half (`firm` as a match) (A, B, C). Four qualifiers apply:
+  - (i) LC's stated ground for the value is the namesake's biography, which this Step bars as an input (05:163). The match is on the value, not on its ground (A, B, C). Strength `conditional` (A's grade, the weakest), because "consistent with" may be read as a remark rather than a ground.
+  - (ii) RC builds on LC §6a, so on the check side 05:126 and 05:133-137 are one chain. "Two instruments" is true of the pass against RC, not of RC and LC as two independent checks (A; AM-S5-N5).
+  - (iii) RC's route used material this pass excludes, so only RC's conclusion can be compared, never its route (B, C).
+  - (iv) 05:136's Phase 6 route now reads through P89's qualifier on "the only thing the whole city does the same way" (C). "Five weeks apart" checks: RC is dated 2026-08-10 and the pass ran 2026-09-14 to 16 (C).
+- **Pass locations.** 05:126 (qualifier: a match of conclusions only); 05:136-137 (one chain; RC's route).
+- **Stays.** The convergence and the box.
+- **Disposition.** The match and qualifier (i): `confirmed by all three` (strength by rule 4). Qualifier (ii): `found by one` (A). Qualifier (iii): `found by two` (B, C). Qualifier (iv): `found by one` (C).
+
+### AM-S5-F16 §4 row, glitch-coolant, "genuine muted absence" (05:127)
+
+- **Pass.** 05:127: "Glitch-coolant: genuine muted absence", tagged as self-originated corroboration migrated upward through T16; Phase 8 §A.4 is tagged.
+- **Current inputs.** T16 L2082-2084 pairs the commercial sector with the robot-culture finding and ends "The bars exist; the culture around them does not." RC L77: "Yes, as genuine muted absence". RC L147-151: no established human drinking-culture institution appears in the gathered material; "minimal, private, institutionally invisible consumption". Tier 2 vision, SPEC L167: "Most non-work time goes to bars, eateries, and general social establishments." 05:14 ranks tier 2 "UPSTREAM. Not out-reasonable." RUNBOOK L2798: "A pass cannot out-reason it, because it is not a reasoning product." S1 holds L167's use.
+- **Re-derived (`conditional`, PROVISIONAL on S1's hold on SPEC L167).**
+  - The self-originated tag stands: T16 names its own origin (A, B, C).
+  - Step 5 never tested this row against tier 2. On the public/private scale, the venues and their use (tier 2: where most non-work time goes) are one object, and a named drinking-culture institution is another. The row survives only as *no named drinking-culture institution is recorded*. RC's "minimal, private, institutionally invisible consumption" and T16 L2084's "The bars exist; the culture around them does not." are not carried, because tier 2 places most non-work time in public venues. Whether robots use those venues, and what glitch-coolant use looks like there, is unwritten (A, B; C withdrew "stands" in Round 3; A withdrew its retained "robots' private glitch-coolant use" in Round 3).
+  - Robots are 44.45% of Census II, so a robot-only finding is not the city (A).
+  - RC's absence was found over a gathered set that included excluded files, but it does not rest on what those files say, so RUNBOOK L2877 does not reach it (C).
+- **Pass locations.** 05:127 (qualifier); Phase 8 §A.4 (in no list; by citation); T16 L2084 (source docket).
+- **Stays.** The self-originated tag; the absence of a named institution.
+- **Disposition.** The tag: `confirmed by all three`. The tier 2 narrowing: `found by two` (A, B). The absence not out of frame: `found by one` (C).
+
+### AM-S5-F17 §4 row, "The lakes are the defining terrain" (05:128); question 4, second half
+
+- **Pass.** 05:128: "The lakes are the defining terrain", with LC §3, §4, §8c's idiom and §29's landmarks as the source, and Phase 10 §C.2 (from real-world limnology) as the route.
+- **Current inputs.** Tier 1: SPEC L84, L141 and L144 (L144: "the visual environment shifts between rocky ground, lake ice, fjord-like inlets, and the surrounding ice sheet"). T16 L2053 and PORTS L559 put the harbor in the Vestfold Hills' fjord-like inlets (C). P89 L37-39: whether Davis has an accent, local words or contact features is unwritten; P89 L45-47 keeps any Davis accent or vocabulary open. Check: LC L106, "that's a [Lake X] situation"; LC L286 calls the fjord inlets "the most distinctive terrain feature"; LC L287 is the lake system; LC L288 is the harbor.
+- **Re-derived.**
+  - The convergence stands, `firm` on terrain. It has a tier 1 leg the pass did not cite: SPEC L84, L141 and L144 (A, B, C).
+  - §8c's idiom is a tier 3 proposal. Admitted canon writes no Davis words (P89), so the idiom is corroboration only, and the row does not need it (A, B, C).
+  - **Widened, as a qualifier.** LC §29, one of the pass's own cited sources, names the fjord inlets as the most distinctive terrain feature. That is a ranking within Davis's own features, which is legal, and a mismatch is a finding site (INPUT L630). The convergence holds for the water bodies taken together (the freshwater and saline lakes and the fjord inlets), which SPEC L141 and LC L61 list together. "Defining" and "most distinctive" may both be true of different objects, so this is a qualifier, not a kill (C; A and B accepted it in Round 3, and B withdrew keeping "the lakes").
+  - **Question 4, second half.** No Step 5 finding uses §8 beyond §8c. The only §8 citation in the pass file is 05:128, and it cites §8c only. §8a (LC L104) and §8d (LC L107), both composition-derived, are used nowhere (A, B, C, K).
+- **Pass locations.** 05:128 (add the SPEC lines; mark §8c as tier 3; *the lakes* becomes *the water bodies*).
+- **Stays.** Phase 10 §C.2's route and the row, widened.
+- **Disposition.** The convergence, its tier 1 leg, §8c as tier 3 and question 4: `confirmed by all three`. The widening: `found by one` (C).
+
+### AM-S5-F18 §4 row, the Gen/Mark null (05:129); question 8
+
+- **Pass.** The robot file's triage, "legitimate Honesty Check outcome", matches Phase 9's `H50`.
+- **Current inputs.**
+  - Check: RC L70, "Davis's human-majority population is a species-ratio fact, not a Gen/Mark fact". RC L25 and L79 give 437,423 humans to 344,173 robots.
+  - SPEC L15: Census I, 590,668 humans and 619,764 robots. SPEC L16: Census II, 454,101 humans and 363,374 robots.
+  - Figures (orchestrator result 3, recomputed by each reader): robots are 51.20% of Census I, and humans are 55.55% of Census II. Retention is 76.88% for humans, 58.63% for robots and 67.54% combined. S1 L38: "The majority still inverts (robots 51.20% at Census I, 44.45% at Census II)."
+  - P2 L13: "Who left still cannot be read from the table". P2 L20: "A row's robot column is a copy of the human proportions" (C). P2 L17, a proposal, says robots have no senescence, so the robot loss is not aging (B).
+  - LOG L1713: "`DR-4` already makes Census I the governing figure for a city's band" (B).
+- **Re-derived.**
+  - The null stands. It is a legitimate result, `null` as a Gen/Mark finding, for want of an admitted line, not a killed finding (A, B, C).
+  - The human majority holds at Census II only. At Census I, the census DR-4 makes governing for a city's band, robots are the majority (`firm`) (A, B, C; the DR-4 point is B's). RC's figures are superseded (AM-S5-F26). The null's reasoning sets the ratio aside, so it does not depend on which population leads.
+  - No admitted line ties the retention gap to generation or mark, and who left cannot be read from the table. The gap therefore does not bear on the null. Whether robot departures were selective by generation or mark is a seed question only (AM-S5-Q12).
+  - Not used: RC L79's claim to be the first such reversal in its run, and T16 L2106's "rare in this corpus". Both compare Davis with other places (another location: not used) (A, C).
+- **Pass locations.** 05:129 (add the census qualifier) (A). Check-file docket rows at RC L25, L70, L79 and L132 (B).
+- **Disposition.** The null and the census qualifier: `confirmed by all three` (K reached the same). The DR-4 point: `found by one` (B).
+
+### AM-S5-F19 §4 row, holidays pending, not absent (05:130)
+
+- **Current inputs.** Check: LC L260, "Pending — specific historical anchoring events for local civic observances have not yet been established."
+- **Re-derived (`firm`).** The match stands, unchanged. It records a documentary absence and is explicitly not a characterization.
+- **Pass locations.** None. **Stays.** All of it.
+- **Disposition.** `confirmed by all three`.
+
+### AM-S5-F20 §4 row, "No character sited" (05:131), and §5's zero (05:146); question 5 and XU5-35
+
+- **Pass.** 05:131: "No character sited", matched by LC §7c's placeholder against "Phase 10 §F.3's verified zero". 05:146: "Phase 10 §F.3's zero STANDS as written".
+- **Current inputs.**
+  - Check: LC L98 still reads "placeholder — no specific named character yet connected to Davis".
+  - P10 L16: §F.3's zero was a two-source result. The project's own character folders were never opened, and they hold one developer-sourced character draft sited in Davis (roster ID STP-06); "Verified" falls. P10 L17: her Davis residence on the admitted lines is the present day, about 2822 to 2827; "That is 10 to 15 years after the frame closes in 2812." P10 L27: "the unread `PreWar_History.md` hit, which could place her in Davis inside the frame".
+  - LOG L1704 (Not decided): the character draft sited in Davis was put to the developer as a recommendation and not answered. LOG L1712 (DR-105 item 5): "the two quotations in the README of the character sited at Davis (STP-06) are brought to today's facts". LOG L1715 lists the character README among the files changed.
+  - INPUT L676: "A proposal, suggestion, or draft" is not admissible as canon input (B).
+- **Re-derived (`conditional`,** on P10's dating and the unread hit).
+  - The bare sentence "No character sited" is false: the rulings log itself calls STP-06 the character sited at Davis (A, C; B accepted it in Round 3).
+  - "Verified" falls (P10) (A, B, C).
+  - No canon character is sited in Davis inside the frame (2564 to 2812). The draft is not canon input (INPUT L676) (B), and her Davis residence lies after the frame (P10 L17) (A, C).
+  - **The label.** No admitted line calls the draft unratified; LOG L1704 records only that it was put to the developer and not answered. A, B and K call it unratified; C keeps the neutral wording. Written to the narrower reading: the neutral wording.
+  - **Before or after the pass.** Not answerable from any reader's list: no admitted line dates the draft (A, B, C). Step 5's own text was revised after its header date (AM-S5-N1), so any such test must use the date of the line itself (B, C).
+  - **The README.** DR-105 item 5 brought the README's two quotations to today's facts, so XU5-35's clause "whose README cites the pre-rework composition" is overtaken. Whether the edit was applied is not visible, because no reader read the README (A, B, C; C withdrew "listed as changed" to "recorded as changed" in Round 3). The README's composition does not bear on Step 5's row, which is about siting (C).
+  - The agreement with LC §7c narrows to agreement between two sources, neither of which opened the character folders. It holds for canon placeholders, not for drafts (C).
+  - **Proposed record (merged from A, B and C after Round 3):** *No canon character is sited in Davis inside the frame (2564 to 2812); a draft is not canon input (INPUT L676). One developer-sourced character draft, roster ID STP-06, is sited in Davis after the frame (about 2822 to 2827; P10 L17). Whether it counts for the pass was put to the developer and not answered (LOG L1704); DR-105 item 5 (LOG L1712) brought only its README's quotations to today's facts. Phase 10 §F.3's zero holds for canon characters inside the frame; verified does not (P10).*
+- **Pass locations.** 05:131 (false as a bare sentence; qualifier); 05:146 (stands for canon characters inside the frame; "verified" falls); Phase 10 §F.3 and Disanalogy B (P10 handles them); LC L98 (a check file; true as to canon, silent on the draft) (B).
+- **Stays.** `H8` unanswered; the names rule (no name is invented).
+- **Disposition.** "Verified" falls and the README clause is stale: `confirmed by all three`. The bare sentence is false: `found by two` (A, C). The draft is not canon input: `found by one` (B). The label: `conflict resolved to the narrower reading`.
+
+### AM-S5-F21 §5, what the admissibility ruling cost (05:141-149)
+
+- **05:145, the Sediment Core Archive.** RC L33-37 and L229-230 confirm it came from the excluded megasheet input. It stays withdrawn (A, B, C).
+- **05:146, the two named founding figures.** They stay withdrawn as history-file figures; RC L234-236 calls them explicitly unfinalized placeholders (C), and RC L52-55 lists them among the history-file incidents. `H8` is not answered: P2 L24 keeps "the founder's in-world role and standing" open, and the draft STP-06 is present-day, not the founding administration (B). "Phase 10 §F.3's zero STANDS as written" takes AM-S5-F20's qualifier. (Neither figure's name is reproduced here.)
+- **05:147, the withdrawn history-file wish.** It stays withdrawn. LC L164 now carries the same real-world place name as a port comparison, inside text attributed to the port ruling (AM-S5-N3).
+- **05:148, "Davis's Elemental assignment is now BLANK by developer ruling".** The current address is LOG L1712 (DR-105 item 5): "the symbol pair stays blank until Davis's Phase 10 (`DR-8`, `DR-8a`)". P10 L23: "Phase 10 has no B3 (Planet + Element) section, yet the rulings hold Davis's pair blank until its Phase 10." So nothing closes the blank, and "who owns the B3 determination" is open (P10 L30). The blank is open, not merely withdrawn (C). RC L78 matches (B). The withdrawal of the Earth-valence synthesis stands either way, because it also rested on history-file material (A).
+- **05:149.** `H45` and `H46` stay open; nothing in any list touches them (A, B).
+- **Strength.** `firm`.
+- **Pass locations.** 05:146 (qualifier); 05:148 (the current ruling address and P10's finding).
+- **Disposition.** The withdrawals and 05:148: `confirmed by all three`. 05:149: `found by two` (A, B).
+
+### AM-S5-F22 §6, the GPS narrowing, the founding citation and `H62` (05:153-166, 05:189); questions 6 and 7
+
+- **Pass.** 05:160 attributes to "`Specs` / §2" the inference that the station's operation since 1957 means "Australian founding character shaped Davis from the outset". 05:161 cites DR-28 for the namesake's biography. 05:163: "The law bars a site's identity AND its namesake's biography as inputs". 05:164-166: `H62` is ruled by DR-19, and the "Australian founding itself stands on geography" (DR-29, the Founding Register); the operator-to-character inference is the culture sheet's to correct, outside this pass. 05:189: "The correction sits in `Local_Cultures`, outside this pass".
+- **Current inputs.**
+  - LOG L552 (DR-19): founding nations are legitimate on geography and access; "A real station's operator is a GPS coordinate only". LOG L546-547 (DR-19, the developer's words): Australia is "extremely close to those locations". LOG L553 confirms Australia for Davis (the line also names other locations: not used).
+  - LOG L700 (DR-29): "Australian founding stands on geographic proximity."
+  - Orchestrator result 5: the Register's row for Davis (L59) names Australia, on the basis "extremely close... comparatively easy access", ruling DR-19. P2 L15: "The founder is Australia, by the Register, on geography and access".
+  - INPUT L493: founders come from the Founding Register only, never the real station's operator (C).
+  - Check, 2026-11-09: LC L45, "the founding generation chose his name deliberately anyway". LC L47, "Australian founding character shaped Davis from the outset".
+  - The spec's admitted lines (L86, L151, L153) state the operator fact and the founding population, not the founding-character inference (A).
+- **Re-derived (`firm`).**
+  - **Question 6: both rulings.** DR-19 states the ground (geography and access), confirms Australia for Davis, and is the ruling the Register cites. DR-29 confirms Davis's own case on geographic proximity. 05:165 should read *stands on geography and access (DR-19, LOG L552-553; Founding_Register.md L59), confirmed for Davis by DR-29 (LOG L700)* (A, B, C; K raised the question).
+  - **Question 7.** LC L45 and L47 are not corrected as of 2026-11-09 (A, B, C, K). `H62`'s entry should state the current fact under DR-102: *LC L45 and L47 still carry both sentences; correction not made.* A wrote "still pending"; B (after Round 3) and C wrote "correction not made". Written to the narrower reading, because "pending" implies an order the admitted lines do not show. The principle is ruled (DR-19); the check-file edit is not ordered (C). Question AM-S5-Q11.
+  - The inference 05:160 attributes to "`Specs` / §2" sits in LC §2 (LC L43 to L47), not in the spec's admitted lines. The spec's founding-wave lines stand as written by DR-29 (A).
+  - The refusal at 05:158-163 stands: the operator-to-character inference is a GPS violation (A, B, C).
+  - DR-28, cited at 05:161, is in no reader's list (AM-S5-R7).
+- **Pass locations.** 05:160 (attribution); 05:165 (ground incomplete); 05:189 (status of the correction).
+- **Stays.** The GPS refusal, 05:163's principle, `H62`'s ruling and the founding itself.
+- **Disposition.** Question 6 and the fact behind question 7: `confirmed by all three`. `H62`'s wording: `conflict resolved to the narrower reading`. 05:160: `found by one` (A).
+
+### AM-S5-F23 §7, the close-pass docket and `A-1` (05:170-176)
+
+- **Re-derived (`firm`).** Every reader read both check files in full. Neither has a section or a sentence on disposal of the dead, so "Neither culture file addresses disposal of the dead" (05:176) stands, and `A-1` stays reserved: none is sited here. B's scan restricted to the two check files returned only two false positives (section 8). The Gate 3 row (05:174) and the Zodiac Lens row (05:175) are untouched by anything in the lists; A could not verify them, because Phase 4 and Phase 10 §G are in no list.
+- **Pass locations.** None. **Disposition.** `confirmed by all three`.
+
+### AM-S5-F24 §8, the holes other than `H61` and `H62` (05:180-190)
+
+- **`H58` (05:184).** Its sources are in no list. It is recorded as the pass states it and not re-derived (A, C). RC L38-39 names the same three real-world inspirations (A).
+- **`H65` (05:186), narrowed, `firm` on the payer.** PORTS L559 now writes who pays: "this coast is not the only place the Federation pays for one". P5 L51-52 calls the channel "a national service sited" at Davis. Where the icebreaking is based, and who operates it, are unwritten. Paying is not operating, so 05:186's "only the siting is open" needs the operator added back (A). Question AM-S5-Q10.
+- **`H66` (05:187).** Its category is stated: raw materials from Upper-Earth countries, transshipped through the two hubs (PORTS L559; T16 L2056-2057). The manifest stays open, and so does where the cargo goes after landing (P5). LC L243-246's further detail is tier 3 (B; AM-S5-N6). A and B wrote "open"; C wrote narrowed; B accepted C's label in Round 3. The hole stays open with its category stated.
+- **`H67` (05:188).** Open (T16 L2078-2079).
+- **`H8` (05:190).** Open: the spec's admitted lines name no administration, and P2 L24 keeps the founder's in-world role open.
+- **New holes.** The composition conflict (AM-S5-F26) (A, B, C), and the lake-schedule research (A). No number is assigned here (AM-S5-R11).
+- **Disposition.** `H65`, `H66`, `H67` and `H8`: `confirmed by all three`. The composition hole: `confirmed by all three`. The lake-schedule hole: `found by one` (A).
+
+### AM-S5-F25 §9, the verdict (05:194-212)
+
+- **Strongest reason (05:198-202).** Narrowed as in AM-S5-F4.
+- **"Seven convergences survive on canon sources" (05:205).** The count is killed by evidence, and "on canon sources" narrows (AM-S5-K2). On today's files the seven rows are five agreements with tier 3 check files, all corroboration (let the work speak; the lakes, widened; the Gen/Mark null; holidays; no character sited, narrowed), one self-originated corroboration (glitch-coolant, narrowed), and one row out of frame (credit kinship) (C's split; A and B adopted it in Round 3).
+- **The credit-kinship clause (05:205-206).** Killed by evidence (AM-S5-K1).
+- **The column header "Canon source" (05:123).** Narrowed (AM-S5-K19).
+- **Biggest doubt (05:208-210).** "the harbor's operating season and its icebreaking are open" no longer holds as to the season: PORTS L559 states "The natural ice window is the austral summer, Nov–March." and that a principal import port runs past it on an icebreaker-kept channel, and 05:97-98 already says "year-round" (AM-S5-K6). The payer is written; the base and operator stay open (`H65`). Phase 5 is re-checked in P5, a proposal. The doubt now sits in P5's open list: what passes along the ties, where the imports go after landing, and whether persons arrive by sea (A).
+- **Stays.** "What it cost" (05:204) and the Step 6 line (A).
+- **Disposition.** As in the entries cited above.
+
+### AM-S5-F26 The composition conflict: what Step 5 must record (questions 2 and 3; XU5-36)
+
+- **Current inputs.**
+  - Tier 1: SPEC L15-16 (both censuses); SPEC L18-22 (five Primary, two Significant and 38 Notable rows); SPEC L30-76 (the 45 rows; orchestrator result 1); SPEC L78, "Tier labels follow the final shares" (K). LOG L1528 (DR-85 item 2): "China's row is the Sinian Federation" (K).
+  - Check-file lines that question 2 lists: LC L9 (Census II as "437,423 humans / 344,173 robots / 781,596 combined"); LC L24-37 (a three-tier table with one Primary row, seven Significant and thirteen Notable, ranked within tiers, with comparisons that are not used); LC L77 ("China's Primary-tier dominance"); LC L104 (AM-S5-F27); LC L107 ("thirteen nations"); LC L119 and L186 (cuisine and heritage lists keyed to the old tiers); LC L173 (the old Census II figures); LC L193's stated ground; LC L199 (the same count, with a ranking); RC L25 and L79 (the old Census II figures). K's list names LC L28 and L35 inside that range.
+  - Lines the question omits: LC L133, LC L221-222, RC L38-42 and RC L203-205 (AM-S5-N16) (C).
+  - LC uses names the current table does not, for example China, South Korea and Russia, against the spec's Sinian Federation, Korea and Russia (core state) (K).
+  - LOG L1529 (DR-85, Not decided): the downstream files that still quote old shares, "(listed in `Sinian_Federation_Split_Scratch_2026-11-01/14_Downstream_Mentions.md`; not edited)". LOG L1616 (DR-94, Not decided) says the same. LOG L1703 (DR-104 items 1 and 2): no finding rests on a gap between two nations of the same tier, and "All 45 rows of Davis's composition are origins; Phase 2 reasons by headcount, with no cutoff."
+- **Question 2 (`firm`).** No Step 5 finding rests on any of these sentences (A, B, C, K). Step 5 cites LC §3, §4, §6a, §7c, §8c, §13, §19, §26 and §29, and RC's triage and one-liner (and RC §6 through T16). Of the composition lines it touches only LC L193, by its content and not its ground (AM-S5-F8), and RC L70, which mentions the human majority only to set it aside and which still holds at Census II (AM-S5-F18). Nothing inside Step 5 needs re-keying, and nothing rests on a within-tier gap.
+- **Re-keying the check files themselves** (all 45 rows by headcount, no within-tier gap, no comparison with another place), line by line (A; B accepted it in Round 3):
+  - LC L193's ground survives. LC L77's conclusion that the founding tension is not founding-nation-versus-majority survives (no origin is a majority; the founding row is 5.74%), but "China's Primary-tier dominance" fails: the Sinian Federation row is one of five Primary rows, at 9.72%.
+  - LC L104 fails. LC L107's "no single non-Primary group carries outsized integration burden" becomes a seed, because "outsized" is undefined and the largest non-Primary rows are 5.74% each.
+  - LC L119 and L186 omit rows (for example the United Kingdom at 9.36%) and must name origins by headcount.
+  - LC L199's count fails: there are 38 Notable rows. RC L25 and L79's human majority survives at Census II.
+  - Every within-tier ranking (LC L25, LC L104) is barred as a ground by DR-104 item 1.
+- **Question 3 (`firm` as to form; the correction itself is the developer's).** Yes: a reconciliation row of its own, on the model of §2.1. Proposed row:
+  > *2.3 · The composition: a hard conflict, and the spec governs. LC (L9, L24-37, L77, L104, L107, L119, L133, L173, L186, L193's stated ground, L199, L221-222) and RC (L25, L38-42, L79, L203-205) carry composition or census figures that conflict with SPEC L15-16 and L18-78 (45 rows). Tier 1 governs. No Step 5 finding rests on the stale text. The check files' composition-derived content is population-origin material: demoted, never excluded, and re-keyed to all 45 rows by headcount, with no ground in a within-tier gap (DR-104 items 1 and 2). The correction sits outside the pass and is not decided: DR-85 and DR-94 record the downstream files that still quote old shares as not edited (LOG L1529, L1616), conditional on these two files being on the list those rulings cite. Hole: number assigned when the amendment is applied.*
+  - **Status wording.** *Not decided*, not *correction needed* (C; A and B accepted it in Round 3). Unlike the L53 correction (DR-103 item 5), nothing has been ordered (C).
+  - **Coverage.** A treats the two check files as covered by DR-85's "not edited". B notes that the list itself (`14_Downstream_Mentions.md`) is in no reader's list, and C withdrew to "conditional on the files' listing in `14_Downstream_Mentions.md` (unread)" in Round 3. Written to the narrower reading: conditional (AM-S5-R9).
+- **Pass locations.** §2 lacks the row; §8 lacks the hole.
+- **Stays.** Every existing row.
+- **Disposition.** Question 2, the row and its form: `confirmed by all three`. Status wording: `found by one` (C). Coverage: `conflict resolved to the narrower reading`. Line-by-line re-keying: `found by one` (A). Name differences, SPEC L78 and LOG L1528: `found by one` (K).
+
+### AM-S5-F27 LC L104 and the language rule (question 4, first half)
+
+- **Current inputs.** Check: LC L104, "Mandarin (Primary tier)", with "Indonesian leading" a Significant-tier mix, and its note that Japan "is actually the smallest of the six Significant-tier nations at 5.31%". LOG L1703 (DR-104 item 3): "the language rule enters through the note". P89 L24-25: "Davis's dominant language is Hawaiian (later Tepenian)." and its supporting tier is English, Mandarin, Japanese and German. P89 L29-30 flags a sensitivity "under one illustrative method, to the reserved decision on" four rows. LOG L1613 (DR-94 item 4): "Manchuria declines like the Sinian Federation; Mongolia, East Turkestan, Tibet and Taiwan do not." Orchestrator result 8. LOG L1527 (DR-85, the developer's words): the Tepenian language is "down at its foundational level core, a Pidgin between English and Japanese" (K).
+- **Re-derived.** The rule bears on LC L104 (`firm` that LC L104 is stale; the replacement wording `conditional`, because P89 is a proposal) (A, B, C).
+  - Under P89, Mandarin is one of four supporting-tier languages, not the primary language; the dominant language is Hawaiian (later Tepenian).
+  - "Primary tier" labels a language by a stale single-row composition tier. The Sinian Federation row is one of five Primary rows (SPEC L20, L33) (B, C).
+  - "Indonesian leading" fails on the current table (Indonesia 5.74%, SPEC L37) (A) and rests on a gap inside one tier, which DR-104 item 1 bars (B).
+  - P89's four-row sensitivity rests on a premise DR-94 item 4 supersedes, so the correction of LC L104 should not carry it (A, B, C).
+  - K adds DR-85's record of the developer's words on the language's foundation (LOG L1527). K found that it does not reach any finding Step 5 compares.
+  - No Step 5 finding uses §8a (AM-S5-F17). The correction belongs in the check file, outside the pass.
+- **Pass locations.** None in the pass file.
+- **Stays.** LC §8c's idiom, as a tier 3 check match.
+- **Disposition.** `confirmed by all three`. The within-tier point: `found by one` (B). LOG L1527: `found by one` (K).
+
+## 2. Killed or narrowed findings (class each: killed by evidence / killed for want of an admitted line)
+
+Each item is classed as killed by evidence, killed for want of an admitted line, or narrowed. Everything is PROPOSED.
+
+### Killed by evidence
+
+- AM-S5-K1 **05:205-206**, "which `16` carries independently of the incident that supposedly originated it." Killed by evidence: T16 L2103-2104 carries the founding-era decision, unnamed, as the norm's cause (AM-S5-F14). Disposition: `confirmed by all three`.
+
+- AM-S5-K2 **05:205**, "Seven convergences survive on canon sources". The count is killed by evidence: the same file says "and two of them are not convergences at all" (05:114), and one row is now out of frame (AM-S5-K8). The phrase "on canon sources" is narrowed, not killed: in the four-tier vocabulary tier 3 is canon (RUNBOOK L2789: "IS FOUR TIERS, AND ONLY ONE OF THEM OUTRANKS"), so the phrase overstates rather than misstates. Only tier 1 outranks, and every one of the seven rows cites tier 3 material. The readers crossed in Round 3: A and B moved "on canon sources" from killed to narrowed, following C, and C moved the count from narrowed to killed, following A and B. All three end at this reading. Disposition: `confirmed by all three`.
+
+- AM-S5-K3 **05:54**, "the amendment now rests on admissible canon". The word "admissible" is killed by evidence: LC is not admissible as an input (INPUT L514; INPUT L629-631) and may be read only as a check. The word "canon" stands in the four-tier vocabulary (RUNBOOK L2789). The sentence as a whole is narrowed to *rests on SPEC L141 (tier 1) for the physical leg, corroborated by LC L61 (tier 3, read as a check); the timing leg is a seed* (AM-S5-F2). Split: A holds the whole sentence false (killed by evidence); B, in Round 3, narrowed the falsity to "admissible" alone; C classes the sentence as narrowed. Written to the narrower reading. Disposition: `conflict resolved to the narrower reading`.
+
+- AM-S5-K4 **05:64, 05:69 and 05:185, as to LC §3.** The "66-67 days" attributed to §3, and "`Local_Cultures` §3 and §4 need correction" as to §3, are killed by evidence: LC L53 now states about 37 and 54 days (DR-103 item 5, LOG L1694). They hold for §4 only (AM-S5-F6). Disposition: `confirmed by all three`.
+
+- AM-S5-K5 **05:21's quotation** of INPUT §6.3, "They are proposals awaiting a ratification decision the developer has not yet made." Killed by evidence: INPUT L683-684 now records a ruling on the whole class. The exclusion itself stands, on a stronger ground (AM-S5-F1). Disposition: `confirmed by all three`.
+
+- AM-S5-K6 **05:209**, "the harbor's operating season and its icebreaking are open", as to the season. Killed by evidence: PORTS L559 states the season (a natural window of November to March, run past on an icebreaker-kept channel), and 05:97-98 already says "year-round". The icebreaking narrows to its base and operator (`H65`) (AM-S5-F25, AM-S5-F24). Disposition: `confirmed by all three`.
+
+### Killed for want of an admitted line
+
+- AM-S5-K7 **05:103**, "those are imports". No admitted line names any of the five constraints (energy, glass, CO₂, labor, logistics) as cargo; PORTS L559 and T16 L2056 say only raw materials. The clause as stated is killed for want of an admitted line. Within it, energy, labor and logistics are not raw materials, so the stated cargo cannot meet them (A), and labor is not freight (C). Whether imported raw materials meet the glass or CO₂ constraint stays open (A's Round 1 split, which C adopted in Round 3). Split: after Round 3, A and B kill the clause for all five constraints; C prefers A's split, which leaves glass and CO₂ open. Written to the narrower reading: the clause is killed as stated, and the glass and CO₂ question is held open, not answered no. Disposition: `conflict resolved to the narrower reading`.
+
+- AM-S5-K8 **05:125**, credit kinship as a usable convergence ("Still usable and the pass is obliged to use it"). Out of frame (RUNBOOK L2877): T16's only stated ground for the norm is a founding-era decision with no admitted line. Its strength as a convergence is `null` (rule 4). The identification of that decision as history-file material is `conditional`, because it rests on a check-file match. This also covers A's separate kill of T16 L2103-2104's incident clause as a ground. A withdrew "the mechanism survives as a self-originated proposal" in Round 3; whether the mechanism can be carried another way is AM-S5-Q6. Disposition: `confirmed by all three`.
+
+### Narrowed
+
+| Key | Pass location | Statement | Narrowed to | Ground | Disposition |
+|---|---|---|---|---|---|
+| AM-S5-K9 | 05:13 | "`16_Per_City_Three_Tier_Run.md`'s determinations" | T16's determination ranges only (L2008-2024, L2073-2076) | RUNBOOK L2799; T16 L2082-2084, L2097-2106 | `found by two` (B, C) |
+| AM-S5-K10 | 05:14 | the Libraries "ratified into `Specs`" | PROVISIONAL while S1 holds SPEC L167 | S1 L42-43 | `found by two` (A, C) |
+| AM-S5-K11 | 05:33, 05:49-50 | "Tier 3 and admissible"; "The re-sourcing makes it stronger." | read as a check; physical leg `firm` on SPEC L141; timing leg `seed` | INPUT L629-631; SPEC L141 | `confirmed by all three` |
+| AM-S5-K12 | 05:41, 05:46, 05:47 | "Truth here is not singular." | *no single record speaks for the whole terrain*; `conditional` | RUNBOOK L2783-2784; LC L61 | `found by one` (B) |
+| AM-S5-K13 | 05:51-52 | "a READING competence" | practical mastery from a documentary start, plus inherited plant | SPEC L151; P2 L22 | `confirmed by all three` |
+| AM-S5-K14 | 05:87 | "widely felt" | `conditional` on Phase 7 §D.2; interim *held by some residents* | LC L193; 05:76 | `found by two` (A, B) |
+| AM-S5-K15 | 05:103 | "STRENGTHENED, and it is the mechanism the ruling needed."; "The port feeds the greenhouses" | not firm; the feeding claim is a `seed` | PORTS L559; T16 L2056; P5 L53, L57-58 | `confirmed by all three` |
+| AM-S5-K16 | 05:104 | "Davis is the SUBSTITUTABLE one" | *supplemented, not substituted*, `conditional`; no ranking | P7 L63-64 | `confirmed by all three` |
+| AM-S5-K17 | 05:106 | "Needs re-checking" | re-checked by P5 (proposal) | P5 L35-59 | `confirmed by all three` |
+| AM-S5-K18 | 05:110 | "cost nothing upstream" | `conditional` on no re-size (`H67`) | T16 L2078-2081 | `found by two` (A, C) |
+| AM-S5-K19 | 05:123 | "Canon source" | state the tier per row (low confidence) | RUNBOOK L2789; 05:15 | `conflict resolved to the narrower reading` |
+| AM-S5-K20 | 05:126, 05:136-137 | "Two instruments, five weeks apart, same place." | a match of conclusions only; one chain on the check side; RC's route excluded | LC L73, L86; 05:163; RC L21-28, L108; RC L33-37, L52-55 | `confirmed by all three` (namesake ground); `found by one` (A) (one chain); `found by two` (B, C) (route) |
+| AM-S5-K21 | 05:127 | "Glitch-coolant: genuine muted absence" | *no named drinking-culture institution is recorded*; PROVISIONAL on S1's hold | SPEC L167; RUNBOOK L2798 | `found by two` (A, B) |
+| AM-S5-K22 | 05:128 | "The lakes are the defining terrain" | the water bodies (lakes and fjord inlets), as a qualifier; §8c is tier 3 | LC L286; SPEC L141; P89 L37-39 | `found by one` (C) (widening); `confirmed by all three` (§8c) |
+| AM-S5-K23 | 05:129 | the Gen/Mark null, with no census named | human majority at Census II only | SPEC L15-16; LOG L1713 | `found by two` (A, B) |
+| AM-S5-K24 | 05:131, 05:146 | "No character sited"; "Phase 10 §F.3's zero STANDS as written" | no canon character sited inside the frame; verified falls | P10 L16-17; LOG L1704, L1712; INPUT L676 | `confirmed by all three` (verified falls); `found by two` (A, C) (bare sentence false) |
+| AM-S5-K25 | 05:148 | "Davis's Elemental assignment is now BLANK by developer ruling" | blank until Davis's Phase 10, which has no B3 section; open | LOG L1712; P10 L23, L30 | `confirmed by all three` |
+| AM-S5-K26 | 05:160 | "`Specs` / §2" | the inference sits in LC §2 (LC L43 to L47) | SPEC L86, L151, L153 | `found by one` (A) |
+| AM-S5-K27 | 05:165 | "Australian founding itself stands on geography" | geography and access (DR-19; Register L59), confirmed by DR-29 | LOG L552-553, L700 | `confirmed by all three` |
+| AM-S5-K28 | 05:186 | "only the siting is open" | payer written; base and operator open | PORTS L559; P5 L51-52 | `confirmed by all three` |
+| AM-S5-K29 | 05:189 | no status on the correction | correction not made | LC L45, L47 | `conflict resolved to the narrower reading` |
+| AM-S5-K30 | 05:198-202 | "Re-sourced, it is stronger" | narrowed leg by leg; `conditional` | SPEC L141; LC L61 | `confirmed by all three` |
+
+## 3. New findings
+
+- AM-S5-N1 **Step 5's text was revised after its header date.** 05:3 reads "Re-run 2026-09-16", while 05:184 records `H58` as "CLOSED 2026-09-22", so the file was revised after its header date (`firm`). 05:164 and 05:189 cite DR-19, which LOG L540 dates 2026-09-30. That this proves a revision on or after 2026-09-30 assumes the label was not assigned earlier, which no admitted line shows (`conditional`). Before DR-101 (2026-10-30) such revisions were permitted, so nothing was breached. Any before-or-after test against the pass must use the date of the line itself, not the header (B, C). Split: C wrote that Step 5 was edited at least to 2026-09-30, and B was firm on the dates; A held the 2026-09-30 reach conditional. Written to the narrower reading. Disposition: the revision, `confirmed by all three`; the 2026-09-30 reach, `conflict resolved to the narrower reading`.
+
+- AM-S5-N2 **The check files carry lines dated to the pass's re-run that mirror Step 5.** LC L164, LC L239-254 and LC L288 are tagged with the 2026-09-16 ruling, and so are RC L45-46, L78, L139-140 and L216-222 (the Elemental blank and the withdrawal note) (C). LC L250 repeats 05:103's sentence word for word: "The port feeds the greenhouses; it does not empty them." (A, B, C). The identical text is `firm`; which way the copying went is unknown (B; A adopted B's strength in Round 3). INPUT L629-631 assumes a check file written apart from the pass. Agreement with these lines is the pass meeting itself (INPUT L638: "the pass is confirming itself") and carries no corroboration value. Step 5 counts none of them as a convergence, so no Step 5 finding is inflated; a later reader using them as a check would inflate one (C). Disposition: `confirmed by all three` (scope from C, strength from B).
+
+- AM-S5-N3 **LC L164 attaches a real-world port-city comparison to the 2026-09-16 ruling.** The place name is not reproduced here. The ruling as carried in tier 1 (PORTS L559; T16 L2052-2058) has no such comparison, and 05:147 withdrew the same place name as a history-file wish. Real-world comparables are legal; this is a question of provenance only. It is not used either way until the ruling's verbatim text is read (AM-S5-Q7, AM-S5-R8). `conditional`. Disposition: `confirmed by all three`.
+
+- AM-S5-N4 **XU5-35's recommended wording is partly stale.** Its clause "whose README cites the pre-rework composition" is overtaken by LOG L1712 (DR-105 item 5), and LOG L1715 lists the README among the files changed. Whether the edit was applied is not visible. The rest of XU5-35's question, whether the draft counts, is still not answered (LOG L1704); A withdrew dropping "not answered" in Round 3. `firm` on the log text. Disposition: `confirmed by all three`.
+
+- AM-S5-N5 **The robot file is downstream of the culture file.** RC L21-28 records a full read of LC as its Input A, and RC L108 builds on LC §6a. Wherever a match with LC and a match with RC on the same point are counted as two, they are one chain (AM-S5-F15). `firm`. Disposition: `found by one` (A); B and C accepted it in Round 3.
+
+- AM-S5-N6 **LC L246 names supplier countries that the tier 1 ruling text does not.** PORTS L559 says only "raw materials from Upper-Earth countries", and P5 L57-58 holds route and supplier open. No Step 5 row rests on LC L246. Low. Disposition: `found by one` (A); B and C accepted it in Round 3.
+
+- AM-S5-N7 **Migration promoted a proposal in T16.** T16 L2103-2104 states as fact what RC L93 calls plausible, and adds the founding-era incident as the norm's cause. INPUT L593: "Migration must not promote." `firm`. Disposition: `found by one` (A).
+
+- AM-S5-N8 **T16 L2103-2105 lacks a provenance clause.** INPUT L590: "Provenance travels with a migrated fact." The receiving file records which location's pass produced it, in one bracketed clause. T16 L2082-2083 complies; L2103-2105 does not. T16 is a source and is never edited (docket only). `firm`. Disposition: `found by one` (C).
+
+- AM-S5-N9 **T16 L2106's "rare in this corpus" is a ranking.** No Step 5 row rests on it, and any amendment quoting that line should drop the phrase (another location: not used). `firm`. Disposition: `found by two` (A, C).
+
+- AM-S5-N10 **T16 mixes a tier 1 determination with tier 3 characterization.** 05:13 admits T16's determinations at tier 1, but 05:125 and 05:127 cite T16's sector commentary and Notes (L2082-2084, L2103-2105), which are characterization (RUNBOOK L2799). The input contract's prose case (INPUT L529-547) gives the fix: cite the admissible and the inadmissible line ranges separately. Step 5's tier table should name T16's determination ranges (L2008-2024, L2073-2076) apart from its commentary and Notes (AM-S5-F1). Medium confidence. Disposition: `found by two` (B, C).
+
+- AM-S5-N11 **The culture file now contradicts itself on the light cycle.** §3 (LC L53) states about 37 and 54 days, while §4 (LC L61) gives dates spanning 67 and 68 days counted inclusively, "each lasting roughly two months". The partial correction under DR-103 item 5 produced an internal conflict that did not exist before. A file that has been repeatedly corrected is a file "that is still being derived" (RUNBOOK L2868). `firm`. Disposition: `found by two` (A, K); C accepted it in Round 3.
+
+- AM-S5-N12 **The culture file contradicts itself on its own composition.** LC L25 marks Japan as leading the Significant tier (corrected 2026-09-05), while LC L104 (corrected 2026-07-13) says Japan "is actually the smallest of the six Significant-tier nations at 5.31%". Both are stale against SPEC L32 and L37 (Japan 10.42%, Primary; Indonesia 5.74%, Significant). Both are within-tier ordering claims, which DR-104 item 1 bars as a ground (K). `firm`. Disposition: `found by two` (B, C); K found it too; A accepted it in Round 3.
+
+- AM-S5-N13 **Tier 2 vision lines that Step 5 never ran.** 05:14 lists two tier 2 items, the breadbasket and the libraries. The same vision line, SPEC L167, also says "Large enough to support a small arts and music community." and "Most non-work time goes to bars, eateries, and general social establishments." Step 5 never ran these against the check files or against its own findings. The glitch-coolant row is the one conflict found (AM-S5-F16); whether other phase findings conflict with them cannot be checked from any reader's list. `conditional`. Disposition: `found by one` (B); A accepted it in Round 3.
+
+- AM-S5-N14 **The leg check cannot fire when the leg's only ground is the later-read file.** RUNBOOK L2888 asks for the leg that a later-read file could contradict. When a Step 5 re-sourcing makes that file the leg's own ground, the check can only find the file changed; it cannot contradict the leg (A's pre-check note; B). B proposes, for the developer and with no rule changed here, that such a leg be named as grounded in the check file itself and that an independent ground be sought (AM-S5-Q13). `firm` as an observation. Disposition: the observation, `found by two` (A, B); the proposal, `found by one` (B).
+
+- AM-S5-N15 **The robot file gives the strongest finding no corroboration.** RC's own comfort-with-multiplicity synthesis (RC L203-214) lists three inputs: a Historical Vignette (excluded), the Sediment Core Archive (a megasheet item, excluded) and a per-nation input (RC L38-42; population-origin material used as a cultural ground; its real-world place names are not reproduced here). It is out of frame (RUNBOOK L2877). Used as a ground, it would also carry a source culture's attitude over whole, which the divergence operator forbids. The pass was right to re-source onto LC §4 and not onto RC, and the finding's only check-file corroboration is LC L61. `firm`. Disposition: `found by one` (C); A accepted it in Round 3.
+
+- AM-S5-N16 **Composition-derived lines that question 2's list omits.** LC L133 (music, grounded on Davis's broad composition, with a comparison); LC L221-222 (relations grounded on demographic starting material and composition similarity, with comparisons); RC L38-42 (per-nation catalog material as an input); RC L203-205 (that input used in the synthesis). No Step 5 finding uses any of them. They belong on the composition row (AM-S5-F26). `firm`. Disposition: `found by one` (C); A and B accepted it in Round 3.
+
+- AM-S5-N17 **The robot file paraphrases the spec beyond its words.** RC L29-30 states SPEC L84's size wording more strongly than the spec does (a ranking; not used), and paraphrases SPEC L141 as each lake having its own ice chemistry, which agrees with the physical leg. Neither is used as a ground. `firm`; minor. Disposition: `found by one` (C).
+
+## 4. Docket of proposed corrections (a table: location | what is wrong | proposed wording or pointer | confidence | disposition)
+
+All rows are PROPOSED; none is applied. Pass files are never edited (DR-101): a correction to a pass line is carried in the amendment note as the current fact with its source address (DR-102). Rows on LC, RC, T16 and the spec are source corrections for the developer to decide. Proposed wording is in italics. The confidence shown is the lowest any reader gave for the row.
+
+### 4a. Rows on the pass file (`05_Reconciliation.md`)
+
+| Location | What is wrong | Proposed wording or pointer | Confidence | Disposition |
+|---|---|---|---|---|
+| AM-S5-D1 05:13 | "determinations" reads as admitting T16's sector commentary and Notes | *T16's determination ranges (L2008-2024, L2073-2076); not its sector commentary (L2082-2084) or its Notes (L2097-2106)* (AM-S5-N10) | medium | `found by two` (B, C) |
+| AM-S5-D2 05:14 | The Libraries rest on SPEC L167, whose use S1 holds | *The breadbasket also stands at T16 L2014 and L2022; the Libraries' spec address is SPEC L167, whose use S1 holds (PROVISIONAL)* | medium | `found by two` (A, C) |
+| AM-S5-D3 05:15 | The quotation drops "findings are" (A); the parenthesis reads as both files' self-declaration, but only RC declares itself provisional (K) | *RC L3-4's own words, attributed to RC only* | low | `found by one` (A); `found by one` (K) |
+| AM-S5-D4 05:21 | Quotes a §6.3 sentence that the current source does not contain | Pointer: *INPUT §6.3, L683-684: the developer has ruled on the whole class; never an input (rule 3a)* | high | `confirmed by all three` |
+| AM-S5-D5 05:33 | "Tier 3 and admissible" | *tier 3 check file, read last as a check; a match is corroboration (INPUT L629-631)* | high | `confirmed by all three` |
+| AM-S5-D6 05:41 | The headline does not say the records are of different water bodies | *records of different water bodies, made at the same time, may point different ways without either being false* | medium | `found by one` (B) |
+| AM-S5-D7 05:46 | "Truth here is not singular." overstates | *no single record speaks for the whole terrain* | medium | `found by one` (B) |
+| AM-S5-D8 05:49-50 | "The re-sourcing makes it stronger." is ungrounded as to evidence | *Re-grounded: the physical leg on SPEC L141 (tier 1); the timing and calendar legs corroborated by LC L61 (tier 3), a seed pending research; the continuous-production mechanism stands as a mechanism* | medium | `confirmed by all three` |
+| AM-S5-D9 05:51-52 | "a READING competence" is narrower than its source | *a competence that began from inherited records (SPEC L151) and became practical mastery built over generations; records and plant were inherited (P2 L22, proposal)* | medium | `confirmed by all three` |
+| AM-S5-D10 05:54 | "admissible" is false | *rests on SPEC L141 (tier 1) for the physical leg, corroborated by LC L61 (tier 3, read as a check); the timing leg is a seed* (AM-S5-K3) | high | `conflict resolved to the narrower reading` |
+| AM-S5-D11 05:64 | The quoted span is no longer the current text of either section | *§3 (LC L53): about 37 days of polar night and 54 of midnight sun; §4 (LC L61): about May 19 to July 24 and about November 18 to January 24, roughly two months each* | high | `confirmed by all three` |
+| AM-S5-D12 05:65 | No counting convention | *the spec's spans count both end dates (36 and 54 days as differences)* | medium | `found by one` (A) |
+| AM-S5-D13 05:69 | One disposition for two sections in different states | *37 / 55 governs; §3 (LC L53) agrees, under DR-103 item 5 (LOG L1694); §4 (LC L61) needs correction, subject to the developer's word (AM-S5-Q4)* | high | `confirmed by all three` |
+| AM-S5-D14 05:87 | "widely felt" has no admitted line | *a dissatisfaction held by some residents, privately held, and structurally unable to assemble; the wider sizing waits on Phase 7 §D.2* | low | `found by two` (A, B) |
+| AM-S5-D15 05:95-98 | The readers split on whether "principal" must be quoted | Optional pointer: *principal is the ruling's word (PORTS L559)* | low | `conflict resolved to the narrower reading` |
+| AM-S5-D16 05:102 | Stale figures | *Option B holds: mandate 27.6% / free 30.5% on the current population (T16 L2076; DR-103 item 1, LOG L1694)* | high | `confirmed by all three` |
+| AM-S5-D17 05:103 | "those are imports" and "The port feeds the greenhouses" are stated as firm | *The stated cargo is raw materials the continent cannot manufacture (PORTS L559; T16 L2056); which greenhouse constraints they meet, and where cargo goes after landing, is open (P5). The port does not empty the greenhouses (T16 L2058). Phase 7 §A.3 stands on its own ground.* | medium | `conflict resolved to the narrower reading` (the imports clause); `confirmed by all three` (the rest) |
+| AM-S5-D18 05:104 | The label over-reads its own quotation and ranks Davis | *Davis's food supply can be supplemented: supplemented, not substituted (P7 L63, conditional); food supplementation and import dependence are different axes* | medium | `confirmed by all three` |
+| AM-S5-D19 05:106 | "Needs re-checking" | Pointer: *re-checked by the Phase 5 piece (P5, proposal, not applied)* | medium | `confirmed by all three` |
+| AM-S5-D20 05:110 | "cost nothing upstream" | *add: while the maritime share is not re-sized (H67; T16 L2078-2081)* | medium | `found by two` (A, C) |
+| AM-S5-D21 05:123 | The header "Canon source" does not state the tier | *Source (tier stated per row)* | low | `conflict resolved to the narrower reading` |
+| AM-S5-D22 05:125 | Credit kinship carried as a usable convergence | *Out of frame as a convergence (RUNBOOK L2877): T16 L2103-2104's only stated ground is a founding-era decision with no admitted line; a text match only; Phase 7 §C.1 stands only on a derivation of its own* | medium-high | `confirmed by all three` |
+| AM-S5-D23 05:126 | The check side's ground is not stated | *a match of conclusions only; LC's stated ground is the namesake (LC L73, L86), barred as an input (05:163)* | medium | `confirmed by all three` |
+| AM-S5-D24 05:127 | Not tested against tier 2 | *no named drinking-culture institution is recorded; checked against SPEC L167 (tier 2); PROVISIONAL on S1's hold* | medium | `found by two` (A, B) |
+| AM-S5-D25 05:128 | §8c is cited as canon; the tier 1 lines are not cited; the inlets are left out | *the water bodies (freshwater and saline lakes, and the fjord inlets); SPEC L84, L141, L144; §8c is tier 3* | low | `found by one` (C) (widening); `confirmed by all three` (the tier lines) |
+| AM-S5-D26 05:129 | The human majority is stated with no census | *human majority at Census II (454,101 to 363,374; SPEC L16); robots the majority at Census I (SPEC L15)* | medium | `found by two` (A, B) |
+| AM-S5-D27 05:131 | False as a bare sentence; "verified" falls | The merged record in AM-S5-F20 | medium | `confirmed by all three` |
+| AM-S5-D28 05:136-137 | "Two instruments" read as two independent checks | *add: RC builds on LC §6a (RC L21-28, L108), so the check side is one chain; RC's route used material this pass excludes (RC L33-37, L52-55), so only its conclusion compares* | medium | `found by one` (A); `found by two` (B, C) |
+| AM-S5-D29 05:146 | "Phase 10 §F.3's zero STANDS as written" | *stands for canon characters inside the frame; verified falls (P10)* | medium | `confirmed by all three` |
+| AM-S5-D30 05:148 | The blank's current ruling address | *blank until Davis's Phase 10 (DR-105 item 5, LOG L1712); Phase 10 has no B3 section and its owner is open (P10 L23, L30)* | medium | `confirmed by all three` |
+| AM-S5-D31 05:160 | The inference is attributed to the spec | *the culture file's §2 (LC L43 to L47); the spec's founding-wave lines stand as written (DR-29, LOG L700)* | medium | `found by one` (A) |
+| AM-S5-D32 05:165 | The ground is incomplete | *stands on geography and access (DR-19, LOG L552-553; Founding_Register.md L59), confirmed for Davis by DR-29 (LOG L700)* | high | `confirmed by all three` |
+| AM-S5-D33 05:185 (`H61`) | One status for two sections | *closed for §3 (LC L53; DR-103 item 5); open for §4 (LC L61, against SPEC L99-100)* | high | `confirmed by all three` |
+| AM-S5-D34 05:186 (`H65`) | The payer is now written | *the Federation pays for the channel (PORTS L559); the base and operator are open* | medium | `confirmed by all three` |
+| AM-S5-D35 05:187 (`H66`) | The category is now stated | *raw materials from Upper-Earth countries, via the two hubs (PORTS L559; T16 L2056-2057); the manifest is open* | high | `found by one` (C) |
+| AM-S5-D36 05:189 (`H62`) | No status on the correction | *LC L45 and L47 still carry both sentences; correction not made (read 2026-11-09)* | high | `conflict resolved to the narrower reading` |
+| AM-S5-D37 05:198-202 | The strongest reason is overstated | *The central amendment survives, narrowed: the physical leg on SPEC L141; the many-clocks half is check-file corroboration (LC L61), a seed pending research. Named leg: LC §4's separate-schedules words, partly an absence; checked, not contradicted; the check cannot be independent.* | high | `confirmed by all three` |
+| AM-S5-D38 05:205 | The count; "on canon sources" | *five agreements with tier 3 check files (corroboration), one self-originated corroboration and one row out of frame; the tier stated per row* | medium | `confirmed by all three` |
+| AM-S5-D39 05:205-206 | The independence clause is false | *T16 L2103-2104 carries the founding-era decision, unnamed, as the norm's cause* | high | `confirmed by all three` |
+| AM-S5-D40 05:208-210 | The season is called open, and Phase 5 unchecked | *The season is written: year-round, on an icebreaker-kept channel past the November-to-March natural window (PORTS L559; 05:97-98); the base and operator are open (H65); Phase 5 is re-checked by P5 (proposal)* | medium | `confirmed by all three` |
+| AM-S5-D41 05 §2, new row 2.3 | The composition conflict is not recorded | The row text in AM-S5-F26 | medium-high | `confirmed by all three` |
+| AM-S5-D42 05 §8, new hole | No hole for the composition correction | *the check files' composition and census figures against SPEC; correction not decided (LOG L1529, L1616)*; number assigned when applied | medium | `confirmed by all three` |
+| AM-S5-D43 05 §8, new hole | The lake-schedule question has no hole | *whether the water bodies keep separate freeze, thaw and open schedules* (AM-S5-R1); number assigned when applied | high | `found by one` (A) |
+| AM-S5-D44 05 §9, new paragraph | No named leg (RUNBOOK L2888) | The paragraph in AM-S5-F4 | medium | `found by two` (A, B) |
+
+### 4b. Rows on sources (check files, T16 and the spec; for the developer)
+
+| Location | What is wrong | Proposed wording or pointer | Confidence | Disposition |
+|---|---|---|---|---|
+| AM-S5-D45 LC L9 | Stale Census II figures | Pointer: SPEC L16 | high | `confirmed by all three` |
+| AM-S5-D46 LC L22-37 | A superseded tier table (L22-26) and commentary on it (L28-37), with rankings and comparisons | Pointer: SPEC L18-22 and L30-76; DR-104 item 2; the rankings are not used | high | `confirmed by all three` |
+| AM-S5-D47 LC L45 | The namesake's biography read as the city's meaning (`H62`) | Pointer: DR-19 and 05:161-163; AM-S5-Q11 | high | `confirmed by all three` |
+| AM-S5-D48 LC L47 | The operator-to-character inference (`H62`) | Pointer: DR-19 (the operator is never a reason); AM-S5-Q11 | high | `confirmed by all three` |
+| AM-S5-D49 LC L61 | §4's spans conflict with SPEC L99-100 and with LC L53 | *the spec's dates (about June 4 to July 10, and about November 25 to January 18), with the counting convention stated*; subject to AM-S5-Q4 | high, pending the developer | `confirmed by all three` |
+| AM-S5-D50 LC L77 | "China's Primary-tier dominance" | Pointer: the Sinian Federation row is one of five Primary rows (SPEC L20, L33); the founding-tension conclusion survives | medium | `confirmed by all three` (the line); `found by one` (A) (the re-keying) |
+| AM-S5-D51 LC L98 | The placeholder is silent on the draft | *note the draft by roster ID (STP-06) only* | low | `found by one` (B) |
+| AM-S5-D52 LC L104 | "Mandarin (Primary tier)"; "Indonesian leading"; contradicts LC L25 | *dominant language Hawaiian (later Tepenian); supporting tier per P89 (English, Mandarin, Japanese, German); composition per SPEC L30-76; no four-row caveat (LOG L1613)* | medium | `confirmed by all three` |
+| AM-S5-D53 LC L107 | "thirteen nations"; the outsized-burden claim | Pointer: SPEC L22 (38 Notable rows); *outsized* becomes a seed | high | `confirmed by all three` |
+| AM-S5-D54 LC L119 | Cuisine keyed to the superseded table | Re-key to the 45 rows by headcount (DR-104 item 2) | medium | `confirmed by all three` |
+| AM-S5-D55 LC L133 | A composition ground for music, with a comparison | Re-key or drop the ground; the comparison is not used | medium | `found by one` (C) |
+| AM-S5-D56 LC L164 | A real-world port comparison of unconfirmed provenance inside a ruling block | Pointer: AM-S5-Q7 | low | `confirmed by all three` |
+| AM-S5-D57 LC L173 | Stale Census II figures | Pointer: SPEC L16 | high | `confirmed by all three` |
+| AM-S5-D58 LC L186 | Heritage list keyed to the superseded tiers | Re-key to the 45 rows by headcount | medium | `confirmed by all three` |
+| AM-S5-D59 LC L193 | A composition-derived ground for "Modest" | Re-key or drop the ground; Step 5 does not use it | low | `confirmed by all three` |
+| AM-S5-D60 LC L199 | "thirteen nations"; a ranking | Pointer: SPEC L22; the ranking is not used | high | `confirmed by all three` |
+| AM-S5-D61 LC L221-222 | Relations grounded on composition similarity, with comparisons | Re-key; the comparisons are not used | medium | `found by one` (C) |
+| AM-S5-D62 LC L246 | Named supplier countries that PORTS L559 does not carry | Pointer: P5's open route-and-supplier item | low | `found by one` (A) |
+| AM-S5-D63 LC L248-250 | The pass's §3 wording appears as the check file's own text | A provenance note; no corroboration value (AM-S5-N2) | low | `confirmed by all three` |
+| AM-S5-D64 RC L25 | Stale Census II figures | Pointer: SPEC L16 | high | `confirmed by all three` |
+| AM-S5-D65 RC L38-42, L203-205 | Per-nation material used as a cultural ground | Re-key; out of frame as used (AM-S5-N15) | medium | `found by one` (C) |
+| AM-S5-D66 RC L70 | The human majority is stated with no census | *add: at Census II (SPEC L16); robots are the majority at Census I (SPEC L15)* | high | `found by one` (B) |
+| AM-S5-D67 RC L79 | Stale figures; a ranking | Pointer: SPEC L16; the ranking is not used | high | `confirmed by all three` |
+| AM-S5-D68 RC L132 | The reversal is stated with no census | As for RC L70 | high | `found by one` (B) |
+| AM-S5-D69 T16 L2084 | "The bars exist; the culture around them does not." against tier 2 (SPEC L167) | Pointer: AM-S5-F16 | low | `found by two` (A, B) |
+| AM-S5-D70 T16 L2103-2105 | Migration promoted a proposal; no provenance clause; the only stated ground is a founding-era incident | *record the note's provenance in the amendment and leave T16 unedited; any source edit is the developer's* (AM-S5-Q6). Split: A would drop the incident clause; C would add a provenance clause and mark the incident clause as non-canon | medium | `conflict resolved to the narrower reading` |
+| AM-S5-D71 T16 L2106 | "rare in this corpus" is a ranking | Not used; drop it in any quotation | low | `found by two` (A, C) |
+| AM-S5-D72 SPEC L99-100, L138 | The counting convention is not stated | Pointer: AM-S5-Q5; no change is recommended | low | `conflict sent to the developer` |
+
+## 5. Questions for the developer (PROVISIONAL; each with a recommended answer and what is waiting on it)
+
+Each question carries a recommended answer, which this piece proceeds on, marked PROVISIONAL. None is a ruling. Where the readers' recommended answers differ, the split is named and the narrower is recommended.
+
+- AM-S5-Q1 **The character draft (XU5-35, refined).** Does the character draft sited in Davis (roster ID STP-06) count as a character sited for Phase 10's zero? **Recommended (PROVISIONAL):** no, inside the frame. Record the merged wording in AM-S5-F20: no canon character sited in Davis inside the frame; one developer-sourced draft sited there after the frame (about 2822 to 2827); whether it counts was put to the developer and not answered (LOG L1704). Drop XU5-35's clause "whose README cites the pre-rework composition" (AM-S5-N4). Keep the label neutral: A, B and K call the draft unratified, while C keeps to what LOG L1704 records; the neutral wording is the narrower. *Waiting:* 05:131, 05:146, Phase 10 §F.3. Disposition: `confirmed by all three` (the recommendation); `conflict resolved to the narrower reading` (the label).
+
+- AM-S5-Q2 **The composition row (XU5-36).** Should Step 5 carry the check files' composition conflict as its own reconciliation row, with the spec governing, the correction outside the pass, and a new hole? **Recommended (PROVISIONAL):** yes, in the text of AM-S5-F26. State that no Step 5 finding rests on the stale text; record the correction as not decided (LOG L1529, L1616), not as needed; record DR-85's coverage of the two files as conditional on the list it cites; number the hole when the amendment is applied. *Waiting:* Step 5 §2 and §8; whether the check files are corrected now or kept as they are under DR-85. Disposition: `confirmed by all three`.
+
+- AM-S5-Q3 **Re-tagging §1 (XU5-37, refined).** Should §1's amendment be kept and re-tagged, with an independent ground sought? **Recommended (PROVISIONAL):** yes. Keep the finding. Tag LC §4 as *a conclusion read last as a check; corroboration only (INPUT L629-631)*, not as self-originated, because column 3 is for migrated canon (INPUT L492-494, L596-597) and LC is the prior culture-pass file itself. Record SPEC L141 as the tier 1 ground of the physical leg, and open research AM-S5-R1 for the timing leg. As the first check noted, this is a pre-existing issue, and the developer may prefer to treat it apart from the U-5 items (K). *Waiting:* 05:33, 05:49-54, 05:198-202; the strength of Phase 6 §A.2's amendment. Disposition: `confirmed by all three`.
+
+- AM-S5-Q4 **LC §4's light-cycle dates.** Does DR-103's condition, "If the number of days for polar night is just a plain numerical value, then we can do it now." (LOG L1693), cover LC L61's dates and "roughly two months"? The ruling named L53 only. **Recommended (PROVISIONAL):** yes. Correct L61 to the spec's dates, with the counting convention stated, outside the pass. Until then `H61` stays open for §4 only. *Waiting:* `H61`'s status. Disposition: `found by two` (B, C); A withdrew its direct docket row in favor of this question in Round 3.
+
+- AM-S5-Q5 **The counting convention.** Should the 54-against-55 midnight-sun difference be recorded with its convention, and where? Split: A recommends stating both counts in the amendment record (*about 54 to 55 days: the spec counts both ends of its span, 55; DR-103's count at 68°35′S, 54*) and changing neither file; C recommends a short note beside SPEC L99-100 and L138 that the spans count both end dates; B accepted both as additions. **Recommended (PROVISIONAL), the narrower:** state both counts in the amendment record and change neither file. *Waiting:* the wording of `H61` for §3. Disposition: `conflict sent to the developer`.
+
+- AM-S5-Q6 **Credit kinship.** (a) Is the credit-kinship row out of frame as a convergence, because T16's only stated ground for the norm is a founding-era decision with no admitted line? (b) May the mechanism still be carried at proposal strength through RC L98-100's fit with robot biology canon (Ch.11)? (c) What, if anything, is done to T16 L2103-2105? **Recommended (PROVISIONAL):** (a) yes (A, B, C). (b) The readers split: A reads RC L98-100 as a fit, not a ground; C reads it as a second stated ground that keeps the mechanism in frame at RC's level, at proposal strength; B cannot test it, since Ch.11 is in no list. Recommended, the narrower: do not carry the mechanism through RC L98-100 until Ch.11 is read and the developer rules; Phase 7 §C.1 stands only on a derivation of its own. (c) The readers split: A would drop the incident clause; C would add a provenance clause and mark the incident clause as non-canon; B would leave T16 unedited and record the note's provenance in the amendment. Recommended, the narrower: B's. *Waiting:* 05:125, 05:205-206, Phase 7 §C.1 (AM-S5-R3). Disposition: `conflict sent to the developer`.
+
+- AM-S5-Q7 **The real-world port comparison at LC L164.** Was it part of the 2026-09-16 port ruling? Split: A recommends treating it as not part of the ruling until the developer confirms; B recommends using it neither way until the ruling's verbatim text is read; C flags it for confirmation. **Recommended (PROVISIONAL), the narrower:** B's; it is used neither way until the ruling text is read (AM-S5-R8). 05:147's withdrawal of the history-file wish stands either way. *Waiting:* the docket row for LC L164. Disposition: `conflict sent to the developer`.
+
+- AM-S5-Q8 **Glitch-coolant against tier 2.** Accept the narrowed reading of 05:127, that no named drinking-culture institution is recorded, because tier 2 (SPEC L167) places most non-work time in bars, eateries and social establishments? **Recommended (PROVISIONAL):** yes, PROVISIONAL on S1's hold on SPEC L167. *Waiting:* 05:127; the tag on Phase 8 §A.4; T16 L2084. Disposition: `found by two` (A, B); C withdrew "stands" in Round 3.
+
+- AM-S5-Q9 **The headline.** Should the narrowed wording of AM-S5-F3 be adopted for Phase 6 §A.2's amended text? **Recommended (PROVISIONAL):** yes. *Waiting:* Phase 6 §A.2's amended text. Disposition: `found by one` (B).
+
+- AM-S5-Q10 **`H65`.** Is the PORTS L559 sentence "this coast is not the only place the Federation pays for one" enough to record the channel's payer, with the base and operator left open? **Recommended (PROVISIONAL):** yes. *Waiting:* the `H65` row; P5's items 5c and 5e. Disposition: `found by one` (B).
+
+- AM-S5-Q11 **The check-file sentences behind `H62`.** Should LC L45 and L47 be corrected now, and under which ruling? **Recommended (PROVISIONAL):** yes, under DR-19 (the operator is never a reason) and the namesake rule (05:161-163), as a check-file correction outside the pass. *Waiting:* `H62`. Disposition: `found by one` (C); A accepted it in Round 3.
+
+- AM-S5-Q12 **Robot departures (question only, from U-5 item 8).** Were robot departures between the censuses selective by generation or mark? **Recommended (PROVISIONAL):** leave it unanswered. The Gen/Mark null stands, and no default is written. *Waiting:* nothing in Step 5. Disposition: `found by one` (C).
+
+- AM-S5-Q13 **A methodology observation.** When a Step 5 re-sourcing makes the later-read file a leg's own ground, should that leg be named as grounded in the check file itself, and an independent ground sought (AM-S5-N14)? **Recommended (PROVISIONAL):** yes. No rule is changed by this piece. *Waiting:* the runbook's Step 5 text, at the developer's direction. Disposition: `found by one` (B).
+
+## 6. Reserved findings and requests
+
+- AM-S5-R1 **Research (LAW 0-R).** Do the Vestfold Hills' freshwater lakes, saline and hypersaline lakes, marine-connected basins and fjord inlets freeze, thaw and become ice-free on different schedules, and by how much? This needs measured ice-on, ice-off and open-water dates by type of water body, from the operating authority's records and the limnology literature. Sub-questions: the typical ice-cover season of each type; whether some hypersaline lakes stay unfrozen; how the fjord's sea-ice breakout compares with lake ice-out. It decides whether §1's timing leg moves from seed toward firm. No answer is recalled or assumed here (A, B, C).
+- AM-S5-R2 **Research.** Does the local wind regime (katabatic exposure or its absence) change lake-ice timing, or snow cover on lake ice, in the Vestfold Hills? It bears on DR-104 item 4 only as a mechanism for AM-S5-R1, never as a substitute for the developer's open decision (C). B would run it only if the climate class is settled toward katabatic margin (A, B, C).
+- AM-S5-R3 **Request: the pass's phase files.** Phase 5 to Phase 10 and `09.5_Log.md` (A); in particular Phase 6 §A.2 (B), Phase 7 §C.1 (A, B, C), Phase 7 §D.2 (B; B classed "widely felt" as waiting on it), Phase 8 §A.4 (B) and `D3a`'s text (C). Without them, every qualifier this piece puts on a phase file rests on the pass file's own citation.
+- AM-S5-R4 **Request:** `10_Validation_Findings` §5e, to verify the constraint list quoted at 05:103 and at LC L248-249 (A, B, C).
+- AM-S5-R5 **Request:** the STP-06 draft's dated header or git history, the README's current text, and the unread `PreWar_History.md` hit named in P10 L27. These are needed for "before or after the pass" and for whether she is in Davis inside the frame (A, B, C).
+- AM-S5-R6 **Request:** the general robot-physiology file named in the readers' brief, rule 7. It was in no reader's list, and the glitch-coolant and Gen/Mark entries touch robots (A, C).
+- AM-S5-R7 **Request:** DR-28's text, cited at 05:161 (A, B, C).
+- AM-S5-R8 **Request:** the verbatim text of the 2026-09-16 port ruling, for AM-S5-Q7 (B; A through its question).
+- AM-S5-R9 **Request:** `14_Downstream_Mentions.md`, to see whether LC and RC are on the list DR-85 and DR-94 cite (B; C in Round 3).
+- AM-S5-R10 **Requests (C):** the Founding Register's row L59 itself (used through orchestrator result 5); the runbook's Step 0.4 item 6, which lies outside the admitted span; INPUT §6.3's rule 3a, which lies beyond L700.
+- AM-S5-R11 **Reserved:** the numbers of the new holes (the composition hole and the lake-schedule hole). No reader could see the full hole register or the numbers other pieces assigned, and this merge assigns none (A, B, C).
+- AM-S5-R12 **Reserved, unchanged by this piece:** the icebreakers' base and operator (`H65`); the inbound manifest (`H66`); whether a national import port fits a 15% sector (`H67`); Davis's founding administration (`H8`); `A-1` (A). The climate class (DR-104 item 4), the draft's standing (DR-104) and the B3 owner (P10) stay with the developer (B).
+
+## 7. Limits
+
+- Only the Step 5 file among the pass files was in any reader's list. The pass-side half of every row (Phase 5 to Phase 10, Phase 9's `H50`, `D3a`) is unverified; corrections to those files are named by the Step 5 file's citations, not read (A, B, C).
+- The six other pieces reach this piece only as their section 0 summaries. Their findings are proposals; their reasoning is not visible; none outranks a source (A, B, C).
+- The Founding Register, the census and the spec's numbering map reach this piece only through the orchestrator's results (A, C).
+- The admitted lines do not say where SPEC L141 came from. If it was migrated from the culture sheet, the physical leg would be self-originated corroboration too, and the finding would rest on research alone (B; C accepted it in Round 3).
+- File text cannot show which way the copying went between 05:103 and LC L250, or whether LC L164's comparison is the developer's (A, B, C). The same-day reading rests on date tags and identical wording, not on git history (C).
+- The identification of T16's founding-era decision with the robot file's history-file incident rests on matching text against a check file, which is corroboration, not citation (C).
+- The draft STP-06 cannot be dated, and the README that LOG L1712 says was updated was not read (A, B, C).
+- No web research was done. The lake-schedule and wind questions are open, and nothing here states a real-world limnological fact as established (A, B, C).
+- The check files were read last, as a check, by every reader. Nothing in them is used as a ground for a re-derived statement about Davis; where a check-file line is cited, it is cited as what the check file says (A, B, C).
+- The convention behind LC L53's 54 days is recorded only as counted at 68°35′S (LOG L1694). The one-day reading is arithmetic on the spec's dates, not a check of that count (B).
+- The first check's reader (K) had a narrower list (the Step 5 file, part of the spec, two spans of the log, and the check files). K's finds are carried where they add to the readers'; where K lacked a line the readers had (for example SPEC L141), the readers' fuller reading governs.
+
+## 8. Research log (every search string verbatim from the readers' logs, or: no web research in this piece)
+
+No web research in this piece. None of the three readers and not the first check's reader ran a web search.
+
+Local, read-only checks recorded in the readers' logs (not web research):
+
+- B ran one search restricted to the two check files, with this pattern, to confirm an absence: `'dead|death|die[sd]? |funer|burial|bury|mortu|grave|cremat|corpse|dispos|decommission|remains'`. It returned two hits, LC L61 and LC L150, both false positives ("bodies " and "studies " match `die[sd]? `). The file paths are omitted here because the subnet folder name in them is another location's name.
+- All three readers ran date arithmetic on SPEC L99-100 and LC L61, and census arithmetic on SPEC L15-16 and T16 L2008-2014, with `python3 -I`, `awk` and `date`. Their outputs agree (section 1, AM-S5-F6 and AM-S5-F18).
+- The merge writer ran no search. It read the readers' files and, only to check quotations and line citations, entries of the readers' list at their stated ranges.
+
+## 9. Merge record (a found-by / confirmed-by table for every item; every conflict and how it was decided; every withdrawal; anything a reader flagged as unclear in the brief)
+
+The merge rule is M-246 with its 2026-11-04 refinements: contradictions go to the most conservative current view, with the split named; non-contradicting finds are unioned and credited; a missing ruling becomes a PROVISIONAL question; strength words follow the weakest grade any reader gave after Round 3, unless that reader's own Round 3 reply changed it. The readers' item numbers (XA-, XB-, XC-, and XU5- for the first check) are cited below only as the source of each point.
+
+### 9.1 Found-by and confirmed-by table
+
+The Found by column records Round 1 (and K, the first check). The Round 3 column records who accepted, confirmed, withdrew or held a position in the cross-check.
+
+#### Findings (section 1)
+
+| Item | Readers' items | Found by | Round 3 | Disposition |
+|---|---|---|---|---|
+| AM-S5-F1 | XA-1; XB-128, XB-135; XC-201, XC-225, XC-226; XU5-19 | 05:21: A, B, C. 05:13: B, C. 05:14: A, C. 05:15 wording: A. 05:15 attribution: K. RC downstream: C | A accepted the 05:13 point; B accepted 05:14 and the 05:15 wording; C accepted the 05:15 wording | `confirmed by all three`; `found by two`; `found by one` |
+| AM-S5-F2 | XA-2, XA-39; XB-101, XB-138; XC-202, XC-232; XU5-28, XU5-37 | A, B, C; K raised the question | B and C withdrew the timing leg to seed; B accepted the physical leg as firm; C withdrew the whole-finding grade | `confirmed by all three` |
+| AM-S5-F3 | XB-102, XB-142 | B | A withdrew keeping the pass's sentence; C adopted B's wording | `found by one` |
+| AM-S5-F4 | XA-3, XA-32; XB-103, XB-134; XC-217, XC-222 | Named leg: A, B, C. Absence leg: B, C. Missing paragraph: A, B. No RC corroboration: C | A withdrew its no-absence statement; C accepted the independence point; A accepted the RC point | `confirmed by all three`; `found by two`; `found by one` |
+| AM-S5-F5 | XA-4; XB-104; XC-217 | A, B, C | C accepted B's firm grade for the half on SPEC L151 | `confirmed by all three` |
+| AM-S5-F6 | XA-5, XA-36, XA-43; XB-105, XB-139; XC-203, XC-233, XC-236; XU5-13, XU5-24 | A, B, C; K | A accepted the inclusive count and withdrew its direct LC L61 docket row | `confirmed by all three` |
+| AM-S5-F7 | XA-6, XA-45; XB-106, XB-145; XC-202; XU5-22 | A, B, C; K | A held its reading against C's limit; C recorded the item as agreed | `confirmed by all three`; `conflict resolved to the narrower reading` |
+| AM-S5-F8 | XA-7; XB-107; XC-204; XU5-15 | Reconciliation: A, B, C; K. Widely felt: A, B | A withdrew its kill; C withdrew its stand; B classed the sizing as waiting on Phase 7 §D.2 | `confirmed by all three`; `found by two` |
+| AM-S5-F9 | XA-8; XC-205 | A, B and C, with different dispositions | A withdrew its no-change; C withdrew its docket row; B held no-change | `conflict resolved to the narrower reading` |
+| AM-S5-F10 | XA-9; XB-108; XC-205 | A, B, C | all three recomputed the figures | `confirmed by all three` |
+| AM-S5-F11 | XA-10; XB-109; XC-205 | A, B, C | A and B withdrew conditional to seed | `confirmed by all three` |
+| AM-S5-F12 | XA-11; XB-110; XC-205 | A, B, C | no difference | `confirmed by all three` |
+| AM-S5-F13 | XA-12; XB-111, XB-112; XC-205 | A, B, C. 05:110: A, C | B accepted the 05:110 point | `confirmed by all three`; `found by two` |
+| AM-S5-F14 | XA-13, XA-35, XA-40; XB-115, XB-140; XC-206, XC-225, XC-234 | Kill of 05:205-206: A, B, C. Out of frame: B, C. Promotion: A. Provenance: C. Self-contradiction: B | A withdrew its surviving mechanism; C withdrew its conditional row grade and reopened the mechanism; B and C accepted the promotion point; A and B accepted the provenance point | `confirmed by all three`; `found by one`; `conflict sent to the developer` |
+| AM-S5-F15 | XA-14, XA-30, XA-31; XB-116, XB-122; XC-207 | Match and namesake ground: A, B, C. One chain: A. Route: B, C. Phase 6 route through P89: C | B and C accepted one chain; A accepted the route point | `confirmed by all three`; `found by one`; `found by two` |
+| AM-S5-F16 | XA-15, XA-42; XB-117, XB-141; XC-208 | Tag: A, B, C. Tier 2 test: A, B. Absence not out of frame: C | C withdrew its stand; A withdrew the retained private use; B made its reading PROVISIONAL | `confirmed by all three`; `found by two`; `found by one` |
+| AM-S5-F17 | XA-16; XB-118; XC-209 | A, B, C; K. Widening: C | A and B accepted the widening; C carried it as a qualifier | `confirmed by all three`; `found by one` |
+| AM-S5-F18 | XA-17; XB-119; XC-210, XC-237; XU5-20 | A, B, C; K. DR-4 point: B | C accepted the census qualifier | `confirmed by all three`; `found by one` |
+| AM-S5-F19 | XA-18; XB-120; XC-211 | A, B, C | no difference | `confirmed by all three` |
+| AM-S5-F20 | XA-19, XA-29, XA-37; XB-121, XB-136; XC-212, XC-230; XU5-21, XU5-26, XU5-35 | Verified falls: A, B, C; K. Bare sentence false: A, C. Draft not canon input: B. Label: split | B accepted the bare-sentence point; C accepted the canon-input ground; C withdrew its README wording; A withdrew dropping the not-answered clause | `confirmed by all three`; `found by two`; `found by one`; `conflict resolved to the narrower reading` |
+| AM-S5-F21 | XA-20; XB-123; XC-213 | A, B, C. 05:149: A, B | no difference | `confirmed by all three`; `found by two` |
+| AM-S5-F22 | XA-21; XB-124, XB-125; XC-214, XC-235; XU5-17, XU5-27 | A, B, C; K. 05:160: A. `H62` wording: split | B withdrew its pending wording; B and C accepted the 05:160 point | `confirmed by all three`; `found by one`; `conflict resolved to the narrower reading` |
+| AM-S5-F23 | XA-22; XB-129; XC-215 | A, B, C; K | no difference | `confirmed by all three` |
+| AM-S5-F24 | XA-23; XB-113; XC-216 | A, B, C. Lake-schedule hole: A | B accepted C's `H66` label | `confirmed by all three`; `found by one` |
+| AM-S5-F25 | XA-24; XB-112, XB-114; XC-217 | A, B, C | crossing withdrawals on 05:205 (section 9.3) | `confirmed by all three` |
+| AM-S5-F26 | XA-25, XA-38; XB-126, XB-137; XC-218, XC-219, XC-231; XU5-11, XU5-12, XU5-25, XU5-36 | A, B, C; K. Status wording: C. Coverage: split. Re-keying: A. Names, SPEC L78, LOG L1528: K | A and B accepted C's status wording and extra lines; C withdrew coverage to conditional; B accepted A's re-keying | `confirmed by all three`; `found by one`; `conflict resolved to the narrower reading` |
+| AM-S5-F27 | XA-26; XB-127; XC-209; XU5-23 | A, B, C. Within-tier point: B. LOG L1527: K | C accepted B's within-tier point | `confirmed by all three`; `found by one` |
+
+#### Killed or narrowed (section 2)
+
+| Item | Readers' items | Found by | Round 3 | Disposition |
+|---|---|---|---|---|
+| AM-S5-K1 | XA-13; XB-115; XC-206 | A, B, C | no difference | `confirmed by all three` |
+| AM-S5-K2 | XA-24; XB-114; XC-217 | A, B, C | crossing withdrawals (section 9.3) | `confirmed by all three` |
+| AM-S5-K3 | XA-2; XB-101; XC-202 | A, B, C, with different classes | B narrowed its falsity to one word | `conflict resolved to the narrower reading` |
+| AM-S5-K4 | XA-5; XB-105; XC-203; XU5-24 | A, B, C; K | no difference | `confirmed by all three` |
+| AM-S5-K5 | XA-1; XB-128; XC-201 | A, B, C | no difference | `confirmed by all three` |
+| AM-S5-K6 | XA-24; XB-112; XC-217 | A, B, C | no difference | `confirmed by all three` |
+| AM-S5-K7 | XA-10; XB-109; XC-205 | A, B, C, with different scopes | A and B withdrew to a full kill; C adopted A's Round 1 split | `conflict resolved to the narrower reading` |
+| AM-S5-K8 | XA-13; XB-115; XC-206 | B, C; A after withdrawal | A withdrew; C withdrew its conditional grade | `confirmed by all three` |
+| AM-S5-K9 | XB-135; XC-225 | B, C | A accepted | `found by two` |
+| AM-S5-K10 | XA-1; XC-226 | A, C | B accepted | `found by two` |
+| AM-S5-K11 | XA-2; XB-101; XC-202 | A, B, C | no difference | `confirmed by all three` |
+| AM-S5-K12 | XB-102 | B | A and C accepted | `found by one` |
+| AM-S5-K13 | XA-4; XB-104; XC-217 | A, B, C | no difference | `confirmed by all three` |
+| AM-S5-K14 | XA-7; XB-107; XC-204 | A, B | A and C withdrew their Round 1 classes | `found by two` |
+| AM-S5-K15 | XA-10; XB-109; XC-205 | A, B, C | A and B withdrew to seed | `confirmed by all three` |
+| AM-S5-K16 | XA-11; XB-110; XC-205 | A, B, C | no difference | `confirmed by all three` |
+| AM-S5-K17 | XA-12; XB-112; XC-205 | A, B, C | no difference | `confirmed by all three` |
+| AM-S5-K18 | XA-12; XC-205 | A, C | B accepted | `found by two` |
+| AM-S5-K19 | XA-24; XB-114 | A, B | A downgraded to low; C accepted a relabel | `conflict resolved to the narrower reading` |
+| AM-S5-K20 | XA-14, XA-30; XB-116, XB-122; XC-207 | A, B, C (parts as in the entry) | each accepted the others' qualifiers | `confirmed by all three`; `found by one`; `found by two` |
+| AM-S5-K21 | XA-15; XB-117 | A, B | C withdrew | `found by two` |
+| AM-S5-K22 | XC-209; XA-16; XB-118 | Widening: C. §8c: A, B, C | A and B accepted the widening | `found by one`; `confirmed by all three` |
+| AM-S5-K23 | XA-17; XB-119 | A, B | C accepted | `found by two` |
+| AM-S5-K24 | XA-19; XB-121; XC-212 | A, B, C. Bare sentence: A, C | B accepted | `confirmed by all three`; `found by two` |
+| AM-S5-K25 | XA-20; XB-123; XC-213 | A, B, C | no difference | `confirmed by all three` |
+| AM-S5-K26 | XA-21 | A | B and C accepted | `found by one` |
+| AM-S5-K27 | XA-21; XB-124; XC-214; XU5-27 | A, B, C; K | no difference | `confirmed by all three` |
+| AM-S5-K28 | XA-23; XB-113; XC-216 | A, B, C | no difference | `confirmed by all three` |
+| AM-S5-K29 | XA-21; XB-125; XC-214 | A, B, C, with different wordings | B withdrew its pending wording | `conflict resolved to the narrower reading` |
+| AM-S5-K30 | XA-3; XB-103; XC-217 | A, B, C | no difference | `confirmed by all three` |
+
+#### New findings (section 3)
+
+| Item | Readers' items | Found by | Round 3 | Disposition |
+|---|---|---|---|---|
+| AM-S5-N1 | XA-33; XB-130; XC-220 | A, B, C | A held the 2026-09-30 reach conditional; B and C reported no difference | `confirmed by all three`; `conflict resolved to the narrower reading` |
+| AM-S5-N2 | XA-27; XB-132; XC-221 | A, B, C | A adopted C's scope and B's strength; B accepted C's scope | `confirmed by all three` |
+| AM-S5-N3 | XA-28; XB-131; XC-213 | A, B, C | no difference | `confirmed by all three` |
+| AM-S5-N4 | XA-29; XB-136; XC-230 | A, B, C | C withdrew its listed-as-changed wording; A kept the not-answered clause | `confirmed by all three` |
+| AM-S5-N5 | XA-30 | A | B and C accepted | `found by one` |
+| AM-S5-N6 | XA-34 | A | B and C accepted | `found by one` |
+| AM-S5-N7 | XA-35 | A | B and C accepted | `found by one` |
+| AM-S5-N8 | XC-225 | C | A and B accepted | `found by one` |
+| AM-S5-N9 | XA-35; XC-225 | A, C | no difference | `found by two` |
+| AM-S5-N10 | XB-135; XC-225 | B, C | A accepted | `found by two` |
+| AM-S5-N11 | XA-36; XU5-13 | A; K | C accepted | `found by two` |
+| AM-S5-N12 | XB-126; XC-224; XU5-12 | B, C; K | A accepted | `found by two` |
+| AM-S5-N13 | XB-133 | B | A accepted | `found by one` |
+| AM-S5-N14 | XA-3; XB-134 | A, B. Proposal: B | C accepted the observation | `found by two`; `found by one` |
+| AM-S5-N15 | XC-222 | C | A accepted | `found by one` |
+| AM-S5-N16 | XC-223 | C | A and B accepted | `found by one` |
+| AM-S5-N17 | XC-227 | C | A accepted | `found by one` |
+
+#### Questions (section 5) and reserved items (section 6)
+
+| Item | Readers' items | Found by | Round 3 | Disposition |
+|---|---|---|---|---|
+| AM-S5-Q1 | XA-37; XB-136; XC-230; XU5-35 | A, B, C; K | the label split stands (C held the neutral wording) | `confirmed by all three`; `conflict resolved to the narrower reading` |
+| AM-S5-Q2 | XA-38; XB-137; XC-231; XU5-36 | A, B, C; K | no difference | `confirmed by all three` |
+| AM-S5-Q3 | XA-39; XB-138; XC-232; XU5-37 | A, B, C; K | no difference | `confirmed by all three` |
+| AM-S5-Q4 | XB-139; XC-233 | B, C | A withdrew its direct docket row | `found by two` |
+| AM-S5-Q5 | XA-43; XC-236 | A, C, with different answers | B accepted both; A kept no change | `conflict sent to the developer` |
+| AM-S5-Q6 | XA-40; XB-140; XC-234 | A, B, C, with different answers | B and C classed the mechanism as a developer question | `conflict sent to the developer` |
+| AM-S5-Q7 | XA-41; XB-131, XB-146; XC-213 | A, B, C, with different answers | no change | `conflict sent to the developer` |
+| AM-S5-Q8 | XA-42; XB-141 | A, B | C withdrew its stand | `found by two` |
+| AM-S5-Q9 | XB-142 | B | A and C accepted the wording | `found by one` |
+| AM-S5-Q10 | XB-143 | B | no difference | `found by one` |
+| AM-S5-Q11 | XC-235 | C | A accepted | `found by one` |
+| AM-S5-Q12 | XC-237 | C | no difference | `found by one` |
+| AM-S5-Q13 | XB-134 | B | no difference | `found by one` |
+| AM-S5-R1 | XA-44; XB-144; C's first research question | A, B, C | no difference | `confirmed by all three` |
+| AM-S5-R2 | XA-45; XB-145; C's second research question | A, B, C | no difference | `confirmed by all three` |
+| AM-S5-R3 | XA-46; XB-146; C's requests | A, B, C (Phase 7 §C.1); single readers for the rest | no difference | `confirmed by all three`; `found by one` |
+| AM-S5-R4 | XA-47; XB-146; C's requests | A, B, C | no difference | `confirmed by all three` |
+| AM-S5-R5 | XA-48; XB-146; C's requests | A, B, C | no difference | `confirmed by all three` |
+| AM-S5-R6 | XA-49; C's requests | A, C | no difference | `found by two` |
+| AM-S5-R7 | XA-50; XB-146; C's requests | A, B, C | no difference | `confirmed by all three` |
+| AM-S5-R8 | XB-146; XA-41 | B; A through its question | no difference | `found by two` |
+| AM-S5-R9 | XB-126, XB-146 | B | C joined in Round 3 | `found by one` |
+| AM-S5-R10 | C's requests | C | no difference | `found by one` |
+| AM-S5-R11 | XA-52; XB-126; XC-219 | A, B, C | no difference | `confirmed by all three` |
+| AM-S5-R12 | XA-51; XB-146 | A; B | no difference | `found by two` |
+
+#### Docket rows (section 4)
+
+| Item | Found by | Round 3 | Disposition |
+|---|---|---|---|
+| AM-S5-D1 | B, C | A accepted | `found by two` |
+| AM-S5-D2 | A, C | B accepted | `found by two` |
+| AM-S5-D3 | A; K | B and C withdrew their exact-match statements | `found by one`; `found by one` |
+| AM-S5-D4 | A, B, C | no difference | `confirmed by all three` |
+| AM-S5-D5 | A, B, C | no difference | `confirmed by all three` |
+| AM-S5-D6 | B | A and C accepted | `found by one` |
+| AM-S5-D7 | B | A and C accepted | `found by one` |
+| AM-S5-D8 | A, B, C | no difference | `confirmed by all three` |
+| AM-S5-D9 | A, B, C | no difference | `confirmed by all three` |
+| AM-S5-D10 | A, B, C | B narrowed its falsity to one word | `conflict resolved to the narrower reading` |
+| AM-S5-D11 | A, B, C | no difference | `confirmed by all three` |
+| AM-S5-D12 | A | B accepted | `found by one` |
+| AM-S5-D13 | A, B, C | no difference | `confirmed by all three` |
+| AM-S5-D14 | A, B | A and C withdrew their Round 1 classes | `found by two` |
+| AM-S5-D15 | C (row); A and B (no change) | A and C crossed | `conflict resolved to the narrower reading` |
+| AM-S5-D16 | A, B, C | no difference | `confirmed by all three` |
+| AM-S5-D17 | A, B, C | A and B withdrew to seed; scope split | `conflict resolved to the narrower reading`; `confirmed by all three` |
+| AM-S5-D18 | A, B, C | no difference | `confirmed by all three` |
+| AM-S5-D19 | A, B, C | no difference | `confirmed by all three` |
+| AM-S5-D20 | A, C | B accepted | `found by two` |
+| AM-S5-D21 | A, B | A downgraded to low; C accepted a relabel | `conflict resolved to the narrower reading` |
+| AM-S5-D22 | A, B, C | A withdrew its surviving mechanism | `confirmed by all three` |
+| AM-S5-D23 | A, B; C in its finding | C accepted the qualifier | `confirmed by all three` |
+| AM-S5-D24 | A, B | C withdrew | `found by two` |
+| AM-S5-D25 | C (widening); A, B, C (tier lines) | A and B accepted the widening | `found by one`; `confirmed by all three` |
+| AM-S5-D26 | A, B | C accepted | `found by two` |
+| AM-S5-D27 | A, B, C | B accepted the bare-sentence point | `confirmed by all three` |
+| AM-S5-D28 | A; B, C | each accepted the others' qualifiers | `found by one`; `found by two` |
+| AM-S5-D29 | A, B, C | no difference | `confirmed by all three` |
+| AM-S5-D30 | A, B, C | no difference | `confirmed by all three` |
+| AM-S5-D31 | A | B and C accepted | `found by one` |
+| AM-S5-D32 | A, B, C; K | no difference | `confirmed by all three` |
+| AM-S5-D33 | A, B, C | no difference | `confirmed by all three` |
+| AM-S5-D34 | A, B, C | no difference | `confirmed by all three` |
+| AM-S5-D35 | C | B accepted the label | `found by one` |
+| AM-S5-D36 | A, B, C | B withdrew its pending wording | `conflict resolved to the narrower reading` |
+| AM-S5-D37 | A (row); B, C (qualifiers) | no difference | `confirmed by all three` |
+| AM-S5-D38 | A, B, C | crossing withdrawals | `confirmed by all three` |
+| AM-S5-D39 | A, B, C | no difference | `confirmed by all three` |
+| AM-S5-D40 | A, B, C | no difference | `confirmed by all three` |
+| AM-S5-D41 | A, B, C; K | no difference | `confirmed by all three` |
+| AM-S5-D42 | A, B, C | no difference | `confirmed by all three` |
+| AM-S5-D43 | A | no difference | `found by one` |
+| AM-S5-D44 | A, B | no difference | `found by two` |
+| AM-S5-D45 | A, B, C; K | no difference | `confirmed by all three` |
+| AM-S5-D46 | A, B, C; K | no difference | `confirmed by all three` |
+| AM-S5-D47 | A, B, C; K | no difference | `confirmed by all three` |
+| AM-S5-D48 | A, B, C; K | no difference | `confirmed by all three` |
+| AM-S5-D49 | A, B, C | A withdrew its direct row in favor of the question | `confirmed by all three` |
+| AM-S5-D50 | A, B, C; K (the line). A (the re-keying) | B accepted the re-keying | `confirmed by all three`; `found by one` |
+| AM-S5-D51 | B | no difference | `found by one` |
+| AM-S5-D52 | A, B, C; K | C accepted B's within-tier point | `confirmed by all three` |
+| AM-S5-D53 | A, B, C; K | no difference | `confirmed by all three` |
+| AM-S5-D54 | A, B, C; K | no difference | `confirmed by all three` |
+| AM-S5-D55 | C | A and B accepted | `found by one` |
+| AM-S5-D56 | A, B, C | no difference | `confirmed by all three` |
+| AM-S5-D57 | A, B, C; K | no difference | `confirmed by all three` |
+| AM-S5-D58 | A, B, C; K | no difference | `confirmed by all three` |
+| AM-S5-D59 | A, B, C; K | no difference | `confirmed by all three` |
+| AM-S5-D60 | A, B, C; K | no difference | `confirmed by all three` |
+| AM-S5-D61 | C | A and B accepted | `found by one` |
+| AM-S5-D62 | A | B and C accepted | `found by one` |
+| AM-S5-D63 | A, B, C | A adopted B's strength | `confirmed by all three` |
+| AM-S5-D64 | A, B, C; K | no difference | `confirmed by all three` |
+| AM-S5-D65 | C | A and B accepted | `found by one` |
+| AM-S5-D66 | B | C accepted | `found by one` |
+| AM-S5-D67 | A, B, C; K | no difference | `confirmed by all three` |
+| AM-S5-D68 | B | C accepted | `found by one` |
+| AM-S5-D69 | A, B | no difference | `found by two` |
+| AM-S5-D70 | A, B, C, with different actions | B accepted A's and C's points as additions | `conflict resolved to the narrower reading` |
+| AM-S5-D71 | A, C | no difference | `found by two` |
+| AM-S5-D72 | A, C, with different answers | B accepted both | `conflict sent to the developer` |
+
+### 9.2 Conflicts and how each was decided
+
+Thirteen conflicts remained after Round 3. Ten were resolved to the narrower reading, and three were sent to the developer. A vote count decided none of them, and no withdrawal was used as a tie-break.
+
+- **05:54's class** (AM-S5-K3). A: the whole sentence is false. B (Round 3): only "admissible" is false. C: narrowed. Decided: "admissible" killed by evidence, "canon" kept in the four-tier vocabulary, the sentence narrowed. `conflict resolved to the narrower reading`.
+- **Whether the open climate class reaches the timing leg** (AM-S5-F7). C: it bears only on why the water bodies keep different schedules, not whether. A and B: it could reach the timing leg if wind governs lake-ice timing. Decided: no admitted line limits the reach either way; research. `conflict resolved to the narrower reading`.
+- **05:95's "principal"** (AM-S5-F9). After crossing withdrawals, A wants it quoted; B and C leave it as attributed. Decided: no correction; an optional low-confidence pointer. `conflict resolved to the narrower reading`.
+- **The scope of the kill of "those are imports"** (AM-S5-K7). A and B (after Round 3): all five constraints. C (after Round 3): A's split, leaving glass and CO₂ open. Decided: killed as stated, with the glass and CO₂ question held open rather than answered no. `conflict resolved to the narrower reading`.
+- **Whether the credit-kinship mechanism can be carried through RC L98-100** (AM-S5-Q6). A: a fit, not a ground. C: a second stated ground, at proposal strength. B: untestable. Sent, with the narrower recommended: not carried until Ch.11 is read and the developer rules. `conflict sent to the developer`.
+- **The label for STP-06** (AM-S5-F20). A, B and K: unratified. C: the neutral record of LOG L1704. Decided: the neutral wording. `conflict resolved to the narrower reading`.
+- **How far the Step 5 file's dating reaches** (AM-S5-N1). C, and B on the dates: revised at least to 2026-09-30. A: the DR-19 label does not prove that. Decided: revised after 2026-09-16 (firm); the 2026-09-30 reach conditional. `conflict resolved to the narrower reading`.
+- **`H62`'s wording** (AM-S5-F22). A: still pending. B (after Round 3) and C: correction not made. Decided: correction not made, because "pending" implies an order the admitted lines do not show. `conflict resolved to the narrower reading`.
+- **Whether DR-85's "not edited" covers LC and RC** (AM-S5-F26). A: covered. B and C (after Round 3): conditional on the unread list. Decided: conditional. `conflict resolved to the narrower reading`.
+- **The 05:123 header** (AM-S5-K19). B: relabel, high; C accepted a relabel. A (after Round 3): state the tier per row, low. Decided: A's wording at low confidence. `conflict resolved to the narrower reading`.
+- **The counting convention** (AM-S5-Q5). A: record both counts, change no file. C: add a note to the spec. Sent, with A's recommended as the narrower. `conflict sent to the developer`.
+- **LC L164's comparison** (AM-S5-Q7). A: treat it as not part of the ruling until confirmed. B: use it neither way until the ruling text is read. Sent, with B's recommended as the narrower. `conflict sent to the developer`.
+- **The action on T16 L2103-2105** (AM-S5-D70). A: drop the incident clause. C: add a provenance clause and mark the incident clause as non-canon. B: leave T16 unedited and record the provenance in the amendment. Decided in the docket: B's, the narrowest; the question also goes to the developer inside AM-S5-Q6. `conflict resolved to the narrower reading`.
+
+**Crossing withdrawals (not conflicts after Round 3, recorded so the path is visible).** On 05:95, A moved from no change to a qualifier while C moved from a qualifier to no change. On 05:205, A and B moved "on canon sources" from killed to narrowed following C, while C moved the count from narrowed to killed following A and B; all three now hold the count killed and the phrase narrowed. On "those are imports", A moved from its split to a full kill following C, while C moved from a full kill to A's split.
+
+**Not counted as conflicts (no contradiction after Round 3).** Glitch-coolant (C withdrew); "widely felt" (A and C withdrew to the same class); the lakes widening (A and B accepted); 05:15's wording (B and C withdrew); the timing leg's grade (all at seed); the absence leg (A withdrew); `H66`'s label (B accepted C's; A noted both say the category is stated); the LC L61 docket route (A withdrew).
+
+**The first check (K).** K's case that §1 flips if the reading-order rules bind (XU5-28) is narrowed by SPEC L141, a line outside K's admitted spans; that is a difference of evidence, not a conflict between readers. K's recommended wording in XU5-35 is partly overtaken (AM-S5-N4).
+
+### 9.3 Withdrawals (each is evidence for the narrower reading)
+
+- **Reader A.** Keeping "truth here is not singular"; that the named leg rests on no absence (as to the tier 1 side); that the credit-kinship mechanism survives as a self-originated proposal; dropping the not-answered clause on STP-06 altogether (partial); "feeds the greenhouses" as conditional (now seed); glass and CO₂ as open (A moved to a full kill); no change at 05:95; that "on canon sources" is false; the kill of "widely felt"; robots' private glitch-coolant use as a surviving object. A also downgraded its 05:123 row to low, accepted the inclusive day count, and gave up its direct LC L61 docket row in favor of a developer question.
+- **Reader B.** That 05:15 matches RC L3-4; "on canon sources" as killed (now narrowed); the timing leg as conditional (now seed); "feeds the greenhouses" as conditional (now seed), with "those are imports" killed; its glitch-coolant reading made PROVISIONAL on S1's hold; "the lakes" (now the water bodies); that the draft does not falsify the bare sentence; "pending" for `H62` (now not made). B also narrowed its falsity claim at 05:54 to the word "admissible".
+- **Reader C.** That the whole §1 finding is conditional (now split by legs); its conditional grade for the credit-kinship row (now null); "listed as changed" for the README (now recorded as changed, README unread); its docket row on 05:95-98; that glitch-coolant stands; that "widely felt" stays; "narrowed" for 05:205's count (now killed); its assertion that DR-85 covers the check files (now conditional); its wording for T16's tier 1 scope (now B's determination ranges); "verified" for 05:15.
+
+### 9.4 Strength decided by rule 4 (the weakest grade after Round 3; not counted as conflicts)
+
+- The narrowed headline: `conditional` (B); A and C graded its physical form `firm` (AM-S5-F3).
+- The §2.2 reconciliation: `conditional` (A); B and C graded it `firm` (AM-S5-F8).
+- The `D3a` restatement as a whole: `conditional` (A); the half on SPEC L151 is `firm` (B; C in Round 3) (AM-S5-F5).
+- The credit-kinship row as a convergence: `null` (B, C); A graded the out-of-frame verdict `conditional`, which this merge keeps as the grade of the identification (AM-S5-F14).
+- The namesake qualifier on "let the work speak": `conditional` (A); B and C stated it firm (AM-S5-F15).
+- The timing leg and the feeding claim: `seed` for all three after Round 3.
+
+### 9.5 Reading accuracy found in Round 3
+
+Each reader confirmed one claim of each other reader against the source and located every passage the others relied on. Each judged both others accurate in quotation and arithmetic. The slips each reported were small and are corrected in this merge:
+
+- B's statement that 05:15 matches RC L3-4 drops two words (found by A and C; B withdrew).
+- C described S1 L42-43 as holding L113; S1 says L113 stays struck (found by A). This merge cites S1's hold for L109 and L167 only.
+- A put bold markup inside its quotation of RC L93 (found by C). This merge quotes RC L93 without it.
+- A's section 0 set LC §4's spans as differences beside the spec's inclusive counts (found by C). This merge names the convention for every count.
+- A and B called STP-06 unratified, a word LOG L1704 does not use (found by C). This merge uses the neutral wording.
+- Every reader recomputed the figures: the day counts on both conventions, the census shares and retention, the five Primary rows' 46.39%, and the 27.6% / 30.5% split. All agree.
+
+### 9.6 Points the readers flagged as unclear in the brief, and snags
+
+- **"The national-law citation"** is not located in the brief. All three readers read it as the founding-nation citation at 05:164-166 (question 6), the conservative reading. A named DR-28 at 05:161 as the other candidate (not in any list); C named 05:68's `LAW 0-R`. If something else was meant, this piece has not re-derived it.
+- **Brief rule 7 against rule 9.** Rule 7 asks for the general robot-physiology file where a finding touches robots, but it was in no list and rule 9 confines readers to the list (A, C). See AM-S5-R6.
+- **The runbook's Step 0.4 item 6** lies outside the admitted runbook span; readers relied on INPUT L629-631 for the read-as-a-check rule (C).
+- **The spec states no counting convention;** question 1's convention was inferred by arithmetic (B).
+- **Blank middle positional lines** (SPEC L83, LC L155, and in K's list LOG L1531): written as an empty LMID by analogy with the brief's rule for a blank LLAST (B; K).
+- **Phantom display lines.** The Read display showed a phantom final line on several files; every reader checked the true last line read-only, and A, B and C each corrected a first misread blank last line (RUNBOOK L2896; S1 L46).
+- **The graphify hook** fired on reads and shell calls for every reader and for K, and was disregarded under DR-6 as the brief directs. No reader ran a repo-wide search.
+- **The subnet folder name** in the paths is also another location's name. Readers used it only inside paths (A, B, K); this merge writes no such path.
+- **Two list entries share a file name** (`Davis.md`); resolved by path (B).
+- **Reading-order rules for the first check (K).** K's brief listed findings to test and left out the "No character sited" row; K tested it because LOG L1704 bears on it. K's admitted spec spans did not include the climate line or SPEC L141.
+
+### 9.7 The merge writer's notes and omissions
+
+- **Names not reproduced.** The two founding figures named at 05:146 and in RC (history-file figures; out of frame); the real-world port city named at 05:147 and LC L164; the real-world place names in RC's per-nation input (RC L203-214); the supplier countries named at LC L246 (described, not quoted). Names of other locations in source lines (for example SPEC L84, L86, L153 and L167; LOG L553 and L1613-1614; T16 L2023, L2031-2032, L2036, L2046 and L2085; the last lines of LC and RC) and in the readers' positional PROOF lines are not reproduced. Where a cited line names another location, the point is written without the name.
+- **Quotation discipline.** Proposed wording is in italics, never in double quotation marks, so that every string in double quotation marks is an exact quotation of a source line or of a reader's output. The merge writer checked quotations against entries of the readers' list at their stated ranges: the Step 5 file in full; SPEC L10-111, L136-144, L146-158 and L167; LOG L538-554, L691-704, L1523-1531, L1606-1617 and L1673-1718; T16 L2006-2106; INPUT L472-517, L560-599 and L626-700; RUNBOOK L2760-2896; the six pieces at their admitted spans; and selected lines of LC and RC.
+- **Re-flowed parts.** Parts 01 to 03 were first written with hard-wrapped lines, which split some quotations across two physical lines, and part 03 ran past 250 lines. Both are errors for a later quotation audit, so those three parts were re-flowed to one physical line per paragraph or bullet. No wording changed.
+- **Hole numbers** are not assigned (AM-S5-R11).
+- **No finding of the merge writer's own** is added. Every point is credited to A, B, C or K.
+- **Round 3 verdict words** are not used in any disposition column.
+

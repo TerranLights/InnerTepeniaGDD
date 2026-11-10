@@ -1,0 +1,54 @@
+== numbering: numbered piece P89: D=35, F=13, K=14, N=22, Q=13, R=20
+part files: 9; merged lines: 1480
+other-city names: none
+BRITISH SPELLING HITS (1): 246:travelling
+QUOTED STRINGS (14+ chars) checked against the admitted ranges of the reading list: not found anywhere: 48; found only outside an admitted range: 1
+  NOT FOUND   L118: will produce placeless cities
+  NOT FOUND   L289: An exchange at Davis can move between Hawaiian and the four supporting languages; whether,
+  NOT FOUND   L322: substantial but not complete
+  NOT FOUND   L325: rapidly coalesced
+  NOT FOUND   L326: no dialects in the traditional sense
+  NOT FOUND   L328: Allophonic variation typically reflected first language interference
+  NOT FOUND   L369: labile in adulthood
+  NOT FOUND   L443: Bavaria and Austria officially use Standard German as the primary medium of education
+  NOT FOUND   L443: Educated Bavarians and Austrians can almost always read, write and understand Standard Ger
+  NOT FOUND   L444: most of its speakers can code-switch to Standard German
+  NOT FOUND   L444: die Staatssprache der Republik
+  NOT FOUND   L486: not a differentiator
+  NOT FOUND   L551:  killed for want of an admitted line; its reasoning contradicted by evidence; 
+  NOT FOUND   L555: native-like usage of phonological features is very difficult after 7 years of age
+  NOT FOUND   L606: Isolation measurably speeds convergence.
+  NOT FOUND   L607: in a long-settled many-origin population
+  NOT FOUND   L609:  implies a comparison the study does not make; and 
+  NOT FOUND   L615: Mandarin's membership does not depend on the reserved rows
+  NOT FOUND   L617: So no tier finding depends on the reserved shares
+  NOT FOUND   L636: is not engaged
+  NOT FOUND   L664: at city scale (PHYS L217)
+  NOT FOUND   L817: a common language - namely English - should be established for navigational purposes
+  NOT FOUND   L882:  is unsourced; 
+  NOT FOUND   L882:  is a loose term with a second sense in P8 | Keep 
+  NOT FOUND   L967: What marks someone as from Davis, as far as Davis's own lines go, is how they make a claim
+  NOT FOUND   L969: includes how they make a claim
+  NOT FOUND   L1099: labile in adulthood
+  NOT FOUND   L1100: largely maintains the contrasts of its lexifier
+  NOT FOUND   L1100: rapidly coalesced
+  NOT FOUND   L1132: Demographics of Creole Formation in Hawaii
+  NOT FOUND   L1135: speech community
+  NOT FOUND   L1138: Dimensions of dialect acquisition
+  NOT FOUND   L1140: Second Dialect Acquisition
+  NOT FOUND   L1146: Mergers and acquisitions
+  NOT FOUND   L1154: Phonetic change in an Antarctic winter
+  NOT FOUND   L1168: language graveyard
+  NOT FOUND   L1172:  reportative evidential 
+  NOT FOUND   L1174: German language
+  NOT FOUND   L1196: Pidgin Hawaiian
+  NOT FOUND   L1198: language graveyard
+  NOT FOUND   L1203:  Mandarin German English 
+  NOT FOUND   L1220: Phonetic change in an Antarctic winter
+  NOT FOUND   L1220: labile in adulthood
+  NOT FOUND   L1220: first stages of a common accent
+  NOT FOUND   L1380 (section 9): as far as Davis's own lines go
+  NOT FOUND   L1394 (section 9): the one marker
+  NOT FOUND   L1403 (section 9): no tier finding depends on the reserved shares
+  NOT FOUND   L1407 (section 9): 45 origin communities
+  OUTSIDE-RANGE L1451 (section 9): (another location: not used)

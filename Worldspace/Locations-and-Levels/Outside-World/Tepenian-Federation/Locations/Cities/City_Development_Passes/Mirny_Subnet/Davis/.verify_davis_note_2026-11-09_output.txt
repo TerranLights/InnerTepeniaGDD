@@ -1,0 +1,70 @@
+OK       Official_Population_Census.md L506
+OK       Official_Population_Census.md L650
+OK       Official_Population_Census.md L394
+OK       Official_Population_Census.md L395
+OK       Davis.md L15
+OK       Davis.md L16
+OK       Davis.md L20
+OK       Davis.md L21
+OK       Davis.md L32
+OK       Davis.md L33
+OK       Davis.md L37
+OK       Davis.md L38
+OK       Davis.md L49
+OK       Davis.md L76
+OK       Davis.md L99
+OK       Davis.md L100
+OK       Davis.md L107
+OK       Davis.md L108
+OK       Davis.md L109
+OK       Founding_Register.md L59
+OK       09_Per_City_Baseline_Run.md L79
+OK       16_Per_City_Three_Tier_Run.md L262
+OK       16_Per_City_Three_Tier_Run.md L2006
+OK       16_Per_City_Three_Tier_Run.md L2010
+OK       16_Per_City_Three_Tier_Run.md L2011
+OK       16_Per_City_Three_Tier_Run.md L2012
+OK       16_Per_City_Three_Tier_Run.md L2014
+OK       16_Per_City_Three_Tier_Run.md L2022
+OK       16_Per_City_Three_Tier_Run.md L2074
+OK       16_Per_City_Three_Tier_Run.md L2076
+OK       16_Per_City_Three_Tier_Run.md L3568
+OK       19_National_Balance_Refresh_2026-11-02.md L62
+OK       19_National_Balance_Refresh_2026-11-02.md L81
+OK       Highways.md L199
+OK       Ports.md L559
+OK       Airports.md L50
+OK       Airports.md L55
+OK       Airports.md L57
+OK       City_National_Connections.md L303
+OK       City_National_Connections.md L304
+OK       City_National_Connections.md L307
+OK       City_National_Connections.md L308
+OK       Language_Blocs_By_City_2026-11-03.md L916
+OK       Language_Blocs_By_City_2026-11-03.md L922
+OK       Language_Blocs_By_City_2026-11-03.md L923
+OK       Language_Blocs_By_City_2026-11-03.md L925
+OK       Language_Blocs_By_City_2026-11-03.md L926
+OK       Language_Blocs_By_City_2026-11-03.md L927
+OK       Extent_and_Density_Per_City.md L617
+OK       Extent_and_Density_Per_City.md L636
+OK       City_Symbol_Assignments.md L112
+OK       DEVELOPER_RULINGS_LOG.md L1555
+OK       DEVELOPER_RULINGS_LOG.md L1660
+OK       DEVELOPER_RULINGS_LOG.md L1698
+OK       README.md L22
+TOTAL line checks: 55   OK: 55   DIFF: 0
+composition table rows parsed (L32-L76): 45; by tier: {'Primary': 5, 'Significant': 2, 'Notable': 38}
+share sum: 100.004%
+rows under 1%: 21; under 0.5%: 17; under 0.1%: 10
+Census I sum over rows: 1210432
+four smallest rows at Census I: [('Tuva', 152), ('Karachay-Cherkessia', 212), ('Ingushetia', 230), ('Finland', 240)]
+Census I 1210432, Census II 817475
+retention combined 67.54%, humans 76.88%, robots 58.63%, spread 18.25 pp
+robots share of Census I 51.20%, of Census II 44.45%
+humans departed 136567 = 23.12%; robots departed 256390 = 41.37%; people gone 392957
+density on 410 km2: Census I 2952.27, Census II 1993.84
+workforce 915098 (robots + humans/2); required 323,548 / 915,098 = 35.36%
+file 16 section 19: 383,295 + 252,606 + 279,197 = 915098; mandated 27.60%, free 30.51%
+agriculture 35% of 531,803 = 186131.05; technical half 12.5% = 66475.38
+retention in climate: 28/72.8 = 38.46%; 28/73 = 38.36%

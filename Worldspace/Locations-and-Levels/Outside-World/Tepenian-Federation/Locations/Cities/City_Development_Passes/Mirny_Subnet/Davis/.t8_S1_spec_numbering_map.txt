@@ -1,0 +1,31 @@
+# Spec numbering map for piece S1 (computed by the orchestrator, 2026-11-09). Davis spec: pass-time text = `git show d2dd2136:<spec>` (the pass-completion commit, 236 newline-lines); current text = the live spec (260 newline-lines).
+# Method: for every pass-time line n from 58 to 236, compare its text with the current line n+24; lines 1 to 12 are compared at the same number. The composition region (pass-time L13-57, current L13-81) is different text and is NOT mapped here.
+# Result: pass-time L58-L236 equal current L82-L260 at +24 for 176 of 179 lines. Lines whose wording differs: pass-time L85, L89, L143 (now L109, L113, L167). Lines 1-12: text differs at the same number only for L8; identical for the other eleven.
+# The contract's own numbers were written for the spec as it stood on the contract's date; this map is against the pass-completion commit. Whether those two spec versions differ in line numbering before L58 or after is NOT verified here.
+
+# Mapped numbers for lines the contract names (section 4.1-4.3 of 00.1_Step_MINUS-1_Input_Contract.md). 'text' says whether the text at the current number equals the pass-time text.
+pass_time_line|current_line|text
+4|4|identical
+9|9|identical
+21|(composition region; not mapped)|not mapped
+60|84|identical
+62|86|identical
+88|112|identical
+89|113|DIFFERS
+91|115|identical
+117|141|identical
+120|144|identical
+121|145|identical
+127|151|identical
+129|153|identical
+143|167|DIFFERS
+148|172|identical
+153|177|identical
+154|178|identical
+155|179|identical
+176|200|identical
+178|202|identical
+179|203|identical
+
+# The contract's read spec in pass-time numbers: 1-3,5-8,10-87,90-120,122-134,143,148,153-155,176,178-179 (00.1 L223 and L238), stated as bound L1-134 minus {4, 9, 88, 89, 121} plus L143, L148, L153-155, L176, L178, L179 (L241-243).
+# Mechanical +24 mapping of the part after the composition table (pass-time 58-87 -> 82-111; 90-120 -> 114-144; 122-134 -> 146-158; 143 -> 167; 148 -> 172; 153-155 -> 177-179; 176 -> 200; 178-179 -> 202-203); excluded L88-89 -> L112-113 and L121 -> L145. The composition region (pass-time 10-57) is replaced by the current block, which the piece classifies.
