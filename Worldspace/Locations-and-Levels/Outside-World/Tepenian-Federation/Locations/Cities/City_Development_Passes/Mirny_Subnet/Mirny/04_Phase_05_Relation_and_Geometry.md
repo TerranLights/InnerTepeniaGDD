@@ -585,3 +585,5 @@ Phase 5 is mandatory, not primary, for a Settlement (`SPN3` L122). **Corridor** 
 | Sea partner: one origin name on both sides; no Upper Earth view recorded | B, A, C | A held on (vii); B, C conceded |
 | Four Upper Earth relations | A | B, C |
 | 5b deferred; three attempts not adopted | A, B, C | all three |
+
+*Addenda proposed 2026-11-05 beside this file (piece ST14, `Amendment_Rederivation_ST14_Phases4and5_2026-11-05.md`); this file is not reworded (`DR-102`). The weather warnings travel on the relay (`DR-76`). Read its statements of unread cues, no teacher, no public wind call, blame or carelessness, and a relay restored by position or kept invisibly, as the first generation's (Act 1) and the not-yet-taught's; warning in Phase 4 at L122 and L269 names the wind's own first sign, and the word keeps both uses, that one and the weather warning on the relay, with context deciding (`DR-122`); the lived middle is deferred to the cultural synthesis pass (CST, `DR-108`); spec line numbers are the 230-line spec's (+22 from old L46); live census, founders, tiers and extent per piece ST14, section 2.*

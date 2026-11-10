@@ -47,3 +47,5 @@ that outcome is as durable, and whether there is a route back."*
 | 3 | Open the gate's entry for its worked case | L2526–2528 | **No** | `G10` L50: the worked case is archived in `Test_Runs/Worked_Examples_Archive/`, outside the read set |
 
 **Verdict:** ☑ step complete.
+
+*Addenda proposed 2026-11-05 beside this file (piece ST12, `Amendment_Rederivation_ST12_EarlySteps_2026-11-05.md`); this file is not reworded (`DR-102`). Read its statements of no teacher, no inherited judgment, an unread cue or a private reading as the first generation's (Act 1); founders per the Founding Register (`Founding_Register.md` L57); live census and composition per the census (`Official_Population_Census.md` L500) and Mirny's spec (`Specs/Mirny subnet/Mirny.md` L20 to L22); the relay carries the weather warnings (`DR-76`); the extent at Census I is 140.35 km² at 10,000 per km² and 200.51 km² at 7,000 per km², computed from `Official_Population_Census.md` L500.*

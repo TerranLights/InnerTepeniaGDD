@@ -651,3 +651,5 @@ present; currency RESERVED.
    B's "the hub routes nine places" · B's and C's dual Type assignment (C withdrew; B held pending Q-20) · A's
    refusal of Installation (A then assigned) · A's PA-12 chamber assumption (now R-13).
 7. **All three readers carried `RB` L1961's "Band 6" at first**; only A tested it against the census.
+
+*Addenda proposed 2026-11-05 beside this file (piece ST12, `Amendment_Rederivation_ST12_EarlySteps_2026-11-05.md`); this file is not reworded (`DR-102`). Read its statements of no teacher, no inherited judgment, an unread cue or a private reading as the first generation's (Act 1); founders per the Founding Register (`Founding_Register.md` L57); live census and composition per the census (`Official_Population_Census.md` L500) and Mirny's spec (`Specs/Mirny subnet/Mirny.md` L20 to L22); the relay carries the weather warnings (`DR-76`); the extent at Census I is 140.35 km² at 10,000 per km² and 200.51 km² at 7,000 per km², computed from `Official_Population_Census.md` L500.*

@@ -539,3 +539,5 @@ robots 685529 humans 665901 total 1351430 robot share 50.7262 %
 | Wind-direction conflict (spec south/southeast vs research ESE–SE) | C | B confirmed |
 | Solar-geometry finding | C | not confirmable (obliquity constant outside the files): reserved RF-8 |
 | Type variance: Corridor and Network locus reach one feature each; Structure and Band 0 do not | A, B, C | all three |
+
+*Addenda proposed 2026-11-05 beside this file (piece ST13, `Amendment_Rederivation_ST13_Phase3_2026-11-05.md`); this file is not reworded (`DR-102`). The weather warnings travel on the relay (`DR-76`). Read its statements of unread or unlearned cues, a reader that does not exist, blame or carelessness as the first generation's (Act 1) and the not-yet-taught's; warning in this file names the wind's own first sign, and the word keeps both uses, this one and the weather warning on the relay, with context deciding (`DR-122`); spec line numbers are the 230-line spec's (+22 from old L46); live census, founders and extent per piece ST13, section 2.*

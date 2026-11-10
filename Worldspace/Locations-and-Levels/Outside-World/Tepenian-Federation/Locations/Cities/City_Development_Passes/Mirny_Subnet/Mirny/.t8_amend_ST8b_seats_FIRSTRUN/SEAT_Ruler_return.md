@@ -1,0 +1,527 @@
+# Mirny · Fresh Review Panel (ULM Step 8) · SEAT: The Ruler · return
+
+## §0 · Header
+- **Seat:** the Ruler (a Flat Archetype).
+- **Cast:** a robot member of the organization of people of both bodies that manages and curates Mirny's public weather protocol (R3; `DRL` L1140), described by her work only: no title, office, seat, name or place. A robot built at Mirny's array of chambers (`DR-55` Q-66), online as an adult, Act 2. **Second standpoint, used once (RUL-405) for a question outside the organization's remit:** a person in the city's own baseline allocation work.
+- **Standing question:** *Who administers that, who funds it, and what happens when they stop?*
+- **Clock at start:** Sun Nov 8 04:08:06 PM MST 2026 (from `date`).
+- **Clock at end:** Sun Nov 8 04:33:45 PM MST 2026 (from `date`).
+- Reading list: 44 entries; staged order followed: yes (A, B, C, D, E, F, F2, then G)
+
+## §1 · Reading log
+- Entry 1 (`00f`), read: first "---" (L21) · middle "techniques for accessing the archetypes** (p. 143 ff.)" (L461) · last "now.)*" (L834).
+- Entry 2 (`00d`), read: first "---" (L21) · middle "population would tolerate." (L156) · last "*secretly awful*, the proportion is wrong" (L222).
+- Entry 3 (`RB`), read: first "# LAW 0 — DEPTH OVER SPEED." (L309) · middle (L437, a line naming another place; see §5) · last, a blank line (L3005; the line before it is "sibling-based test can never see coming.").
+- Entry 4 (`DRL`), read (21 spans): first "## `DR-56` · ✅ **MIRNY: THE WORD" (L1111) · middle "| **Not changed** | `04_Phase_06_Meaning.md` itself" (L1444) · last "| **Files** | `Research_Logs/DECISIONS_NEEDED_FROM_DEVELOPER.md`;" (L1870).
+- Entry 5 (`ANS`), read: first "# Mirny · Amendment note" (L1) · middle "| Culture-file corrections (D-1 to D-39)" (L24) · last "The piece headers (L9 in most) state the live facts;" (L49).
+- Entry 6 (`ST7`), read: first "## 0 · In short" (L14) · middle "### AS7-44 · The closing test" (L393) · last, a blank line (L451; the line before it is "| E16 | The stage order:").
+- Entry 7 (`SPEC`), read (22 spans): first "# Mirny" (L1) · middle "**Winter solstice daylight minimum:**" (L122) · last "- **City name** — flagged 2026-07-08 for an eventual rename" (L252).
+- Entry 8 (`FREG`), read: first "# Founding Register" (L1) · middle "It may never mark a row ✅." (L16) · last "| Mirny | Mirny | +6 | ✅ |" (L57).
+- Entry 9 (`FRM`), read: first "# Mirny — Step 0 · The Frame" (L1) · middle "while the founding robots" (L169) · last "*Addenda proposed 2026-11-05 beside this file" (L655).
+- Entry 10 (`INH`), read whole (51 lines by `wc -l`): first "# Mirny — Step 1 · Audit what is inherited" (L1) · middle "restores contact?" (L26) · last "*Addenda proposed 2026-11-05 beside this file" (L51).
+- Entry 11 (`SPN`), read: first "# Mirny — Step 2 · The Spine" (L1) · middle "| **DEFICIT** | **no inherited judgment of the wind**" (L89) · last "*Addenda proposed 2026-11-05 beside this file" (L178).
+- Entry 12 (`RES`), read whole (146 lines by `wc -l`): first "# Mirny — Step 3 · Research" (L1) · middle "inland station; wind-driven radio noise starts around 10 m/s" (L73) · last "*Addenda proposed 2026-11-05 beside this file" (L146).
+- Entry 13 (`DS0`), read: first "# Mirny — Datasheet · Step 0 & Phase 0 (Frame) — MERGED" (L1) · middle "| Census I | 692,971 H / 710,578 R" (L14) · last "exists until Mirny's own Step 0 actually runs." (L30).
+- Entry 14 (`DS3`), read: first "# Mirny — Datasheet · Phase 3 (Surface & Texture)" (L1) · middle "| Blizzard/visibility conditions, stated directly |" (L20) · last "| Record extremes | Record high **+8.7 °C** (Dec)" (L40).
+- Entry 15 (`DS4`), read: first "# Mirny — Datasheet · Phase 4 (Ordinary Life)" (L1) · middle "| `09_Per_City_Baseline_Run.md` §2 — Mirny's own row |" (L20) · last "| Wind account (rulings) | In the first generation or so" (L40).
+- Entry 16 (`DS5`), read (9 spans): first "# Mirny — Datasheet · Phase 5 (Relation & Geometry)" (L1) · middle "> already found and flagged on a different city's own Phase 5 pass**" (L32) · last "| Wind account — the relay (rulings) |" (L57).
+- Entry 17 (`ST12`), read: first "## 0 · In short" (L14) · middle "7. **The census difference.**" (L22) · last, a blank line (L30; the line before it is "---").
+- Entry 18 (`P2`), read: first "# Mirny — Step 4 · Phase 2 · Composition & Arrival" (L1) · middle "came first (R-10), but speaks for the founders only" (L242) · last, a blank line (L431; the line before it is "---").
+- Entry 19 (`AP2c`), read: first "## 0 · In short" (L13) · middle "**N-3 · The establishing country's share against its role" (L171) · last, a blank line (L260).
+- Entry 20 (`APIU`), read: first "## 0 · In short" (L13) · middle "**One row, two roles** (`REG` L57)." (L199) · last, a blank line (L213).
+- Entry 21 (`P3`), read: first "# Mirny — Step 4 · Phase 3 · Surface & Texture" (L1) · middle "admitted interior." (L238) · last "*Addenda proposed 2026-11-05 beside this file (piece ST13," (L543).
+- Entry 22 (`ST13`), read: first "## 0 · In short" (L14) · middle "Phase 3's readers had not opened that file." (L347) · last, a blank line (L465; the line before it is "---").
+- Entry 23 (`P4`), read: first "# Mirny — Step 4 · Phase 4 · Ordinary Life" (L1) · middle "| **Founding-stratum robot, compelled**" (L174) · last "*Addenda proposed 2026-11-05 beside this file (piece ST14," (L404).
+- Entry 24 (`P5`), read (28 spans): first "# Mirny — Step 4 · Phase 5 · Relation & Geometry" (L1) · middle "| **g** | **Upper Earth freighter crews** |" (L250; it carries real-world place names; see §5 and §6) · last "*Addenda proposed 2026-11-05 beside this file (piece ST14," (L589).
+- Entry 25 (`ST14`), read (the 348-line span in four consecutive Reads, see §5): first "## 0 · In short" (L14) · middle, a blank line (L541; the line before it is "- **Addendum (PROPOSED; once, after L10).**") · last, a blank line (L724; the line before it is "---").
+- Entry 26 (`APRT`), read: first "## 0 · In short" (L15) · middle, a blank line (L25) · last, a blank line (L173).
+- Entry 27 (`P6`), read: first "# Mirny — Step 4 · Phase 6 · Meaning" (L1) · middle "---" (L151) · last, a blank line (L259; the line before it is "---").
+- Entry 28 (`AP6`), read: first "## 0a · Developer clarifications applied, 2026-10-29" (L12) · middle "- **The old mechanism falls for Mirny's own knowledge:**" (L165) · last, a blank line (L253).
+- Entry 29 (`P7`), read (the 196-line span in two consecutive Reads, see §5): first "# Mirny — Step 4 · Phase 7 · Order" (L1) · middle "- **[CAND-1] a handoff right and a standing-volunteer practice" (L325) · last, a blank line (L543; the line before it is "---").
+- Entry 30 (`AP7`), read (the 171-line span in two consecutive Reads): first "## 0 · In short" (L12) · middle, a blank line (L156; the line before it is "The unwritten rule at Mirny is **the duty**") · last, a blank line (L247; the line before it is "---").
+- Entry 31 (`P8`), read (the 576-line span in four consecutive Reads): first "# Mirny — Step 4 · Phase 8 · Making" (L1) · middle "- Textiles are keyed to all residents:" (L432) · last, a blank line (L753; the line before it is "---").
+- Entry 32 (`AP8`), read: first "## 0 · In short" (L13) · middle "- **New [ADM + CALC + D].**" (L240) · last, a blank line (L428; the line before it is "---").
+- Entry 33 (`P9`), read: first "# Mirny — Step 4 · Phase 9 · Populations" (L1) · middle "- **Absent** (carried from `P2` E1–E10, confirmed):" (L256) · last, a blank line (L428; the line before it is "---").
+- Entry 34 (`AP9`), read: first "## 0 · In short" (L14) · middle "### A9-11 · Populations in passing" (L136) · last "8. **The language rule** [ADM + CALC, NOT WIND]:" (L215).
+- Entry 35 (`P10`), read (the 271-line span in two consecutive Reads): first "# Mirny — Step 4 · Phase 10 · Catalog" (L1) · middle, a blank line (L283; the line before it is "## 8 · Category 3 — people as role-archetypes") · last "*Piece ST16 (" (L631; a line carrying names this brief forbids; see §6).
+- Entry 36 (`AP10`), read (the 192-line span in two consecutive Reads): first "## 0 · In short" (L14) · middle "- **New.** **Dated (KEEP):** the light and the season" (L308) · last "| 12 | The language rule (`DRL` L1669), NOT WIND |" (L457).
+- Entry 37 (`S5`), read: first "# Mirny · Step 5 — Reconciliation and the CLOSE pass" (L1) · middle, a blank line (L298; the line before it is "**C-4 · How many cities the hub routes**") · last "*Piece ST16 (" (L842; a line carrying names this brief forbids; see §6).
+- Entry 38 (`AS5`), read: first "## 0 · In short" (L14) · middle "is refused:** 23.24 %." (L327) · last "**Count:** Step 5's 23 rows" (L489).
+- Entry 39 (`S6`), read: first "# Mirny · Step 6 — Differentiate (WRITE-ONLY)" (L1) · middle "| **The unnamed load-bearing thing** |" (L204) · last, a blank line (L251; the line before it is "---").
+- Entry 40 (`AS6`), read: first "## 0 · In short" (L15) · middle "| 2 | The organizing axis | L187 |" (L277) · last, a blank line (L366).
+- Entry 41 (`S7`), read: first "# Mirny · Step 7 — QA (the 17 gates)" (L1) · middle, a blank line (L74; the line before it is Gate 9's result) · last, a blank line (L134; the line before it is "---").
+- Entry 42 (`LC`), read (17 spans): first "# Mirny — Cultural Spec Sheet — ⚠ founders corrected 2026-10-13" (L1) · middle, a blank line (L149; the line before it is "## 14. Sensory Profile") · last "> ⚠ **Founders corrected 2026-10-13.**" (L303).
+- Entry 43 (`ST16`), read: first "## 0 · In short" (L14) · middle, a blank line (L308; the line before it is AS16-18's confidence line) · last "**To the Step 10 re-run** (`DR-116`; `ANS` L28):" (L430).
+- Entry 44 (`ST7b`), read: first "## 4 · Errata for Step 8's brief (PROPOSED; for the fresh Review Panel)" (L1534) · middle "| **E13′** | Gate 8's three-slot ledger" (L1552) · last, a blank line (L1571; the line before it is "---").
+- Stage G: went back over the admitted spans that bear on the standing question (`DRL` L1116, L1140, L1150, L1220, L1432, L1466, L1778; `ANS` L14 to L16, L26; `ST7` L413, L418; `P5` L121 to L141, L203 to L208; `P7` L188 to L196, L246 to L307, L315 to L333, L353 to L354; `AP7` L15 to L16, L82 to L120, L176, L180 to L202, L233 to L243; `ST14` L439 to L444, L582 to L597, L704 to L708; `APRT` L163 to L167; `AP10` L190 to L235, L270 to L284, L439 to L456; `AS5` L301 to L304; `AS6` L287; `S7` L49, L73; `SPEC` L196, L214, L230, L245; `LC` L53, L214). All re-reading stayed inside admitted spans.
+
+## §2 · Objections (only real ones)
+
+### RUL-401 · addition · No admitted line says which tier, sector or share of the work pays for curating the protocol and issuing the warnings.
+- **Voice** (the position's own, uncensored; the author's words, not a quotation): *I keep a protocol that about 1.4 million people of both bodies are taught from and warned by. Show me the line that says whose hours I am. Not the mandated sectors: those are signal and stone, counted to the unit. Not the baseline by name. If I sit in the free tier, I am wanted work, and wanted work can stop being wanted. The nation counted the relay down to the last unit and left the knowledge that rides on it uncounted. If nobody can say which pool pays for the curation, nobody can say what happens to it in the year that pool runs short.*
+- **Rests on:** `ST7` L413: "(iv) Curating the protocol has no admitted sector or share (AR-17); no percentage is written." · `AP7` L176: "curating the weather protocol and issuing warnings: no industry named in the Register's 22; tier unplaced (AR-17)" · `APRT` L165: "(Communications/Arcanet 122,167 + Industrial/manufacturing 122,167)" · `DRL` L1140: "who manage and curate the protocol for the weather"
+- **Both bodies:** the organization is of both bodies by ruling (`DRL` L1140), so an unplaced tier is unplaced for robot and human members alike. If the work is wanted work, the national overwork hazard is flagged for the robot body (`P4` L151, flagged, not ruled); no admitted equivalent is written for the human body.
+- **Act:** both, as a gradient (the knowledge system and its curation form within the first generation or so, Act 1, and carry through Act 2).
+- **Disposition evidence** (for the writer; you do not decide):
+  - *Peer-free test:* stating a tier and sector would replace nothing specific found. Meeting the want with a funded office that commands would replace the specific thing at `AP10` L284 ("manages and curates a knowledge Mirny's first generation made, and commands nobody"); `ST7b` L1565 records that "the ruled core alone, the duty clause and the organization do not survive the peer-free swap alone".
+  - *Self-knowledge:* none found. The organization's existence is ruled (`DRL` L1140); no line shows residents of either body knowingly leaving it unfunded or unplaced.
+  - *Already recorded?* Yes: AR-17 (`ST7` L413; `AP7` L176). The parallel gap for the found record is R-82 (`P7` L248).
+  - *Status of what it rests on:* ruled (`DRL` L1140, existence only) · PROPOSED piece (`ST7`, `AP7`, `APRT`).
+- **What it would change** (a proposal, never applied): ask the developer to place the curating work and the issuing of warnings in a tier and sector, or to carry "unplaced" as an explicit open row beside AR-17; no percentage is written until he does.
+
+### RUL-402 · addition · The organization curates what the warnings say, but no admitted line says who issues them, who keeps the hardware they ride, or whether its remit reaches either.
+- **Voice** (the position's own, uncensored; the author's words, not a quotation): *We decide what the protocol says. We do not run the line it is said on, and nobody does by name. The day the relay goes, everything we curated is still true and none of it reaches a door. I cannot fix the hardware from my remit, I cannot ask for a second path from my remit, and the files will not even tell me whether the warnings are ours to issue or someone else's to carry. My work ends exactly where the hardware starts, and nobody owns the hardware.*
+- **Rests on:** `ST14` L584: "and the organization curates the weather protocol, not the relay; whether its people restore the relay is open (`P06` L301; AR-2)" · `P5` L126: "no redundancy, no institution, no restorer, no date" · `DRL` L1432: "The form of the warning and who runs it: not known yet" · `AP10` L221: "what carries warnings then is AR-24; whether the protocol serves the subnet or Mirny only is AR-16 (B)."
+- **Both bodies:** the members are of both bodies; whoever is most strategically able to restore the relay may be of either body, and the price differs (a human pays in exposure; a robot in charge and possibly permanent capacity, `ST14` L585).
+- **Act:** both, as a gradient (dated only from the relay's undated onset, AR-13; nothing before it).
+- **Disposition evidence** (for the writer; you do not decide):
+  - *Peer-free test:* naming who issues the warnings (AR-2) would replace nothing specific found. Meeting the want with a second path would replace the specific thing at `AP10` L223: "A city whose own warnings and whose subnet's contact share one hardware path, so the storm the warnings exist for is the one that can silence them."
+  - *Self-knowledge:* none found. `ST14` L595 records that "whether Mirny's people knowingly do not ask for a second relay path is open (`ANS` L27; `DR-114`)".
+  - *Already recorded?* Yes: AR-2, AR-16, AR-24, R-48, CAND-8; what carries a warning when the relay is down is open by ruling (R16) and is not settled here.
+  - *Status of what it rests on:* ruled (the warnings ride the relay; who runs them unruled, `DRL` L1432) · pass line as written (`P5` L126) · PROPOSED piece (`ST14`, `AP10`).
+- **What it would change** (a proposal, never applied): record beside AR-2 a request that the developer say whether the organization's remit ends at the protocol's content or reaches the issuing of warnings and the relay's upkeep; leave the outage carrier open (R16).
+
+### RUL-403 · doubt · Nothing admitted says how a person joins or leaves the organization, on what authority it changes the protocol, or who succeeds a member, and a robot member need never stop.
+- **Voice** (the position's own, uncensored; the author's words, not a quotation): *I came online here and I will not age out. Nothing written tells me how I joined, how I leave, or who decides that someone else should hold my place, except that no place is written. The human member beside me will be gone in a lifetime; I may still be curating when her grandchildren are being taught. Nobody chose that; my body simply does not stop. Whoever was here first can be here for centuries, and no line says whether that is a gift to the knowledge or a lock on it. And when any of us changes an entry, on whose authority? The files say: unruled.*
+- **Rests on:** `AP10` L273: "Makeup, membership, powers, seat and name unruled (AR-2, AR-5, AR-6, AR-18, AR-63, AR-70)." · `AP7` L238: "its basis of authority is unruled" · `P7` L354: "entrenchment by physics, not by law" · `AP7` L120: "if first-cohort robots belong to the curating organization, a living memory of the first learning could sit inside the curation for centuries; membership is unruled."
+- **Both bodies:** for the robot body there is no forced succession (no senescence; a role ends by choice or incident, `P7` L354); for the human body succession is paced by mortality. The same unwritten rule bears differently on each.
+- **Act:** both, as a gradient (in Act 1 the first learners of both bodies; in Act 2 first-cohort robots may still hold the first-hand learning, AF7-5).
+- **Disposition evidence** (for the writer; you do not decide):
+  - *Peer-free test:* a membership or rotation rule would risk replacing the specific thing at `AP9` L96: "The founding-cohort robots of the four exile groups are **among the first learners of the wind in the robot body and among its first teachers**." `P7` L354 also says a rotation rule would need an author and a reason, and none is admitted.
+  - *Self-knowledge:* none found.
+  - *Already recorded?* Yes: AR-5, AR-6, AR-18, AR-63 (`AP10` L273); AF7-5 (`AP7` L120); RF-12 (`P7` L354, for any function). Joining the entrenchment reading to the organization is this seat's own derivation.
+  - *Status of what it rests on:* PROPOSED piece (`AP10`, `AP7`) · pass line as written (`P7` L354) · your own derivation (the join).
+- **What it would change** (a proposal, never applied): carry the organization's joining, leaving, succession and basis of authority as one open request split by body (robot: no forced succession; human: mortality), and set AF7-5's reading in C3-23's row as a reserved finding; write no rule.
+
+### RUL-404 · doubt · When the curation lapses, nothing signals it, and no admitted line says who answers for a wrong or stale entry.
+- **Voice** (the position's own, uncensored; the author's words, not a quotation): *If I get an entry wrong, the next warning shows it and someone corrects it. If an entry quietly goes stale, nothing says anything until a newcomer trusts it at the wrong door. Who answers then? The files say not ruled. Our work is judged by nothing happening, and nothing happening is also exactly what neglect looks like from outside.*
+- **Rests on:** `AP6` L133: "a stale entry may give no sign until a crossing finds it (AR-6)" · `AP7` L201: "who decides what the curated protocol says → ADMINISTERED IN PRINCIPLE, form unwritten (AR-2, AR-18)" · `AP8` L229: "The knowledge is itself upkeep whose product is the absence of a stale entry (AF8-3)." · `ST7` L418: "a stale protocol entry that gives no sign until a crossing finds it"
+- **Both bodies:** a stale entry is met first by the not-yet-taught of either body; the price of a misjudged crossing differs (a human pays in exposure; a robot in charge and possibly permanent capacity).
+- **Act:** both, as a gradient (it sharpens in Act 2, as the first learners thin and the knowledge is held by curation).
+- **Disposition evidence** (for the writer; you do not decide):
+  - *Peer-free test:* asking who answers for the protocol's content replaces nothing specific found. Meeting the want with an examiner or certificate (AR-21) would be generic and would put a commander over a function that "commands nobody" (`AP10` L284).
+  - *Self-knowledge:* none found.
+  - *Already recorded?* Yes: the stale-entry shadow (`ST7` L418, derived, not adopted); AR-2, AR-6, AR-11, AR-18; AF8-3.
+  - *Status of what it rests on:* PROPOSED piece, derived [D] (`AP6`, `AP7`, `AP8`, `ST7`).
+- **What it would change** (a proposal, never applied): pair AR-15 (who answers for a crossing gone wrong) with an explicit request on who answers for the protocol's content, and keep the stale-entry shadow on the shadow list; write no examiner.
+
+### RUL-405 · want · From the allocation work: the quarry's two claims may overlap, and no admitted party, the curating organization included, is written as the one who splits the output.
+- **Voice** (the position's own, uncensored; the author's words, not a quotation): *My job is allocation. The quarry feeds the eastern roads and the chamber chain out of one sector, the developer says the shares may overlap, and nobody is written as the one who splits it: not the region, not the road authority, not the nation, not the people who curate the weather. So it is split by whoever loads the next haul, and I learn the answer from a shortfall somewhere downstream. I want one line that says whose call that is. I know the gap is kept on purpose; I still want it.*
+- **Rests on:** `DRL` L1220: "It's possible that they may draw upon overlapping shares." · `AP7` L190: "the curating organization's remit is the weather, not the quarry" · `P7` L317: "A national claim and a regional claim meet on a local resource, and each candidate arbiter's remit stops short of the other claim." · `S5` L325: "**a city that governs itself by function can still leave its largest decisions to whoever is at the point**" · `DRL` L1466: "That the admitted lines name no decider between the claims Mirny's work owes outward (contact, eastern roads, chamber chain, sea supply, the quarry) stays a finding"
+- **Both bodies:** either body staffs the quarry and the yards (no job is closed to either body, `P7` L249); the decision by position falls on whoever is at the haul, of either body; no difference is admitted.
+- **Act:** both, as a gradient (from the chamber chain's undated start, the Tower era at least).
+- **Disposition evidence** (for the writer; you do not decide):
+  - *Peer-free test:* yes, satisfying it would replace a specific thing: the finding kept by ruling that no admitted party decides between the claims Mirny's work owes outward (`DRL` L1466; `P7` L317).
+  - *Self-knowledge:* none found among residents of either body. The gap is kept by the developer's ruling as a finding (`DRL` L1466), which is a ruling about the record, not Mirny's own people knowingly holding the gap.
+  - *Already recorded?* Yes: P7-16; R-12, R-78; Q-70; CAND-6; `INH` #5's handoff; AS14-33; BT-11 (`S5` L325).
+  - *Status of what it rests on:* ruled (`DRL` L1220, L1466) · pass line as written (`P7` L317; `S5` L325) · PROPOSED piece (`AP7` L190).
+- **What it would change** (a proposal, never applied): no change to the finding; at most, the allocation worker's want is written beside P7-16 as characterization (no arbiter is written).
+
+### RUL-406 · inconsistency · The tier that holds the hub's ordinary staffing is stated two ways, and on either reading the mandate compels no one.
+- **Voice** (the position's own, uncensored; the author's words, not a quotation): *One file puts the relay's people in a mandated sector; a later one says the relay stays unplaced in the tiers. Pick one. Then notice that either way the mandate compels nobody and declining it is not punished. So the single thing nine members cannot do without is staffed, day to day, by people nobody can require, on a ledger nobody agrees on. I am not asking for a whip. I am asking which ledger the hub is on.*
+- **Rests on:** `P7` L196: "The functions that must run through the shared stop (the relay, the harbor watch, emergency care; `P4` P4-4) sit, by the file's arithmetic, in **different tiers** — mandated, free-or-baseline, baseline" · `APRT` L166: "The mandated tier is provider work the nation needs from Mirny: both headline sectors, in full; it is no compulsion on any human or robot." · `ST14` L706: "The quarry, the relay and the ring stay unplaced in the tiers." · `AP9` L127: "Declining mandated work is not punished (`DR-55` Q-63)."
+- **Both bodies:** either body staffs the sector; a robot's choice of work is protected by Law 1, and for a human no admitted rule says either way (`P7` L323).
+- **Act:** both, as a gradient (from the relay's undated onset).
+- **Disposition evidence** (for the writer; you do not decide):
+  - *Peer-free test:* no specific thing found for the inconsistency itself; resolving which tier holds the relay replaces nothing specific. Meeting the want with compulsion would contradict a ruling (`DR-55` Q-63) and would rest on national, not Mirny, ground.
+  - *Self-knowledge:* none found; the only ground is national canon (the mandate is a need-test, "met by means the files do not write", `P7` L247).
+  - *Already recorded?* Partly: P7-4, P7-10, PA-39, Q-63; AS14-52 (`ST14` L704 to L708); byproduct (2) of `P7` L521. The disagreement between P7-4's placement and AS14-52's reading that the relay stays unplaced is not recorded on the admitted lines.
+  - *Status of what it rests on:* pass line as written (`P7` L196) · PROPOSED piece (`APRT` L166; `ST14` L706; `AP9` L127, the latter on a ruling).
+- **What it would change** (a proposal, never applied): reconcile P7-4's placement of the relay and the quarry in the mandated sectors with AS14-52's reading that they stay unplaced in the tiers (`ST14` L706) into one statement with its source line.
+
+### RUL-407 · position · No one may compel the response, and no one is written as even knowing who went: the duty has no coordination, compelling or not.
+- **Voice** (the position's own, uncensored; the author's words, not a quotation): *I do not want a rota. The ruling says nobody is required, and I hold to it. But that several may go, or none, is not something I can sit easy with. In the storm that takes the relay, the warnings we curate are gone, the call for help cannot travel on the thing that broke, and the only coordinator is each conscience on its own. I want, at minimum, someone a person can tell that she is going, without anyone being able to tell her that she must.*
+- **Rests on:** `AP6` L148: "several may each judge themselves best placed, or none" · `AP7` L201: "the failed relay cannot carry its own call for help" · `AS6` L287: "whether anyone may ask a person to go without compelling them is open (AR-22; DEC-042)." · `DRL` L1778: "Who decides who goes out is deferred." · `DRL` L1116: "it's something people would do simply because it's the right thing to do, and not as a result of any sort of 'legal obligation'."
+- **Both bodies:** the duty and the guilt are ruled the same for robots and humans; the price of going differs by body (exposure; charge and possibly permanent capacity).
+- **Act:** both, as a gradient (from the relay's undated onset).
+- **Disposition evidence** (for the writer; you do not decide):
+  - *Peer-free test:* a compelling dispatch would contradict a ruling (`DRL` L1116) and the uncompelled duty is national ground (`AP7` L79: "national in root ("among Tepenians")"); non-compelling coordination would replace nothing specific found. What is specific is the duty's object and price (one relay carrying contact and warnings; storms that also stop walking: `ST7b` L1565).
+  - *Self-knowledge:* the only ground is `DRL` L1116, a statement about Tepenians nationally; that is national canon, not Mirny's own self-knowledge.
+  - *Already recorded?* Yes: AR-22; DEC-042; "who goes out" is open by ruling (R16) and is not settled here; the shadow "the duty no one can assign" (`ST7` L418).
+  - *Status of what it rests on:* ruled (`DRL` L1116; `DRL` L1778, deferred) · PROPOSED piece (`AP6`, `AP7`, `AS6`).
+- **What it would change** (a proposal, never applied): none applied; offered for refereeing against any position that values the uncompelled duty as it stands; AR-22 stays open and who goes out stays unsettled.
+
+## §3 · Silences and negative results
+- **Does the organization's remit reach beyond the weather? No, on the admitted lines.** It manages and curates "the protocol for the weather" (`DRL` L1140); "the curating organization's remit is the weather, not the quarry" (`AP7` L190); it "curates the weather protocol, not the relay" (`ST14` L584); it "administers knowledge, not claims" (`AS5` L303). A negative result, recorded (Rule 0).
+- **Is there a penalty regime that cannot be administered? Not guilty.** After the first generation the admitted lines hold no sanction at Mirny; guilt is not a sanction (`DRL` L1477); every exclusion was priced against the physics and found not writable (`P7` L482 to L492). There is nothing in the order of penalties for an administrator to run.
+- **Do the live figures tie out? Yes, trivially.** 692,971 humans + 710,578 robots = 1,403,549 (`ST7` L441; `DS0` L14); 446,228 + 244,334 + 366,502 = 1,057,064 workforce units (`APRT` L165).
+- **Silent because other positions or findings already cover the ground (Rule 1):** the inward ledger (water unwritten, R-152, `S7` L49; food a null, `P5` L183; delivered heat, P5-11; the harbor watch's payer, R-54; no household reserve, `P4` L141); the relay's redundancy and the parent's supply (P5-3 to P5-5, CAND-8, PA-74); the found record's custodian and write-rights (R-68, R-82, A7-4); the city's own government form (PA-1, PA-3, R-83). Each is real from this seat and already recorded; repeating it would be one objection wearing a second hat.
+- **The organization's name:** not this seat's to coin; it stays open by ruling (R16). Silence.
+- **Symbols:** no question asked (R13).
+- **The second standpoint** was used once (RUL-405) and nowhere else.
+- **Blind to, recorded as untested:** individual suffering (the guilt of the one who did not go, as lived; the newcomer's first storm in an outage, as lived); private life (households, courtship, the privacy of the omission); meaning (whether the debt to the first generation is felt, and by whom). This seat did not test any of them.
+
+## §4 · The Lover faculty's question
+From the curation seat, the place is alive in the one thing its own people are shown to have made: "The third is the only lasting referent the admitted lines say Mirny's own people made, and it has no admitted form, place or face (AR-1, AR-3, AR-69, AR-70)." (`AP10` L192). What a curator could love is that this hardest-won knowledge is given away: "that system is public knowledge that can be learned by anyone who wants to" (`DRL` L1140), to robots and humans alike. Pleasure shows on the admitted lines only in small, dated things: the first sunset after the nightless days, offered as a candidate observance and "gently comic" (`P6` L204), not adopted; and, for the robot half, leisure held nationally as "It is the material proof that leaving worked." (`P6` L119); the human half's leisure is not established. The lines are silent on what people of either body eat, sing, play or court with; that is the cultural synthesis pass's to build (R12), and a blank there is a result, not a gap I would fill. Whether anyone at Mirny says they love living there is in no admitted line.
+
+## §5 · Snags and killed drafts
+1. **A prior return file existed at start**, holding one line that recorded a stop outside the hours window at 16:07 MST, and no log. Per the brief (§0 item 1: the time of day is not a reason to stop), it was overwritten and the run began fresh.
+2. **Hook notices disregarded under `DR-6`:** a `PreToolUse` notice urging graphify arrived on every Read and every Bash call; each was disregarded, as the brief instructs.
+3. **Read size limit:** six admitted spans were too large for one Read call and were read as consecutive, contiguous Reads inside the span with no gap and no line outside it: `ST14` L377 to L724 (four Reads); `P7` L214 to L409 (two); `AP7` L77 to L247 (two); `P8` L178 to L753 (four); `P10` L125 to L395 (two); `AP10` L186 to L377 (two). This departs in form from the brief's *one Read call per span*.
+4. **Counts:** `wc -l` was run once on the two whole-file entries (10 and 12) to confirm their line counts (51 and 146). It is a count of two named files, not a listing or a search.
+5. **List errors (entry and line only).** Another Tepenian place named: entry 3 L437 · entry 4 L1137 · entry 29 L204 · entry 41 L85. Real-world cities outside Tepenia named (recorded in case the rule reaches them): entry 7 L28 · entry 12 L90, L97 · entry 19 L170 · entry 24 L165, L182, L249, L250, L312 · entry 33 L225, L344.
+6. **A brief result that does not match the line read:** R19 says `SPEC` L252 still carries a clause making China the Primary; the line as read carries no such clause (it states six Primary nations and no majority). Recorded only; composition was read from R1 as instructed.
+7. **Gate 11 note (not an objection):** from where an administrator stands, a city of about 1.4 million whose single hub relay has no admitted second path across the frame strains plausibility; it is already registered (PA-74, CAND-8) and is not argued here (`00f` L796).
+8. **Killed drafts:** (a) *the organization should hold the power to dispatch restorers*: killed by evidence (it gives powers no line admits, and a compelling rule contradicts `DRL` L1116); what survives is RUL-407's non-compelling position. (b) *the relay has no funding*: killed for want of anything new (P5-3 to P5-5 cover it; Rule 1). (c) *the water supply is unwritten*: killed as recorded (R-152). (d) *the harbor watch's payer is unwritten*: killed as recorded (R-54). (e) *the found record has no admitted custodian*: killed as recorded (R-68, R-82). (f) *curation without a budget is implausible*: killed by rule (a panelist cannot object to plausibility; an unwritten budget is not an implausible one). (g) an objection built on the culture file's political-character line (`LC` L214): killed (a tier 3 source to check against, never a finding). (h) *what carries warnings in an outage should be ruled*: killed as an objection of its own (R16 is open by ruling; it survives only as an absence inside RUL-402).
+9. **Self-corrections:** (i) I first read `P7` P7-4 as settling the relay's tier; `ST14` L706 says the relay stays unplaced in the tiers, so the matter became RUL-406's inconsistency. (ii) I first logged entry 18's middle line from its second half; the full line is L242 as given in §6. (iii) The §1 log was first written out of entry order; it is restored to entry order here.
+10. **Mid-task messages:** none received.
+
+## §6 · PROOF blocks
+
+### PROOF: /home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Universal_Location_Methodology/Disciplines/00f_Review_Panel.md
+LRANGE: 21-33,102-834
+LINES: 746
+L1: ---
+LMID:   techniques for accessing the archetypes** (p. 143 ff.). Chapter 2's framing and Chapter 4's opening are
+LLAST:   now.)*
+QUOTE: - **Asks:** *Who administers that, who funds it, and what happens when they stop?*
+
+### PROOF: /home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Universal_Location_Methodology/Disciplines/00d_Shadow_Proportion_Discipline.md
+LRANGE: 21-30,100-222
+LINES: 133
+L1: ---
+LMID: population would tolerate.
+LLAST: *secretly awful*, the proportion is wrong — regardless of how well-sourced each individual finding is.
+QUOTE: The Shadow is a **byproduct**, never the operating principle.
+
+### PROOF: /home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Universal_Location_Methodology/00_RUNBOOK.md
+LRANGE: 309-358,378-379,381-484,490-511,541-552,2978-3005
+LINES: 218
+L1: # LAW 0 — DEPTH OVER SPEED. NEVER RUSH TO A FAST RESULT.
+LMID: **`§C.8d` already ruled: *"NEVER MEASURE ANOTHER LOCATION AGAINST CONCORDIA. Not for scale. Not for
+LLAST:
+QUOTE: **If yes, it is `unmet`, and the refusal is written as characterization rather than as a gap to close.**
+EXEMPT: positional line carries a name the brief forbids; not reproduced elsewhere.
+
+### PROOF: /home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Universal_Location_Methodology/DEVELOPER_RULINGS_LOG.md
+LRANGE: 1111-1122,1126-1130,1132-1133,1137-1142,1144,1146-1153,1155,1157-1158,1211-1214,1217-1226,1427-1434,1438-1445,1460-1468,1472-1479,1655-1662,1737-1744,1764-1768,1770-1771,1773-1780,1782-1789,1863-1870
+LINES: 131
+L1: ## `DR-56` · ✅ **MIRNY: THE WORD "COMPACT" BECOMES "SOCIAL CONTRACT"; THE WIND IS LEARNED ONCE, THEN TAUGHT; DUTY WITHOUT COMPULSION** *(recorded 2026-10-12; edits to the pass files are scheduled for 2026-10-13, in hours)*
+LMID: | **Not changed** | `04_Phase_06_Meaning.md` itself (the old axis stays in the file with its amendment notice; the replacement lives in `Amendment_Rederivation_P06_Meaning_2026-10-29.md`). The strongest-finding form recommended in that file (updated for `DR-76`) is not yet explicitly ruled. |
+LLAST: | **Files** | `Research_Logs/DECISIONS_NEEDED_FROM_DEVELOPER.md`; `Amendment_Rederivation_ST16_Symbols_2026-11-05.md`; this log. |
+QUOTE: An organization of people of both bodies manages and curates the weather protocol for Mirny; the protocol is public knowledge any resident may learn.
+
+### PROOF: /home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Mirny/Amendment_Notes_2026-11-04_Answers_Carried_Forward.md
+LRANGE: 1-26,28-44,46-49
+LINES: 47
+L1: # Mirny · Amendment note · the developer's answers of 2026-11-04, carried forward
+LMID: | Culture-file corrections (D-1 to D-39) | Held for the post-ULM rewrite, except the high-confidence factual rows; holidays and the stock-named faith line marked "held for after the CST". Nothing applied. | `DR-112` | DEC-021 |
+LLAST: The piece headers (L9 in most) state the live facts; read "English the supporting tier alone" there as "English and Russian (a Mirny special case, `DR-111`)". The same applies to the Mirny local-culture file's language line, which stays a docket row (`DR-112`), not an edit.
+QUOTE: A candidate role described by function only (no title, office, seat or name); no place cataloged.
+
+### PROOF: /home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Mirny/Amendment_Rederivation_ST7_QAGates_2026-11-04.md
+LRANGE: 14-31,188-209,351-357,391-421,430-451
+LINES: 100
+L1: ## 0 · In short
+LMID: ### AS7-44 · The closing test · *replaces L100's conditions and contents clauses* · W · C · I · N · S · P
+LLAST:
+QUOTE: (iv) Curating the protocol has no admitted sector or share (AR-17); no percentage is written.
+
+### PROOF: /home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Specs/Mirny subnet/Mirny.md
+LRANGE: 1-2,4-6,10-14,17-74,76,78-119,121-154,156-160,163,165,167-183,185-189,191-197,199-205,207-217,219,221,223,225-235,237-243,245-249,252
+LINES: 226
+L1: # Mirny
+LMID: **Winter solstice daylight minimum:** approximately 0 hours (the sun grazes the horizon at solar noon on June 21 but does not technically clear it — or just barely does; the exact behavior depends on atmospheric conditions and refraction)
+LLAST: - **City name** — flagged 2026-07-08 for an eventual rename: the name comes from the real station and Bellingshausen's sloop, a naming fact only, while the founder is Idelsk-Uralia, and the exile groups are Idelsk-Uralia (also), Russia, Australia and the Sinian Federation (`Founding_Register.md` L57; `DR-46`, `DR-54`, `DR-99`), and the composition has no majority nation: six nations are Primary, the largest the United Kingdom at 13.73%, the Sinian Federation one of them at 12.00%. Deliberately deferred, not resolved now — see `TODO.md`'s "Mirny Rename" entry.
+QUOTE: Mirny's character is shaped by two things above all others: the wind, and the line.
+
+### PROOF: /home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Founding_Register.md
+LRANGE: 1-31,57
+LINES: 32
+L1: # Founding Register
+LMID:    It may never mark a row ✅.
+LLAST: | Mirny | Mirny | +6 | ✅ | **Founded by Idelsk-Uralia** (replacing Russia in the founding-nation role); **exile groups present: Idelsk-Uralia (also), Russia, Australia and the Sinian Federation (China)** | Idelsk-Uralia (+2…+5): zone gap 1, against Russia's core (+2…+3) gap 3; developer: it would have *"a reasonably strong-enough economy to support doing so"* | `DR-9`, `DR-46` | — |
+QUOTE: Founders are decided here and nowhere else.
+
+### PROOF: /home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Mirny/00_Frame.md
+LRANGE: 1-25,27-46,48-53,55-81,83-150,153-249,391-460,462-473,655
+LINES: 326
+L1: # Mirny — Step 0 · The Frame
+LMID:   human founders are *"elderly or already dead,"* while the founding robots *"are still fully active"* (`TL`
+LLAST: *Addenda proposed 2026-11-05 beside this file (piece ST12, `Amendment_Rederivation_ST12_EarlySteps_2026-11-05.md`); this file is not reworded (`DR-102`). Read its statements of no teacher, no inherited judgment, an unread cue or a private reading as the first generation's (Act 1); founders per the Founding Register (`Founding_Register.md` L57); live census and composition per the census (`Official_Population_Census.md` L500) and Mirny's spec (`Specs/Mirny subnet/Mirny.md` L20 to L22); the relay carries the weather warnings (`DR-76`); the extent at Census I is 140.35 km² at 10,000 per km² and 200.51 km² at 7,000 per km², computed from `Official_Population_Census.md` L500.*
+QUOTE: The parent's own type is not assigned here — that is the parent pass's work.
+
+### PROOF: /home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Mirny/01_Inherited.md
+LRANGE: FULL
+LINES: 51
+L1: # Mirny — Step 1 · Audit what is inherited
+LMID:   restores contact?
+LLAST: *Addenda proposed 2026-11-05 beside this file (piece ST12, `Amendment_Rederivation_ST12_EarlySteps_2026-11-05.md`); this file is not reworded (`DR-102`). Read its statements of no teacher, no inherited judgment, an unread cue or a private reading as the first generation's (Act 1); founders per the Founding Register (`Founding_Register.md` L57); live census and composition per the census (`Official_Population_Census.md` L500) and Mirny's spec (`Specs/Mirny subnet/Mirny.md` L20 to L22); the relay carries the weather warnings (`DR-76`); the extent at Census I is 140.35 km² at 10,000 per km² and 200.51 km² at 7,000 per km², computed from `Official_Population_Census.md` L500.*
+QUOTE: **Verdict:** ☑ step complete.
+
+### PROOF: /home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Mirny/02_Spine.md
+LRANGE: 1-57,59-79,81-116,118-138,140-178
+LINES: 174
+L1: # Mirny — Step 2 · The Spine
+LMID: | **DEFICIT** | **no inherited judgment of the wind** | **the cues lie** | **no living teacher** | — | **no stock native to it** | **agree — SPINE** |
+LLAST: *Addenda proposed 2026-11-05 beside this file (piece ST12, `Amendment_Rederivation_ST12_EarlySteps_2026-11-05.md`); this file is not reworded (`DR-102`). Read its statements of no teacher, no inherited judgment, an unread cue or a private reading as the first generation's (Act 1); founders per the Founding Register (`Founding_Register.md` L57); live census and composition per the census (`Official_Population_Census.md` L500) and Mirny's spec (`Specs/Mirny subnet/Mirny.md` L20 to L22); the relay carries the weather warnings (`DR-76`); the extent at Census I is 140.35 km² at 10,000 per km² and 200.51 km² at 7,000 per km², computed from `Official_Population_Census.md` L500.*
+QUOTE: Day length is the one honest cue.
+
+### PROOF: /home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Mirny/03_Research.md
+LRANGE: FULL
+LINES: 146
+L1: # Mirny — Step 3 · Research
+LMID:   inland station; wind-driven radio noise starts around 10 m/s and is worst on above-ground structures); **rime
+LLAST: *Addenda proposed 2026-11-05 beside this file (piece ST12, `Amendment_Rederivation_ST12_EarlySteps_2026-11-05.md`); this file is not reworded (`DR-102`). Read its statements of no teacher, no inherited judgment, an unread cue or a private reading as the first generation's (Act 1); founders per the Founding Register (`Founding_Register.md` L57); live census and composition per the census (`Official_Population_Census.md` L500) and Mirny's spec (`Specs/Mirny subnet/Mirny.md` L20 to L22); the relay carries the weather warnings (`DR-76`); the extent at Census I is 140.35 km² at 10,000 per km² and 200.51 km² at 7,000 per km², computed from `Official_Population_Census.md` L500.*
+QUOTE: - **The window cannot be scheduled:** break-up varies over 83 days, freeze-up over 48.
+
+### PROOF: /home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Mirny/Datasheets/Step_0.md
+LRANGE: 1-20,22-23,25-30
+LINES: 28
+L1: # Mirny — Datasheet · Step 0 & Phase 0 (Frame) — MERGED
+LMID: | Census I | 692,971 H / 710,578 R / **1,403,549** (revised 2026-07-04; `DR-68` 2026-10-28, was 665,901 / 685,529 / 1,351,430; `DR-90` 2026-11-02) | `Official_Population_Census.md` L500 — cross-verified against `Specs/Mirny.md` L15, exact match (re-checked 2026-10-30; attribution corrected 2026-11-08, `DR-122`) |
+LLAST: exists until Mirny's own Step 0 actually runs.
+QUOTE: The default frame for worldbuilding a Tepenian location.
+
+### PROOF: /home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Mirny/Datasheets/Phase_3.md
+LRANGE: 1-8,10-20,22-40
+LINES: 38
+L1: # Mirny — Datasheet · Phase 3 (Surface & Texture)
+LMID: | Blizzard/visibility conditions, stated directly | *"Blizzards: with katabatic winds and available surface snow, blizzard conditions can develop rapidly; visibility collapses quickly in major events"* · *"Whiteout here routinely occurs under a clear sky, because the snow is lifted, not falling"* | `Specs/Mirny subnet/Mirny.md` L156, L104 (cross-ref `Phase_1.md`) |
+LLAST: | Record extremes | Record high **+8.7 °C** (Dec) · record low **-36.5 °C** (Aug) — NOAA NCEI GHCN-Daily station `AYM00089592`, direct, 0 km; daily observations 1973-2026 *(researched 2026-09-04)* | `Specs/Mirny subnet/Mirny.md` L92 |
+QUOTE: Placed at the end of the file so no cited line moves.
+
+### PROOF: /home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Mirny/Datasheets/Phase_4.md
+LRANGE: 1-22,24-40
+LINES: 39
+L1: # Mirny — Datasheet · Phase 4 (Ordinary Life)
+LMID: | `09_Per_City_Baseline_Run.md` §2 — Mirny's own row | *(the Rank cell is not carried: no peer comparison)* Difficulty 1.25 · Humans 692,971 · Residents 1,403,549 · Required workforce 376,393 · Workforce 1,057,064 · **% of workforce required: 35.6%** *[`09` L1: on 2026-10-28 (`DR-68`) the Humans, Residents, Required, Workforce and % WF cells were refreshed, "the Required and % WF columns remain the superseded old-B1 model"; on 2026-11-03 (`DR-96`, `DR-97`) the Required and % WF cells were refreshed again for 25 rows on the current populations, and the robot-keyed term B3 + B4 now also sits in `16`'s formula. Read 2026-11-03.]* | `09_Per_City_Baseline_Run.md` L71 |
+LLAST: | Wind account (rulings) | In the first generation or so the settlers had to learn the wind on their own; once they had it figured out they taught each other and set up signifiers with a weather report/relay system (`DR-56` item 2). An organization of people of both bodies manages and curates the weather protocol, which is public knowledge any resident may learn (`DR-57`); it is a candidate role described by function only, with no title, name or place (`DR-111`). The weather warnings travel on the relay (`DR-76`). Open: the warning's form and who runs it (`DR-76`); who teaches (`DR-111`); the signifiers, to be researched in real-world sources (`DR-76`) | `DEVELOPER_RULINGS_LOG.md` L1115, L1124 (`DR-56`), L1150 (`DR-57`), L1432 (`DR-76`), L1769 (`DR-111`); `Amendment_Notes_2026-11-04_Answers_Carried_Forward.md` L14, L15 |
+QUOTE: Each figure is quoted from the source line named in its row; read 2026-11-08.
+
+### PROOF: /home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Mirny/Datasheets/Phase_5.md
+LRANGE: 1-15,17,19,21,23,25-28,30-57
+LINES: 51
+L1: # Mirny — Datasheet · Phase 5 (Relation & Geometry)
+LMID: > already found and flagged on a different city's own Phase 5 pass** — `City_Cross_Subnet_Relationships.md`
+LLAST: | Wind account — the relay (rulings) | The weather warnings travel on the relay, read as the relay or subnet network that carries Mirny's communication (`DR-76`); the warning's form and who runs it are not known yet. No one is legally required to go out to restore the relay; people of both bodies do it from a strong community duty, and not doing so when one is best placed brings deep personal guilt (`DR-56` item 3); guilt is not a sanction (`DR-80`). "Best placed" is whoever is most strategically able to address a weather hazard: capability and position for the hazard at hand, not nearness, either body (`DR-76`). Who goes out in practice is open (DEC-042) | `DEVELOPER_RULINGS_LOG.md` L1116, L1127 (`DR-56`), L1432 (`DR-76`), L1477 (`DR-80`); `Amendment_Notes_2026-11-04_Answers_Carried_Forward.md` L26 |
+QUOTE: Placed at the end of the file so no cited line moves.
+
+### PROOF: /home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Mirny/Amendment_Rederivation_ST12_EarlySteps_2026-11-05.md
+LRANGE: 14-30
+LINES: 17
+L1: ## 0 · In short
+LMID: 7. **The census difference.** On the live rows, Census I minus Census II is 351,175. The live census lines label their own added counts "Arithmetic, NOT a migration" (52,119 at Census I, 35,879 at Census II), so 16,240 of the difference (10,392 humans, 5,848 robots) traces to those additions [CALC; all three readers]. **This piece does not call the 351,175 "relocated"** and does not read the authoring arithmetic as an in-world fact either way; the exit is history, built after the ULM (`DR-16`) (AS12-10; RF-ST12-1).
+LLAST:
+QUOTE: 6. **Language** was left open in the Frame and the contract; it is now ruled (`DR-100`, `DR-111`; a child's languages, `DR-56` item 5).
+
+### PROOF: /home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Mirny/04_Phase_02_Composition_and_Arrival.md
+LRANGE: 1-23,76-96,98-431
+LINES: 378
+L1: # Mirny — Step 4 · Phase 2 · Composition & Arrival
+LMID:   came first (R-10), but speaks for the founders only and is silent on the eleven.
+LLAST:
+QUOTE: What residents want for themselves is in no admitted file.
+
+### PROOF: /home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Mirny/Amendment_Rederivation_P2c_Composition_2026-11-03.md
+LRANGE: 13-27,168-181,252-260
+LINES: 38
+L1: ## 0 · In short
+LMID: **N-3 · The establishing country's share against its role [ADM + D + CAND].** 2.14 % (Significant) is its headcount share of old Russia; Mirny is on neither the `DR-85` item-4 list nor `DR-93`'s, so the rework did not raise it for its role. The role (a state's capacity to support a founding: `DR-46`'s zone gap and economy; arrangements under II.3.2 and assistance under V.2) needs no large share: **small share and founding role are compatible**. Third order [CAND]: if the establishing country supported the founding as a state, the founding administration and the population came from different places, and II.4 would be the path by which governance passed to the residents (AR-30). C softened "very probably an Assembly Power" to "plausibly".
+LLAST:
+QUOTE: The founders remain a minority of the population on every count.
+
+### PROOF: /home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Mirny/Amendment_Rederivation_PIU_IdelskUralia_2026-11-04.md
+LRANGE: 13-23,197-213
+LINES: 28
+L1: ## 0 · In short
+LMID: **One row, two roles** (`REG` L57). **It says [ADM]:** (1) the founding stratum is four exile groups, in both bodies, holding 23.24 % of each, a minority; (2) one of the four shares its origin with the founding state, the other three do not; (3) the founding state stood on geography and access (zone gap 1, against Russia's core at gap 3, and an economy to support it), never on the real station; (4) the founding-nation role moved from Russia to Idelsk-Uralia on time-zone alignment, a fact about access, not about either people; (5) the census's tag marks the role on one row only and says nothing about when anyone arrived.
+LLAST:
+QUOTE: No role for the founding, no route, date or order for its people, no language, culture, institution, name or demonym.
+
+### PROOF: /home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Mirny/04_Phase_03_Surface_and_Texture.md
+LRANGE: 1-21,84-413,543
+LINES: 352
+L1: # Mirny — Step 4 · Phase 3 · Surface & Texture
+LMID: admitted interior.
+LLAST: *Addenda proposed 2026-11-05 beside this file (piece ST13, `Amendment_Rederivation_ST13_Phase3_2026-11-05.md`); this file is not reworded (`DR-102`). The weather warnings travel on the relay (`DR-76`). Read its statements of unread or unlearned cues, a reader that does not exist, blame or carelessness as the first generation's (Act 1) and the not-yet-taught's; warning in this file names the wind's own first sign, and the word keeps both uses, this one and the weather warning on the relay, with context deciding (`DR-122`); spec line numbers are the 230-line spec's (+22 from old L46); live census, founders and extent per piece ST13, section 2.*
+QUOTE: the average daily high is above 0 °C only in December and January; the freezing point is crossed on an average day in those two months only.
+
+### PROOF: /home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Mirny/Amendment_Rederivation_ST13_Phase3_2026-11-05.md
+LRANGE: 14-30,247-465
+LINES: 236
+L1: ## 0 · In short
+LMID: - **Old.** "Phase 3's readers had not opened that file." (L206).
+LLAST:
+QUOTE: The physics stands, conditional on a solid ring (PA-15): a solid barrier makes drift and a cleared drift refills, so the ring needs clearing; who clears it is not stated (AR-225).
+
+### PROOF: /home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Mirny/04_Phase_04_Ordinary_Life.md
+LRANGE: 1-14,71-291,404
+LINES: 236
+L1: # Mirny — Step 4 · Phase 4 · Ordinary Life
+LMID: | **Founding-stratum robot, compelled** (both Acts; in Act 2 the only personally exiled) | `RP`: no senescence; leisure is the "material proof that leaving worked"; mentor/mentee is "a genuine, culturally real robot institution"; "a person to ask, not an archive" (`P2`) | recharge in a place held above freezing by default; hours owed to nobody; in Act 2 the oldest voice at Mirny, in a body that cannot be copied [D] | whether anyone asks; what she is asked; her work |
+LLAST: *Addenda proposed 2026-11-05 beside this file (piece ST14, `Amendment_Rederivation_ST14_Phases4and5_2026-11-05.md`); this file is not reworded (`DR-102`). The weather warnings travel on the relay (`DR-76`). Read its statements of unread cues, no teacher, no public wind call, blame or carelessness, and a relay restored by position or kept invisibly, as the first generation's (Act 1) and the not-yet-taught's; warning in Phase 4 at L122 and L269 names the wind's own first sign, and the word keeps both uses, that one and the weather warning on the relay, with context deciding (`DR-122`); the lived middle is deferred to the cultural synthesis pass (CST, `DR-108`); spec line numbers are the 230-line spec's (+22 from old L46); live census, founders, tiers and extent per piece ST14, section 2.*
+QUOTE: Sizes and rotas are in no file (R-41; Q-43).
+
+### PROOF: /home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Mirny/04_Phase_05_Relation_and_Geometry.md
+LRANGE: 1-9,11-14,86-96,98-109,111,113,115-127,129-148,150-153,155,157-159,162-177,180-194,196-206,208-210,212,214-243,246,248-263,266-308,312,314-320,323,326-327,329-344,352-417,419-426,589
+LINES: 317
+L1: # Mirny — Step 4 · Phase 5 · Relation & Geometry
+LMID: | **g** | **Upper Earth freighter crews** | Australia, *"staging out of Hobart/Fremantle"* (`TWR` L993–994) | in the window | **whether crews come ashore is not stated** (R-64) |
+LLAST: *Addenda proposed 2026-11-05 beside this file (piece ST14, `Amendment_Rederivation_ST14_Phases4and5_2026-11-05.md`); this file is not reworded (`DR-102`). The weather warnings travel on the relay (`DR-76`). Read its statements of unread cues, no teacher, no public wind call, blame or carelessness, and a relay restored by position or kept invisibly, as the first generation's (Act 1) and the not-yet-taught's; warning in Phase 4 at L122 and L269 names the wind's own first sign, and the word keeps both uses, that one and the weather warning on the relay, with context deciding (`DR-122`); the lived middle is deferred to the cultural synthesis pass (CST, `DR-108`); spec line numbers are the 230-line spec's (+22 from old L46); live census, founders, tiers and extent per piece ST14, section 2.*
+QUOTE: The one Mirny-specific thing the parent requires, the relay, has no admitted supply.
+EXEMPT: positional line carries a name the brief forbids; not reproduced elsewhere.
+
+### PROOF: /home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Mirny/Amendment_Rederivation_ST14_Phases4and5_2026-11-05.md
+LRANGE: 14-31,377-724
+LINES: 366
+L1: ## 0 · In short
+LMID:
+LLAST:
+QUOTE: So "staffed in turns" stands for ordinary staffing; what is added is that restoring the relay in a storm is nobody's assigned turn.
+
+### PROOF: /home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Mirny/Amendment_Rederivation_PRT_RobotTerm_2026-11-04.md
+LRANGE: 15-25,163-173
+LINES: 22
+L1: ## 0 · In short
+LMID:
+LLAST:
+QUOTE: The mandated tier is provider work the nation needs from Mirny: both headline sectors, in full; it is no compulsion on any human or robot.
+
+### PROOF: /home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Mirny/04_Phase_06_Meaning.md
+LRANGE: 1-13,55-115,117-259
+LINES: 217
+L1: # Mirny — Step 4 · Phase 6 · Meaning
+LMID: ---
+LLAST:
+QUOTE: Four load-bearing continuities give no sign until they fail; the wind gives honest signs every day.
+
+### PROOF: /home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Mirny/Amendment_Rederivation_P06_Meaning_2026-10-29.md
+LRANGE: 12-35,103-204,207-253
+LINES: 173
+L1: ## 0a · Developer clarifications applied, 2026-10-29 (`DR-76`)
+LMID: - **The old mechanism falls for Mirny's own knowledge:** "never to the medium" (L183) and "the book never learns" (L184). **For the inherited record** ("the book" of L184) nothing is ruled; whether a failure is ever entered against it stays R-68/Q-58. **"The record does learn" is not adopted.** "Curate" is read as keeping the protocol current [D]; whether it *learns from new losses* is AR-11 (C's caution: `DRL` L1140 says only "manage and curate").
+LLAST:
+QUOTE: **The duty has no dispatcher [D] (B, C):** because no one is required, no one is assigned; several may each judge themselves best placed, or none; **conscience is the only coordinator.**
+
+### PROOF: /home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Mirny/04_Phase_07_Order.md
+LRANGE: 1-12,14-18,122-198,200-202,204-212,214-409,411-543
+LINES: 435
+L1: # Mirny — Step 4 · Phase 7 · Order
+LMID: - **[CAND-1] a handoff right and a standing-volunteer practice for storm restoration**, with its variants **[CAND-P2]** a norm against ordering another's crossing and **[CAND-P4]** a dispatch rule. *Function:* make the debt a choice at each handoff, with no compulsion. *Authority:* each holder's own. *Change:* CAND-1 and CAND-P2 formalize what Law 1 already forbids overriding (price: continuous functions then depend on volunteers); **CAND-P4 changes the Social Contract.** Not adopted (R-85).
+LLAST:
+QUOTE: Legitimacy is thin exactly where it is most needed.
+
+### PROOF: /home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Mirny/Amendment_Rederivation_P07_Order_2026-10-29.md
+LRANGE: 12-23,77-247
+LINES: 183
+L1: ## 0 · In short
+LMID:
+LLAST:
+QUOTE: The correction gave Mirny **an administrator for knowledge, and none for action or for claims.**
+
+### PROOF: /home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Mirny/04_Phase_08_Making.md
+LRANGE: 1-66,178-753
+LINES: 642
+L1: # Mirny — Step 4 · Phase 8 · Making
+LMID:   - Textiles are keyed to all residents: *"B5 textiles is resident-keyed, not human-keyed."* (`D08` L283).
+LLAST:
+QUOTE: Upkeep does not accumulate; each storm undoes it.
+
+### PROOF: /home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Mirny/Amendment_Rederivation_P08_Making_2026-11-03.md
+LRANGE: 13-26,117-263,314-428
+LINES: 276
+L1: ## 0 · In short
+LMID: - **New [ADM + CALC + D].**
+LLAST:
+QUOTE: The knowledge is itself upkeep whose product is the absence of a stale entry (AF8-3).
+
+### PROOF: /home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Mirny/04_Phase_09_Populations.md
+LRANGE: 1-4,6-45,128-211,213-242,244-308,310-428
+LINES: 342
+L1: # Mirny — Step 4 · Phase 9 · Populations
+LMID: - **Absent** (carried from `P2` E1–E10, confirmed): a prior native population (`DR-28`); a sentenced stratum; an unattached human at the founding; a South Asian-origin population (`NNS`); robot children; robot elders; a robot fully specified to a person's design, post-exile.
+LLAST:
+QUOTE: *Administrators* are a large baseline function at the national rate (`P7` P7-9), a function list, never an office (`P7` RF-18).
+
+### PROOF: /home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Mirny/Amendment_Rederivation_P9_Populations_2026-11-04.md
+LRANGE: 14-26,72-187,190-215
+LINES: 155
+L1: ## 0 · In short
+LMID: ### A9-11 · Populations in passing · *rewords P9-12 (L246 to L249)* · (B, C) · [IND + D]
+LLAST: 8. **The language rule** [ADM + CALC, NOT WIND]: one dominant language, a supporting tier by rule; language is a fact of the place, not a population.
+QUOTE: Declining mandated work is not punished (`DR-55` Q-63).
+
+### PROOF: /home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Mirny/04_Phase_10_Catalog.md
+LRANGE: 1-22,24-31,125-395,397-399,431-503,631
+LINES: 378
+L1: # Mirny — Step 4 · Phase 10 · Catalog
+LMID:
+LLAST: *Piece ST16 (`Amendment_Rederivation_ST16_Symbols_2026-11-05.md`), beside this file, re-tests §13 B3's Planet and Element on the corrected wind account (AS16-23; marks DK16-1, DK16-3 and DK16-4); this file is not reworded (`DR-102`). Current fact (`DR-122`): the Element is Air, confirmed on re-test on its physics and on the open carriage of the protocol and the warnings, not on L426's Social Contract clause, which rests on the retired premise; its one-word label is still provisional; Wood reserved; the Planet is Neptune, provisional, decided within Mirny's own ULM, Uranus reserved; Saturn, the provisional Planet of §13 B3, was not confirmed on re-test; the Planet hold is lifted. RF-1's Neptune (L538) now rests on the taught, public knowledge and the wind known by what it lifts, not on the relay; RF-2's Wood (L539) now reaches the knowledge, not only the record. By these facts Q-91 (L575) is answered and PA-66 (L588) is overturned on its Planet half.*
+QUOTE: A name for anything Mirny built waits on a form the frame has not given (R-119).
+EXEMPT: positional line carries a name the brief forbids; not reproduced elsewhere.
+
+### PROOF: /home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Mirny/Amendment_Rederivation_P10_Catalog_2026-11-04.md
+LRANGE: 14-28,186-377,390-457
+LINES: 275
+L1: ## 0 · In short
+LMID: - **New.** **Dated (KEEP):** the light and the season (C4-8, C4-9, C4-15, C4-16; about 29 days of midnight sun and no polar night, `SPEC` L107, L108) [ADM]. **Warned:** the wind's settings still cannot be dated, but they are now told: the protocol communicates hazards on the relay (`DRL` L1115, L1431); whether it gives a *soon* or only a *now* is AR-1, and no lead time is shown at this coast (the Phase 8 piece). **Called:** the water's opening is called by the harbor watch, public and binding on ships and offload by practice (`DRL` L1130), on the day the sea sets.
+LLAST: | 12 | The language rule (`DRL` L1669), NOT WIND | none; the naming decision (A10-19) | [ADM] + [CALC on the rule] | no word is written in any language | English authoring labels never read as attested supporting-tier speech |
+QUOTE: The one function at Mirny named for the weather manages and curates a knowledge Mirny's first generation made, and commands nobody
+
+### PROOF: /home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Mirny/05_Reconciliation.md
+LRANGE: 1-10,12-16,82-111,283-347,716-726,842
+LINES: 122
+L1: # Mirny · Step 5 — Reconciliation and the CLOSE pass
+LMID:
+LLAST: *Piece ST16 (`Amendment_Rederivation_ST16_Symbols_2026-11-05.md`), beside this file, re-tests the §10 backstop on the corrected wind account (AS16-23; marks DK16-2 and DK16-5 to DK16-7); this file is not reworded (`DR-102`). Current fact (`DR-122`): the Element is Air, confirmed on re-test on its physics and on the open carriage of the protocol and the warnings, its one-word label still provisional, Wood reserved; the Planet is Neptune, provisional, decided within Mirny's own ULM, Uranus reserved; Saturn was not confirmed on re-test; the Planet hold is lifted. Of §10's grounds for Saturn, the private reading is retired because the protocol is public (`DR-56`, `DR-57`), the fragments ground stood on the old composition frame and the station's run of operators, and the tilt is the planet's description, not one of its fields; the Element's Social Contract clause rests on the retired premise and was not counted. R-132 (L766) and C-6 (L301) are answered: rebuilt Earth was tested 2026-11-05 and does not fit. The word guard (L657) also covers the words contact, ring, winds, storm, warning and light: none of them is evidence for a symbol (AS16-15). The swap-test row for B3 (L709) is stale on both halves.*
+QUOTE: **a city that governs itself by function can still leave its largest decisions to whoever is at the point**
+EXEMPT: positional line carries a name the brief forbids; not reproduced elsewhere.
+
+### PROOF: /home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Mirny/Amendment_Rederivation_S5_Reconciliation_2026-11-04.md
+LRANGE: 14-28,214-339,357-421,439-489
+LINES: 257
+L1: ## 0 · In short
+LMID: - **"The founders now dominate" is refused:** 23.24 %. **Act:** Act 1, people of the four groups who live in Antarctica; Act 2, ancestry. **Not claimed:** any founding role's content, route, order, language or culture for any group; any standing. **Distinctive:** *one origin holds both of the Register's roles, a state outside and a people inside* (AIU-1).
+LLAST: **Count:** Step 5's 23 rows (D-1, D-2 REWORD; D-3 CLOSE in substance; D-4, D-7 REWORD; D-8, D-12 RE-DERIVE; D-13 KEEP with a note; D-16 REWORD status; the rest KEEP, six unchecked) plus 16 new rows (D-24 to D-39; D-26 and D-36 are pointers).
+QUOTE: The curating organization administers knowledge, not claims (A7-1).
+
+### PROOF: /home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Mirny/06_Differentiation.md
+LRANGE: 1-12,169-251
+LINES: 95
+L1: # Mirny · Step 6 — Differentiate (WRITE-ONLY)
+LMID: | **The unnamed load-bearing thing** | A Social Contract on where failure may live — a loss is booked to the person, the weather or silence, never to what was handed down | `P6` P6-1 (a Social Contract with a debt inside it; not a creed), P6-3, P6-17 (three slots); `05` §3.2 (strongest finding; legs 1–3 durable) | `P6` P6-2's counterfactuals run on Mirny itself: the conjunction does not travel; not a creed (no forced fit) | the core holds from the founding; the debt clause dates from the relay's undated onset |
+LLAST:
+QUOTE: Nothing here is ratified.
+
+### PROOF: /home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Mirny/Amendment_Rederivation_ST6_Differentiation_2026-11-04.md
+LRANGE: 15-29,246-303,346-366
+LINES: 94
+L1: ## 0 · In short
+LMID: | 2 | The organizing axis | L187 | Assigned exiles, natives later | KEEP | the accepted Phase 2 piece: the axis survives unchanged (`PP2` §6); precision: reach grounds the establishing country only, and the exile groups were placed by assignment (`PP2` L178). Cross-reference: the Step 5 piece tags the ground of "assigned" [DRAFT] (PA-7; `FRM` L463) |
+LLAST:
+QUOTE: whether anyone may ask a person to go without compelling them is open (AR-22; DEC-042).
+
+### PROOF: /home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Mirny/07_QA_Gates.md
+LRANGE: 1-27,41-134
+LINES: 121
+L1: # Mirny · Step 7 — QA (the 17 gates)
+LMID:
+LLAST:
+QUOTE: QA applies no edits.
+
+### PROOF: /home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Local_Cultures/Mirny_Subnet/Mirny.md
+LRANGE: 1-9,11-40,42-44,46-54,56-79,81-121,123-135,137-150,152-169,171,173-177,179-225,230-234,236-278,280-298,300,302-303
+LINES: 284
+L1: # Mirny — Cultural Spec Sheet — ⚠ founders corrected 2026-10-13: see the note at the end
+LMID:
+LLAST: > ⚠ **Founders corrected 2026-10-13.** `Founding_Register.md` rules this city's founders as: Idelsk-Uralia as the establishing country, with four exile groups present: Idelsk-Uralia (also), Russia, Australia and the Sinian Federation (China) (`DR-46`, `DR-54`, `DR-99`; `Founding_Register.md` L57). Together the four are 23.24 % of each body, a minority of the long-run composition (`DR-99`). Any line in this sheet that names the founders differently, or builds on an earlier founding, predates that ruling and is a revisit item. *(Added at the end so line numbers elsewhere stay stable.)*
+QUOTE: A city whose defining civic fact is a piece of critical infrastructure tends to govern itself accordingly.
+
+### PROOF: /home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Mirny/Amendment_Rederivation_ST16_Symbols_2026-11-05.md
+LRANGE: 14-29,300-322,421-430
+LINES: 49
+L1: ## 0 · In short
+LMID:
+LLAST: **To the Step 10 re-run** (`DR-116`; `ANS` L28):
+QUOTE: the pair is not asked to carry them, and no member is stretched to reach them (all three).
+
+### PROOF: /home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Mirny/Amendment_Rederivation_ST7b_QAGates_Rerun_2026-11-09.md
+LRANGE: 1534-1571
+LINES: 38
+L1: ## 4 · Errata for Step 8's brief (PROPOSED; for the fresh Review Panel)
+LMID: | **E13′** | Gate 8's three-slot ledger is the first generation's only; the re-recorded standout waits on the drafted core wording (DEC-020), not on an open choice of core | the core is ruled | `ST7` L447; `DRL` L1787 |
+LLAST:
+QUOTE: Each is a fact with its line; none says what the panel should find.
+
+MANIFEST: proved 44 of 44 entries; not reached — none

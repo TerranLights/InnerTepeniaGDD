@@ -174,3 +174,5 @@ under-reporting.
 data and the READER — READER and the 2026-09-04 correction govern. `16`'s "base" and "D", and the spec's
 "Access type: ON", are undefined in the admitted set. Four derivations sit next to excluded spans (L55, L82, L150,
 L176) and were built from admitted text only.
+
+*Addenda proposed 2026-11-05 beside this file (piece ST12, `Amendment_Rederivation_ST12_EarlySteps_2026-11-05.md`); this file is not reworded (`DR-102`). Read its statements of no teacher, no inherited judgment, an unread cue or a private reading as the first generation's (Act 1); founders per the Founding Register (`Founding_Register.md` L57); live census and composition per the census (`Official_Population_Census.md` L500) and Mirny's spec (`Specs/Mirny subnet/Mirny.md` L20 to L22); the relay carries the weather warnings (`DR-76`); the extent at Census I is 140.35 km² at 10,000 per km² and 200.51 km² at 7,000 per km², computed from `Official_Population_Census.md` L500.*

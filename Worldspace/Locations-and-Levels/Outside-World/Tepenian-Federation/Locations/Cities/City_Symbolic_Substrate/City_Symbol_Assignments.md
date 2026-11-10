@@ -107,7 +107,7 @@ coincidence.
 
 | City | Planet | Element | Why |
 |---|---|---|---|
-| Mirny | Saturn | ⏸️ | Built as its own windbreak, unforced pride, doesn't need outside validation |
+| Mirny | Neptune (provisional; Uranus reserved; Saturn not confirmed on re-test, `DR-122`) | Air (confirmed on re-test; one-word label provisional, `DR-122`) | Built as its own windbreak, unforced pride, doesn't need outside validation |
 | Casey | Mars | ⏸️ | Revived from centuries of drifting through other various conditions, back to being oriented around culture |
 | Davis | — | — | ⏸️ **BLANK. Deliberately unset, developer ruling 2026-09-16** — *"for now, for the current time, we can just make that blank."* ⛔ **Do not fill from the breadbasket reading; Davis is also a port city, and the symbol is open** |
 | Kunlun | Pluto | ⏸️ | Among the most physically isolated places in Tepenia, built entirely around observation |

@@ -400,3 +400,5 @@ For people whose lives do not fit it, by construction and without any villain:
 | `DS4` L21's "governing mechanic" label as the `M-151` trap | C2 | A, B confirmed |
 | The `DS4` header's "of the DISTINCTIVE tier" against the row's 100.0 sum | C (first attempt) | A confirmed in Round 3 |
 | Spec L82 chars 423–500 drafted and killed | A, B, C, C2 | all |
+
+*Addenda proposed 2026-11-05 beside this file (piece ST14, `Amendment_Rederivation_ST14_Phases4and5_2026-11-05.md`); this file is not reworded (`DR-102`). The weather warnings travel on the relay (`DR-76`). Read its statements of unread cues, no teacher, no public wind call, blame or carelessness, and a relay restored by position or kept invisibly, as the first generation's (Act 1) and the not-yet-taught's; warning in Phase 4 at L122 and L269 names the wind's own first sign, and the word keeps both uses, that one and the weather warning on the relay, with context deciding (`DR-122`); the lived middle is deferred to the cultural synthesis pass (CST, `DR-108`); spec line numbers are the 230-line spec's (+22 from old L46); live census, founders, tiers and extent per piece ST14, section 2.*

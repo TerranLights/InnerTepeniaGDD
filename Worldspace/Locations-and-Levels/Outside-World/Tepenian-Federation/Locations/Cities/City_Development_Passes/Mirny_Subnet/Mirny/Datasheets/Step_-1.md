@@ -13,7 +13,7 @@
 | Category | Value | Citation |
 |---|---|---|
 | Specs file location | `Cities/Specs/Mirny subnet/Mirny.md` — confirmed on disk at the current (post-reorg) path | Re-verified this turn |
-| Specs file length | 230 lines total (bound for any future read-spec computation) | Re-verified this turn |
+| Specs file length | 252 lines total (bound for any future read-spec computation) *(corrected 2026-11-08, `DR-122`: 230 lines when this sheet was written; from old L46 on, every line now sits 22 lines lower)* | Re-verified 2026-11-08 (line count of `Specs/Mirny subnet/Mirny.md`; the 230-line copy is git `1a48edbc`) |
 | Identity / designation | Mirny | `Specs/Mirny.md` L1 |
 | Real-world coordinate (GPS only) | Mirny Station, Davis Coast, East Antarctica | `Specs/Mirny.md` L3 |
 | Coordinates | ~66°33′S, 93°01′E | `Specs/Mirny.md` L3 |
@@ -23,8 +23,8 @@
 | Highway access | Hwy 110 (Coastal Cut) — east toward Casey/Concordia, west toward Davis/Zhongshan | `Specs/Mirny.md` L7 |
 | Significance field — contains a dated correction already in the source | *"corrected 2026-07-04 — Mirny is Mirny subnet, Concordia is Janbogo subnet, so the Planetary Split Brain severed their Arcanet connection the same as every other inter-subnet link… the real mechanism is physical highway proximity, not Arcanet"* — also states Mirny sits precisely on the Antarctic Circle | `Specs/Mirny.md` L8 |
 | DLC field | "Mirny is a DLC location… which DLC covers the Mirny subnet is TBD" | `Specs/Mirny.md` L9 |
-| Census I (repeat here, full derivation in `Step_0.md`) | 692,971 H / 710,578 R / 1,403,549 *(was 665,901 / 685,529 / 1,351,430 before the `DR-68` census change of 2026-10-28)* | `Specs/Mirny.md` L15 (§"Population & Composition"); cross-verified against `Official_Population_Census.md` L500 — **exact match, no discrepancy** (re-checked 2026-10-30) |
-| Census II | 524,022 H / 528,352 R / 1,052,374 *(was 507,344 / 509,151 / 1,016,495)* | `Specs/Mirny.md` L16 (§"Population & Composition"); cross-verified against `Official_Population_Census.md` L642 — **exact match** (re-checked 2026-10-30) |
+| Census I (repeat here, full derivation in `Step_0.md`) | 692,971 H / 710,578 R / 1,403,549 *(was 665,901 / 685,529 / 1,351,430 before the `DR-68` census change of 2026-10-28; the live figures also carry `DR-90` of 2026-11-02)* | `Specs/Mirny.md` L15 (§"Population & Composition"); cross-verified against `Official_Population_Census.md` L500 — **exact match, no discrepancy** (re-checked 2026-10-30; attribution corrected 2026-11-08, `DR-122`) |
+| Census II | 524,022 H / 528,352 R / 1,052,374 *(was 507,344 / 509,151 / 1,016,495 before the `DR-68` census change of 2026-10-28; the live figures also carry `DR-90` of 2026-11-02)* | `Specs/Mirny.md` L16 (§"Population & Composition"); cross-verified against `Official_Population_Census.md` L642 — **exact match** (re-checked 2026-10-30; attribution corrected 2026-11-08, `DR-122`) |
 
 **Not mechanical / not included here:** the admitted read-range (Step −1's own derivation), the four-category
 classification (PROVIDED/RESERVED/PRODUCED/REQUESTED), any generator presence/absence call, the type-modifier

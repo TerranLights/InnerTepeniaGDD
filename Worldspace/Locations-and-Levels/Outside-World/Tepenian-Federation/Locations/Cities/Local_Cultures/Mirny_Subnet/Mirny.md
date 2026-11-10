@@ -6,7 +6,7 @@
 
 **Subnet:** Mirny ("Australian") — subnet hub
 **Status:** Damaged; partially operational
-**Census II Population:** 507,344 humans / 509,151 robots / 1,016,495 combined
+**Census I Population (governing, `DR-4`):** 692,971 humans / 710,578 robots / 1,403,549 combined · **Census II Population (Orbital Era):** 524,022 humans / 528,352 robots / 1,052,374 combined *(figures per `Specs/Mirny subnet/Mirny.md` L15–L16 and `Official_Population_Census.md` L500, L642; corrected under `DR-112`)*
 **Location:** Davis Coast, East Antarctica (~66°33'S, 93°01'E — within seconds of arc of the exact Antarctic Circle latitude)
 
 **One-liner:** *The city that sits exactly on the line between the polar world and everywhere else — and has never fully belonged to either its founders or the people who now fill it.*
@@ -38,7 +38,7 @@ that founded and named the city … ended up demographically Chinese by scale"] 
 
 ## 2. Founding Story
 
-Mirny Station was one of the oldest continuously occupied Antarctic stations in the real world, operating since 1956; who built it is a coordinate, not a founder. When the Falkland Treaty exiles arrived, Idelsk-Uralia, the establishing country in the Founding Register, with exile groups from Russia, Australia and the Sinian Federation present, inherited substantial Soviet-and-Russian-era infrastructure — a genuine head start. *(Corrected 2026-11-03: [old: "Russian robots and their human allies inherited … similar in kind to what Casey's founders inherited from Australia"]; founders per `DR-46`, `DR-54`; the Casey comparison removed.)*
+Mirny Station was one of the oldest continuously occupied Antarctic stations in the real world, operating since 1956; who built it is a coordinate, not a founder. When the Falkland Treaty exiles arrived, Idelsk-Uralia, the establishing country in the Founding Register and itself also an exile group (`DR-99`), with exile groups from Russia, Australia and the Sinian Federation present, inherited substantial Soviet-and-Russian-era infrastructure — a genuine head start. *(Corrected 2026-11-03: [old: "Russian robots and their human allies inherited … similar in kind to what Casey's founders inherited from Australia"]; founders per `DR-46`, `DR-54`; the Casey comparison removed.)*
 
 The name was never in question. *Mirny* — the sloop that carried Fabian von Bellingshausen's 1819–1821 expedition, the first to circumnavigate Antarctica and among the first human eyes to ever see it — predates Tepenia by centuries. Keeping it was a statement about Antarctica's very beginning, long before any nation's robots were exiled here. **Whose statement it was, and what it meant to them, is OPEN:** the Register names Idelsk-Uralia as the establishing country, with Russia present as an exile group; this file does not rule which community kept the name or why. *(Corrected 2026-11-03: [old: "Russia had been present at Antarctica's very beginning … and intended to remain woven into its story permanently"].)*
 
@@ -50,7 +50,7 @@ As the exile generations passed, broad Pacific-corridor immigration produced a c
 
 ## 3. Climate Character
 
-Mirny's defining environmental fact is wind, not cold — among the windiest coastal stations in Antarctica, with a katabatic regime funneling off the East Antarctic plateau severely enough that sustained events have exceeded 40 m/s (144 km/h). Mean annual temperature sits around −11.2°C, genuinely cold but not Mirny's real character-defining feature; the wind is.
+Mirny's defining environmental fact is wind, not cold — among the windiest coastal stations in Antarctica, with a katabatic regime funneling off the East Antarctic plateau severely enough that sustained events have exceeded 40 m/s (144 km/h). Mean annual temperature sits around −11.2°C, genuinely cold but not Mirny's real character-defining feature; the wind is. **The knowledge the first generation made.** When the first exiles arrived, robots and humans alike, nobody knew this wind: in the first generation or so of settlement they had to learn it on their own, by doing. Once they had it figured out, they taught each other, set up signifiers with a weather report/relay system, and learned to live with the wind and to communicate its dangers to one another. What they made is the knowledge everyone after them is taught. It is public: anyone who wants to may learn it, and an organization of people of both bodies, robots and humans, manages and curates it. The weather warnings travel on the relay, because people have to communicate hazards to each other. Nobody is officially required to go out and restore the relay when it fails; whoever is most strategically able to address the hazard, robot or human, goes, out of a strong sense of community duty, and not going when one is that person is a cause of deep personal guilt, never a penalty. Whether a resident feels a debt to the first generation varies from person to person. Open, and not invented here: the warnings' form and who runs them, the signifiers (to be researched in real-world sources), the organization's name, who teaches the wind today, and who decides who goes out. *(The ruled wind account, stated under `DR-112` and `DR-113`; sources `DR-56` items 2 and 3, `DR-57` item 1, `DR-76`, `DR-80`.)*
 
 The city's relationship to this wind is unromantic and practical — architecture built against it, airlock entries, reinforced structures, a culture that treats severe wind exposure the way it treats most things: as a permanent condition to be engineered around competently, without much drama attached. Mirny's response to its own harsh wind is function-first pragmatism — the wind simply is, and the city works around it. *(Corrected 2026-11-03: [old: "Unlike Denison's pride-in-extremity or Janbogo's warmth-as-refuge … closer to Casey's function-first pragmatism"], comparisons with other cities removed.)*
 
@@ -58,9 +58,9 @@ The city's relationship to this wind is unromantic and practical — architectur
 
 ## 4. Seasonal Rhythms
 
-Sitting almost exactly on the Antarctic Circle gives Mirny an experience of both polar night and midnight sun, but in genuinely minimal form — roughly 4–5 days around each solstice, where the sun grazes the horizon at solar noon (winter) or solar midnight (summer) without fully clearing or fully setting. Neither full darkness nor full endless light — a visible, physical demonstration of the city's threshold position, and its most significant recurring civic moment.
+Sitting almost exactly on the Antarctic Circle gives Mirny an asymmetric year of light, not a balanced one: **no polar night at all**, and **about 29 days of midnight sun**, approximately December 8 to January 5. Refraction and the sun's semidiameter raise the apparent sun by about 0.833°, which shortens polar night and lengthens midnight sun; at 66°33'S Mirny sits north of the polar-night boundary and well south of the midnight-sun one. At the winter solstice the sun grazes the horizon and there is still no polar night; at the summer solstice it grazes the horizon at midnight, inside nearly a month of midnight sun — a visible, physical demonstration of the city's threshold position, and its most significant recurring civic moment *(held for after the CST, `DR-112`)*. *(Light per `Specs/Mirny subnet/Mirny.md` L107–L108, L110, L115–L117, L119, L134, L140; corrected under `DR-112`.)*
 
-These solstice grazing events are observed, quietly, as the year's defining ritual — less a festival than a shared, deliberate act of noticing. The winter solstice event in particular is treated as proof of the city's own liminal identity: the shortest, most marginal light of the year, arriving exactly at the point where the polar world and the world beyond it meet.
+These solstice grazing events are observed, quietly, as the year's defining ritual — less a festival than a shared, deliberate act of noticing. The winter solstice event in particular is treated as proof of the city's own liminal identity: the shortest, most marginal light of the year, arriving exactly at the point where the polar world and the world beyond it meet. *(Held for after the CST, `DR-112`.)*
 
 ---
 
@@ -85,7 +85,7 @@ Mirny's culture is organized around two overlapping thresholds: the geographic o
 
 - **a. Competence over romance.** Mirny doesn't mythologize its hardships or perform its warmth — the wind, the cold, the threshold position are all simply managed, well, without much narrative made of the difficulty.
 - **b. Hospitality character** — Practical and steady rather than effusive; guests are equipped and informed rather than fussed over, consistent with a city whose whole ethos is competent management of hard conditions.
-- **c. A city that notices thresholds** — The solstice-grazing tradition reflects a broader cultural habit: Mirny residents pay attention to liminal moments and edge cases that other cities might not register, an outgrowth of literally living on a geographic line.
+- **c. A city that notices thresholds** — The solstice-grazing tradition reflects a broader cultural habit: Mirny residents pay attention to liminal moments and edge cases that other cities might not register, an outgrowth of literally living on a geographic line. *(Held for after the CST, `DR-112`.)*
 - **d. Public/private divide** — Standard and unremarked; no strong civic pressure toward either communal openness or ceremonial reserve.
 - **e. Privacy as civic value** — Moderate; Mirny's Arcanet culture (see Section 24) skews heavily toward the functional and administrative given its subnet-hub role, leaving personal/social use unremarkable and low-friction.
 - **f. Rough, but proud, established 2026-07-05** — What little entertainment exists is mostly rough, unpolished bars rather than any refined civic leisure culture; Mirny is, by its own residents' reckoning, a rough city. But that roughness sits alongside a genuine, unforced sense of pride and kinship — competence over romance, per the motto above, extends even to how residents feel about the place itself: no one romanticizes it, but plenty of people are quietly proud of it anyway.
@@ -187,7 +187,7 @@ Robot residents concentrate heavily in communications, technical, and wind-engin
 
 ## 18. Religious / Philosophical Landscape
 
-- Russian Orthodox heritage persists quietly among Russian-descended and Idelsk-Uralian families, alongside the secular, philosophical and religious traditions of the six Primary nations' communities (to be itemized after the CST, once who these people are is known; none invented here) — coexisting rather than merging. *(Corrected 2026-11-03: [old: "alongside a growing range of Chinese-heritage secular and philosophical traditions … matching the city's broader cultural pattern"].)*
+- Russian Orthodox heritage persists quietly among Russian-descended and Idelsk-Uralian families, alongside the secular, philosophical and religious traditions of the six Primary nations' communities (to be itemized after the CST, once who these people are is known; none invented here) — coexisting rather than merging. *(Corrected 2026-11-03: [old: "alongside a growing range of Chinese-heritage secular and philosophical traditions … matching the city's broader cultural pattern"].)* *(Held for after the CST, `DR-112`: religion comes after the CST.)*
 - A shared, unstated civic philosophy of competence-and-threshold-awareness functions as the closest thing to a unifying local ethic
 - No dominant robot philosophical tradition; practical orientation prevails over contemplative or mystical schools
 
@@ -232,7 +232,7 @@ Muted — Mirny's civic energy is absorbed by its infrastructural responsibiliti
 
 ## 24. Arcanet Culture
 
-*Corrected 2026-07-04 — the previous version of this section claimed Mirny's Arcanet link to Concordia uniquely survived the Planetary Split Brain. That's wrong: Mirny is Mirny subnet, Concordia is Janbogo subnet, and the Split Brain severed every inter-subnet connection without exception (see the Section 23 correction note above). The distinctive fact that replaces it:* as the Mirny subnet hub, Mirny is the routing node that connects Zhongshan, Casey, Davis, Ariun Nuur, and Kunlun to each other — not to Concordia, but to one another. Mirny's Arcanet culture is accordingly weighted heavily toward infrastructure and relay maintenance, carrying the sober responsibility of being the single point of failure for the whole subnet's internal cohesion: if Mirny's damaged relay infrastructure fails entirely, the other five Mirny subnet cities lose contact not with Concordia (which was never reachable from any of them post-Split-Brain) but with each other. That stake — the subnet's internal connectivity resting on one already-damaged city's continued partial operation — is what gives Mirny's relationship to its own communications network its weight.
+*Corrected 2026-07-04 — the previous version of this section claimed Mirny's Arcanet link to Concordia uniquely survived the Planetary Split Brain. That's wrong: Mirny is Mirny subnet, Concordia is Janbogo subnet, and the Split Brain severed every inter-subnet connection without exception (see the Section 23 correction note above). The distinctive fact that replaces it:* as the Mirny subnet hub, Mirny is the routing node that connects Zhongshan, Casey, Davis, Ariun Nuur, and Kunlun to each other — not to Concordia, but to one another. Mirny's Arcanet culture is accordingly weighted heavily toward infrastructure and relay maintenance, carrying the sober responsibility of being the single point of failure for the whole subnet's internal cohesion: if Mirny's damaged relay infrastructure fails entirely, the other five Mirny subnet cities lose contact not with Concordia (which was never reachable from any of them post-Split-Brain) but with each other. That stake — the subnet's internal connectivity resting on one already-damaged city's continued partial operation — is what gives Mirny's relationship to its own communications network its weight. The same relay also carries the city's own weather warnings, because people have to communicate hazards to each other *(`DR-76`; added under `DR-112`)*.
 
 ---
 
@@ -246,8 +246,8 @@ Muted — Mirny's civic energy is absorbed by its infrastructural responsibiliti
 
 ## 26. Municipal Holidays
 
-- **The Winter Solstice Grazing** *(June, exact date variable)* — the shortest, most marginal light of the year; Mirny's most significant recurring civic observance
-- **The Summer Solstice Grazing** *(December, exact date variable)* — the counterpart observance; less solemn, more anticipatory
+- **The Winter Solstice Grazing** *(June, exact date variable)* — the shortest, most marginal light of the year; Mirny's most significant recurring civic observance *(Held for after the CST, `DR-112`: holidays come after the CST.)*
+- **The Summer Solstice Grazing** *(December, exact date variable)* — the counterpart observance; less solemn, more anticipatory *(Held for after the CST, `DR-112`: holidays come after the CST.)*
 - Additional observances: TBD
 
 ---
@@ -275,7 +275,7 @@ Marked less by a single threshold moment than by a gradual comfort with holding 
 ## 29. Notable Local Landmarks
 
 - **The Antarctic Circle marker** — a civic acknowledgment of the city's exact threshold position; specific form TBD
-- **The solstice observation site** — where residents gather to watch the winter and summer grazing-light events
+- **The solstice observation site** — where residents gather to watch the winter and summer grazing-light events *(Held for after the CST, `DR-112`.)*
 - **The Mirny subnet relay hardware** — the physical Arcanet infrastructure making Mirny the hub of the entire subnet, routing Zhongshan, Casey, Davis, Ariun Nuur, and Kunlun to each other *(corrected 2026-07-04 — previously described as "its last-standing link to Concordia," which doesn't exist; Mirny and Concordia are different subnets, severed by the Split Brain like every other inter-subnet pair)*
 - Additional named locations: TBD
 
@@ -285,7 +285,7 @@ Marked less by a single threshold moment than by a gradual comfort with holding 
 
 - **The Founding (post-Falkland Treaty, on substantial inherited Soviet/Russian infrastructure)** — establishment of the Tepenian-era city on one of Antarctica's oldest continuously occupied sites
 - **[Placeholder — the demographic shift to a population with no majority nation]** — likely gradual rather than a single event, but a culturally significant era in the city's own self-understanding. *(Corrected 2026-11-03: [old: "to Chinese-majority population"]; the Sinian Federation is 12.00%, one of six Primaries, and no nation holds a majority.)*
-- **The Winter and Summer Solstice Grazing** *(annual)* — see Section 26
+- **The Winter and Summer Solstice Grazing** *(annual)* — see Section 26 *(Held for after the CST, `DR-112`: holidays come after the CST.)*
 
 ---
 
@@ -300,4 +300,4 @@ Marked less by a single threshold moment than by a gradual comfort with holding 
 
 Mirny-descended people in Concordia carry a specific, quiet awareness of connection — the Hwy 110 road link, and Mirny's relay role for its own subnet. *(Corrected 2026-11-03: [old: "…that other diaspora communities don't quite share — the intra-subnet Arcanet link … a different emotional position than fully severed cities"]. The comparisons were removed, and the old "Arcanet link" to Concordia contradicted Section 23's correction.)* They're recognizable by a steady, undemonstrative competence, a comfort with holding two things at once — the city's founding-era roots and its much larger, later-arriving population — without needing to resolve which one is "really" theirs, and — among those old enough to remember — a particular, quiet pride in the *Mirny*'s name and what it meant to have been founded by the ship that first saw the whole continent.
 
-> ⚠ **Founders corrected 2026-10-13.** `Founding_Register.md` rules this city's founders as: Idelsk-Uralia as the establishing country, with Russia, Australia and the Sinian Federation (China) present as exile groups (`DR-46`, `DR-54`). Any line in this sheet that names the founders differently, or builds on an earlier founding, predates that ruling and is a revisit item. *(Added at the end so line numbers elsewhere stay stable.)*
+> ⚠ **Founders corrected 2026-10-13.** `Founding_Register.md` rules this city's founders as: Idelsk-Uralia as the establishing country, with four exile groups present: Idelsk-Uralia (also), Russia, Australia and the Sinian Federation (China) (`DR-46`, `DR-54`, `DR-99`; `Founding_Register.md` L57). Together the four are 23.24 % of each body, a minority of the long-run composition (`DR-99`). Any line in this sheet that names the founders differently, or builds on an earlier founding, predates that ruling and is a revisit item. *(Added at the end so line numbers elsewhere stay stable.)*
