@@ -548,7 +548,7 @@ and the distributional caveat that **Halley and Neumayer have no ice-free land a
 > one, which is why they are queued rather than decided inside a pass** *(`02` Path 6: this system prepares;
 > it never decides)*.
 
-## 🔵 DRQ-10 — ⭐⭐ A CITY WHOSE POPULATION BAND CROSSES `4 → 5` INSIDE ITS OWN DECLARED FRAME
+## ✅ DRQ-10 — ⭐⭐ A CITY WHOSE POPULATION BAND CROSSES `4 → 5` INSIDE ITS OWN DECLARED FRAME — **ANSWERED 2026-11-10 (`DR-131` item 1): closed by `DR-4`; Census I governs, so Shirayuki is Band 5**
 
 **The question.** **`01` §2 calls the scale band *"the single most consequential declaration."*** **Shirayuki
 sits at `1,060,482` at Census I — `6%` above the `~1M` Band 4/5 line — and `655,492` at Census II, well inside
@@ -576,7 +576,7 @@ straddle, it is a band crossing INSIDE one frame, and the taxonomy has no entry 
 Phase 4 (Ordinary Life), Phase 9 (Populations) and Gate 11** — *and it is very unlikely to be unique to
 Shirayuki; any city near the 1M line across a census pair inherits the same question.*
 
-## 🔵 DRQ-11 — ⭐⭐⭐ WHO ALLOCATED THE LARSEMANN HILLS' ~40 km² BETWEEN THREE CITIES — **or did nobody?**
+## 🔵 DRQ-11 — ⭐⭐⭐ WHO ALLOCATED THE LARSEMANN HILLS' ~40 km² BETWEEN THREE CITIES — **or did nobody?** — **NARROWED AND SPLIT 2026-11-10 (`DR-130` item 4, `DR-131` item 5): the amounts are arithmetic by Census I share (`DR-105` item 4), presentation only; still open: who, in the world, divided the rock among the three cities, and who holds the rock inside each city**
 
 **The question.** **Shirayuki, Sinheung and Zhongshan share ONE ~40 km² patch of ice-free rock and need
 `353–504 km²` between them.** ***~89–92% of all three cities stands on ice.*** **No canon states how the rock
@@ -653,7 +653,7 @@ separately on `Inspirational-Influences.md`, because the RWBEM cannot run on a d
 
 ---
 
-## 🔵 DRQ-13 — ⚠⚠ TWO CANON INSTRUMENTS CLASSIFY SHIRAYUKI'S GROUND DIFFERENTLY, AND NEITHER KNOWS ABOUT THE OTHER
+## ✅ DRQ-13 — ⚠⚠ TWO CANON INSTRUMENTS CLASSIFY SHIRAYUKI'S GROUND DIFFERENTLY, AND NEITHER KNOWS ABOUT THE OTHER — **ANSWERED 2026-11-10 (`DR-131` item 1): closed by `DR-105` item 4, Shirayuki is rock-founded and the site sets the coefficient; any ice term waits for measurement (`DR-131` item 6)**
 
 **Raised 2026-09-06, Shirayuki `Step 2` re-run.** ⭐ **Not a culture-pass question — a Division of Industry
 question — so it is queued rather than resolved inside a city pass.**
