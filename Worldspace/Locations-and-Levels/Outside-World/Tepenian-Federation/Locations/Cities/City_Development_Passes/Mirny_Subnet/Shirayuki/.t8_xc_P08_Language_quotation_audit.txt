@@ -1,0 +1,41 @@
+pass audited : Shirayuki
+corpus mode  : default (own pass excluded)
+corpus files : 6812   chars: 105,888,057
+files audited: Amendment_Rederivation_P08_Language_2026-11-10.md
+own-pass mode: a quotation may also be found in this pass's OTHER files (never in its own file)
+
+=== POSITIVE CONTROLS ===
+  [easy                      ] FOUND     a terminus is nobody's midpoint
+  [HARD - blockquote wrap    ] FOUND     A pass may not proceed to Step 5 with a NEVER CITED row
+  [HARD - outside Worldspace ] FOUND     Paste raw QA scan output into the QA block. Never summa
+  [HARD - case mismatch      ] FOUND     YOU GO TO ESPERANZA AND YOU DO NOT COME HOME FOR FOUR Y
+  [HARD - long wrapped       ] FOUND     Different content is not differentiation; a different q
+
+  INSTRUMENT VALID: YES
+  NEGATIVE CONTROL (must be absent): PASS - absent
+
+=== QUOTATION AUDIT ===
+fragments tested (single-line, ellipsis-split, >=7 words): 53
+NOT FOUND in corpus: 15
+  of those, in TABLE CELLS : 1
+  of those, in PROSE       : 14
+
+  [Amendment_Rederivation_P08_Language_2026-11-10.md:34]           the conclusion survives in a reduced and qualified form
+  [Amendment_Rederivation_P08_Language_2026-11-10.md:516]           ). the rule's own worked example ties language to where a robot
+  [Amendment_Rederivation_P08_Language_2026-11-10.md:651]  [CELL]  marks a resident in either of the city's two languages
+  [Amendment_Rederivation_P08_Language_2026-11-10.md:682]           recommending the same answer (b-132, b's first question). round 3: b withdrew
+  [Amendment_Rederivation_P08_Language_2026-11-10.md:699]           (a-24); b placed it in shirayuki's ordinary speech
+  [Amendment_Rederivation_P08_Language_2026-11-10.md:723]           which route any single word took is not decided
+  [Amendment_Rederivation_P08_Language_2026-11-10.md:854]           marks a resident in either of the city's two languages
+  [Amendment_Rederivation_P08_Language_2026-11-10.md:855]           as a stated source of the register's words (b-r3-15); b-132's
+  [Amendment_Rederivation_P08_Language_2026-11-10.md:963]           p8 l408 names a vocabulary as the source, and
+  [Amendment_Rederivation_P08_Language_2026-11-10.md:1003]           unable to verify if domain en.wikipedia.org is safe to fetch
+  [Amendment_Rederivation_P08_Language_2026-11-10.md:1012]           probably the next biggest language that donated vocabulary was japanese
+  [Amendment_Rederivation_P08_Language_2026-11-10.md:1016]           craft history and the merging of tool traditions: carpenters of japanese ancestry in hawaii
+  [Amendment_Rederivation_P08_Language_2026-11-10.md:1031]           eh, no wear your good clothes for paint the house, go put on your boro boros
+  [Amendment_Rederivation_P08_Language_2026-11-10.md:1062]           old clothes worn for activities like house painting, car repair, etc
+  [Amendment_Rederivation_P08_Language_2026-11-10.md:1064]           giri giri, used only for b-141); f9 https://imagesofoldhawaii.com/hole-hole-bushi/ (
+
+⚠ TRIAGE BY HAND. A miss is not yet a defect: the pass quoting ITSELF, and
+  connective prose captured between two adjacent quotations, both show here.
+  Confirm each at source before calling it a defect.

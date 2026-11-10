@@ -1,0 +1,39 @@
+pass audited : Shirayuki
+corpus mode  : default (own pass excluded)
+corpus files : 6812   chars: 105,888,057
+files audited: Amendment_Rederivation_P00_Band_2026-11-10.md
+own-pass mode: a quotation may also be found in this pass's OTHER files (never in its own file)
+
+=== POSITIVE CONTROLS ===
+  [easy                      ] FOUND     a terminus is nobody's midpoint
+  [HARD - blockquote wrap    ] FOUND     A pass may not proceed to Step 5 with a NEVER CITED row
+  [HARD - outside Worldspace ] FOUND     Paste raw QA scan output into the QA block. Never summa
+  [HARD - case mismatch      ] FOUND     YOU GO TO ESPERANZA AND YOU DO NOT COME HOME FOR FOUR Y
+  [HARD - long wrapped       ] FOUND     Different content is not differentiation; a different q
+
+  INSTRUMENT VALID: YES
+  NEGATIVE CONTROL (must be absent): PASS - absent
+
+=== QUOTATION AUDIT ===
+fragments tested (single-line, ellipsis-split, >=7 words): 44
+NOT FOUND in corpus: 13
+  of those, in TABLE CELLS : 0
+  of those, in PROSE       : 13
+
+  [Amendment_Rederivation_P00_Band_2026-11-10.md:93]           (log l230). the obligation at the fifty-thousand threshold
+  [Amendment_Rederivation_P00_Band_2026-11-10.md:119]           (note l291). the queue text still carries the pass's figures
+  [Amendment_Rederivation_P00_Band_2026-11-10.md:129]           the figures on their own would not move the conclusion
+  [Amendment_Rederivation_P00_Band_2026-11-10.md:227]           (frame l163). why it is not a rounding question
+  [Amendment_Rederivation_P00_Band_2026-11-10.md:286]           (log l218). the footprint the note computes
+  [Amendment_Rederivation_P00_Band_2026-11-10.md:327]           (01 l221). it also follows from the ruling's level for the meantime
+  [Amendment_Rederivation_P00_Band_2026-11-10.md:434]           (frame l289); the spec's vision-session notes are not read as an input (frame l289-l290)
+  [Amendment_Rederivation_P00_Band_2026-11-10.md:497]           (note l56) and gives the city's rock share of its footprint as
+  [Amendment_Rederivation_P00_Band_2026-11-10.md:688]           a band label beside it would read as a second band
+  [Amendment_Rederivation_P00_Band_2026-11-10.md:690]           in band 4's range; a figure, not a second band
+  [Amendment_Rederivation_P00_Band_2026-11-10.md:692]           the same band; census ii is not a second declaration
+  [Amendment_Rederivation_P00_Band_2026-11-10.md:699]           so the city is built for 1,112,600 across the whole frame
+  [Amendment_Rederivation_P00_Band_2026-11-10.md:971]           the same band; census ii is not a second declaration
+
+⚠ TRIAGE BY HAND. A miss is not yet a defect: the pass quoting ITSELF, and
+  connective prose captured between two adjacent quotations, both show here.
+  Confirm each at source before calling it a defect.

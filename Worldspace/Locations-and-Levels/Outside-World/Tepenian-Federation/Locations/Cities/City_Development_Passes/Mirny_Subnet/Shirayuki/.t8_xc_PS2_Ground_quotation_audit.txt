@@ -1,0 +1,29 @@
+pass audited : Shirayuki
+corpus mode  : default (own pass excluded)
+corpus files : 6812   chars: 105,888,057
+files audited: Amendment_Rederivation_PS2_Ground_2026-11-10.md
+own-pass mode: a quotation may also be found in this pass's OTHER files (never in its own file)
+
+=== POSITIVE CONTROLS ===
+  [easy                      ] FOUND     a terminus is nobody's midpoint
+  [HARD - blockquote wrap    ] FOUND     A pass may not proceed to Step 5 with a NEVER CITED row
+  [HARD - outside Worldspace ] FOUND     Paste raw QA scan output into the QA block. Never summa
+  [HARD - case mismatch      ] FOUND     YOU GO TO ESPERANZA AND YOU DO NOT COME HOME FOR FOUR Y
+  [HARD - long wrapped       ] FOUND     Different content is not differentiation; a different q
+
+  INSTRUMENT VALID: YES
+  NEGATIVE CONTROL (must be absent): PASS - absent
+
+=== QUOTATION AUDIT ===
+fragments tested (single-line, ellipsis-split, >=7 words): 99
+NOT FOUND in corpus: 3
+  of those, in TABLE CELLS : 0
+  of those, in PROSE       : 3
+
+  [Amendment_Rederivation_PS2_Ground_2026-11-10.md:101]           (l62), baseline 40.9%, mandated 11.8%, free 47.3%, on 890,078 workers before the cut, with
+  [Amendment_Rederivation_PS2_Ground_2026-11-10.md:218]           for a site labeled rock-founded (l260). the extent work gives
+  [Amendment_Rederivation_PS2_Ground_2026-11-10.md:475]           (l126), but it has no more standing over the rock than the three separate governments had
+
+⚠ TRIAGE BY HAND. A miss is not yet a defect: the pass quoting ITSELF, and
+  connective prose captured between two adjacent quotations, both show here.
+  Confirm each at source before calling it a defect.

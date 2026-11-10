@@ -1,0 +1,33 @@
+pass audited : Shirayuki
+corpus mode  : default (own pass excluded)
+corpus files : 6812   chars: 105,888,057
+files audited: Amendment_Rederivation_P05_Relations_2026-11-10.md
+own-pass mode: a quotation may also be found in this pass's OTHER files (never in its own file)
+
+=== POSITIVE CONTROLS ===
+  [easy                      ] FOUND     a terminus is nobody's midpoint
+  [HARD - blockquote wrap    ] FOUND     A pass may not proceed to Step 5 with a NEVER CITED row
+  [HARD - outside Worldspace ] FOUND     Paste raw QA scan output into the QA block. Never summa
+  [HARD - case mismatch      ] FOUND     YOU GO TO ESPERANZA AND YOU DO NOT COME HOME FOR FOUR Y
+  [HARD - long wrapped       ] FOUND     Different content is not differentiation; a different q
+
+  INSTRUMENT VALID: YES
+  NEGATIVE CONTROL (must be absent): PASS - absent
+
+=== QUOTATION AUDIT ===
+fragments tested (single-line, ellipsis-split, >=7 words): 60
+NOT FOUND in corpus: 7
+  of those, in TABLE CELLS : 1
+  of those, in PROSE       : 6
+
+  [Amendment_Rederivation_P05_Relations_2026-11-10.md:45]  [CELL]  (note l316); p5 l89-l92, l258 and the status lines
+  [Amendment_Rederivation_P05_Relations_2026-11-10.md:168]           (ports l657), and it is about 8 km away and
+  [Amendment_Rederivation_P05_Relations_2026-11-10.md:302]           (l699); the tie was re-grounded on highway 4, not deleted (l700, described)
+  [Amendment_Rederivation_P05_Relations_2026-11-10.md:517]           (l648), at l654-l655. the scope block's object is the mechanism (
+  [Amendment_Rederivation_P05_Relations_2026-11-10.md:518]           l690), and it calls the port reasoning infrastructure (
+  [Amendment_Rederivation_P05_Relations_2026-11-10.md:764]           (l131), quoting the pass's set-aside and ending
+  [Amendment_Rederivation_P05_Relations_2026-11-10.md:1105]           first read as an own-lines question, then cut as a ranking (b-137)
+
+⚠ TRIAGE BY HAND. A miss is not yet a defect: the pass quoting ITSELF, and
+  connective prose captured between two adjacent quotations, both show here.
+  Confirm each at source before calling it a defect.

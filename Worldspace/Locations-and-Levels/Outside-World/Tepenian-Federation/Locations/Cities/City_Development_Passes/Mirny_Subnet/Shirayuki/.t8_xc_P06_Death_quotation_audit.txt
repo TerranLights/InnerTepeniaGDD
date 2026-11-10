@@ -1,0 +1,79 @@
+pass audited : Shirayuki
+corpus mode  : default (own pass excluded)
+corpus files : 6812   chars: 105,888,057
+files audited: Amendment_Rederivation_P06_Death_2026-11-10.md
+own-pass mode: a quotation may also be found in this pass's OTHER files (never in its own file)
+
+=== POSITIVE CONTROLS ===
+  [easy                      ] FOUND     a terminus is nobody's midpoint
+  [HARD - blockquote wrap    ] FOUND     A pass may not proceed to Step 5 with a NEVER CITED row
+  [HARD - outside Worldspace ] FOUND     Paste raw QA scan output into the QA block. Never summa
+  [HARD - case mismatch      ] FOUND     YOU GO TO ESPERANZA AND YOU DO NOT COME HOME FOR FOUR Y
+  [HARD - long wrapped       ] FOUND     Different content is not differentiation; a different q
+
+  INSTRUMENT VALID: YES
+  NEGATIVE CONTROL (must be absent): PASS - absent
+
+=== QUOTATION AUDIT ===
+fragments tested (single-line, ellipsis-split, >=7 words): 137
+NOT FOUND in corpus: 53
+  of those, in TABLE CELLS : 1
+  of those, in PROSE       : 52
+
+  [Amendment_Rederivation_P06_Death_2026-11-10.md:13]           (first check l2). its four decision points (first check l54-l57): sry-u02-32, whether the refinement survives in a reduced form on
+  [Amendment_Rederivation_P06_Death_2026-11-10.md:13]           is withdrawn; sry-u02-33, whether the different aging of metal and calcium brings the
+  [Amendment_Rederivation_P06_Death_2026-11-10.md:13]           problem into the ossuary itself; sry-u02-34, whether the
+  [Amendment_Rederivation_P06_Death_2026-11-10.md:29]           (l113). the pass says of the share of the city on ice
+  [Amendment_Rederivation_P06_Death_2026-11-10.md:38]           (meaning l154) and its summary of the proposition as
+  [Amendment_Rederivation_P06_Death_2026-11-10.md:38]           (l155); section c, which quotes the proposition (l178) and measures the ossuary against
+  [Amendment_Rederivation_P06_Death_2026-11-10.md:48]           physiology l128); no admitted line ties it to any faith. it is not a reason to site a faith here, and not a reason to read the cit
+  [Amendment_Rederivation_P06_Death_2026-11-10.md:48]           proposition (l155) as devotional. either move would be the error the pass names
+  [Amendment_Rederivation_P06_Death_2026-11-10.md:59]           (robot physiology and cultural practices.md, developer ruling)
+  [Amendment_Rederivation_P06_Death_2026-11-10.md:66]           they die when something kills them, which means they die in incidents: a dome breach, a collapse, a grid failure, a war
+  [Amendment_Rederivation_P06_Death_2026-11-10.md:89]           to exist because humans die sooner (l143). so it is a national practice, not the national practice for the dead. the phrase at l17
+  [Amendment_Rederivation_P06_Death_2026-11-10.md:96]           does not follow, for either half. the local value is
+  [Amendment_Rederivation_P06_Death_2026-11-10.md:96]           (meaning l53-l54). on the admitted lines canon gives the ossuary three things, none of them attention: its standing, by what it is
+  [Amendment_Rederivation_P06_Death_2026-11-10.md:96]           l128); its record and its look, in terms of duration (
+  [Amendment_Rederivation_P06_Death_2026-11-10.md:96]           l113, and l114); and its legibility, by its materials (
+  [Amendment_Rederivation_P06_Death_2026-11-10.md:96]           l96; l114). no admitted line gives attention any effect on either half. the
+  [Amendment_Rederivation_P06_Death_2026-11-10.md:99]           the ossuary is a keeping-practice for the robot dead
+  [Amendment_Rederivation_P06_Death_2026-11-10.md:100]           the keeping-practice keeps the robot dead and lets the human dead fade
+  [Amendment_Rederivation_P06_Death_2026-11-10.md:102]           (meaning l59); the ossuary's metal is held by its material
+  [Amendment_Rederivation_P06_Death_2026-11-10.md:102]           (physiology l111-l112). the resemblance does not restore
+  [Amendment_Rederivation_P06_Death_2026-11-10.md:105]           problem into the ossuary itself. l178 names the dead
+  [Amendment_Rederivation_P06_Death_2026-11-10.md:105]           canon gives that phrase a physical object inside the ossuary
+  [Amendment_Rederivation_P06_Death_2026-11-10.md:107]           at l178 is no longer uniform: on the admitted lines it falls on the human half. its physical expression is canon's own
+  [Amendment_Rederivation_P06_Death_2026-11-10.md:107]           (l92) loses the legibility of one side of it while both sides stay inside (
+  [Amendment_Rederivation_P06_Death_2026-11-10.md:108]           (l179) is withdrawn as unsupported and restated as a question. it is not replaced with
+  [Amendment_Rederivation_P06_Death_2026-11-10.md:112]           now has a physical object in canon, the calcium half's legibility (physiology l95-l99)
+  [Amendment_Rederivation_P06_Death_2026-11-10.md:122]           and the purpose of recording the matter for a later pass. what does not survive as written: the definite article in
+  [Amendment_Rederivation_P06_Death_2026-11-10.md:135]           (physiology l98). it is a case of the general sentence
+  [Amendment_Rederivation_P06_Death_2026-11-10.md:198]  [CELL]  lean withdrawn and restated as a question; not replaced with
+  [Amendment_Rederivation_P06_Death_2026-11-10.md:244]           a's summary and its proposed text say the calcium half
+  [Amendment_Rederivation_P06_Death_2026-11-10.md:244]           (a-42). b and c contradict it on physiology l98
+  [Amendment_Rederivation_P06_Death_2026-11-10.md:244]           (b-r3-5, b-r3-11; c-r3-6, c-r3-11). c narrows its own milder form (
+  [Amendment_Rederivation_P06_Death_2026-11-10.md:245]           only with canon's sense (holding and not taking) stated beside it (a-r3-10). b: whether to keep the pass's word at all is a develo
+  [Amendment_Rederivation_P06_Death_2026-11-10.md:245]           for the proposition's own sense, because using it for holding repeats the slide l179 made (c-r3-29, c-r3-43). merged: the proposed
+  [Amendment_Rederivation_P06_Death_2026-11-10.md:255]           (b-126). after round 3, a finds that l58 states no base and narrows its own word to
+  [Amendment_Rederivation_P06_Death_2026-11-10.md:267]           in later wording. b withdrew the article (b-144) but used the phrase again in b-148 and b-152; c asks that
+  [Amendment_Rederivation_P06_Death_2026-11-10.md:288]           (a-r3-40); burial (physiology l108) is not a partial answer, because it says what canon rules out nationally, not what the city do
+  [Amendment_Rederivation_P06_Death_2026-11-10.md:290]           killed (c-237); the accumulating-record resemblance moved from support to form only (c-238)
+  [Amendment_Rederivation_P06_Death_2026-11-10.md:290]           (c-239); incident deaths in the summer window demoted from a finding to a parked shape (c-244); c-219 and c-222 narrowed so that w
+  [Amendment_Rederivation_P06_Death_2026-11-10.md:290]           (c-r3-43); burial added (c-r3-44); c-223 narrowed (c-r3-45)
+  [Amendment_Rederivation_P06_Death_2026-11-10.md:302]           at physiology l111-l112 (b-112). checked against the source: those words sit wholly on l112, since l111 ends
+  [Amendment_Rederivation_P06_Death_2026-11-10.md:302]           (a-r3-7). they are cited here as l111-l112 only where
+  [Amendment_Rederivation_P06_Death_2026-11-10.md:304]           (physiology l113) without the qualifier that follows it on the same span
+  [Amendment_Rederivation_P06_Death_2026-11-10.md:304]           (l113) and l114 (b-124, b-148; c-r3-27). here the qualifier is carried wherever
+  [Amendment_Rederivation_P06_Death_2026-11-10.md:306]           summer community time is already committed to three workloads
+  [Amendment_Rederivation_P06_Death_2026-11-10.md:315]           survive options: (a) keep l179 as written; (b) the first check's reduced form
+  [Amendment_Rederivation_P06_Death_2026-11-10.md:315]           (first check l54); (c) the merged restatement of p06 death.37, which uses
+  [Amendment_Rederivation_P06_Death_2026-11-10.md:315]           for the ossuary; (d) the same restatement, keeping
+  [Amendment_Rederivation_P06_Death_2026-11-10.md:315]           with canon's sense (holding and not taking) stated beside it; (e) withdraw the refinement and leave l178's question bare. recommen
+  [Amendment_Rederivation_P06_Death_2026-11-10.md:315]           which admitted lines no longer support; (b) describes half of a structure canon calls one; (e) discards a note whose purpose, reco
+  [Amendment_Rederivation_P06_Death_2026-11-10.md:317]           (l179) has no admitted line. options: (a) strike it now, as proposed, and hold the question for when the mortuary question is take
+  [Amendment_Rederivation_P06_Death_2026-11-10.md:323]           (physiology l170) reach options: (a) the deferred block's analysis only (l147-l169), so the developer's words at l143 and the agin
+  [Amendment_Rederivation_P06_Death_2026-11-10.md:325]           (physiology l105-l106), and falls to religion and community (l173-l174); in the city
+
+⚠ TRIAGE BY HAND. A miss is not yet a defect: the pass quoting ITSELF, and
+  connective prose captured between two adjacent quotations, both show here.
+  Confirm each at source before calling it a defect.

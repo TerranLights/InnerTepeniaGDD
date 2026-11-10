@@ -1,0 +1,58 @@
+pass audited : Shirayuki
+corpus mode  : default (own pass excluded)
+corpus files : 6812   chars: 105,888,057
+files audited: Amendment_Rederivation_P02A_Composition_2026-11-10.md
+own-pass mode: a quotation may also be found in this pass's OTHER files (never in its own file)
+
+=== POSITIVE CONTROLS ===
+  [easy                      ] FOUND     a terminus is nobody's midpoint
+  [HARD - blockquote wrap    ] FOUND     A pass may not proceed to Step 5 with a NEVER CITED row
+  [HARD - outside Worldspace ] FOUND     Paste raw QA scan output into the QA block. Never summa
+  [HARD - case mismatch      ] FOUND     YOU GO TO ESPERANZA AND YOU DO NOT COME HOME FOR FOUR Y
+  [HARD - long wrapped       ] FOUND     Different content is not differentiation; a different q
+
+  INSTRUMENT VALID: YES
+  NEGATIVE CONTROL (must be absent): PASS - absent
+
+=== QUOTATION AUDIT ===
+fragments tested (single-line, ellipsis-split, >=7 words): 105
+NOT FOUND in corpus: 32
+  of those, in TABLE CELLS : 1
+  of those, in PROSE       : 31
+
+  [Amendment_Rederivation_P02A_Composition_2026-11-10.md:2]           amendment rederivation p02a composition 2026-11-10b t8 rounds.md
+  [Amendment_Rederivation_P02A_Composition_2026-11-10.md:37]           (log l474). a second limit joins the first
+  [Amendment_Rederivation_P02A_Composition_2026-11-10.md:59]           (log l472), so neither significant origin ranks above the other. in-fiction a headcount may be stated (log l473
+  [Amendment_Rederivation_P02A_Composition_2026-11-10.md:90]           (l79-l80), is replaced by a developer ruling that it depends partly on when a robot was built, as well as where (l80-l81). act 1
+  [Amendment_Rederivation_P02A_Composition_2026-11-10.md:98]           runbook l2237-l2238), now through the community she came online in, and the developer's word
+  [Amendment_Rederivation_P02A_Composition_2026-11-10.md:213]           is identical for both (l78). the narrow finding: the population
+  [Amendment_Rederivation_P02A_Composition_2026-11-10.md:219]           to the community she came online in (log l458; runbook l2236), and l70's
+  [Amendment_Rederivation_P02A_Composition_2026-11-10.md:228]           (log l460); the derived flags (l81, l85, l337); the deferral to phase 10 and step 5 (l84
+  [Amendment_Rederivation_P02A_Composition_2026-11-10.md:295]  [CELL]  a (a-38), c (c-236), b (b-148) b narrowed (b-r3-11 item 3); a-r3-11 written (conservative): split b (round 1, kept
+  [Amendment_Rederivation_P02A_Composition_2026-11-10.md:343]           (point .54). b kept the whole phrase on a new ground (b-148); a and c dropped
+  [Amendment_Rederivation_P02A_Composition_2026-11-10.md:343]           because a pair is structurally available (a-38, a-r3-11; c-236). b narrowed to
+  [Amendment_Rederivation_P02A_Composition_2026-11-10.md:359]           (point .14). c wrote none present on admitted lines (c-219); a wrote none sited (a-18). c adopted a's phrase in round 3 as closer 
+  [Amendment_Rederivation_P02A_Composition_2026-11-10.md:394]           rowless pools (now three), the unconditional floor
+  [Amendment_Rederivation_P02A_Composition_2026-11-10.md:394]           as a ground for tier standing, and its recommendation that robots arrived with the founders; and narrowed the act 1 second pole an
+  [Amendment_Rederivation_P02A_Composition_2026-11-10.md:432]           i argue that the political salience of a cultural cleavage will depend on the sizes of the groups that it defines relative to the 
+  [Amendment_Rederivation_P02A_Composition_2026-11-10.md:432]           large enough to constitute viable coalitions in the competition for political power
+  [Amendment_Rederivation_P02A_Composition_2026-11-10.md:432]           small relative to the country as a whole and, thus, not useful to mobilize as bases of political support
+  [Amendment_Rederivation_P02A_Composition_2026-11-10.md:435]           american economic review 102(4), 2012, pp. 1310 to 1342; text extracted to standard output). its footnote 4 quotes horowitz (1985,
+  [Amendment_Rederivation_P02A_Composition_2026-11-10.md:438]           during periods of single-party rule, tribal identities serve as the axis of electoral mobilization and self-identification
+  [Amendment_Rederivation_P02A_Composition_2026-11-10.md:438]           during periods of multi-party rule, broader language group identities play this role
+  [Amendment_Rederivation_P02A_Composition_2026-11-10.md:444]           the political salience of cultural difference: why chewas and tumbukas are allies in zambia and adversaries in malawi
+  [Amendment_Rederivation_P02A_Composition_2026-11-10.md:444]           i document that, while the objective cultural differences between chewas and tumbukas on both sides of the border are identical, t
+  [Amendment_Rederivation_P02A_Composition_2026-11-10.md:444]           i argue that the political salience of a cultural cleavage will depend on the sizes of the groups that it defines relative to the 
+  [Amendment_Rederivation_P02A_Composition_2026-11-10.md:458]           ethnic polarization, potential conflict, and civil wars
+  [Amendment_Rederivation_P02A_Composition_2026-11-10.md:458]           the original purpose of this index was to capture how far the distribution of the ethnic groups is from the (1/2, 0, 0
+  [Amendment_Rederivation_P02A_Composition_2026-11-10.md:458]           0, 1/2) distribution (bipolar), which represents the highest level of polarization
+  [Amendment_Rederivation_P02A_Composition_2026-11-10.md:458]           you also need the minority to be large and not divided into many different groups
+  [Amendment_Rederivation_P02A_Composition_2026-11-10.md:459]           latino group consciousness and perceptions of commonality with african americans
+  [Amendment_Rederivation_P02A_Composition_2026-11-10.md:459]           however, common circumstances do not necessarily lead to perceptions of commonality between latinos and african americans
+  [Amendment_Rederivation_P02A_Composition_2026-11-10.md:459]           this analysis demonstrates that before any meaningful political alliances can be formed between the nation's two largest minority 
+  [Amendment_Rederivation_P02A_Composition_2026-11-10.md:460]           they are not competing for the same voters, and so can more easily join in opposition to their primary electoral competitors
+  [Amendment_Rederivation_P02A_Composition_2026-11-10.md:461]           how divisions within immigrant communities can cripple efforts to mobilize immigrants politically
+
+⚠ TRIAGE BY HAND. A miss is not yet a defect: the pass quoting ITSELF, and
+  connective prose captured between two adjacent quotations, both show here.
+  Confirm each at source before calling it a defect.
