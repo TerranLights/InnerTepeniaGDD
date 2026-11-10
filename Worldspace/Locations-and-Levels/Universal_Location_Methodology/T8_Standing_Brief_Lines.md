@@ -40,6 +40,14 @@ Where a line is addressed to the readers it is written in the second person; whe
 19. **Generate the brief's results section, and its count, from the list of results** *(the rulings' headings, the verified-results list); never type a count by hand.* *(Added 2026-11-04, `M-309`/OBS-6.)*
 20. **Give each piece, and each reader within it, its own disjoint number ranges in the brief before Round 1** *(for example reader A from 1, reader B from 101, reader C from 201); the merge renumbers.* *(Added 2026-11-04, `M-310`/OBS-7, `M-266`.)*
 
+*Lines 21 to 25, added 2026-11-09, are numbered on so that lines 1–20 keep their numbers.*
+
+21. **When a reading list includes a ruling, scan the rulings log for any later ruling that answers a question the included ruling lists as "not decided", and add the later ruling to the list.** *A ruling that settled four composition rows was missing from two reading lists and was caught only at Round 3.* *(Added 2026-11-09, `M-320`; amendment layer.)*
+22. **State a pass's ground by reading the pass's own lines, never from a summary of it.** *A brief that paraphrases a ground from a summary (a drift review, an earlier record) is checked against the lines before it is dispatched; briefs written from a summary misstated a pass's ground, and the readers found it.* *(Added 2026-11-09, `M-320`; amendment layer.)*
+23. **Give each reader its own private staging folder.** *Two readers never share one: a reader that finds another's output file in a shared folder has seen something it should not, and helper scripts left in a shared folder blur whose they are.* *(Added 2026-11-09, `M-320`; amendment layer.)*
+24. **Generate one brief, and read it end to end before any reader is dispatched.** *Regenerate every brief if the generator changes. A template once printed a literal placeholder instead of the piece name, and it was found only by reading a generated brief.* *(Added 2026-11-09, `M-320`; amendment layer.)*
+25. **A brief that relies on a standing answer cites the developer's verbatim words in the entry that records them for this location**, never an entry that records the same words for another location. *(Added 2026-11-09, `M-320`; amendment layer.)*
+
 ---
 
 ## C · Post-write checks, as the tools now work (2026-10-21)

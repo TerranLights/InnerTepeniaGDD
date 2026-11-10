@@ -145,6 +145,9 @@ def extract_entries(block_lines):
     return entries
 
 
+SKIPPED_FORBIDDEN = []   # paths of Pre-Trip table rows marked forbidden; filled by phase_rows, reported by main
+
+
 def phase_rows(lines, n):
     rows = []
     in_d = False
@@ -156,7 +159,14 @@ def phase_rows(lines, n):
         if in_d and l.startswith("| **%s** |" % n):
             cells = [c.strip() for c in l.strip().strip("|").split("|")]
             if len(cells) >= 3:
+                status = cells[4] if len(cells) > 4 else ""
+                # a row the Pre-Trip itself marks forbidden (status cell opens with the stop sign and says WITHHELD or
+                # RESOLVES TO NOTHING ADMISSIBLE) is never an entry; it is reported as a comment (DEC-280, 2026-11-09)
+                forbidden = "⛔" in status and ("WITHHELD" in status or "RESOLVES TO NOTHING ADMISSIBLE" in status)
                 for m in re.finditer(r"`(/[^`]+)`", cells[2]):
+                    if forbidden:
+                        SKIPPED_FORBIDDEN.append(m.group(1).strip())
+                        continue
                     entries_note = cells[5] if len(cells) > 5 else ""
                     rows.append((m.group(1).strip(), None, entries_note))
     return rows
@@ -296,6 +306,9 @@ def main():
             out.append("#   ^ anchor %s  (AUTO: the readers locate it; replace with a line-checked range where the step needs one)" % anchor)
         else:
             out.append(p)
+    for p in SKIPPED_FORBIDDEN:
+        if p not in seen:
+            out.append("# SKIPPED (the Pre-Trip marks this row forbidden; never an entry): %s" % p)
     std_lines, std_warns = standard_entries(target)
     for l in std_lines:
         pth = l.split(" :: ")[0]

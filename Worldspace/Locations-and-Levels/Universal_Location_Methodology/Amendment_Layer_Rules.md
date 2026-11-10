@@ -53,3 +53,11 @@ record and readiness-check files. *(Added 2026-11-04, `M-308`/OBS-5; amendment l
 **A notice or pointer line written into an existing pass file is read by a second reader before it is committed,**
 against the whole finding it touches, not only the sentence it names. Such a line is written only where a ruling
 permits the edit at all (rule 3). *(Added 2026-11-04, `M-303`; amendment layer.)*
+
+### 5 · A record states what a tool returned
+
+**A record states what a tool returned, and what a piece says on a line the orchestrator has read. It never carries the orchestrator's own paraphrase of a piece.** *(Added 2026-11-09, `M-320`; amendment layer.)*
+
+### 6 · A numeric read spec names its numbering frame
+
+**A numeric read spec names the commit or the line count it was computed against**, so that a reader can tell pass-time numbering from current numbering. A spec computed on an earlier file reads struck lines and misses admitted ones once the file has moved. *(Added 2026-11-09, `M-320`; amendment layer.)*
