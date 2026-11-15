@@ -1,0 +1,60 @@
+tool: Tools/quotation_audit.py, last change 2026-11-02
+command: python3 Tools/quotation_audit.py <Casey folder> --files 00_Frame.md --own-pass  (re-run after the one fix, CL-10)
+pass audited : Casey
+corpus mode  : default (own pass excluded)
+corpus files : 7118   chars: 114,828,733
+files audited: 00_Frame.md
+own-pass mode: a quotation may also be found in this pass's OTHER files (never in its own file)
+
+=== POSITIVE CONTROLS ===
+  [easy                      ] FOUND     a terminus is nobody's midpoint
+  [HARD - blockquote wrap    ] FOUND     A pass may not proceed to Step 5 with a NEVER CITED row
+  [HARD - outside Worldspace ] FOUND     Paste raw QA scan output into the QA block. Never summa
+  [HARD - case mismatch      ] FOUND     YOU GO TO ESPERANZA AND YOU DO NOT COME HOME FOR FOUR Y
+  [HARD - long wrapped       ] FOUND     Different content is not differentiation; a different q
+
+  INSTRUMENT VALID: YES
+  NEGATIVE CONTROL (must be absent): PASS - absent
+
+=== QUOTATION AUDIT ===
+fragments tested (single-line, ellipsis-split, >=7 words): 79
+NOT FOUND in corpus: 32
+  of those, in TABLE CELLS : 9
+  of those, in PROSE       : 23
+
+  [00_Frame.md:72]           provisional type settlement, no modifier in force inside the frame
+  [00_Frame.md:75]           framing that the contract excludes as a conclusion (spec l160, l181; contract l200, l221) (a, b). the procedure's fourth step
+  [00_Frame.md:120]           (l215). this is national in kind and not a casey differentiator; it changes what
+  [00_Frame.md:137]           is the same rule). a base-level fact is stated as a city-wide fact, not as a uniform claim, so the deferral is visible at each fin
+  [00_Frame.md:151]           casey's own culture material, robot-culture file and personality read are read last, at step 5, as a check). run modes l139's temp
+  [00_Frame.md:170]           (register l58) by a direct sea route (spec l19; census l384) is open only in the navigable season, and the coast is
+  [00_Frame.md:212]           on top of a genuine general answer ( 00b l110-115). the diagnostic question, every time
+  [00_Frame.md:299]  [CELL]  rulings l1711-1712 (items 1 and 2) holds. acceptance confirmed; the hold is lifted
+  [00_Frame.md:306]  [CELL]  tag is unverifiable census l497 resolved: the census row itself carries
+  [00_Frame.md:308]  [CELL]  figure plus the dr-68 step does not reach the final figure: 733,795 12,140 745,935, not 760,865; 436,922 8,108 445,030, not 453,60
+  [00_Frame.md:311]  [CELL]  real-world basis casey station (australia), budd coast, wilkes land
+  [00_Frame.md:312]  [CELL]  gps/physical-siting fact only, admissible on that basis
+  [00_Frame.md:317]  [CELL]  casey's row, l608 consistent within the admitted span. the
+  [00_Frame.md:318]  [CELL]  dr-19 ; spec l19, l33 and contract l333: the
+  [00_Frame.md:320]  [CELL]  (db l168), with the inland neighbor reached by an
+  [00_Frame.md:356]           (extent l608); continental, with no denominator, and
+  [00_Frame.md:367]           (l18); the census reads the change as migration to orbit (l22-23), so the status is living. the change is reserved (rf-10; rf-16).
+  [00_Frame.md:374]           (register l8); they stand on geography and access, never on the station (l11-13), and never on a comparison with another city (l14
+  [00_Frame.md:422]           (census l17-18; spec l14-15), and the census calls census ii
+  [00_Frame.md:428]           (db l169); and a spur joining hwy 110 at casey (db l169) that spec l7 does not list. four direct highway neighbors are listed at d
+  [00_Frame.md:428]           is an edit date, not an in-world date (b). amd-4's scope names only the two roads in spec l7-8 and so misses the spur, a third roa
+  [00_Frame.md:434]           freighter shipments from the founder nation (raw materials, staged through a named port, not reproduced here), sitting
+  [00_Frame.md:440]           between its own subnet's coast and a sea area beyond the subnet, and places it
+  [00_Frame.md:451]           (l111-112) (a). casey's january mean is -0.3 c, its average daily high 2.2 c and its record high 9.2 c, with
+  [00_Frame.md:451]           december's average high is 1.4 c (spec l132, l143) (a). what canon supplies (b): robot death is episodic
+  [00_Frame.md:502]  [CELL]  and the one named exception is not casey physiology l424, l432 a ruling naming casey as an exception, or giving it a chamber only 
+  [00_Frame.md:531]           (i) the bearing of the hwy 110 coastal-chain leg
+  [00_Frame.md:734]           as a frame word. b and c used it; a did not adopt it ( 01 3: migration, not decline). written: the change stated as arithmetic, wi
+  [00_Frame.md:741]           dark night on most days of the year and in daylight on about 23
+  [00_Frame.md:743]           the parent position has no ordinary robot form
+  [00_Frame.md:746]           and c's port with a nationality are inferences beyond the line's words; written as
+  [00_Frame.md:773]           as in-world timing (an edit date); the census rank column (no
+
+⚠ TRIAGE BY HAND. A miss is not yet a defect: the pass quoting ITSELF, and
+  connective prose captured between two adjacent quotations, both show here.
+  Confirm each at source before calling it a defect.

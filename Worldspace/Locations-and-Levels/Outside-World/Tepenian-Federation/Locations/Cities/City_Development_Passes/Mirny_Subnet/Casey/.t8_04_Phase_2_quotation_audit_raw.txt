@@ -1,0 +1,35 @@
+pass audited : Casey
+corpus mode  : default (own pass excluded)
+corpus files : 7119   chars: 114,957,855
+files audited: 04_Phase_02_Composition_and_Arrival.md
+own-pass mode: a quotation may also be found in this pass's OTHER files (never in its own file)
+
+=== POSITIVE CONTROLS ===
+  [easy                      ] FOUND     a terminus is nobody's midpoint
+  [HARD - blockquote wrap    ] FOUND     A pass may not proceed to Step 5 with a NEVER CITED row
+  [HARD - outside Worldspace ] FOUND     Paste raw QA scan output into the QA block. Never summa
+  [HARD - case mismatch      ] FOUND     YOU GO TO ESPERANZA AND YOU DO NOT COME HOME FOR FOUR Y
+  [HARD - long wrapped       ] FOUND     Different content is not differentiation; a different q
+
+  INSTRUMENT VALID: YES
+  NEGATIVE CONTROL (must be absent): PASS - absent
+
+=== QUOTATION AUDIT ===
+fragments tested (single-line, ellipsis-split, >=7 words): 73
+NOT FOUND in corpus: 9
+  of those, in TABLE CELLS : 0
+  of those, in PROSE       : 9
+
+  [04_Phase_02_Composition_and_Arrival.md:138]           written into the tier row (census l384). the station builder is a coordinate only (nns l5, l32), and the spec's real-station ranki
+  [04_Phase_02_Composition_and_Arrival.md:158]           (physiology l67) and die in incidents, many at once or none for a long while (l103-107); human death is continuous
+  [04_Phase_02_Composition_and_Arrival.md:213]           (ii.3.2, l54), with no requirement that the population
+  [04_Phase_02_Composition_and_Arrival.md:213]           (ii.3.3, l55). the spine's assigned mode produces a rotation clock
+  [04_Phase_02_Composition_and_Arrival.md:216]           (physiology l360), and the settlement aid is not to be construed
+  [04_Phase_02_Composition_and_Arrival.md:295]           in assembly territory must depart (ii.2.1, l46): compelled. any human may
+  [04_Phase_02_Composition_and_Arrival.md:295]           at any time after the effective date, relinquishing
+  [04_Phase_02_Composition_and_Arrival.md:295]           (ii.2.5, l50; added 2026-11-09, l138), under the return bar of iv.2.3; such a person
+  [04_Phase_02_Composition_and_Arrival.md:295]           (l50). each party may designate observers with
+
+⚠ TRIAGE BY HAND. A miss is not yet a defect: the pass quoting ITSELF, and
+  connective prose captured between two adjacent quotations, both show here.
+  Confirm each at source before calling it a defect.

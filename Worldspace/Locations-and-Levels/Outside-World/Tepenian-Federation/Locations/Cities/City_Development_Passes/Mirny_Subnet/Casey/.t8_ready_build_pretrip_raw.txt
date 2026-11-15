@@ -1,0 +1,26 @@
+wrote /tmp/claude-1000/-home-kuroskalacs-Documents-Doll-Fi-media-games-Inner-Tepenia-InnerTepeniaGDD/4e5f31ed-e1ee-4aad-a6b1-3ed2dede5032/scratchpad/casey/readiness/pretrip_out/Casey/00.0_Pre-Trip_Inspection.md (96021 bytes)
+wrote /tmp/claude-1000/-home-kuroskalacs-Documents-Doll-Fi-media-games-Inner-Tepenia-InnerTepeniaGDD/4e5f31ed-e1ee-4aad-a6b1-3ed2dede5032/scratchpad/casey/readiness/pretrip_out/Casey/00.2_Position_Coverage_Ledger.md (923 bytes)
+## I · Verification block — raw output
+
+```
+$ build_pretrip.py Casey  (2026-11-11) — template: Casey's sheet, 579 lines
+existence test over every absolute address in this file (2026-11-11)
+TOTAL=182  RESOLVE=142  FUTURE-OUTPUT(by design)=40  DATASHEET-NOT-YET-BUILT(N-5)=0  MISSING-INPUT=0  MISSING-READ-LAST-OR-EXCLUDED=0
+
+$ line-number claims re-read from the live files (each cited line opened and tested for a name of this city)
+98 claims · 98 OK · 0 FAIL
+  (census Section A entry lines are table rows that do not repeat the city name; they are counted OK as table rows)
+
+$ governing ranges vs live headings (strict: start = the heading line, end = the line before the next heading)
+runbook steps: 12 of 12 cited ranges equal the live range
+spine phases: 11 of 11 cited ranges equal the live range
+§G law rows: 6 of 7 cited runbook lines contain the law's own text  — OFF: Divergence operator: L2180 is "### ⭐ THE DIVERGENCE OPERATOR — the developer's ow"
+standard citations re-located from the 2026-09-30 state (base d51bae82): 83 numbers moved; none lost
+runbook/spine citations that are neither an anchored fix nor a recomputed governing range: none
+
+$ template-placeholder and carried-name check
+placeholder tokens: none
+carried-over names (Casey / Mirny paths / Wilkes / Budd / Vincennes): none
+```
+
+

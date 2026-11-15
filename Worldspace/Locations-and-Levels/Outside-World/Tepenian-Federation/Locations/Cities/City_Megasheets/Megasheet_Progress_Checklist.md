@@ -90,3 +90,7 @@ The full 13-district two-stage deep-dive pass, District Vision Notes for all 13 
 - [x] **Virgo** — done 2026-07-09
 - [x] **Central Hub / Axis Mundi** — done 2026-07-10; the thirteenth and final district Megasheet
 - [x] **The Concordia Ultra-Megasheet** — done 2026-07-10; compiled from all 13 districts plus the overnight Patterns/Throughways synthesis pass; Questlines material deliberately excluded, reserved for future quest-design work
+
+---
+
+**Generation 2 (2026-11-10):** the new megasheets are tracked in `Megasheet_Progress_Checklist_Gen2.md` (38 locations, current names). This checklist stays as the record of the Generation 1 set, which will be archived, not edited.

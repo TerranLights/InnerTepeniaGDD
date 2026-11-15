@@ -1,0 +1,51 @@
+tool: Tools/quotation_audit.py, last change 2026-11-02
+command: python3 Tools/quotation_audit.py <Mirny folder> --files Amendment_Rederivation_LANG_2026-11-11.md --own-pass
+pass audited : Mirny
+corpus mode  : default (own pass excluded)
+corpus files : 6616   chars: 88,084,367
+files audited: Amendment_Rederivation_LANG_2026-11-11.md
+own-pass mode: a quotation may also be found in this pass's OTHER files (never in its own file)
+
+=== POSITIVE CONTROLS ===
+  [easy                      ] FOUND     a terminus is nobody's midpoint
+  [HARD - blockquote wrap    ] FOUND     A pass may not proceed to Step 5 with a NEVER CITED row
+  [HARD - outside Worldspace ] FOUND     Paste raw QA scan output into the QA block. Never summa
+  [HARD - case mismatch      ] FOUND     YOU GO TO ESPERANZA AND YOU DO NOT COME HOME FOR FOUR Y
+  [HARD - long wrapped       ] FOUND     Different content is not differentiation; a different q
+
+  INSTRUMENT VALID: YES
+  NEGATIVE CONTROL (must be absent): PASS - absent
+
+=== QUOTATION AUDIT ===
+fragments tested (single-line, ellipsis-split, >=7 words): 79
+NOT FOUND in corpus: 23
+  of those, in TABLE CELLS : 5
+  of those, in PROSE       : 18
+
+  [Amendment_Rederivation_LANG_2026-11-11.md:26]           includes a resident who does not yet have the civic tongue (p9 l175
+  [Amendment_Rederivation_LANG_2026-11-11.md:26]           conditional on ar-45), and she does not meet that tongue without translation, while she meets the wind with nothing between her an
+  [Amendment_Rederivation_LANG_2026-11-11.md:27]           in the plainer sense (a medium every resident follows) the civic tongue qualifies too
+  [Amendment_Rederivation_LANG_2026-11-11.md:31]           is false of the civic tongue, which is common, national, and not built on the site, the record or the relay. it holds for what is 
+  [Amendment_Rederivation_LANG_2026-11-11.md:33]           not caused by a1; the scoping makes it visible. quoted
+  [Amendment_Rederivation_LANG_2026-11-11.md:45]           survives as the 12-point rule's output, which the rule gives on both bases : on national-origin mid-points (p9 l174; recomputed in
+  [Amendment_Rederivation_LANG_2026-11-11.md:46]           'not speaker counts' no longer describes the basis
+  [Amendment_Rederivation_LANG_2026-11-11.md:53]           under a1 the three are no longer disjoint for an english-origin name
+  [Amendment_Rederivation_LANG_2026-11-11.md:54]           is now strengthened, since the tongue is named and defined: a); p08 l269, true as written (a pointer only, lang-dk-11); p08 l266 (
+  [Amendment_Rederivation_LANG_2026-11-11.md:79]           mirny's means of translation, not a layer met without one
+  [Amendment_Rederivation_LANG_2026-11-11.md:81]           years in the wind; b (round 3) found the cited line says standing is unruled. written without
+  [Amendment_Rederivation_LANG_2026-11-11.md:84]           by actual speakers english is mirny's largest language group
+  [Amendment_Rederivation_LANG_2026-11-11.md:127]           is the conditions themselves, plus the relay and the record as things, not their content (a). any wording of l283 that keeps
+  [Amendment_Rederivation_LANG_2026-11-11.md:144]           english is not foreign to mirny's speech at either level
+  [Amendment_Rederivation_LANG_2026-11-11.md:147]           (p08 l269) adm ; a label read as a word of it would be read as what every resident says. read as supporting-tier english, it would
+  [Amendment_Rederivation_LANG_2026-11-11.md:170]           survives only as the 12-point rule's output, which the rule gives on national-origin mid-points and, per dr-111 , on actual speake
+  [Amendment_Rederivation_LANG_2026-11-11.md:181]           (answering whether the second-language slot needs a majority); and p9 l174
+  [Amendment_Rederivation_LANG_2026-11-11.md:184]           p08 l293); what it does to speech at mirny is not derived, and whether russian is among the later
+  [Amendment_Rederivation_LANG_2026-11-11.md:204]  [CELL]  overstates a national tongue. written in c's words
+  [Amendment_Rederivation_LANG_2026-11-11.md:213]  [CELL]  a (round 1) none b and c used no recalled ground; a withdrew (r3 m-1). not written; canon's word
+  [Amendment_Rederivation_LANG_2026-11-11.md:218]  [CELL]  english is not foreign to mirny's speech at either level
+  [Amendment_Rederivation_LANG_2026-11-11.md:241]  [CELL]  omits the civic tongue, shared from the founding on as national speech and not built on them (p08 l269), that
+  [Amendment_Rederivation_LANG_2026-11-11.md:241]  [CELL]  holds for what is common and mirny's own, by its referents (p08 l304, l307), and that
+
+⚠ TRIAGE BY HAND. A miss is not yet a defect: the pass quoting ITSELF, and
+  connective prose captured between two adjacent quotations, both show here.
+  Confirm each at source before calling it a defect.

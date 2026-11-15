@@ -1,0 +1,39 @@
+pass audited : Casey
+phase files  : 1
+
+=== CONTROLS (edit these per pass; they are what makes a zero trustworthy) ===
+  PHASES WITH A FORMAL SWEEP BLOCK (found in this pass): 2
+  PHASES WITH NO TRACE OF A SWEEP (found in this pass)  : none
+  SELF-TEST (fixed positive and negative strings)       : passed
+  INSTRUMENT VALID: YES - the detector separates a formal block from no block on the built-in controls
+
+  phase | outbound | sweep    | rows | verdict
+  ------+----------+----------+------+---------
+      2 |        0 | FORMAL   |   16 | n/a - nothing addressed to it
+
+TOTAL outbound handoff rows: 15
+PHASES WITH ROWS ADDRESSED TO THEM AND NO ENUMERATION: 0
+
+=== outbound rows, per target, for hand reconciliation ===
+  -> Phase 3:
+       [04_Phase_02_Composition_and_Arrival.md]  | **Phase 3** | What of the inherited base was not carried over, whether the loss lasted
+  -> Phase 4:
+       [04_Phase_02_Composition_and_Arrival.md]  | **Phase 4** | Whose ordinary day (spine L468): the general population is the born-here
+       [04_Phase_02_Composition_and_Arrival.md]  | **Phase 4** | The research capacity of spec L195, at the step that reads V10 (`01_Inhe
+       [04_Phase_02_Composition_and_Arrival.md]  | **Phase 4** | The shut half's closed population and the seasonal weight of winter skil
+       [04_Phase_02_Composition_and_Arrival.md]  | **Phase 4** | S3-39 turned inward [PA-5]: the flow, travelers and crews as a possible 
+  -> Phase 5:
+       [04_Phase_02_Composition_and_Arrival.md]  | **Phase 5** | Who the visitor is (spine L468): the flow (travelers, convoys, ship crew
+       [04_Phase_02_Composition_and_Arrival.md]  | **Phase 5** | The closing as the year's decision point for anyone at Casey by sea; att
+       [04_Phase_02_Composition_and_Arrival.md]  | **Phase 5** | The instrument's later doors: electors (II.2.5), later-exiled robots (II
+  -> Phase 6:
+       [04_Phase_02_Composition_and_Arrival.md]  | **Phase 6** | Necessity Before Meaning: what moral, if any, was hung on the founding w
+       [04_Phase_02_Composition_and_Arrival.md]  | **Phase 6** | A warning for Phases 6 to 9: the native layer must not be written as wea
+  -> Phase 7:
+       [04_Phase_02_Composition_and_Arrival.md]  | **Phase 7** | The founding administration (II.4) and local councils (I.4): who held it
+       [04_Phase_02_Composition_and_Arrival.md]  | **Phase 7** | The records' keepers: who keeps and reads them, on what terms, and wheth
+       [04_Phase_02_Composition_and_Arrival.md]  | **Phase 7** | Heat and arrival: whether any rule decides who is given heated rest to w
+  -> Phase 8:
+       [04_Phase_02_Composition_and_Arrival.md]  | **Phase 8** | Languages outside the supporting tier (`01_Inherited` L295; S1-14): hous
+  -> Phase 9:
+       [04_Phase_02_Composition_and_Arrival.md]  | **Phase 9** | Which populations exist (spine L468): exile-era robots, sent and a persi

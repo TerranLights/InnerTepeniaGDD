@@ -1,0 +1,7 @@
+  .t8_03_Step_3_readerA.md: 71 rows
+  .t8_03_Step_3_readerB.md: 60 rows
+  .t8_03_Step_3_readerC.md: 62 rows
+  .t8_03_Step_3_round3_readerA.md: 6 rows
+  .t8_03_Step_3_round3_readerB.md: 10 rows
+  .t8_03_Step_3_round3_readerC.md: 6 rows
+checked 215 strings; missing 0

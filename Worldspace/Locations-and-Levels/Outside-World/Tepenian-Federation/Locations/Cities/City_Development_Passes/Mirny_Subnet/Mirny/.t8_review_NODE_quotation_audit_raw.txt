@@ -1,0 +1,39 @@
+tool: Tools/quotation_audit.py, last change 2026-11-02
+command: python3 Tools/quotation_audit.py <Mirny folder> --files Amendment_Rederivation_NODE_2026-11-11.md --own-pass
+pass audited : Mirny
+corpus mode  : default (own pass excluded)
+corpus files : 6616   chars: 88,086,193
+files audited: Amendment_Rederivation_NODE_2026-11-11.md
+own-pass mode: a quotation may also be found in this pass's OTHER files (never in its own file)
+
+=== POSITIVE CONTROLS ===
+  [easy                      ] FOUND     a terminus is nobody's midpoint
+  [HARD - blockquote wrap    ] FOUND     A pass may not proceed to Step 5 with a NEVER CITED row
+  [HARD - outside Worldspace ] FOUND     Paste raw QA scan output into the QA block. Never summa
+  [HARD - case mismatch      ] FOUND     YOU GO TO ESPERANZA AND YOU DO NOT COME HOME FOR FOUR Y
+  [HARD - long wrapped       ] FOUND     Different content is not differentiation; a different q
+
+  INSTRUMENT VALID: YES
+  NEGATIVE CONTROL (must be absent): PASS - absent
+
+=== QUOTATION AUDIT ===
+fragments tested (single-line, ellipsis-split, >=7 words): 32
+NOT FOUND in corpus: 11
+  of those, in TABLE CELLS : 4
+  of those, in PROSE       : 7
+
+  [Amendment_Rederivation_NODE_2026-11-11.md:56]           each of l129, l188 (by its block) and l386 names mirny
+  [Amendment_Rederivation_NODE_2026-11-11.md:60]           dr-133 item 3 leaves the cargo split open (l1967)
+  [Amendment_Rederivation_NODE_2026-11-11.md:97]           (prt l188) date the record , not the world. the developer's word is
+  [Amendment_Rederivation_NODE_2026-11-11.md:143]           (p5 l197) stands, and so does its second order
+  [Amendment_Rederivation_NODE_2026-11-11.md:192]           b and c replied in round 3 that p5 l173 keeps
+  [Amendment_Rederivation_NODE_2026-11-11.md:230]           for the upper earth partners (prt l130), and
+  [Amendment_Rederivation_NODE_2026-11-11.md:295]  [CELL]  is a different count a, b c (in round 3, having missed it in round 1) whether the line takes a docket row: see section 5
+  [Amendment_Rederivation_NODE_2026-11-11.md:309]  [CELL]  already pointed at other text before dr-133 (ar-243, st14 l668), and the live line stating that mirny's port is
+  [Amendment_Rederivation_NODE_2026-11-11.md:311]  [CELL]  in the sea-link test is superseded by dr-133 item 1 (2026-11-10, after the test), while the test's verdict on mirny's direct link 
+  [Amendment_Rederivation_NODE_2026-11-11.md:311]  [CELL]  (anchored at l793, unread; live at ports.md l386) stands, and so does the closing
+  [Amendment_Rederivation_NODE_2026-11-11.md:355]           with the three names p5 quotes is inferred from
+
+⚠ TRIAGE BY HAND. A miss is not yet a defect: the pass quoting ITSELF, and
+  connective prose captured between two adjacent quotations, both show here.
+  Confirm each at source before calling it a defect.

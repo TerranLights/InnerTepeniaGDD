@@ -17,3 +17,5 @@
 > that rewrite begins. The "step 7 of the City Vision Notes pipeline" description above is the old order.
 
 **Do not populate any city's megasheet until that city has completed the full upstream pipeline** — the whole point is that this is the *last* step, synthesizing everything already established rather than introducing new lore of its own.
+
+**Generation 2 (2026-11-10):** the new megasheets follow `City_Megasheet_Compilation_Guide_Gen2.md` and are tracked in `Megasheet_Progress_Checklist_Gen2.md`. The Generation 1 megasheets will be archived and are never edited; the Generation 2 sheets are new files.

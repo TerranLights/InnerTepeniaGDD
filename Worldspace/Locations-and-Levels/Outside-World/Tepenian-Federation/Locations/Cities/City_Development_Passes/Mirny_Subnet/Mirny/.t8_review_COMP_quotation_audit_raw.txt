@@ -1,0 +1,68 @@
+tool: Tools/quotation_audit.py, last change 2026-11-02
+command: python3 Tools/quotation_audit.py <Mirny folder> --files Amendment_Rederivation_COMP_2026-11-11.md --own-pass
+pass audited : Mirny
+corpus mode  : default (own pass excluded)
+corpus files : 6616   chars: 88,084,367
+files audited: Amendment_Rederivation_COMP_2026-11-11.md
+own-pass mode: a quotation may also be found in this pass's OTHER files (never in its own file)
+
+=== POSITIVE CONTROLS ===
+  [easy                      ] FOUND     a terminus is nobody's midpoint
+  [HARD - blockquote wrap    ] FOUND     A pass may not proceed to Step 5 with a NEVER CITED row
+  [HARD - outside Worldspace ] FOUND     Paste raw QA scan output into the QA block. Never summa
+  [HARD - case mismatch      ] FOUND     YOU GO TO ESPERANZA AND YOU DO NOT COME HOME FOR FOUR Y
+  [HARD - long wrapped       ] FOUND     Different content is not differentiation; a different q
+
+  INSTRUMENT VALID: YES
+  NEGATIVE CONTROL (must be absent): PASS - absent
+
+=== QUOTATION AUDIT ===
+fragments tested (single-line, ellipsis-split, >=7 words): 96
+NOT FOUND in corpus: 40
+  of those, in TABLE CELLS : 19
+  of those, in PROSE       : 21
+
+  [Amendment_Rederivation_COMP_2026-11-11.md:20]           the quotation is exact, and spec l69 still reads so. narrows in reading, not in truth (b's round 3 wording). the row sits in a tab
+  [Amendment_Rederivation_COMP_2026-11-11.md:22]           ( dr-11 l458) (a, b, c). this half is older than the change: p2c had already set
+  [Amendment_Rederivation_COMP_2026-11-11.md:22]           ). item 1 makes it explicit for robots. the line itself says
+  [Amendment_Rederivation_COMP_2026-11-11.md:32]           not a narrowing. it is the borrowed form's provenance, not a count of its keepers (
+  [Amendment_Rederivation_COMP_2026-11-11.md:34]           no mirny line and no ruling states it. the table's identical figure is the construction value, not a stated robot percentage
+  [Amendment_Rederivation_COMP_2026-11-11.md:34]           ), every admitted row carries a robot count (for example spec l32, 97,555), and dr-11 l459 gives those columns
+  [Amendment_Rederivation_COMP_2026-11-11.md:38]           (a). the developer's selection behind it (l1939)
+  [Amendment_Rederivation_COMP_2026-11-11.md:41]           to one row, an order decided only by a gap between two primary rows (spec l20, l32, l33): 0.02 printed points, 0.0162 points from 
+  [Amendment_Rederivation_COMP_2026-11-11.md:49]           ) and l287 (the six primary figures and their sum, 66.24 %
+  [Amendment_Rederivation_COMP_2026-11-11.md:51]           item 7 does not say whether a superlative counts as a flat statement or as a characterization
+  [Amendment_Rederivation_COMP_2026-11-11.md:70]           ). in the smallest admitted rows the split runs from 50.442 % (ingushetia, spec l65) to 50.799 % (karachay-cherkessia, spec l66). 
+  [Amendment_Rederivation_COMP_2026-11-11.md:97]           cannot describe the robot half of any row (p08 l243). p2c had already set
+  [Amendment_Rederivation_COMP_2026-11-11.md:99]           (p2c l118) is its provenance, not a count of its keepers, since
+  [Amendment_Rederivation_COMP_2026-11-11.md:132]           and no group ranked by size inside the primary tier (a
+  [Amendment_Rederivation_COMP_2026-11-11.md:140]           into its latest-period form, new pools were added
+  [Amendment_Rederivation_COMP_2026-11-11.md:150]           rests on korea 13.71 % against indonesia 12.03 % (spec l33, l34): 192,462 - 168,772 23,690 people, 1.69 points of 1,403,549
+  [Amendment_Rederivation_COMP_2026-11-11.md:155]           has no single holder at mirny, and that is a result of the table (none is sited here), not a gap to fill (a)
+  [Amendment_Rederivation_COMP_2026-11-11.md:159]           p2c l141 keeps the second-language slot open
+  [Amendment_Rederivation_COMP_2026-11-11.md:160]           ). four came by a route no admitted line gives (p2c l106; l197
+  [Amendment_Rederivation_COMP_2026-11-11.md:174]           header names the row (not admitted to any reader); aq-23 (open, and not this piece's to answer); p2c l77's
+  [Amendment_Rederivation_COMP_2026-11-11.md:199]  [CELL]  stated for both bodies; for the robots the value is the construction
+  [Amendment_Rederivation_COMP_2026-11-11.md:199]  [CELL]  canon for humans and the constructed value for robots
+  [Amendment_Rederivation_COMP_2026-11-11.md:200]  [CELL]  a robot percentage set on the robots' own grounds is not stated
+  [Amendment_Rederivation_COMP_2026-11-11.md:203]  [CELL]  (c) loose: 50.442 % to 50.799 % in the smallest rows. written
+  [Amendment_Rederivation_COMP_2026-11-11.md:212]  [CELL]  any stock's firm reach at mirny is under half its headcount
+  [Amendment_Rederivation_COMP_2026-11-11.md:214]  [CELL]  sized on humans. with robots it is a conditional upper figure
+  [Amendment_Rederivation_COMP_2026-11-11.md:218]  [CELL]  c none as worded a's round 3: l1922 settles that point
+  [Amendment_Rederivation_COMP_2026-11-11.md:219]  [CELL]  c b (l1941 cited as a record) a's round 3: l1941 is the
+  [Amendment_Rederivation_COMP_2026-11-11.md:224]  [CELL]  ) - b inferred that proportional sharing-out in the rework
+  [Amendment_Rederivation_COMP_2026-11-11.md:224]  [CELL]  the lead; a's round 3 found spec l28 supports that. c's round 3 found l28 also splits rows
+  [Amendment_Rederivation_COMP_2026-11-11.md:225]  [CELL]  grouping fails item 7 (13.71 against 12.03) c a (x20), b (round 3, withdrawing
+  [Amendment_Rederivation_COMP_2026-11-11.md:226]  [CELL]  overreaches; p2c l170's successor-row relations are canon-based too. written
+  [Amendment_Rederivation_COMP_2026-11-11.md:245]  [CELL]  stands as the table's value in each column, any practice sized on it uses the human count with the both-bodies total a conditional
+  [Amendment_Rederivation_COMP_2026-11-11.md:245]  [CELL]  cannot describe the robot half (a robot's row is learned after coming online, dr-11 l458), so the clause reads, as p2c l91 and l11
+  [Amendment_Rederivation_COMP_2026-11-11.md:247]  [CELL]  for robots made in tepenia; practices are sized on the human count, the total with robots a conditional upper figure), and extend
+  [Amendment_Rederivation_COMP_2026-11-11.md:248]  [CELL]  identical in both bodies by construction ( spec l69); each body's percentage is its own ( dr-128 item 1)
+  [Amendment_Rederivation_COMP_2026-11-11.md:252]  [CELL]  as a bound with its source and no row named beside it, for example
+  [Amendment_Rederivation_COMP_2026-11-11.md:254]  [CELL]  from both the analysis clause and the candidate, the candidate reading
+  [Amendment_Rederivation_COMP_2026-11-11.md:255]  [CELL]  the held spec candidate ( application batch 3 culturefile and spec 2026-11-08.md l622, l624: not in the script)
+  [Amendment_Rederivation_COMP_2026-11-11.md:308]           (a, b, c; c's round 3 corrected b's attribution of
+
+⚠ TRIAGE BY HAND. A miss is not yet a defect: the pass quoting ITSELF, and
+  connective prose captured between two adjacent quotations, both show here.
+  Confirm each at source before calling it a defect.

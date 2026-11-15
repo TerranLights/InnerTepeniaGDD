@@ -1,0 +1,63 @@
+tool: Tools/quotation_audit.py, last change 2026-11-02
+command: python3 Tools/quotation_audit.py <Mirny folder> --files Amendment_Rederivation_FREE_2026-11-11.md --own-pass
+pass audited : Mirny
+corpus mode  : default (own pass excluded)
+corpus files : 6616   chars: 88,087,756
+files audited: Amendment_Rederivation_FREE_2026-11-11.md
+own-pass mode: a quotation may also be found in this pass's OTHER files (never in its own file)
+
+=== POSITIVE CONTROLS ===
+  [easy                      ] FOUND     a terminus is nobody's midpoint
+  [HARD - blockquote wrap    ] FOUND     A pass may not proceed to Step 5 with a NEVER CITED row
+  [HARD - outside Worldspace ] FOUND     Paste raw QA scan output into the QA block. Never summa
+  [HARD - case mismatch      ] FOUND     YOU GO TO ESPERANZA AND YOU DO NOT COME HOME FOR FOUR Y
+  [HARD - long wrapped       ] FOUND     Different content is not differentiation; a different q
+
+  INSTRUMENT VALID: YES
+  NEGATIVE CONTROL (must be absent): PASS - absent
+
+=== QUOTATION AUDIT ===
+fragments tested (single-line, ellipsis-split, >=7 words): 91
+NOT FOUND in corpus: 35
+  of those, in TABLE CELLS : 7
+  of those, in PROSE       : 28
+
+  [Amendment_Rederivation_FREE_2026-11-11.md:29]           ( rp l369-371; the words at l370; the sentence between carries two other places' demonyms and is not reproduced). a2: time that is
+  [Amendment_Rederivation_FREE_2026-11-11.md:30]           d09 l131; used only for what it is a residue of, no figure taken). d09 then qualifies it
+  [Amendment_Rederivation_FREE_2026-11-11.md:31]           (l366-367) and its l369-370 sentence measure between places, which the one-location law removes (delete the other places and no cl
+  [Amendment_Rederivation_FREE_2026-11-11.md:45]           ) remove its object (a, b, c). split, named: a and c call the clause a flip, b a narrowing; b (round 3, row 10) accepts
+  [Amendment_Rederivation_FREE_2026-11-11.md:48]           its mirny values were the tier figures (l119
+  [Amendment_Rederivation_FREE_2026-11-11.md:51]           ( prt l223) (a, b, c). art-4 restates the line's last clause on one sector figure ( prt l125) and does not restate its clause
+  [Amendment_Rederivation_FREE_2026-11-11.md:52]           in round 3, row 2: the shared night is item 1, for both bodies, not the human counterpart of item 4). the same reading applies to 
+  [Amendment_Rederivation_FREE_2026-11-11.md:52]           (point 9). split, named: a (free-d6; b, round 3 row 16, agreeing) would reword the heading to
+  [Amendment_Rederivation_FREE_2026-11-11.md:53]           are canon's leisure (items 1 and 4 of the list, l233 and l236), never the free tier (a, b, c). within the admitted phase 4 lines t
+  [Amendment_Rederivation_FREE_2026-11-11.md:54]           holds for the robot half; for the human half, canon's time of her own is the shared stop, which l465 lists as
+  [Amendment_Rederivation_FREE_2026-11-11.md:57]           a2 concerns leisure, not wanted work, and prt kept the line (
+  [Amendment_Rederivation_FREE_2026-11-11.md:83]           describes the residue after the baseline, the distinctive tier (610,836 units, 57.8 %), and is recorded there as a definition only
+  [Amendment_Rederivation_FREE_2026-11-11.md:94]           is the residue after baseline is a derivation from rp l365-366 citing d09 3.5 and from d09 l131's arithmetic; rp does not say
+  [Amendment_Rederivation_FREE_2026-11-11.md:103]           as an in-world cost ( prt l101, l104; rf-prt-1, l189) calc: 0.6 43,367.2 26,020.3; 366,502 7.10 % of the free tier . by a2 it cost
+  [Amendment_Rederivation_FREE_2026-11-11.md:103]           b and c (round 3) hold that prt l104 writes d
+  [Amendment_Rederivation_FREE_2026-11-11.md:111]           what fills leisure's bounded shape is an empty slot. (a, b, c
+  [Amendment_Rederivation_FREE_2026-11-11.md:123]           reaches the proof through the night place; p4 l234 grounds it in temperature, so
+  [Amendment_Rederivation_FREE_2026-11-11.md:123]           since p4 l160 also bounds leisure by light and footing (b, round 3; c's own free-r2 says
+  [Amendment_Rederivation_FREE_2026-11-11.md:143]           to robots in round 3, row 5). human reading
+  [Amendment_Rederivation_FREE_2026-11-11.md:151]           has not used her leisure another way. she has spent it as work
+  [Amendment_Rederivation_FREE_2026-11-11.md:153]           inside a robot whose work is her own want, at her stop
+  [Amendment_Rederivation_FREE_2026-11-11.md:157]           is the two portions canon gives it and nothing else: for a robot, leisure owed to nobody (hours that belong to nobody; a condition
+  [Amendment_Rederivation_FREE_2026-11-11.md:157]           ( p4 l233). phase 4's list of what is common to every ordinary day already holds both (items 1 and 4, l233 and l236); a2 makes the
+  [Amendment_Rederivation_FREE_2026-11-11.md:167]           is c's, accepted by a, round 3 row 4, and b, round 3 row 6, over a's
+  [Amendment_Rederivation_FREE_2026-11-11.md:207]           ( rp l356-357), set against a past in which it was
+  [Amendment_Rederivation_FREE_2026-11-11.md:211]           from mirny must be written as taking work; prt 's feed to step 8 already reads
+  [Amendment_Rederivation_FREE_2026-11-11.md:276]  [CELL]  is the robots' leisure, and canon states no human leisure beyond the shared night ( dr-125 item 3), so
+  [Amendment_Rederivation_FREE_2026-11-11.md:277]  [CELL]  holds for the robot half, while for a human whose rest falls off the stop that rest is not canon's leisure (
+  [Amendment_Rederivation_FREE_2026-11-11.md:278]  [CELL]  nothing about any worker's hours, or about how any worker's work divides among the tiers, follows from the averages
+  [Amendment_Rederivation_FREE_2026-11-11.md:283]  [CELL]  no longer rests on a free-tier figure and is re-grounded on the stop's conditions and the site's bounds on leisure's shape ( p4 l1
+  [Amendment_Rederivation_FREE_2026-11-11.md:286]  [CELL]  is superseded by 34.7 %, determined ( prt l85; the feed at prt l179), and its phase 4 anchors read two lines lower (
+  [Amendment_Rederivation_FREE_2026-11-11.md:293]  [CELL]  left private are the robot half's, while for the human half the one canon-stated time of her own is the shared stop, which l465 li
+  [Amendment_Rederivation_FREE_2026-11-11.md:296]  [CELL]  stands but is open on scale, no longer between the two limbs as written, because dr-125 item 3 bars the second limb's
+  [Amendment_Rederivation_FREE_2026-11-11.md:344]           known only as p6 l119 quotes it); p4 l294; phase 6 l33 and l317 (the feed's other phase 6 lines); doi10 , so what
+  [Amendment_Rederivation_FREE_2026-11-11.md:345]           is the residue after baseline (a; rp does not say
+
+⚠ TRIAGE BY HAND. A miss is not yet a defect: the pass quoting ITSELF, and
+  connective prose captured between two adjacent quotations, both show here.
+  Confirm each at source before calling it a defect.

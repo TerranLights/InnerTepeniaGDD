@@ -1,0 +1,39 @@
+tool: Tools/quotation_audit.py, last change 2026-11-02
+command: python3 Tools/quotation_audit.py <Casey folder> --files 01_Inherited.md --own-pass
+pass audited : Casey
+corpus mode  : default (own pass excluded)
+corpus files : 7118   chars: 114,831,204
+files audited: 01_Inherited.md
+own-pass mode: a quotation may also be found in this pass's OTHER files (never in its own file)
+
+=== POSITIVE CONTROLS ===
+  [easy                      ] FOUND     a terminus is nobody's midpoint
+  [HARD - blockquote wrap    ] FOUND     A pass may not proceed to Step 5 with a NEVER CITED row
+  [HARD - outside Worldspace ] FOUND     Paste raw QA scan output into the QA block. Never summa
+  [HARD - case mismatch      ] FOUND     YOU GO TO ESPERANZA AND YOU DO NOT COME HOME FOR FOUR Y
+  [HARD - long wrapped       ] FOUND     Different content is not differentiation; a different q
+
+  INSTRUMENT VALID: YES
+  NEGATIVE CONTROL (must be absent): PASS - absent
+
+=== QUOTATION AUDIT ===
+fragments tested (single-line, ellipsis-split, >=7 words): 60
+NOT FOUND in corpus: 11
+  of those, in TABLE CELLS : 0
+  of those, in PROSE       : 11
+
+  [01_Inherited.md:32]           (frame l374, quoting register l8). an arrival class is named by not being founders
+  [01_Inherited.md:32]           (contract l65; spec l173 part 3, admitted, contract l215, through the contract). the census tag on the founder's row
+  [01_Inherited.md:66]           (contract l237; through the contract). spec l8
+  [01_Inherited.md:84]           moving between the subnet's coastal cities and the interior
+  [01_Inherited.md:118]           (frame l98, citing 01 l297-310 and readme-2 l52). declining's questions
+  [01_Inherited.md:118]           are not run (frame l100). the change, stated flatly: humans -307,265 (-40.38%), robots -162,675 (-20.67%); 59.62% of census i huma
+  [01_Inherited.md:118]           (frame l422, citing readme-2 l57), and a city built to its larger figure has
+  [01_Inherited.md:178]           (frame l505), and the grid-failure file has
+  [01_Inherited.md:178]           (datasheet l33) (c; b). (d) a robot who must rest in the open on a road leg, given that
+  [01_Inherited.md:233]           (spec l202) classifies a site and decides about no one
+  [01_Inherited.md:233]           (spec l249) asks about physical reachability, as req-5 reads it
+
+⚠ TRIAGE BY HAND. A miss is not yet a defect: the pass quoting ITSELF, and
+  connective prose captured between two adjacent quotations, both show here.
+  Confirm each at source before calling it a defect.

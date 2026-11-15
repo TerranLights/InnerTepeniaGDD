@@ -1,0 +1,25 @@
+### Before the fix (15 hits; 03_Research.md and Casey_Research_Log.md)
+03_Research.md:63:cancelled
+03_Research.md:63:cancelled
+03_Research.md:88:cancelled
+Casey_Research_Log.md:52:cancelled
+Casey_Research_Log.md:53:cancelled
+Casey_Research_Log.md:53:cancelled
+Casey_Research_Log.md:120:cancelled
+Casey_Research_Log.md:120:cancelled
+Casey_Research_Log.md:121:cancelled
+Casey_Research_Log.md:121:cancelled
+Casey_Research_Log.md:175:cancelled
+Casey_Research_Log.md:177:cancelled
+Casey_Research_Log.md:209:metres
+Casey_Research_Log.md:268:cancelled
+Casey_Research_Log.md:330:cancelled
+### Fixed: 8 in own words (cancelled → canceled: 03_Research.md L63, L88; Casey_Research_Log.md L52, L53, L120, L121, L175, L330). Kept by rule: URL slugs and logged search strings.
+### After the fix (7 hits, all in a URL slug or a logged search string)
+03_Research.md:63:cancelled
+Casey_Research_Log.md:53:cancelled
+Casey_Research_Log.md:120:cancelled
+Casey_Research_Log.md:121:cancelled
+Casey_Research_Log.md:177:cancelled
+Casey_Research_Log.md:209:metres
+Casey_Research_Log.md:268:cancelled

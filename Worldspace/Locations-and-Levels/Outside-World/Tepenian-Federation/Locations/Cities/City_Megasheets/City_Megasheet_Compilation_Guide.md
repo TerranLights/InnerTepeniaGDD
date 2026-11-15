@@ -126,3 +126,7 @@ Once all documents exist — `[City]_Mega_Init.md`, `[City]_Full_Extrapolation.m
 ## What Made This Work, in One Paragraph
 
 The three steps are not interchangeable and not optional filler around each other — they're three genuinely different things a single mind can do with the same material, done in an order where each one needs the last one to already exist. You can't synthesize what you haven't read; you can't responsibly invent answers until you know what's actually already settled (Step 1); and you can't find cross-file implications until there's enough material — including your own invented answers from Step 2 — to actually cross-reference. Skipping straight to invention risks contradicting something already established. Skipping straight to cross-referencing without first synthesizing risks missing the throughline that makes the later findings cohere into something more than a list of trivia. Doing all three, in this order, for every city that goes through the Megasheet process, is what turns five independently-written documents into something that reads like it was designed as one whole from the start — even though it wasn't.
+
+---
+
+**Generation 2 (2026-11-10):** the new megasheets, written after every city has finished the ULM, the CST and the RWBEM, follow `City_Megasheet_Compilation_Guide_Gen2.md` and are tracked in `Megasheet_Progress_Checklist_Gen2.md`. This guide stays unchanged as the record of how the Generation 1 megasheets were made.

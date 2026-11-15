@@ -1,0 +1,68 @@
+tool: Tools/quotation_audit.py, last change 2026-11-02
+command: python3 Tools/quotation_audit.py <Mirny folder> --files Amendment_Rederivation_OWN_2026-11-11.md --own-pass
+pass audited : Mirny
+corpus mode  : default (own pass excluded)
+corpus files : 6616   chars: 88,088,996
+files audited: Amendment_Rederivation_OWN_2026-11-11.md
+own-pass mode: a quotation may also be found in this pass's OTHER files (never in its own file)
+
+=== POSITIVE CONTROLS ===
+  [easy                      ] FOUND     a terminus is nobody's midpoint
+  [HARD - blockquote wrap    ] FOUND     A pass may not proceed to Step 5 with a NEVER CITED row
+  [HARD - outside Worldspace ] FOUND     Paste raw QA scan output into the QA block. Never summa
+  [HARD - case mismatch      ] FOUND     YOU GO TO ESPERANZA AND YOU DO NOT COME HOME FOR FOUR Y
+  [HARD - long wrapped       ] FOUND     Different content is not differentiation; a different q
+
+  INSTRUMENT VALID: YES
+  NEGATIVE CONTROL (must be absent): PASS - absent
+
+=== QUOTATION AUDIT ===
+fragments tested (single-line, ellipsis-split, >=7 words): 128
+NOT FOUND in corpus: 40
+  of those, in TABLE CELLS : 12
+  of those, in PROSE       : 28
+
+  [Amendment_Rederivation_OWN_2026-11-11.md:33]           in round 3, a found no passage for that, and c asked the merge to mark it as inference. written: what dec-183 's
+  [Amendment_Rederivation_OWN_2026-11-11.md:88]           true only of mirny's canon lines outside the culture file
+  [Amendment_Rederivation_OWN_2026-11-11.md:104]           but the conclusion was never narrowed to match. what falls is the count
+  [Amendment_Rederivation_OWN_2026-11-11.md:113]           falls as a tie with the west road neighbor, and p5 l310's
+  [Amendment_Rederivation_OWN_2026-11-11.md:125]           are admissible under (b) but add nothing beyond crd l340 and hwy l199
+  [Amendment_Rederivation_OWN_2026-11-11.md:125]           risks inviting reads of other cities' entries
+  [Amendment_Rederivation_OWN_2026-11-11.md:130]           mirny's surviving supply role ties it to the subnet's line
+  [Amendment_Rederivation_OWN_2026-11-11.md:131]           ( crd l341). the subnet table lists those two hub names as two separate subnets ( crd l48, l49; l42
+  [Amendment_Rederivation_OWN_2026-11-11.md:137]           my list does not show whether any other member's road line exists
+  [Amendment_Rederivation_OWN_2026-11-11.md:138]           not a line mirny is named in, and grounded in another city's lines
+  [Amendment_Rederivation_OWN_2026-11-11.md:150]           is the item readers' recorded last line. only section h (l137 to l176) was added after. (a, c; b's
+  [Amendment_Rederivation_OWN_2026-11-11.md:167]           gives no era and no plan. whether a crossing exists in either act, and whether it was ever intended, planned or refused, and by wh
+  [Amendment_Rederivation_OWN_2026-11-11.md:179]           the one that mirny's lines tie to mirny by the relay alone
+  [Amendment_Rederivation_OWN_2026-11-11.md:180]           ( st8b l426). the pass's fallback is the road, and
+  [Amendment_Rederivation_OWN_2026-11-11.md:233]           calc 5 2 1 8 . lc l235's correction is dated
+  [Amendment_Rederivation_OWN_2026-11-11.md:250]           a (round 3) found that a small overreach, since l341 does not say whose choice it was. c accepted b's line as d, low . the line is
+  [Amendment_Rederivation_OWN_2026-11-11.md:308]           whether the two road neighbors receive on the coastal supply line not stated on mirny's lines their own entries carry it; excluded
+  [Amendment_Rederivation_OWN_2026-11-11.md:325]           and b (round 3) rated it the strongest third order. a (round 3) objected that lc l228 states a
+  [Amendment_Rederivation_OWN_2026-11-11.md:325]           whose content is unstated, so the slot is open and not settled as carriage. written: carriage is recorded and exchange is not. whe
+  [Amendment_Rederivation_OWN_2026-11-11.md:333]           mirny's road is hwy 110, on which it is the midpoint
+  [Amendment_Rederivation_OWN_2026-11-11.md:335]           no road reaches mirny directly from one member of its subnet
+  [Amendment_Rederivation_OWN_2026-11-11.md:339]           the eight are mirny's to carry because of where they lie
+  [Amendment_Rederivation_OWN_2026-11-11.md:341]           mirny's port primacy is inferred from its switchboard, not stated from its sea
+  [Amendment_Rederivation_OWN_2026-11-11.md:352]           names the readers who confirmed the point in round 3 cross-checks or adopted it in their round 3 merge view
+  [Amendment_Rederivation_OWN_2026-11-11.md:357]  [CELL]  a found no passage for it, and c asked that it be marked as inference. written: what the
+  [Amendment_Rederivation_OWN_2026-11-11.md:362]  [CELL]  is narrower than written a, b, c a, b, c c's
+  [Amendment_Rederivation_OWN_2026-11-11.md:387]  [CELL]  the eight are mirny's to carry because of where they lie
+  [Amendment_Rederivation_OWN_2026-11-11.md:404]  [CELL]  one member's road link to mirny: not listed on hwy 110's route and not a direct neighbor ( hwy l199; crd l340); no direct link acr
+  [Amendment_Rederivation_OWN_2026-11-11.md:407]  [CELL]  narrows to mirny's own entry ( crd l341: hub port, likely the primary receiving point for
+  [Amendment_Rederivation_OWN_2026-11-11.md:410]  [CELL]  whether the two road neighbors receive on the coastal supply line: not stated on mirny's lines
+  [Amendment_Rederivation_OWN_2026-11-11.md:411]  [CELL]  falls as a tie with the west road neighbor on mirny's lines, and l310's
+  [Amendment_Rederivation_OWN_2026-11-11.md:412]  [CELL]  ) reads each neighbor's view of mirny from that neighbor's own entry alone, a clause grounded only in another city's lines, so
+  [Amendment_Rederivation_OWN_2026-11-11.md:415]  [CELL]  holds only for the spur member's own access and on the new ground, and
+  [Amendment_Rederivation_OWN_2026-11-11.md:416]  [CELL]  on hwy l272 to l283 narrows to the clause test of dr-131 item 3: l278's hwy 110 route clause repeats the admitted l199, and its
+  [Amendment_Rederivation_OWN_2026-11-11.md:423]  [CELL]  sets the culture file's count of the other members (
+  [Amendment_Rederivation_OWN_2026-11-11.md:428]  [CELL]  ), which stands on crd l49 together with its
+  [Amendment_Rederivation_OWN_2026-11-11.md:461]           ( developer rulings log.md l1949, whose examples are
+  [Amendment_Rederivation_OWN_2026-11-11.md:472]           ( drl l1867), so the earlier answer may have covered this exact line (b). (that dec-183 is decision 4, and what its
+  [Amendment_Rederivation_OWN_2026-11-11.md:478]           the other eight cities of the mirny subnet ( city relationship database.md 2)
+  [Amendment_Rederivation_OWN_2026-11-11.md:485]           whether the two road neighbors receive on the coastal supply line not stated on mirny's lines their own entries carry it; excluded
+
+⚠ TRIAGE BY HAND. A miss is not yet a defect: the pass quoting ITSELF, and
+  connective prose captured between two adjacent quotations, both show here.
+  Confirm each at source before calling it a defect.

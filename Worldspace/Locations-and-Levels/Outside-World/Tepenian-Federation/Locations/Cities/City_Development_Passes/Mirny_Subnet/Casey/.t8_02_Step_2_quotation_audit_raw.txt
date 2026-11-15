@@ -1,0 +1,34 @@
+tool: Tools/quotation_audit.py, last change 2026-11-02
+command: python3 Tools/quotation_audit.py <Casey folder> --files 02_Spine.md --own-pass
+pass audited : Casey
+corpus mode  : default (own pass excluded)
+corpus files : 7118   chars: 114,833,847
+files audited: 02_Spine.md
+own-pass mode: a quotation may also be found in this pass's OTHER files (never in its own file)
+
+=== POSITIVE CONTROLS ===
+  [easy                      ] FOUND     a terminus is nobody's midpoint
+  [HARD - blockquote wrap    ] FOUND     A pass may not proceed to Step 5 with a NEVER CITED row
+  [HARD - outside Worldspace ] FOUND     Paste raw QA scan output into the QA block. Never summa
+  [HARD - case mismatch      ] FOUND     YOU GO TO ESPERANZA AND YOU DO NOT COME HOME FOR FOUR Y
+  [HARD - long wrapped       ] FOUND     Different content is not differentiation; a different q
+
+  INSTRUMENT VALID: YES
+  NEGATIVE CONTROL (must be absent): PASS - absent
+
+=== QUOTATION AUDIT ===
+fragments tested (single-line, ellipsis-split, >=7 words): 39
+NOT FOUND in corpus: 6
+  of those, in TABLE CELLS : 0
+  of those, in PROSE       : 6
+
+  [02_Spine.md:35]           tag (census l33) is carried at demoted weight, as a label on the register designation
+  [02_Spine.md:40]           ( 16 l267, l244). the legend names the columns and no more
+  [02_Spine.md:62]           (spec l103): about 225 mm falls, about 86 mm lands (38.2%), and about 139 mm a year is
+  [02_Spine.md:198]           (spec l135). the opening is staggered. the light turns at the june solstice (spec l125
+  [02_Spine.md:221]           (contract l79), and the frame's founding condition is without what
+  [02_Spine.md:301]           (contract l237 via contract, spec l201 part 3 ); the
+
+⚠ TRIAGE BY HAND. A miss is not yet a defect: the pass quoting ITSELF, and
+  connective prose captured between two adjacent quotations, both show here.
+  Confirm each at source before calling it a defect.
