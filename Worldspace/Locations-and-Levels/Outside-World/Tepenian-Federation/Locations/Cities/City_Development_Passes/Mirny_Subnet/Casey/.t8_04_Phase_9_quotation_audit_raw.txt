@@ -1,0 +1,41 @@
+pass audited : Casey
+corpus mode  : default (own pass excluded)
+corpus files : 7119   chars: 115,136,547
+files audited: 04_Phase_09_Populations.md
+own-pass mode: a quotation may also be found in this pass's OTHER files (never in its own file)
+
+=== POSITIVE CONTROLS ===
+  [easy                      ] FOUND     a terminus is nobody's midpoint
+  [HARD - blockquote wrap    ] FOUND     A pass may not proceed to Step 5 with a NEVER CITED row
+  [HARD - outside Worldspace ] FOUND     Paste raw QA scan output into the QA block. Never summa
+  [HARD - case mismatch      ] FOUND     YOU GO TO ESPERANZA AND YOU DO NOT COME HOME FOR FOUR Y
+  [HARD - long wrapped       ] FOUND     Different content is not differentiation; a different q
+
+  INSTRUMENT VALID: YES
+  NEGATIVE CONTROL (must be absent): PASS - absent
+
+=== QUOTATION AUDIT ===
+fragments tested (single-line, ellipsis-split, >=7 words): 58
+NOT FOUND in corpus: 15
+  of those, in TABLE CELLS : 0
+  of those, in PROSE       : 15
+
+  [04_Phase_09_Populations.md:198]           (rulings l1995, in substance). identity is seated in city-locality
+  [04_Phase_09_Populations.md:198]           (ch. 13 l35), not gen/mark or build (ch. 13 l24-36). at the height
+  [04_Phase_09_Populations.md:228]           (frame l282) (a); robots built early and late are
+  [04_Phase_09_Populations.md:228]           (physiology l215, as frame l120 quotes it); a robot built at or before the exile can carry firsthand memory of upper earth across 
+  [04_Phase_09_Populations.md:342]           in the crossing (p5-27 1) (a); origin cannot draw the line, because no community holds a majority (p2-1 3); founding confers no st
+  [04_Phase_09_Populations.md:342]           ( 04 phase 07 l427) (a); casey's composition reads best along
+  [04_Phase_09_Populations.md:342]           ( 04 phase 02 l461) (a); having wintered is
+  [04_Phase_09_Populations.md:342]           ( 02 spine l145), and a standard of worth by wintering is refused (p6-6) (b)
+  [04_Phase_09_Populations.md:390]           (ch. 3 l82), and casey's build weighting cannot be read (p8-31); gen/mark is real, city-independent and never a hierarchy
+  [04_Phase_09_Populations.md:531]           ), it fits the ruling's own reasoning (no predominant x exists to be considered, and
+  [04_Phase_09_Populations.md:603]           (settled by reading both lines). a's own 3 says
+  [04_Phase_09_Populations.md:617]           ). a and c in round 3: b's own lines say only that no chooser is sited, and p2-10 closes on the open slot. written
+  [04_Phase_09_Populations.md:618]           every resident robot is the stranger at someone else's heated door
+  [04_Phase_09_Populations.md:640]           clause re-cited from frame l281 to 02 spine l284; three quotations of capitalized lines unquoted as substance. found in round 3: a
+  [04_Phase_09_Populations.md:658]           row (splits 15, dq-28); the frame (l253-256, l264, l272, l275, l281), for the casting rule (split 17), the robot share (snag 1) an
+
+⚠ TRIAGE BY HAND. A miss is not yet a defect: the pass quoting ITSELF, and
+  connective prose captured between two adjacent quotations, both show here.
+  Confirm each at source before calling it a defect.

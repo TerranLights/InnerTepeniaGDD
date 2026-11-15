@@ -1,0 +1,27 @@
+== 04_Phase_04_Ordinary_Life.md
+79:raised
+93:raised
+184:judgement
+203:rises
+252:raised
+253:raised
+259:judgement
+315:promises
+315:promises
+450:raised
+552:rises
+575:raised
+597:raised
+719:raised
+720:raised
+745:raised
+752:cancellation
+== Casey_Research_Log.md (Session 3)
+788: cancelled
+789: cancelled
+836: cancelled
+864: cancelled
+880: cancellation
+893: cancellation
+903: Raised
+920: cancelled

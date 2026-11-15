@@ -1,0 +1,7 @@
+== 04_Phase_06_Meaning.md
+101:raised
+151:exercised
+175:raises
+325:promises
+514:honour
+525:honour

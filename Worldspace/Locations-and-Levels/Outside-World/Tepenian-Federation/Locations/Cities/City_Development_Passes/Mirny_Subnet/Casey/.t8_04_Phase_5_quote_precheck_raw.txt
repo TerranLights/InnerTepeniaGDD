@@ -1,0 +1,17 @@
+quoted strings (2+ words): 121 · found 113 · not found 8
+  L221: NE → […] / coastal chain
+  L221: SW → […]
+  L221: *(junction with Hwy 110)* → Casey → […]
+  L221: Short coastal route along the […] Sea.
+  L226: The Denman Glacier crossing is not built; there is no western link to […].
+  L260: Short coastal route along the […] Sea.
+  L353: continue on via air to either […] or Casey
+  L353: the onward-flight access should be to […], then
+--- elision re-check (orchestrator): each '[…]' read as a gap of 1-40 characters
+FOUND   NE → […] / coastal chain   => ne → mirny / coastal chain
+FOUND   SW → […]   => sw → 
+FOUND   *(junction with Hwy 110)* → Casey → […]   => (junction with hwy 110) → casey → 
+FOUND   Short coastal route along the […] Sea.   => short coastal route along the dumont d'urville sea.
+FOUND   The Denman Glacier crossing is not built; there is no western link to […].   => the denman glacier crossing is not built; there is no western link to mirny.
+FOUND   continue on via air to either […] or Casey   => continue on via air to either mirny or casey
+FOUND   the onward-flight access should be to […], then   => the onward-flight access should be to mirny, then

@@ -1,0 +1,32 @@
+pass audited : Casey
+corpus mode  : default (own pass excluded)
+corpus files : 7119   chars: 115,123,852
+files audited: 04_Phase_07_Order.md
+own-pass mode: a quotation may also be found in this pass's OTHER files (never in its own file)
+
+=== POSITIVE CONTROLS ===
+  [easy                      ] FOUND     a terminus is nobody's midpoint
+  [HARD - blockquote wrap    ] FOUND     A pass may not proceed to Step 5 with a NEVER CITED row
+  [HARD - outside Worldspace ] FOUND     Paste raw QA scan output into the QA block. Never summa
+  [HARD - case mismatch      ] FOUND     YOU GO TO ESPERANZA AND YOU DO NOT COME HOME FOR FOUR Y
+  [HARD - long wrapped       ] FOUND     Different content is not differentiation; a different q
+
+  INSTRUMENT VALID: YES
+  NEGATIVE CONTROL (must be absent): PASS - absent
+
+=== QUOTATION AUDIT ===
+fragments tested (single-line, ellipsis-split, >=7 words): 49
+NOT FOUND in corpus: 6
+  of those, in TABLE CELLS : 0
+  of those, in PROSE       : 6
+
+  [04_Phase_07_Order.md:23]           ( 09 l5) pa-13 ; the rates and their reasoning (l12-40); the affected/immune split (l42-44); the formula (l50)
+  [04_Phase_07_Order.md:194]           disruption to a construction project, not steady-state operation in a permanently hostile place
+  [04_Phase_07_Order.md:236]           with distributed and localized elements (highways l15-16, as 04 phase 05 l324 quotes it), and its central administration exists bu
+  [04_Phase_07_Order.md:303]           (highways l380, as 04 phase 05 l409 quotes it), a heated room before it is a social room (p5-24 2); the comparables give three for
+  [04_Phase_07_Order.md:365]           (physiology l434); a built robot's start is a build and a mentor ( 04 phase 04 l215); a casey-built robot records the city's own d
+  [04_Phase_07_Order.md:683]           is at frame l245 (the physiology file's version wraps across l347-348), so it is cited to the frame (p7-16); the institutes' trave
+
+⚠ TRIAGE BY HAND. A miss is not yet a defect: the pass quoting ITSELF, and
+  connective prose captured between two adjacent quotations, both show here.
+  Confirm each at source before calling it a defect.

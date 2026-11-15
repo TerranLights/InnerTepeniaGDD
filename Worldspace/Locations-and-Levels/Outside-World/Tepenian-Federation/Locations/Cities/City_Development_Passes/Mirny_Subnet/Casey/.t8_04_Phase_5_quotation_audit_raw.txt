@@ -1,0 +1,45 @@
+pass audited : Casey
+corpus mode  : default (own pass excluded)
+corpus files : 7119   chars: 115,080,426
+files audited: 04_Phase_05_Relation_and_Geometry.md
+own-pass mode: a quotation may also be found in this pass's OTHER files (never in its own file)
+
+=== POSITIVE CONTROLS ===
+  [easy                      ] FOUND     a terminus is nobody's midpoint
+  [HARD - blockquote wrap    ] FOUND     A pass may not proceed to Step 5 with a NEVER CITED row
+  [HARD - outside Worldspace ] FOUND     Paste raw QA scan output into the QA block. Never summa
+  [HARD - case mismatch      ] FOUND     YOU GO TO ESPERANZA AND YOU DO NOT COME HOME FOR FOUR Y
+  [HARD - long wrapped       ] FOUND     Different content is not differentiation; a different q
+
+  INSTRUMENT VALID: YES
+  NEGATIVE CONTROL (must be absent): PASS - absent
+
+=== QUOTATION AUDIT ===
+fragments tested (single-line, ellipsis-split, >=7 words): 53
+NOT FOUND in corpus: 19
+  of those, in TABLE CELLS : 0
+  of those, in PROSE       : 19
+
+  [04_Phase_05_Relation_and_Geometry.md:209]           (highways l199, l206); the inland terminus is
+  [04_Phase_05_Relation_and_Geometry.md:209]           (highways l204). hwy 2 begins at the junction at casey (spec l7, which governs, dr-105 item 1; db l168
+  [04_Phase_05_Relation_and_Geometry.md:221]           (db l169), and the computed bearings about 260 and 160 (p5-4) (a, b, c; dq-18); (b) the junction index lists only
+  [04_Phase_05_Relation_and_Geometry.md:221]           at casey (highways l291), omitting hwy 2, and the route line writes
+  [04_Phase_05_Relation_and_Geometry.md:221]           (highways l90), placing the junction ahead of casey in the route string; spec l7 governs (b, a single-reader find; a and c confirm
+  [04_Phase_05_Relation_and_Geometry.md:233]           (ports l245, dr-96 ); its freight airport carries
+  [04_Phase_05_Relation_and_Geometry.md:260]           (highways l96); a direct cross-subnet link (xsr l42, l94); the eastern neighbor's own neighbor line names
+  [04_Phase_05_Relation_and_Geometry.md:268]           and on to the inland terminus (xsr l53-54); the subnet's direct links east and inland both start at casey (xsr l94, l99); the inla
+  [04_Phase_05_Relation_and_Geometry.md:268]           (db l180-181); the western neighbor's neighbor line names casey to its east (db l340); spec l8
+  [04_Phase_05_Relation_and_Geometry.md:352]           (ports l196); casey in that port's primary band (ports l240); voyages
+  [04_Phase_05_Relation_and_Geometry.md:352]           in ice-capable resupply ships of 1,200 to 3,000 deadweight tons (ports l218, developer-confirmed); the second staging port at 3,82
+  [04_Phase_05_Relation_and_Geometry.md:417]           (contract l237 via contract ); the go/no-go local (highways l30); a mild day
+  [04_Phase_05_Relation_and_Geometry.md:575]           (airports l104); dr-82 keeps its no-air-access status and sends the winter intake's onward flights to the subnet's hub (rulings l1
+  [04_Phase_05_Relation_and_Geometry.md:575]           (airports l3), and in-frame existence of airports is deferred ( dr-51 , as airports l12, l22 and rulings l1500 record it)
+  [04_Phase_05_Relation_and_Geometry.md:575]           is the record's word for a decision of 2026-10-29, not an in-world history; so whether casey
+  [04_Phase_05_Relation_and_Geometry.md:626]           (db l169); the great circle from casey's coordinates bears about 260 , west-southwest computed . the road record says the spur can
+  [04_Phase_05_Relation_and_Geometry.md:631]           means casey never had one or no longer has one; the record's
+  [04_Phase_05_Relation_and_Geometry.md:759]           not the line before it; ports.md 's middle admitted line is l112, which begins
+  [04_Phase_05_Relation_and_Geometry.md:763]           answer for row 12, rewritten as both readings side by side under dr-136 item 6 (a). b's first 5d listed founding arrivals as an ar
+
+⚠ TRIAGE BY HAND. A miss is not yet a defect: the pass quoting ITSELF, and
+  connective prose captured between two adjacent quotations, both show here.
+  Confirm each at source before calling it a defect.

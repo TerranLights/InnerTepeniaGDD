@@ -1,0 +1,29 @@
+pass audited : Casey
+corpus mode  : default (own pass excluded)
+corpus files : 7119   chars: 115,167,823
+files audited: 04_Phase_10_Catalog.md
+own-pass mode: a quotation may also be found in this pass's OTHER files (never in its own file)
+
+=== POSITIVE CONTROLS ===
+  [easy                      ] FOUND     a terminus is nobody's midpoint
+  [HARD - blockquote wrap    ] FOUND     A pass may not proceed to Step 5 with a NEVER CITED row
+  [HARD - outside Worldspace ] FOUND     Paste raw QA scan output into the QA block. Never summa
+  [HARD - case mismatch      ] FOUND     YOU GO TO ESPERANZA AND YOU DO NOT COME HOME FOR FOUR Y
+  [HARD - long wrapped       ] FOUND     Different content is not differentiation; a different q
+
+  INSTRUMENT VALID: YES
+  NEGATIVE CONTROL (must be absent): PASS - absent
+
+=== QUOTATION AUDIT ===
+fragments tested (single-line, ellipsis-split, >=7 words): 15
+NOT FOUND in corpus: 3
+  of those, in TABLE CELLS : 0
+  of those, in PROSE       : 3
+
+  [04_Phase_10_Catalog.md:353]           ( 04 phase 06 l311; s2-25). whoever is not on the last ship stays seven months; the last days are spent counting the store; the ha
+  [04_Phase_10_Catalog.md:430]           (elementals l118) as contradicting a city made from the hold; c records a fit, its duration
+  [04_Phase_10_Catalog.md:514]           (frame l252). phase 7 separately writes, as an expression of its mandate trade (soc 43-5000)
+
+⚠ TRIAGE BY HAND. A miss is not yet a defect: the pass quoting ITSELF, and
+  connective prose captured between two adjacent quotations, both show here.
+  Confirm each at source before calling it a defect.

@@ -690,7 +690,7 @@ ALL FIVE sub-questions are now peer-free, for every location.**
 which direction, and what does not. **Distinguish the loud friction from the quiet one — the quiet one is
 usually nastier and better material.** *(Optional for isolated locations — see the weighting above.)*
 
-**5b — The three-way differentiation set.**
+**5b — The three-way differentiation set.** ⏸️ **AMENDED 2026-11-15 (`DR-137`, from Casey's run): the own-eras form below is NOT RUN INSIDE A PASS either, and the reason is ORDER, not prohibition.** *Developer:* *"we calculate, synthesize, and derive what a society is like at its peak. That way we can extrapolate how it got there, and then how it later declined. Also, it is additionally possible that a particular location may theoretically have multiple peaks, in which case, what we're doing is synthesizing an overall average, and then we'll work out the details later."* **So a pass derives the place at its peak (`DR-136` item 6); its founding and its crisis are extrapolated FROM that peak afterward, with the histories and the terminal check, where this form returns; where a place may have had more than one peak, the pass writes an overall average of its height and the details come later.** **In-run, Phase 5 records 5b as a null with this reason** (as Casey's Phase 5 did). The text below is kept for the stage where it runs.
 
 > # ⛔⛔⛔ THE SIBLING FORM OF 5b IS WITHDRAWN FROM EVERY ULM / CST / RWBEM PASS — **RULED 2026-09-06**
 > > ### **"During the course of the ULM/CST/RWBEM, just follow the data wherever it leads for one single location on its own terms, and we'll worry about differentiation later."** *(Developer, 2026-09-06.)*

@@ -1,0 +1,3 @@
+quoted strings (2+ words): 107 · found 105 · not found 2
+  L578: only natives
+  L618: any robot ... may be

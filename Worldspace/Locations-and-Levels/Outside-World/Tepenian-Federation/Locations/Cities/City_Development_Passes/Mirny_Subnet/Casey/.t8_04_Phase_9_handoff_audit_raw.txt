@@ -1,0 +1,117 @@
+pass audited : Casey
+phase files  : 8
+
+=== CONTROLS (edit these per pass; they are what makes a zero trustworthy) ===
+  PHASES WITH A FORMAL SWEEP BLOCK (found in this pass): 2, 3, 4, 5, 6, 7, 8, 9
+  PHASES WITH NO TRACE OF A SWEEP (found in this pass)  : none
+  SELF-TEST (fixed positive and negative strings)       : passed
+  INSTRUMENT VALID: YES - the detector separates a formal block from no block on the built-in controls
+
+  phase | outbound | sweep    | rows | verdict
+  ------+----------+----------+------+---------
+      2 |        0 | FORMAL   |   16 | n/a - nothing addressed to it
+      3 |        1 | FORMAL   |   32 | reconcile 32 enumerated against 1 outbound
+      4 |        9 | FORMAL   |   44 | reconcile 44 enumerated against 9 outbound
+      5 |       15 | FORMAL   |  131 | reconcile 131 enumerated against 15 outbound
+      6 |        4 | FORMAL   |   28 | reconcile 28 enumerated against 4 outbound
+      7 |       21 | FORMAL   |   88 | reconcile 88 enumerated against 21 outbound
+      8 |        8 | FORMAL   |   23 | reconcile 23 enumerated against 8 outbound
+      9 |       21 | FORMAL   |   50 | reconcile 50 enumerated against 21 outbound
+
+TOTAL outbound handoff rows: 85
+PHASES WITH ROWS ADDRESSED TO THEM AND NO ENUMERATION: 0
+
+=== outbound rows, per target, for hand reconciliation ===
+  -> Phase 3:
+       [04_Phase_02_Composition_and_Arrival.md]  | **Phase 3** | What of the inherited base was not carried over, whether the loss lasted
+  -> Phase 4:
+       [04_Phase_02_Composition_and_Arrival.md]  | **Phase 4** | Whose ordinary day (spine L468): the general population is the born-here
+       [04_Phase_02_Composition_and_Arrival.md]  | **Phase 4** | The research capacity of spec L195, at the step that reads V10 (`01_Inhe
+       [04_Phase_02_Composition_and_Arrival.md]  | **Phase 4** | The shut half's closed population and the seasonal weight of winter skil
+       [04_Phase_02_Composition_and_Arrival.md]  | **Phase 4** | S3-39 turned inward [PA-5]: the flow, travelers and crews as a possible 
+       [04_Phase_03_Surface_and_Texture.md]  | **Phase 4** | The day's physical structure for both bodies: outdoors and the heated do
+       [04_Phase_03_Surface_and_Texture.md]  | **Phase 4** | Whose ordinary day hears the season underfoot: the squeak half equals th
+       [04_Phase_03_Surface_and_Texture.md]  | **Phase 4** | For robots, a storm registered through the walls in heated rest (P3-16 →
+       [04_Phase_03_Surface_and_Texture.md]  | **Phase 4** | Questions only: calm days carry sound across frozen bays (P3-15, inferen
+       [04_Phase_03_Surface_and_Texture.md]  | **Phase 4** | REQ-32: admit split spec lines by part at the step that first uses them;
+  -> Phase 5:
+       [04_Phase_02_Composition_and_Arrival.md]  | **Phase 5** | Who the visitor is (spine L468): the flow (travelers, convoys, ship crew
+       [04_Phase_02_Composition_and_Arrival.md]  | **Phase 5** | The closing as the year's decision point for anyone at Casey by sea; att
+       [04_Phase_02_Composition_and_Arrival.md]  | **Phase 5** | The instrument's later doors: electors (II.2.5), later-exiled robots (II
+       [04_Phase_03_Surface_and_Texture.md]  | **Phase 5** | First impressions of those who arrive, by sea, by road [PA-5] and for th
+       [04_Phase_03_Surface_and_Texture.md]  | **Phase 5** | The internal map that changes with the season (P3-35 →2, (c)): water div
+       [04_Phase_03_Surface_and_Texture.md]  | **Phase 5** | The decision point's danger sign: calm from the sea while cold builds on
+       [04_Phase_03_Surface_and_Texture.md]  | **Phase 5** | Signs of summer that are not access: the sea opens at the island coasts 
+       [04_Phase_03_Surface_and_Texture.md]  | **Phase 5** | The working city's ground-bound buildings and their dug-out doors, scope
+       [04_Phase_03_Surface_and_Texture.md]  | **Phase 5** | REQ-32, as for Phase 4 | sweep row 31 · P3C sweep row 20 |
+       [04_Phase_04_Ordinary_Life.md]  | **Phase 5** | The held robot's and the flow's nightly heat: who gives it and on what t
+       [04_Phase_04_Ordinary_Life.md]  | **Phase 5** | The internal map: whether the city's parts are joined over ice in the sh
+       [04_Phase_04_Ordinary_Life.md]  | **Phase 5** | The bright-weeks rhythm: the stop at the door, the firm night hours, owe
+       [04_Phase_04_Ordinary_Life.md]  | **Phase 5** | Road news as part of the resident's ordinary day [PA-5] (P4-20); the ice
+       [04_Phase_04_Ordinary_Life.md]  | **Phase 5** | Care staff arriving and leaving in windows; the outbound resident who ca
+       [04_Phase_04_Ordinary_Life.md]  | **Phase 5** | REQ-32: split spec lines still not admitted by part (sweep row 13) | swe
+  -> Phase 6:
+       [04_Phase_02_Composition_and_Arrival.md]  | **Phase 6** | Necessity Before Meaning: what moral, if any, was hung on the founding w
+       [04_Phase_02_Composition_and_Arrival.md]  | **Phase 6** | A warning for Phases 6 to 9: the native layer must not be written as wea
+       [04_Phase_04_Ordinary_Life.md]  | **Phase 6** | Candidate sites only, nothing created (RF-7): the blizzard day as unsche
+       [04_Phase_05_Relation_and_Geometry.md]  | **Phase 6** | Necessity before meaning at the edge, candidate sites only, nothing crea
+  -> Phase 7:
+       [04_Phase_02_Composition_and_Arrival.md]  | **Phase 7** | The founding administration (II.4) and local councils (I.4): who held it
+       [04_Phase_02_Composition_and_Arrival.md]  | **Phase 7** | The records' keepers: who keeps and reads them, on what terms, and wheth
+       [04_Phase_02_Composition_and_Arrival.md]  | **Phase 7** | Heat and arrival: whether any rule decides who is given heated rest to w
+       [04_Phase_03_Surface_and_Texture.md]  | **Phase 7** | Who decided what of the inherited base was kept (`04_Phase_02` L486; P3-
+       [04_Phase_04_Ordinary_Life.md]  | **Phase 7** | Who keeps heat, water and clearing through the shared night and on storm
+       [04_Phase_04_Ordinary_Life.md]  | **Phase 7** | Who provides heated places away from home, in storms and for travelers, 
+       [04_Phase_04_Ordinary_Life.md]  | **Phase 7** | Whether the hold is household-, city- or parent-run; who cannot lay in; 
+       [04_Phase_04_Ordinary_Life.md]  | **Phase 7** | How a care trainee's departure and return are arranged, and how care pos
+       [04_Phase_04_Ordinary_Life.md]  | **Phase 7** | Who makes the morning weather call and what closes; how schooling meets 
+       [04_Phase_04_Ordinary_Life.md]  | **Phase 7** | What the free tier's 491,945 workers do (Casey's sector shares, at Step 
+       [04_Phase_04_Ordinary_Life.md]  | **Phase 7** | Whether anyone protects the robot majority's leisure in the bright weeks
+       [04_Phase_05_Relation_and_Geometry.md]  | **Phase 7** | Who makes the go/no-go at the decision point, under the network's local 
+       [04_Phase_05_Relation_and_Geometry.md]  | **Phase 7** | Who keeps the nodes and heated waiting rooms, and on what terms a rider,
+       [04_Phase_05_Relation_and_Geometry.md]  | **Phase 7** | Who lays in and who counts (membership as provisioning, conditional on t
+       [04_Phase_05_Relation_and_Geometry.md]  | **Phase 7** | Who keeps the spur city's unshipped bulk goods at Casey through the shut
+       [04_Phase_05_Relation_and_Geometry.md]  | **Phase 7** | Whether road traffic in the shut half draws on the sea-laid store; who d
+       [04_Phase_05_Relation_and_Geometry.md]  | **Phase 7** | The internal crossings of the bays by season: who opens one, if any; nev
+       [04_Phase_05_Relation_and_Geometry.md]  | **Phase 7** | Ordering the dependencies Casey cannot make: care posts across the shut 
+       [04_Phase_06_Meaning.md]  | **Phase 7** | Who keeps the warm night: who provides the warm room at the day's end to
+       [04_Phase_06_Meaning.md]  | **Phase 7** | Who records, if anyone: the held, the nights a robot rested cold, the de
+       [04_Phase_06_Meaning.md]  | **Phase 7** | The keepers of heat as the people the promise rests on, conditional on P
+  -> Phase 8:
+       [04_Phase_02_Composition_and_Arrival.md]  | **Phase 8** | Languages outside the supporting tier (`01_Inherited` L295; S1-14): hous
+       [04_Phase_03_Surface_and_Texture.md]  | **Phase 8** | What Casey builds with: no admitted material (P3-8); the country rock as
+       [04_Phase_04_Ordinary_Life.md]  | **Phase 8** | The street shaped by wind and drift: warm stops, door-to-door routes, in
+       [04_Phase_04_Ordinary_Life.md]  | **Phase 8** | Dry interiors and any remedy | P4-44 · P4A-HF-5, P4B-HF-11 |
+       [04_Phase_04_Ordinary_Life.md]  | **Phase 8** | What residents make and use for the day's frame: outdoor clothing for bo
+       [04_Phase_05_Relation_and_Geometry.md]  | **Phase 8** | What the nodes, the heated waiting rooms and the junction's vehicle-serv
+       [04_Phase_07_Order.md]  | **Phase 8** | What is built for the order: warm stopping places, heated nodes and publ
+       [04_Phase_07_Order.md]  | **Phase 8** | What Casey makes: the free tier's goods and the non-thematic export, if 
+  -> Phase 9:
+       [04_Phase_02_Composition_and_Arrival.md]  | **Phase 9** | Which populations exist (spine L468): exile-era robots, sent and a persi
+       [04_Phase_03_Surface_and_Texture.md]  | **Phase 9** | The robot body at Casey: hearing direction (P3-16, under DQ-14); the che
+       [04_Phase_04_Ordinary_Life.md]  | **Phase 9** | Whether a recharging robot perceives, and whether storm vibration touche
+       [04_Phase_04_Ordinary_Life.md]  | **Phase 9** | The robot body in the cold: permanent capacity loss as individual histor
+       [04_Phase_04_Ordinary_Life.md]  | **Phase 9** | Built for a need, free to leave; build weighting and build needs once se
+       [04_Phase_04_Ordinary_Life.md]  | **Phase 9** | Populations: the human half outside the modeled workforce; the child and
+       [04_Phase_04_Ordinary_Life.md]  | **Phase 9** | In the bright weeks, households with no held schedule: their humans drif
+       [04_Phase_05_Relation_and_Geometry.md]  | **Phase 9** | The robot traveler and the held robot: nightly heat away from home as a 
+       [04_Phase_06_Meaning.md]  | **Phase 9** | Memory by cohort: exile-era and founding-era robots as the city's only l
+       [04_Phase_06_Meaning.md]  | **Phase 9** | The damaged, not the dead: robots whose capacity was reduced by broken n
+       [04_Phase_06_Meaning.md]  | **Phase 9** | The meaning distribution as populations by position relative to the heat
+       [04_Phase_06_Meaning.md]  | **Phase 9** | Whether robots feel cold (DQ-14; PA-11), on which the mild-week leg turn
+       [04_Phase_07_Order.md]  | **Phase 9** | Populations by position in the order: the keepers of heat and clearing (
+       [04_Phase_07_Order.md]  | **Phase 9** | The candidate dispositions, never a faction (RF-7): night-makers, teache
+       [04_Phase_07_Order.md]  | **Phase 9** | Robot turnover by will, not age: what a labor order means for a body tha
+       [04_Phase_07_Order.md]  | **Phase 9** | Who attends a death in the shut half and who carries word of a lost pass
+       [04_Phase_08_Making.md]  | **Phase 9** | The robot body in Casey's cold, as making meets it: whether robot skin a
+       [04_Phase_08_Making.md]  | **Phase 9** | The robot speaker: exile-era robots as long-lived carriers of languages 
+       [04_Phase_08_Making.md]  | **Phase 9** | The robot half as tended bodies through the shut half: robot-care worker
+       [04_Phase_08_Making.md]  | **Phase 9** | The music listener: the direction of the robots' wider hearing (DQ-14; R
+       [04_Phase_08_Making.md]  | **Phase 9** | The coat's two stakes as a population fact: robots whose outdoor work is
+  -> Phase 10:
+       [04_Phase_03_Surface_and_Texture.md]  | **Phase 10** | Naming places from what they look like: scoured crests, lee drifts, whi
+       [04_Phase_05_Relation_and_Geometry.md]  | **Phase 10** | Names for the junction's legs, the turn inland, the harbor, the waiting
+       [04_Phase_06_Meaning.md]  | **Phase 10** | Names of places for the warm room, the waiting room and the node, only 
+       [04_Phase_07_Order.md]  | **Phase 10** | Names of places and roles the order produces (the warm stopping place, 
+       [04_Phase_08_Making.md]  | **Phase 10** | Names for made things and places (the door, the store, the stopping pla
+       [04_Phase_09_Populations.md]  | **Phase 10** | Character work from these populations, as roles only, never names (RF-2

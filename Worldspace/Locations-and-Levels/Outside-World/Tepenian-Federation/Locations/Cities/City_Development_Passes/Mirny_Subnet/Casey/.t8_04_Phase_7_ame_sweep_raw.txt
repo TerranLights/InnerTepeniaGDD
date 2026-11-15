@@ -1,0 +1,21 @@
+== 04_Phase_07_Order.md
+53:raised
+66:Raised
+67:judgement
+69:Raised
+72:raised
+75:Raised
+144:raised
+224:judgement
+277:judgement
+371:judgement
+468:supervised
+510:judgement
+524:raised
+538:supervised
+547:raised
+557:raised
+557:supervised
+654:raised
+== Casey_Research_Log.md (Session 5)
+1191: Raised

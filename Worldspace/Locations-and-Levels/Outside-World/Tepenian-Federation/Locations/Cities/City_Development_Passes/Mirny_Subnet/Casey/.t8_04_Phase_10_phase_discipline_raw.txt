@@ -1,0 +1,41 @@
+pass audited : Casey
+
+=== T3 - POSITION-COVERAGE LEDGER ===
+  phases in header: P2, P3, P4, P5, P6, P7, P8, P9, P10
+  The Child              filled=3  blank=6   blank at: P3, P5, P6, P7, P8, P10
+  The Lover (position)   filled=4  blank=5   blank at: P3, P5, P7, P8, P10
+  The Parent             filled=0  blank=9   blank at: P2, P3, P4, P5, P6, P7, P8, P9, P10
+  The Ruler              filled=1  blank=8   blank at: P2, P3, P4, P5, P6, P8, P9, P10
+  The Elder              filled=6  blank=3   blank at: P3, P5, P10
+  The Mentor             filled=3  blank=6   blank at: P3, P4, P5, P6, P8, P10
+  The Passer-Through     filled=8  blank=1   blank at: P10
+  The Neighbor           filled=1  blank=8   blank at: P2, P3, P4, P6, P7, P8, P9, P10
+  ⭐ The Lover FACULTY    filled=0  blank=9   blank at: P2, P3, P4, P5, P6, P7, P8, P9, P10
+
+  NOTE: a blank cell is a WARNING BEFORE Step 8, not a defect. Do not
+  fill a blank by writing new phase content toward it - that is the
+  contamination 00f Rule 3 forbids (see the recipe's hard bound on T3).
+
+=== T4 - PER-PHASE SHED MARKER ===
+  [04_Phase_02_Composition_and_Arrival.md]  T4 present: the 42 origin stocks as a sorting line: which nations are present, any row or share beyond
+  [04_Phase_03_Surface_and_Texture.md]  T4 present: the 42 origin stocks and every composition share beyond the two bodies' halves, the founde
+  [04_Phase_04_Ordinary_Life.md]  T4 present: the 42 origin stocks beyond the bare fact that none is the default; the founding, the arri
+  [04_Phase_05_Relation_and_Geometry.md]  T4 present: the 42 origin stocks, every composition share beyond the two bodies and no majority, the f
+  [04_Phase_06_Meaning.md]  T4 present: the 42 origin stocks beyond the fact that none is the default; the founder, the founding s
+  [04_Phase_07_Order.md]  T4 present: the 42 origin stocks and every composition share beyond the two bodies and the fact that n
+  [04_Phase_08_Making.md]  T4 present: the content of the 42 origin stocks and every composition share beyond the two bodies and 
+  [04_Phase_09_Populations.md]  T4 present: the content of the 42 origin stocks and every composition share beyond the two bodies, the
+  [04_Phase_10_Catalog.md]  T4 present: the open half as a life of its own, the five navigable months of ships, the harbor's seaso
+
+  9/9 phase files carry a T4 marker.
+  >> If EVERY phase's answer was literally 'nothing', T4 is falsified
+     per its own stated condition (the question would be decorative).
+     This tool cannot see the marker's CONTENT well enough to judge
+     that - read the 9 lines above by hand.
+
+=== T5 - EARLY LOVER-FACULTY SMOKE TEST ===
+  EARLY (Phase 6) verdict: Alive, yes: Phases 2 to 6 show a city of two bodies whose one unwritten obligation is a warm night for whoever is inside, strangers held by the ice included, kept in every month and broken only where nobody can see; whether anyone could love it, rather than rely on it, is not yet answerable, because no admitted line writes what any resident cherishes or feels for Casey, and its culture material opens only at Step 5.
+  LATE marker absent (08_Review_Panel.md missing or has no 'T5 - LATE LOVER FACULTY:' line yet)
+
+  T5 not fully applied this pass (one or both markers absent).
+

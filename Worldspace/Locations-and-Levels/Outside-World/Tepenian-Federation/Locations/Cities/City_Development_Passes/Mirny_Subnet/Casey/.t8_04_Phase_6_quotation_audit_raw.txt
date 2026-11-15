@@ -1,0 +1,34 @@
+pass audited : Casey
+corpus mode  : default (own pass excluded)
+corpus files : 7119   chars: 115,088,127
+files audited: 04_Phase_06_Meaning.md
+own-pass mode: a quotation may also be found in this pass's OTHER files (never in its own file)
+
+=== POSITIVE CONTROLS ===
+  [easy                      ] FOUND     a terminus is nobody's midpoint
+  [HARD - blockquote wrap    ] FOUND     A pass may not proceed to Step 5 with a NEVER CITED row
+  [HARD - outside Worldspace ] FOUND     Paste raw QA scan output into the QA block. Never summa
+  [HARD - case mismatch      ] FOUND     YOU GO TO ESPERANZA AND YOU DO NOT COME HOME FOR FOUR Y
+  [HARD - long wrapped       ] FOUND     Different content is not differentiation; a different q
+
+  INSTRUMENT VALID: YES
+  NEGATIVE CONTROL (must be absent): PASS - absent
+
+=== QUOTATION AUDIT ===
+fragments tested (single-line, ellipsis-split, >=7 words): 45
+NOT FOUND in corpus: 8
+  of those, in TABLE CELLS : 0
+  of those, in PROSE       : 8
+
+  [04_Phase_06_Meaning.md:109]           occurs only as classification or physics (c). the contract's rows for the inherited plant
+  [04_Phase_06_Meaning.md:187]           ( 04 phase 02 l230). national canon hangs one on the exile: the nation sorted people by whom they loved (physiology l88-90), and l
+  [04_Phase_06_Meaning.md:220]           (physiology l105-107, as frame l282 quotes it); human death is continuous
+  [04_Phase_06_Meaning.md:235]           (contract l79): casey knows its site from paper and its founding from people (s2-63; p2-20 3) (a, b, c); (c) robots
+  [04_Phase_06_Meaning.md:235]           so a mind cannot be read out and copied (physiology l183) (b); (e) nationally, an ossuary is a permanent, growing physical record 
+  [04_Phase_06_Meaning.md:296]           (frame l275); a robot's loss from a cold night
+  [04_Phase_06_Meaning.md:296]           ( 04 phase 04 l286); the first evidence of neglect could be
+  [04_Phase_06_Meaning.md:415]           ( 04 phase 04 l154) and calls that death spiral
+
+⚠ TRIAGE BY HAND. A miss is not yet a defect: the pass quoting ITSELF, and
+  connective prose captured between two adjacent quotations, both show here.
+  Confirm each at source before calling it a defect.

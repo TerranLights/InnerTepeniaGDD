@@ -1,0 +1,2 @@
+rows 47 · verbatim found 47 · missing 0
+per reader/round: A-R1 15 A-R3 3 B-R1 8 B-R3 2 C-R1 15 C-R3 4

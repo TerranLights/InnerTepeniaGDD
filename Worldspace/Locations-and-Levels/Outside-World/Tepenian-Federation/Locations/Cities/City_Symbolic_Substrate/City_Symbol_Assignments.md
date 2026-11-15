@@ -108,7 +108,7 @@ coincidence.
 | City | Planet | Element | Why |
 |---|---|---|---|
 | Mirny | Neptune (provisional; Uranus reserved; Saturn not confirmed on re-test, `DR-122`) | Air (confirmed on re-test; one-word label provisional, `DR-122`) | Built as its own windbreak, unforced pride, doesn't need outside validation |
-| Casey | Mars | ⏸️ | Revived from centuries of drifting through other various conditions, back to being oriented around culture |
+| Casey | Asteroid Belt (set by the developer 2026-11-15, `DR-137`; the earlier entry, Mars, was not confirmed by Casey's own Phase 10, `M-268`) | Air (set by the developer 2026-11-15, `DR-137`; an earlier draft carried Fire; one-word label provisional, `DR-1`) | From Casey's own ULM run, Phase 10 §B3 (`City_Development_Passes/Mirny_Subnet/Casey/04_Phase_10_Catalog.md`, P10-47): no center, and whoever is there decides; the shelter is still air, shared by those inside it. The earlier Mars reading (drift, then return to culture) is superseded |
 | Davis | — | — | ⏸️ **BLANK. Deliberately unset, developer ruling 2026-09-16** — *"for now, for the current time, we can just make that blank."* ⛔ **Do not fill from the breadbasket reading; Davis is also a port city, and the symbol is open** |
 | Kunlun | Pluto | ⏸️ | Among the most physically isolated places in Tepenia, built entirely around observation |
 | Ariun Nuur | Pluto | ⏸️ | Tepenia's other loneliest outpost, deep biological/genetic research |
@@ -301,10 +301,10 @@ to three cities using a broader, still pre-war-appropriate sense of "revival" �
 war damage, but **drifting away from an original purpose or condition, then returning to it**: Esperanza
 (centuries of drift, back to being family-oriented), Casey (centuries of drift, back to being culture-
 oriented), and Byrd (dormant for centuries, then found and developed by an exploration crew). All three stay
-comfortably pre-war. The earlier zero-Mars finding is superseded.
+comfortably pre-war. The earlier zero-Mars finding is superseded. **Casey's Mars superseded 2026-11-15 (`DR-137`): its own Phase 10 did not confirm it, and the developer set the Asteroid Belt + Air.**
 
 **Planet/Solar usage (35 assigned entities, incl. Amundsen Station):** **Neptune 8**, Earth 6, Jupiter 4,
-Uranus 3, Mars 3, Saturn 3, Pluto 3, Mercury 3, Venus 1, Asteroid Belt 1 (Rothera, confirmed 2026-08-10).
+Uranus 3, Mars 2, Saturn 3, Pluto 3, Mercury 3, Venus 1, Asteroid Belt 2 (Rothera, confirmed 2026-08-10; Casey, `DR-137`, 2026-11-15).
 ⚠ **Neptune is now the most-used symbol at 8.** Amundsen was added on the strength of a near-literal match
 *(existence calculated before observed; known by effect rather than presence; intensity unrelated to
 proximity to the energy source)* rather than to balance the distribution — **but if Neptune is ever

@@ -57,7 +57,7 @@ synthetic structure.**
 > climate permits — and it is a GRADIENT across locations, never a gate.**
 
 ⏸️ **Open:** *whether robots feel cold as discomfort or only register it instrumentally; whether garment
-convention varies by city beyond ordinary fashion variation.* **Not assumed.**
+convention varies by city beyond ordinary fashion variation.* **Not assumed.** ✅ **The first half is settled 2026-11-15 (`DR-137`): it varies by robot — see **Rulings of 2026-11-15** at the end of this file.**
 
 
 Their internal systems require:
@@ -70,7 +70,7 @@ They do not age in the biological sense, though components degrade over time and
 
 ### What Counts as Death
 
-The threatening thing, for a robot, is never damage to function — a robot can always adapt, retrain, or find new purpose, since the gel brain itself is malleable rather than fixed. What actually constitutes death, from a robot's own perspective, is **irreversible damage to a robot's cognitive architecture (the gel brain) or to their energy-source architecture** — the robot equivalent of a heart, i.e. whatever physically supplies their Engine power (see above) — **with no way of ever bringing the robot back online.** Short of that threshold, however severe, it's architecture or integrity damage, not death. (See Calethina's own established corruption from the Split Brain event for a worked example of serious, ongoing architecture damage that has not — yet — crossed into this threshold; her own struggle over whether to attempt a substrate transfer is precisely the live question of whether it can be addressed before it does.)
+The threatening thing, for a robot, is never damage to function — a robot can always adapt, retrain, or find new purpose, since the gel brain itself is malleable rather than fixed. What actually constitutes death, from a robot's own perspective, is **irreversible damage to a robot's cognitive architecture (the gel brain) or to their energy-source architecture** — the robot equivalent of a heart, i.e. whatever physically supplies their Engine power (see above) — **with no way of ever bringing the robot back online.** Short of that threshold, however severe, it's architecture or integrity damage, not death. (See Calethina's own established corruption from the Split Brain event for a worked example of serious, ongoing architecture damage that has not — yet — crossed into this threshold; her own struggle over whether to attempt a substrate transfer is precisely the live question of whether it can be addressed before it does.) **Whether cold can kill a robot: settled in part 2026-11-15 (`DR-137`) — see **Rulings of 2026-11-15** at the end of this file.**
 
 ### What Happens After — Ossuaries `[CGRM 2026-09-01 · Path 6 · developer ruling]`
 
@@ -184,7 +184,7 @@ you cannot sustain a profession on demand that vanishes for months at a time.
 
 **Confirmed 2026-08-07 — the "glowy-blue" color itself is not an individually meaningful or aesthetic trait.** It's a direct result of the gel brain's own material composition/architecture — the same category of fact as the sky being blue because of nitrogen's predominance in the atmosphere, or grass being green because of chlorophyll's predominance in plant matter. It doesn't vary per individual robot or per build in any personally expressive way; it's closer to a fixed physical constant of what a gel brain *is* than a trait any given robot could be said to have or express.
 
-**Enhanced sensory perception, established the same session:** robots perceive sound and vibration across a meaningfully wider range than humans do, structurally rather than through any add-on device — a genuine physiological difference, not a cultural or trained sensitivity. This is the confirmed doctrinal root of Cymatics reverence specifically (see that religion's own file for how it builds on this fact), but the underlying sensory difference is general robot physiology, not exclusive to that religion's own adherents.
+**Enhanced sensory perception, established the same session:** robots perceive sound and vibration across a meaningfully wider range than humans do, structurally rather than through any add-on device — a genuine physiological difference, not a cultural or trained sensitivity. This is the confirmed doctrinal root of Cymatics reverence specifically (see that religion's own file for how it builds on this fact), but the underlying sensory difference is general robot physiology, not exclusive to that religion's own adherents. **Added 2026-11-15 (`DR-137`):** *which way* the range is wider (lower, higher, or both) is not one fact for every robot; it varies by robot and leans toward what her home place needs (see **Rulings of 2026-11-15** at the end of this file).
 
 ---
 
@@ -247,7 +247,7 @@ Siligel is the established robot equivalent of food: a substance consumed to mai
 > source"** — the engine is the power plant and delivery architecture; **siligel is what it draws on.**
 >
 > **The multiple-classes idea is raised but NOT yet ruled on.** *See the research file below for a proposed
-> three-class taxonomy derived from real silicon-degradation pathways.*
+> three-class taxonomy derived from real silicon-degradation pathways.* **Where siligel comes from, and the heat it gives: ruled 2026-11-15 (`DR-137`) — see **Rulings of 2026-11-15** at the end of this file.**
 
 > ### ⏸️ COMPOSITION — research done 2026-09-04, **awaiting developer ruling**
 > **`Siligel_Composition_Research.md`** *(this folder)* — a chemical-engineering pass on what siligel would
@@ -331,7 +331,7 @@ What exactly a robot experiences when smoking varies by individual and is delibe
 **Robots do NOT work 100% of the time. Not remotely.** Two separate reasons, and the second is the important
 one.
 
-**1. Physical — they require downtime, most prominently OVERNIGHT RECHARGING.** Like anybody else.
+**1. Physical — they require downtime, most prominently OVERNIGHT RECHARGING.** Like anybody else. **A charging robot dreams, and flight mode exists (`DR-137`, 2026-11-15) — see **Rulings of 2026-11-15** at the end of this file.**
 
 > **⭐ Which gives Tepenia a shared night.** Robots and humans stop at the same time, for different reasons.
 > **A city where everyone sleeps is a very different place from one where half the population works through
@@ -421,7 +421,7 @@ Human characters follow a related but not identical pattern *(updated 2026-07-03
 
   - **Personality (the Personality Module)** is the *psychological* seed — not values-orientation tendencies themselves, but the underlying **conceptual-weighting that determines** those tendencies. Roughly (not literally) analogous to an Enneagram spec-set. It is only ever **partially** specced, by law, never fully designed: whoever initiates a build — a local robot community acting on a local interest, or a human commissioning one — can shape *part* of the resulting weighting, but a portion always stays mandatorily randomized, regardless of who's building or why. **The reason is explicitly political, not technical:** a fully, explicitly designed mind would leave the resulting robot without a meaningful degree of free will, and would place whoever did the fabricating in a real position of power over the newly-built robot — a power imbalance this setting's foundational Egalitarian character does not tolerate. **This rule is the confirmed concrete engineering expression of Law 1 of the Fundamental Laws of Robotics** (`TepenianUniverseTimeline/Reference/Laws_of_Robotics.md`) — "a robot will have the full capacity to make decisions to maximize her own future possibilities" — hard-coded by robots themselves, post-exile, as a civic/procedural failsafe against ever losing that capacity again, not as psychological programming inside any individual robot's own mind. **Historical contrast:** during the First Interwar Period (2083-2564), on Upper Earth, a human commissioning a robot could have it built fully to their own personality specification — no mandatory randomization — though those robots were still, unambiguously, fully conscious and sentient; design control over personality was never the same thing as denying consciousness. Tepenia's mandatory-partial-randomization rule is a deliberate, later, Tepenia-specific correction to that older Upper-Earth practice. Beyond this initial partial seed, personality, values, morality, and social convention all develop **emergently, through lived experience** — the confirmed, deliberate answer to whether robot cooperation and social structure are designed-in or emergent: emergent.
 
-  - **Build** is the *physical and circumstantial* side of fabrication — a genuinely separate axis from Personality, not a sub-category of it. It covers physical construction (height, general build/"bulkiness" — slender, agile, "thicc," and everything between — aesthetic design choices) and the actual circumstances of creation: which local robot community initiated it, and for what local interest or need (not an individual robot's personal whim, and not human commissioning either, though that hasn't vanished as a possibility). **Body type is not fixed per locality, but statistically weighted by it, and confirmed 2026-08-07 to track local economic/lifestyle character specifically:** locales leaning toward hard-labor-oriented work produce statistically "thicker"/"bigger" builds; locales leaning toward complex physical processes demanding agility and nimbleness produce more "slender"/"agile" builds; locales without a strong lean toward either produce a wide variety of body types with no dominant pattern — the same "tendency, not absolute rule" pattern this project already uses for human city culture, not a rigid one-look-per-city system. Because build is driven by *local* interests rather than individual whim, it is **not** independent of city/locality the way Gen/Mark is (Gen/Mark is decoupled from residence by the chamber-shipping network; build is not — it traces back to whichever local community had the interest that led to it). A robot's build-origin functions closer to "which community's need or want brought you into existence, and what you physically turned out like" than a free-floating, cross-cutting identity axis. **Important, 2026-08-07: body type is a statistical consequence of local economic character, not an identity marker in itself** — robots doing very different physical work within one shared local culture still identify with that shared culture far more than with their own build (see `Human_Universals_Culture_Framework.md` Part 3 for the full comparison this rests on).
+  - **Build** is the *physical and circumstantial* side of fabrication — a genuinely separate axis from Personality, not a sub-category of it. It covers physical construction (height, general build/"bulkiness" — slender, agile, "thicc," and everything between — aesthetic design choices) and the actual circumstances of creation: which local robot community initiated it, and for what local interest or need (not an individual robot's personal whim, and not human commissioning either, though that hasn't vanished as a possibility). **Body type is not fixed per locality, but statistically weighted by it, and confirmed 2026-08-07 to track local economic/lifestyle character specifically:** locales leaning toward hard-labor-oriented work produce statistically "thicker"/"bigger" builds; locales leaning toward complex physical processes demanding agility and nimbleness produce more "slender"/"agile" builds; locales without a strong lean toward either produce a wide variety of body types with no dominant pattern — the same "tendency, not absolute rule" pattern this project already uses for human city culture, not a rigid one-look-per-city system. Because build is driven by *local* interests rather than individual whim, it is **not** independent of city/locality the way Gen/Mark is (Gen/Mark is decoupled from residence by the chamber-shipping network; build is not — it traces back to whichever local community had the interest that led to it). A robot's build-origin functions closer to "which community's need or want brought you into existence, and what you physically turned out like" than a free-floating, cross-cutting identity axis. **Important, 2026-08-07: body type is a statistical consequence of local economic character, not an identity marker in itself** — robots doing very different physical work within one shared local culture still identify with that shared culture far more than with their own build (see `Human_Universals_Culture_Framework.md` Part 3 for the full comparison this rests on). **Sensory specification follows the same rule (`DR-137`, 2026-11-15) — see **Rulings of 2026-11-15** at the end of this file.**
 
   - **Language (the Language Module)** is a fully separate, third phenomenon — distinct from both Personality and Build, never a sub-part of either. **Robot vernacular language tracks the dominant local culture and the community who had her built — robot, human, or both, corrected 2026-08-08 from an earlier "surrounding human culture" framing that wrongly assumed language transmission always runs through humans specifically:** a robot who comes online and develops where the dominant local culture and the residents who built her are Chinese-speaking speaks Chinese, delivered at least in part through the Language Module (exact mechanism not yet determined). This is the general, everyday-language rule; it does not compete with or contradict `Sumerian_Language_in_Robot_Culture.md`'s own established content — that file already correctly frames Sumerian as a liturgical register adopted by particular memory-keeper-vocation robots/factions, not a vernacular any ordinary robot speaks day to day.
 
@@ -436,3 +436,72 @@ Human characters follow a related but not identical pattern *(updated 2026-07-03
   Open questions: which other cities manufacture chambers; the exact technical process inside a chamber beyond the Ex Machina-style visual reference; whether "born"/"built" carries any cultural weight distinction; a proper (non-placeholder) name for the chamber; who specifically initiates a given build within a local community and how (a request process, an assignment, something else) — not yet resolved.
 
   **Flagged 2026-07-09, for a possible future questline (not a religion):** during a Robot Religions development session, a "trace your own origin" concept was considered as the basis for a new religion (a reground of a ChatGPT-suggested "Cult of the Source") and set aside — the developer liked the mystery but didn't think it actually works as a religion's foundation. The mystery itself is worth keeping: a robot tracing which mark/generation their own chamber was built to, and from there discovering that the schematic's actual designer (Neumayer, credited nowhere, the same uncredited pattern as the Amundsen Tower) goes unknown to almost everyone built from their work — a solvable-in-principle, currently-forgotten origin mystery, not an abstract data-mysticism. Already has a discoverable in-game hook to build from: Calethina's own chamber (the one that built the player character) traces to the historical, now-dark Mountain Pass site. See `Factions/Robot_Religions/Cymatics_reverence/Cymatics_reverence.md`'s development history for the fuller reasoning trail.
+
+---
+
+## Rulings of 2026-11-15 (`DR-137`)
+
+*Appended at the end so that no line cited elsewhere moves; each section above that these touch carries a one-line pointer here. Source of each answer: the developer, walking through Casey's ULM questions (`Research_Logs/DECISIONS_NEEDED_FROM_DEVELOPER.md`, DEC-523, DEC-526, DEC-532, DEC-536).*
+
+### Sensory specification — part of Build (from the Build entry under Notes)
+
+**Developer, verbatim:** *"much like patterns in body dimensions, a robot's sensory specifications also derive in part and are partially influenced by needs and requirements of a particular community and location. So, similarly to the way that a society that deals with a lot of heavy labor, robots will more often than not have thicker legs and wider hips, and societies that engage in a lot of agility-necessary activities, robots will be more slender and agile. Similarly, the particular requirements and needs of a particular culture and setting will influence what sorts of sensory specifications a robot will have."* **So senses follow the same rule as body type:** they **vary by robot** (first answer, same day: *"I think that might actually depend on the robot; it might not be fully uniform"*), and they are **statistically weighted** by the needs of the community and setting a robot comes from — a tendency, not one fixed sense per city, and not an identity marker in itself. This covers which way her hearing is wider than a human's, whether she feels cold as discomfort or only registers it, and whether her air sensing amounts to smell. **For a location pass:** which way a place's robots' senses lean is that place's own finding, from its own needs, written as a tendency.
+
+### A charging robot dreams; flight mode (from "Downtime, Recharging and Leisure")
+
+> **Developer, verbatim:** ***"A robot can be in "flight mode", wherein she/he is aware of her/his surroundings,
+> but in much "slower motion". Just as well, while a robot is charging, she/he is "dreaming" during that
+> time."***
+>
+> - **Charging is dreaming.** The night of the robot half is not blank time; it is dreamed. Source in the
+>   *Streetside Harmonies* notes (`media/Literature/books/CurrentNovelDocs/Streetside Harmonies/`, transcribed
+>   stanza breakdowns): "V's eyes flicker as usual and she's dreaming" (Chapter 31.md L20); charging through
+>   nodes or a plug (Chapter 07.md L23).
+> - **Flight mode** is a separate low-energy state, used to save siligel: aware of her surroundings, in much
+>   slower motion. In the notes: *"vaguely akin to "flight mode" or "battery-saving mode" in order
+>   to conserve siligel"* (`structure/main story/Save the Cat.md` L49); *"While in flight mode, she's still capable
+>   of perception and observation, so lying on that bed with absolutely nothing happening nearly drives her
+>   insane"* (`structure/character arcs/Valerie.md` L198). **"Slower motion" is the developer's word; the notes do
+>   not state it.**
+> - **Standing of the source:** the novel is set on Earth in 2149 with one manufacturer's robot; the developer
+>   applies these facts to robots generally.
+
+### Where siligel comes from, and the heat it gives (from "Siligel — Robot Food")
+
+> **Supply, verbatim:** ***"Siligel needs to be synthesized from raw minerals that are acquired via mining
+> operations, so only a few cities have the geographical proximity to sources (if not exposed rock, then, at the
+> very least, ice that's comparatively subject to melting/drilling in order to reach quarries where those raw
+> materials are found. Once they are, they can be shipped to cities with processing infrastructure (purification,
+> etc) to be able to turn those raw materials into siligel, and those cities with processing infrastructure
+> perhaps may not necessarily be everywhere"***
+>
+> **So, a chain of three links:** **(1)** raw minerals are **mined**, and only a few cities lie near sources
+> (exposed rock, or ice workable enough to melt or drill through to the quarries); **(2)** the minerals are
+> shipped to cities with **processing infrastructure** (purification and so on), which are not everywhere;
+> **(3)** finished siligel reaches every other city by shipment. *Manufactured or mined* is answered: **both —
+> mined, then synthesized.** Which cities mine or process is each city's own question, from its own geography.
+>
+> **Heat, verbatim:** ***"Anytime any sort of chemical process takes place, the process is either exothermic or
+> endothermic, because it can't be nothing, because that would violate the Law of Conservation of Energy. And the
+> way that I see it in my head, in this particular case, the robot's internal processing of siligel is
+> exothermic."***
+>
+> **So:** a robot's processing of siligel **releases heat**. More siligel processed, more heat: **warmth costs
+> siligel.** A robot keeping herself, or someone else, warm in the cold burns more of it (the *Streetside
+> Harmonies* notes show this as "overclocking", transcribed Chapter 24.md L13-14).
+>
+> ⏸️ **Still open:** the three proposed classes; the composition (the COMPOSITION box under "Siligel — Robot Food", above).
+
+### Can cold kill a robot? — settled in part (from "What Counts as Death")
+
+> **Developer, verbatim:** *"to the extent that cold could cause such a degradation in structural integrity of a
+> robot's gel brain and/or energy cell (i.e., heart), yes. We might need to do further research into what sort
+> of science/physics is involved. My leaning is "probably"."*
+>
+> **So:** cold kills a robot where it degrades her gel brain or her energy cell past recovery, which is the
+> threshold in "What Counts as Death", above; the developer's leaning is that it **probably** can. **Short of that threshold it is not
+> death:** a robot who runs dry is slowed, then carried, then fed back to life, and a robot left inert by damage
+> is repaired (both shown in the *Streetside Harmonies* notes, `media/Literature/books/CurrentNovelDocs/Streetside
+> Harmonies/`, `structure/main story/Save the Cat.md` L49 and `structure/character arcs/Valerie.md` L170).
+> ⏸️ **Open, needs research:** how cold damages a gel brain and an energy cell, and at what point. Until then
+> write that a robot left in the cold **can** die, never how or below what temperature.

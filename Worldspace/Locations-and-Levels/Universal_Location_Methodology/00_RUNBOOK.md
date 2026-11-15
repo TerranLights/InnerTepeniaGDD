@@ -466,7 +466,7 @@ it rigorous; it makes it a guess wearing a table.**
 
 | Instrument | Was | ⭐ NOW |
 |---|---|---|
-| **`03` Phase 5 §5b — the three-way differentiation set** | *"this location plus its two hardest frictions"* — **mandatory for clustered locations** | ⏸️ **TERMINAL.** Phase 5 writes RELATION only — mechanism, dependency, direction, flow |
+| **`03` Phase 5 §5b — the three-way differentiation set** | *"this location plus its two hardest frictions"* — **mandatory for clustered locations** | ⏸️ **TERMINAL.** Phase 5 writes RELATION only — mechanism, dependency, direction, flow. **Its own-eras form is not run in-pass either (`DR-137`, 2026-11-15, learned on Casey): a matter of ORDER, not prohibition — the pass derives the peak (or, with several peaks, an overall average of the height); founding, crisis and decline are extrapolated from it afterward. Phase 5 records 5b as a null with that reason.** |
 | **`04` Gate 6 — duplicate institutions** | needs siblings' completed material; already deferred to Step 7 | ⏸️ **TERMINAL.** *(It was already the closest to correct — it deferred by itself.)* |
 | **`Step 6` — Differentiate** + the `Cross_City_Culture_Differentiation_Table` | **read the row BEFORE writing a category** | ⭐ **WRITE-ONLY during the run.** ***A pass ADDS its own row and never READS another's.*** The read happens at the terminal check |
 | **`02` §4's three-step rule** | *"where the shape repeats a sibling…"* | ⏸️ **TERMINAL.** In-run, the shape is tested against **`02` §4.0's double reading** — the same input set read twice — not against a sibling |
