@@ -441,7 +441,7 @@ robot/human love, "we can never eat together" is a small, permanent, undramatic 
 6. **Is siligel manufactured or mined?** Fluoride feedstock in a closed continental economy is a supply
    question with real teeth — *see `Division_of_Industry/00_Necessary_Industries_Register.md`.* ⚠ **Now
    sharper: it is specifically CLASS B whose feedstock is the chokepoint**, which means the scarce thing is
-   the one nobody notices missing until it is far too late.
+   the one nobody notices missing until it is far too late. ✅ **Answered 2026-11-15 (`DR-137`): both — mined, then synthesized.** Raw minerals are mined, and only a few cities lie near sources (exposed rock, or ice workable enough to melt or drill through to the quarries); they are shipped to cities with processing infrastructure (purification and so on), which are not everywhere; finished siligel is shipped on to every other city. Which cities mine or process is each city's own question, from its own geography. *Also ruled the same day: a robot's processing of siligel is exothermic, so warmth costs siligel.* Full wording: `Robot_Physiology_and_Cultural_Practices.md`, "Rulings of 2026-11-15" (end of file). ⏸️ The feedstock chemistry above (fluoride, Class B) is still research, not canon.
 7. **What does a robot experience while consuming it?** *Nothing here addresses taste, pleasure or ritual —
    though **item 5 above implies Class A is where any of that would live.***
 

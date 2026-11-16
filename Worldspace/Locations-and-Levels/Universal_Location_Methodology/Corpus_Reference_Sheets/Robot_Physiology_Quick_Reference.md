@@ -4,7 +4,7 @@
 > (438 lines) + `Robot_Cold_Physiology.md` (184 lines) + `Robot_Universals/` Ch. 13 + Ch. 14 (both README.md,
 > ~53 and ~67 lines) — all four read in full, 2026-09-15. ⭐ **Read the general file's Appearance/Clothing
 > section BEFORE the cold-physiology file — it is the ordinary condition the cold file assumes, not a separate
-> case (`M-151`).**
+> case (`M-151`).** ⭐ **Updated 2026-11-15 (`DR-137`): senses, dreaming and flight mode, siligel's supply and heat, cold death in part, ancestry, and the long-life tier — see "Rulings of 2026-11-15" at the end of this sheet.**
 
 ## The ordinary condition — read this first, always
 
@@ -43,12 +43,12 @@ human.**
   as motion rather than hoarded as stillness.
 - ⚠ **Open, not invented:** siligel's behavior at extreme cold (freezing/glass-transition point; whether
   cognition degrades before the body); numeric depletion rates (a balance question); whether plating damage is
-  repairable; coolant behavior in deep cold (robots normally shed heat — in extreme cold that inverts).
+  repairable; coolant behavior in deep cold (robots normally shed heat — in extreme cold that inverts). **Whether cold can kill: settled in part 2026-11-15 — see the end of this sheet.**
 
 ## Consumption — the robot equivalents
 
 - **Siligel (food):** maintains/repairs internal systems. **Energy replenishment is the FIRST function; repair
-  is second** (ruling 2026-09-04). Composition TBD, not yet canon.
+  is second** (ruling 2026-09-04). Composition TBD, not yet canon. **Supply chain and heat ruled 2026-11-15 — see the end of this sheet.**
 - **Coolant (drink):** thermal regulation, genuine physiological purpose — "a robot drinking coolant after hard
   work is the functional and cultural equivalent of a human drinking water after exertion." **Robot coffee:** a
   specialty formulation with distinct internal effects, confirms robots consume for pleasure, not only
@@ -68,7 +68,7 @@ human.**
 
 **Robots do NOT work 100% of the time.** Physical: require downtime, most prominently overnight recharging —
 **a shared night**, robots and humans stopping together for different reasons. Psychological: fully conscious
-and sentient, so constant work risks insanity — **leisure is a condition of remaining sane, not a perk.**
+and sentient, so constant work risks insanity — **leisure is a condition of remaining sane, not a perk.** *(A charging robot dreams; flight mode is a separate state — 2026-11-15, end of this sheet.)*
 ⭐⭐⭐ **The leisure history:** on Upper Earth, a robot's leisure existed only because a romantic partner
 granted it — contingent, personal, revocable. **In Tepenia it is a fact of life, universal, owed to nobody —
 the material proof that leaving worked.**
@@ -118,7 +118,7 @@ vary by city/individual; the underlying value (trust) doesn't.
 - **Three separate things set at fabrication:** Personality (psychological seed, only ever *partially* specced
   by law — Law 1's concrete engineering expression), Build (physical/circumstantial, statistically tracks
   local economic character — hard-labor locales skew "thicker," agility-demanding locales skew "slender"),
-  Language (tracks the dominant local culture and the community that built her).
+  Language (tracks the dominant local culture and the community that built her). **Senses follow the Build rule, and a robot raised inside one group is of that group — 2026-11-15, end of this sheet.**
 - **Kinship runs on shared experience, not fabrication lineage** — "maker/made" doesn't hold; clan/tribe forms
   on geography and shared ideas/experience (robots lack the genetic basis humans have for it).
 - **Manufacturing sites (the Cradle):** currently active — Sinheung, Byrd. Historical — Mountain Pass (ended
@@ -133,3 +133,35 @@ RESERVED regardless of what's established here.** For reference only: robot deat
 senescence) vs. human death CONTINUOUS — a genuine arrival-rate mismatch the corpus has NOT yet resolved
 ("Recorded so the shape is available when it is taken up... NOT SOLVED HERE"). Ossuaries are MIXED (metal and
 calcium bone together) where they exist, and are confirmed SACRED AND UNTOUCHABLE, never a metal reserve.
+
+## Rulings of 2026-11-15 (`DR-137`)
+
+*Appended at the end so no earlier line moves. Full wording, with the developer's own words and sources:
+`Robot_Physiology_and_Cultural_Practices.md`, "Rulings of 2026-11-15" (end of that file), and
+`DEVELOPER_RULINGS_LOG.md` `DR-137`.*
+
+- **Senses vary by robot and lean to place.** Which way her hearing is wider than a human's, whether she feels
+  cold as discomfort or only registers it, and whether her air sensing amounts to smell all vary from robot to
+  robot. Like body type (Build), they are **statistically weighted by the needs of her home community and
+  setting**: a tendency, not one fixed sense per city, and not an identity marker. **Which way a place's robots
+  lean is that place's own finding.**
+- **A charging robot dreams.** The robot half's night is dreamed, not blank. **Flight mode** is a separate
+  low-energy state used to save siligel: she stays aware of her surroundings, in much slower motion. *(From the
+  developer's* Streetside Harmonies *notes, set on Earth in 2149 with one manufacturer's robot; the developer
+  applies them to robots generally.)*
+- **Siligel is mined, then synthesized.** Raw minerals are mined, and only a few cities lie near sources. They
+  are shipped to cities with processing infrastructure, which are not everywhere, and the finished siligel is
+  shipped on to every other city. **Which cities mine or process is each city's own question.**
+- ⭐ **Processing siligel is exothermic, so warmth costs siligel.** A robot keeping herself, or someone else,
+  warm in the cold burns more of it.
+- **Cold can probably kill a robot (settled in part).** It kills where it degrades her gel brain or her energy
+  cell past recovery; the developer's leaning is "probably". Short of that it is not death: a robot who runs
+  dry is slowed, carried and fed back to life, and one left inert by damage is repaired. ⏸️ **The science is
+  unresearched: write that a robot left in the cold can die, never how or below what temperature.** *(The
+  mortuary question above stays RESERVED.)*
+- **Ancestry, for one robot.** A robot can carry her city's whole mix; a robot who develops her personality and
+  understanding inside one ethnic or cultural group is of that group.
+- **The long-life tier** needs ongoing access to someone skilled in robot upkeep, not one particular person:
+  several engineers over time, or one.
+- ⏸️ **Still open:** siligel's proposed classes and its composition; coolant and electric charge as separate
+  inputs.

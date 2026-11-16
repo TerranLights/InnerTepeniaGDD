@@ -4,7 +4,7 @@
 **Status:** Destroyed (Long Night War)
 **Arcanet Subnet:** Mirny ("Australian")
 **Access type:** ON
-**Highway access:** Hwy 110 (SW → Concordia; W → Mirny / coastal chain, passing the Denman Glacier inland, about 200 km south of the coast — corrected from "NE" 2026-11-15, `DR-137`, checked against the developer's highway maps; the coast west of Casey carries only the Relung Panen spur); Hwy 2 / DCH (east → Dumont d'Urville) — **confirmed 2026-07-06:** Hwy 2's own western endpoint is defined as "junction with Hwy 110," which sits here at Casey, making this the genuine origin point of Hwy 2 as well as a Hwy 110 waypoint.
+**Highway access:** Hwy 110 (SSE → Concordia, true bearing about 160° from Casey — corrected from "SW" 2026-11-15, `DR-137`; W → Mirny / coastal chain, passing the Denman Glacier inland, about 200 km south of the coast — corrected from "NE" 2026-11-15, `DR-137`, checked against the developer's highway maps; the coast west of Casey carries only the Relung Panen spur); Hwy 2 / DCH (east → Dumont d'Urville) — **confirmed 2026-07-06:** Hwy 2's own western endpoint is defined as "junction with Hwy 110," which sits here at Casey, making this the genuine origin point of Hwy 2 as well as a Hwy 110 waypoint.
 **Significance:** Highway junction city — the meeting point of the inland route to Concordia (Hwy 110) and the Dumont coast route (Hwy 2); last coastal city before the long drive to the deep interior
 
 ---

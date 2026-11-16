@@ -243,3 +243,31 @@ The following aspects of Hardcore mode are undesigned and require a dedicated se
 - [ ] Hardcore mode achievements / recognition
 - [ ] Difficulty scaling adjustments specific to Hardcore (if any)
 - [ ] How Hardcore interacts with the re-spec system (Identity Fragmentation under compound stress)
+
+---
+
+## 💡 Idea under investigation — fast travel in Hardcore *(developer, 2026-11-15)*
+
+*Appended at the end so no earlier line moves.*
+
+**Two possibilities, both worth investigating. Only one can become the rule.**
+
+- **A. No fast travel in Hardcore.**
+- **B. Fast travel costs something in Hardcore, ideally something heavy.**
+
+**Against the governing standard, both pass in principle:** each changes route planning and how far the player
+commits from a safe point, rather than adding a meter. ⚠ **For B, the cost has to be a decision, not a drain:**
+a cost paid through a survival bar would fail the same test Power Consumption fails above.
+
+**Precedent, for reference only:** in Fallout: New Vegas Hardcore, fast travel stays available, but the travel
+time passes and the hunger, thirst and sleep needs grow with it, so it is a cost-shaped rule (option B). Fallout
+4's Survival difficulty removes fast travel entirely (option A). ⚠ **New Vegas's cost ran through the very
+needs meters the governing standard rejects,** so even under the Fallout precedence law its *form* of B cannot
+be carried over as is; only its shape can.
+
+**Open, nothing decided:**
+- [ ] **A or B** — the one rule Hardcore applies
+- [ ] **If B: what the cost is, and why it is heavy** — the thing paid, and what it forces the player to give up
+- [ ] **What fast travel is in-world** *(Inner Tepenia has no fast-travel system designed yet; see `TODO.md`,
+  the deferred FNV perks Long Haul and Explorer, and the hitchhiking highways note, which already floats
+  hitchhiking as a possible fast-travel alternative)*
