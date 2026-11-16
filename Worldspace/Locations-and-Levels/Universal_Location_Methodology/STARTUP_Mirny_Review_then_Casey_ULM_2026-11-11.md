@@ -106,7 +106,7 @@ were last changed on 2026-11-03. **The run is Step 0 through Step 10, in order, 
 7. **Research (LAW 0-R):** search, do not recall; every pick from more than one angle; a pick is not spent because it was searched once;
    log every search string, dead end and open thread in `Cities/Research_Logs/Casey_Research_Log.md`.
 8. **When Step 10 is recorded:** write Casey's record files as the runbook says, a dated tracker line, delete the cron job (`CronDelete`),
-   and give the developer the summary. **Casey is not declared complete;** that is the developer's call.
+   and give the developer the summary. **Casey is not declared complete;** that is the developer's call. ⭐ **Changed 2026-11-15: do not just delete the job; hand over to Relung Panen as Section 8 (end of this file) says.**
 
 ## 4. Binding rules (both parts)
 - **One location on its own terms.** Never compare Mirny or Casey with any other city, or the two with each other; never use another
@@ -144,7 +144,7 @@ were last changed on 2026-11-03. **The run is Step 0 through Step 10, in order, 
 ## 6. Each morning's close
 Update the progress file (dated); add one dated status line to the tracker's `📍 RESUME HERE` block after its last dated line (never
 rewrite earlier text); give the developer a short plain-language summary: what ran, what is open, what is next. **Never start any other
-city** from this file.
+city** from this file. *(One exception, by the developer's word of 2026-11-15: the handover to Relung Panen in Section 8.)*
 
 ## 7. Logs kept as the work goes, so a cut-off loses nothing (added 2026-11-11, 00:41)
 **Developer, 2026-11-11:** *"just, make sure to keep logs of everything so that, in case you get cut off during the process, you can pick
@@ -209,4 +209,20 @@ At the start of every firing, and at once after a cut-off or a summary:
 - **If the job or the session is gone** (closed, crashed, or the job expired during a lockout): the developer gives this file to a fresh
   session, Section 0.1 sets a new job, and the next firing resumes from the progress file. After a usage reset the developer can also
   resume at once by pasting the 0.2 prompt.
-- When Casey's Step 10 is recorded, the job is deleted (Section 3, item 8); log that too.
+- When Casey's Step 10 is recorded, the job is deleted (Section 3, item 8); log that too. ⭐ **Changed 2026-11-15: it is replaced with Relung Panen's job instead (Section 8).**
+
+## 8. Handover to Relung Panen (added 2026-11-15, evening; appended at the end so no earlier line moves)
+**Developer, 2026-11-15:** *"After the ULM is complete for Casey, either that same day, or at 5:00am the following morning (whichever
+is the soonest that's allowed), begin the ULM on Relung Panen."* **"Complete" here means Casey's Step 10 is written and recorded on
+disk; it is not a declaration that Casey is complete, which stays the developer's call.**
+
+When Casey's Step 10 is recorded (Section 3, item 8: the record files, the tracker line and the summary done):
+1. **Replace the cron job instead of only deleting it:** create one recurring job with the prompt in
+   `STARTUP_Relung_Panen_ULM_2026-11-15.md` Section 0.2, word for word (`cron: "3 5 * * *"`, `recurring: true`); then delete Casey's job
+   with `CronDelete`, so only one job exists. Log both IDs and the new job's creation time in Casey's progress file, as its last lines.
+2. **Then the clock:** run `date '+%Y-%m-%d %H:%M'`. **Before 13:30:** read the Relung Panen startup file in full and begin its first
+   piece the same morning. **At 13:30 or later:** stop; the new job starts Relung Panen at the next morning's window.
+3. **Isolation:** nothing from Casey's run goes into any Relung Panen list, brief or record (the Relung Panen startup file, Section 2,
+   item 1). Casey's progress file is not Relung Panen's; that run keeps its own, `RUN_PROGRESS_Relung_Panen.md`.
+4. **After Relung Panen:** no further city starts. The one-week pause on all ULM runs for the DCI follows (run by a parallel session in
+   another repo); the next run, probably Kunlun, waits for the developer's word.
