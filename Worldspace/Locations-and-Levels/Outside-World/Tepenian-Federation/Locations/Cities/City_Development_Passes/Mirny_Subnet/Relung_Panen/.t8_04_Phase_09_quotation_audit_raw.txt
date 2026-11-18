@@ -1,0 +1,44 @@
+pass audited : Relung_Panen
+corpus mode  : default (own pass excluded)
+corpus files : 7427   chars: 127,621,094
+files audited: 04_Phase_09_Populations.md
+own-pass mode: a quotation may also be found in this pass's OTHER files (never in its own file)
+
+=== POSITIVE CONTROLS ===
+  [easy                      ] FOUND     a terminus is nobody's midpoint
+  [HARD - blockquote wrap    ] FOUND     A pass may not proceed to Step 5 with a NEVER CITED row
+  [HARD - outside Worldspace ] FOUND     Paste raw QA scan output into the QA block. Never summa
+  [HARD - case mismatch      ] FOUND     YOU GO TO ESPERANZA AND YOU DO NOT COME HOME FOR FOUR Y
+  [HARD - long wrapped       ] FOUND     Different content is not differentiation; a different q
+
+  INSTRUMENT VALID: YES
+  NEGATIVE CONTROL (must be absent): PASS - absent
+
+=== QUOTATION AUDIT ===
+fragments tested (single-line, ellipsis-split, >=7 words): 30
+NOT FOUND in corpus: 18
+  of those, in TABLE CELLS : 2
+  of those, in PROSE       : 16
+
+  [04_Phase_09_Populations.md:29]           with emphasis markers, backticks and underscores stripped; a line counts when it names phase 9 alone, in a list (
+  [04_Phase_09_Populations.md:224]           (phase 5 l235); what marks someone as from here is
+  [04_Phase_09_Populations.md:328]  [CELL]  make kind the primary division, not the year kept
+  [04_Phase_09_Populations.md:329]  [CELL]  give the robot half the founders' ancestry as a default
+  [04_Phase_09_Populations.md:493]           current views: a withdrew its own (its modes are canon's general sorting, on b's p9b-108) and holds c's wording with b's mechanism
+  [04_Phase_09_Populations.md:493]           c withdrew its own as a standalone axis (it drops the lines' word, membership) and holds
+  [04_Phase_09_Populations.md:495]           (phase 2 p2-25); in round 3 a withdrew it (p2-25's heading reads
+  [04_Phase_09_Populations.md:503]           (phase 4 p4-21), and c's p9c-203 that an arriving robot is new to the year
+  [04_Phase_09_Populations.md:508]           under the merge rule's conservative reading i do not object to blank . my mark was thin
+  [04_Phase_09_Populations.md:510]           by both kinds alike, so no group forms around it
+  [04_Phase_09_Populations.md:515]           (physiology l108), the mortuary question left reserved (a; repaired by c); c's
+  [04_Phase_09_Populations.md:515]           meeting loss at a steady rate through the year (a's addendum left the choice to this merge; taken as the narrower, a funeral being
+  [04_Phase_09_Populations.md:515]           food grown in the city's own lit rooms (no line sites the rooms); a's p9a-12 expression
+  [04_Phase_09_Populations.md:515]           b's form, who usually rescues being reserved (phase 4 rf-124); a's p9a-14 expression on hours
+  [04_Phase_09_Populations.md:515]           in the pre-melt weeks not carried, its content being phase 7 rf-181, which c and phase 7 reserve; a's p9a-18 expression of an
+  [04_Phase_09_Populations.md:515]           c's and b's expressions, built form being unwritten (phase 8 p8-32); c's p9c-219 clause that first-year mistakes
+  [04_Phase_09_Populations.md:515]           reserved, its content being phase 2 rf-92 and phase 6 rf-149; b's p9b-112 expression
+  [04_Phase_09_Populations.md:529]           as standalone leads (c, b); c's upkeep shadow; c's keeper ratio; b's machinery-only hearing question; c's question on the native's
+
+⚠ TRIAGE BY HAND. A miss is not yet a defect: the pass quoting ITSELF, and
+  connective prose captured between two adjacent quotations, both show here.
+  Confirm each at source before calling it a defect.

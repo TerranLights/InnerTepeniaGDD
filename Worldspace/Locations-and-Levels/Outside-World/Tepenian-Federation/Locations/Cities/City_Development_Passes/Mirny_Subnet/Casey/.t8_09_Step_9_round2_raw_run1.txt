@@ -1,0 +1,89 @@
+required files: 16
+agents: agent1, agent2, agent3
+
+=== /home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Universal_Location_Methodology/00_RUNBOOK.md  [range 3006-3079] ===
+  agent1   ✅ all fields match ground truth
+  agent2   ✅ all fields match ground truth
+  agent3   ✅ all fields match ground truth
+
+=== /home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Universal_Location_Methodology/Amendment_Layer_Rules.md ===
+  agent1   ✅ all fields match ground truth
+  agent2   ✅ all fields match ground truth
+  agent3   ✅ all fields match ground truth
+
+=== /home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Universal_Location_Methodology/Test_Runs/OBSERVATIONS_and_Methodology_Findings.md  [range 8505-8604] ===
+  agent1   ✅ all fields match ground truth
+  agent2   ✅ all fields match ground truth
+  agent3   ✅ all fields match ground truth
+
+=== /home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Casey/README.md ===
+  agent1   ✅ all fields match ground truth
+  agent2   ✅ all fields match ground truth
+  agent3   ✅ all fields match ground truth
+
+=== /home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Casey/00.2_Position_Coverage_Ledger.md ===
+  agent1   ✅ all fields match ground truth
+  agent2   ✅ all fields match ground truth
+  agent3   ✅ all fields match ground truth
+
+=== /home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Casey/09.5_Log.md ===
+  agent1   ⛔ LINES MISMATCH  claimed='70'  actual='71'
+  agent1   ⛔ LMID  MISMATCH  claimed='- **CL-15 · 10:19 · a numbering slip caught before dispatch.'  actual='- **CL-16 · 10:43 · Step 2 recorded; Step 3 set up.** `02_Sp'
+  agent1   ⛔ LLAST MISMATCH  claimed='- **CL-50 · 2026-11-16 09:53 · Step 8 recorded.** `08_Review'  actual='- **CL-51 · 2026-11-16 10:09 · List gap, mine (found by Step'
+  agent2   ✅ all fields match ground truth
+  agent3   ⛔ LINES MISMATCH  claimed='70'  actual='71'
+  agent3   ⛔ LMID  MISMATCH  claimed='- **CL-15 · 10:19 · a numbering slip caught before dispatch.'  actual='- **CL-16 · 10:43 · Step 2 recorded; Step 3 set up.** `02_Sp'
+  agent3   ⛔ LLAST MISMATCH  claimed='- **CL-50 · 2026-11-16 09:53 · Step 8 recorded.** `08_Review'  actual='- **CL-51 · 2026-11-16 10:09 · List gap, mine (found by Step'
+
+=== /home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Casey/05_Reconciliation.md ===
+  agent1   ✅ all fields match ground truth
+  agent2   ✅ all fields match ground truth
+  agent3   ✅ all fields match ground truth
+
+=== /home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Casey/05b_T8_Rounds_Step_5.md ===
+  agent1   ✅ all fields match ground truth
+  agent2   ✅ all fields match ground truth
+  agent3   ✅ all fields match ground truth
+
+=== /home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Casey/06_Differentiation.md ===
+  agent1   ✅ all fields match ground truth
+  agent2   ✅ all fields match ground truth
+  agent3   ✅ all fields match ground truth
+
+=== /home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Casey/06b_T8_Rounds_Step_6.md ===
+  agent1   ✅ all fields match ground truth
+  agent2   ✅ all fields match ground truth
+  agent3   ✅ all fields match ground truth
+
+=== /home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Casey/07_QA_Gates.md ===
+  agent1   ✅ all fields match ground truth
+  agent2   ✅ all fields match ground truth
+  agent3   ✅ all fields match ground truth
+
+=== /home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Casey/07b_T8_Rounds_Step_7.md ===
+  agent1   ✅ all fields match ground truth
+  agent2   ✅ all fields match ground truth
+  agent3   ✅ all fields match ground truth
+
+=== /home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Casey/08_Review_Panel.md ===
+  agent1   ✅ all fields match ground truth
+  agent2   ✅ all fields match ground truth
+  agent3   ✅ all fields match ground truth
+
+=== /home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Casey/08b_T8_Rounds_Step_8.md ===
+  agent1   ✅ all fields match ground truth
+  agent2   ✅ all fields match ground truth
+  agent3   ✅ all fields match ground truth
+
+=== /home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Casey/.t8_09_Step_9_anchor_sweep_raw.txt ===
+  agent1   ✅ all fields match ground truth
+  agent2   ✅ all fields match ground truth
+  agent3   ✅ all fields match ground truth
+
+=== /home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Casey/.t8_09_Step_9_pace_extract.txt ===
+  agent1   ✅ all fields match ground truth
+  agent2   ✅ all fields match ground truth
+  agent3   ✅ all fields match ground truth
+
+=== VERDICT ===
+⛔ NOT UNANIMOUS - DO NOT WRITE. Log which agent/file failed and why.

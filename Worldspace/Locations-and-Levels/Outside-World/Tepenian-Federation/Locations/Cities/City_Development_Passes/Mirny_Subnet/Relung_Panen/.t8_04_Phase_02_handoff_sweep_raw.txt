@@ -1,0 +1,8 @@
+normalized sweep for rows addressed to Phase 2 (emphasis stripped; 'Phase 2', 'Phases 2', a list naming 2, or a range spanning 2)
+00.1_Step_MINUS-1_Input_Contract.md 4 [385, 390, 465, 598]
+00_Frame.md 1 [405]
+01_Inherited.md 4 [151, 176, 190, 206]
+02_Spine.md 2 [182, 341]
+02.1_Spine_Amendment_G7.md 1 [346]
+03_Research.md 0 []
+total lines 12

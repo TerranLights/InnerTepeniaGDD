@@ -1,0 +1,41 @@
+pass audited : Relung_Panen
+corpus mode  : default (own pass excluded)
+corpus files : 7427   chars: 127,615,180
+files audited: 04_Phase_08_Making.md
+own-pass mode: a quotation may also be found in this pass's OTHER files (never in its own file)
+
+=== POSITIVE CONTROLS ===
+  [easy                      ] FOUND     a terminus is nobody's midpoint
+  [HARD - blockquote wrap    ] FOUND     A pass may not proceed to Step 5 with a NEVER CITED row
+  [HARD - outside Worldspace ] FOUND     Paste raw QA scan output into the QA block. Never summa
+  [HARD - case mismatch      ] FOUND     YOU GO TO ESPERANZA AND YOU DO NOT COME HOME FOR FOUR Y
+  [HARD - long wrapped       ] FOUND     Different content is not differentiation; a different q
+
+  INSTRUMENT VALID: YES
+  NEGATIVE CONTROL (must be absent): PASS - absent
+
+=== QUOTATION AUDIT ===
+fragments tested (single-line, ellipsis-split, >=7 words): 69
+NOT FOUND in corpus: 15
+  of those, in TABLE CELLS : 0
+  of those, in PROSE       : 15
+
+  [04_Phase_08_Making.md:26]           with emphasis markers, backticks and underscores stripped; a line counts when it names phase 8 alone, inside a list (
+  [04_Phase_08_Making.md:242]           (tools l37), placed in no household. in a household with robots, coolant-tending is caretaking (tools l45), and diagnostic tending
+  [04_Phase_08_Making.md:516]           (b's wording), with a's shared-kit list as its content, and withdrew
+  [04_Phase_08_Making.md:516]           from its own axis as the generic layer frame; c withdrew
+  [04_Phase_08_Making.md:516]           (its first half rests on materials whose making-use is unwritten; its second half is supply, not making) and holds
+  [04_Phase_08_Making.md:516]           as a joint wording; b withdrew its own wording as repeating earlier axes of this pass (phase 7's seasonless mandate against season
+  [04_Phase_08_Making.md:516]           shared kit on rock and ice; origin forms kept at home
+  [04_Phase_08_Making.md:517]           one answer per category holds for the general population
+  [04_Phase_08_Making.md:522]           the kit is the one visible thing a member has and a newcomer lacks
+  [04_Phase_08_Making.md:525]           ) carry a third-order finding; c flagged it as the one place any reader lets the name carry a finding, against
+  [04_Phase_08_Making.md:531]           (no line ties taking siligel to charging; b, c); a's pidgin citation l1894 l1895 (b); a's
+  [04_Phase_08_Making.md:531]           phase 2 rf-92 (this merge, at phase 2 l306); b's
+  [04_Phase_08_Making.md:531]           as national canon the developer's premise (a); b's
+  [04_Phase_08_Making.md:531]           count boots for dry ground and for the melt (a noted it as a soft edge); c's
+  [04_Phase_08_Making.md:531]           122 days a year at 15 m/s or more (b); c's
+
+⚠ TRIAGE BY HAND. A miss is not yet a defect: the pass quoting ITSELF, and
+  connective prose captured between two adjacent quotations, both show here.
+  Confirm each at source before calling it a defect.

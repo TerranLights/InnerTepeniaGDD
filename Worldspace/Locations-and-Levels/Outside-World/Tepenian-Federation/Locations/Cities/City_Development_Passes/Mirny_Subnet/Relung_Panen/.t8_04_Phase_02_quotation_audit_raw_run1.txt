@@ -1,0 +1,38 @@
+pass audited : Relung_Panen
+corpus mode  : default (own pass excluded)
+corpus files : 7427   chars: 127,581,254
+files audited: 04_Phase_02_Composition_and_Arrival.md
+own-pass mode: a quotation may also be found in this pass's OTHER files (never in its own file)
+
+=== POSITIVE CONTROLS ===
+  [easy                      ] FOUND     a terminus is nobody's midpoint
+  [HARD - blockquote wrap    ] FOUND     A pass may not proceed to Step 5 with a NEVER CITED row
+  [HARD - outside Worldspace ] FOUND     Paste raw QA scan output into the QA block. Never summa
+  [HARD - case mismatch      ] FOUND     YOU GO TO ESPERANZA AND YOU DO NOT COME HOME FOR FOUR Y
+  [HARD - long wrapped       ] FOUND     Different content is not differentiation; a different q
+
+  INSTRUMENT VALID: YES
+  NEGATIVE CONTROL (must be absent): PASS - absent
+
+=== QUOTATION AUDIT ===
+fragments tested (single-line, ellipsis-split, >=7 words): 35
+NOT FOUND in corpus: 12
+  of those, in TABLE CELLS : 5
+  of those, in PROSE       : 7
+
+  [04_Phase_02_Composition_and_Arrival.md:42]           with emphasis and backticks stripped; a line counts when it names phase 2 alone, in a list, or inside a range; wrapped
+  [04_Phase_02_Composition_and_Arrival.md:138]           holds for the exiles in it and not provably for everyone. this layer is small
+  [04_Phase_02_Composition_and_Arrival.md:140]           (draft l23, preamble treaty draft ); its mechanism exiles robots as a class
+  [04_Phase_02_Composition_and_Arrival.md:142]           (draft l50, ii.2.5 treaty draft ), with personhood in assembly territory lost and return barred (iv.2.2-3 treaty draft ). two kind
+  [04_Phase_02_Composition_and_Arrival.md:373]  [CELL]  into the mix c's wording : the reading inside 03 l463's three or four words that rests on nothing conditional
+  [04_Phase_02_Composition_and_Arrival.md:374]  [CELL]  and the v.2 link assigned, no rotation, no relief; caveat on non-exiles; rejects the v.2 link withdrew
+  [04_Phase_02_Composition_and_Arrival.md:374]  [CELL]  assigned, small, no rotation clock, no way home assigned, small, no rotation clock; no way home for the human electors; b's caveat
+  [04_Phase_02_Composition_and_Arrival.md:375]  [CELL]  p2c-212's wording; b's consequence as conditional c's wording, p2-17; b's
+  [04_Phase_02_Composition_and_Arrival.md:389]  [CELL]  at this city national; no fled population of its own
+  [04_Phase_02_Composition_and_Arrival.md:394]           no visitor line is on the list (amendment l184)
+  [04_Phase_02_Composition_and_Arrival.md:403]           (b); the gateway setting the founding-wave character (b, c)
+  [04_Phase_02_Composition_and_Arrival.md:403]           (b: the height is undated); anything read from taiwan's decimal (c)
+
+⚠ TRIAGE BY HAND. A miss is not yet a defect: the pass quoting ITSELF, and
+  connective prose captured between two adjacent quotations, both show here.
+  Confirm each at source before calling it a defect.

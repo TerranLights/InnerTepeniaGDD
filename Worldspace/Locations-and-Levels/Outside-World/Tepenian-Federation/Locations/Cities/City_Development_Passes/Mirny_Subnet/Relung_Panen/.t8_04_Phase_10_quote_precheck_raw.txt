@@ -1,0 +1,4 @@
+target: 04_Phase_10_Catalog.md
+sources: 43 list entries; own-pass files: 34 (dot-files and superseded files excluded)
+quoted fragments (>=3 words, ellipsis-split): 45
+found in sources at admitted ranges: 45 | found only in the pass's own files: 0 | NOT FOUND: 0

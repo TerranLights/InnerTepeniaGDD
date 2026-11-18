@@ -1,0 +1,37 @@
+pass audited : Relung_Panen
+corpus mode  : default (own pass excluded)
+corpus files : 7427   chars: 127,602,883
+files audited: 04_Phase_05_Relation_and_Geometry.md
+own-pass mode: a quotation may also be found in this pass's OTHER files (never in its own file)
+
+=== POSITIVE CONTROLS ===
+  [easy                      ] FOUND     a terminus is nobody's midpoint
+  [HARD - blockquote wrap    ] FOUND     A pass may not proceed to Step 5 with a NEVER CITED row
+  [HARD - outside Worldspace ] FOUND     Paste raw QA scan output into the QA block. Never summa
+  [HARD - case mismatch      ] FOUND     YOU GO TO ESPERANZA AND YOU DO NOT COME HOME FOR FOUR Y
+  [HARD - long wrapped       ] FOUND     Different content is not differentiation; a different q
+
+  INSTRUMENT VALID: YES
+  NEGATIVE CONTROL (must be absent): PASS - absent
+
+=== QUOTATION AUDIT ===
+fragments tested (single-line, ellipsis-split, >=7 words): 43
+NOT FOUND in corpus: 11
+  of those, in TABLE CELLS : 0
+  of those, in PROSE       : 11
+
+  [04_Phase_05_Relation_and_Geometry.md:155]           ( highways.md l278; spec l12). so the city's sea trade runs
+  [04_Phase_05_Relation_and_Geometry.md:155]           ( city national connections.md l397). what flows, and which way: out by road, bulk and food (spec l13; dr-96 item 3; about 480,000
+  [04_Phase_05_Relation_and_Geometry.md:157]           (l276), names the spec's own field as its source (l281; step 1 rf-36: one source, not two), and leaves length, surface and keeper 
+  [04_Phase_05_Relation_and_Geometry.md:159]           ( city relationship database.md l117; spec l12). processed winter arrivals
+  [04_Phase_05_Relation_and_Geometry.md:159]           ( airports.md l23; ports.md l295; dr-82 l1499); no line writes how one of them reaches this city (spine g5-d3; step 1 as-3). on th
+  [04_Phase_05_Relation_and_Geometry.md:160]           and the oasis is reached by air or helicopter
+  [04_Phase_05_Relation_and_Geometry.md:161]           receive the city's seed and send their waste streams to its recovery role, and none is named. dr-75 (rulings l1421): seed breeding
+  [04_Phase_05_Relation_and_Geometry.md:161]           ( 18 l32-33 doi corroboration ). whether waste or recovered material physically moves to or from the city is not written (spine re
+  [04_Phase_05_Relation_and_Geometry.md:161]           the honest answer for 5a is a category ( 03 l670): one neighbor (casey), one partnership (davis and the project), one hub across t
+  [04_Phase_05_Relation_and_Geometry.md:162]           grounded in the spec's highway field (l398), admissible as a route. the connections file's header says it reasons from each city's
+  [04_Phase_05_Relation_and_Geometry.md:236]           not a passenger gateway, so people still arrive through casey and the city's composition reasoning (one door) is unchanged
+
+⚠ TRIAGE BY HAND. A miss is not yet a defect: the pass quoting ITSELF, and
+  connective prose captured between two adjacent quotations, both show here.
+  Confirm each at source before calling it a defect.

@@ -1,0 +1,4 @@
+target: 02_Spine.md
+sources: 28 list entries; own-pass files: 12 (dot-files and superseded files excluded)
+quoted fragments (>=3 words, ellipsis-split): 0
+found in sources at admitted ranges: 0 | found only in the pass's own files: 0 | NOT FOUND: 0

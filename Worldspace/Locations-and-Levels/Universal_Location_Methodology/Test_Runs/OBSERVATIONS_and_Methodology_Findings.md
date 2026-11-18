@@ -8602,3 +8602,176 @@ tie-breaker.
 **Status:** ✅ recorded 2026-10-12; proposed in `09_Record.md` (Item 4: MP-1…MP-19) and `09.5_Log.md`, none applied; M-283 and M-287–M-289 are the best evidenced.
 
 > 📎 **Derivation Mechanisms (line added 2026-10-29; nothing was moved).** A **copy** of this file is in the universe-wide methods repo `DerivationMechanisms` at `/home/kuroskalacs/Documents/Doll-Fi/media/Reference/DerivationMechanisms/Environment/ULM [Universal Location Methodology]/from InnerTepeniaGDD/Test_Runs/OBSERVATIONS_and_Methodology_Findings.md`. **This repo's file stays the working copy;** the method belongs in that repo, while results and tracking stay in this one. **If you arrived here from a line reference: the pointer sits at the very END on purpose, because inserting it mid-file would have shifted every cited line.**
+
+
+---
+
+## Casey ULM run, Step 9.5 entries (2026-11-16) — M-321 to M-352
+
+*Copied verbatim from `City_Development_Passes/Mirny_Subnet/Casey/09_Record.md` §5 (L91–L255), appended at the end so no cited line moves. Each is a recorded observation; every rule, tool or brief change it proposes awaits the developer's word and is not applied.*
+
+
+*For `Test_Runs/OBSERVATIONS_and_Methodology_Findings.md`, numbered on from M-320 (the file's highest, orchestrator-verified; the last entry the readers read is M-320 at L8600). Each is written in the file's own entry shape (bold key and title, the location and step with the date, the body, a **Lesson:**, an italic tail naming the location, the 9.5 kind and the rule). **Not one is applied.** Where an entry proposes a rule, tool or brief change, that change waits for the developer's word, and the runbook, tools and briefs change only then, in one commit (runbook L3029-3031). Precedents from other runs are cited by M- number only. Under each block: its finders, and whether it proposes a rule change.*
+
+```
+- **M-321 · The list tool drafted another location's file as a standard entry, twice in one run** (Casey Phase 3 set-up, 2026-11-11, and Step 5, 2026-11-16; Casey `09_Record.md` §5). `Tools/make_t8_required_list.py` drafted another city's climate READER file where Casey's own belongs, and two files the Pre-Trip places at Phase 4 (`09.5_Log.md` L42, CL-22; L44, CL-24); at Step 5 its draft named another city's personality file (L62, CL-42). Both were caught because every list from Phase 3 on was built by hand. Nothing entered a list. **Lesson:** a tool that resolves a "standard entry" by pattern can return a sibling's file; a drafted list is checked path by path for the location's own name, and the tool should refuse any drafted path that names a location other than the one passed to it. *(Casey; 9.5 kind: a tooling obstacle, recurring inside one run. Extends M-269. Rule: proposed, a tool repair and a by-hand path check in list-building; for the developer's word.)*
+```
+Found by A (S9A-OBS-1), B (S9B-OBS-101), C (S9C-OBS-202). **Proposes a rule change: yes (tool).**
+
+```
+- **M-322 · The Step 4 close-out check ran after Step 5 had started** (Casey Phase 10 to Step 5, 2026-11-15 and 2026-11-16; Casey `09_Record.md` §5). The close-out check (G1-G8) was due at Phase 10's close and was run at 06:48 on 2026-11-16, with Step 5's stage A under way; all eight generators cited, no NEVER CITED row (`09.5_Log.md` L64, CL-44; `05b_T8_Rounds_Step_5.md` L519). Its result would not have changed Step 5's set-up (CL-44). **Lesson:** a check placed between two units belongs to neither unit's checklist and is skipped silently; the gate passing this time was luck, not design. *(Casey; 9.5 kind: a problem, a step run out of order. Extends M-291. Rule: proposed, the close-out output pasted in Phase 10's record and a precondition line at the head of Step 5's set-up; for the developer's word.)*
+```
+Found by A (S9A-OBS-2), B (S9B-OBS-102), C (S9C-OBS-203). **Proposes a rule change: yes.**
+
+```
+- **M-323 · The two-stage Step 5 held because Part 1 was sealed on disk and checked after the append** (Casey Step 5, 2026-11-16; Casey `09_Record.md` §5). Stage A wrote the named leg (`05_Reconciliation.md` L491) with the culture, robot-culture and personality files unopened; its merge was sealed by hash and byte copy before any stage B message (`05b` L233; `09.5_Log.md` L63, CL-43); the hash was re-checked before stage B's Round 2 (`05b` L275); after the append, `head -645` was byte-identical to the sealed copy (`cmp`, `05b` L291). The read-last check then found the leg CONTRADICTED IN PART (`05` L691), and P6-2 stood (`05` L703-704). **Lesson:** naming the falsifiable leg (M-271) is auditable only if the naming is provably fixed before the check; the hash, the byte copy and the `cmp` of the sealed head make it so, and a test that can fail and partly did is the method working. *(Casey; 9.5 kind: a technique that worked, and why. Extends M-271. Rule: proposed conditionally — add the seal (hash, byte copy, `cmp` of the head after the append) to the runbook's two-stage Step 5 text if that text does not already name it; no reader's span reached it (CL-42 cites runbook L2888 for the two stages); for the developer's word.)*
+```
+Found by A (S9A-OBS-3), B (S9B-OBS-103), C (S9C-OBS-201). **Proposes a rule change: conditionally** (split 8, §11).
+
+```
+- **M-324 · A Step 7 erratum on a differentiation cell named an order the run did not follow: the row was inserted at Step 6, before QA** (Casey Steps 6, 7 and 9, 2026-11-16; Casey `09_Record.md` §5). S7-E-12 directs "**Correct before Step 9 inserts the row.**" (`07_QA_Gates.md` L1170) and hands Step 9 the correction (L1280); the rows were inserted blind at 07:48 (`09.5_Log.md` L68), before Step 7 was recorded at 09:02 (L69), as the runbook now places the write (L3008-3011, the M-298 reconciliation). Step 9 edits no file, and errata are recorded, never applied (`07b` L298). **Lesson:** under the reconciled order, a Step 7 erratum on a cell is a correction to a shared table already written, which no step is told to make; the method has to name who corrects an inserted cell, when, and under whose word. *(Casey; 9.5 kind: a contradiction between two instructions. Extends M-298. Rule: proposed, either (a) a Step 7 erratum on an inserted cell becomes a one-line asserted replacement in the pass's own row at the Step 9 commit, on the developer's word, with a second reader, or (b) insertion moves after Step 7, which reverses M-298; DQ-46.)*
+```
+Found by A (S9A-OBS-4), B (S9B-OBS-104), C (S9C-OBS-210). **Proposes a rule change: yes.**
+
+```
+- **M-325 · The III.0 relations had two named homes, and neither was written by the step that inserted the rows** (Casey Steps 6 and 9, 2026-11-16; Casey `09_Record.md` §5). Step 6 handed Step 9 the relations "into the table's propagation row (table L30)" (`06_Differentiation.md` L229); the runbook's Step 9 asks that they be recorded in the record (L3017); the insertion wrote Casey's ten rows only (`06b_T8_Rounds_Step_6.md` L157, L160). **Lesson:** a propagation that needs a write to a shared row, at a step that writes nothing else, has no owner; the method should name one place, and if it is the table, say whether a blind write into a row other passes have written is permitted. *(Casey; 9.5 kind: something unclear; a deferral with no owner. Extends M-291. Rule: proposed, name the propagation's one destination in runbook Step 9 item 2; DQ-47.)*
+```
+Found by A (S9A-OBS-5), C (S9C-OBS-211); B within S9B-OBS-104. **Proposes a rule change: yes.**
+
+```
+- **M-326 · The stale-anchor sweep checked 28 of the pass's line citations and moved none; the one real shift was found by a second check** (Casey Step 9, 2026-11-16; Casey `09_Record.md` §5). `Tools/remap_line_citations.py` in report mode ran 15 times and every run reads "line numbers moved: 0" (`.t8_09_Step_9_anchor_sweep_raw.txt` L4-L75), 28 citations checked in all [computed]; it skipped as ambiguous the pass's own `02_Spine.md` (21 citations, "name is ambiguous (10 files)", L25), `00_Frame.md` (12, L78) and `01_Inherited.md` (2, L79), `00_RUNBOOK.md` (3 files) and each datasheet name (34 files), and reported `Formative_History.md` as no such file (L81). Its scope (L1) leaves out Steps 5 to 8, and Step 3 is named in neither base, while seven runs stand against a header that names six files for the first base (L1, L3-30). The orchestrator's changed-source check (L83-92) found the table's shift (L85); it lists six files by full name, and the rulings log, cited by line throughout Steps 5 to 8 (for example rulings L2003, `05` L238), is not among them; one row is the spec's path split at its space (L90), re-checked separately (L91-92). **Lesson:** a sweep that cannot see a pass's commonest citation forms is not yet the sweep runbook Step 9 item 5 asks for: resolve names inside the pass's folder first, map the pass's short names (rulings, spec, contract, Frame, `04`, `16`, physiology, cold, DB) to paths, quote paths, run it at the record over every pass file, and print checked against total; otherwise a zero is the tool's reach, not the pass's state. *(Casey; 9.5 kind: a tooling obstacle. Extends M-291. Rule: proposed, a tool repair and a coverage line in item 5's record; until then, the changed-source check is the sweep; for the developer's word.)*
+```
+Found by A (S9A-OBS-6), B (S9B-OBS-107), C (S9C-OBS-214; the Step 3 gap, C's Round 3). **Proposes a rule change: yes (tool, and item 5's record wording).**
+
+```
+- **M-327 · A step's own blind insertion moved the anchors that step cites** (Casey Step 6, 2026-11-16; Casey `09_Record.md` §5). The ten rows inserted after the sections' last table lines (`06b` L141-150) shift every table line from old L55 (`.t8_09_Step_9_anchor_sweep_raw.txt` L85); `06_Differentiation.md` cites the table by line in the pre-insertion frame (56 citations on 23 lines, and one admitted-span list at L13; §6 here); the round record names that frame (173 lines, sha256 `107e978cd389f314`, `06b` L138), and `06` does not. **Lesson:** the same shape as M-308 (an insertion moves every anchor below it), here produced by the method's own write; a step that edits a file it cites by line names the numbering frame beside its citations (`Amendment_Layer_Rules.md` rule 6) and writes the old-to-new address map into the same record. *(Casey; 9.5 kind: an edit's side effect. Extends M-308, M-320. Rule: proposed, rule 6 extended to in-pass edits; for the developer's word.)*
+```
+Found by A (S9A-OBS-7), B (S9B-OBS-108), C (S9C-OBS-215). **Proposes a rule change: yes.**
+
+```
+- **M-328 · The brief generator's entry sentence was wrong at two steps and corrected in place before dispatch** (Casey Steps 7 and 8, 2026-11-16; Casey `09_Record.md` §5). Both round records read "the generated entry sentence corrected in place in all three before dispatch" (`07b_T8_Rounds_Step_7.md` L7; `08b_T8_Rounds_Step_8.md` L7); what was wrong is in the progress file, which no reader read. **Lesson:** a generated sentence describing the list still drifts from the list; the generator derives it from the list file and asserts it, rather than an eye catching it. *(Casey; 9.5 kind: a recurrence, caught before dispatch. Extends M-294, M-309. Rule: proposed, a generator fix (extend standing line 19 to the entry sentence); for the developer's word.)*
+```
+Found by A (S9A-OBS-8), B (S9B-OBS-109), C (S9C-OBS-213). **Proposes a rule change: yes (generator).**
+
+```
+- **M-329 · A figure in a reader brief came from a demoted datasheet and was cited to the Frame** (Casey Phase 9, 2026-11-15; Casey `09_Record.md` §5). The Phase 9 brief gave the robot share as 50.91%, citing `00_Frame.md`:264, which reads 50.84%; the figure came from `Datasheets/Phase_9.md` L16, and reader B caught it (`09.5_Log.md` L58, CL-38); the same sheet's figure was still flagged at Step 7 (`07_QA_Gates.md` L555). **Lesson:** a figure in a brief is re-read at the line it cites before dispatch, not copied from the line that summarized it; the standing line on orchestrator-verified results does not reach a brief's other figures. *(Casey; 9.5 kind: an orchestrator's error, caught by a reader. Extends M-283, M-300. Rule: proposed, a standing brief line extending the re-read to every figure a brief states; for the developer's word.)*
+```
+Found by A (S9A-OBS-9), B (S9B-OBS-111), C (S9C-OBS-204). **Proposes a rule change: yes.**
+
+```
+- **M-330 · Round 2 passed a reader who had not read the whole list; only the reader's own report showed it** (Casey Step 6, 2026-11-16; Casey `09_Record.md` §5). Reader C wrote fifteen PROOF blocks but read entries 8-15 only at targeted spans when its context ran out; it said so, the output was logged partial and not used, and the slot was re-dispatched fresh on the identical brief (`09.5_Log.md` L67, CL-47; `06b` L29). The log's own reading: "a PROOF block can pass Round 2 without a full read, which is why the self-report governs" (L67). **Lesson:** Round 2 proves positions, not reading; a per-entry *read in full: yes or no* line in every reader's log is the instrument that caught it. *(Casey; 9.5 kind: a problem, and a technique that worked, with its limit. Rule: proposed, a standing brief line asking for a per-entry full-read statement, if none carries it; for the developer's word.)*
+```
+Found by A (S9A-OBS-10), B (S9B-OBS-110); C within S9C-OBS-209. **Proposes a rule change: yes.**
+
+```
+- **M-331 · Every multi-file reader step from Step 5 on reached a context limit, and every reader resumed from its log** (Casey Steps 5 to 8, 2026-11-16; Casey `09_Record.md` §5). Step 5: reader A cut mid-read, B compacted (`05_Reconciliation.md` L636); Step 6: reader C ran out (CL-47); Step 7: each reader compacted once, in Phase 10 (`07_QA_Gates.md` L1383; `07b` L46); Step 8: each reader compacted once while reading Step 5 (`08_Review_Panel.md` L370; `08b` L38). No entry was read from memory. **Lesson:** at this pass's file sizes a full-list reader compacts about once per step, at the same files; the entry-granular reading log is what keeps it resumable and honest. *(Casey; 9.5 kind: an environmental obstacle, routed around and logged; a recurrence. Extends M-297. Rule: A and B propose none; C proposes that the set-up record each reader's total admitted lines and split a list above a stated size — carried as C's proposal, for the developer's word.)*
+```
+Found by A (S9A-OBS-11), B (S9B-OBS-121), C (S9C-OBS-209). **Proposes a rule change: C's proposal only** (split 9, §11).
+
+```
+- **M-332 · The T5 hand comparison was deferred twice and reached a step whose list cannot run it** (Casey Steps 8 and 9, 2026-11-16; Casey `09_Record.md` §5). The phase discipline tool printed both markers and "COMPARE BY HAND" (`08b_T8_Rounds_Step_8.md` L235-237); Step 8's record wrote that "it is carried to Step 9" (`08b` L241; `09.5_Log.md` L70, CL-50); Step 9's list admits no phase file. The panel's comparison of the two lines' content (`08_Review_Panel.md` L208) is a different check. **Lesson:** M-314 says a deferral that names a step reaches that step's brief; it must also reach that step's reading list, or the receiving step can only carry it on. The falsification test belongs where its files are admitted: Step 8, with Phases 6 to 10 and Steps 5 to 7 on its list. *(Casey; 9.5 kind: a deferral with no reach; a recurrence. Extends M-286, M-314. Rule: proposed, a deferral names the files its check needs and the receiving step's list admits them, and Step 8's brief carries the tool's question as a line to answer; for the developer's word.)*
+```
+Found by A (S9A-OBS-12), B (S9B-OBS-106), C (S9C-OBS-212). **Proposes a rule change: yes.**
+
+```
+- **M-333 · A machine restart lost every run tool kept only in the session scratchpad** (Casey Phase 3, 2026-11-15; Casey `09_Record.md` §5). The brief templates, the record builder and the string checker in the earlier session's `scratchpad/casey/tools/` did not survive the restart; the next session rebuilt them from the briefs on disk (`09.5_Log.md` L43, CL-23), and the spelling pattern was rewritten (L45, CL-25). One tool was later kept beside the pass as a dot-file copy (`06b` L136). **Lesson:** scratchpad files are not durable across a restart; a run that spans sessions keeps its builders, templates and patterns beside the pass (as dot-files, like the briefs) or in `Tools/`. *(Casey; 9.5 kind: an environmental obstacle. Rule: proposed, copy each run tool beside the briefs when first used; for the developer's word.)*
+```
+Found by A (S9A-OBS-13), B (S9B-OBS-117), C (S9C-OBS-206). **Proposes a rule change: yes.**
+
+```
+- **M-334 · The handoff audit's sweep-row counts differ from the phases' own enumerations on five of nine phases while its self-test says VALID** (Casey Phases 2-10, read at Step 5, 2026-11-16; Casey `09_Record.md` §5). Raw, tool against log: Phase 2, 16 against 44 (`05b` L406; `09.5_Log.md` L41); Phase 6, 28 against 47 (L410; L52); Phase 8, 23 against 84 (L412; L56, reconciled by hand there); Phase 9, 50 against 80 (L413; L59); Phase 10, 4 against 46 (L414; L61). Phases 3, 4, 5 and 7 agree (32, 44, 131, 88; `05b` L407-411; log L45, L48, L50, L54). "INSTRUMENT VALID: YES" (`05b` L402). The tool reads phase files only; Step 5's sweep was reconciled by hand (`05b` L515). **Lesson:** a built-in self-test shows the detector separates a block from no block, not that it counts the pass's rows; a count below the enumerated total reads as a hole that is not there, so the record states which count it reports. *(Casey; 9.5 kind: a tooling obstacle. Extends M-284, M-306. Rule: proposed, a tool option that counts the pass's own sweep-table rows and covers Steps 5 to 8, or a record line that the counts are not comparable; for the developer's word.)*
+```
+Found by A (S9A-OBS-14), C (S9C-OBS-207); B (S9B-OBS-116) named three phases and corrected to five in Round 3. **Proposes a rule change: yes (tool).**
+
+```
+- **M-335 · Instrument texts that lag the rulings, met in-run and not followed** (Casey Steps 5 to 7, 2026-11-15 and 2026-11-16; Casey `09_Record.md` §5). The table's L27-28 still state the read-before-write loop for cities (S6-16, `06_Differentiation.md` L164); `04` L526 still says to run substitute 1 without fail, against runbook L469 and `DR-137` item 10 (S6-10, `06` L172); §4's third column has no title, §2's second column and the Pass column have no instruction (DQ-39, DQ-40; S6-6); the runbook's "(four parts)" for `Robot_Universals/` stands against the chapters admitted (`09.5_Log.md` L59, CL-39). Step 6 carried the first two "to Step 9's methodology list and Step 10" (`06b` L214). **Lesson:** after a ruling moves an instrument's practice, the instrument's own text and its table's header box belong on the ruling's applied list (M-312's shape). *(Casey; 9.5 kind: contradictions between instructions. Extends M-312. Rule: proposed, each text reconciled by its owner; for the developer's word.)*
+```
+Found by A (S9A-OBS-15), B (S9B-OBS-119, part; the four-parts line is B's alone), C (S9C-OBS-216). **Proposes a rule change: yes (owners' texts).**
+
+```
+- **M-336 · After `DR-136` item 6, the spine's 5b has no in-run form** (Casey Phase 5, 2026-11-15; Casey `09_Record.md` §5). Its sibling form is terminal and its own-eras form is ruled out, while the spine text (L710-724) still prescribes the own-eras form (`09.5_Log.md` L49, CL-29 item 4); raised as DEC-530 (L50, CL-30). **Lesson:** a ruling that removes a form is read against every method line that prescribes it. *(Casey; 9.5 kind: a contradiction between a ruling and a method text. Rule: proposed, reconcile the spine's 5b with the ruling; DEC-530 open.)*
+```
+Found by A (S9A-OBS-16), B (S9B-OBS-119, part; S9B-119), C (S9C-OBS-217). **Proposes a rule change: yes.**
+
+```
+- **M-337 · Gate C's question names a runbook section that Step 7's list did not admit** (Casey Step 7, 2026-11-16; Casey `09_Record.md` §5). "Runbook §E is not on the list" (`07_QA_Gates.md` L117), so the check ran on `04`'s own bullets (also L20, L1285, L1389). **Lesson:** a gate's reading list admits the sections its own question names. *(Casey; 9.5 kind: a list-building defect. Rule: proposed, Step 7's list admits runbook §E; for the developer's word.)*
+```
+Found by A (S9A-OBS-17), C (S9C-OBS-218, part). **Proposes a rule change: yes.**
+
+```
+- **M-338 · The four inheritance classes have no slot for a thing inherited from the site** (Casey Step 7, 2026-11-16; Casey `09_Record.md` §5). The pass classes the station-built core and the records Originated, a local inheritance of things (P3-11, P7-38); one Step 7 reader flags the missing class, another reads it as the class `DR-24` leaves open; not decided, carried to Step 10 for the method's owner (`07_QA_Gates.md` L436, L1285; split 5 at L1367). **Lesson:** a method question surfaced by QA is not decided by a pass. *(Casey; 9.5 kind: something unclear in the method. Rule: proposed, a ruling on the class or a note for a site inheritance; for the developer's word.)*
+```
+Found by A (S9A-OBS-18), B (S9B-OBS-119, part; S9B-176), C (S9C-OBS-218). **Proposes a rule change: yes (a ruling).**
+
+```
+- **M-339 · Rulings that landed mid-run lag in the files written before them, and only Gate C found the lag** (Casey Steps 5 and 7, 2026-11-16; Casey `09_Record.md` §5). Gate C fails "By the gate's own words" (`07_QA_Gates.md` L29): `DR-136` items 6 and 10 and `DR-137` items 7 and 14 lag in the spine, Phase 2 and Phase 3 (L29, L123-133); Step 5's by-reading lists did not reach those lines (L1127, L1134, L1232); the errata repair by reading, with no edit (L323). **Lesson:** a recurrence of M-312 within one run: when a ruling lands after phases are written, the first step after it carries the list of pass files that state the ruled fact, and Step 5 runs one scan per ruled fact over every written file, as Step 7 did. *(Casey; 9.5 kind: a recurrence. Extends M-312. Rule: proposed, an applied-list line in the first brief after any ruling and a Step 5 scan line; for the developer's word.)*
+```
+Found by A (S9A-OBS-19), B (S9B-OBS-113). **Proposes a rule change: yes.**
+
+```
+- **M-340 · The pre-staged datasheets carried excluded, stale or other-location rows at nearly every list** (Casey Steps 1 to 10 set-ups, 2026-11-11 to 2026-11-15; Casey `09_Record.md` §5). Rows kept out: Steps 1-2, L30, L34 (CL-12); Phase 2, L18, L24, L25 (CL-19); Phase 3, L13, L14, L16, L17, L19, L21 (CL-24); Phase 4, L22 (CL-26); Phase 5, L3-5, L19-26, L29, L31, L35-58 (CL-29); Phase 6, L18-21 (CL-31); Phase 7, L55, L57-61 (CL-33); Phase 8, L3-4, L14, L16-18 (CL-35); Phase 9, L3-4 (CL-37), and its L16 figure (CL-38); Phase 10, L3-5, L12-13, L16 (CL-40); the Pre-Trip's anchors were stale (CL-04). Filed as DEC-518 (`09.5_Log.md` L40). **Lesson:** a sheet built before Step −1 cannot know the contract's exclusions; each list re-litigated the same rows by hand until the sheets are filtered or rebuilt against the contract. *(Casey; 9.5 kind: a recurring problem, routed around and logged. Rule: proposed, the datasheet builder applies the contract's excluded and reserved rows; the sheets themselves wait for the after-run correction (`DR-136` item 9); for the developer's word.)*
+```
+Found by A (S9A-OBS-20), B (S9B-OBS-112), C (S9C-OBS-205; the fullest row list, with Phase 6). **Proposes a rule change: yes (tool).**
+
+```
+- **M-341 · The panel voiced the two positions blank at every phase, and each produced a result** (Casey Step 8, 2026-11-16; Casey `09_Record.md` §5). The Parent and the Lover FACULTY carry no mark at any phase (`00.2_Position_Coverage_Ledger.md` L36); the panel voiced both for the first time in the pass (`08_Review_Panel.md` L218, L224), and "The Parent's first objection found an inconsistency that the phases' silence had hidden" (L226); the ledger's blank cells were left blank (L212). **Lesson:** a position blank at every phase is where the panel is most likely to find what the phases could not; T3's blank-cell warning worked as designed, the blank voiced at the panel and not filled in a phase. *(Casey; 9.5 kind: a technique that worked, and why. Rule: none required; A proposes listing such positions first in the panel brief, as a brief line.)*
+```
+Found by A (S9A-OBS-21), B (S9B-OBS-120). **Proposes a rule change: no** (a brief line suggested by A).
+
+```
+- **M-342 · The orchestrator's line-shift script reports file lengths one above `wc -l`** (Casey Step 9, 2026-11-16; Casey `09_Record.md` §5). Script against count: the table 174 and 184 against 173 and 183 (`.t8_09_Step_9_anchor_sweep_raw.txt` L85; `06b` L138, L160); the physiology file 439 and 508 against 438 and 507 (L89; `07_QA_Gates.md` L555); the runbook 3205 against 3204 by `wc -l` (L86; the readers' Round 3 count). The offset is +1 in all three; that it counts the piece after the final newline is an inference, not checked. **Lesson:** an instrument prints its counting convention with its output, or two true records read as a discrepancy. *(Casey; 9.5 kind: a tooling obstacle, an offset unexplained in the output. Rule: none; a script note.)*
+```
+Found by A (S9A-OBS-22), C (in S9C-OBS-214; S9C-64); the runbook count confirmed by A, B and C in Round 3. **Proposes a rule change: no.**
+
+```
+- **M-343 · Read-only work left files outside its folder, and a quota counter read one call high** (Casey Phase 10 and Step 8, 2026-11-15 and 2026-11-16; Casey `09_Record.md` §5). A Phase 10 reader wrote a read-only checker outside its staging folder and the hook blocked its deletion, so it stays (`09.5_Log.md` L61, CL-41); the Step 8 merge writer's read-only print was saved by the harness to its own results file outside the repository (`08b_T8_Rounds_Step_8.md` L190; `08_Review_Panel.md` L377); `web_quota_count.py` read 230 against 195 + 34 and named a writer that made no web calls as meeting a quota error, recorded and not chased (CL-41). **Lesson:** read-only commands can still leave files; the staging-folder rule is checked after each unit by listing the scratchpad. *(Casey; 9.5 kind: environmental and tooling obstacles; the quota count unresolved. Rule: none; a set-up check.)*
+```
+Found by A (S9A-OBS-23; S9A-61), C (S9C-OBS-223); B in its record (S9B-126, S9B-132, S9B-171). **Proposes a rule change: no.**
+
+```
+- **M-344 · Round 2 passed PROOF fields that Round 3 found wrong** (Casey Steps 7 and 8, 2026-11-16; Casey `09_Record.md` §5). A QUOTE joined across a line wrap passed Round 2 and was found by a reader in Round 3 (`07b_T8_Rounds_Step_7.md` L234); a middle-line field with two leading spaces passed Round 2 (`08b` L48-175, every field matching) and was caught in Round 3 (`08_Review_Panel.md` L371). **Lesson:** the verifier normalizes whitespace and wraps, so Round 3's field comparison is the only exact check. *(Casey; 9.5 kind: a tool blind spot. Extends M-260, M-317. Rule: proposed, the verifier states its normalization in its output or runs strict; for the developer's word.)*
+```
+Found by C (S9C-OBS-208); B recorded the wrap case (S9B-170). **Proposes a rule change: yes (tool).**
+
+```
+- **M-345 · The search paths behind the pass's negative canon results were written in the run log, not in the phase files Step 7 read** (Casey Phases 5 to 10, 2026-11-15; Casey `09_Record.md` §5). Step 7 found the negatives' paths unnamed (S7-8; `07_QA_Gates.md` L321, L1286). The log names them: the universe repo's `Worldspace/Locations/`, `Geothermal_Heating.md` and `Arcanet.md` (`09.5_Log.md` L49, CL-29 item 3); the religion roster, holidays file and related folders (L51, CL-31 item 2); the two faction files (L53, CL-33 item 2); the characters folder of the Timeline (L60, CL-40 item 1). **Lesson:** a negative's path belongs in the file whose finding rests on it. *(Casey; 9.5 kind: a record gap. Rule: proposed, each phase's receipt names the command and path of every orchestrator-run negative; for the developer's word.)*
+```
+Found by C (S9C-OBS-219). **Proposes a rule change: yes.**
+
+```
+- **M-346 · Explicitly named file lists ended the scan slips that globs caused, in part** (Casey Steps 5 to 7, 2026-11-16; Casey `09_Record.md` §5). Step 5's readers' globs matched off-list files (`05_Reconciliation.md` L635, L660, L970); Step 7's scans ran over the seventeen pass files named one by one (`07_QA_Gates.md` L19), with one `ls` or `wc -l` glob per reader still printing off-list names (L1385). **Lesson:** a scan over an explicit list cannot reach an off-list file; a glob can. *(Casey; 9.5 kind: a technique that worked, in part. Rule: proposed, a standing line to scan an explicit list of files, never a glob; for the developer's word.)*
+```
+Found by C (S9C-OBS-220). **Proposes a rule change: yes.**
+
+```
+- **M-347 · Casey's own README still describes a pass that does not exist yet** (Casey, at Step 9, 2026-11-16; Casey `09_Record.md` §5). Its L3-4 read "the pass's own output files do not exist yet" (dated 2026-10-30); L18 lists one file per phase, eleven of them, while the pass has nine (Phases 2-10; `05b` L396); L21 lists one file per gate, while Step 7 wrote one file. Gate 0 did not read it (`07_QA_Gates.md` L465). **Lesson:** a folder's README is a completion claim too. *(Casey; 9.5 kind: a stale status line. Rule: proposed, Gate 0's list includes the pass folder's README; the README itself for its owner, no edit by this step; for the developer's word.)*
+```
+Found by C (S9C-OBS-221); confirmed at README L18 and L21 by B in Round 3; B noted L3-4's wording in its log. **Proposes a rule change: yes.**
+
+```
+- **M-348 · The record builder carried stale labels across phases, and an assertion caught the third** (Casey Phases 4 to 7, 2026-11-15; Casey `09_Record.md` §5). Its verdict parser missed bolded verdict lines and the row was filled by hand (`09.5_Log.md` L48, CL-28); a stale label for the ledger's P3 column stood in the Phase 4 and 5 records and was corrected in place (L52, CL-32); at Phase 7 an assertion caught it before the record was written (L54, CL-34). **Lesson:** an assertion on each generated label is what caught the third. *(Casey; 9.5 kind: a tooling obstacle, then a technique that worked. Rule: none; a builder fix recorded.)*
+```
+Found by B (S9B-OBS-118), C (S9C-OBS-222); A in its record (S9A-48, S9A-59). **Proposes a rule change: no.**
+
+```
+- **M-349 · *Column* for the city's entry recurred after the runbook reconciled it** (Casey Steps 5, 6 and 8, 2026-11-16; Casey `09_Record.md` §5). Step 5 hands Step 6 "Casey's own column" (`05_Reconciliation.md` L533, L880); Step 6 says the Frame records WARM in Casey's column (`06_Differentiation.md` L154); Step 8 writes of the table "whose column Step 6 wrote" (`08_Review_Panel.md` L259); the runbook: the city table holds one ROW per city, never mix the two words (L3012-3014). No cell was affected. **Lesson:** a vocabulary fix in the runbook does not reach merge writers' prose; the brief templates and the record's word sweep carry it. *(Casey; 9.5 kind: a recurrence. Extends M-298. Rule: proposed, small: *row* in every brief's Step 6 line and a sweep for *column* beside the city table's name; for the developer's word.)*
+```
+Found by B (S9B-OBS-105); confirmed at the lines by A and C in Round 3. **Proposes a rule change: yes (small).**
+
+```
+- **M-350 · Five station denials sat inside findings until Step 7** (Casey Phases 2, 7, 9 and 10, found at Step 7, 2026-11-16; Casey `09_Record.md` §5). Errata S7-E-1 to S7-E-5 (`07_QA_Gates.md` L1090-1123); one reader first classed all five as guards and withdrew: "That was the error the scan exists to catch" (L190). **Lesson:** the denial-form scan belongs in each phase's pre-record checks; at Step 7 it finds what five records already carried. *(Casey; 9.5 kind: a recurrence. Extends M-279. Rule: proposed, the scan moved into the phases; for the developer's word.)*
+```
+Found by B (S9B-OBS-114); confirmed by C in Round 3. **Proposes a rule change: yes.**
+
+```
+- **M-351 · The catalog wrote town-scale single places for a city of 1,547,850** (Casey Phase 10, found at Steps 7 and 8, 2026-11-16; Casey `09_Record.md` §5). One heat plant and one clinic and ward (S7-E-13, S7-E-14; `07_QA_Gates.md` L1174-1186); the store door, the September argument and the inland room hold only as classes (L333, L1077); the panel accepted reading them as classes (S8-O-14; `08_Review_Panel.md` L136). **Lesson:** at Band 5 a civic facility written in the singular needs a line giving its number. *(Casey; 9.5 kind: an author default caught downstream. Rule: proposed, Phase 10's brief carries that check; for the developer's word.)*
+```
+Found by B (S9B-OBS-115). **Proposes a rule change: yes.**
+
+```
+- **M-352 · A readiness check before Step 0 caught two ruling changes before any step used them** (Casey readiness, 2026-11-11; Casey `09_Record.md` §5). Ten one-reader checks, one per ruling since the pre-staging, found changes at CR-3 and CR-7; the changes went into an amendment beside Step −1, by three readers, before Step 0 (`09.5_Log.md` L26, CL-06; L28, CL-08). It ran 07:18 to 08:00 (§8). **Lesson:** checking each later ruling against the admission decisions before Step 0 is cheap and kept every later brief on the amended decisions. *(Casey; 9.5 kind: a technique that worked. Rule: none.)*
+```
+Found by B (S9B-OBS-122); confirmed by C in Round 3. **Proposes a rule change: no.**
+
+*Count: 32 proposed observation entries, M-321 to M-352. A rule, tool, generator or brief change is proposed in 25 (M-321, 322, 324 to 330, 332 to 340, 344 to 347, 349 to 351), conditionally in 1 (M-323), as one reader's proposal only in 1 (M-331); none in 5 (M-341, 342, 343, 348, 352). None is applied.*
+

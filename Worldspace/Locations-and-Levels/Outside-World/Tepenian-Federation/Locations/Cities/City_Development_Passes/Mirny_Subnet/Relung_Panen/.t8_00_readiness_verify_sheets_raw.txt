@@ -1,0 +1,21 @@
+== Relung Panen: 20 checks, 0 FAIL, 2 NOTE
+  PASS D1 19 manifest files                             all present
+  PASS D2 spine MUST OPEN covered                       all 57 addresses covered
+  PASS D3 coverage line on phase sheets                 all 11 carry it
+  PASS D4 Step_5 deliberate stub                        stub statement present
+  PASS D5 Step_6 section inventory                      ten sections incl. Phase 10
+  PASS D6 DoI reliability gate cited (Phases 1, 4, 7)   cited in all three
+  NOTE D7 later-era words                               1 line(s) to READ: Step_7.md L13
+  NOTE D8 inference markers (read, never strip)         1 table row(s): Phase_5.md L40
+  PASS D9 DRAFT marking                                 all marked
+  PASS D10 shared sheets cited exist                    all exist
+  PASS D11 README Datasheets row                        
+  PASS D12 Step_-1 spec ranges and Step_0 census rows   line-range citations present; census named
+  PASS P1 sections A-N                                  ABCDEFGHIJKLMN
+  PASS P2 step/phase blocks                             steps 12, governing 11, T8 11 (want 12, 11, 11)
+  PASS P3 spine addresses in section D                  all present
+  PASS P4 datasheet files pointed to                    all 19
+  PASS P5 aliases in section A                          all 5 names present
+  PASS P6 verification block                            0 missing inputs; 81 claims, 0 failed
+  PASS P7 placeholders / carried names                  none
+  PASS P8 ledger exists                                 

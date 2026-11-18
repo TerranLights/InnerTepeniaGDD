@@ -1,0 +1,265 @@
+required files: 52
+agents: agent1, agent2, agent3
+
+=== /home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Universal_Location_Methodology/00_RUNBOOK.md  [range 2090-2316,2662-2759] ===
+  agent1   ✅ all fields match ground truth
+  agent2   ✅ all fields match ground truth
+  agent3   ✅ all fields match ground truth
+
+=== /home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Universal_Location_Methodology/03_The_Phase_Spine.md  [range 82-272,1026-1100] ===
+  agent1   ✅ all fields match ground truth
+  agent2   ✅ all fields match ground truth
+  agent3   ✅ all fields match ground truth
+
+=== /home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Universal_Location_Methodology/Disciplines/00b_General_Population_Discipline.md ===
+  agent1   ✅ all fields match ground truth
+  agent2   ✅ all fields match ground truth
+  agent3   ✅ all fields match ground truth
+
+=== /home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Universal_Location_Methodology/Disciplines/00d_Shadow_Proportion_Discipline.md ===
+  agent1   ✅ all fields match ground truth
+  agent2   ✅ all fields match ground truth
+  agent3   ✅ all fields match ground truth
+
+=== /home/kuroskalacs/Documents/Doll-Fi/media/Reference/TepenianUniverseTimeline/Reference/Laws_of_Robotics.md ===
+  agent1   ✅ all fields match ground truth
+  agent2   ✅ all fields match ground truth
+  agent3   ✅ all fields match ground truth
+
+=== /home/kuroskalacs/Documents/Doll-Fi/media/Reference/DerivationMechanisms/Characters/Robot-specific/Robot_Universals/README.md ===
+  agent1   ✅ all fields match ground truth
+  agent2   ✅ all fields match ground truth
+  agent3   ✅ all fields match ground truth
+
+=== /home/kuroskalacs/Documents/Doll-Fi/media/Reference/DerivationMechanisms/Characters/Robot-specific/Robot_Universals/Preface.md ===
+  agent1   ✅ all fields match ground truth
+  agent2   ✅ all fields match ground truth
+  agent3   ✅ all fields match ground truth
+
+=== /home/kuroskalacs/Documents/Doll-Fi/media/Reference/DerivationMechanisms/Characters/Robot-specific/Robot_Universals/1_-_Part_I_Ground-Level_Fundamentals/README.md ===
+  agent1   ✅ all fields match ground truth
+  agent2   ✅ all fields match ground truth
+  agent3   ✅ all fields match ground truth
+
+=== /home/kuroskalacs/Documents/Doll-Fi/media/Reference/DerivationMechanisms/Characters/Robot-specific/Robot_Universals/1_-_Part_I_Ground-Level_Fundamentals/01_The_Fundamental_Laws_of_Robotics/README.md ===
+  agent1   ✅ all fields match ground truth
+  agent2   ✅ all fields match ground truth
+  agent3   ✅ all fields match ground truth
+
+=== /home/kuroskalacs/Documents/Doll-Fi/media/Reference/DerivationMechanisms/Characters/Robot-specific/Robot_Universals/1_-_Part_I_Ground-Level_Fundamentals/02_The_Gel_Brain/README.md ===
+  agent1   ✅ all fields match ground truth
+  agent2   ✅ all fields match ground truth
+  agent3   ✅ all fields match ground truth
+
+=== /home/kuroskalacs/Documents/Doll-Fi/media/Reference/DerivationMechanisms/Characters/Robot-specific/Robot_Universals/1_-_Part_I_Ground-Level_Fundamentals/03_Build/README.md ===
+  agent1   ✅ all fields match ground truth
+  agent2   ✅ all fields match ground truth
+  agent3   ✅ all fields match ground truth
+
+=== /home/kuroskalacs/Documents/Doll-Fi/media/Reference/DerivationMechanisms/Characters/Robot-specific/Robot_Universals/1_-_Part_I_Ground-Level_Fundamentals/04_Mortality_and_Integrity/README.md ===
+  agent1   ✅ all fields match ground truth
+  agent2   ✅ all fields match ground truth
+  agent3   ✅ all fields match ground truth
+
+=== /home/kuroskalacs/Documents/Doll-Fi/media/Reference/DerivationMechanisms/Characters/Robot-specific/Robot_Universals/1_-_Part_I_Ground-Level_Fundamentals/05_Personality/README.md ===
+  agent1   ✅ all fields match ground truth
+  agent2   ✅ all fields match ground truth
+  agent3   ✅ all fields match ground truth
+
+=== /home/kuroskalacs/Documents/Doll-Fi/media/Reference/DerivationMechanisms/Characters/Robot-specific/Robot_Universals/1_-_Part_I_Ground-Level_Fundamentals/06_Language/README.md ===
+  agent1   ✅ all fields match ground truth
+  agent2   ✅ all fields match ground truth
+  agent3   ✅ all fields match ground truth
+
+=== /home/kuroskalacs/Documents/Doll-Fi/media/Reference/DerivationMechanisms/Characters/Robot-specific/Robot_Universals/2_-_Part_II_Differentiation_Method/README.md ===
+  agent1   ✅ all fields match ground truth
+  agent2   ✅ all fields match ground truth
+  agent3   ✅ all fields match ground truth
+
+=== /home/kuroskalacs/Documents/Doll-Fi/media/Reference/DerivationMechanisms/Characters/Robot-specific/Robot_Universals/2_-_Part_II_Differentiation_Method/07_The_Cognitive_Imperative/README.md ===
+  agent1   ✅ all fields match ground truth
+  agent2   ✅ all fields match ground truth
+  agent3   ✅ all fields match ground truth
+
+=== /home/kuroskalacs/Documents/Doll-Fi/media/Reference/DerivationMechanisms/Characters/Robot-specific/Robot_Universals/2_-_Part_II_Differentiation_Method/08_Reproduction_Kinship_and_the_Absence_of_Genetic_Relatedness/README.md ===
+  agent1   ✅ all fields match ground truth
+  agent2   ✅ all fields match ground truth
+  agent3   ✅ all fields match ground truth
+
+=== /home/kuroskalacs/Documents/Doll-Fi/media/Reference/DerivationMechanisms/Characters/Robot-specific/Robot_Universals/2_-_Part_II_Differentiation_Method/09_Substrate_and_Age/README.md ===
+  agent1   ✅ all fields match ground truth
+  agent2   ✅ all fields match ground truth
+  agent3   ✅ all fields match ground truth
+
+=== /home/kuroskalacs/Documents/Doll-Fi/media/Reference/DerivationMechanisms/Characters/Robot-specific/Robot_Universals/2_-_Part_II_Differentiation_Method/10_Sexual_Jealousy/README.md ===
+  agent1   ✅ all fields match ground truth
+  agent2   ✅ all fields match ground truth
+  agent3   ✅ all fields match ground truth
+
+=== /home/kuroskalacs/Documents/Doll-Fi/media/Reference/DerivationMechanisms/Characters/Robot-specific/Robot_Universals/3_-_Part_III_Robot_Cultural_Universals/README.md ===
+  agent1   ✅ all fields match ground truth
+  agent2   ✅ all fields match ground truth
+  agent3   ✅ all fields match ground truth
+
+=== /home/kuroskalacs/Documents/Doll-Fi/media/Reference/DerivationMechanisms/Characters/Robot-specific/Robot_Universals/3_-_Part_III_Robot_Cultural_Universals/11_Kinship_Clan_and_the_Mentor-Mentee_Institution/README.md ===
+  agent1   ✅ all fields match ground truth
+  agent2   ✅ all fields match ground truth
+  agent3   ✅ all fields match ground truth
+
+=== /home/kuroskalacs/Documents/Doll-Fi/media/Reference/DerivationMechanisms/Characters/Robot-specific/Robot_Universals/3_-_Part_III_Robot_Cultural_Universals/12_Cooperation_Morality_and_Emergent_Social_Convention/README.md ===
+  agent1   ✅ all fields match ground truth
+  agent2   ✅ all fields match ground truth
+  agent3   ✅ all fields match ground truth
+
+=== /home/kuroskalacs/Documents/Doll-Fi/media/Reference/DerivationMechanisms/Characters/Robot-specific/Robot_Universals/3_-_Part_III_Robot_Cultural_Universals/13_City-Locality_as_the_Seat_of_Identity/README.md ===
+  agent1   ✅ all fields match ground truth
+  agent2   ✅ all fields match ground truth
+  agent3   ✅ all fields match ground truth
+
+=== /home/kuroskalacs/Documents/Doll-Fi/media/Reference/DerivationMechanisms/Characters/Robot-specific/Robot_Universals/3_-_Part_III_Robot_Cultural_Universals/14_Generational_Identity_-_Gen-Mark_as_Real_but_Non-Hierarchical/README.md ===
+  agent1   ✅ all fields match ground truth
+  agent2   ✅ all fields match ground truth
+  agent3   ✅ all fields match ground truth
+
+=== /home/kuroskalacs/Documents/Doll-Fi/media/Reference/DerivationMechanisms/Characters/Robot-specific/Robot_Universals/3_-_Part_III_Robot_Cultural_Universals/15_Religion_and_Belief/README.md ===
+  agent1   ✅ all fields match ground truth
+  agent2   ✅ all fields match ground truth
+  agent3   ✅ all fields match ground truth
+
+=== /home/kuroskalacs/Documents/Doll-Fi/media/Reference/DerivationMechanisms/Characters/Robot-specific/Robot_Universals/3_-_Part_III_Robot_Cultural_Universals/16_Consumption_and_Vice_Culture/README.md ===
+  agent1   ✅ all fields match ground truth
+  agent2   ✅ all fields match ground truth
+  agent3   ✅ all fields match ground truth
+
+=== /home/kuroskalacs/Documents/Doll-Fi/media/Reference/DerivationMechanisms/Characters/Robot-specific/Robot_Universals/3_-_Part_III_Robot_Cultural_Universals/17_Sexuality/README.md ===
+  agent1   ✅ all fields match ground truth
+  agent2   ✅ all fields match ground truth
+  agent3   ✅ all fields match ground truth
+
+=== /home/kuroskalacs/Documents/Doll-Fi/media/Reference/DerivationMechanisms/Characters/Robot-specific/Robot_Universals/4_-_Part_IV_Applying_the_Universals/18_The_Differentiation_Engine/README.md ===
+  agent1   ✅ all fields match ground truth
+  agent2   ✅ all fields match ground truth
+  agent3   ✅ all fields match ground truth
+
+=== /home/kuroskalacs/Documents/Doll-Fi/media/Reference/DerivationMechanisms/Characters/Robot-specific/Robot_Universals/4_-_Part_IV_Applying_the_Universals/19_Weighing_the_Axes/README.md ===
+  agent1   ✅ all fields match ground truth
+  agent2   ✅ all fields match ground truth
+  agent3   ✅ all fields match ground truth
+
+=== /home/kuroskalacs/Documents/Doll-Fi/media/Reference/TepenianUniverseTimeline/Reference/Doll_Representation_Categories.md ===
+  agent1   ✅ all fields match ground truth
+  agent2   ✅ all fields match ground truth
+  agent3   ✅ all fields match ground truth
+
+=== /home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Robot_Biology_and_Culture/Robot_Physiology_and_Cultural_Practices.md ===
+  agent1   ✅ all fields match ground truth
+  agent2   ✅ all fields match ground truth
+  agent3   ✅ all fields match ground truth
+
+=== /home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Robot_Biology_and_Culture/Robot_Cold_Physiology.md ===
+  agent1   ✅ all fields match ground truth
+  agent2   ✅ all fields match ground truth
+  agent3   ✅ all fields match ground truth
+
+=== /home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Relung_Panen/00.1_Step_MINUS-1_Input_Contract.md ===
+  agent1   ✅ all fields match ground truth
+  agent2   ✅ all fields match ground truth
+  agent3   ✅ all fields match ground truth
+
+=== /home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Relung_Panen/00_Frame.md ===
+  agent1   ✅ all fields match ground truth
+  agent2   ✅ all fields match ground truth
+  agent3   ✅ all fields match ground truth
+
+=== /home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Relung_Panen/01_Inherited.md ===
+  agent1   ✅ all fields match ground truth
+  agent2   ✅ all fields match ground truth
+  agent3   ✅ all fields match ground truth
+
+=== /home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Relung_Panen/02_Spine.md ===
+  agent1   ✅ all fields match ground truth
+  agent2   ✅ all fields match ground truth
+  agent3   ✅ all fields match ground truth
+
+=== /home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Relung_Panen/02.1_Spine_Amendment_G7.md ===
+  agent1   ✅ all fields match ground truth
+  agent2   ✅ all fields match ground truth
+  agent3   ✅ all fields match ground truth
+
+=== /home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Relung_Panen/03_Research.md ===
+  agent1   ✅ all fields match ground truth
+  agent2   ✅ all fields match ground truth
+  agent3   ✅ all fields match ground truth
+
+=== /home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Relung_Panen/04_Phase_02_Composition_and_Arrival.md ===
+  agent1   ✅ all fields match ground truth
+  agent2   ✅ all fields match ground truth
+  agent3   ✅ all fields match ground truth
+
+=== /home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Relung_Panen/04_Phase_03_Surface_and_Texture.md ===
+  agent1   ✅ all fields match ground truth
+  agent2   ✅ all fields match ground truth
+  agent3   ✅ all fields match ground truth
+
+=== /home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Relung_Panen/04_Phase_04_Ordinary_Life.md ===
+  agent1   ✅ all fields match ground truth
+  agent2   ✅ all fields match ground truth
+  agent3   ✅ all fields match ground truth
+
+=== /home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Relung_Panen/04_Phase_05_Relation_and_Geometry.md ===
+  agent1   ✅ all fields match ground truth
+  agent2   ✅ all fields match ground truth
+  agent3   ✅ all fields match ground truth
+
+=== /home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Relung_Panen/04_Phase_06_Meaning.md ===
+  agent1   ✅ all fields match ground truth
+  agent2   ✅ all fields match ground truth
+  agent3   ✅ all fields match ground truth
+
+=== /home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Relung_Panen/04_Phase_07_Order.md ===
+  agent1   ✅ all fields match ground truth
+  agent2   ✅ all fields match ground truth
+  agent3   ✅ all fields match ground truth
+
+=== /home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Relung_Panen/04_Phase_08_Making.md ===
+  agent1   ✅ all fields match ground truth
+  agent2   ✅ all fields match ground truth
+  agent3   ✅ all fields match ground truth
+
+=== /home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Specs/Mirny subnet/Relung_Panen.md  [range 1-4,6-8,10-13,20-30,33-37,55-92,104-116,120-121,124,135-144,146-149,151-166,171-172,177-207,222-234,254,256-278,310-313,315-321] ===
+  agent1   ✅ all fields match ground truth
+  agent2   ✅ all fields match ground truth
+  agent3   ✅ all fields match ground truth
+
+=== /home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Founding_Register.md  [range 1-20,65] ===
+  agent1   ✅ all fields match ground truth
+  agent2   ✅ all fields match ground truth
+  agent3   ✅ all fields match ground truth
+
+=== /home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Official_Population_Census.md  [range 1-41,458-464,514,654] ===
+  agent1   ✅ all fields match ground truth
+  agent2   ✅ all fields match ground truth
+  agent3   ✅ all fields match ground truth
+
+=== /home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Upper_Earth_Immigration_Composition.md  [range 1-63,132-144,587-592,643-711] ===
+  agent1   ✅ all fields match ground truth
+  agent2   ✅ all fields match ground truth
+  agent3   ✅ all fields match ground truth
+
+=== /home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Inspirational-Influences.md  [range 119-219] ===
+  agent1   ✅ all fields match ground truth
+  agent2   ✅ all fields match ground truth
+  agent3   ✅ all fields match ground truth
+
+=== /home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Universal_Location_Methodology/DEVELOPER_RULINGS_LOG.md  [range 203-254,331-338,386-421,437-447,510-525,538-554,623-633,678-690,771-797,858-872,1245-1262,1335-1345,1370-1381,1382-1392,1393-1403,1404-1415,1416-1426,1483-1493,1494-1502,1523-1531,1570-1578,1597-1605,1618-1627,1628-1637,1638-1645,1664-1672,1707-1718,1791-1799,1800-1808,1818-1826,1854-1862,1863-1871,1881-1889,1890-1898,1908-1916,1917-1925,1935-1943,1944-1952,1989-2007,2009-2017] ===
+  agent1   ✅ all fields match ground truth
+  agent2   ✅ all fields match ground truth
+  agent3   ✅ all fields match ground truth
+
+=== /home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Relung_Panen/Datasheets/Phase_9.md ===
+  agent1   ✅ all fields match ground truth
+  agent2   ✅ all fields match ground truth
+  agent3   ✅ all fields match ground truth
+
+=== VERDICT ===
+UNANIMOUS - CLEARED TO WRITE

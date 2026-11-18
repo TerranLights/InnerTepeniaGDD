@@ -1,0 +1,16 @@
+normalized sweep for rows addressed to Phase 10 (emphasis stripped; 'Phase 10', 'Phases 10', a list naming 10, or a range spanning 10)
+00.1_Step_MINUS-1_Input_Contract.md 4 [333, 363, 366, 422]
+00_Frame.md 2 [239, 320]
+01_Inherited.md 1 [128]
+02_Spine.md 1 [22]
+02.1_Spine_Amendment_G7.md 0 []
+03_Research.md 0 []
+04_Phase_02_Composition_and_Arrival.md 2 [126, 263]
+04_Phase_03_Surface_and_Texture.md 7 [19, 212, 213, 218, 238, 263, 265]
+04_Phase_04_Ordinary_Life.md 5 [22, 68, 241, 280, 298]
+04_Phase_05_Relation_and_Geometry.md 5 [115, 117, 278, 286, 308]
+04_Phase_06_Meaning.md 8 [20, 30, 68, 81, 260, 280, 310, 312]
+04_Phase_07_Order.md 8 [31, 39, 114, 139, 168, 468, 476, 493]
+04_Phase_08_Making.md 14 [18, 26, 45, 53, 65, 76, 226, 336, 338, 340, 344, 356, 357, 385]
+04_Phase_09_Populations.md 15 [19, 25, 29, 76, 95, 353, 354, 363, 371, 372, 373, 374, 375, 376, 404]
+total lines 72

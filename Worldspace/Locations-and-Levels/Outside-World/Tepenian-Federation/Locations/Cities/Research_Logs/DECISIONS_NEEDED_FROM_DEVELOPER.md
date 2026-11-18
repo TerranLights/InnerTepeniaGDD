@@ -2694,6 +2694,474 @@ its Element (the Spine clause that ruling named no longer appears in the pass; n
 **What is waiting on it / what was done provisionally:** (a), as written at P10-40.
 **Answer (developer):** (a), as recommended: write the function (the one counting the last loads), never the title "dispatcher".
 
+### DEC-545 · OPEN · 2026-11-16 · Casey ULM run, Step 5 (DQ-35; low priority)
+**The question, in plain words:** Casey's spec gives a southeasterly katabatic wind at 7-10 m/s (spec L98). Step 3's sourced site record has gales mostly from the east and a mean near 6.9 m/s (S3-18). Both are wind off the ice from the landward side; only the exact bearing and the mean differ, and no phase rests on either.
+**Options:** (a) keep spec L98 as written; (b) correct spec L98 to east to southeast with the site mean; (c) write both with their objects (a southeast katabatic as the prevailing flow, gales mostly from the east, the mean as a range with the site's figure inside it), the exact bearing left open until a research session checks the site record; (d) leave it open.
+**Recommendation:** (c), PROVISIONAL (readers A and C; B raised none).
+**What is waiting on it / what was done provisionally:** nothing in Step 5 depends on the exact bearing; written as (c) (`05_Reconciliation.md`, DQ-35).
+
+### DEC-546 · OPEN · 2026-11-16 · Casey ULM run, Step 5 (DQ-36)
+**The question, in plain words:** Flight mode saves siligel and keeps a robot aware, in slow motion; processing siligel gives heat (`DR-137` items 3 and 5). If saving siligel means processing less, flight mode may make a robot colder, so in Casey's cold it could be as dangerous outdoors as resting. Does flight mode lower a robot's own warmth, and does it count as rest?
+**Options:** (a) it lowers her warmth and counts as rest: an indoor measure in the cold; (b) it keeps her warmth, or counts as standing awake: safe when dressed; (c) leave it open until the cold-damage research, and write only that flight mode saves siligel.
+**Recommendation:** (c), PROVISIONAL (all three readers after Round 3): a city pass should not define national physiology.
+**What is waiting on it / what was done provisionally:** flight mode is written only inside heat at Casey (S5-8, conditional on (a)).
+
+### DEC-547 · OPEN · 2026-11-16 · Casey ULM run, Step 5 stage B (DQ-37)
+**The question, in plain words:** Casey's culture file names a hospitality economy and lodging that serve travelers fast (culture L83, L109, L171). The pass has a warm night owed to whoever is here, with no named debtor, and a last resort that is neither rented nor refused (P6-2; P10-13). Step 5 finds both true at different scales. How do the two relate? The held-things room and the winter store take their form from the answer. No price may be written either way (`DR-3`).
+**Options:** (a) two layers: a public lodging trade for travelers who move on, and beneath it an owed floor of heated rest for whoever is here when the trade cannot serve (the held, a blow, the last resort), no price at either layer; (b) one layer: all heated rest at Casey is owed, and the hospitality economy is work the city does, not a sold service; (c) leave it open for the CST (what the trade looks like) and the DCI (any terms), recording both readings.
+**Recommendation:** (a), as structure only, no price, PROVISIONAL (readers B and C; A in Round 3).
+**What is waiting on it / what was done provisionally:** written as (c); P6-2 stands either way.
+
+### DEC-548 · OPEN · 2026-11-16 · Casey ULM run, Step 5 stage B (DQ-38)
+**The question, in plain words:** Casey's personality read (Feeling, Assertive, Positive Outlook) rests only on a scene from a vision session (`City_Enneagram_Personalities/Mirny_Subnet/Casey.md` L7). Vision material is not an input to any ULM step (`DR-10`), so the read cannot be checked against the pass, and two of its three axes run against the character the pass established. `DR-10` says when vision material is read, not whether this read is kept.
+**Options:** (a) keep it as written, outside the ULM, and revisit after the run with the vision notes; (b) re-derive Casey's personality read from the finished pass at the character stage, with the vision notes read beside it then; (c) withdraw it now.
+**Recommendation:** (b), PROVISIONAL (reader A; B and C in Round 3).
+**What is waiting on it / what was done provisionally:** kept as (a) for now; nothing in the pass rests on it.
+
+
+### DEC-549 · OPEN · 2026-11-16 · Casey ULM run, Step 6 (DQ-39)
+*From `06_Differentiation.md` L244, copied verbatim:*
+**DQ-39 · Section 4 of the city differentiation table has a third column with no title. What should it ask?** *Low priority; the instrument's owner.* *Merges S6A-DQ-1, S6B-DQ-101, S6C-DQ-201.*
+- *In plain words:* the Phase 4 section's header has a third column with no name (table L85), and no line says what goes in it. Casey's cell there is left empty, with its reason; every later city will meet the same blank.
+- *Options:* (a) leave it untitled, and every city writes a null; (b) name it for each axis's weak legs, which every city's peer-free test already writes (C); (c) name it for a second axis from the section's own sentence, such as what ends the day beside what opens it, or whom the day's rhythm fails (A; Phase 4 writes the latter at P4-46); (d) name it for Phase 4's common conditions, its own short list (P4-47) (B); (e) remove the column.
+- **Recommended (PROVISIONAL): interim (a), the null as written (all three readers).** The readers split on the title and no lean is taken here: after Round 3, A favors an axis-shaped title, (c), noting that weak legs and common conditions are content; B leans to (b); C leans to (d), since weak legs are a test result, not an answer.
+
+### DEC-550 · OPEN · 2026-11-16 · Casey ULM run, Step 6 (DQ-40)
+*From `06_Differentiation.md` L249, copied verbatim:*
+**DQ-40 · In the Phase 2 section, is the second column the mode-mix's words again, or what organizes the mix?** *Low priority.* *From S6C-DQ-202.*
+- *In plain words:* the section defines its axis as the mode-mix in three or four words (table L58), then gives two columns, the mode-mix and an organizing axis (L60), with no instruction for the second. Casey's row puts the three words in the first and Phase 2's own sorting line (by season and by heat, not by stock) in the second.
+- *Options:* (a) as written: the mode-mix, then what sorts it; (b) the three words in both cells; (c) the second cell for the composition condition beside the axis (at Casey, plurality, P2-38's note).
+- **Recommended (PROVISIONAL): (a)**, interim (a). All three readers read the column this way independently; C withdrew the question in Round 3 for that reason, and A and B would carry it as low priority (split 19).
+
+### DEC-551 · OPEN · 2026-11-16 · Casey ULM run, Step 6 (DQ-41)
+*From `06_Differentiation.md` L254, copied verbatim:*
+**DQ-41 · Where does a city's strongest finding, with its legs and the read-last result on its named leg, go in the differentiation instrument?** *Low priority.* *From S6B-DQ-102.*
+- *In plain words:* Step 5 asks Step 6 to carry the strongest finding with its legs and the read-last result (`05_Reconciliation` L533, L880), but the table has no column for them. They are written in this file's §5 and §10 grounds and S6-8.
+- *Options:* (a) in the pass only, for the terminal check to read; (b) a new column in Section 1, the strongest finding and its weakest leg, for every city, with the runbook changed in the same commit; (c) inside the Shape cell.
+- **Recommended (PROVISIONAL): (a)**, interim (a): it keeps cells as axes (runbook L2928) and changes no instrument partway through the corpus; (c) would put content in a cell. B withdrew the question in Round 3, since the grounds discharge Step 5's rows; A and C would carry it (split 19).
+
+### DEC-552 · OPEN · 2026-11-16 · Casey ULM run, Step 7 (DQ-42)
+*From `07_QA_Gates.md` L1294, copied verbatim:*
+**DQ-42 · When a member of Casey leaves for years and comes back, is she still someone who has wintered?** *(From Gate 9; S7-6.)*
+- *In plain words:* at Casey the category that matters more than body or origin is having been held and warmed through a shut half (P9-24); you become a member by wintering (P5-27). The pass writes how that standing is gained, and never whether it can lapse or how it is regained. A young resident who goes away to train in nursing and comes back in a later open season (P4-25 →1) shows the gap.
+- *Options:* (a) once wintered, always: the standing never lapses, and a returner is a member on arrival; (b) it lapses after a full shut half away, and a returner is a newcomer until she winters again; (c) it does not lapse but fades in practice: a returner is a member on paper and is taught again by whoever was there last April (as S5-AM-8 →3 writes of newcomers); (d) leave it unwritten until the character work and the CST.
+- **Recommended (PROVISIONAL): (c).** It keeps P9-24 as written, claims no rule (no rule can be written before the DCI, `DR-137` item 11), and fits Casey's own lines, where knowledge of the shut half is held by people and taught by wintering (P7-23; S5-AM-8). *Interim:* (d); carried to Step 8's panel first; nothing in the pass rests on either side.
+- *From* A (S7A-DQ-1), with B's route-back framing (S7B-103) and C's losing half (S7C-HF-202).
+
+### DEC-553 · OPEN · 2026-11-16 · Casey ULM run, Step 7 (DQ-43)
+*From `07_QA_Gates.md` L1300, copied verbatim:*
+**DQ-43 · Does the Arcanet carry the state of the roads and the weather between places through the shut half?** *(From Gate 5; S7-E-22; `05` L884, S5-CK-57.)*
+- *In plain words:* canon gives the nation its own self-sufficient network for its whole isolated population (`Arcanet.md` L7-8, L16-17), and Casey reaches it through a hub elsewhere (P5-20 →1). The pass writes that in winter, when no traveler comes down the inland road, Casey loses that half of its forecast, and that its winter knowledge of its own roads is borrowed nightly from strangers. If the network carries road and weather reports, travelers are a second channel, not the only one.
+- *Options:* (a) yes: road and weather state reach Casey over the network all year, and travelers add what data cannot (the feel of the road, what they saw); (b) no, or only irregularly: in the shut half the road's state still arrives mostly with people; (c) leave it open as a national question, with the corrected wording of S7-E-22 until it is answered.
+- **Recommended (PROVISIONAL): (c).** It is a national fact about the network that a city pass should not decide, and the corrected wording holds under either answer. *Interim:* (c).
+- *From* C (S7C-DQ-201); A and B concur in Round 3.
+
+### DEC-554 · OPEN · 2026-11-16 · Casey ULM run, Step 7 (DQ-44)
+*From `07_QA_Gates.md` L1306, copied verbatim:*
+**DQ-44 · Does the rule to write the function, never the title, reach the harbor foreman?** *(From Gate C; low priority.)*
+- *In plain words:* `DR-137` item 12 rules on the dispatcher by name: write the function, never the title (rulings L2003). The catalog also writes a harbor foreman choosing in March whose cargo goes into the last open water (P10-40, `04_Phase_10` L339; P10-15 →3, L213; P10-42, L354). That title is not among the placeholder residents the Frame names (Frame L252), and item 11 allows where a decision falls and who is present; a title still suggests an office.
+- *Options:* (a) extend the rule: write the one choosing whose cargo goes into the last open water, never the title; (b) keep harbor foreman as a work position, never an office; (c) extend the rule to every role title the pass writes.
+- **Recommended (PROVISIONAL): (a)**, the reading that claims least and the form the pass already chose for the dispatcher (DQ-34; S5-16). *Interim:* (a) at Step 8.
+- *From* B (S7B-DQ-101); A and C concur in Round 3.
+
+### DEC-555 · OPEN · 2026-11-16 · Casey ULM run, Step 8 (DQ-45)
+*From `08_Review_Panel.md` L282, copied verbatim:*
+**DQ-45 · Can a line from Casey's own culture material, read last as a check at tier 3, be the line that grounds an `unmet`?** *(Low priority; a method question; from B's S8B-DQ-101.)*
+- *In plain words:* an `unmet` refusal needs a line showing that the place itself knowingly protects the thing, and the pass's own wording cannot be that line (runbook L2999). In this panel one refusal was first grounded on the culture file, which Step 5 read last as a check and recorded without adopting (culture L73, L75, as `05` L794, L737 record them). The merge has written that refusal `declined` (S8-O-22), so no disposition here depends on the answer.
+- *Options:* (a) yes, at its tier: a read-last line may ground an `unmet`, reported with its standing; (b) no: only admitted inputs or rulings can ground one; (c) yes, only where the read-last line agrees with a refusal the pass already makes on its own grounds, never as the refusal's only ground.
+- **Recommended (PROVISIONAL): (b)**, on the rule's own words, an admitted or ruled line (A and C in Round 3). *Interim:* (b); the `unmet` count stays 1.
+- *From* B (S8B-DQ-101, which recommended (c) in Round 1 and in Round 3 withdrew it as a question for this run, handing it on as a method note); A would carry it as a question; C finds it acceptable as one and answered by the rule (split 15). Carried as a question so that the merge does not settle a method question itself.
+
+### DEC-556 · OPEN · 2026-11-16 · Casey ULM run, Step 9 (DQ-46)
+*From `09_Record.md` L514, copied verbatim:*
+**DQ-46 · Casey's Section 7 row in the city table was inserted before Step 7 found its tier name non-canon. Correct the one cell now, or leave it with the erratum recorded?** *(Low priority. S9-2, S9-8; M-324. From S9A-DQ-1, S9B-DQ-101, S9C-DQ-201.)*
+- *In plain words:* Step 6 put Casey's ten rows into the shared table at 07:48. At 09:02 Step 7 found that Step 6's Section 7 cell calls English the crossing tier, where canon's term is the supporting tier, used at Casey as a crossing language, and asked for the fix before the row went in (`07_QA_Gates.md` L1170). The row was already in (`09.5_Log.md` L68-69). The Step 6 file is a pass file and is not edited (`DR-101`); no reader has read the row as it now stands in the table.
+- *Options:* (a) correct the one cell in Casey's own row by an asserted one-line replacement, at the commit that carries this record, with a second reader, recorded, and the Step 6 file left as written with the erratum beside it; (b) leave the row as inserted, with S7-E-12 as its reading, until the after-run correction (`DR-136` item 9); (c) for later cities, move the insertion after Step 7 (a methodology change that reverses M-298; M-324), and treat Casey under (a) or (b).
+- **Recommended (PROVISIONAL): (a), on the developer's word,** since the row is Casey's own, the change touches no other row, and the wrong word would otherwise sit where the terminal check reads (A, C; B first recommended (b) with (c) for the method, and in Round 3 accepted (a)). *Interim:* (b); S7-E-12's reading governs every use of the cell.
+
+### DEC-557 · OPEN · 2026-11-16 · Casey ULM run, Step 9 (DQ-47)
+*From `09_Record.md` L519, copied verbatim:*
+**DQ-47 · Should Casey's relations to other places go into the table's propagation row, or stay in this record only?** *(Low priority; a method question. S9-3, S9-7; M-325. From S9A-DQ-2, S9B-DQ-102, S9C-DQ-202.)*
+- *In plain words:* Step 6 asked for its six relations (the spur city, the subnet, three neighbors, two unrouted ties) to be carried into the table's propagation row, table L30 (`06_Differentiation.md` L229). The runbook's Step 9 asks that they be recorded in the record (L3017). Only Casey's ten rows were written; L30 is as it was. The relations are recorded at S9-5. No reader has read what L30 holds.
+- *Options:* (a) write them into table L30 blind, relations only, by role, at the Step 9 commit; (b) keep them in this record only, for the terminal check to collect, and change Step 6's wording; (c) leave it for the terminal differentiation check to decide for all cities at once.
+- **Recommended (PROVISIONAL): (b),** the runbook's own wording, and a write to a shared row would be a second blind insertion the inserting step did not make (A, C; B first recommended (a), and in Round 3 accepted (b)). *Interim:* (b).
+
+### DEC-558 · OPEN · 2026-11-16 · Casey ULM run, Step 10 (DQ-48)
+*From `10_Readiness_Check.md` L299, copied verbatim:*
+**DQ-48 · Item 1a's two lines: who returns their line numbers when Step 10's readers are barred from them, and are they manifested, moved or left?** *(Medium priority: the next run reads both files in full. Merges C's DQ-201 and A's DQ-3; B Snags 5.)*
+- *In plain words:* the runbook and the phase spine each carry one line with Relung Panen's old placeholder name. Both predate Casey's run. The readers could count them but not read them, so nobody has said what they are. `06` has no Relung Panen section, so its warm-run check comes back clean. The spine is meant to name no location; unless its line is only a path or a file name, it breaks that rule.
+- *Options:* (a) the orchestrator runs `grep -n`, classes each line, bands content for the run's readers, and adds a Relung Panen section to `06` (coordinates and tier); a content line in the spine moves to the worked-examples archive with a bare pointer, on your word; (b) one isolated reader, given only the two lines, classes them (the cold-run form); (c) manifest only, no move; (d) nothing, since the run is warm.
+- **Recommended (PROVISIONAL): (a) for a warm run, (b) for a cold one.** It costs one short check and closes a gap `06` cannot see. *Interim:* the orchestrator classes and bands before Relung Panen's runbook read (S10-71); no file is edited without your word.
+
+### DEC-559 · OPEN · 2026-11-16 · Casey ULM run, Step 10 (DQ-49)
+*From `10_Readiness_Check.md` L304, copied verbatim:*
+**DQ-49 · Casey's run placed one Casey line in the runbook (L469) and one in the spine (L693). Add a `06` row?** *(Low priority. C's DQ-202; A HF-1; B HF-104.)*
+- *In plain words:* the 2026-11-15 ruling on the 5b row rewrote one line in each file, and each now names Casey. `06` asks that a worked example a pass adds be listed in the same commit; these were not. Whether either is a Casey finding or only a note of where the rule came from has not been read.
+- *Options:* (a) class them; if either is content, add a row to `06`'s Casey section, coordinates and tier only; (b) no row, as provenance; (c) move any content to the archive.
+- **Recommended (PROVISIONAL): (a).** *Interim:* classed with item 1a (S10-72); nothing edited.
+
+### DEC-560 · OPEN · 2026-11-16 · Casey ULM run, Step 10 (DQ-50)
+*From `10_Readiness_Check.md` L309, copied verbatim:*
+**DQ-50 · The T5 test: which later writing counts when asking whether the early Lover-faculty verdict changed the pass?** *(Low priority; a method question. Merges A's DQ-1 and C's DQ-203.)*
+- *In plain words:* the tool's condition covers the phases between 6 and 8 (`08b` L235–237). Step 9 widened it to Phases 7–10 and Steps 5–7 (`09` L499). On Phases 6–8, nothing changed. Beyond them, Step 5 used the early line once as a question for its read-last check and adopted nothing (`05` L57, L737), and Step 8's late verdict cites that answer (`08` L208). Phases 9 and 10 were not read by anyone at this step.
+- *Options:* (a) the tool's span only: T5 holds for Casey; (b) the wider span, where a check row generated by the early line is not a change: Phases 9–10 must still be compared; (c) the wider span, where any use counts: T5 is falsified for Casey and withdrawn.
+- **Recommended (PROVISIONAL): (b)** (A; C and B moved to it in Round 3): it keeps the tool's purpose and lets a later step test the question the early line leaves open. *Interim:* T5 kept on Phases 6–8; the comparison for Phases 9–10 recorded as not done.
+
+### DEC-561 · OPEN · 2026-11-16 · Casey ULM run, Step 10 (DQ-51)
+*From `10_Readiness_Check.md` L314, copied verbatim:*
+**DQ-51 · Is runbook item 8 met when the observations file sits inside `Test_Runs/` under a named exception?** *(Low priority. A's DQ-2.)*
+- *In plain words:* item 8 asks that the shared observations file sit outside every quarantined folder (runbook L3151–3152). It sits in `Test_Runs/`, which each Pre-Trip makes zero-intake with one exception, reading its tail for the next number (Pre-Trip L457). That tail is now Casey's 32 entries.
+- *Options:* (a) met by the named exception, kept in every Pre-Trip, with the next number taken by a number-only command; (b) move the file out of `Test_Runs/` (every cited path changes); (c) reword item 8 to allow a named exception.
+- **Recommended (PROVISIONAL): (a), with (c) as a later wording fix.** *Interim:* (a), with S10-79.
+
+### DEC-562 · OPEN · 2026-11-16 · Casey ULM run, Step 10 (DQ-52)
+*From `10_Readiness_Check.md` L319, copied verbatim:*
+**DQ-52 · Should any of Casey's 32 method proposals be ruled on before Relung Panen's Step −1?** *(Low to medium priority. B's DQ-101.)*
+- *In plain words:* none of M-321 to M-352 is a rule yet, so Relung Panen's run follows the rules without them. Seven would change how its lists and briefs are built: the list tool drafting another location's files (M-321), re-reading every figure a brief states (M-329), a per-entry full-read line (M-330), giving Step 8 the files the T5 check needs (M-332), carrying rulings that land mid-run (M-339), the station-denial scan inside each phase (M-350), and a number for each single civic facility at Band 5 (M-351).
+- *Options:* (a) rule on those seven first; (b) run on the rules as they stand and rule on all 32 later; (c) rule on none now, and let the orchestrator apply, as recorded practice, those that change no rule text (hand path checks, re-reading cited figures).
+- **Recommended (PROVISIONAL): (c)**: it changes no rule without your word (runbook L3029–3031) and keeps the schedule; M-321's hand check is already practice (startup L91). *Interim:* (c).
+
+### DEC-563 · OPEN · 2026-11-16 · Casey ULM run, Step 10 item 1a (orchestrator)
+**The question, in plain words:** Casey's readiness check found four lines in the required reading that the next run (Relung Panen) reads in full: `00_RUNBOOK.md` L1646 and `03_The_Phase_Spine.md` L483 carry Relung Panen's old placeholder name; `00_RUNBOOK.md` L469 and `03_The_Phase_Spine.md` L693 name Casey (added 2026-11-15 under `DR-137` item 10). The orchestrator classified them (Casey run log CL-55): none carries a conclusion about Relung Panen, so the warm run is not blocked. But L1646 is stale (it says Relung Panen is excluded from the industry run; `DR-71` to `DR-75`, `DR-96` item 5 and `DR-97` gave it its row), L483 is a stale inventory fact (Relung Panen now has an empty concept-art folder), and the spine is a file the layering law says must name no location (L483 and L693 both do; L693's name is my own wording of 2026-11-15).
+**Options:** (a) reword the three lines in place: spine L693 drop "from Casey's run" (keep "`DR-137`, 2026-11-15"); spine L483 drop the placeholder clause; runbook L1646 mark the row superseded with the ruling numbers; and add a dated note to `06_Worked_Example_Provenance.md` at its end recording all four lines; (b) only the `06` note, no rewording; (c) leave all as they are.
+**Recommendation:** (a), PROVISIONAL; nothing is edited until you say so. Relung Panen's readers are told meanwhile that runbook L1646 is superseded.
+**What is waiting on it / what was done provisionally:** the classification is recorded; no methodology file was edited.
+
+
+## Open since 2026-11-16 (Relung Panen ULM run; every answer below is PROVISIONAL until you give yours)
+
+### DEC-564 · ANSWERED 2026-11-16 (`DR-138`) · 2026-11-16 · Relung Panen ULM run, readiness check (DQ-1)
+*From `00.0b_Readiness_Check_2026-11-16.md` L217, copied verbatim:*
+- **DQ-1 · `DEC-003` for Relung Panen** (A, B, C). May the inspiration picks, the `Infrastructure/` files and the city-relationship files ground a finding in this pass? **Recommended:** yes, as `DR-136` item 4 answered for one other run; every other folder stays deferred; dependent findings tagged; with the `DEC-003` section's cautions. *(Alternative: settle it once for every city, as `DR-131` item 13 anticipated.)*
+- **Answer (2026-11-16, `DR-138`):** Yes, **for every city**: the picks, the `Infrastructure/` files and the city-relationship files may ground findings in every city's pass; other folders stay deferred.
+
+### DEC-565 · ANSWERED 2026-11-16 (`DR-138`) · 2026-11-16 · Relung Panen ULM run, readiness check (DQ-2)
+*From `00.0b_Readiness_Check_2026-11-16.md` L218, copied verbatim:*
+- **DQ-2 · The treaty draft's standing** (A, B, C). `DR-136` item 11 let one other run's arrival findings "rest on the Falkland Treaty draft's articles at draft standing, each dependent finding tagged [treaty draft] and listed"; that is not recorded for every city, and whether the draft is ever locked is undecided (L1995). **Recommended:** the same for Relung Panen: draft standing, each dependent finding tagged [treaty draft] and listed.
+- **Answer (2026-11-16, `DR-138`):** Draft standing, each dependent finding tagged `[treaty draft]` and listed (as recommended).
+
+### DEC-566 · ANSWERED 2026-11-16 (`DR-138`) · 2026-11-16 · Relung Panen ULM run, readiness check (DQ-3)
+*From `00.0b_Readiness_Check_2026-11-16.md` L219, copied verbatim:*
+- **DQ-3 · The stale sheets** (A, B, C; C's separate "not in the November run" question folded in, as C agreed in Round 3). Lines: Pre-Trip L69, L148, L481 (search cap), L74 (clock), L275 and L281 (Phase 2 rows), L340 and L417 (cold chain; L340 also omits `DR-97`), L419 (airport siting), L584 (port), L587 (founders), L588 (power), and the method ranges in the class (b) table; input status L287, L290, L297; README L38. **Recommended:** no `--write` (it would erase the hand corrections, RC-21) and no in-run edit; Step −1's brief carries the correction list; the run uses the live sources; the sheets are corrected in one pass after the run.
+- **Answer (2026-11-16, `DR-138`):** Corrected once, after the run (as recommended).
+
+### DEC-567 · ANSWERED 2026-11-16 (`DR-138`) · 2026-11-16 · Relung Panen ULM run, readiness check (DQ-4)
+*From `00.0b_Readiness_Check_2026-11-16.md` L220, copied verbatim:*
+- **DQ-4 · The held source edits** (A, B; C agrees in Round 3), only if the `git log` shows `Airports.md`, `Ports.md`, the map notes or the spec's airport, maritime and founding wording unedited since `DR-95`/`DR-96`. **Recommended:** run on the files as they stand; Step −1 lists each conflicting line as superseded by the ruling item that governs it, tagged; the held edits wait for the developer's review; no source file is edited in-run.
+- **Orchestrator note, 2026-11-16 (run log RL-05):** the git log re-run with an explicit time shows commit `612fdc4c` (2026-11-03 10:02), *"Apply review files (DR-96): Relung Panen held edits"*, touching the spec, `Airports.md`, `Ports.md` and the input status. The held edits appear to be applied; this question is likely moot. Raw output: `Relung_Panen/.t8_00_git_log_since_1103_0000_raw.txt`.
+- **Answer (2026-11-16, `DR-138`):** Closed: settled by the run's own finding (held edits applied 2026-11-03, `612fdc4c`).
+
+### DEC-568 · ANSWERED 2026-11-16 (`DR-138`) · 2026-11-16 · Relung Panen ULM run, readiness check (DQ-5)
+*From `00.0b_Readiness_Check_2026-11-16.md` L221, copied verbatim:*
+- **DQ-5 · The power figure** (A, C; B records it as a finding), only if Step −1 finds no source line for "about 0.55 GW plus the city". **Recommended:** carry `DR-96` item 4's own words ("about 0.5 GW average" for export food; the plant sized from that share; plant and route open) and cite 0.55 only with its source line.
+- **Answer (2026-11-16, `DR-138`):** Closed: settled by the run's own finding (source line spec L260).
+
+### DEC-569 · ANSWERED 2026-11-16 (`DR-138`) · 2026-11-16 · Relung Panen ULM run, readiness check (DQ-6)
+*From `00.0b_Readiness_Check_2026-11-16.md` L222, copied verbatim:*
+- **DQ-6 · The 71 further candidates** (A; B and C as an orchestrator check first), only if no ruling tiering them is found. **Recommended:** only the 28 tiered picks are admitted picks; the 71 are research material whose admission Step −1 decides; "all 99 picks" on the Step 3 sheet is read as a copy, not a tiering.
+- **Answer (2026-11-16, `DR-138`):** Closed: settled by the run's own finding (the 71 tiered 2026-11-03, `48fb475f`).
+
+### DEC-570 · ANSWERED 2026-11-16 (`DR-138`) · 2026-11-16 · Relung Panen ULM run, readiness check (DQ-7)
+*From `00.0b_Readiness_Check_2026-11-16.md` L223, copied verbatim:*
+- **DQ-7 · Founders' wording** (C). "Indonesia led, Malaysia in support" (Pre-Trip L587) against "Indonesia and Malaysia jointly" (input status L274; startup L101). **Recommended:** the Founding Register row (L65) governs (`DR-19`); Phase 2 reads it and writes its wording only.
+- **Answer (2026-11-16, `DR-138`):** Closed: settled by the run's own finding (the Register row L65 governs).
+
+### DEC-571 · ANSWERED 2026-11-16 (`DR-138`) · 2026-11-16 · Relung Panen ULM run, readiness check (DQ-8)
+*From `00.0b_Readiness_Check_2026-11-16.md` L224, copied verbatim:*
+- **DQ-8 · `DR-125` item 3, "time that is your own"** (raised by C; B wants it filed; A accepts it as a confirmation; C withdrew it in Round 3 — split 3). Worded "so future runs read it one way" but recorded in another city's walkthrough and absent from the startup's Section 4. **Recommended:** carry it as general (standing item 7).
+- **Answer (2026-11-16, `DR-138`):** Yes, every city (as recommended).
+
+### DEC-572 · ANSWERED 2026-11-16 (`DR-138`) · 2026-11-16 · Relung Panen ULM run, readiness check (DQ-9)
+*From `00.0b_Readiness_Check_2026-11-16.md` L225, copied verbatim:*
+- **DQ-9 · `DR-131` item 6, the ice term** (raised by C; A and B in Round 3 file it as a question; C withdrew to "not carried" — split 5). "any ice term is added later as a separate footprint term in a Division of Industry sweep, never inside a city pass" is recorded under another location's item, not for every city; Relung Panen's site has ice cover (input status L259). **Recommended (A's form, the most conservative):** not carried as a rule, but no ice footprint term is written inside this pass until the developer answers.
+- **Answer (2026-11-16, `DR-138`):** Yes, every city: no ice footprint term inside any city pass.
+
+### DEC-573 · ANSWERED 2026-11-16 (`DR-138`) · 2026-11-16 · Relung Panen ULM run, Step −1 (DQ-10)
+*From `00.1_Step_MINUS-1_Input_Contract.md` L499, copied verbatim:* The same question as `DEC-564` (the readiness check's DQ-1), restated by Step −1.
+- **DQ-10 · `DEC-003` for Relung Panen** (which source folders may ground a finding). Unruled: `DR-131` item 13 (L1949) defers it, "to be settled once for every city when the first new run needs it"; `DR-136` item 4 answered it for one other run only. Options: (a) the 28 tiered inspiration picks, the `Infrastructure/` files and the city-relationship files may ground a finding; every other folder deferred; each dependent finding tagged `[DEC-003 provisional]`; (b) settle `DEC-003` once for every city now; (c) nothing beyond the spec, Register, census and rulings. **Recommended, PROVISIONAL: (a)**, with the readiness check's cautions (L194–198): the 71 candidates excluded until tiered; `Infrastructure/` lines yield to `DR-95`/`DR-96`; the city's own `Research_Logs/` files not covered. (A, B, C; = readiness DQ-1)
+- **Answer (2026-11-16, `DR-138`):** Same answer as DEC-564: yes, for every city.
+
+### DEC-574 · ANSWERED 2026-11-16 (`DR-138`) · 2026-11-16 · Relung Panen ULM run, Step −1 (DQ-11)
+*From `00.1_Step_MINUS-1_Input_Contract.md` L500, copied verbatim:*
+- **DQ-11 · The band at the threshold.** Census I 1,000,071 against "~1M" (`DR-4` L235); it crossed the line only through `DR-90`'s arithmetic. Options: (a) Band 5 on Census I, the analysis deferred as `DR-4` §4.2 requires; (b) Band 4, treating ~1M as approximate; (c) "at the 4/5 line", both named. **Recommended, PROVISIONAL: (a)** — `DR-4` makes Census I the design figure, and the deferral means little rides on it now. (A, B; C in Round 3)
+- **Answer (2026-11-16, `DR-138`):** **At the 4/5 line, both named** (differs from the recommendation).
+
+### DEC-575 · ANSWERED 2026-11-16 (`DR-138`) · 2026-11-16 · Relung Panen ULM run, Step −1 (DQ-12)
+*From `00.1_Step_MINUS-1_Input_Contract.md` L501, copied verbatim:*
+- **DQ-12 · Where in the oasis the city stands, for its climate.** Options: (a) the measured −11.2 °C and 4.6 m/s; (b) the central-oasis −9.0 °C and 6.8 m/s; (c) both, stated with their stations, siting open. **Recommended, PROVISIONAL: (c).** Request REQ-4 beside it. (A; B and C as requests)
+- **Answer (2026-11-16, `DR-138`):** Both records, each with its station; siting open (as recommended).
+
+### DEC-576 · ANSWERED 2026-11-16 (`DR-138`) · 2026-11-16 · Relung Panen ULM run, Step −1 (DQ-13)
+*From `00.1_Step_MINUS-1_Input_Contract.md` L502, copied verbatim:*
+- **DQ-13 · Which composition governs.** Options: (a) the live per-nation table (L57–90; `DR-85`, `DR-93`, `DR-94`), the disagreement recorded, no finding resting on the window method; (b) the developer confirms proximity-first for this city as a standing exception to `DR-19`; (c) recompute under `DR-19`, or review the rows outside the window. **Recommended, PROVISIONAL: (a)**: it changes nothing in-run, and a census recompute waits for the post-ULM census review (`DR-68` L1341). (A, C; B as RF)
+- **Answer (2026-11-16, `DR-138`):** The live per-nation table governs (as recommended).
+
+### DEC-577 · ANSWERED 2026-11-16 (`DR-138`) · 2026-11-16 · Relung Panen ULM run, Step −1 (DQ-14)
+*From `00.1_Step_MINUS-1_Input_Contract.md` L503, copied verbatim:*
+- **DQ-14 · The founding "why".** `DR-61` L1253 hands it to the pass; `DR-16` (histories after the ULM) and `DR-136` item 6 (the pass captures the height) pull the other way. Options: (a) the pass derives the why as attribute-level reasoning from admitted lines — what the site offered and what the nation needed — `Proposed:`, undated, with no first-wave story; (b) the why waits for the history stage; (c) a dated founding motive. **Recommended, PROVISIONAL: (a)**, because `DR-61` is the later, city-specific ruling; and the why may not rest on national food necessity (SM1-18). (B, C; A's PRODUCED reading is the recommended answer)
+- **Answer (2026-11-16, `DR-138`):** **Waits for the history stage; not derived in the pass** (differs from the recommendation).
+
+### DEC-578 · ANSWERED 2026-11-16 (`DR-138`) · 2026-11-16 · Relung Panen ULM run, Step −1 (DQ-15)
+*From `00.1_Step_MINUS-1_Input_Contract.md` L504, copied verbatim:*
+- **DQ-15 · Mixed spec lines** (a needed fact and a comparison or stale clause on one line: L124, L144, L146, L158, L204–205, L234, L256, L277–278, L311). Options: (a) DEMOTED, the named clause struck, the struck-clause list carried with the read-spec; (b) excluded whole, the facts requested from their sources (not covered by the provisional `DEC-003` answer). **Recommended, PROVISIONAL: (a)** — (b) loses facts no other admitted line holds, such as the central-oasis wind record and the spur's only length. [Split: B filed this as a question; in Round 3, B offered it as the merge's convention, A kept it a question with this recommendation, and C listed it as B's find to write. The narrower reading, a question answered provisionally, is written.] (B; A, C)
+- **Answer (2026-11-16, `DR-138`):** Keep the fact, strike the clause (as recommended).
+
+### DEC-579 · ANSWERED 2026-11-16 (`DR-138`) · 2026-11-16 · Relung Panen ULM run, Step −1 (DQ-16)
+*From `00.1_Step_MINUS-1_Input_Contract.md` L505, copied verbatim:*
+- **DQ-16 · How the read-spec folds structural lines.** Options: (a) A's rule: ADMITTED and DEMOTED in; a blank, rule or heading line in only between two admitted content lines; inert content always out; (b) every non-excluded line in; (c) structural lines folded within spans, isolated inert lines out. **Recommended, PROVISIONAL: (a)**, which keeps the stub-file pointers and TBD lines out of later reading lists; the read-spec above uses it. [A marked the method a developer question; B and C adopted A's rule in Round 3.] (A; B, C)
+- **Answer (2026-11-16, `DR-138`):** The folding rule as used (as recommended).
+
+### Note · 2026-11-16 · Step −1's updates to DEC-564 to DEC-572
+*From `00.1_Step_MINUS-1_Input_Contract.md` L507, copied verbatim (the readiness check's DQ-1 to DQ-9 are DEC-564 to DEC-572):*
+**The readiness check's DQ-1 to DQ-9 (its L217–225), carried, with this step's updates:** DQ-1 is DQ-10. DQ-4: the spec part is already applied (SM1-8); only `Airports.md` and `Ports.md` remain (REQ-5). **DQ-5: its condition does not fire** — the 0.55 GW figure's source line is spec L260 (SM1-7). DQ-6: new evidence in the git log (SM1-10; REQ-6). **DQ-7: answered by the Register row itself** (SM1-16). DQ-2, DQ-3, DQ-8 and DQ-9 stand as filed. (A; B and C concur on DQ-5 and DQ-7)
+
+### DEC-580 · ANSWERED 2026-11-16 (`DR-138`) · 2026-11-16 · Relung Panen ULM run, Step 0 (DQ-17)
+*From `00_Frame.md` L414–L418, copied verbatim:*
+- **DQ-17 · The extent band.** 01 asks for an extent band (L167–170, L563) but defines bands by population only, and no extent scale is on the list.
+  - **Options:** (a) state the extent as figures and declare no band number until a scale exists; (b) band the extent by the population its own comfortable capacity holds (3,375,000, spec L120, which falls in Band 5), labeled a reading, with the area beside it; (c) the developer sets a km² scale now.
+  - **Recommended, PROVISIONAL: (a), with (b)'s Band 5 recorded beside it as a labeled reading only.** (b) borrows a population scale for an area, and its capacity rests on a 7,500/km² basis not on the list (contract SM1-25). (c) is a method change for every pass.
+
+  *Split named: A recommended (a); B and C recommended (b). In Round 3, B and C each named A's form as the narrower one for the merge, and A accepted Band 5 as a labeled reading.* *(A, B, C)*
+- **Answer (2026-11-16, `DR-138`):** Figures only, Band 5 as a labeled reading (as recommended).
+
+### DEC-581 · ANSWERED 2026-11-16 (`DR-138`) · 2026-11-16 · Relung Panen ULM run, Step 0 (DQ-18)
+*From `00_Frame.md` L419–L424, copied verbatim:*
+- **DQ-18 · The 01 §5.4 per-category declarations at Band 5.** `DR-4` defers the decomposition and the distribution (L234–237), but 01 §5.4 (L541–550) separately requires a Band 4+ pass to label each category.
+  - **Options:** (a) no per-category labels: each later phase marks a city-wide statement whose internal variation would matter as deferred by `DR-4` §4.2, and never writes Uniform; (b) full §5.4 labels in every phase, with Patterned only where an admitted line shows the variation; (c) treat §5.4 as suspended with §2.2 and say nothing.
+  - **Recommended, PROVISIONAL: (a).** It keeps L550's warning without inventing the internal structure `DR-4` L239–242 says cannot be written before the place is known.
+  - **The label wording:** A's wording, "deferred by `DR-4` §4.2" (`.t8_00_Step_0_readerA.md` L347), is written. C's "Delegated — deferred by `DR-4` §4.2" (`.t8_00_Step_0_readerC.md` L347) asserts one of §5.4's three categories, so it claims more.
+
+  *(A, C; B adopts the question in Round 3)*
+- **Answer (2026-11-16, `DR-138`):** Written as deferred (as recommended).
+
+### DEC-582 · ANSWERED 2026-11-16 (`DR-138`) · 2026-11-16 · Relung Panen ULM run, Step 0 (DQ-19)
+*From `00_Frame.md` L425–L429, copied verbatim:*
+- **DQ-19 · The supporting-tier languages.**
+  - **Options:** (a) carry the Step 0 datasheet's row (English, Mandarin, Indonesian, Japanese, Korean, Russian, Thai), as `DR-100` item 3 directs, with every language finding tagged to `RF-14`; (b) carry it with Thai held as "at the line, membership provisional" (`.t8_00_Step_0_readerC.md` L350) until the mapping is checked; (c) recount with Malaysia in the Indonesian group, which would add Vietnamese; (d) treat the 12-point rule as inclusive or exclusive for a gap of exactly 12.0; (e) hold the tier open until the mapping is verified (`REQ-21`).
+  - **Recommended, PROVISIONAL: (a) with (b)'s flag.** The set stands as the datasheet's, and Thai's membership and Malaysia's group are flagged. Thai's gap is 12.0 on the one-decimal figures and 11.985 only on a reconstructed mapping, so the inclusive question (d) is not settled by arithmetic on the list.
+
+  *Split named: A recommended (a) and held Thai inside on its reconstruction; B recommended (d) inclusive; C recommended (b). In Round 3, B accepted A's arithmetic, and C noted that A's upper bound is a reconstruction.* *(A, B, C)*
+- **Answer (2026-11-16, `DR-138`):** **Hold the supporting tier open until the mapping is verified** (differs from the recommendation).
+
+### DEC-583 · ANSWERED 2026-11-16 (`DR-138`) · 2026-11-16 · Relung Panen ULM run, Step 0 (DQ-20)
+*From `00_Frame.md` L430–L434, copied verbatim:*
+- **DQ-20 · The height and the Acts.** Census I is labeled "Pre-Orbital Era" (spec L20), and the I→II boundary sits at the Act consolidation (~2688; runbook L2294), while `DR-4` gives Census I a design rationale only (L216).
+  - **Options:** (a) the height is undated and no Act is chosen; the people are written as Tepenian, with origin as ancestry, in a frame that is mostly Act 2; founders, stock and people are named separately (runbook L2313–2316); and Act-sensitive findings are tagged `[Act unstated]`; (b) date the height to the Census I era, before ~2688, and write it nearer Act 1; (c) write the city across both Acts, side by side.
+  - **Recommended, PROVISIONAL: (a).** (b) reads a design figure as a date, and (c) is the in-pass Act comparison `DR-136` item 6 rules out.
+
+  *(A, DQ-4; C, DQ-202 and the tag; B, RF-111, preferring A's form in Round 3)*
+- **Answer (2026-11-16, `DR-138`):** **The height in the Census I era, nearer Act 1** (differs from the recommendation).
+
+### DEC-584 · ANSWERED 2026-11-16 (`DR-138`) · 2026-11-16 · Relung Panen ULM run, Step 0 (DQ-21)
+*From `00_Frame.md` L435–L439, copied verbatim:*
+- **DQ-21 · Does `DR-125` item 4 bind every city?** Item 4 attaches the exile measure to no tier figure, but it is on the contract's not-carried list (L452).
+  - **Options:** (a) yes, every city; (b) only the city it was recorded for.
+  - **Recommended, PROVISIONAL: (a).** Item 3, which is carried, already excludes reading the free tier as time that is your own, and the canon line (robot physiology L369) is national.
+
+  *(B; A and C name it a developer question in Round 3)*
+- **Answer (2026-11-16, `DR-138`):** Yes, every city (as recommended, after a fuller explanation).
+
+### DEC-585 · ANSWERED 2026-11-16 (`DR-138`) · 2026-11-16 · Relung Panen ULM run, Step 1 (DQ-22)
+*From `01_Inherited.md` L238, copied verbatim:*
+- **DQ-22 · The outdoor belt sited at Bunger Hills** (`18` L30; `DR-96` item 4; S1-34, RF-27). An admitted spec line (L258, indoor growing) and a corroboration-standing line on `DEC-003`'s provisional answer disagree about 88.9% of the rock. Options: (a) carry the belt as reserved and write growing as indoor (spec L258 governs) until `12` and `13` are read and the developer confirms the siting; (b) admit the belt as this city's outdoor growing now, at `DEC-003` provisional standing; (c) hold the belt out of every finding, and rest no finding on either reading of the ground, until `12` and `13` are read at the siting lines (REQ-33); (d) the developer rules where canon's belt lies, or that `18` L30 is a slip. **Recommended, PROVISIONAL: (c), with (d) asked.** Spec L258's words are carried as the admitted line's own, but no finding, figure or spine rests on footprint in surplus or on the belt until the siting is answered. (b) would let a derived siting table set most of the ground. *(Split: see Splits, item 1.)*
+- **Answer (2026-11-16, `DR-138`):** Held out of every finding; the developer is not sure yet where the belt lies: read the terraforming and food files at their siting lines first, then bring it back.
+
+### DEC-586 · ANSWERED 2026-11-16 (`DR-138`) · 2026-11-16 · Relung Panen ULM run, Step 1 (DQ-23)
+*From `01_Inherited.md` L239, copied verbatim:*
+- **DQ-23 · The gulf airports in the melt season** (AS-5; RF-34). Options: (a) record the threshold and the city's own monthly figures side by side, write no closure and no season, tag every summer air finding, and request the data (REQ-32); (b) the developer rules the airports' operating months; (c) the pass derives a closure window from the spec's monthly air means and the real-world threshold, marked `Proposed:`; (d) the developer rules year-round operation as canon-scale fiction, as `DR-96` item 3 does for the haul. **Recommended, PROVISIONAL: (a), with (b) asked.** Air means are not ice-surface temperatures, and the threshold sits in a real-world-basis line of a provisional file; (c) would build a finding on two proxies and make a labeled comparable do a ruling's work. `Airports.md` L21 names melt as a limit, so the season is a research question before it is a ruling.
+- **Answer (2026-11-16, `DR-138`):** Research first (as recommended).
+
+### DEC-587 · ANSWERED 2026-11-16 (`DR-138`) · 2026-11-16 · Relung Panen ULM run, Step 1 (DQ-24)
+*From `01_Inherited.md` L240, copied verbatim:*
+- **DQ-24 · What the exactly-one-door reasoning counts** (`DR-81` L1488; AS-2, AS-3; RF-30). Options: (a) the composition door only, in the ruling's own words: international arrivals overland through Casey, with domestic air passengers a separate path and departures unwritten; (b) every person's way in and out, so the passenger airport carries no arrivals; (c) leave it open. **Recommended, PROVISIONAL: (a)**, because `DR-81` L1488 states the door as composition reasoning, and `Airports.md` L21 links the passenger airport to the national network. The winter arrival's onward route stays a request (REQ-38).
+- **Answer (2026-11-16, `DR-138`):** **Left open** (differs from the recommendation).
+
+### DEC-588 · ANSWERED 2026-11-16 (`DR-138`) · 2026-11-16 · Relung Panen ULM run, Step 1 (DQ-25)
+*From `01_Inherited.md` L241, copied verbatim:*
+- **DQ-25 · Robot ancestry in a city with no majority row** (S1-48; AS-20; RF-32). The general principle (`DR-136` item 10; `DR-137` item 7) is carried; the sentence that handled a no-majority city was recorded for another city and is not carried (contract L435). This city's largest row is 12.86% (spec L59). Options: (a) apply that sentence's form here as this city's own rule (a robot built here records the city's distribution); (b) keep frame PA-11 (the principle and the individual form only) until the national rule is recorded (rulings L1995); (c) answer per community, which needs the sub-locations `DR-4` defers. **Recommended, PROVISIONAL: (b)**: (a) carries another city's answer, and (c) writes structure the deferral forbids.
+- **Answer (2026-11-16, `DR-138`):** The principle and its individual form only (as recommended).
+
+### DEC-589 · ANSWERED 2026-11-16 (`DR-138`) · 2026-11-16 · Relung Panen ULM run, Step 2 (DQ-26)
+*From `02_Spine.md` L352, copied verbatim:*
+- **DQ-26 · G7's standing now that the picks are on the list** (B's DQ-103, C's DQ-202; A agrees). Options: (a) G7 available on `DEC-003`'s provisional answer, used to aim Step 3's research at the deficits, not profiled and not counted in the shape; (b) G7 a counted generator now, at `DEC-003` provisional standing; (c) G7 stays THIN until `DEC-003` is ruled for this city. **Recommended, PROVISIONAL: (a)**: the picks are selection-dependent on the spec's own themes and postdate the climate file (S2-2), and the runbook puts research after the deficit is known (L2566–2567).
+- **Answer (2026-11-16, `DR-138`):** **The picks are a full generator for every city** (developer's own words in `DR-138`); Step 2's picks part is re-run as an amendment piece before Step 3.
+
+### DEC-590 · ANSWERED 2026-11-16 (`DR-138`) · 2026-11-16 · Relung Panen ULM run, Step 2 (DQ-27)
+*From `02_Spine.md` L353, copied verbatim:*
+- **DQ-27 · Which inputs the narrower reading withholds** (B's DQ-101; `02` §4.0 needs two input sets and the brief named none). Options: (a) attribute canon only: withhold every built or ruled particular and institution, and every `[DEC-003 provisional]` and Division of Industry line (set 1); (b) withhold everything at corroboration standing: DEMOTED and ESTIMATED lines, `[DEC-003 provisional]` files, Division of Industry files (set 2); (c) withhold the `[DEC-003 provisional]` and Division of Industry files only (set 3). **Recommended, PROVISIONAL: (a)**, because it is the split `02` §4.0 itself demonstrates (L436–443) and the one in which STANDING COST moves as `02` predicts (B and C, Round 3). Split named: A, its author, recommended in Round 3 that the merge carry the provenance split (b) or (c) as Reading 1 and record (a) as a named further set. Under (b) or (c) the narrower shape is Balanced, the same as the full set's, and phosphorus flips quadrant on (b).
+- **Answer (2026-11-16, `DR-138`):** The bare place against the place with its institutions, for every shape reading (as recommended, after a fuller explanation).
+
+### DEC-591 · ANSWERED 2026-11-16 (`DR-138`) · 2026-11-16 · Relung Panen ULM run, Step 2 (DQ-28)
+*From `02_Spine.md` L354, copied verbatim:*
+- **DQ-28 · Does a robot's recharging draw on the city's electric supply?** (A; B and C adopt.) Rulings L2004 list coolant and electric charge as separate inputs, not separately ruled; the frame records that robots recharge overnight (frame L108). Options: (a) leave it unruled and tag every power-lapse finding robot draw not ruled; (b) rule that robots recharge from the city's electric supply, so power is a standing cost of the robot half as well as of the function; (c) rule that siligel alone powers a robot. **Recommended, PROVISIONAL: (a)**: a national robot-physiology ruling should not be made from one city's pass; (b) would make the city's power the single point of failure for half the population (S2-8's conditional clause).
+- **Answer (2026-11-16, `DR-138`):** **Yes, nationally: a robot's charge draws on the electric supply (developer's assumption, conservation of energy), PROVISIONAL pending research.**
+
+### DEC-592 · ANSWERED 2026-11-16 (`DR-138`) · 2026-11-16 · Relung Panen ULM run, Step 2 (DQ-29)
+*From `02_Spine.md` L355, copied verbatim:*
+- **DQ-29 · Does the Tower-regulated continental grid reach this city at its height?** (A's DQ-2, C's DQ-201; B's RF-101; S2-24, RF-40.) Options: (a) keep `DR-96` item 4's open route, carry the energy file as national context only, write power as a sized requirement whose route is open, and rest nothing on grid connection, tagged `[Act unstated]`; (b) rule a line along the Casey spur into the continental grid while the Tower stands; (c) rule a local plant, off the continental grid. **Recommended, PROVISIONAL: (a)**: `DR-96` left the route open on purpose, the energy file is written about another location in the later era, and the height has no Act; (b) and (c) each set the spine's failure mode and are the developer's.
+- **Answer (2026-11-16, `DR-138`):** **Yes, the continental grid reaches the city at its height; the mechanisms need research.** Its fit with the Census I era placement is left to that research.
+
+### DEC-593 · ANSWERED 2026-11-16 (`DR-138`) · 2026-11-16 · Relung Panen ULM run, Step 2 (DQ-30)
+*From `02_Spine.md` L356, copied verbatim:*
+- **DQ-30 · Animals at the height** (A's DQ-3; C's REQ-203 and RT-210; C in R3 calls option (b) a real choice). The founding brought livestock (`DR-61` L1251); nothing says whether animals are kept at the height. Options: (a) record the silence and research it at Step 3 (RT-13) before anything is written; (b) the developer states whether animals are kept; (c) treat the livestock as part of the founding inventory only, with none at the height. **Recommended, PROVISIONAL: (a)**: (c) would write an absence the list does not state.
+- **Answer (2026-11-16, `DR-138`):** Researched at Step 3 (as recommended).
+
+### DEC-594 · ANSWERED · 2026-11-17 · Relung Panen ULM run, Step 2 amendment (the picks as a generator) (DQ-31)
+> **`DR-141`, 2026-11-17:** (a).
+*From `02.1_Spine_Amendment_G7.md` L354, copied verbatim:*
+- **DQ-31 · How G7 entries that share a root count in the shape.** Options: (a) count every G7 entry, and give distinct facts beside the entries in every quadrant (written here); (b) entries only, so a selection-dependent generator raises the counts; (c) distinct facts only, so a shared-root entry adds nothing; (d) leave G7 out of the shape counts until Step 3 has run. **Recommended, PROVISIONAL: (a):** `DR-138` item 2 makes G7 a full generator; showing both counts keeps a shared root from passing as weight (S2-2's surviving half); the shape is the same under (a), (b), (c) or (d). *(A DQ-1; B DQ-102; C holds the same form.)*
+
+### DEC-595 · ANSWERED · 2026-11-17 · Relung Panen ULM run, Step 2 amendment (the picks as a generator) (DQ-32)
+> **`DR-141`, 2026-11-17:** (a).
+*From `02.1_Spine_Amendment_G7.md` L355, copied verbatim:*
+- **DQ-32 · G8-S2 while the supporting tier is held** (`DEC-582`). Options: (a) hold the entry out of both counts until the mapping is verified (written here); (b) keep it as Hawaiian dominant only; (c) keep it at DRAFT standing as before. **Recommended, PROVISIONAL: (a):** Hawaiian's dominance is national and the same everywhere (`DR-100` item 1), so without the tier the entry states no property of this place; (c) would rest a counted entry on the held tier. *(A DQ-2; B and C hold it out.)*
+
+### DEC-596 · ANSWERED · 2026-11-17 · Relung Panen ULM run, Step 2 amendment (the picks as a generator) (DQ-33)
+> **`DR-141`, 2026-11-17:** (a): held until the national table gives the re-sized belt here (`DR-140`).
+*From `02.1_Spine_Amendment_G7.md` L356, copied verbatim:*
+- **DQ-33 · Does footprint in surplus stay held now that `DR-138` holds the outdoor belt?** Step 1's hold (L191) covered either reading of the ground. Options: (a) footprint in surplus stays held until the belt's siting returns, so no finding rests on the room (written here); (b) release it: spec L259 stands as admitted, and only the belt is held; (c) the developer rules the belt's siting now. **Recommended, PROVISIONAL: (a):** the belt's area of about 400 km² sits against an extent of about 450 km² (`18` L30 `[DoI corroboration]`; spec L30), so the surplus cannot be stated while the belt's place is open. *(B DQ-101; C confirmed the reading in Round 3.)*
+
+### DEC-597 · ANSWERED · 2026-11-17 · Relung Panen ULM run, Step 2 amendment (the picks as a generator) (DQ-34)
+> **`DR-141`, 2026-11-17:** (a).
+*From `02.1_Spine_Amendment_G7.md` L357, copied verbatim:*
+- **DQ-34 · The evidence files' physical-site lines in the narrower reading.** `DR-138` item 6 defines the narrower reading by kind; the spine's set 1 also withheld every `[DEC-003 provisional]` file wholesale. Now that those files are evidence (item 1), their physical-site sentences (the gulf ice's measured thickness, `Airports.md` L21; the sea-ice seasons, `Ports.md` L298) are neither built particulars nor institutions. Options: (a) admit physical-site facts from the evidence files in the bare reading, while every sentence about a built door stays out (written here); (b) keep the spine's wholesale exclusion. **Recommended, PROVISIONAL: (a):** it is the ruling's wording; on this amendment's counts it changes nothing (G2-C4, G5-S4's air door clause and G5-C4 each have a built door as their object), but it governs later steps. *(C DQ-201.)*
+
+### DEC-598 · ANSWERED · 2026-11-17 · Relung Panen ULM run, Step 3 (research) (DQ-35)
+> **`DR-140`, 2026-11-17:** (c) with (a) as the working record; the annual open schedule set by what makes the most in-world sense given the actual climate (research).
+*From `03_Research.md` L710, copied verbatim:*
+- **DQ-35 · The gulf airports' operating months** (X-4; `DEC-586`; carries Step 1 DQ-23, REQ-32). Research (S3-18 to S3-21): comparable ice runways pause in their warm core and reopen when the ice is back below about −5 °C; this site's air means are November −5.7, December −0.0, January +0.6, February −2.1, March −9.4 °C; the gulf's ice is perennial and about 3 m, used in December and measured in January; dirty ice melts first and the gulf has cryoconite. Options: **(a)** record December to February as the risk window (core about mid-December to late January; late November and early March shoulders) and write no closure, tagging summer air findings meanwhile; **(b)** rule a summer pause in the warmest weeks, perishables then by road; **(c)** wait for the gulf's own record (REQ-69) before ruling; **(d)** rule a pattern rather than dates: the door opens and shuts on the surface each year, kept by clearing and a reflective cap; **(e)** rule year-round operation, by a chipped-ice cap or as canon-scale fiction (as `DR-96` item 3 does for the haul). **Recommended, PROVISIONAL: (c), with (a) as the working record meanwhile, and (d) asked as a second question.** All three readers converged on this in Round 3 (B withdrew its lean toward (b); C widened its months to A's and B's): the site's own surface record is missing and the closest comparable sits 700 m higher on glacier ice.
+
+### DEC-599 · ANSWERED IN PART · 2026-11-17 · Relung Panen ULM run, Step 3 (research) (DQ-36)
+> **`DR-140`, 2026-11-17:** (a) then (b) agreed; the national counting rule itself still to be ruled.
+*From `03_Research.md` L711, copied verbatim:*
+- **DQ-36 · The supporting tier on the verified mapping** (X-3; `DEC-582`; `DR-100` item 3; carries frame DQ-19, REQ-21, amendment DQ-32). The mapping is agreed (S3-55); the tier turns on whether a co-official or widely spoken language counts (S3-56). Options: **(a)** a national rule first: whether a nation's co-official or widely spoken (not national) language counts toward a group; **(b)** Malaysia in one Malay–Indonesian group, the Philippines' English as English's upper bound (mid-points): eight groups, English, Malay–Indonesian, Mandarin, Japanese, Korean, Russian, Thai, Vietnamese (line 4.14–4.25); **(c)** the Philippines fully in English: line 5.64, Vietnamese out; **(d)** the datasheet's set as it stands (English with Malaysia, mid 17.695; line 5.695): Vietnamese out, Thai in only with Patani, recorded as resting on a mapping the sources do not support for Malaysia (English is not Malaysia's official language); **(e)** count each row once under its official language only, a co-official pair split evenly (English 16.14; the same eight as (b)). **Recommended, PROVISIONAL: (a) first, then (b).** All three readers converged on this in Round 3 (A moved to B's (a)-first; C withdrew its (c)-type recommendation). Thai is in under (b) and (e) regardless of Patani. The tier is the developer's.
+
+### DEC-600 · ANSWERED · 2026-11-17 · Relung Panen ULM run, Step 3 (research) (DQ-37)
+> **`DR-140`, 2026-11-17:** (a): the measured figures.
+*From `03_Research.md` L712, copied verbatim:*
+- **DQ-37 · Algae Lake's figures** (S3-C1, S3-C2). Options: **(a)** drop the superlative (*the oasis's largest freshwater lake*), carry about 17 km (17–18 km), 14.3 km², the 137 m depth as unverified, and the 25 km as the drainage system's total; **(b)** keep the spec's figures as canon-scale fiction for the lake; **(c)** wait for the primary paper (REQ-73). **Recommended, PROVISIONAL: (a).** All three readers' corrections match it.
+
+### DEC-601 · ANSWERED · 2026-11-17 · Relung Panen ULM run, Step 3 (research) (DQ-38)
+> **`DR-140`, 2026-11-17:** (a) with (c).
+*From `03_Research.md` L713, copied verbatim:*
+- **DQ-38 · The grid and the height** (X-1; `DR-138` item 9; RF-83). Options: **(a)** a continental grid existed before the Tower, steadied by its own plants, and the Tower's regulation arrives later in the era; the city is on the grid at its height, unregulated by the Tower if the height precedes ~2688; **(b)** the grid that reaches the city is the Tower-regulated grid, so the height falls late in the Census I era, at or after ~2688 (revisiting the placement "nearer Act 1", rulings L2014); **(c)** the city's supply is one long line plus standby local generation at its end, era aside; **(d)** the line is built after ~2688 and the city runs on a local plant at its height (conflicts with `DR-138` item 9 unless the height is re-placed); **(e)** leave the fit open. **Recommended, PROVISIONAL: (a) with (c).** All three converged in Round 3: canon's lines tie the Tower to the grid's regulation, not its existence (energy file L107–108; L42 dates nothing), real long lines are kept at their end by standby, and it changes neither ruling; it gives the city's supply a characteristic, a long line on a grid without its later regulator.
+
+### DEC-602 · ANSWERED · 2026-11-17 · Relung Panen ULM run, Step 3 (research) (DQ-39)
+> **`DR-140`, 2026-11-17:** (b) with (d); wild birds at the margins.
+*From `03_Research.md` L714, copied verbatim:*
+- **DQ-39 · Animals at the height** (X-5; `DEC-593`; carries spine DQ-30). Options, each with its cost on this place's lines: **(a)** none at the height; the founding livestock was a founding inventory only; **(b)** small, warmed, wholly housed animals (poultry, pigs, small ruminants in small numbers) fed from the growing rooms' residues and food waste, their manure to made ground or the nutrient solution, as canon's residue-stream rule allows (`12` L29–31); **(c)** housed ruminants or a prestige dairy on residue and imported fodder, small and costly (pays the haul; no pasture, spec L109); **(d)** insects and land-based fish beside the racks, heated, lit, on the same supply; **(e)** livestock only on the outdoor belt in summer, if the belt is sited here (DQ-40); **(f)** leave open. **Recommended, PROVISIONAL: (b), with (d) as companions.** All three converged in Round 3: every real fully housed high-latitude case shrinks to the smallest-footprint animals; it ties to made ground and the residue rule with the least import; (a) would write an absence the list does not state; (c) carries the cost the real cases dropped. In every option the oasis's wild birds are present at its margins (S3-26).
+
+### DEC-603 · ANSWERED · 2026-11-17 · Relung Panen ULM run, Step 3 (research) (DQ-40)
+> **`DR-140`, 2026-11-17:** (b) with (c); who works it (iii), open, (i) an option.
+*From `03_Research.md` L715, copied verbatim:*
+- **DQ-40 · Where the outdoor belt lies at this oasis, and who works it** (X-6; `DEC-585`; `12` L259, L303; carries Step 1 DQ-22, REQ-33, spine REQ-46, amendment DQ-33). On canon's figures the belt's ~400 km² is 88.9% of the spec's 450 km² of land and 101.3% of the 395 km² research figure, on ground that also holds the lakes, the dry valleys and a city of 1,000,071. Options: **(a)** the ~400 km² lies on this oasis's rock as written, sharing it with the city (spec L258–259's footprint in surplus would be withdrawn); **(b)** this oasis's allocation is re-sized to what its rock can carry beside the city and its lakes, the remainder redistributed among the regions (a national table edit after the run; `12` L303 already leaves hosting open); **(c)** the remainder is made ground on the ice-free margins or over ice, served from the oasis (`DR-61` L1254: ice is not restricting; canon's terraformed belt is already made ground; no real precedent for made ground over moving ice was found); **(d)** `18` L30's restatement or `12` L259 is a slip, the section undecided until the regions are mapped; **(e)** keep holding. **Who works it:** (i) this city hosts and works the sections at the oasis, the other two served cities taking shares as relations; (ii) each served city works its own sections; (iii) open until the subnet's regional framework (`DR-136` item 3). At canon's national rate about 400 km² would take about 8,000 outdoor workers, seasonal. **Recommended, PROVISIONAL: (b) with (c); who works it stays (iii), open, with (i) an option.** All three moved to (b) with (c) in Round 3: it keeps the belt's distribution (the reason it is safe, `12` L261–265), keeps spec L258's indoor growing and spare ground true, and removes a plausibility exposure (400 km² against 395 km² of ice-free land). **Split on who works it:** A in Round 3 adopted C's (i); C withdrew (i) as a recommendation and kept it as an option; B called (i) a reasonable working answer while noting `12` L303 leaves it open; the narrower reading, which leaves it open, is written. **No finding rests on the belt until this is answered** (Step 1 L191).
+
+### DEC-604 · ANSWERED · 2026-11-17 · Relung Panen ULM run, Step 3 (research) (DQ-41)
+> **`DR-140`, 2026-11-17:** (a), no rate or temperature written.
+*From `03_Research.md` L716, copied verbatim:*
+- **DQ-41 · A robot's charge on the electric supply** (X-2; `DR-138` item 8). Research found nothing against the conservation-of-energy assumption; every real case draws both the charge and the cold-warming from the plug (S3-53). Options: **(a)** confirm nationally that a robot's charge is electric charge from the supply, and that warming a cold cell to charge it also draws on the supply, with no rate or temperature written; **(b)** confirm the charge only, leaving warming to siligel heat (`DR-137` item 5) unruled (OT-25); **(c)** keep it PROVISIONAL until the coolant/charge relation is ruled (L2004); **(d)** confirm it and add warm charging space as a load in every cold city (a national decision). **Recommended, PROVISIONAL: (a).** All three converged in Round 3 (A moved from confirming the charge only; B, who filed no question, supports (a)); the robot cold file's own three options (L33–37) already price warming as spent energy. (d) is the next decision, and a national one.
+
+### DEC-605 · ANSWERED · 2026-11-17 · Relung Panen ULM run, Step 3 (orchestrator's question)
+> **`DR-141`, 2026-11-17:** (a) with (c): a three-researcher supplement on this city's own open threads before Step 5.
+- **Research depth now, or targeted follow-ups later?** Step 3's three researchers used 396 of the session's 1,000 web calls (150, 98 and 148 of 250 each) and stopped under their caps by their own choice, to keep room to write; 32 open threads are logged (`03_Research.md` OT-1 to OT-32; six targets named thin). The same session must carry the city to Step 10 across the 11-18 to 11-21 windows, and later phases may not write an inference on the unstated half of a source until research has been asked (runbook L2651–2653). Options: **(a)** keep the remaining calls for targeted questions the phases raise, each logged in the city's research log (the run proceeds this way, run log RL-22); **(b)** run a three-researcher supplement on the open threads now (about 80 calls each), before Phase 2; **(c)** a supplement after Phase 10, on whatever the phases leave open. **Recommended, PROVISIONAL: (a)**, with (c) if calls remain after Phase 10.
+
+### DEC-606 · ANSWERED · 2026-11-17 · Relung Panen ULM run, Phase 2 (composition and arrival) (DQ-42)
+> **`DR-140`, 2026-11-17:** (a): left open.
+*From `04_Phase_02_Composition_and_Arrival.md` L325, copied verbatim:*
+- **DQ-42 · Did robots keep arriving from Upper Earth after the signing?** `[treaty draft]` The draft makes "every robot who may hereafter come into being within such territory" depart for Tepenia (draft L46, II.2.1); `DR-127` records the channel as open in law with no later arrival recorded (rulings L1913); whether robots kept arriving is not decided (L1941). Options: **(a)** leave it open: cite II.2.1 at draft standing as the law of the channel, record no arrival, size none, and write the robot half's recorded channels with that condition; **(b)** rule a continuing stream of robots exiled after the signing (national; it would add a compelled-arrival layer to every city's robot half); **(c)** rule that no robots came into being in Assembly territory after the signing. **Recommended, PROVISIONAL: (a), with the national answer asked of the developer:** it adds the draft's own words to what `DR-127` already records and settles nothing; (b) and (c) are national questions, not this city's. *(A's DQ-2, B's DQ-102 and C's DQ-203, merged; all three converge. C's former option that robots were no longer made on Upper Earth after personhood was withdrawn is withdrawn by C: IV.1.1 withdraws personhood and does not bar manufacture.)*
+
+### DEC-607 · ANSWERED · 2026-11-17 · Relung Panen ULM run, Phase 2 (composition and arrival) (DQ-43)
+> **`DR-140`, 2026-11-17:** a new reading: Upper Earth may recognize her as legitimately human, with human rights, and still not as a person (a gray area).
+*From `04_Phase_02_Composition_and_Arrival.md` L326, copied verbatim:*
+- **DQ-43 · Does a human born in Tepenia stand under the treaty's forfeiture?** `[treaty draft]` The draft ties the loss of Upper Earth personhood and the bar on return to the act of election (IV.2.2–3, II.2.5) and deprives no human of personhood by reason of her own nature (IV.2.1, draft L75); a human born in Tepenia never elected; the draft is silent on her. Options: **(a)** record that the draft is silent: no forfeiture is written for her, and nothing is written about how Upper Earth treats her; **(b)** rule that the forfeiture passes to descendants (a treaty wording change, national); **(c)** rule that Upper Earth recognizes no Tepenian-born human whatever the text says (national); **(d)** leave it until the draft is locked or not (`DR-136`: whether the draft treaty is ever locked is not decided). **Recommended, PROVISIONAL: (a), with (d)'s timing:** it claims least, it is the text as written, and it binds every city, so the national answer is the developer's. *(B's DQ-101; C's REQ-205 withdrawn into it; A holds it)*
+
+### DEC-608 · OPEN · RESEARCH · 2026-11-17 · Relung Panen ULM run, Phase 3 (surface and texture) (DQ-44)
+> **`DR-140`, 2026-11-17:** the developer: needs research.
+*From `04_Phase_03_Surface_and_Texture.md` L304, copied verbatim:*
+- **DQ-44 · Do the export racks stay lit through the shared night?** The export food's load is an average (rulings L1633) and the lit crop has no season (spec L258); canon's shared night stops everyone together (physiology L336–338); robots charge overnight (L334) `[PROV-8]`; real lit growing can cut lights for hours in demand response (research L31). Options: **(a)** leave it unwritten until research gives a photoperiod for canon's model (REQ-104), writing the night as quiet of people, not of power, conditionally; **(b)** rule that the racks are lit around the clock; **(c)** rule a photoperiod whose dark hours fall on the shared night, so the city's light and load drop together at the stop; **(d)** rule a photoperiod set by the supply's hours, apart from the shared night. **Recommended, PROVISIONAL: (a).** The choice sets the city's night sound and light (P3-4, P3-5), whether the robots' charging and the racks' light compete at one hour (RF-78), and part of Phase 4's day; it rests on canon's indoor model, which is national, so the answer should bind every lit city, not this one alone. *(A's DQ-1; B and C agree in Round 3)*
+
+### DEC-609 · ANSWERED · 2026-11-17 · Relung Panen ULM run, Phase 3 (surface and texture) (DQ-45)
+> **`DR-140`, 2026-11-17:** glazed; the city is visible. **`DR-141`:** refined: glazed houses screened on winter nights; stacked racks and the seed store windowless; the glow seasonal.
+*From `04_Phase_03_Surface_and_Texture.md` L305–L307, copied verbatim:*
+- **DQ-45 · Does the light of the lit growing rooms reach the outside: are they built closed or glazed?** All export food is lit indoors (spec L258; `DR-96` item 4), about 0.5 GW of it; no admitted line says whether the rooms are opaque buildings or glazed houses; real lit growing leaks light seen from far away, which curtains reduce and do not end (research L422); light spill matters only where there is dark, here the winter's long nights (S3-42; P3-17). Options: **(a)** opaque, windowless rooms: light kept in, no glow over the city, its winter night lit only by its streets and homes; **(b)** glazed or vented rooms: light leaking at night in the dark half, the city's glow its first sight from far off; **(c)** mixed; **(d)** leave it open until canon's national growing-room form is read at its building lines (REQ-104). **Recommended, PROVISIONAL: (d).** It is a national design fact (every city grows indoors, spec L258); either answer changes the city's night sky, the arrival's first sight and part of its sound, and it should not be set from a texture phase. *(B's DQ-102 and C's DQ-201, merged in C's wording with B's four options, as both now hold; A agrees and sets DQ-44 beside it)*
+
+*Not filed:* whether the oasis's wild birds are a physical fact of the coordinate or held with `DEC-593` (B's DQ-101) is withdrawn by its finder: research DQ-39 already carries the birds (research L714), so it is not a new choice; the birds are reserved (RF-109) (split 18). *Provisional assumptions:* none new in this phase; the series stays at PA-21, and the next file starts at PA-22.
+
+### DEC-610 · ANSWERED · 2026-11-17 · Relung Panen ULM run, Phase 6 (orchestrator's question, before dispatch)
+> **`DR-140`, 2026-11-17:** (a), every city.
+- **Do a city pass's holidays and faith wait for the stage after the cultural synthesis, for every city?** Your instruction of 2026-11-03 (in the orchestrator's working notes: first work out who these people are, in the cultural synthesis, then what they celebrate and believe) is written in the rulings log only inside two other cities' entries, so a Relung Panen brief cannot cite it there (standing line 25). Phase 6 (Meaning) asks for a belief landscape and two to four observances (`03_The_Phase_Spine.md` L798–832). Options: **(a)** for every city, Phase 6 writes the unnamed load-bearing thing (a stake, a social contract, a debt), the dead (with the reserved mortuary question untouched) and the failure state of the core value, records what national canon already holds (the robot religions roster, the national holidays), and leaves the city's own faith and holidays open, pointed at the stage after the cultural synthesis; **(b)** Phase 6 writes them in full now; **(c)** record it for Relung Panen only. **Recommended, PROVISIONAL: (a)**; Relung Panen's Phase 6 is written on it, and a ruling entry recording it for every city would let later briefs cite it.
+
+### DEC-611 · ANSWERED · 2026-11-17 · Relung Panen ULM run, Phase 8 (orchestrator's question, before dispatch)
+> **`DR-140`, 2026-11-17:** (a), every city.
+- **Do a city pass's cuisine, music and everyday-life texture wait for the cultural synthesis, for every city?** Your instruction of 2026-11-03 (in the orchestrator's working notes, the same entry as DEC-610's: food, music and everyday life are worked out in the cultural synthesis) is written in the rulings log only inside other cities' entries. Phase 8 (Making) asks for cuisine, music, arts and craft, dress, play and humor, and speech markers (`03_The_Phase_Spine.md` L982–989). Options: **(a)** for every city, Phase 8 writes, for each category, what this place's own conditions supply and demand (function first: what the daily work and the cold require, what the lit food and the made ground allow, what the robot half's sustenance is, from the robot canon), keeps the native and transplanted layers apart as a frame, and records language as the fact of the place it is (`DR-100`; the supporting tier held open, `DEC-582`); the dishes, music, dress styles, games and slang themselves are left open, pointed at the cultural synthesis; **(b)** Phase 8 writes them in full now; **(c)** record it for Relung Panen only. **Recommended, PROVISIONAL: (a)**; Relung Panen's Phase 8 is written on it.
+
+### DEC-612 · OPEN · RESEARCH · 2026-11-17 · Relung Panen ULM run, Phase 4 (ordinary life) (DQ-46)
+> **`DR-140`, 2026-11-17:** the developer: needs study, research and design.
+*From `04_Phase_04_Ordinary_Life.md` L359, copied verbatim:*
+- **DQ-46 · Does the shared stop have a clock hour, and does it hold all year or move with the season?** Canon makes the shared night a stopping time for all (physiology L336–338) and names no hour; here the sky ranges from 2.7 h to about 24 h of light (spec L179–190) and supplies no stop for much of the year (P4-4). Options: **(a)** a stop fixed by the clock all year; **(b)** a stop moved with the season; **(c)** leave the hour unwritten and write only that the stop is made, by schedule, curtain and closing hour (S3-28); **(d)** one national hour, the same everywhere; **(e)** a per-city hour, set at the CST. **Recommended, PROVISIONAL: (c).** `DR-137` item 8 gives the day's structure to the ULM but no line gives the hour; (a) or (b) would set it for this city alone; (d) is a national ruling; (e) is the CST's if the developer wants it. *(B's question and options with C's as (d) and (e), as A, B and C proposed in Round 3; split 10)*
+
+### DEC-613 · OPEN · RESEARCH · 2026-11-17 · Relung Panen ULM run, Phase 4 (ordinary life) (DQ-47)
+> **`DR-140`, 2026-11-17:** the developer: needs study, research and design.
+*From `04_Phase_04_Ordinary_Life.md` L360–L362, copied verbatim:*
+- **DQ-47 · Is anyone awake at the shared night?** Canon has everyone stop together (physiology L336–338); the city's supply, its lit racks (about 0.5 GW for the export alone, `DR-96` item 4), its seed store, warm-chain staging and cooled stores hold set points that run continuously (Phase 3 P3-28), and lit crops are lost within hours to a day in a stoppage (S3-1); the racks' hours are open (Phase 3 DQ-44); no line writes anyone awake and none writes the load unattended (P4-36). Options: **(a)** leave it unwritten and open with Phase 3 DQ-44, tagging every night finding as keepers not written; **(b)** nobody: the continuous loads run unattended through the stop, held by machines, with any failure met at the next day's start (national); **(c)** a small watch or night crew keeps the continuous loads through the stop, its members keeping their own stop at another hour (national; it would add a population with a displaced night to every city, RF-120); **(d)** the stop is staggered for some trades. **Recommended, PROVISIONAL: (a), with the national answer asked.** It binds every city with continuous loads, so it should not be set from one city's pass; this city's continuous load is large enough on its own lines that the question bites here first. *(A's DQ-1 and B's DQ-102 merged, the union of their options; C holds the same recommendation; split 9)*
+
+*Not filed as developer questions:* whether the robot half charges only at the stop (A's DQ-2: withdrawn by its finder, the line itself answering it, "most prominently OVERNIGHT RECHARGING", physiology L334; split 8); what the 0.5 coefficient represents (C's DQ-202: withdrawn by its finder into REQ-127; split 7). **No provisional assumption is issued in this phase;** the series stays at PA-21.
+
+### DEC-614 · OPEN · RESEARCH · 2026-11-17 · Relung Panen ULM run, Phase 6 (meaning) (DQ-48)
+> **`DR-140`, 2026-11-17:** the developer: needs research and design.
+*From `04_Phase_06_Meaning.md` L352–L354, copied verbatim:*
+- **DQ-48 · How does a city pass read a national holiday against its own sky, and does the national reading of Independence Day as the darkest day bind a city whose shortest day still has a sun?** The holidays file reads June 21 as the darkest day (L24–26) and leaves open whether the date was chosen for the solstice and whether every city observes it identically (L160–164); here June 21 has about 2.7 h of daylight under a noon sun under a degree high, and some ground has none for weeks (spec L155, L184; S3-45). Options: **(a)** the national framing stays the national file's open question; each city records its own sky on the day flatly, and any local reading waits for the stage after the cultural synthesis; **(b)** each city's pass may read a national holiday against its own sky as a local inflection, PROPOSED; **(c)** the national question is ruled first (the solstice resonance deliberate, so every city reads June 21 against its own shortest day, or coincidental, so none does) before any city reads the day. **Recommended, PROVISIONAL: (a).** A local reading of a national day is observance, which `DEC-610` already sends to the stage after the cultural synthesis, so (b) asks a method question that ruling answers; and (c) would set every city's reading of its national day from one city's pass, while the national file already holds it open. *(B's P6B-DQ-101 and C's P6C-DQ-201, folded into one question: in Round 3 B withdrew its key for C's and C folded its key into B's, and A, who filed none, asked that if filed they be merged with (a) recommended.)*
+
+**Considered and not filed: made ground in the keeping standard while its siting and use are unwritten** (B's P6B-DQ-102). All three readers hold B's option (a) after Round 3: made ground stands as the standard's scoped, vivid instance and ruled origin (rulings L1252; amendment G7-C2), never as its name or general answer, and no land-use figure or finding about the belt rests on it. B states the question closes in-pass if the standard is not named after made ground, which this merge does not do (P6-2); C would file it only as a pointer under `DEC-585` and amendment DQ-33, whose open part is theirs. **Closed in-pass on (a); the siting question stays where it is already before the developer** (`DEC-585`; amendment DQ-33; REQ-157).
+
+### DEC-615 · ANSWERED · 2026-11-17 · Relung Panen ULM run, Phase 7 (order) (DQ-49)
+> **`DR-140`, 2026-11-17:** (a): record the gap, then research.
+*From `04_Phase_07_Order.md` L560, copied verbatim:*
+- **DQ-49 · The non-thematic export, where the lines hold none.** `03` L895–898 requires an ordinary, emotionally neutral export unrelated to the headline function; every outward flow on this city's lines is food, seed, nutrient recovery or research on its own ground, and the free tier's work is unwritten (P7-8, P7-9). Options: **(a)** record the null with its reason, and ask for the free tier's work and any outbound cargo that is not food (REQ-163); **(b)** the developer names an ordinary export now; **(c)** admit the recovery service as the export (A's original reading); **(d)** admit the reserved know-how candidate, keeping works and surfaces on thawing ground and lake ice, PROPOSED (RF-179); **(e)** read one from a pick, adjusted to the site; **(f)** wait for the industries register and the free tier's work and revisit at Step 5. **Recommended, PROVISIONAL: (a), with (f)'s revisit at Step 5.** (c) fails `03` L895–897's relatedness test (P7-9); (d) would rest an economic finding on a skill no line writes anyone holding; (e) puts a source in the place of a fact; (b) is the developer's to give at any time. *(B, C; A after Round 3: all three recommend (a).)*
+
+### DEC-616 · OPEN · RESEARCH · 2026-11-17 · Relung Panen ULM run, Phase 7 (order) (DQ-50)
+> **`DR-140`, 2026-11-17:** the developer: needs research.
+*From `04_Phase_07_Order.md` L561, copied verbatim:*
+- **DQ-50 · B4 robot sustenance at a city that may not process siligel** (national; `DR-97` item 1 against `DR-137` item 5). The model puts B4 (siligel and coolant, "manufactured, not grown", 3.25 per 1,000 robots) in every city's baseline (`08` L416–427; rulings L1643), while canon has siligel processed only where infrastructure exists and shipped on (rulings L2003), and which cities mine or process is not decided (L2004). Options: **(a)** keep B4 at every city as the model's rate, its local work not written and tagged, until siligel's composition and processing cities are ruled; **(b)** read B4 everywhere as local coolant making plus the handling and storage of shipped siligel, synthesis counted only at processing cities; **(c)** move the siligel half of B4, or all of it, to the processing cities once decided, coolant staying everywhere (a Division of Industry change that moves every city's row); **(d)** site siligel processing at this city (a siting ruling; frame RF-15); **(e)** a national rule for how B4 is read at every city that does not process. **Recommended, PROVISIONAL: (a), with (e) asked.** It changes nothing in this run and treats B4 as Phase 4 treated the own-food term (a national rate applied, never a count); (b), (c) and (e) bind every city; (d) would set a sector from a model line while rulings L2004 holds it undecided. *(A, B, C: all three recommend (a).)*
+
+### DEC-617 · ANSWERED · 2026-11-17 · Relung Panen ULM run, Phase 8 (making) (DQ-51)
+> **`DR-140`, 2026-11-17:** neither: **no national music form**; music is regional (the cultural regions now called subnets) and derived after the DCI.
+*From `04_Phase_08_Making.md` L435, copied verbatim:*
+- **DQ-51 · Robot music: a national form first, or per city?** Robot hearing is national and structurally wider than a human's (physiology L187); which way it is wider leans to the home community's needs (physiology L448; `DR-137` item 2); no file names a robot music; `DEC-611` (PROVISIONAL) sends songs to each city's cultural synthesis. Options: **(a)** a national file of robot music forms before any city writes one; **(b)** each city's cultural synthesis writes its own, with a national request beside it rather than a gate. **Recommended, PROVISIONAL: (a)** *(A's recommendation; C agrees with it on substance and would carry it as a request; B holds (b), split 4)*. A per-city robot music would be written on no canon at all, and nothing robot-musical is written in this city in the meantime; the national request is REQ-196 either way.
+
+### DEC-618 · ANSWERED · 2026-11-17 · Relung Panen ULM run, Phase 8 (making) (DQ-52)
+> **`DR-140`, 2026-11-17:** (a): the CST's, not the ULM's.
+*From `04_Phase_08_Making.md` L436, copied verbatim:*
+- **DQ-52 · Is this city's place on canon's glitch-coolant axis a Phase 8 finding or the cultural synthesis's?** *(B; A and C agree with its recommended answer.)* Canon gives every city with a robot population a local drinking scene on a variety-against-potency axis, where "specific cities can be placed anywhere along it, or between the two poles, as needed" (physiology L285); the frame calls this city's placement "its own later finding" (frame L107) without naming the stage; `DEC-611`'s list names dishes, songs, dress styles, games and slang, not drinks or a drinking scene. Options: **(a)** leave the placement open in the ULM and send it to the cultural synthesis with this phase's function facts (keeping work, coolant through the doors unless B4 rules otherwise, coolant's deep-cold behavior unestablished); **(b)** place it now on the working-class pole, from the city's keeping work (RF-192); **(c)** place it between the poles as its own; **(d)** a national rule for how any city is placed. **Recommended, PROVISIONAL: (a).** A placement is a character of the drinks, which belongs with the synthesis; (b) and (c) would rest a scene on a class reading of work the lines do not give as a class; (d) is national and the developer's (REQ-197). A notes that `DEC-611` with frame L107 already settles (a) to (c), leaving (d) as the only live part; B notes that if `DEC-611` is read as covering drinks the question folds into the open slots without loss.
+
+### DEC-619 · ANSWERED · 2026-11-17 · Relung Panen ULM run, Phase 9 (populations) (DQ-53)
+> **`DR-140`, 2026-11-17:** (a).
+*From `04_Phase_09_Populations.md` L438, copied verbatim:*
+- **DQ-53 · Does the year kept count for more than kind here?** *(B; A and C agree with its recommended answer; B added option (d) in Round 3.)* The lines name the kept year as what makes a person of the place (Phase 5 P5-24; Phase 6 P6-9; Phase 8 P8-60), while kind's relation is the national baseline (physiology L377). Options: **(a)** yes: the year first, the way a person came as where she starts on it; **(b)** no: kind stays the primary division, keeping a secondary note; **(c)** both, co-equal; **(d)** the mode of coming first. **Recommended, PROVISIONAL: (a)**, because kind's relation is national and the year is this place's own; the modes are canon's general sorting (Ch. 14 L35–36) and need sizes no line gives to sort a city. It stays conditional on P5-24's gates. The axis is written on it.
+
+### DEC-620 · ANSWERED · 2026-11-17 · Relung Panen ULM run, Phase 9 (populations) (DQ-54)
+> **`DR-140`, 2026-11-17:** (a).
+*From `04_Phase_09_Populations.md` L439, copied verbatim:*
+- **DQ-54 · May the pass write robot hearing here as leaning toward vibration through solid things (lake ice, rock, the building's frame and the machinery)?** *(A; B's own question, machinery only, folded in as option (c) and withdrawn by B; C agrees.)* Options: **(a)** yes, as a tendency, flagged weaker until the acoustics are researched; **(b)** hold it until REQ-202 is answered; **(c)** the machinery only, dropping the ice. **Recommended, PROVISIONAL: (a).** It is the place's own need on its lines, canon makes the lean a tendency (`DR-137` item 2), and the ice half needs no `[PROV-8]`. P9-12 is written on it.
+
+### DEC-621 · OPEN · RESEARCH · 2026-11-17 · Relung Panen ULM run, Phase 9 (populations) (DQ-55)
+> **`DR-140`, 2026-11-17:** the developer: possibly; needs further investigation.
+*From `04_Phase_09_Populations.md` L440, copied verbatim:*
+- **DQ-55 · May the pass state that the robot half here is mostly built here, on the recorded channels?** *(A; B and C agree.)* The only written robot channel is building (Phase 2 P2-17) and no robot arrival is recorded (rulings L1913, L1941), while the robot channel is open in law. Options: **(a)** yes, conditional, tagged "on the recorded channels"; **(b)** hold until the post-ULM census review sizes builds and arrivals; **(c)** state it as a fact. **Recommended, PROVISIONAL: (a), with the caution that it is canon's general rule applied and never this place's distinction** (Ch. 14 L35–36) *(B's guard)*; not (c), because the channel is open in law. P9-10 is written on it.
+
+### DEC-622 · ANSWERED · 2026-11-17 · Relung Panen ULM run, Phase 10 (catalog) (DQ-56)
+> **`DR-139`, 2026-11-17: the Planet is Earth, settled. `DR-140`, 2026-11-17: the Robot Element is Water.** Earth + Water.
+
+*From `04_Phase_10_Catalog.md` L430, copied verbatim:*
+- **DQ-56 · Relung Panen's Planet and Robot Element** (`DR-8`, `DR-8a`, `DR-115`). No incumbent pair exists. **Planet: Earth, agreed by all three readers.** **Element: split** (P10-36): readers A and B hold Air (A weakly, with Water its first reserve); reader C holds Water (with Air its near alternative). *Options:* **(a) Earth + Air:** Earth's viability "built from convergence" that "simply hasn't failed yet" (as quoted at reader B L186); Air's shelter held by a stillness it does not control, on the place's own Phase 3 axis "What the stillness keeps" (as quoted at reader A L230), and its membership by sharing the inside, not kind. **(b) Earth + Water:** Water's one path kept open and unfrozen "through that single channel" (as quoted at reader B L187), the culverts before the melt and the one road. **(c) Earth + Earth (the element labeled Contact):** the drains and made ground, ground held only while cold. **(d) Earth + Electricity:** total dependency on the one supply. **(e) Earth now, the Element left open until the developer chooses between (a) and (b).** Reserved planet alternative: Neptune (known by its effect elsewhere). *Against (a):* the stillness is the basin's condition, not what its people do (C). *Against (b):* Water's negative and neutral run opposite to a refreeze that fixes the water where it stands and to a year set by melt and refreeze (B). **⚠ Anchoring risk, plainly:** the rulings-log line L2003, inside every reader's admitted span, carries another location's Planet and Element pair, and the readers report its Element as Air in wording close to the Air readings here; every reader read it before drafting, and no one can show from inside the pass whether it primed or repelled the word. Neither option may be chosen or refused **because of** that other pair; the risk is recorded so the choice is made with it visible, and the convergence check belongs to the terminal differentiation pass. *Recommended, PROVISIONAL:* **(e): Planet Earth; the Element the developer's choice between (a) and (b).** This is the most conservative current view: the three readers agree on Earth and split on the Element after Round 3, a vote is not the merge rule, and each reader's withdrawal (B of Water, C of Air) points in a different direction. *(A P10A-DQ-1; B P10B-DQ-101; C P10C-DQ-201; all three Round 3 replies)*
+
+### DEC-623 · ANSWERED · 2026-11-17 · Relung Panen ULM run, Phase 10 (catalog) (DQ-57)
+> **`DR-140`, 2026-11-17:** (a).
+*From `04_Phase_10_Catalog.md` L431–L433, copied verbatim:*
+- **DQ-57 · How the catalog's unsited places are labeled until siting.** *Options:* **(a) descriptive working labels, flagged as placeholders, with proper names only where an admitted line already gives one** (*the warm charging rooms*, *the seed store*; the airports and the spur by their line-given names); (b) function only, with no working label; (c) the developer names them now; (d) keys only. *Recommended, PROVISIONAL:* **(a).** It lets later steps refer to each place without inventing a name, and the flag keeps the naming the developer's. B recommended (b) and conceded to (a) in Round 3, since all three readers wrote the same descriptive labels in practice; B's concern, that a name cannot be checked against a place with no site, is met by the flag and by keeping proper names out. *(A P10A-DQ-2; B P10B-DQ-102; C P10C-DQ-202)*
+
+*Not carried:* C's DQ-203 (whether to catalog the per-ground sun-return now as a rule with no dates). All three readers already do so (P10-48), so it is not a live choice; C withdrew it in Round 3.
+
 ---
 
 ## Answered

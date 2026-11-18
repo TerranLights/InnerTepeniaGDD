@@ -1,0 +1,39 @@
+pass audited : Relung_Panen
+
+=== T3 - POSITION-COVERAGE LEDGER ===
+  phases in header: P2, P3, P4, P5, P6, P7, P8, P9, P10
+  The Child              filled=7  blank=2   blank at: P9, P10
+  The Lover (position)   filled=1  blank=8   blank at: P3, P4, P5, P6, P7, P8, P9, P10
+  The Parent             filled=7  blank=2   blank at: P9, P10
+  The Ruler              filled=3  blank=6   blank at: P3, P4, P6, P8, P9, P10
+  The Elder              filled=7  blank=2   blank at: P9, P10
+  The Mentor             filled=7  blank=2   blank at: P9, P10
+  The Passer-Through     filled=3  blank=6   blank at: P4, P6, P7, P8, P9, P10
+  The Neighbor           filled=5  blank=4   blank at: P3, P6, P9, P10
+  ⭐ The Lover FACULTY    filled=4  blank=5   blank at: P2, P5, P7, P9, P10
+
+  NOTE: a blank cell is a WARNING BEFORE Step 8, not a defect. Do not
+  fill a blank by writing new phase content toward it - that is the
+  contamination 00f Rule 3 forbids (see the recipe's hard bound on T3).
+
+=== T4 - PER-PHASE SHED MARKER ===
+  [04_Phase_02_Composition_and_Arrival.md]  T4 present: the census's redistribution history, the composition file's proximity-first derivation, th
+  [04_Phase_03_Surface_and_Texture.md]  T4 present: the composition table's rows, the founders' identity, the arrival modes' legal standing, t
+  [04_Phase_04_Ordinary_Life.md]  T4 present: the harvest as anyone's whole day, the crops themselves and the export's destinations, the
+  [04_Phase_05_Relation_and_Geometry.md]  T4 present: the composition's rows and decimals, the founders' identity and the founding sequence, the
+  [04_Phase_06_Meaning.md]  T4 present: the composition table's decimals, the founders' identity and the founding sequence, the tr
+  [04_Phase_07_Order.md]  T4 present: the composition table's rows and decimals, the founders and the founding sequence, the tre
+  [04_Phase_08_Making.md]  T4 present: the composition table's decimals and tier order, the founders' identity and the founding s
+
+  7/7 phase files carry a T4 marker.
+  >> If EVERY phase's answer was literally 'nothing', T4 is falsified
+     per its own stated condition (the question would be decorative).
+     This tool cannot see the marker's CONTENT well enough to judge
+     that - read the 7 lines above by hand.
+
+=== T5 - EARLY LOVER-FACULTY SMOKE TEST ===
+  EARLY (Phase 6) verdict: alive, thin: the place gives its people things that need them (ground made from nothing and kept against its own melt, drains cleared before the water, a summer dark made by hand, a warm charge in every month) and, on its surface, its first running water, bright free evenings and still days; nobody on any line is written as loving it (all three hold this after Round 3; A's first verdict claimed a lovability no line writes and was withdrawn; B's third-order note stands beside it, PROPOSED: the season most worth loving is the season everything soft must be kept against).
+  LATE marker absent (08_Review_Panel.md missing or has no 'T5 - LATE LOVER FACULTY:' line yet)
+
+  T5 not fully applied this pass (one or both markers absent).
+

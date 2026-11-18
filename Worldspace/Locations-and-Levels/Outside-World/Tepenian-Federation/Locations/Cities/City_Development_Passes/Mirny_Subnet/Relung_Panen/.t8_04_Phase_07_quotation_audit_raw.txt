@@ -1,0 +1,32 @@
+pass audited : Relung_Panen
+corpus mode  : default (own pass excluded)
+corpus files : 7427   chars: 127,609,830
+files audited: 04_Phase_07_Order.md
+own-pass mode: a quotation may also be found in this pass's OTHER files (never in its own file)
+
+=== POSITIVE CONTROLS ===
+  [easy                      ] FOUND     a terminus is nobody's midpoint
+  [HARD - blockquote wrap    ] FOUND     A pass may not proceed to Step 5 with a NEVER CITED row
+  [HARD - outside Worldspace ] FOUND     Paste raw QA scan output into the QA block. Never summa
+  [HARD - case mismatch      ] FOUND     YOU GO TO ESPERANZA AND YOU DO NOT COME HOME FOR FOUR Y
+  [HARD - long wrapped       ] FOUND     Different content is not differentiation; a different q
+
+  INSTRUMENT VALID: YES
+  NEGATIVE CONTROL (must be absent): PASS - absent
+
+=== QUOTATION AUDIT ===
+fragments tested (single-line, ellipsis-split, >=7 words): 31
+NOT FOUND in corpus: 6
+  of those, in TABLE CELLS : 0
+  of those, in PROSE       : 6
+
+  [04_Phase_07_Order.md:19]           not a default (l40-42); epa water staffing (l60-62); sources not obtained (l69-77), among them a real polar station's functional s
+  [04_Phase_07_Order.md:39]           emphasis markers, backticks and underscores stripped; a line counts when it names phase 7 alone, in a list (
+  [04_Phase_07_Order.md:39]           means the source is not on this phase's list
+  [04_Phase_07_Order.md:531]           which rests on the superseded b1 rate (readme l17-18); datasheets/phase 7.md l11 against its own l33 on must-open coverage (all ad
+  [04_Phase_07_Order.md:619]           expression. written: used nowhere except inside rf-171, the narrower reading, a's withdrawal being evidence for it; it is not park
+  [04_Phase_07_Order.md:621]           b's p7b-106, its flows row, p7b-dq-102 and p7b-rq-104 state siligel as made elsewhere; c found that against rulings l2004 (
+
+⚠ TRIAGE BY HAND. A miss is not yet a defect: the pass quoting ITSELF, and
+  connective prose captured between two adjacent quotations, both show here.
+  Confirm each at source before calling it a defect.

@@ -1,0 +1,44 @@
+# git log since 2026-11-03 00:00 (explicit time) on Relung Panen's main sources (orchestrator, 2026-11-16 11:38), raw output, whole. Run 2 of the check; run 1 (.t8_00.1_git_log_since_1103_raw.txt) gave a date with no time.
+== Cities/Specs/Mirny subnet/Relung_Panen.md
+dcaad7c8 2026-11-03 10:29:45 -0700 Robot-keyed term (B3+B4) added to 16 (DR-97); Abowasa recounted; national rows and food balance (19) re-run; Temiro
+612fdc4c 2026-11-03 10:02:04 -0700 Apply review files (DR-96): Relung Panen held edits, Mawson identity retirement and second pass, Temirotkel and Mir
+86f984d7 2026-11-03 00:27:18 -0700 Fusion, helium-3 and plant-heat research (tracker S.0w, S.0x); Relung Panen DR-95 round 2; downstream old-share edi
+== Infrastructure/Airports.md
+dcaad7c8 2026-11-03 10:29:45 -0700 Robot-keyed term (B3+B4) added to 16 (DR-97); Abowasa recounted; national rows and food balance (19) re-run; Temiro
+612fdc4c 2026-11-03 10:02:04 -0700 Apply review files (DR-96): Relung Panen held edits, Mawson identity retirement and second pass, Temirotkel and Mir
+== Infrastructure/Ports.md
+354c17f6 2026-11-10 15:22:50 -0700 Ports and relationships: Australia a four-node partner with the Tri-Cities' Nella Fjord port; Zhongshan's three fre
+612fdc4c 2026-11-03 10:02:04 -0700 Apply review files (DR-96): Relung Panen held edits, Mawson identity retirement and second pass, Temirotkel and Mir
+== Infrastructure/Highways.md
+== Cities/Founding_Register.md
+8777bb5f 2026-11-03 23:03:59 -0700 All pending developer decisions answered and applied (DR-105): Casey, Mirny, finished cities, Davis, Esperanza
+c6cee067 2026-11-03 22:19:07 -0700 Unanimous count audit, source fixes, rulings DR-100 to DR-102, Pre-Trip and datasheet repairs
+67ffade1 2026-11-03 16:01:53 -0700 Amundsen Station composite in the spec (DR-98) and town wording; 04-17 prose pass pointers; Ice-Cold Buddhism rewor
+== Cities/Relung_Panen/ULM_Input_Status.md
+dcaad7c8 2026-11-03 10:29:45 -0700 Robot-keyed term (B3+B4) added to 16 (DR-97); Abowasa recounted; national rows and food balance (19) re-run; Temiro
+612fdc4c 2026-11-03 10:02:04 -0700 Apply review files (DR-96): Relung Panen held edits, Mawson identity retirement and second pass, Temirotkel and Mir
+86f984d7 2026-11-03 00:27:18 -0700 Fusion, helium-3 and plant-heat research (tracker S.0w, S.0x); Relung Panen DR-95 round 2; downstream old-share edi
+== Cities/Relung_Panen/Climate.md
+== Cities/Official_Population_Census.md
+8777bb5f 2026-11-03 23:03:59 -0700 All pending developer decisions answered and applied (DR-105): Casey, Mirny, finished cities, Davis, Esperanza
+67ffade1 2026-11-03 16:01:53 -0700 Amundsen Station composite in the spec (DR-98) and town wording; 04-17 prose pass pointers; Ice-Cold Buddhism rewor
+86f984d7 2026-11-03 00:27:18 -0700 Fusion, helium-3 and plant-heat research (tracker S.0w, S.0x); Relung Panen DR-95 round 2; downstream old-share edi
+== Cities/Division_of_Industry/18_Relung_Panen_Determination_2026-10-29.md
+c6cee067 2026-11-03 22:19:07 -0700 Unanimous count audit, source fixes, rulings DR-100 to DR-102, Pre-Trip and datasheet repairs
+dcaad7c8 2026-11-03 10:29:45 -0700 Robot-keyed term (B3+B4) added to 16 (DR-97); Abowasa recounted; national rows and food balance (19) re-run; Temiro
+612fdc4c 2026-11-03 10:02:04 -0700 Apply review files (DR-96): Relung Panen held edits, Mawson identity retirement and second pass, Temirotkel and Mir
+86f984d7 2026-11-03 00:27:18 -0700 Fusion, helium-3 and plant-heat research (tracker S.0w, S.0x); Relung Panen DR-95 round 2; downstream old-share edi
+== Cities/Division_of_Industry/16_Per_City_Three_Tier_Run.md
+35535e6c 2026-11-03 22:27:53 -0700 Five count decisions applied (DR-103): Davis split, Sinheung mandate, Davis retention, Extent table, Davis polar-ni
+c6cee067 2026-11-03 22:19:07 -0700 Unanimous count audit, source fixes, rulings DR-100 to DR-102, Pre-Trip and datasheet repairs
+dcaad7c8 2026-11-03 10:29:45 -0700 Robot-keyed term (B3+B4) added to 16 (DR-97); Abowasa recounted; national rows and food balance (19) re-run; Temiro
+612fdc4c 2026-11-03 10:02:04 -0700 Apply review files (DR-96): Relung Panen held edits, Mawson identity retirement and second pass, Temirotkel and Mir
+86f984d7 2026-11-03 00:27:18 -0700 Fusion, helium-3 and plant-heat research (tracker S.0w, S.0x); Relung Panen DR-95 round 2; downstream old-share edi
+== Cities/Inspirational-Influences.md
+63277e9b 2026-11-03 11:37:22 -0700 Relung Panen Step_3 datasheet rebuilt: all 99 picks copied; picks-file source line 120 updated (tiers set 2026-11-0
+48fb475f 2026-11-03 11:33:50 -0700 Relung Panen: 71 further inspiration picks added to the live picks file (11 tier changes accepted); 141 citations i
+== Cities/City_Relationship_Database.md
+354c17f6 2026-11-10 15:22:50 -0700 Ports and relationships: Australia a four-node partner with the Tri-Cities' Nella Fjord port; Zhongshan's three fre
+8777bb5f 2026-11-03 23:03:59 -0700 All pending developer decisions answered and applied (DR-105): Casey, Mirny, finished cities, Davis, Esperanza
+55eb3bd5 2026-11-03 19:47:57 -0700 Mirny readiness (Pre-Trip rebuilt, datasheets current), reconciliation note, language rules (largest group plus 12-
+86f984d7 2026-11-03 00:27:18 -0700 Fusion, helium-3 and plant-heat research (tracker S.0w, S.0x); Relung Panen DR-95 round 2; downstream old-share edi

@@ -1,0 +1,27 @@
+# git log since 2026-11-03 on Relung Panen's main sources (orchestrator, 2026-11-16 11:22), raw output, whole
+== Cities/Specs/Mirny subnet/Relung_Panen.md
+== Infrastructure/Airports.md
+== Infrastructure/Ports.md
+354c17f6 2026-11-10 Ports and relationships: Australia a four-node partner with the Tri-Cities' Nella Fjord port; Zhongshan's three freight 
+== Infrastructure/Highways.md
+== Cities/Founding_Register.md
+8777bb5f 2026-11-03 All pending developer decisions answered and applied (DR-105): Casey, Mirny, finished cities, Davis, Esperanza
+c6cee067 2026-11-03 Unanimous count audit, source fixes, rulings DR-100 to DR-102, Pre-Trip and datasheet repairs
+67ffade1 2026-11-03 Amundsen Station composite in the spec (DR-98) and town wording; 04-17 prose pass pointers; Ice-Cold Buddhism rewording;
+== Cities/Relung_Panen/ULM_Input_Status.md
+== Cities/Relung_Panen/Climate.md
+== Cities/Official_Population_Census.md
+8777bb5f 2026-11-03 All pending developer decisions answered and applied (DR-105): Casey, Mirny, finished cities, Davis, Esperanza
+67ffade1 2026-11-03 Amundsen Station composite in the spec (DR-98) and town wording; 04-17 prose pass pointers; Ice-Cold Buddhism rewording;
+== Cities/Division_of_Industry/18_Relung_Panen_Determination_2026-10-29.md
+c6cee067 2026-11-03 Unanimous count audit, source fixes, rulings DR-100 to DR-102, Pre-Trip and datasheet repairs
+== Cities/Division_of_Industry/16_Per_City_Three_Tier_Run.md
+35535e6c 2026-11-03 Five count decisions applied (DR-103): Davis split, Sinheung mandate, Davis retention, Extent table, Davis polar-night d
+c6cee067 2026-11-03 Unanimous count audit, source fixes, rulings DR-100 to DR-102, Pre-Trip and datasheet repairs
+== Cities/Inspirational-Influences.md
+63277e9b 2026-11-03 Relung Panen Step_3 datasheet rebuilt: all 99 picks copied; picks-file source line 120 updated (tiers set 2026-11-03)
+48fb475f 2026-11-03 Relung Panen: 71 further inspiration picks added to the live picks file (11 tier changes accepted); 141 citations in 23 
+== Cities/City_Relationship_Database.md
+354c17f6 2026-11-10 Ports and relationships: Australia a four-node partner with the Tri-Cities' Nella Fjord port; Zhongshan's three freight 
+8777bb5f 2026-11-03 All pending developer decisions answered and applied (DR-105): Casey, Mirny, finished cities, Davis, Esperanza
+55eb3bd5 2026-11-03 Mirny readiness (Pre-Trip rebuilt, datasheets current), reconciliation note, language rules (largest group plus 12-point

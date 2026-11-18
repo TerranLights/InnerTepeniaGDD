@@ -14,23 +14,31 @@ next city, probably Kunlun, starts only on the developer's word).
 > **Nothing here declares Casey complete.** "Finished" for the handover means Casey's Step 10 is written and recorded on disk; whether
 > Casey is complete stays the developer's call.
 
+> ⭐ **2026-11-16, about 11:55 — THIS RUN MOVES TO A FRESH SESSION (developer).** The run began at 11:01 inside the session that ran
+> Casey (the handover below), and was held at 11:54. The developer asked why it was not in a fresh session, as the orchestrator had said
+> on 2026-11-04 a city's run must be: **fresh readers do not isolate the run while the orchestrator who writes their lists, briefs and
+> merge rules has another city's whole run in context.** The first sign of it is recorded (Relung Panen's run log RL-06: a merge rule
+> the orchestrator stated from memory decided a split). **From here the run belongs to a fresh session that has never read Casey's
+> pass.** Start at **Section 0.4** below, which comes before everything else in this file.
+
 ---
 
 ## 0. What to do now, and the clock
 
 ### 0.1 How this run starts
-- **The usual way: handover inside the Casey session.** When Casey's Step 10 is recorded, the session follows Casey's startup file
-  Section 8 (added 2026-11-15): it replaces Casey's cron job with the job in 0.2 and, if the clock allows (0.3), begins this run the same
-  morning.
-- **If given to a fresh session instead:** do not start any work when you receive this file. Run `date '+%Y-%m-%d %H:%M'`; confirm on
-  disk that Casey's Step 10 record exists (Casey's progress file, `RUN_PROGRESS_Mirny_Review_then_Casey.md`, ends with Step 10 recorded,
-  and the Step 10 file is in Casey's folder). **If it does not, stop and tell the developer;** this run never starts before Casey's
-  Step 10 is recorded. Otherwise create **one recurring cron job** with the prompt in 0.2, firing daily at 05:03 local time
-  (`cron: "3 5 * * *"`, `recurring: true`), report its ID and next firing, and keep the session open.
+- ~~**The usual way: handover inside the Casey session.**~~ *Used on 2026-11-16 at 11:01, then withdrawn by the developer at about
+  11:55 (the note above Section 0). Kept as history.*
+- **Now: a fresh session.** When you receive this file, run `date '+%Y-%m-%d %H:%M'`. Casey's Step 10 was recorded at 11:00 on
+  2026-11-16 (`RUN_PROGRESS_Mirny_Review_then_Casey.md` ends with it); check that line only, **open nothing else of Casey's.** Then:
+  1. Create the morning jobs as Section 7 says (one-shot jobs at 05:02, **2026-11-17 to 2026-11-21 only**), report their IDs and next
+     firing, log them in the progress file, and keep the session open. (The Casey session's jobs for those mornings were deleted at
+     the move.)
+  2. **If the clock is inside 05:00–13:59, begin Section 0.4 at once,** under Section 8's standing practice. Otherwise wait for the
+     first job.
 
 ### 0.2 The cron prompt (word for word)
 > It is a morning window for the Relung Panen ULM run. First run `date '+%Y-%m-%d %H:%M'` to confirm the clock is inside the 05:00-14:59
-> operating window (do not start a new piece after 13:30; if outside the window, stop and say so). Then read in full
+> operating window (do not start a new piece after 14:00; if outside the window, stop and say so). Then read in full
 > `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Universal_Location_Methodology/STARTUP_Relung_Panen_ULM_2026-11-15.md`
 > and follow it exactly. Read `RUN_PROGRESS_Relung_Panen.md` beside it if it exists and resume from the next unfinished piece; otherwise
 > begin with Section 1, then Section 2. One piece at a time, each written to file and recorded before the next. Auto mode: do the work
@@ -52,6 +60,46 @@ next city, probably Kunlun, starts only on the developer's word).
   `python3 Tools/web_quota_count.py --tasks <this session's tasks folder>` (**always pass `--tasks`**). **If this run starts in the
   session that ran Casey, the count already holds Casey's calls.** **Above 850, start no research-heavy piece:** stop at the boundary
   and tell the developer a fresh session is needed (it resumes from the progress file with this same startup file).
+
+### 0.4 Where the run stands at the move, and what the fresh session does first
+**Read Section 1 in full first, then this.** Everything below is in Relung Panen's pass folder
+(`Cities/City_Development_Passes/Mirny_Subnet/Relung_Panen/`) or beside this file; the progress file and the run log (`09.5_Log.md`,
+entries RL-01 to RL-06) have the times and agent IDs.
+
+**What exists:**
+- **The readiness check before Step −1: written and recorded.** `00.0b_Readiness_Check_2026-11-16.md` (257 lines) and its round record
+  `00.0c_T8_Rounds_Readiness.md` (151 lines). Verdict READY FOR STEP −1. Its nine questions are filed as **DEC-564 to DEC-572** in a new
+  Relung Panen section of the decisions file (DEC-567 carries an orchestrator note: the held `DR-95`/`DR-96` edits appear to have been
+  applied on 2026-11-03, commit `612fdc4c`).
+- **Step −1 (the input contract): written, NOT recorded.** Three readers, Round 2 UNANIMOUS, Round 3 all six CONSISTENT, one merge:
+  `00.1_Step_MINUS-1_Input_Contract.md` (442 lines). **No close checks, no round record, its developer questions (its DQ-10 to DQ-14) not
+  filed.** Its list, briefs, reader outputs, Round 2 output and Round 3 replies are the `.t8_00.1_*` files.
+- **Two orchestrator findings to carry:** RL-03 (the readiness list left out rulings from `DR-98` on; five, `DR-105`, `DR-114`, `DR-115`,
+  `DR-117` and `DR-121`, were added to Step −1's rulings spans after a name search that cannot prove the rest carry nothing general);
+  RL-05 (the first git-log check gave a date with no time and missed three commits; the corrected run is
+  `.t8_00_git_log_since_1103_0000_raw.txt`, meant for Step 0's list).
+- **Nothing else.** Steps 0 to 10 are not started. The old session drafted Step 0 and Step 1 materials in its own scratch folder:
+  **do not look for them or use them.**
+
+**What the fresh session does first, in order (`DR-107`), each step written to the run log before the next:**
+1. **Audit the inherited orchestrator work for Casey material.** Read, end to end, every brief and merge brief the old session wrote
+   (`.t8_00_readiness_brief_A.md`, `.t8_00_readiness_merge_brief.md`, `.t8_00.1_Step_MINUS-1_brief_A.md`,
+   `.t8_00.1_Step_MINUS-1_merge_brief.md`; briefs B and C differ from A only in reader letter and paths) and both reading lists. **Look for
+   anything that came from Casey's run** (a finding, figure, verdict, wording or rule stated from memory), as opposed to Relung Panen's own
+   lines, the rulings log, and the method files. The old session found these mentions of Casey, and judged them legal: "never open Casey's
+   files"; rulings named by number (`DEC-003` was ruled for Casey only, `DR-136` item 4); and one method note from Casey's Step 10, that
+   the runbook's §C.6 row for Relung Panen's old placeholder (L1646) is superseded (`DEC-563`). **Check that judgment yourself.** If you
+   find Casey material that could have shaped a result, re-run that unit from a brief you write.
+2. **Settle Step −1's split 1** (RL-06; the merge file's own split 1 and Snags). The old session's merge brief said: *"Population-origin
+   material is DEMOTED, never excluded (runbook §C.9c)."* That was stated from memory; §C.9c was not on the merge writer's list. Under it,
+   the merge demoted spec L39–42, L45–51 and L94–98, which all three readers had excluded. **Read runbook §C.9 (b–e) yourself.** If the
+   wording was right, keep the merge. If it was wrong or broader than §C.9c, write your own merge brief and run a fresh merge writer;
+   first keep the old file with `mv` to `00.1_Step_MINUS-1_Input_Contract_merge1_superseded.md` (never delete; the hook blocks
+   overwrites), and record both.
+3. **Close Step −1:** the quotation pre-check and `Tools/quotation_audit.py --own-pass`, the American English sweep, the round record
+   `00.1b_T8_Rounds_Step_MINUS-1.md` with every tool's raw output pasted whole, and its developer questions filed from **DEC-573**.
+   Write your own scripts for these; the old session's were in its scratch folder.
+4. **Then Step 0, and on through Step 10,** as Section 2 item 3 says, building every list and brief yourself.
 
 ## 1. Read first, in full, before touching anything
 Paths are under `Worldspace/Locations-and-Levels/Universal_Location_Methodology/` (the ULM) unless stated. "Cities" is
@@ -75,8 +123,9 @@ Position-Coverage ledger and 19 datasheets (inputs, not output; last changed 202
 picks, `63277e9b`). **No pass file exists yet: the run is Step −1 through Step 10, in order, in that folder, under the runbook's
 standard names** (the README's table lists them). Checked 2026-11-15 by tool: `audit_city_inputs.py --city Relung_Panen` 40 tests,
 0 gaps, 3 notes; `verify_city_sheets.py Relung_Panen` 20 checks, 0 FAIL, 2 NOTE (the city key is `Relung_Panen`, case as written).
-1. **First, isolation (the first entry of Relung Panen's research log and Step 9.5 record):** if this run follows Casey's in the same
-   session, Relung Panen is worked on its own terms **by fresh readers with clean briefs only**: no file, figure, verdict, tool output or
+1. **First, isolation (the first entry of Relung Panen's research log and Step 9.5 record):** *since 2026-11-16 ~11:55 the run has its
+   own session (the note above Section 0); the session never opens Casey's pass, Casey's run log or the Casey session's transcript or
+   scratch folder.* In any session, Relung Panen is worked on its own terms **by fresh readers with clean briefs only**: no file, figure, verdict, tool output or
    wording from Casey's run goes into any Relung Panen list, brief or record, and the orchestrator never compares the two. **Casey is
    named in Relung Panen's own lines** (the road spur from Hwy 110, Casey's port for bulk goods, a possible grid line from Casey): those
    are relations, taken only from Relung Panen's own lines and from the shared things' own records (`DR-122` item 5, `DR-131` item 3,
@@ -131,7 +180,8 @@ standard names** (the README's table lists them). Checked 2026-11-15 by tool: `a
 - **Questions** go to `Cities/Research_Logs/DECISIONS_NEEDED_FROM_DEVELOPER.md`, each on its recommended answer, marked PROVISIONAL, in a
   new section for Relung Panen inserted directly above `## Answered`, numbered from the next multiple of ten after the highest number in
   the file (check first: `grep -o 'DEC-[0-9]\+' <file> | sort -t- -k2 -n | tail -1`; it was `DEC-544` on 2026-11-15, so **DEC-550**
-  unless Casey's Steps 5–10 add more).
+  unless Casey's Steps 5–10 add more). *Update 2026-11-16: the Relung Panen section exists (heading "Open since 2026-11-16 (Relung Panen
+  ULM run …)", DEC-564 to DEC-572); add to it, continuing from **DEC-573**.*
 - **The recording law:** log snags, dead ends, killed findings and self-corrections, not only successes. A record states what a tool
   returned and what a piece says on a line you have read, never a paraphrase. Times in records come from a `date` reading.
 - **Readers** are fresh subagents with only their unit's list and frozen brief, each in a private staging folder; they create and delete
@@ -171,11 +221,18 @@ Casey's startup file Section 7 (7.1 to 7.3) applies here word for word, with the
 `Relung_Panen_Research_Log.md`. **A progress line records what happened, never what was found. No reader is ever given the progress
 file.** Reading Casey's startup file for its Section 7 procedure is allowed; it holds no Casey findings.
 
-## 7. Keep the cron job alive
-- At every morning's close, and at the start of a morning whose last close was missed, run `CronList`. **A recurring job expires 7
-  days after it is created. If the job is 6 or more days old, replace it:** create a new recurring job with the 0.2 prompt word for word
-  (`cron: "3 5 * * *"`, `recurring: true`), delete the old one with `CronDelete` so only one exists, and log both IDs and the new job's
-  creation time.
+## 7. The morning jobs (start time 05:02, exactly)
+- **Developer, 2026-11-16: *"I wanted it to start at 5:02am."*** A recurring job runs late by a fixed offset of up to 30 minutes, so
+  this run uses **one-shot jobs, one per morning at 05:02** (`cron: "2 5 <day> <month> *"`, `recurring: false`, the 0.2 prompt word for
+  word). Create them for the next seven mornings at the handover, and log every ID and its day in the progress file.
+- At every morning's close, run `CronList`. **If fewer than three mornings remain scheduled, add the next seven the same way.**
+  One-shot jobs do not expire, so there is nothing else to renew. Only this run's jobs may exist; Casey's are deleted at the handover.
+- ⛔ **No job on or after 2026-11-22 until the developer says the DCI week is over** (developer, 2026-11-16: the windows from the
+  22nd on are cancelled for the DCI lead-sheets). If this run is still going on 2026-11-21, it stops at that window's close with a
+  checkpoint and resumes after the pause, on the developer's word.
 - **If the job or the session is gone:** the developer gives this file to a fresh session, Section 0.1 sets a new job, and the next
   firing resumes from the progress file. After a usage reset the developer can also resume at once by pasting the 0.2 prompt.
-- When Relung Panen's Step 10 is recorded, the job is deleted (Section 2, item 10); log that too.
+- When Relung Panen's Step 10 is recorded, every remaining job is deleted (Section 2, item 10); log that too.
+
+## 8. Standing practice (added 2026-11-16, developer)
+*"During the productive hours (5:00am to 3:00pm, with the wrap-up beginning at 2:00pm), once one Step/Phase is complete, any and all questions and/or decisions that you need from me, just log in the questions decisions file, and then continue with the next Step/Phase."* **Never stop between units to report or wait;** questions go to the decisions file on their recommended answer, PROVISIONAL. **New units may start until 14:00** (this replaces the 13:30 in 0.2 and 0.3); 14:00–14:59 is the wrap-up. Pre-build the next units' lists and briefs, prepare the next unit while readers run, and report one short line per finished step.

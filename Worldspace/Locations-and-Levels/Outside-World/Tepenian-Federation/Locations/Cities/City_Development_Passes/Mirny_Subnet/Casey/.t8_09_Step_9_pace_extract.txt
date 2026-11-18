@@ -1,0 +1,27 @@
+111:- 2026-11-11 06:45 · **LANG done:** triage `a4336ccdef3c4feed` returned (FOUND 0 · DOT 7 · SELF 0 · CONNECTIVE 1
+115:- 2026-11-11 06:50 · **COMP done:** triage `af0fdaad5773cdf01` returned (FOUND 0 · DOT 9 · SELF 0 · CONNECTIVE 3
+120:- 2026-11-11 06:52 · **NODE done:** triage `aff08474684d00460` returned (FOUND 0 · DOT 2 · SELF 0 · CONNECTIVE 9
+121:- 2026-11-11 06:53 · **ARR done:** triage `a6fcde609a0e343ee` returned (FOUND 0 · DOT 3 · SELF 0 · CONNECTIVE 51
+124:- 2026-11-11 07:05 · **FREE done:** triage `a21c9f2c2246ba003` (first run MISQUOTE 3, fixed, log MR-25; re-run 35 N
+129:- 2026-11-11 07:12 · **OWN done:** triage `a1ffb810b712343d3` (first run MISQUOTE 6, fixed, log MR-27; re-run 40 NO
+161:- 2026-11-11 08:00 · **Readiness check done (Part B item 2):** amendment and round record written (CL-08). Question
+175:- 2026-11-11 08:54 · **Step 0 done:** `Casey/00_Frame.md` (786 lines; misquote at L741 fixed, CL-10) and round reco
+188:- 2026-11-11 09:43 · **Step 1 done:** `Casey/01_Inherited.md` + `Casey/01b_T8_Rounds_Step_1.md`. Before: **Step 2**
+200:- 2026-11-11 10:43 · **Step 2 done:** `Casey/02_Spine.md` + `Casey/02b_T8_Rounds_Step_2.md`. Before: **Step 3** dis
+213:- 2026-11-11 12:03 · **Step 3 done:** `Casey/03_Research.md` + `Casey/03b_T8_Rounds_Step_3.md` + `Research_Logs/Cas
+230:- 2026-11-11 13:12 · **Phase 2 done:** `Casey/04_Phase_02_Composition_and_Arrival.md` + `Casey/04b_T8_Rounds_Phase_
+232:- 2026-11-11 13:13 · **Morning close.** Tracker: one dated line added after the Mirny review status line (RESUME HE
+254:- 2026-11-15 06:26 · **Phase 3 done:** `Casey/04_Phase_03_Surface_and_Texture.md` (581) + `Casey/04b_T8_Rounds_Phas
+269:- 2026-11-15 07:20 · **Phase 4 done:** `Casey/04_Phase_04_Ordinary_Life.md` (756) + `Casey/04b_T8_Rounds_Phase_4.md
+283:- 2026-11-15 08:13 · **Phase 5 done:** `Casey/04_Phase_05_Relation_and_Geometry.md` (769) + `Casey/04b_T8_Rounds_Ph
+297:- 2026-11-15 08:58 · **Phase 6 done:** `Casey/04_Phase_06_Meaning.md` (542) + `Casey/04b_T8_Rounds_Phase_6.md` (378
+311:- 2026-11-15 09:52 · **Phase 7 done:** `Casey/04_Phase_07_Order.md` (683) + `Casey/04b_T8_Rounds_Phase_7.md` (490) 
+326:- 2026-11-15 10:43 · **Phase 8 done:** `Casey/04_Phase_08_Making.md` (677) + `Casey/04b_T8_Rounds_Phase_8.md` (436)
+341:- 2026-11-15 11:36 · **Phase 9 done:** `Casey/04_Phase_09_Populations.md` (658) + `Casey/04b_T8_Rounds_Phase_9.md` 
+356:- 2026-11-15 12:39 · **Phase 10 done:** `Casey/04_Phase_10_Catalog.md` (647) + `Casey/04b_T8_Rounds_Phase_10.md` (5
+357:- 2026-11-15 12:40 · **Morning close.** **Next:** Step 5 (Reconciliation and the CLOSE pass) at the next window (cr
+365:- 2026-11-16 05:32 · Section 1 item 5 read: rulings DR-100, DR-105, DR-124, DR-125, DR-127, DR-128, DR-130, DR-131 
+392:- 2026-11-16 07:00 · Stage B merge writer returned (`a9c6a77b9809f47ba`): Part 2 appended, file 645 to 977 lines (S
+411:- 2026-11-16 07:48 · **Step 6 done:** `Casey/06_Differentiation.md` (355) + `Casey/06b_T8_Rounds_Step_6.md` (215); 
+420:- 2026-11-16 09:02 · **Step 7 done:** `Casey/07_QA_Gates.md` (1,393) + `Casey/07b_T8_Rounds_Step_7.md` (301); Gate 
+- 2026-11-16 09:53 · **Step 8 done:** `Casey/08_Review_Panel.md` (378) + `Casey/08b_T8_Rounds_Step_8.md` (297) (the line added to this extract by the orchestrator at the extract's rebuild, from the progress file's next line)

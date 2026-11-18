@@ -1,0 +1,5 @@
+target: 00.1_Step_MINUS-1_Input_Contract.md
+sources: 16 list entries; own-pass files: 6 (dot-files and superseded files excluded)
+quoted fragments (>=3 words, ellipsis-split): 74
+found in sources at admitted ranges: 73 | found only in the pass's own files: 0 | NOT FOUND: 1
+  L144  (l1422); dr-100's nation-to-language mapping is

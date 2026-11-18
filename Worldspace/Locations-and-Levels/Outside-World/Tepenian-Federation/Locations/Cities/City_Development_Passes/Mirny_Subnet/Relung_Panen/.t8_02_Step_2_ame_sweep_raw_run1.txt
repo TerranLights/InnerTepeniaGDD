@@ -1,0 +1,6 @@
+  HIT   02_Spine.md:55  Characteristic  | | G2-D1 | DEFICIT | **The sea.** The Shackleton Ice Shelf seals the oasis from open sea by 64–145 km; the gulf is a tidal epishelf lake join
+  HIT   02_Spine.md:57  Characteristic  | | G2-D3 | DEFICIT | **No energy from the site.** No geothermal, no measured wind resource, no grid line on Antarctic ice. *Characteristic fa
+  HIT   02_Spine.md:82  characteristic  | | G3-D1 | DEFICIT | **Necessity in an ordinary year.** The nation has a surplus, so the city is optional `[PA-12]`; `DR-71` L1377 marks the 
+  HIT   02_Spine.md:105  Characteristic  | | G5-D2 | DEFICIT | **One land approach, east only.** A dedicated spur reaching east to Casey; the Denman crossing is not built; the city is
+  HIT   02_Spine.md:127  Characteristic  | | G8-D1 | DEFICIT | **No predominance, so no city-wide default for a robot's origin.** The predominance principle has no city-scale X here; 
+British-form hits (excluding kept 'judgement'): 5 ; kept 'judgement': 0

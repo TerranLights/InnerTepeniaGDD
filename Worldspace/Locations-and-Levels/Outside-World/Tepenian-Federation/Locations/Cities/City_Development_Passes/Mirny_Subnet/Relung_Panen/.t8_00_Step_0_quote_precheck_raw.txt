@@ -1,0 +1,4 @@
+target: 00_Frame.md
+sources: 29 list entries; own-pass files: 8 (dot-files and superseded files excluded)
+quoted fragments (>=3 words, ellipsis-split): 24
+found in sources at admitted ranges: 24 | found only in the pass's own files: 0 | NOT FOUND: 0

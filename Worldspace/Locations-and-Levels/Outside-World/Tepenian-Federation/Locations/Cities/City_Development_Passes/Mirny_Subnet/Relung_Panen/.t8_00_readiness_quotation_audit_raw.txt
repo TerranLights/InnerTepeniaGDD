@@ -1,0 +1,40 @@
+pass audited : Relung_Panen
+corpus mode  : default (own pass excluded)
+corpus files : 7426   chars: 127,265,240
+files audited: 00.0b_Readiness_Check_2026-11-16.md
+own-pass mode: a quotation may also be found in this pass's OTHER files (never in its own file)
+
+=== POSITIVE CONTROLS ===
+  [easy                      ] FOUND     a terminus is nobody's midpoint
+  [HARD - blockquote wrap    ] FOUND     A pass may not proceed to Step 5 with a NEVER CITED row
+  [HARD - outside Worldspace ] FOUND     Paste raw QA scan output into the QA block. Never summa
+  [HARD - case mismatch      ] FOUND     YOU GO TO ESPERANZA AND YOU DO NOT COME HOME FOR FOUR Y
+  [HARD - long wrapped       ] FOUND     Different content is not differentiation; a different q
+
+  INSTRUMENT VALID: YES
+  NEGATIVE CONTROL (must be absent): PASS - absent
+
+=== QUOTATION AUDIT ===
+fragments tested (single-line, ellipsis-split, >=7 words): 38
+NOT FOUND in corpus: 14
+  of those, in TABLE CELLS : 3
+  of those, in PROSE       : 11
+
+  [00.0b_Readiness_Check_2026-11-16.md:38]  [CELL]  (rebuild l33) a new spec hit at l55 (rc-13). the same hunk's
+  [00.0b_Readiness_Check_2026-11-16.md:38]  [CELL]  is class (c): pass l36 records the earlier l9 hit as
+  [00.0b_Readiness_Check_2026-11-16.md:75]  [CELL]  since the register row was added at l274, the composition row is the fifth (l275); l281 also says it was
+  [00.0b_Readiness_Check_2026-11-16.md:80]           so none of the 71 is an admitted pick until tiered; l590; input status l280. startup l74-l75
+  [00.0b_Readiness_Check_2026-11-16.md:85]           is the same in both versions and the merge range
+  [00.0b_Readiness_Check_2026-11-16.md:85]           (pre-trip l72) is in no hunk. a 3 shift before l620 should move both unless lines were removed between 646 and 667. hand check bef
+  [00.0b_Readiness_Check_2026-11-16.md:179]           recorded under another location's item; dq-9); dr-131 item 2 (one rule for robot rows
+  [00.0b_Readiness_Check_2026-11-16.md:221]           recommended: carry dr-96 item 4's own words (
+  [00.0b_Readiness_Check_2026-11-16.md:224]           (raised by c; b wants it filed; a accepts it as a confirmation; c withdrew it in round 3 - split 3). worded
+  [00.0b_Readiness_Check_2026-11-16.md:243]           clause. c carried it in round 1; a and b do not (it sits in the sentence beginning
+  [00.0b_Readiness_Check_2026-11-16.md:254]           'bunger hills' appears only inside research-file names in the pre-trip
+  [00.0b_Readiness_Check_2026-11-16.md:254]           stands; nothing carried depends on it. a's name range
+  [00.0b_Readiness_Check_2026-11-16.md:254]           overstates by one: l1634 does not name the city (b). c's
+  [00.0b_Readiness_Check_2026-11-16.md:254]           counts to 32 and its 49 to 48 (a; c concurs). rc-21's
+
+⚠ TRIAGE BY HAND. A miss is not yet a defect: the pass quoting ITSELF, and
+  connective prose captured between two adjacent quotations, both show here.
+  Confirm each at source before calling it a defect.

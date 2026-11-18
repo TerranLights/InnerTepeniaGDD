@@ -1,0 +1,92 @@
+# Stale-anchor sweep, report mode only (never --apply). Tools/remap_line_citations.py (last change 2026-10-21), run 2026-11-16 ~08:00 over Casey's pass files: Steps -1 to 2 and Phase 2 against base 78c3c64f; Phases 3 to 10 against base 881cbfd1.
+## base 78c3c64f
+DRY RUN  base 78c3c64f  (1 file(s) searched)
+citations checked: 3   line numbers moved: 0   in 0 file(s)
+
+SKIPPED:
+    2  Step_1_and_2.md: name is ambiguous (34 files)
+    2  00_RUNBOOK.md: name is ambiguous (3 files)
+    1  Step_-1.md: name is ambiguous (34 files)
+DRY RUN  base 78c3c64f  (1 file(s) searched)
+citations checked: 2   line numbers moved: 0   in 0 file(s)
+DRY RUN  base 78c3c64f  (1 file(s) searched)
+citations checked: 0   line numbers moved: 0   in 0 file(s)
+
+SKIPPED:
+    1  Step_-1.md: name is ambiguous (34 files)
+DRY RUN  base 78c3c64f  (1 file(s) searched)
+citations checked: 0   line numbers moved: 0   in 0 file(s)
+DRY RUN  base 78c3c64f  (1 file(s) searched)
+citations checked: 1   line numbers moved: 0   in 0 file(s)
+DRY RUN  base 78c3c64f  (1 file(s) searched)
+citations checked: 3   line numbers moved: 0   in 0 file(s)
+
+SKIPPED:
+   21  02_Spine.md: name is ambiguous (10 files)
+DRY RUN  base 78c3c64f  (1 file(s) searched)
+citations checked: 1   line numbers moved: 0   in 0 file(s)
+
+SKIPPED:
+    1  00_RUNBOOK.md: name is ambiguous (3 files)
+## base 881cbfd1
+DRY RUN  base 881cbfd1  (1 file(s) searched)
+citations checked: 1   line numbers moved: 0   in 0 file(s)
+
+SKIPPED:
+    1  00_RUNBOOK.md: name is ambiguous (3 files)
+    1  Phase_3.md: name is ambiguous (34 files)
+DRY RUN  base 881cbfd1  (1 file(s) searched)
+citations checked: 1   line numbers moved: 0   in 0 file(s)
+
+SKIPPED:
+    1  00_RUNBOOK.md: name is ambiguous (3 files)
+    1  Phase_4.md: name is ambiguous (34 files)
+DRY RUN  base 881cbfd1  (1 file(s) searched)
+citations checked: 8   line numbers moved: 0   in 0 file(s)
+
+SKIPPED:
+    1  00_RUNBOOK.md: name is ambiguous (3 files)
+    1  Phase_5.md: name is ambiguous (34 files)
+DRY RUN  base 881cbfd1  (1 file(s) searched)
+citations checked: 1   line numbers moved: 0   in 0 file(s)
+
+SKIPPED:
+    1  00_RUNBOOK.md: name is ambiguous (3 files)
+    1  Phase_6.md: name is ambiguous (34 files)
+DRY RUN  base 881cbfd1  (1 file(s) searched)
+citations checked: 3   line numbers moved: 0   in 0 file(s)
+
+SKIPPED:
+    1  00_RUNBOOK.md: name is ambiguous (3 files)
+    1  Phase_7.md: name is ambiguous (34 files)
+DRY RUN  base 881cbfd1  (1 file(s) searched)
+citations checked: 2   line numbers moved: 0   in 0 file(s)
+
+SKIPPED:
+    1  00_RUNBOOK.md: name is ambiguous (3 files)
+    1  Phase_8.md: name is ambiguous (34 files)
+DRY RUN  base 881cbfd1  (1 file(s) searched)
+citations checked: 1   line numbers moved: 0   in 0 file(s)
+
+SKIPPED:
+    1  00_RUNBOOK.md: name is ambiguous (3 files)
+    1  Phase_9.md: name is ambiguous (34 files)
+DRY RUN  base 881cbfd1  (1 file(s) searched)
+citations checked: 1   line numbers moved: 0   in 0 file(s)
+
+SKIPPED:
+   12  00_Frame.md: name is ambiguous (10 files)
+    2  01_Inherited.md: name is ambiguous (10 files)
+    1  00_RUNBOOK.md: name is ambiguous (3 files)
+    1  Formative_History.md: no such file
+    1  02_Spine.md: name is ambiguous (10 files)
+## Which cited source files shifted lines since 78c3c64f (orchestrator script; difflib on each changed file outside Casey's folder that the pass cites with a line number)
+files changed since 78c3c64f (committed or not), outside Casey's folder: 18
+Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Cross_City_Culture_Differentiation_Table.md | cited-with-line ~1 | lines 174 -> 184 | lines shift from old L55
+Worldspace/Locations-and-Levels/Universal_Location_Methodology/00_RUNBOOK.md | cited-with-line ~22 | lines 3205 -> 3205 | no shift of existing lines (in-place edits or appended at the end)
+Worldspace/Locations-and-Levels/Universal_Location_Methodology/03_The_Phase_Spine.md | cited-with-line ~12 | lines 1202 -> 1202 | no shift of existing lines (in-place edits or appended at the end)
+Worldspace/Locations-and-Levels/Universal_Location_Methodology/Corpus_Reference_Sheets/Robot_Physiology_Quick_Reference.md | cited-with-line ~1 | lines 136 -> 168 | no shift of existing lines (in-place edits or appended at the end)
+Worldspace/Robot_Biology_and_Culture/Robot_Physiology_and_Cultural_Practices.md | cited-with-line ~1 | lines 439 -> 508 | no shift of existing lines (in-place edits or appended at the end)
+subnet/Casey.md | cited-with-line ~344 | lines 1 -> 0 | no shift of existing lines (in-place edits or appended at the end)
+--- spec, checked separately (its path holds a space): git diff -U0 78c3c64f -- spec | grep '^@@'
+@@ -7 +7 @@

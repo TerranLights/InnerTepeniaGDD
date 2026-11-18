@@ -1,0 +1,43 @@
+pass audited : Relung_Panen
+corpus mode  : default (own pass excluded)
+corpus files : 7426   chars: 127,279,957
+files audited: 00.1_Step_MINUS-1_Input_Contract.md
+own-pass mode: a quotation may also be found in this pass's OTHER files (never in its own file)
+
+=== POSITIVE CONTROLS ===
+  [easy                      ] FOUND     a terminus is nobody's midpoint
+  [HARD - blockquote wrap    ] FOUND     A pass may not proceed to Step 5 with a NEVER CITED row
+  [HARD - outside Worldspace ] FOUND     Paste raw QA scan output into the QA block. Never summa
+  [HARD - case mismatch      ] FOUND     YOU GO TO ESPERANZA AND YOU DO NOT COME HOME FOR FOUR Y
+  [HARD - long wrapped       ] FOUND     Different content is not differentiation; a different q
+
+  INSTRUMENT VALID: YES
+  NEGATIVE CONTROL (must be absent): PASS - absent
+
+=== QUOTATION AUDIT ===
+fragments tested (single-line, ellipsis-split, >=7 words): 26
+NOT FOUND in corpus: 17
+  of those, in TABLE CELLS : 3
+  of those, in PROSE       : 14
+
+  [00.1_Step_MINUS-1_Input_Contract.md:143]           claim is not citable (l256); dr-75's shares are
+  [00.1_Step_MINUS-1_Input_Contract.md:215]  [CELL]  (l124): the only spur length on the list, a floor at corroboration standing (req-1). struck: from
+  [00.1_Step_MINUS-1_Input_Contract.md:286]  [CELL]  claim not citable. struck: the opening clause, up to
+  [00.1_Step_MINUS-1_Input_Contract.md:289]  [CELL]  for export food, l1633); the 548 mw derived line (sm1-7; the 480,000 t unsourced, req-3); plant and route not ruled; the fission-f
+  [00.1_Step_MINUS-1_Input_Contract.md:378]           (l39); dr-19 l551 limits the window to the notable tier; l92 says the old share weights no longer produce the figures. the live ta
+  [00.1_Step_MINUS-1_Input_Contract.md:378]           at 3.73% (l67), and dr-34 puts the core state at
+  [00.1_Step_MINUS-1_Input_Contract.md:378]           (l789), outside the stated window. recorded, not adjudicated (rf-1; dq-13; req-8). the live table is the composition input. (c's c
+  [00.1_Step_MINUS-1_Input_Contract.md:383]           (l55), unverified, since the tool's word list is on no reader's list (c found it; b's caution narrowed it; c adopted the narrowing
+  [00.1_Step_MINUS-1_Input_Contract.md:400]           (l36, l71) general-knowledge standing under dr-34 l793; a answered that l793 concerns the register rows' gateway statements and th
+  [00.1_Step_MINUS-1_Input_Contract.md:412]           to line end); l146 (the opening clause, to its first full stop); l147-148; l157-159 (l158 from
+  [00.1_Step_MINUS-1_Input_Contract.md:412]           to its first full stop); l163-166; l204-205 (from
+  [00.1_Step_MINUS-1_Input_Contract.md:412]           to line end); l256 (the opening clause, up to
+  [00.1_Step_MINUS-1_Input_Contract.md:412]           the stale counts); l260 (the fission-first clause, a direction only); l267-268; l277 (
+  [00.1_Step_MINUS-1_Input_Contract.md:464]           ), l234-235 and l255 (stale deficit), l256 (mixed workforce bases), l277 (
+  [00.1_Step_MINUS-1_Input_Contract.md:487]           dr-82 item 1 (l1499): international immigration and
+  [00.1_Step_MINUS-1_Input_Contract.md:491]           (l223): l234-235's necessity clause (sm1-18) and l244-248's framing are the candidates found. would decide what the founding
+  [00.1_Step_MINUS-1_Input_Contract.md:500]           ( dr-4 l235); it crossed the line only through dr-90 's arithmetic. options: (a) band 5 on census i, the analysis deferred as dr-4
+
+⚠ TRIAGE BY HAND. A miss is not yet a defect: the pass quoting ITSELF, and
+  connective prose captured between two adjacent quotations, both show here.
+  Confirm each at source before calling it a defect.

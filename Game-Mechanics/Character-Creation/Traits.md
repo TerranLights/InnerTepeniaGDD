@@ -153,8 +153,16 @@ both need the same thing: at least one genuinely still-derelict, present-day-dis
 built into real quest content, on the Byrd model (a site nobody claimed at founding, only found much later).
 **Not designed yet — flagged, not solved.**
 
+### Whole-Game Modifier Traits *(added 2026-11-17)*
+
+Traits that change how every effect in the game works for the character, rather than trading one stat for another. Wild Wasteland, above, is the content-side cousin.
+
+| Trait Name | Bonuses | Penalties | Thematic Fit |
+|---|---|---|---|
+| **Opposite Day** *(added 2026-11-17 — the developer's own idea. See its own dedicated file, `Opposite_Day_Trait.md`, for the full note and its eight open questions)* | **Every penalty in the game becomes a bonus**, lasting and capped exactly as the penalty would be without the trait (heavy armor's −3 Agility while worn becomes +3 Agility while worn; only an always-permanent penalty becomes a permanent bonus); **an enemy's critical hit heals instead of harming, any overflow healing the active companion** (ordinary hits do normal damage; on Hardcore Mode, overflow with nowhere to go heals the enemy; decided 2026-11-17) | **Every bonus becomes a penalty**, for the same duration (+20 Lockpick for 60 seconds becomes −20 Lockpick for 60 seconds); skill magazines and books become worthless; **healing damages** — repair items and well-meaning companions become the real threat; **the character's own crits heal the enemy**; environmental hazards deal the opposite damage type (fire deals cold); **XP, reputation, carry weight, AP costs, prices and the skill checks themselves are exempt**; every inverted effect is clearly marked to the player | High-knowledge, high-risk builds: whoever learns what normally hurts can turn the game's whole cost structure (heavy armor, harmful consumables) into power |
+
 **Design Note**: Traits are flavorful and double-edged, directly supporting different district playstyles and hidden path accessibility.
 
 **Design note on the remaining gap, resolved 2026-07-24:** Might, Calculation, and Investigation previously didn't appear as any trait's *primary* bonus stat (only as penalties or conditional penalties) — the three Stat-Gap Traits above close this. Might and Nerve are still marked TENTATIVE pending their own MACHINE-stat design pass (see `TODO.md`).
 
-**Current base-game trait count, corrected 2026-07-28:** **37 traits** (10 Base + 7 AP-Economy + 14 Fallout-Adapted + 3 Stat-Gap + 1 Combat-Specialization + 1 Founding-Lineage + 1 Information/Cyber Warfare), well past the original 25 target — the previous "33" figure here was stale, predating the 4 FNV traits added 2026-07-28 (Wild Wasteland, Hot Tempered, Loose Cannon, Small Frame).
+**Current base-game trait count, corrected 2026-07-28:** **37 traits** (10 Base + 7 AP-Economy + 14 Fallout-Adapted + 3 Stat-Gap + 1 Combat-Specialization + 1 Founding-Lineage + 1 Information/Cyber Warfare); **38 as of 2026-11-17, with Opposite Day (+1 Whole-Game Modifier)**, well past the original 25 target — the previous "33" figure here was stale, predating the 4 FNV traits added 2026-07-28 (Wild Wasteland, Hot Tempered, Loose Cannon, Small Frame).

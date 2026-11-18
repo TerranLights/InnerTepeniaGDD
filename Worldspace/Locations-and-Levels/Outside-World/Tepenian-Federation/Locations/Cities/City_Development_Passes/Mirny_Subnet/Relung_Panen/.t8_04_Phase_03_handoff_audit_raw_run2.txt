@@ -1,0 +1,58 @@
+pass audited : Relung_Panen
+phase files  : 2
+
+=== CONTROLS (edit these per pass; they are what makes a zero trustworthy) ===
+  PHASES WITH A FORMAL SWEEP BLOCK (found in this pass): 2, 3
+  PHASES WITH NO TRACE OF A SWEEP (found in this pass)  : none
+  SELF-TEST (fixed positive and negative strings)       : passed
+  INSTRUMENT VALID: YES - the detector separates a formal block from no block on the built-in controls
+
+  phase | outbound | sweep    | rows | verdict
+  ------+----------+----------+------+---------
+      2 |        0 | FORMAL   |   18 | n/a - nothing addressed to it
+      3 |        0 | FORMAL   |   28 | n/a - nothing addressed to it
+
+TOTAL outbound handoff rows: 33
+PHASES WITH ROWS ADDRESSED TO THEM AND NO ENUMERATION: 0
+
+=== outbound rows, per target, for hand reconciliation ===
+  -> Phase 4:
+       [04_Phase_02_Composition_and_Arrival.md]  | **Phase 4** | HF2-1 | Whose ordinary day: 32 stocks with no predominant row, nearly al
+       [04_Phase_02_Composition_and_Arrival.md]  | **Phase 4** | HF2-2 | The year's structure (`DR-137` item 8): the drains before the me
+       [04_Phase_02_Composition_and_Arrival.md]  | **Phase 4** | HF2-3 | Small rows' practices kept in households, with compromise | P2-2
+       [04_Phase_02_Composition_and_Arrival.md]  | **Phase 4** | HF2-4 | Whether the born-here and later residents know their ground was 
+       [04_Phase_03_Surface_and_Texture.md]  | **Phase 4** | HF3-1 | The day's sensory structure (`DR-137` item 8): the night quiet o
+       [04_Phase_03_Surface_and_Texture.md]  | **Phase 4** | HF3-2 | The year by surface: rock and grit in the frozen months, the mel
+       [04_Phase_03_Surface_and_Texture.md]  | **Phase 4** | HF3-3 | The ordinary household's thresholds: heated, possibly dry rooms 
+       [04_Phase_03_Surface_and_Texture.md]  | **Phase 4** | HF3-4 | Whether the born-here and later residents know their ground was 
+  -> Phase 5:
+       [04_Phase_02_Composition_and_Arrival.md]  | **Phase 5** | HF2-5 | Who the visitor is when nobody passes through: freight crews and
+       [04_Phase_02_Composition_and_Arrival.md]  | **Phase 5** | HF2-6 | What the one-door reasoning counts (`DEC-587`; Step 1 REQ-38), s
+       [04_Phase_02_Composition_and_Arrival.md]  | **Phase 5** | HF2-7 | Whether an arrival's first stay holds: housing ready on arrival,
+       [04_Phase_02_Composition_and_Arrival.md]  | **Phase 5** | HF2-8 | Casey as the arrival end of the spur, and the people door as the
+       [04_Phase_02_Composition_and_Arrival.md]  | **Phase 5** | HF2-9 | Whether arrival has a season (RF-101) | P2-10 (C) |
+       [04_Phase_03_Surface_and_Texture.md]  | **Phase 5** | HF3-5 | First contact by door: overland, the long road's end and a basin
+       [04_Phase_03_Surface_and_Texture.md]  | **Phase 5** | HF3-6 | The doors as sounds and seasons: aircraft on lake ice heard acro
+  -> Phase 6:
+       [04_Phase_02_Composition_and_Arrival.md]  | **Phase 6** | HF2-10 | The meaning a city may make of a founding few, a road everyone 
+       [04_Phase_02_Composition_and_Arrival.md]  | **Phase 6** | HF2-11 | The founding text's recoding of a compelled exile as a choice, 
+       [04_Phase_02_Composition_and_Arrival.md]  | **Phase 6** | HF2-12 | Whether the one-way election is felt here (Step 1 RF-31) | P2-1
+       [04_Phase_03_Surface_and_Texture.md]  | **Phase 6** | HF3-7 | What the texture offers meaning: what the stillness keeps; given
+  -> Phase 7:
+       [04_Phase_02_Composition_and_Arrival.md]  | **Phase 7** | HF2-13 | Who works the research stake and the haul, and whether either, 
+       [04_Phase_02_Composition_and_Arrival.md]  | **Phase 7** | HF2-14 | Where decisions fall on arrival (outside the city; the treaty's
+       [04_Phase_03_Surface_and_Texture.md]  | **Phase 7** | HF3-8 | The set-point institutions as workplaces (growing rooms shedding
+  -> Phase 8:
+       [04_Phase_02_Composition_and_Arrival.md]  | **Phase 8** | HF2-15 | Language: the dominant language as every room's common tongue; 
+       [04_Phase_02_Composition_and_Arrival.md]  | **Phase 8** | HF2-16 | Small rows' practices and whether any institution holds them; t
+       [04_Phase_03_Surface_and_Texture.md]  | **Phase 8** | HF3-9 | What any built form must answer (rock against wet or made ground
+  -> Phase 9:
+       [04_Phase_02_Composition_and_Arrival.md]  | **Phase 9** | HF2-17 | Which way the builds and senses of robots built here lean, from
+       [04_Phase_02_Composition_and_Arrival.md]  | **Phase 9** | HF2-18 | The two halves' different arrival records (RF-105); the foundin
+       [04_Phase_02_Composition_and_Arrival.md]  | **Phase 9** | HF2-19 | The native human's standing under the draft, after the develope
+       [04_Phase_02_Composition_and_Arrival.md]  | **Phase 9** | HF2-20 | Commonality by shared work and the small rows' practices, carri
+       [04_Phase_02_Composition_and_Arrival.md]  | **Phase 9** | HF2-21 | The human–robot baseline standing on the forfeiture for later e
+       [04_Phase_03_Surface_and_Texture.md]  | **Phase 9** | HF3-10 | Which way the senses of robots built here lean, as a tendency f
+  -> Phase 10:
+       [04_Phase_02_Composition_and_Arrival.md]  | **Phase 10** | HF2-22 | No known resident, founder or arrival is named (spec L285); a 
+       [04_Phase_03_Surface_and_Texture.md]  | **Phase 10** | HF3-11 | Places that now have a look and a sound, to be named only once

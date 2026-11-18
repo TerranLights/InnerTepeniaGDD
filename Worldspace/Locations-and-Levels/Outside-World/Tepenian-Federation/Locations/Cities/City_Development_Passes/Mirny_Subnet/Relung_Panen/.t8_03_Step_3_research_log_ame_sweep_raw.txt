@@ -1,0 +1,26 @@
+  HIT   Relung_Panen_Research_Log.md:63  minimise  | - #4 result: USED. Airservices ERSA YWKS: operational late Oct to early Mar; AAD 2023: first flight 27 Oct, flights until temp rises above -
+  HIT   Relung_Panen_Research_Log.md:114  modelled  | - #23 result: ORN. Leuven (Aquafin) full-scale struvite: centrate carried 15% of plant P load, process roughly halved it (return load, not h
+  HIT   Relung_Panen_Research_Log.md:115  modelling  | - #24 result: USED (mechanism). FAO-indexed modelling study: ~60% of P waste in a food system from human excreta; recycling excreta has the 
+  HIT   Relung_Panen_Research_Log.md:154  Neighbour  | - #38 result: USED (mechanism). Snowy Mountains Authority: free English classes in camps and townships; Good Neighbour Council branch; Inter
+  HIT   Relung_Panen_Research_Log.md:159  centre  | #41 run: Bonegilla migrant reception centre processing then placement onward travel work allocation
+  HIT   Relung_Panen_Research_Log.md:275  Centre  | - #84 result: USED. NIBIO Tromso: since 1923, northernmost soil and plant research station; Centre for Arctic Agriculture 2021 https://nibio
+  HIT   Relung_Panen_Research_Log.md:296  metres  | #93 run: Bunger Hills elevation highest hill metres relief topography oasis
+  HIT   Relung_Panen_Research_Log.md:422  tonne  | #140 run: phosphorus removed in harvested vegetables kg P per tonne fresh weight lettuce tomato nutrient removal
+  HIT   Relung_Panen_Research_Log.md:427  tonne  | - #140 result: ORN/DEAD-S for the figure. Romaine leaf P ~6.1 g/kg dry (ASU LCA) https://keep.lib.asu.edu/system/files/c31/ASU-SSEBE-CESEM-2
+  HIT   Relung_Panen_Research_Log.md:439  mould  | - #145 result: USED. Reserves must rotate because grain quality decays; China sells aged soybeans before quality loss; corn in storage damag
+  HIT   Relung_Panen_Research_Log.md:521  organisms  | - #25 · WebSearch · RT-4/RT-13 · `Antarctic station soil made from imported compost greenhouse soil biosecurity ban Antarctic Treaty non-nat
+  HIT   Relung_Panen_Research_Log.md:534  towards  | - #35 · WebSearch · RT-7 · `Bunger Hills White Smoke Lake automatic weather station 1992 1993 mean temperature wind 4.6 m/s solar radiation 
+  HIT   Relung_Panen_Research_Log.md:545  Neighbour  | - #43 · WebSearch · RT-11 (L152) · `Snowy Mountains Scheme migrants camps common language English classes mixing nationalities work crews so
+  HIT   Relung_Panen_Research_Log.md:571  litres  | - #63 · WebSearch · RT-19/RF-72 · `Antarctic station water supply from lake pumping heated intake winter ice cover freshwater lake drawdown`
+  HIT   Relung_Panen_Research_Log.md:587  endeavourcentre  | - #75 · WebSearch · RT-26 (L155) · `passive solar heating high latitude winter solar gain negligible 66 degrees latitude December June irrad
+  HIT   Relung_Panen_Research_Log.md:588  borealis  | - #76 · WebSearch · RT-26 (L185) · `greenhouse light pollution night sky glow lighting curtains bylaw Leamington skyglow measurement` · CBC 
+  HIT   Relung_Panen_Research_Log.md:709  centre  | | 12 | WS | RT-9/RT-6 | "Bunger" oasis lake ice break-up timing January moat open water lakes summer | Doran et al. 1996: most lakes in the 
+  HIT   Relung_Panen_Research_Log.md:719  metres  | | 22 | WS | X-6/RT-27/REQ-66 | Bunger Hills maximum elevation metres above sea level hills relief "Bunger Hills" rise to | Florinsky & Zharn
+  HIT   Relung_Panen_Research_Log.md:757  centre  | | 57 | WS | RT-28/X-5 | Bunger Hills vegetation mosses lichens cover soil organic matter percent topsoil humic | Flora only algae, fungi, mo
+  HIT   Relung_Panen_Research_Log.md:763  centre  | | 62 | WS | RT-26 | urban heat island Arctic city winter magnitude degrees Norilsk Murmansk Fairbanks anthropogenic heat calm conditions inv
+  HIT   Relung_Panen_Research_Log.md:804  centre  | | 96 | WS | RT-15 | midnight sun towns daily life shops hours children bedtime Tromsø Norway summer night light routines residents | Shops k
+  HIT   Relung_Panen_Research_Log.md:819  Neighbour  | | 107 | WS | RT-11 | Snowy Mountains Scheme migrant workers camps many nationalities how they lived together English language mixed crews so
+  HIT   Relung_Panen_Research_Log.md:832  cancelled  | | 117 | WS | RT-7 | Norilsk school classes cancelled temperature wind chart activated days younger pupils "актированные дни" wind speed thre
+  HIT   Relung_Panen_Research_Log.md:868  centred  | | 143 | WS | RT-19/RT-20 (pass 2) | Algae River extensive drainage system Bunger Hills Polar Record flow summer discharge lakes connected to
+  HIT   Relung_Panen_Research_Log.md:868  centred  | | 143 | WS | RT-19/RT-20 (pass 2) | Algae River extensive drainage system Bunger Hills Polar Record flow summer discharge lakes connected to
+British-form hits (excluding kept 'judgement'): 25 ; kept 'judgement': 0

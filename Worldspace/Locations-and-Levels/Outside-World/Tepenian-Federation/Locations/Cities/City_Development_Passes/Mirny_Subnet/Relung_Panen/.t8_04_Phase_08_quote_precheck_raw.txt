@@ -1,0 +1,4 @@
+target: 04_Phase_08_Making.md
+sources: 36 list entries; own-pass files: 30 (dot-files and superseded files excluded)
+quoted fragments (>=3 words, ellipsis-split): 106
+found in sources at admitted ranges: 106 | found only in the pass's own files: 0 | NOT FOUND: 0

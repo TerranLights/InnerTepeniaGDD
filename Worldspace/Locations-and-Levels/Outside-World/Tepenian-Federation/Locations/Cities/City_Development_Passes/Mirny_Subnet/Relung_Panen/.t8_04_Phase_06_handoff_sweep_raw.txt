@@ -1,0 +1,12 @@
+normalized sweep for rows addressed to Phase 6 (emphasis stripped; 'Phase 6', 'Phases 6', a list naming 6, or a range spanning 6)
+00.1_Step_MINUS-1_Input_Contract.md 1 [472]
+00_Frame.md 1 [86]
+01_Inherited.md 1 [204]
+02_Spine.md 1 [341]
+02.1_Spine_Amendment_G7.md 0 []
+03_Research.md 0 []
+04_Phase_02_Composition_and_Arrival.md 9 [56, 125, 194, 245, 251, 252, 253, 287, 307]
+04_Phase_03_Surface_and_Texture.md 7 [33, 46, 51, 212, 231, 234, 264]
+04_Phase_04_Ordinary_Life.md 22 [44, 47, 53, 57, 58, 62, 63, 65, 66, 80, 82, 109, 150, 176, 241, 272, 291, 292, 323, 324, 333, 340]
+04_Phase_05_Relation_and_Geometry.md 19 [77, 82, 96, 98, 114, 117, 281, 282, 286, 299, 300, 301, 339, 358, 361, 363, 369, 370, 371]
+total lines 61

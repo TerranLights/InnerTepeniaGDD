@@ -1,0 +1,26 @@
+target: 04_Phase_02_Composition_and_Arrival.md
+sources: 22 list entries; own-pass files: 18 (dot-files and superseded files excluded)
+quoted fragments (>=3 words, ellipsis-split): 72
+found in sources at admitted ranges: 50 | found only in the pass's own files: 0 | NOT FOUND: 22
+  L42  phase / 2
+  L100  fewer than one in seven
+  L100  about one in eight
+  L138  no way home
+  L138  posted for good
+  L138  a party that did not choose each other
+  L155  nearly all, on the recorded channels
+  L183  a year turned by water
+  L338  one in eight
+  L373  few founders, second-stop arrivals, no through-traffic
+  L373  a later-filled terminus
+  L374  posted for good
+  L375  nearly all, on the recorded channels
+  L386  the repel side lands harder
+  L386  the door filters harder than the city pulls
+  L387  about one in eight
+  L389  yes, in the founding generation
+  L394  no visitor line is on the list (amendment l184)
+  L402  fresher than a late-era city's
+  L403  most of the city's people were born here
+  L403  the people of the exile generation are all dead at the height
+  L403  people of every row share every room

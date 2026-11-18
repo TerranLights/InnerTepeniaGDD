@@ -1,0 +1,4 @@
+target: 04_Phase_04_Ordinary_Life.md
+sources: 34 list entries; own-pass files: 22 (dot-files and superseded files excluded)
+quoted fragments (>=3 words, ellipsis-split): 15
+found in sources at admitted ranges: 15 | found only in the pass's own files: 0 | NOT FOUND: 0

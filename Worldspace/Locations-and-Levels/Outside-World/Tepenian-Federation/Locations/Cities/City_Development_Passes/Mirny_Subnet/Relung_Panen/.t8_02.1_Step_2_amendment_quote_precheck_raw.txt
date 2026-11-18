@@ -1,0 +1,5 @@
+target: 02.1_Spine_Amendment_G7.md
+sources: 21 list entries; own-pass files: 14 (dot-files and superseded files excluded)
+quoted fragments (>=3 words, ellipsis-split): 9
+found in sources at admitted ranges: 8 | found only in the pass's own files: 0 | NOT FOUND: 1
+  L55  a b c

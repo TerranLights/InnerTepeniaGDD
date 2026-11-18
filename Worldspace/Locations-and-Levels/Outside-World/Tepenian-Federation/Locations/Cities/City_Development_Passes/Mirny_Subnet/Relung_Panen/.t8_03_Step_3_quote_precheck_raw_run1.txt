@@ -1,0 +1,9 @@
+target: 03_Research.md
+sources: 22 list entries; own-pass files: 16 (dot-files and superseded files excluded)
+quoted fragments (>=3 words, ellipsis-split): 15
+found in sources at admitted ranges: 10 | found only in the pass's own files: 0 | NOT FOUND: 5
+  L487  every arcanet subnet tied into the same / regulated continental grid plausibly took a simultaneous electrical shock
+  L487  the grid's entire original architecture was designed / assuming the tower's regulating presence
+  L487  once actively regulated the continent's / entire power grid (not merely drew power from it)
+  L584  the largest / body of fresh water on the continent
+  L591  roughly 41 km / north-south by 51 km east-west

@@ -1,0 +1,11 @@
+section 1: heading L44, header L48 (5 cols), last table line L54, Casey row 5 cols
+section 2: heading L56, header L60 (3 cols), last table line L66, Casey row 3 cols
+section 3: heading L68, header L72 (3 cols), last table line L78, Casey row 3 cols
+section 4: heading L80, header L85 (3 cols), last table line L91, Casey row 3 cols
+section 5: heading L93, header L98 (5 cols), last table line L104, Casey row 5 cols
+section 6: heading L106, header L108 (5 cols), last table line L114, Casey row 5 cols
+section 7: heading L116, header L120 (5 cols), last table line L126, Casey row 5 cols
+section 8: heading L128, header L130 (3 cols), last table line L136, Casey row 3 cols
+section 9: heading L138, header L143 (3 cols), last table line L149, Casey row 3 cols
+section 10: heading L153, header L160 (3 cols), last table line L162, Casey row 3 cols
+dry run only

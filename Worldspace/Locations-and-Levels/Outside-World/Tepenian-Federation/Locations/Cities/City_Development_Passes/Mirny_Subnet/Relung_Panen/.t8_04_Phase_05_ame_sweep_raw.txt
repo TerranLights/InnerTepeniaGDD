@@ -1,0 +1,3 @@
+  HIT   04_Phase_05_Relation_and_Geometry.md:14  realistic  | - ✅ **`Ports.md`** at its 12 spans (35 lines): the gateway port's lines (L144, L149, L198), the realistic reach and the haul (L240, L244–247
+  HIT   04_Phase_05_Relation_and_Geometry.md:42  emphasis  | **Method.** The nine prior files (contract, frame, Step 1, spine, G7 amendment, Step 3 research, Phases 2, 3 and 4) were searched read-only 
+British-form hits (excluding kept 'judgement'): 2 ; kept 'judgement': 0

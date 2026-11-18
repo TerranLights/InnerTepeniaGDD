@@ -1,0 +1,4 @@
+target: 04_Phase_09_Populations.md
+sources: 59 list entries; own-pass files: 32 (dot-files and superseded files excluded)
+quoted fragments (>=3 words, ellipsis-split): 64
+found in sources at admitted ranges: 64 | found only in the pass's own files: 0 | NOT FOUND: 0

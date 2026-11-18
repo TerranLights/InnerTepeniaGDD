@@ -1,0 +1,33 @@
+pass audited : Relung_Panen
+corpus mode  : default (own pass excluded)
+corpus files : 7427   chars: 127,736,843
+files audited: 04_Phase_10_Catalog.md
+own-pass mode: a quotation may also be found in this pass's OTHER files (never in its own file)
+
+=== POSITIVE CONTROLS ===
+  [easy                      ] FOUND     a terminus is nobody's midpoint
+  [HARD - blockquote wrap    ] FOUND     A pass may not proceed to Step 5 with a NEVER CITED row
+  [HARD - outside Worldspace ] FOUND     Paste raw QA scan output into the QA block. Never summa
+  [HARD - case mismatch      ] FOUND     YOU GO TO ESPERANZA AND YOU DO NOT COME HOME FOR FOUR Y
+  [HARD - long wrapped       ] FOUND     Different content is not differentiation; a different q
+
+  INSTRUMENT VALID: YES
+  NEGATIVE CONTROL (must be absent): PASS - absent
+
+=== QUOTATION AUDIT ===
+fragments tested (single-line, ellipsis-split, >=7 words): 24
+NOT FOUND in corpus: 7
+  of those, in TABLE CELLS : 0
+  of those, in PROSE       : 7
+
+  [04_Phase_10_Catalog.md:177]           a household that knows the haul's day better than the date
+  [04_Phase_10_Catalog.md:430]           (as quoted at reader b l186); air's shelter held by a stillness it does not control, on the place's own phase 3 axis
+  [04_Phase_10_Catalog.md:430]           (as quoted at reader a l230), and its membership by sharing the inside, not kind. (b) earth water: water's one path kept open and 
+  [04_Phase_10_Catalog.md:491]           kept by the outside cold most of the year and by machine at midsummer
+  [04_Phase_10_Catalog.md:493]           a household that knows the haul's day better than the date
+  [04_Phase_10_Catalog.md:498]           (reader c l221). b: the word may reads as a rule, and rules are governance. merged
+  [04_Phase_10_Catalog.md:506]           round 3 reader a l49); line-given names (b and c withdrew their blanket refusal); dq-57 (b conceded); the mentor (b and c withdrew
+
+⚠ TRIAGE BY HAND. A miss is not yet a defect: the pass quoting ITSELF, and
+  connective prose captured between two adjacent quotations, both show here.
+  Confirm each at source before calling it a defect.

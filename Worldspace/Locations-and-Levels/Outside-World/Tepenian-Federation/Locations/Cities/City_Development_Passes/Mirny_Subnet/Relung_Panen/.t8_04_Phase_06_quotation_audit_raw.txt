@@ -1,0 +1,34 @@
+pass audited : Relung_Panen
+corpus mode  : default (own pass excluded)
+corpus files : 7427   chars: 127,605,257
+files audited: 04_Phase_06_Meaning.md
+own-pass mode: a quotation may also be found in this pass's OTHER files (never in its own file)
+
+=== POSITIVE CONTROLS ===
+  [easy                      ] FOUND     a terminus is nobody's midpoint
+  [HARD - blockquote wrap    ] FOUND     A pass may not proceed to Step 5 with a NEVER CITED row
+  [HARD - outside Worldspace ] FOUND     Paste raw QA scan output into the QA block. Never summa
+  [HARD - case mismatch      ] FOUND     YOU GO TO ESPERANZA AND YOU DO NOT COME HOME FOR FOUR Y
+  [HARD - long wrapped       ] FOUND     Different content is not differentiation; a different q
+
+  INSTRUMENT VALID: YES
+  NEGATIVE CONTROL (must be absent): PASS - absent
+
+=== QUOTATION AUDIT ===
+fragments tested (single-line, ellipsis-split, >=7 words): 28
+NOT FOUND in corpus: 8
+  of those, in TABLE CELLS : 0
+  of those, in PROSE       : 8
+
+  [04_Phase_06_Meaning.md:15]           l363; datasheet l15; physiology l142-170, closing at l170
+  [04_Phase_06_Meaning.md:142]           research l285); everyone meets the melt as consequences (
+  [04_Phase_06_Meaning.md:406]           its axis wording, its lovability clause in t5 and its passer-through mark; b's
+  [04_Phase_06_Meaning.md:406]           in the resident sentence, p6b-107's no-drift clause, p6b-123's refusal finding, the hedge omission, p6b-dq-101 and the
+  [04_Phase_06_Meaning.md:406]           wording; c's spec l26-28 row, its persons reading, its reason for
+  [04_Phase_06_Meaning.md:406]           its dated category 3 rows and the juxtaposition drawn from one of them
+  [04_Phase_06_Meaning.md:418]           (readers gave l103-107, l106-107); physiology l173-174 for the religion-and-community sentence (c's round 3); amendment l136 for
+  [04_Phase_06_Meaning.md:418]           (b gave the pick's line, l198); 00d l167 for
+
+⚠ TRIAGE BY HAND. A miss is not yet a defect: the pass quoting ITSELF, and
+  connective prose captured between two adjacent quotations, both show here.
+  Confirm each at source before calling it a defect.

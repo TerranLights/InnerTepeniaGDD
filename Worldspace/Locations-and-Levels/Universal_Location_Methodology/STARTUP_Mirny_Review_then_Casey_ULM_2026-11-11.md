@@ -226,3 +226,15 @@ When Casey's Step 10 is recorded (Section 3, item 8: the record files, the track
    item 1). Casey's progress file is not Relung Panen's; that run keeps its own, `RUN_PROGRESS_Relung_Panen.md`.
 4. **After Relung Panen:** no further city starts. The one-week pause on all ULM runs for the DCI follows (run by a parallel session in
    another repo); the next run, probably Kunlun, waits for the developer's word.
+5. **The start time is 05:02, exactly (developer, 2026-11-16: *"I wanted it to start at 5:02am"*).** A recurring job runs late by a
+   fixed offset of up to 30 minutes (the "3 5" job fired at 05:33), so on 2026-11-16 05:29 the recurring job `1f3a23b9` was deleted and replaced
+   by **one-shot jobs, one per morning at 05:02** (`cron: "2 5 <day> 11 *"`, `recurring: false`, the 0.2 prompt word for word):
+   `9cd322c0` (11-17), `d5d22c33` (11-18), `eb729ee3` (11-19), `d1e1d297` (11-20), `21e6cf2e` (11-21), `4576ccf8` (11-22),
+   `f5813faf` (11-23). **This replaces 0.1's and 7.4's recurring job:** one-shot jobs do not expire after 7 days, so there is nothing
+   to renew; if the run reaches the last one, add more the same way. **At the handover (item 1 above):** delete every remaining Casey
+   one-shot job (`CronList`, then `CronDelete` each) and create Relung Panen's as its startup file Section 7 says.
+6. **No ULM window from 2026-11-22 (developer, 2026-11-16 05:30: *"cancel the ones beginning from the 22nd onwards, because next week, I'll be
+   going through and doing prepartory "lead-sheets" for the DCI"*).** Jobs `4576ccf8` (11-22) and `f5813faf` (11-23) deleted; the last
+   Casey morning is **2026-11-21** (`21e6cf2e`). **Never schedule a ULM job on or after 2026-11-22** until the developer says the DCI
+   week is over. The handover (items 1–4) still applies inside this week; Relung Panen's jobs stop at 2026-11-21 too.
+7. **Standing practice from 2026-11-16 (developer, 2026-11-16 07:10):** *"During the productive hours (5:00am to 3:00pm, with the wrap-up beginning at 2:00pm), once one Step/Phase is complete, any and all questions and/or decisions that you need from me, just log in the questions decisions file, and then continue with the next Step/Phase."* **Never stop between units to report or wait;** questions go to the decisions file on their recommended answer, PROVISIONAL, and the run continues. **New units may start until 14:00** (this replaces 0.3's 13:30); 14:00–14:59 is the wrap-up. Also, by the developer's word the same day: pre-build the next units' lists and briefs, prepare the next unit while readers run, and report one short line per finished step.
