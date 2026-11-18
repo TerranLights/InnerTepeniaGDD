@@ -3162,10 +3162,399 @@ its Element (the Spine clause that ruling named no longer appears in the pass; n
 
 *Not carried:* C's DQ-203 (whether to catalog the per-ground sun-return now as a rule with no dates). All three readers already do so (P10-48), so it is not a live choice; C withdrew it in Round 3.
 
+### DEC-624 · OPEN · 2026-11-18 · Relung Panen ULM run, the research supplement (DQ-58)
+*From `03.1_Research_Supplement.md` L323, copied verbatim:*
+- **DQ-58 · The gulf airports' annual open schedule, given the actual climate** (`DEC-598`; `DR-140` item 8; research DQ-35; T-1). **What the site and its climate say:** the gulf's ice is perennial, fresh, about 3 m in summer and never opens (RS-1); in the one season measured on site, from late January to mid-February, its surface was flat, undecayed and judged fit for heavy wheeled aircraft, but that record began after the warm core (RS-2); the weak layer is a 30 cm porous snow-ice skin with zoned dust pits and tidal cracks at the shores, one zone pit-free and already used by ski aircraft, and little snow to cap or pack it (RS-3, RS-4); ski aircraft fly to the oasis through the whole summer (RS-C6). The central oasis's measured December and January are above freezing in both summers (+1.7, +1.8 °C two-year means), February −2.25, March −5.95 (RS-20); the constructed means are December −0.0, January +0.6, February −2.1 °C, with computed average highs +3.6, +4.2 and +1.3 °C (spec L179–180, L190 `[computed, REQ-52]`) and 71 °C-days above freezing (`Climate.md` L23); the shelf beside it melts first and longest on the oasis's side, about a month a summer and once 44 days, and varies widely between years (RS-5); fresh ice loses reliable strength once candled above about −4.5 °C, and the comparables' criterion for wheeled jets is ice temperature at depth (RS-6; S3-C6); Algae Lake's outlet brings summer water into the gulf (RS-8). Winter limits are light (about 2.7 h in June, spec L155) and storms, whose season is not known (RS-22), not the ice; the sea is shut in winter (`Ports.md` L298). **Options (the union of the readers'):** **(a)** the whole door open all year except a summer pause of about mid-December to late January, longer in a warm summer, set each year by the ice (A's first recommendation, withdrawn by A in Round 3); **(b)** a door split by aircraft and gated by the surface: light aircraft on the pit-free zone in every month; heavy wheeled freighters fly only while the measured ice passes its test (temperature at depth, candling, ponding, the pits), so the cargo door narrows in warm spells, expected about mid-December to late January and wider in a warm summer, with no fixed closure (B and C); **(c)** a fixed summer pause for heavy wheeled flights, about mid-December to late January, perishables then by road (C's option), or one pause for both airports, December to February (B's option); **(d)** a surface rule and no dates: the door is open whenever the ice passes its test (B's option; C's gating); **(e)** open all year with no pause, by canon-scale fiction (B's option) or by capping and patching (A's option: not supported, no snow for a cap and patches weaker than the ice); **(f)** a summer season only, about late October to early March, as real programs run (A's option: rejected on the climate, since the ice is at its best in winter); **(g)** a summer shift to the Apfel blue-ice strip (A's option: against, it stays survey-only, `Airports.md` L21, and the south-east's blue ice melts first); **(h)** record the December–February risk window with no rule (C's option, the current working record); **(i)** wait for the gulf's own multi-year record (all three; REQ-226, REQ-227). **Recommended, PROVISIONAL: (b), with (d) as its rule and (i) as its check.** It is what the site's record and its climate support: the ice never goes, the surface is the limit, and the documented hazard is a warm skin for heavy wheels and the pits, not loss of the door; it keeps the winter door fully open when the sea is shut, keeps the people door open every month, and narrows only the heavy-freight door in warm weeks, which are also the weeks the spur weakens (RF-88). **Split, named:** in Round 3 A and B hold no written closure, the mid-December to late January weeks carried as an expectation; C moved toward B's dated envelope as the expected window of a heavy-freight pause; the narrower reading, an expectation and no fixed closure, is recommended; B's light-and-medium and C's light-only wording for the every-month door are written as light aircraft, the narrower. **Consequence on this place's lines:** in the core weeks perishables wait in the warm chain or go frozen by road (S3-36). The keeper of the ice is not written (`DR-137` item 11; REQ-237).
+
+### DEC-625 · OPEN · 2026-11-18 · Relung Panen ULM run, the research supplement (DQ-59)
+*From `03.1_Research_Supplement.md` L324, copied verbatim:*
+- **DQ-59 · The ordinary, non-food outbound load** (`DEC-615`; Phase 7 DQ-49, REQ-163; T-2). **Options (the union):** **(a)** the backhaul: scrap metal, broken machines and fittings, spent batteries, used oil, tires, crates and empties, out by the spur and the cargo apron (RS-9); **(b)** a rare specialty stone from the southern charnockite, dressed blocks by road, with crushed stone for the city's own building from the same pits (RS-10; conditional on REQ-233); **(c)** glacier or lake ice or water (RS-11: weak; the lakes are winter water and the cold chain's room is the food's); **(d)** non-food plants from the glazed and lit rooms: young plants, transplants, seedlings, flowers (RS-11: inside the vocation); **(e)** know-how and trained people from the research stake (RS-11: a service); **(f)** collectible issues (RS-11: an authority's act, governance); **(g)** crushed rock (RS-10: fails on the place's own lines); **(h)** none: the gap stays recorded as an absence, the free tier's work unwritten. **Recommended, PROVISIONAL: (a) as the ordinary, neutral outbound load, with (b) left open as the only sold candidate and (h) holding for a sold export until the rock's use is ruled.** The backhaul is ordinary and emotionally neutral on every comparable without inventing a trade, and its first reason, that the waste cannot stay, holds on the place's lines; whether it fills a light leg is unwritten (REQ-232). It is a flow, not a sale: if the developer wants a sold export unrelated to the headline, the stone is the only candidate the rock supports, and it rests on a fact not yet known. **Split, named:** in Round 1 A and B recommended (a) and C recommended (b) with (h); C withdrew its recommendation of the stone in Round 3, and B adopted the stone as conditional; all three now hold this answer.
+
+### DEC-626 · OPEN · 2026-11-18 · Relung Panen ULM run, the research supplement (DQ-60)
+*From `03.1_Research_Supplement.md` L325, copied verbatim:*
+- **DQ-60 · The measured central-oasis months beside the constructed curve** (T-5; `DEC-575`). **Options:** **(a)** carry the measured 1956–58 months as the central-oasis column beside the constructed, lake-station-anchored column, each with its station `[PA-3]`, siting open; **(b)** replace the constructed column; **(c)** keep only the constructed column. **Recommended, PROVISIONAL: (a)**, which extends `DEC-575`'s both-records rule to the months and changes no figure the run already wrote; carry the two cautions (two years are not a climatology; June as the coldest month rests on two winters). *(B, RSB-DQ-103; supported by A and C in Round 3.)*
+
+### DEC-627 · OPEN · 2026-11-18 · Relung Panen ULM run, Step 5 (reconciliation) (DQ-61)
+*From `05_Reconciliation.md` L545, copied verbatim:*
+- **DQ-61 · Does the glazed houses' summer sun lower the lit load in canon's power model?** `DR-96` item 4 (rulings L1633) sizes the export food's power as if every indoor crop were lamp-lit, "the 400 km² outdoor belt the only sunlit part", about 0.5 GW; `DR-141` item 1 (L2044) has "glazed houses take the summer's unbroken sun". Options: **(a)** the model stands as a sizing rule: every indoor kilogram counts as lit, the sun through the glass is an unsized summer supplement, no figure moves, and "the only sunlit part" reads as the only sunlit part counted; **(b)** the glazed share's summer sun offsets part of the lit load, a Division of Industry re-run (national), with the stacked racks unchanged; **(c)** the glazed houses grow outside the export model, for the city's own food or for research; **(d)** hold until canon's national growing-room form is read at its building lines (REQ-241). **Recommended, PROVISIONAL: (a), with (d) read later.** It keeps every written figure, matches the ruling's own reasons (heat loss and the glow, not light), and the energy finding claims no magnitude beyond the model's (S5-80); (b) would reopen a ruled figure on an unsized share and move `16` and `18` nationally; (c) adds a function no line writes. *(A and B, the same question; C supports (a) with (d).)*
+
+### DEC-628 · OPEN · 2026-11-18 · Relung Panen ULM run, Step 5 (reconciliation) (DQ-62)
+*From `05_Reconciliation.md` L546, copied verbatim:*
+- **DQ-62 · Do Phase 9's household lines "a dish" (P9-5, L225) and "an origin feast" (P9-25, L253) stand under `DEC-610` and `DEC-611`?** Options: **(a)** both stand as unnamed function statements about origin forms kept at home; **(b)** both stand, with "an origin feast" read conditionally (*if a household keeps one*), since observances wait for the stage after the cultural synthesis; **(c)** both phrases are withheld until the cultural synthesis. **Recommended, PROVISIONAL: (b).** No dish or feast is named either way; (b) keeps the household finding and makes no observance a fact before its stage; (c) loses a finding that rests on the composition, not on a cuisine. *Split:* B filed it and in Round 3 withdrew it as a question, keeping the lines as a boundary note; A and C hold (b). It is kept so the developer can confirm the conditional reading written at S5-46.
+
+### DEC-629 · OPEN · 2026-11-18 · Relung Panen ULM run, Step 5 (reconciliation) (DQ-63)
+*From `05_Reconciliation.md` L547, copied verbatim:*
+- **DQ-63 · What does "wild birds at the margins" (`DEC-602` (d)) mean?** The ruling was given before the supplement placed the nesting through the southern hills, 25–155 m (RS-16, RS-C1). Options: **(a)** "margins" means outside the kept city, wild and unhoused; the nests are in the southern hills; **(b)** "margins" means the lake and ice margins, as research L255 and L258 had it before the correction; **(c)** both, with the nesting in the hills and foraging at the city's edges and its food waste (RS-16's skuas). **Recommended, PROVISIONAL: (a), with (c)'s skua clause.** (a) fits the correction and the ruling at once; (b) rests on a corrected line. *Split:* B filed it and in Round 3 withdrew it as not a real choice; A and C hold (a) with (c)'s clause. It is kept because the ruling predates the correction, so what its word means is the developer's to say.
+
+### DEC-630 · OPEN · 2026-11-18 · Relung Panen ULM run, Step 5 (reconciliation) (DQ-64)
+*From `05_Reconciliation.md` L548–L550, copied verbatim:*
+- **DQ-64 · Phase 8 P8-24 (L214), "music here is household-held and plural", under `DEC-617`.** Options: **(a)** read it as the place's conditions only (households keeping origin forms nearer Act 1), every music claim held for the regional derivation after the DCI; **(b)** withdraw P8-24, keeping only P8-25's sound environment; **(c)** keep it as written. **Recommended, PROVISIONAL: (a).** It keeps what the place's conditions allow (`DEC-611`) and writes nothing about music itself. *(C; A and B hold (a).)*
+
+*Not carried as questions:* C's question on the standby generation (withdrawn in Round 3 as research; REQ-238) and C's question on P9-28's "carries none" (withdrawn in Round 3; answered at S5-42).
+
+### DEC-631 · OPEN · 2026-11-18 · Relung Panen ULM run, Step 5 (reconciliation) (DQ-65)
+*From `05_Reconciliation.md` L1013, copied verbatim:*
+- **DQ-65 · Does Upper Earth control this city's phosphorus input, as spec L245–247 says?** The spec's own conclusion-shaped line calls the claim load-bearing and an anchor for any pass; contract RF-5 found no source on the list, so the pass writes the dependency (spec L234) and not the control. Options: **(a)** leave the control unwritten and the line held as unsourced (PC-137); the pass stands as written; **(b)** rule the source and who controls it, nationally, and the pass may then write the exposure as a fact at the strength the ruling gives; **(c)** rule that the national recovery role (`DR-75`) means the city is not wholly dependent on an outside source, and the spec line is narrowed. **Recommended, PROVISIONAL: (a), with REQ-248 carried.** It adds nothing the lines do not give; (b) and (c) are national calls, and either would change Phase 7's order entries. *(A filed it; B and C hold it as a real national choice in Round 3. A offered to fold it into contract REQ-2 if one channel were preferred; it is kept, since the other two hold it.)*
+
+### DEC-632 · OPEN · 2026-11-18 · Relung Panen ULM run, Step 5 (reconciliation) (DQ-66)
+*From `05_Reconciliation.md` L1014, copied verbatim:*
+- **DQ-66 · The development brief's water premise** (L22–31: the water fact as the whole city; the cheapest water in the nation; no ice to melt), against the pass's finding (research S3-31: winter water from deep lakes under ice through heated intakes, on the supply) and its strongest finding, energy (S5-80). Options: **(a)** the pass stands, and the brief's opening is annotated as superseded framing (PC-108); **(b)** the pass stands, and a softer form, *plentiful but drawn through the supply*, goes to the cultural synthesis as a meaning question; **(c)** the developer holds the brief's premise as intended, and the pass's water findings are revisited against it. **Recommended, PROVISIONAL: (a), with (b)'s note.** The pass reached its water findings from admitted figures and research; (c) would rest a spine on a Tier 3 framing whose own figures (the superlative, the deficit) are already superseded. *Split: B filed it and in Round 3 withdrew it as a question (the brief is Tier 3 reasoning, not a ruling, so PC-108 carries it); A and C hold it, C because the brief is the developer's own framing. It is kept, as Part 1 kept DQ-62 and DQ-63 in the same position, so the developer can confirm the reading written at S5-148.*
+
+### DEC-633 · OPEN · 2026-11-18 · Relung Panen ULM run, Step 5 (reconciliation) (DQ-67)
+*From `05_Reconciliation.md` L1015, copied verbatim:*
+- **DQ-67 · The spec's conclusion-shaped lines L127 ("That tension is the city." … "it is empty because it is sealed.") and L244's "should anchor any pass", against the pass.** The pass's strongest finding is energy (S5-80), and the city's count is census arithmetic. Options: **(a)** leave the lines as written, excluded as conclusions, with a pointer to S5-80 added beside them after the run, an annotation that does not touch the lines (PC-134, PC-136); **(b)** annotate the lines in place as pre-pass readings; **(c)** replace L127 with the pass's finding; **(d)** strike them. **Recommended, PROVISIONAL: (a).** It keeps the author's original framing visible, the way the folder keeps its struck passages, and stops a later reader from taking it as the pass's conclusion; (c) and (d) erase lines the developer may value as a starting image. **L244's "breadbasket" is not in this question:** it is the one factual mismatch (spec L254 states the second agricultural region; `DR-71`) and goes to the docket (PC-135). *(One question, merged: B merged its S5BB-DQ-102 into C's S5BC-DQ-201 in Round 3; C then adopted B's form; A holds the same.)*
+
+### DEC-634 · OPEN · 2026-11-18 · Relung Panen ULM run, Step 6 (differentiate) (DQ-68)
+*From `06_Differentiation.md` L196, copied verbatim:*
+- **DQ-68 · Substitute 1 at Step 6, against `DR-136` item 6.** III.4 says run substitute 1 without fail (`04` L526); the rulings put earlier states after the pass by order (Phase 5 P5-9 L166; frame S0-9 L55). Options: **(a)** run it in a sequence form only, on facts the pass already writes, nothing new derived; **(b)** record it as not run until the history stage, the undated sequence lines cited; **(c)** run a full earlier-state comparison now. **Recommended, PROVISIONAL: (b).** It claims least against the rulings while keeping the sequence on record (S6-29); (a) is a founding-against-height comparison in form; (c) would write dated history in-run. *(Filed by A, S6A-DQ-1; B and C recommend (b); A's current view, record the sequence and do not run the comparison, is (b) in substance.)*
+
+### DEC-635 · OPEN · 2026-11-18 · Relung Panen ULM run, Step 6 (differentiate) (DQ-69)
+*From `06_Differentiation.md` L197, copied verbatim:*
+- **DQ-69 · How does a city's symbol pair reach the terminal differentiation check, when the city table has no symbol column?** III.0 was written from a symbol collision a differentiation guide could not see (`04` L459–462). Options: **(a)** add a write-only symbols section to the city table (Planet · Element · provenance note), a method change for every row, earlier rows filled at the terminal check from the registry, the runbook updated in the same commit; **(b)** leave the table as it is, and write an instruction in runbook Step 6, at this run's Step 9, that the terminal check reads `City_Symbol_Assignments.md` beside it; **(c)** a notes line under each row, or a pointer column in section 1, naming the registry row. **Recommended, PROVISIONAL: (b).** It adds no column a write-only row must fill blind, keeps the pair in the file that already owns it (Step 5 PC-86, L457), and closes III.0's gap (`04` L467) by instruction rather than by a second copy that could drift; (a) is the stronger guard and stays the developer's to choose, since it changes every city's row. *(A S6A-DQ-2, B S6B-DQ-101, C S6C-DQ-201; C withdrew its recommendation (a) in Round 3.)*
+
+### DEC-636 · OPEN · 2026-11-18 · Relung Panen ULM run, Step 7 (QA) (DQ-70)
+*From `07_QA_Gates.md` L807, copied verbatim:*
+- **DQ-70 · What does Gate 7 count: picks or calls?** The gate expects about 70–80% of researched picks to change a finding (`04` L216); this run's logs classify calls (310 of 409 classed calls changed a finding, 75.8%), and its per-pick column states no total; the picks were dispositioned as applies, research aim or does not apply (Q 28, R 47, N 24) and searched under research targets. *Options:* **(a)** count by pick, from Step 3's "Became" column and its supplement and Phase 10 equivalents; **(b)** count by classed call, as the logs do, with a rule that each log separates change from corroboration; **(c)** both, each labeled. *Recommended, PROVISIONAL:* **(c).** The call count is what the logs can give now; the pick count is what the gate's wording asks; showing both keeps either from passing for the other, and (b) alone loses nothing the logs found while leaving the gate's test unrunnable on picks. *(A S7A-DQ-1; B S7B-DQ-101: the same question and the same recommendation, merged; C supports (c).)*
+
+### DEC-637 · OPEN · 2026-11-18 · Relung Panen ULM run, Step 7 (QA) (DQ-71)
+*From `07_QA_Gates.md` L808, copied verbatim:*
+- **DQ-71 · The "no season" interior claims after the glazed houses** (Phase 8 L119, Phase 10 L113, Phase 10 L262; E7-8 to E7-10). Step 5 read Phase 3 P3-35 and Phase 10 P10-95 as holding "for the windowless racks only; the glazed houses carry the sky's season through the glass" (05 L167), but three lines making the same claim were not given that reading. *Options:* **(a)** amendment notes narrowing each line to the windowless racks, as Step 5 did for the other two; **(b)** read "no season" in those lines as the crop's (no harvest day) and leave them, with the glazed houses' seasonal light noted once at Phase 10; **(c)** hold all five lines until the glazed houses' share is known (REQ-241). *Recommended, PROVISIONAL:* **(a).** It is the reading Step 5 already chose for the same words, and it changes no axis (06 S6-45); (b) leaves the axis rationales saying the interior has no season while P10-50 says the houses are glazed; (c) waits on a figure no finding needs. *(C S7C-DQ-201; A and B support (a) in Round 3.)*
+
+### DEC-638 · OPEN · 2026-11-18 · Relung Panen ULM run, Step 8 (the Review Panel) (DQ-72)
+*From `08_Review_Panel.md` L704–L715, copied verbatim:*
+- **DQ-72 · The kept year's other side: the returner, the one who leaves before a year ends, and the human past keeping** (Gate 9's fire; RF-260;
+  S8-6, S8-17, S8-13; A S8A-DQ-1, B S8B-DQ-101, C S8C-DQ-201, one question). Membership turns on one kept water year (Phase 9 L224; `DEC-619`), and
+  the pass writes it for the newcomer only (Step 7 S7-45, S7-46). Does a resident who kept a year, left by the spur for years and returns still
+  belong, or must she keep a year again; does someone who leaves before the year ends restart it; and does a human who can no longer keep still
+  belong? **Options:** **(a)** a kept year stays kept, for the returner and for the human past keeping, and knowledge of the year is renewed only by
+  living it (RF-271) *(C)*; **(b)** a long absence or the end of one's keeping lapses it, and a water year lived again regains it *(A, B, C)*; **(c)**
+  a completed year stays kept and an unfinished one restarts *(B)*; **(d)** leave it unwritten until return itself is written (REQ-120) and the
+  population history is designed, with AM8-2's open entry applied meanwhile *(A, B)*. **Recommended, PROVISIONAL: (d)**, the view of all three
+  readers after Round 3 (C withdrew (a) for it). The return the rule would govern is itself open (REQ-120), the conversion moment is reserved
+  (Phase 5 RF-142), and a pass writes the height with no dated history (`DR-136` item 6); (a) to (c) each write a membership rule no line gives.
+  *A reading only, not a ground:* the lived year, "not written down" (Phase 9 L267), leans toward (b) *(B)*; P9-4's "having kept a year" and P9-31's
+  standing from what one has kept lean toward (a) *(C)*.
+
+### DEC-639 · OPEN · 2026-11-18 · Relung Panen ULM run, Step 8 (the Review Panel) (DQ-73)
+*From `08_Review_Panel.md` L716–L732, copied verbatim:*
+- **DQ-73 · Method: what counts as "an admitted or ruled line that shows the place knowingly holding the thing" for an `unmet` (runbook L2999;
+  `00f` L744–753)?** *(A S8A-DQ-2, B S8B-DQ-102, C S8C-DQ-202: three parts of one question, merged as all three readers propose in Round 3.)* It
+  decides this run's `unmet` count, now 1.
+  - **(i) Does a ruling that confirms a reading the pass proposed count as a ruled line, or stay the pass's own coinage?** Options: yes, once given;
+    no, it stays coinage; only where the ruling's own words state the place's knowing. **Recommended, PROVISIONAL: yes** *(all three)*: the coinage
+    bar exists to stop a pass certifying itself, and a developer ruling is not the pass's own voice. *On "no", S8-27 becomes `declined` and the count
+    is 0.*
+  - **(ii) Does a ruling reach beyond its own words (the kept year ranked above kind, carried to age)?** Options: yes, by the next category its order
+    displaces; no, its own words only. **Recommended, PROVISIONAL: its own words only** *(all three after Round 3; A withdrew "yes")*. *On "yes", S8-14
+    could be re-counted `unmet`.*
+  - **(iii) Does a ruled act with its stated in-world reason suffice, or must the line show the place holding the very thing the objection asks it
+    to give up?** Options: **(a)** a ruled act with its stated reason suffices *(B, C)*; **(b)** a ruled line is necessary but not sufficient: it must
+    show the place holding the very thing the objection asks it to give up, as a thing it would refuse to surrender *(A)*. **Recommended,
+    PROVISIONAL: (b)**, the reading that claims least, on which this file is written (S8-23 `declined`): rulings L2044 states the act's reason as heat
+    loss and the dimmed glow as its consequence, so what it shows the place knowingly holding is the heat, not the dimness. *Against it (B, C):* the
+    screens are drawn every winter night by the place's own hand for its own reason, which is knowing in the plain sense, and (b) would make `unmet`
+    unreachable for any act the lines record without a speaker. *On (a), S8-23 becomes `unmet` and the count is 2.*
+
+### DEC-640 · OPEN · 2026-11-18 · Relung Panen ULM run, Step 9 (the record) (DQ-74)
+*From `09_Record.md` L517–L522, copied verbatim:*
+- **DQ-74 · Where the ruled convergence rule sits in the runbook.** **(a)** appended to the end of runbook L2620 (Step 3, item 3.4), on the
+  same line, with the pointer in the generator method beside `DEC-594`'s counting rule; **(b)** a new item 3.4a on its own line after
+  L2620, the numbering frame named in the commit and every later brief's runbook spans recomputed; **(c)** inside LAW 0-R's "In practice"
+  line and its full copy in the disciplines file. **Recommended, PROVISIONAL: (a).** It sits where the runbook says how much a source may
+  carry, moves no cited line, and keeps a weighting rule out of a law about search depth that is stated in two places. *(A S9A-DQ-1; B
+  S9B-DQ-101; C withdrew (b) in Round 3.)*
+
+### DEC-641 · OPEN · 2026-11-18 · Relung Panen ULM run, Step 9 (the record) (DQ-75)
+*From `09_Record.md` L523–L526, copied verbatim:*
+- **DQ-75 · The two-stage Step 5 seal (MC-2).** **(a)** adopt it as the Step 5 rule whenever the read-last material is checked in a second
+  stage, worded as MC-2, appended to L2888; **(b)** keep it as a recorded technique the orchestrator may use; **(c)** do not adopt it.
+  **Recommended, PROVISIONAL: (a).** It held in this run, Step 7 relied on it, and the hash written into the file let this step re-check it
+  without the copy; its cost is four commands. RF-274's wider reach is not part of the question. *(A S9A-DQ-2; B S9B-DQ-102; C S9C-DQ-201.)*
+
+### DEC-642 · OPEN · 2026-11-18 · Relung Panen ULM run, Step 9 (the record) (DQ-76)
+*From `09_Record.md` L527–L531, copied verbatim:*
+- **DQ-76 · The selection-dependence sentence (MC-4).** **(a)** the ruling's sentences only, with nothing added; **(b)** add, as a separate
+  marked sentence after the ruled text, that places chosen because they match the location's own themes add no weight to a finding drawn from
+  those themes (06 L111). **Recommended, PROVISIONAL: (b).** Step 6 found the picks selection-dependent on the spec's own themes, and the
+  convergence rule would otherwise count that agreement as independent; either way the sentence stays outside the ruled text. *(C
+  S9C-DQ-202; A leans (b) on its merit; B takes no view on adoption and asks only that it stay outside the ruled text.)*
+
+### DEC-643 · OPEN · 2026-11-18 · Relung Panen ULM run, Step 9 (the record) (DQ-77)
+*From `09_Record.md` L532–L535, copied verbatim:*
+- **DQ-77 · The tool fixes (MC-30).** **(a)** approve fail-loud fixes now: a tool that cannot validate, or whose scope matches nothing, says so
+  and exits; **(b)** approve the full fixes now; **(c)** hold every tool change until the city corpus is done. **Recommended, PROVISIONAL:
+  (a).** Each failure here was a quiet zero or a plausible line routed around by hand, and a fail-loud fix changes no result a tool reports
+  when it works. *(A S9A-DQ-3; supported by B and C in Round 3.)*
+
+### DEC-644 · OPEN · 2026-11-18 · Relung Panen ULM run, Step 9 (the record) (DQ-78)
+*From `09_Record.md` L536–L541, copied verbatim:*
+- **DQ-78 · Step 6's two wide cells, already in the shared table** (S6-15, S6-24; REQ-268). **(a)** after the run, replace this city's own
+  row blind with the two cells narrowed to their axes (backup, assertions, a `diff` showing this row only), the lists kept in Step 6's III.0
+  items; **(b)** confirm that a cell may carry a list; **(c)** change the method so the row is inserted at Step 9, after Step 7's cell checks.
+  **Recommended, PROVISIONAL: (a), with (c) considered for later runs.** (b) contradicts "One AXIS per cell, never the content." (runbook
+  L3016), and (a) fixes this row without reading any other. *(C S9C-DQ-203; A S9A-DQ-4's (b) is the same act; B S9B-RQ-103 gives the same
+  routes.)*
+
+### DEC-645 · OPEN · 2026-11-18 · Relung Panen ULM run, Step 9 (the record) (DQ-79)
+*From `09_Record.md` L542–L546, copied verbatim:*
+- **DQ-79 · Spelling corrections inside an appended log** (REQ-266; `09.5_Log.md` L54). **(a)** an in-place word change, which moves no
+  line, with a dated note appended at the log's end; **(b)** corrections only as appended notes, the old spelling left in place; **(c)** quoted
+  source text keeps its source spelling. **Recommended, PROVISIONAL: (a).** It keeps the standing American English rule and keeps the log's
+  history visible; (b) would leave British forms standing; (c) conflicts with the startup's spelling rule. *(C S9C-DQ-204; A; B withdrew (b)
+  in Round 3.)*
+
+### DEC-646 · OPEN · 2026-11-18 · Relung Panen ULM run, Step 9 (the record) (DQ-80)
+*From `09_Record.md` L547–L550, copied verbatim:*
+- **DQ-80 · What the Step 9 QA block holds.** **(a)** the verdicts, errata and figures by line, the raw outputs pointed to in the QA file by
+  line and only Step 9's own scans pasted; **(b)** every raw block pasted again into the record; **(c)** a summary only. **Recommended,
+  PROVISIONAL: (a).** It keeps the raw output whole in one place, as the paste rule intends, without a second copy that could drift; (c) is
+  what the paste rule forbids. *(B S9B-DQ-103; adopted by A and C in Round 3.)*
+
+### DEC-647 · OPEN · 2026-11-18 · Relung Panen ULM run, Step 10 (the readiness check) (DQ-81)
+*From `10_Readiness_Check.md` L609–L613, copied verbatim:*
+- **DQ-81 · Where the next subject's run files are drafted.** **(a)** in a fresh session that has never read this pass; **(b)** in this
+  session as planned, procedure lines only, with the next run's first step an audit of every inherited line for this pass's material (this
+  pass's startup Section 0.4 item 1); **(c)** as planned, with no audit. **Recommended, PROVISIONAL: (b).** It keeps the developer's
+  2026-11-17 plan and closes the `M-355` shape with the audit that worked here; (a) costs a session, and (c) repeats the measured failure.
+  *(A S10A-DQ-1; B and C concur in Round 3.)*
+
+### DEC-648 · OPEN · 2026-11-18 · Relung Panen ULM run, Step 10 (the readiness check) (DQ-82)
+*From `10_Readiness_Check.md` L614–L621, copied verbatim:*
+- **DQ-82 · The memory entries that need a band for the next subject** (S10-1). **(a)** band all ten files now, naming the next subject
+  immediately after each frontmatter, and decide the three borderline files one by one; **(b)** band the six Group 1 files now, and decide
+  Group 2's four with the three borderline files one by one; **(c)** leave them, since the run is warm and conclusion files are read last.
+  **Recommended, PROVISIONAL: (a)**, with a rewrite to attributes plus a pointer (`06` L179–183) as time allows, first for the catalog
+  line (file 10), which repeats file 6. A pulled entry arrives with no read-last discipline around it, and banding takes minutes. *Split:
+  (a) is C's current view; A's Round 3 view and B's would amount to (b), and A's withdrawal from live to borderline on Group 2 is evidence
+  for the narrower reading. The stricter judgment is written, and the choice is the developer's.* *(A S10A-DQ-2; B S10B-DQ-101, withdrawn
+  in Round 3 in favor of A's; C Round 3 §5.5.)*
+
+### DEC-649 · OPEN · 2026-11-18 · Relung Panen ULM run, Step 10 (the readiness check) (DQ-83)
+*From `10_Readiness_Check.md` L622–L625, copied verbatim:*
+- **DQ-83 · Tracker L387 carries a Phase 10 result** (S10-12), while the startup forbids rewriting earlier tracker text (startup
+  L214–215). **(a)** leave L387 as written, append a dated line noting that it carries a finding, and manifest the coordinate in `06`'s
+  section for this city; **(b)** amend L387 in place to remove the result; **(c)** leave it unrecorded. **Recommended, PROVISIONAL: (a).**
+  It keeps both rules and gives a future run for this city the coordinate to skip. *(B S10B-DQ-102; A and C concur.)*
+
+### DEC-650 · OPEN · 2026-11-18 · Relung Panen ULM run, Step 10 (the readiness check) (DQ-84)
+*From `10_Readiness_Check.md` L626–L630, copied verbatim:*
+- **DQ-84 · The proposed method changes and the next run.** **(a)** rule the list-building changes (MC-5, MC-7, MC-8, MC-9, MC-33) before
+  the next startup is written, so they are in the rules; **(b)** write them into the next startup as that run's instructions, marked as
+  proposals, and rule later; **(c)** hold all of them until after the city corpus. **Recommended, PROVISIONAL: (b).** The next run follows
+  its startup and the rules, not the observations file (runbook L3158–3160), so (c) leaves it without them, and (b) carries them without
+  deciding their wording early. *(C S10C-DQ-201; A and B concur.)*
+
+### DEC-651 · OPEN · 2026-11-18 · Relung Panen ULM run, Step 10 (the readiness check) (DQ-85)
+*From `10_Readiness_Check.md` L631–L636, copied verbatim:*
+- **DQ-85 · The pass README's stale status lines** (S10-12). **(a)** the orchestrator updates the status lines in place now, while the run
+  is open; **(b)** an amendment note at the README's end after the run; **(c)** leave them until the CST and RWBEM add their files.
+  **Recommended, PROVISIONAL: (a).** The run is still open, the lines are status rather than findings, and a README that says no output
+  exists is the "status lie" that runbook L3149–3150 names for a pre-seeded folder. *Split: A (S10A-RQ-4) and B (S10B-HF-107) first routed
+  it to the after-run session (b), and both moved to (a) in Round 3. A also asked whether `DR-101` covers the README, which is scaffolding,
+  so C keeps it as a real choice.* *(C S10C-DQ-202.)*
+
 ---
+
+## Open since 2026-11-18 (Ariun Nuur ULM run, preparation: the input validation)
+
+*From the validation of the pass folder's sheets, 2026-11-18 (three validators, a fix writer and a checker; `STARTUP_Ariun_Nuur_ULM_2026-11-18.md` §10). The run itself files its questions after these.*
+
+### DEC-660 · ✅ ANSWERED 2026-11-18 (`DR-142`) · 2026-11-18 · Ariun Nuur, preparation
+- **Step 2's reads of the industry file `16`.** Pre-Trip L133 sends Step 2 to `16` only at L241–248 and the first-pass Half B row L282 (39.0% / 5.7% / 55.3%); the city's own §23 DETERMINED section (L2349–2358: 39.4% / 19.7% / 40.9%) supersedes that row, and the reliability sheet L44 says to quote both and say which governs. Options: (a) add §23 L2349–2358 to Step 2's `16` reads; (b) keep L282 only and read §23 at Phases 4 and 7; (c) replace L282 with §23. **Recommended, PROVISIONAL: (a).**
+
+### DEC-661 · ✅ ANSWERED 2026-11-18 (`DR-142`) · 2026-11-18 · Ariun Nuur, preparation
+- **The web-search cap the sheets state.** Pre-Trip L70, L150 and L442 say 200 per session; the developer's stated budget (2026-11, in memory) is 1,000 per session, shared by every agent; neither figure is in the rulings log or the runbook. Options: (a) 1,000 per session, shared, recorded in the rulings log; (b) keep 200; (c) name no figure and point to the live budget. **Recommended, PROVISIONAL: (a).** The run's startup file already uses 1,000.
+
+### DEC-662 · ✅ ANSWERED 2026-11-18 (`DR-142`) · 2026-11-18 · Ariun Nuur, preparation
+- **Spec L219, the gameplay-reachability bullet.** Step −1 excludes only Open Questions bullet 1; spec L219 ("Can Ariun Nuur be reached in gameplay?", a DLC hook) stays admitted. Options: (a) exclude the whole bullet as DLC and gameplay scoping, like the `DLC:` header and Gameplay Notes; (b) exclude only its DLC and gameplay clauses; (c) admit it. **Recommended, PROVISIONAL: (a);** its one location fact, highway reachability, is already at spec L9.
+
+### DEC-663 · ✅ ANSWERED 2026-11-18 (`DR-142`) · 2026-11-18 · Ariun Nuur, preparation
+- **Step_0 L21, the census L440 tension note.** Its premise (the founding population "primarily Russian exiles") was retired by `DR-35`; the founders are now those at spec L23 and L147, and its path `Specs/Vostok.md` no longer exists. Options: (a) keep the quotation, flagged stale in the source and not an input; (b) drop the row; (c) leave it until the post-ULM census review (`DR-23`). **Recommended, PROVISIONAL: (a).**
+
+### DEC-664 · ✅ ANSWERED 2026-11-18 (`DR-142`) · 2026-11-18 · Ariun Nuur, preparation
+- **Phase 5's FLAGGED rows (sheet L27–37).** `DR-131` item 3 (lines about shared things a city is named in are its own lines), `DR-136` item 3 (the subnet the same) and `DR-138` item 1 (`Infrastructure/` and the relationship files are evidence for every city) make Highways L156–170, Airports L18 and the relationship database's entry L476–484 look citable as this city's own lines. Options: (a) re-dispose them as citable own lines, excluding clauses grounded only in another city's lines (relation legal, comparison barred); (b) keep them flagged. **Recommended, PROVISIONAL: (a).**
+
+### DEC-665 · ✅ ANSWERED 2026-11-18 (`DR-142`) · 2026-11-18 · Ariun Nuur, preparation
+- **Phase 7's food-worker-years and its 3.5×.** "18,774 food-worker-years" (sheet L30, L34) is a deficit headcount, which the sheet's own citation gate bars (reliability sheet L45); "3.5×" is 66,007 ÷ 18,774, and on the live mandate it is 71,444 ÷ 18,774 ≈ 3.8× (`16` L1: its narrative was not rewritten). Options: (a) keep the quotations, the headcount marked not citable and the 3.5× marked stale (≈ 3.8× live); (b) drop both; (c) leave them. **Recommended, PROVISIONAL: (a).**
+
+### DEC-666 · ✅ ANSWERED 2026-11-18 (`DR-142`) · 2026-11-18 · Ariun Nuur, preparation
+- **Errors found in the source files, outside the sheets.** The validation found, without editing them: spec L79 reads "READER station: Ariun Nuur" where the station is Vostok; the census L432 and L440 keep the old name and the retired founding story; `City_Cross_Subnet_Relationships.md` L176 and `City_National_Connections.md` L570 pair the city with "USA + Japan"; `Doll_Representation_Categories.md` L12 gives a Robot Universals path segment that does not match the folder. Options: (a) correct them now, before the run, each recorded; (b) list them as source fixes for after the run; (c) leave them. **Recommended, PROVISIONAL: (b),** the run's own source-fix convention; the run reads the live line and notes the error.
+
+---
+
+## Open since 2026-11-18 (input validation: Mawson, and the shared quick-reference sheets)
+
+*From the validation of Mawson's pass-folder sheets and of the twelve shared quick-reference sheets they point to (`Universal_Location_Methodology/INPUT_VALIDATION_LOG_2026-11.md`). The web-search cap the Mawson sheets also state (Pre-Trip L64, L143, L434: 200 per session) is the same question as `DEC-661`.*
+
+### DEC-667 · ✅ ANSWERED 2026-11-18 (`DR-142`) · 2026-11-18 · Mawson, preparation
+- **The README's file list.** `README.md` L12–26 leaves out `00.1_Step_MINUS-1_Input_Contract.md` and every step's round record (`…b_T8_Rounds_…`), which the Pre-Trip names (L82–83 and each step's "Round record" line). Options: (a) add them (adds lines to the README's table); (b) leave the list as it is. **Recommended, PROVISIONAL: (a).** The same gap likely sits in every city's README.
+
+### DEC-668 · ✅ ANSWERED 2026-11-18 (`DR-142`) · 2026-11-18 · Mawson, preparation
+- **Which Calethina account Phase 10 carries.** `Datasheets/Phase_10.md` L12–14 carries `Formative_History.md` L5 word for word, the older seven-stop account, which itself holds later-era clauses (the wartime reroute, the Tower's later trauma), and excludes the Calethina README L58 and L60 as later-era; but README L58 refines L5, and its Mawson clause (request work at Mawson, commissioned as a general-knowledge host for visitors) falls inside the default scope. Options: (a) carry only L58's Mawson clause, mark L5 as the superseded account and cut its post-war clauses; (b) exclude all three; (c) leave as is. **Recommended, PROVISIONAL: (a).**
+
+### DEC-669 · ✅ ANSWERED 2026-11-18 (`DR-142`) · 2026-11-18 · shared sheets and method (every city)
+- **Differentiation substitute 1, "its own earlier states", against the height rulings.** `04` III.4 (L517–L526) ranks it strongest ("run substitute 1 without fail") and Gate 6 (L167) says to run all four; `DR-136` item 6 and `DR-137` item 10 say no earlier-state comparison runs inside a pass, which captures a place at its height. The two shared sheets copy `04` word for word, so they carry the old instruction. Options: (a) in a pass, run substitutes 2–4 and record substitute 1 as deferred to after the pass, fixed at its source (`04` III.4, Gate 6, runbook L447) in one change and the sheets re-copied; (b) keep substitute 1, limited to the place's own record at its height; (c) leave as is. **Recommended, PROVISIONAL: (a).**
+
+### DEC-670 · ✅ ANSWERED 2026-11-18 (`DR-142`) · 2026-11-18 · shared sheets (every city)
+- **Citing the Falkland Treaty at draft standing.** The treaty sheet L5 says to treat article text as citable working canon; Casey (`DR-136` item 11) and Relung Panen (`DR-138` item 3) were each ruled separately: findings may rest on the draft's articles, each tagged `[treaty draft]` and listed. Options: (a) state that as the practice for every city, on the sheet, pending a general ruling; (b) leave it per city. **Recommended, PROVISIONAL: (a).**
+
+### DEC-671 · ✅ ANSWERED 2026-11-18 (`DR-142`) · 2026-11-18 · shared sheets (every city)
+- **The treaty sheet points into one city's pass file.** Falkland sheet L128: "Full statement: Davis `04_Phase_02…md` §Q.5", so a sheet every city reads sends each run into another city's pass. Options: (a) drop the pointer; the sheet already carries the corrected statement at L115–L127; (b) keep it. **Recommended, PROVISIONAL: (a).** The pass file was not opened.
+
+### DEC-672 · ✅ ANSWERED 2026-11-18 (`DR-142`) · 2026-11-18 · shared sheets (every city)
+- **May a city pass cite the national food figures in `19`?** The Division of Industry sheet now carries them (`19` §5, 2026-11-03: export supply 420,833, balance +167,541, +66%, slack 7.4%; +25% and 2.8% without the third exporter), marked "not yet ruled". Options: (a) yes, as national context only, while a city's own export or "feeds N" headcount stays not citable; (b) all citable; (c) none. **Recommended, PROVISIONAL: (a).**
+
+## Open since 2026-11-18 (Ariun Nuur ULM run; every answer below is PROVISIONAL until you give yours)
+
+*Filed by the run itself (`STARTUP_Ariun_Nuur_ULM_2026-11-18.md`). Each entry points to the pass file and question number where its full row sits. None blocks the run: the pass proceeds on the recommended answer.*
+
+*All answered 2026-11-18 (`DR-143`): as recommended, except `DEC-684` (both) and `DEC-682` (widened).*
+
+### DEC-680 · ✅ ANSWERED 2026-11-18 (`DR-143`) · 2026-11-18 · Ariun Nuur, Step −1 (Q-1)
+- **Question.** Is the temporal frame worded *given by standing rule* or "inferred"?
+- **Recommended (PROVISIONAL).** *Given by standing rule*: the frame comes from the cited default-scope rule (DS L19–21) plus `DR-137` item 10. Neither wording changes the frame
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/00.1_Step_MINUS-1_Input_Contract.md` §6, Q-1.
+
+### DEC-681 · ✅ ANSWERED 2026-11-18 (`DR-143`) · 2026-11-18 · Ariun Nuur, Step −1 (Q-2)
+- **Question.** Spec L186 places the geneticist "in the present day", after the frame. Does her breakthrough fall inside this pass's frame, and how is she used?
+- **Recommended (PROVISIONAL).** As written: FLAGGED, not an input until her canon entry is read (REQ-5). If her breakthrough is dated before the war, use it only as testimony of what the city can produce at its extreme, never as typical, with no date beyond that and no link to the lake (RF-6)
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/00.1_Step_MINUS-1_Input_Contract.md` §6, Q-2.
+
+### DEC-682 · ✅ ANSWERED 2026-11-18 (`DR-143`) · 2026-11-18 · Ariun Nuur, Step −1 (Q-3)
+- **Question.** The cold-record marker (spec L178): input or output, and may it commemorate the 1983 measurement, which is the real site's history?
+- **Recommended (PROVISIONAL).** Its form is PRODUCED at Phase 10, marked Proposed and rooted in the city's own lines (05 L428–429). The city knows the record through inherited station logs (`DR-25`), so marking its own cold is its own practice; it should not commemorate the real station's measurement as the city's own event, and the 1983 measurement may never be the city's identity, core value or founding logic (`DR-28` D2–D3)
+- **Answer (developer, 2026-11-18, `DR-143`): as recommended, widened.** *"#2 might be relevant, because it's possible that records may have been found at the station at the time that Tepenians settled the location."* The 1983 measurement is admissible as a record the settlers found at the station (`DR-25`), and the marker may honor it as inherited; per the orchestrator's reading `DR-28` D2–D3 still bind (not identity, core value or founding logic).
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/00.1_Step_MINUS-1_Input_Contract.md` §6, Q-3.
+
+### DEC-683 · ✅ ANSWERED 2026-11-18 (`DR-143`) · 2026-11-18 · Ariun Nuur, Step −1 (Q-4)
+- **Question.** Spec L218's overland cable: admitted by presupposition, or flagged until confirmed?
+- **Recommended (PROVISIONAL).** Flagged until its own record (an `Infrastructure/` or relationship file) is read at Step 0; once confirmed, admitted as relation (G5). Whether the cable is intact stays excluded
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/00.1_Step_MINUS-1_Input_Contract.md` §6, Q-4.
+
+### DEC-684 · ✅ ANSWERED 2026-11-18 (`DR-143`) · 2026-11-18 · Ariun Nuur, Step −1 (Q-5)
+- **Question.** The district name honors past scientists who dedicated, "(and possibly even sacrificed)", their lives (DRL L893). Whose: the real station's, the city's own, or both? And can it ground findings?
+- **Recommended (PROVISIONAL).** Until answered, a naming fact only, with no memorial practice derived from it. The ruling's sentence continues "so that Tepenians could have a city of scientific research", which leans toward the city's own scientists but does not settle it. If they are the city's own, it is an act of the city's own that starts with the city and may ground findings (`DR-25`, DRL L646); if they are the real station's, it is a naming fact only (`DR-28` D2, DRL L684) and nothing about identity follows
+- **Answer (developer, 2026-11-18, `DR-143`): BOTH.** The name honors the real station's scientists and the city's own. The city's own half may ground findings (`DR-25`); the real station's half is a naming fact only (`DR-28` D2).
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/00.1_Step_MINUS-1_Input_Contract.md` §6, Q-5.
+
+### DEC-685 · ✅ ANSWERED 2026-11-18 (`DR-143`) · 2026-11-18 · Ariun Nuur, Step −1 (Q-6)
+- **Question.** May the pass carry the "two loneliest outposts" label (spec L169)?
+- **Recommended (PROVISIONAL).** Carry the joint outpost as a relation; the label stays struck. At most it may be cited as the relationship's recorded name from that relationship's own record (`DR-136` item 2), once read at its step; no characterization rests on "loneliest"
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/00.1_Step_MINUS-1_Input_Contract.md` §6, Q-6.
+
+### DEC-686 · ✅ ANSWERED 2026-11-18 (`DR-143`) · 2026-11-18 · Ariun Nuur, Step −1 (Q-7)
+- **Question.** Seven spec lines rank the city against others or carry a superlative across places (L10, L68, L70's opening, L93, L127, L179, L217). Strike them?
+- **Recommended (PROVISIONAL).** Yes: strike them under the ONE LOCATION law and state the city's own figures flatly (mean −54.8 °C, record low −89.2 °C). Leave the spec unedited, add the lines to its revisit list, and leave any superlative to the terminal differentiation check
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/00.1_Step_MINUS-1_Input_Contract.md` §6, Q-7.
+
+### DEC-687 · ✅ ANSWERED 2026-11-18 (`DR-143`) · 2026-11-18 · Ariun Nuur, Step −1 (Q-8)
+- **Question.** DS declares itself a DRAFT (L5–6). How much weight do its exclusions carry?
+- **Recommended (PROVISIONAL).** Treat it as a working citation map: each exclusion stands on the ruling or standing rule it cites, not on the sheet's authority
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/00.1_Step_MINUS-1_Input_Contract.md` §6, Q-8.
+
+### DEC-688 · ✅ ANSWERED 2026-11-18 (`DR-143`) · 2026-11-18 · Ariun Nuur, Step −1 (Q-9)
+- **Question.** Spec L147 says the founding community was "necessarily small" because "the environment cannot sustain a large population"; Census I is 441,378 (Band 4). Which governs?
+- **Recommended (PROVISIONAL).** Census I governs (`DR-4`, DRL L211–212). Strike "You did not go to Ariun Nuur by accident." as a characterization; strike the reason clause as a stale line written before the census; keep a small, specialized founding wave as a founding condition only. Growth from that wave to the Census I figure through continued arrivals (brief §4 item 5) is no contradiction; it is history, built after the ULM. Add the sentence to the spec's revisit list. Phase 1 treats the hardship of sustaining 441,378 people here as a generator conflict, not as an error to smooth over
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/00.1_Step_MINUS-1_Input_Contract.md` §6, Q-9.
+
+### DEC-689 · ✅ ANSWERED 2026-11-18 (`DR-143`) · 2026-11-18 · Ariun Nuur, Step −1 (Q-10)
+- **Question.** Spec L30's figure gap: reserve it from adjudication, or request a check?
+- **Recommended (PROVISIONAL).** Both, as written here: the table holds the final figures (brief §4 item 1); the gap is reserved from adjudication inside the pass (RF-12) and a mechanical check is requested for Step 2 (REQ-11)
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/00.1_Step_MINUS-1_Input_Contract.md` §6, Q-10.
+
+### DEC-690 · ✅ ANSWERED 2026-11-18 (`DR-143`) · 2026-11-18 · Ariun Nuur, Step −1 (Q-11)
+- **Question.** May the pass read the mechanism and coefficients section of the file spec L95 points to, while its cross-city comparison stays barred?
+- **Recommended (PROVISIONAL).** Not by a partial read: a file is admissible only if every section of it is, and the fix is upstream (05 L514–516). Recommended: split the file, mechanism and coefficients in one file the pass may read, the comparison in another left to the terminal check. Until then L95 stays excluded
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/00.1_Step_MINUS-1_Input_Contract.md` §6, Q-11.
+
+### DEC-691 · ✅ ANSWERED 2026-11-18 (`DR-143`) · 2026-11-18 · Ariun Nuur, Step −1 (Q-12)
+- **Question.** Spec L149, "The name was kept.", is stale against `DR-42`. How is it held?
+- **Recommended (PROVISIONAL).** EXCLUDED, as written; add it to the spec's revisit list, read as *the central district keeps the name*
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/00.1_Step_MINUS-1_Input_Contract.md` §6, Q-12.
+
+### DEC-692 · ✅ ANSWERED 2026-11-18 (`DR-143`) · 2026-11-18 · Ariun Nuur, Step −1 (Q-13)
+- **Question.** DS's exclusion tables leave out spec L149, L153–161 (`Character & Culture`), L220, the gameplay and DLC clauses in L186, and the ranking clauses. Add them?
+- **Recommended (PROVISIONAL).** Yes: add a row for each under the rules cited in §3, in a way that moves no cited line (as the sheet already does, on existing rows)
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/00.1_Step_MINUS-1_Input_Contract.md` §6, Q-13.
+
+### DEC-693 · ✅ ANSWERED 2026-11-18 (`DR-143`) · 2026-11-18 · Ariun Nuur, Step −1 (Q-14)
+- **Question.** Spec L171 is excluded whole, but its opening clause states a pre-war fact: the outpost was too remote for its own dedicated power and ran on residual overflow from a continent-wide regulated grid. Readmit that clause?
+- **Recommended (PROVISIONAL).** Yes: admit it as a pre-war network and energy fact (G5), through `Airports.md` and the grid file L171 names, read at Step 0 under `DR-138`; keep the post-war remainder and the gameplay detail excluded. Until answered, L171 stays excluded whole, as DS L35 has it
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/00.1_Step_MINUS-1_Input_Contract.md` §6, Q-14.
+
+### DEC-694 · ✅ ANSWERED 2026-11-18 (`DR-143`) · 2026-11-18 · Ariun Nuur, Step −1 (Q-15)
+- **Question.** "500+ years of post-exile scientific access" (spec L177, L217) runs to the game's present. What span does the pass use?
+- **Recommended (PROVISIONAL).** Not that one. Inside the pass, access runs from the founding to the height, undated (`DR-16`), read as *long access* only; the phrase goes on the spec's revisit list
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/00.1_Step_MINUS-1_Input_Contract.md` §6, Q-15.
+
+### DEC-695 · ✅ ANSWERED 2026-11-18 (`DR-143`) · 2026-11-18 · Ariun Nuur, Step 0 (Q-16)
+- **Question.** How should the declaration word the **"Other cities"** line, given RM's template default (L138) against the law of one location?
+- **Recommended (PROVISIONAL).** *CLOSED for the whole pass; differentiation is a terminal check on the finished corpus* (01 L512–514), as DL-16 has it; and correct RM's step numbers (REQ-21)
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/00_Frame.md` §10, Q-16.
+
+### DEC-696 · ✅ ANSWERED 2026-11-18 (`DR-143`) · 2026-11-18 · Ariun Nuur, Step 0 (Q-17)
+- **Question.** **Which three generators are the independent set?** (A: G2 · G4 · G8; B: G2 · G5 · G8; C: G2 · G4 · G7)
+- **Recommended (PROVISIONAL).** G2 · G5 · G8 provisionally, the only proposal no reader's objection touches (DL-21), noting its shared spec L66; settled only under `02` §5.1 (REQ-16)
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/00_Frame.md` §10, Q-17.
+
+### DEC-697 · ✅ ANSWERED 2026-11-18 (`DR-143`) · 2026-11-18 · Ariun Nuur, Step 0 (Q-18)
+- **Question.** RF-9 bars any robot cold threshold. **May the pass cite the companion box's capacity and materials figures** (RP L12–16), which are not death thresholds?
+- **Recommended (PROVISIONAL).** Not as numbers until the developer rules. Cite the costs qualitatively (capacity loss from charging in the cold; reduced capacity; output sag; embrittlement; safer moving than resting) and do not set the city's −54.8 °C mean against any figure. *Alternative (A):* the figures are national material facts, citable once the companion file is read, written as preparation and a gradient, never as a gate or a death threshold
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/00_Frame.md` §10, Q-18.
+
+### DEC-698 · ✅ ANSWERED 2026-11-18 (`DR-143`) · 2026-11-18 · Ariun Nuur, Step 0 (Q-19)
+- **Question.** **Where does the height sit against the Act boundary?** (A: provisionally Act 2, tagged; B: the Census I period, before ~2688 ±~20, inside or just before the transition; C: undated)
+- **Recommended (PROVISIONAL).** Leave the height undated in the pass; record that the governing figure dates to before ~2688 (±~20) (RF-17) and that a population peak is not necessarily the overall height; name the Act on every inheritance call; the developer places the height (REQ-1). *B's proposed form of words for identity, naming the two founding nations with "Tepenian city" (ER L65–66), is kept as population-origin material, DEMOTED, not adopted until the Act is placed*
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/00_Frame.md` §10, Q-19.
+
+### DEC-699 · ✅ ANSWERED 2026-11-18 (`DR-143`) · 2026-11-18 · Ariun Nuur, Step 0 (Q-20)
+- **Question.** **How is RP L409 held, and should `06`'s subject scan reach non-method files required at Step 0?**
+- **Recommended (PROVISIONAL).** Hold L409 as RF-26 has it: the joint staffing as a relation only through spec L169; the expertise characterization not adopted, read at Step 5 as a check, matches tagged `[SELF-ORIGINATED]`; the siting reason excluded; the power clause corroborating Q-14 without settling it; nothing post-war used. And yes, widen the scan (REQ-23); 06 L437 is true as worded, and the request only widens it
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/00_Frame.md` §10, Q-20.
+
+### DEC-700 · ✅ ANSWERED 2026-11-18 (`DR-143`) · 2026-11-18 · Ariun Nuur, Step 0 (Q-21)
+- **Question.** **Is the national tower's name a forbidden location name** in a reader's or merge writer's text?
+- **Recommended (PROVISIONAL).** Yes: a structure is a location type (01 L104), so refer to it by its role, as this file does; positional PROOF lines that carry it are copied and marked EXEMPT
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/00_Frame.md` §10, Q-21.
+
+### DEC-701 · ✅ ANSWERED 2026-11-18 (`DR-143`) · 2026-11-18 · Ariun Nuur, Step 0 (Q-22)
+- **Question.** With the Band 4 decomposition deferred (RF-3), **how does the pass meet 01 §5.4's per-category declaration?**
+- **Recommended (PROVISIONAL).** Delegated (deferred by ruling) where a category cannot be answered at base level; Patterned where base-level facts show an axis; nothing Uniform by default (01 L550), as DL-11 has it
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/00_Frame.md` §10, Q-22.
+
+### DEC-702 · ✅ ANSWERED 2026-11-18 (`DR-143`) · 2026-11-18 · Ariun Nuur, Step 0 (Q-23)
+- **Question.** **The extent band:** declare it equal to the population band by construction, or leave it undeclared until an independent footprint exists?
+- **Recommended (PROVISIONAL).** Declare *4, provisional, by construction (a required area of 44–63 km² at assumed densities, not a measured footprint)*, assert no divergence, and revisit once REQ-14 is met; an undeclared line would hide the step
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/00_Frame.md` §10, Q-23.
+
+### DEC-703 · ✅ ANSWERED 2026-11-18 (`DR-143`) · 2026-11-18 · Ariun Nuur, Step 0 (Q-24)
+- **Question.** **Is the city `Enclosed`?**
+- **Recommended (PROVISIONAL).** Leave the modifier undeclared at Step 0 and settle it at Phase 1 from the spec's physical lines (REQ-22); do not assume enclosure from the cold. If none states an envelope, record it as not stated and open, assuming neither (no forced fit). If enclosed, 01 L131's questions become obligatory, and burial stays bound by RF-14
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/00_Frame.md` §10, Q-24.
+
+### DEC-704 · ✅ ANSWERED 2026-11-18 (`DR-143`) · 2026-11-18 · Ariun Nuur, Step 0 (Q-25)
+- **Question.** **May DS be corrected** at L5–6 (the stale clause; the pointer spliced into a sentence), L9 (the "3 of 3" count, which omits the registries half), L20 (the label broader than contract CR-16), L25 (the unverified tier; "range mid-points" beside a printed range) and L27–28 (stale at the same point as L5)?
+- **Recommended (PROVISIONAL).** Yes, in place, dated, moving no cited line; the sheet stays a demoted draft (contract Q-8); L25's tier waits on REQ-19
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/00_Frame.md` §10, Q-25.
+
+### DEC-705 · ✅ ANSWERED 2026-11-18 (`DR-143`) · 2026-11-18 · Ariun Nuur, Step 0 (Q-26)
+- **Question.** **Is the absence of a stated power source for the city a gap or a finding?** (contract REQ-6, sharpened)
+- **Recommended (PROVISIONAL).** A gap: read `Geothermal_Heating.md` and the grid file at Phase 1 and Phase 5 before writing any energy finding, and assume nothing until then (PV-7)
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/00_Frame.md` §10, Q-26.
+
+### DEC-706 · ✅ ANSWERED 2026-11-18 (`DR-143`) · 2026-11-18 · Ariun Nuur, Step 0 (Q-27)
+- **Question.** **The wording of the "Own culture material read at" line** (RM L139 names the read-order position; the brief names Step 5)
+- **Recommended (PROVISIONAL).** *Step 5, as a CHECK (the last position in the Step 0.4 read order, item 6)*, as DL-17 has it, which states where it was actually read, as the template asks
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/00_Frame.md` §10, Q-27.
+
+### DEC-707 · ✅ ANSWERED 2026-11-18 (`DR-143`) · 2026-11-18 · methodology maintenance (found on Ariun Nuur, Step 0.2)
+- **Question.** The pin on `Disciplines/00b_General_Population_Discipline.md` is stale: the original (`Concordia-City/Districts/Phase_Instructions/00b_General_Population_Discipline.md`) now hashes `f2d0237b06885373` against the pinned `6a08080e1a8da883` (157 lines both), changed once since the pin by commit `e351f6d5` (2026-10-31, one line replaced at L97, inside a worked-instance passage the ULM copy already replaces with a pointer). Re-pin the copy?
+- **Recommended (PROVISIONAL).** Yes, as maintenance outside the run: re-pin the copy's header to the new hash after confirming the changed line is one the copy carries only as a pointer. The run uses the copy as read meanwhile.
+- **Where:** `RUN_PROGRESS_Ariun_Nuur.md` (held entry AN-05); `Ariun_Nuur/09.5_Log.md` AN-05.
 
 ## Answered
 *(Moved here with the date and the ruling number.)*
+- 2026-11-18, `DR-142`: DEC-660 to DEC-672 answered in place above (as recommended, except DEC-666: the source errors fixed now).
 - 2026-11-15, `DR-137`: Casey's 23 Phase 3-10 questions answered in place above (DEC-522 to DEC-544; DEC-532 in part, the cold-damage science pending research).
 - 2026-11-09, `DR-125`: 14 of the 60 Sinheung questions answered in place above (DEC-377, 378, 392, 394, 401, 402, 404, 409, 414, 416, 422, 424, 429, 430); DEC-434 was discussed and left open for a detailed look; the other 45 stay open and PROVISIONAL for a later review.
 - 2026-11-09, `DR-128`: Davis DEC-305 and Sinheung DEC-381, 383, 390 answered in place above.

@@ -1,0 +1,28 @@
+pass audited : Relung_Panen
+corpus mode  : default (own pass excluded)
+corpus files : 7427   chars: 127,952,209
+files audited: 06_Differentiation.md
+own-pass mode: a quotation may also be found in this pass's OTHER files (never in its own file)
+
+=== POSITIVE CONTROLS ===
+  [easy                      ] FOUND     a terminus is nobody's midpoint
+  [HARD - blockquote wrap    ] FOUND     A pass may not proceed to Step 5 with a NEVER CITED row
+  [HARD - outside Worldspace ] FOUND     Paste raw QA scan output into the QA block. Never summa
+  [HARD - case mismatch      ] FOUND     YOU GO TO ESPERANZA AND YOU DO NOT COME HOME FOR FOUR Y
+  [HARD - long wrapped       ] FOUND     Different content is not differentiation; a different q
+
+  INSTRUMENT VALID: YES
+  NEGATIVE CONTROL (must be absent): PASS - absent
+
+=== QUOTATION AUDIT ===
+fragments tested (single-line, ellipsis-split, >=7 words): 5
+NOT FOUND in corpus: 2
+  of those, in TABLE CELLS : 0
+  of those, in PROSE       : 2
+
+  [06_Differentiation.md:178]           and p5-29 row 3 (l253) gives its source and controller unnamed. step 7; low. s6-24 is written on the narrower reading. whether p5-
+  [06_Differentiation.md:245]           dropped; c carried two clauses. c withdrew its truncation; a corrected
+
+⚠ TRIAGE BY HAND. A miss is not yet a defect: the pass quoting ITSELF, and
+  connective prose captured between two adjacent quotations, both show here.
+  Confirm each at source before calling it a defect.

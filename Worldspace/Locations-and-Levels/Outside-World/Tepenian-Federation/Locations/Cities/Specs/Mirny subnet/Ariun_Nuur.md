@@ -76,7 +76,7 @@ What makes Ariun Nuur more than simply the coldest and most isolated place in an
 *(Research note: Vostok Station has one of the longest and most complete climate records of any Antarctic inland station, operated by the Soviet Union and then Russia from 1957 onward. AARI maintains the historical record.)*
 
 **Climate type:** East Antarctic Plateau polar desert — the most extreme version of the continental polar type; an extreme mean annual temperature
-**Mean annual temperature:** -54.8°C  _(READER station: Ariun Nuur; 1991–2020 WMO standard normal)_
+**Mean annual temperature:** -54.8°C  _(READER station: Vostok; 1991–2020 WMO standard normal)_ *(corrected 2026-11-18, DR-142 item 13: was "READER station: Ariun Nuur")*
 **Temperature range:** coldest months (July/August) mean −65.9°C / −66.9°C; warmest months (December/January) mean −31.3°C / −31.9°C
 **Record extremes:** record high **−14.0 °C**; record low **−89.2 °C** — *the lowest reliably measured natural temperature on Earth* *(researched 2026-09-04)*
 **Prevailing winds:** average **~5 m/s**, rising to **27 m/s** in the strongest events — light by Antarctic coastal standards *(researched 2026-09-04)*

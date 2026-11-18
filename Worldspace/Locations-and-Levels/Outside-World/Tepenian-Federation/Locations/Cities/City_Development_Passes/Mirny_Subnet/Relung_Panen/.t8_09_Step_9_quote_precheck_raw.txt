@@ -1,0 +1,4 @@
+target: 09_Record.md
+sources: 13 list entries; own-pass files: 46 (dot-files and superseded files excluded)
+quoted fragments (>=3 words, ellipsis-split): 27
+found in sources at admitted ranges: 27 | found only in the pass's own files: 0 | NOT FOUND: 0

@@ -173,11 +173,11 @@ subnet's regional pattern, each a real, non-obvious thread:
   overland via Palmer at all — meaning Byrd's genuine population kinship is with **Janbogo**, while its
   physical, structural dependency is on **Palmer**. A real, dramatizable tension: two entirely different
   kinds of connection pointing at two different subnets.
-- **Ariun Nuur and Byrd share a Primary-nation pairing (USA + Japan) that no other city in Tepenia has.**
+- ~~**Ariun Nuur and Byrd share a Primary-nation pairing (USA + Japan) that no other city in Tepenia has.**
   Every other city is either single-Primary or has a different Primary combination. Worth investigating
   directly — whether this is coincidence or points at a real shared migration-era event or population
   movement between these two specific cities, neither of which has any other established connection to
-  the other (Ariun Nuur's own established partnership is with Kunlun, not Byrd).
+  the other (Ariun Nuur's own established partnership is with Kunlun, not Byrd).~~ ⛔ *(Superseded 2026-11-18, `DR-142` item 13: Ariun Nuur's Primary tier is now Japan and Indonesia (`Official_Population_Census.md` L436, spec L22), so the city no longer shares the USA + Japan Primary pairing; the developer had already settled the pairing as coincidence on 2026-08-06, `City_National_Connections.md` L570–572. Byrd's own row was not re-read.)*
 - **Fort McMurdo's Significant tier doesn't match its own Janbogo-subnet siblings.** Every other Janbogo
   city (Janbogo, Zukelli, Cape Adare, Dumont d'Urville, Scott, Denison) shares the same Pacific-facing
   Significant-tier shape (Japan, South Korea, Canada/Indonesia, Australia). Fort McMurdo's is instead

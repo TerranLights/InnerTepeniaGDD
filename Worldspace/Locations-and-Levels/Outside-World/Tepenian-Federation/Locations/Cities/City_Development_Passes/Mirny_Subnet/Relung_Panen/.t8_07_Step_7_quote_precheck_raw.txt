@@ -1,0 +1,6 @@
+target: 07_QA_Gates.md
+sources: 35 list entries; own-pass files: 42 (dot-files and superseded files excluded)
+quoted fragments (>=3 words, ellipsis-split): 91
+found in sources at admitted ranges: 89 | found only in the pass's own files: 0 | NOT FOUND: 2
+  L45  does every completion or status sentence in the pass's files match what the files hold
+  L450  n/a stands only with its reason

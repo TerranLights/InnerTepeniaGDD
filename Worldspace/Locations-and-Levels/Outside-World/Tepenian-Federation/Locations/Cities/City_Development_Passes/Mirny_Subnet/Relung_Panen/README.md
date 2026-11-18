@@ -1,5 +1,16 @@
 # Relung Panen — development pass
 
+> ### 📍 Status, 2026-11-18 10:40 (the ULM run's close): what this folder holds now
+> **The ULM pass's files exist, Step −1 to Step 10, each PROPOSED; nothing is declared complete** (the developer's call). Written:
+> the readiness check (`00.0b`), the input contract (`00.1`, second merge; the first kept as `…_merge1_superseded.md`), Steps 0, 1 and 2
+> (`00_Frame`, `01_Inherited`, `02_Spine`), the spine's G7 amendment (`02.1`), Step 3 (`03_Research`) and its research supplement
+> (`03.1`), Phases 2 to 10 (`04_Phase_02` to `04_Phase_10`), Step 5 in two stages (`05_Reconciliation`), Step 6 (`06_Differentiation`; the
+> row is in the cross-city table), Step 7 as one file (`07_QA_Gates`, not one file per gate as the table below says), Step 8
+> (`08_Review_Panel`), Step 9 (`09_Record`), the run log (`09.5_Log`) and Step 10 (`10_Readiness_Check`), each with its round record
+> (`*b_T8_Rounds_*`). The research log exists (`Research_Logs/Relung_Panen_Research_Log.md`, Sessions 1 to 3). Lines below this block
+> that say the output files do not exist yet, or that the research log may not exist, are earlier states, kept as written. CST and RWBEM
+> have not run. Progress: `Universal_Location_Methodology/RUN_PROGRESS_Relung_Panen.md`.
+
 > **Renamed 2026-10-21 (developer): this folder was `Bunger_Hills_City/`; the city's official name is Relung Panen.** Its own specs, details and culture sheets are still to be synthesized.
 
 **Folder opened 2026-09-05.** *Files appear here **one at a time**, as each piece is run. On 2026-10-30 it holds the Pre-Trip,

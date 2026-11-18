@@ -1,0 +1,48 @@
+pass audited : Ariun_Nuur
+corpus mode  : default (own pass excluded)
+corpus files : 7777   chars: 141,577,867
+files audited: 00.1_Step_MINUS-1_Input_Contract.md
+own-pass mode: a quotation may also be found in this pass's OTHER files (never in its own file)
+
+=== POSITIVE CONTROLS ===
+  [easy                      ] FOUND     a terminus is nobody's midpoint
+  [HARD - blockquote wrap    ] FOUND     A pass may not proceed to Step 5 with a NEVER CITED row
+  [HARD - outside Worldspace ] FOUND     Paste raw QA scan output into the QA block. Never summa
+  [HARD - case mismatch      ] FOUND     YOU GO TO ESPERANZA AND YOU DO NOT COME HOME FOR FOUR Y
+  [HARD - long wrapped       ] FOUND     Different content is not differentiation; a different q
+
+  INSTRUMENT VALID: YES
+  NEGATIVE CONTROL (must be absent): PASS - absent
+
+=== QUOTATION AUDIT ===
+fragments tested (single-line, ellipsis-split, >=7 words): 39
+NOT FOUND in corpus: 22
+  of those, in TABLE CELLS : 16
+  of those, in PROSE       : 6
+
+  [00.1_Step_MINUS-1_Input_Contract.md:15]           column gives each item's source reader numbers: reader a's items run 1-100, reader b's 101-200, reader c's 201-300
+  [00.1_Step_MINUS-1_Input_Contract.md:23]           names only the real station, lake vostok and the city's central scientific district. open inside the name (drl l899): the written 
+  [00.1_Step_MINUS-1_Input_Contract.md:23]           in tepenian text, and the district's boundaries (rf-1). the gloss
+  [00.1_Step_MINUS-1_Input_Contract.md:23]           is a naming fact only, and its first word is only partly verified: the two wiktionaries differ on
+  [00.1_Step_MINUS-1_Input_Contract.md:55]           none admissible as an in-world tepenian one. the -89.2 c record of 1983 belongs to the real site's measured record: its figure and
+  [00.1_Step_MINUS-1_Input_Contract.md:66]           (l3, l147); a vision session (l167, dr-10 ); speculation marked
+  [00.1_Step_MINUS-1_Input_Contract.md:134]  [CELL]  (drl l897, l1154); the mongolian form and the gloss
+  [00.1_Step_MINUS-1_Input_Contract.md:140]  [CELL]  a ranking (one location law; q-7). excluded: the final clause from
+  [00.1_Step_MINUS-1_Input_Contract.md:152]  [CELL]  (a ranking; q-7). flagged: the record framing
+  [00.1_Step_MINUS-1_Input_Contract.md:167]  [CELL]  ( dr-19 , drl l552; dr-24 , drl l632; dr-28 d3). flagged
+  [00.1_Step_MINUS-1_Input_Contract.md:167]  [CELL]  is read only as after the treaty , not as a city founding date (drl l514-515; rf-5). the line's
+  [00.1_Step_MINUS-1_Input_Contract.md:167]  [CELL]  for the city is the old usage, read as ariun nuur (drl l1154). l146 blank. (split on
+  [00.1_Step_MINUS-1_Input_Contract.md:171]  [CELL]  is suspect by default), read last, as a check (05 l629-631). it holds the size claim
+  [00.1_Step_MINUS-1_Input_Contract.md:171]  [CELL]  (l155, which also conflicts with census i; q-9); l157's purpose and temperament, including
+  [00.1_Step_MINUS-1_Input_Contract.md:171]  [CELL]  which presumes the reserved lake findings; l159's subnet relation as
+  [00.1_Step_MINUS-1_Input_Contract.md:171]  [CELL]  (the distance itself stands at l9 and l66); and l161's
+  [00.1_Step_MINUS-1_Input_Contract.md:173]  [CELL]  struck: from the vision-session sentence dated 2026-07-06 to the paragraph's end ( dr-10 , drl l437-441, l445-446; ds l35); this a
+  [00.1_Step_MINUS-1_Input_Contract.md:180]  [CELL]  an open slot: none is listed here, which is not
+  [00.1_Step_MINUS-1_Input_Contract.md:190]  [CELL]  span is the game-present count (q-15). the link to the geneticist's technique is speculation. struck
+  [00.1_Step_MINUS-1_Input_Contract.md:205]  [CELL]  district's boundaries and exactly what the name covers inside the city dr-42 open (drl l899); drl l234, l237 (sub-locations deferr
+  [00.1_Step_MINUS-1_Input_Contract.md:236]  [CELL]  founders taken from dr-35 only; g4 recorded without a
+  [00.1_Step_MINUS-1_Input_Contract.md:251]  [CELL]  their lives (drl l893). whose: the real station's, the city's own, or both and can it ground findings until answered, a naming fac
+
+⚠ TRIAGE BY HAND. A miss is not yet a defect: the pass quoting ITSELF, and
+  connective prose captured between two adjacent quotations, both show here.
+  Confirm each at source before calling it a defect.

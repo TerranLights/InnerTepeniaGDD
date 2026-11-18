@@ -1,8 +1,8 @@
 # Tier U Reference — Robot Physiology & Cultural Practices
 
-> **Corpus-wide constant, identical for every city.** Source: `Robot_Physiology_and_Cultural_Practices.md`
-> (438 lines) + `Robot_Cold_Physiology.md` (184 lines) + `Robot_Universals/` Ch. 13 + Ch. 14 (both README.md,
-> ~53 and ~67 lines) — all four read in full, 2026-09-15. ⭐ **Read the general file's Appearance/Clothing
+> **Corpus-wide constant, identical for every city.** Source: `Worldspace/Robot_Biology_and_Culture/Robot_Physiology_and_Cultural_Practices.md`
+> (507 lines as of 2026-11-18; 438 when first read) + `Worldspace/Robot_Biology_and_Culture/Robot_Cold_Physiology.md` (184 lines) + Ch. 13 `/home/kuroskalacs/Documents/Doll-Fi/media/Reference/DerivationMechanisms/Characters/Robot-specific/Robot_Universals/3_-_Part_III_Robot_Cultural_Universals/13_City-Locality_as_the_Seat_of_Identity/README.md` (52 lines) + Ch. 14 `…/3_-_Part_III_Robot_Cultural_Universals/14_Generational_Identity_-_Gen-Mark_as_Real_but_Non-Hierarchical/README.md` (67 lines)
+> — all four read in full, 2026-09-15. *(corrected 2026-11-18: the chapters were cited as "`Robot_Universals/` Ch. 13 + Ch. 14" with no path, which the 2026-11-02 address sweep missed; folder listing and `wc -l`.)* ⭐ **Read the general file's Appearance/Clothing
 > section BEFORE the cold-physiology file — it is the ordinary condition the cold file assumes, not a separate
 > case (`M-151`).** ⭐ **Updated 2026-11-15 (`DR-137`): senses, dreaming and flight mode, siligel's supply and heat, cold death in part, ancestry, and the long-life tier — see "Rulings of 2026-11-15" at the end of this sheet.**
 
@@ -55,7 +55,7 @@ human.**
   maintenance. **Glitch-coolant (alcohol):** electrolytic-compound formulation producing a "glitching" effect;
   a genuine Tepenia-wide institution that varies by city on a variety/potency axis — bohemian/cosmopolitan
   cities (variety, milder) vs. working-class settings (fewer choices, stronger effect), with a quality-tier
-  variant possible within either pole.
+  variant possible within either pole. ⛔ **A city's place on that axis is the CST's, not the ULM's** — a ULM pass does not write it. *(corrected 2026-11-18: `DR-140` item 2, `DEC-618` (a); `DEVELOPER_RULINGS_LOG.md` L2034.)*
 - **Smoking:** confirmed canon, genuine (not performed) but mechanically different — robot-specific vapor
   products interacting with internal thermal/sensory systems, producing real internal state changes.
   ⭐⭐ **The hands-and-fire theory:** smoking unifies two distinctly human things — the hand (manipulator) and
@@ -68,7 +68,7 @@ human.**
 
 **Robots do NOT work 100% of the time.** Physical: require downtime, most prominently overnight recharging —
 **a shared night**, robots and humans stopping together for different reasons. Psychological: fully conscious
-and sentient, so constant work risks insanity — **leisure is a condition of remaining sane, not a perk.** *(A charging robot dreams; flight mode is a separate state — 2026-11-15, end of this sheet.)*
+and sentient, so constant work risks insanity — **leisure is a condition of remaining sane, not a perk.** *(A charging robot dreams; flight mode is a separate state — 2026-11-15, end of this sheet.)* ⛔ **What the ULM writes here is the day's STRUCTURE** — what the day is organized around, what it costs, when time is free, whom the rhythm fails; **what people do in that time, and human leisure, are written per city at the CST**; and a pass's dishes, music, dress styles, games and slang wait for the cultural synthesis (function first), its faith and holidays for the stage after it. *(corrected 2026-11-18: `DR-137` item 8, `DEVELOPER_RULINGS_LOG.md` L2003; `DR-140` item 2, L2034.)*
 ⭐⭐⭐ **The leisure history:** on Upper Earth, a robot's leisure existed only because a romantic partner
 granted it — contingent, personal, revocable. **In Tepenia it is a fact of life, universal, owed to nobody —
 the material proof that leaving worked.**
@@ -100,9 +100,9 @@ vary by city/individual; the underlying value (trust) doesn't.
   applies to robots directly: city/culture of origin carries far more identity weight than Gen/Mark, and body
   type (Build's physical result) carries essentially none. **Build still matters, but as circumstance, not
   body type** — which local community had the interest that produced a robot, which traces back to the same
-  city she actually lives in, so it doesn't function as a separate axis. A robot built early in the Second
-  Interwar era and one built late are **not carrying the same culture**, even in the same city — the
-  transmission channel is the community, not the fabrication.
+  city she actually lives in, so it doesn't function as a separate axis.
+  ⭐ **From the general file's identity-timeline section, not Ch. 13** (`Robot_Physiology_and_Cultural_Practices.md` L191–L232): the two Acts apply to robots exactly as to humans — **`WHEN` a robot was built matters as much as `WHERE`**; a robot built early in the era and one built late are **not carrying the same culture**, even in the same city;
+  the transmission channel is the community, not the fabrication. *(corrected 2026-11-18: this sentence was attributed to Ch. 13, which does not contain it; Ch. 13 README L1–L52.)*
 - **Ch. 14 — Gen/Mark: real, structurally independent of city, but never a hierarchy.** Read in full
   2026-09-15. **Mark** = the fabrication-chamber hardware/design generation itself (currently Mark IV,
   designed at Neumayer) — a fact about the chamber, not the robot. **Gen** = the robot's own generational
@@ -165,3 +165,19 @@ calcium bone together) where they exist, and are confirmed SACRED AND UNTOUCHABL
   several engineers over time, or one.
 - ⏸️ **Still open:** siligel's proposed classes and its composition; coolant and electric charge as separate
   inputs.
+
+## Rulings of 2026-11-16 and 2026-11-17 (`DR-138` item 8, `DR-140`)
+
+*Appended 2026-11-18 at the end so no earlier line moves. Source: `DEVELOPER_RULINGS_LOG.md` L2014 (`DR-138`),
+L2034 and L2036 (`DR-140`). The general robot file does not yet carry these (a lag in that source).*
+
+- **A robot's charge is electric charge from the supply, and warming a cold cell to charge it also draws on the
+  supply; no rate or temperature written** (`DR-140` item 4, `DEC-604` (a), national; it confirms `DR-138` item 8's
+  provisional reading, "a robot's charge draws on the electric supply"). *Coolant and electric charge as separate
+  inputs stay open, above.*
+- **A city's place on the glitch-coolant axis is the CST's, not the ULM's** (`DR-140` item 2, `DEC-618` (a)).
+- **Everyday life waits:** a city pass's dishes, music, dress styles, games and slang wait for the cultural
+  synthesis, the pass writing only what the place's conditions require and allow, function first; its faith and
+  holidays wait for the stage after it (`DR-140` item 2). **There is no national music form, robots' music
+  included:** music is regional, by cultural region (the subnets), and is derived after the DCI (`DR-140` item 3).
+- ⏸️ **Not decided (research):** robot sustenance at cities that do not process siligel (`DEC-616`).

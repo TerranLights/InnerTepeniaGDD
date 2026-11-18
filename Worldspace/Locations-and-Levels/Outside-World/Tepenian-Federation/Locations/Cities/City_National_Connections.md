@@ -569,7 +569,7 @@ devotee-era connection to Kunlun is noted separately as a later, still-pre-war d
   Denison as the historical third manufacturer.
 - **Ariun Nuur's shared USA+Japan Primary-nation pairing** with Byrd is confirmed coincidence, developer-decided
   2026-08-06 — no fundamental or inherently special connection between the two cities. Not a thread for
-  further development.
+  further development. *(Note 2026-11-18, `DR-142` item 13, outside the developer's 2026-08-06 decision above, which is kept as written: Ariun Nuur's Primary tier is now Japan and Indonesia (`Official_Population_Census.md` L436, spec L22), so the city no longer shares the USA + Japan Primary pairing; the question this bullet settled is moot. Byrd's own row was not re-read.)*
 
 ---
 

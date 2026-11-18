@@ -251,7 +251,7 @@ or ties (`DR-19`). Founders come only from the Founding Register.**
 
 Governed by the ULM's own Step 3 research (`DR-14`, `DR-15`) and by the **source-not-specification** rule:
 the location is under no obligation to match its inspiration, and divergence stated is stronger than resemblance
-implied.
+implied. ⭐ **Independent convergence among unconnected inspiration places is evidence; places that share a root count once** (developer ruling `DR-141` item 3, 2026-11-17; stated in full in `00_RUNBOOK.md` Step 3, item 3.4, L2620).
 
 > ## ⭐⭐⭐ WHAT THE SITE-PROVENANCE RESTRICTION IS FOR — **and what it is NOT for**
 > **Added 2026-09-06 at the developer's direction, after a live pass over-applied it for eleven pieces.**

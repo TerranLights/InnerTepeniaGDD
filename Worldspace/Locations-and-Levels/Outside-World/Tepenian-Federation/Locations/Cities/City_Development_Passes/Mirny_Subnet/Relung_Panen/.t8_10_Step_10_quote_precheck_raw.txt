@@ -1,0 +1,5 @@
+target: 10_Readiness_Check.md
+sources: 14 list entries; own-pass files: 48 (dot-files and superseded files excluded)
+quoted fragments (>=3 words, ellipsis-split): 36
+found in sources at admitted ranges: 35 | found only in the pass's own files: 0 | NOT FOUND: 1
+  L318  ); every file checked by content ( 05 l627

@@ -1,7 +1,7 @@
 # Mawson — Datasheet · Phase 3 (Surface & Texture)
 
 > ⚠ **DRAFT — Tier C.** The spec's sensory and architectural prose is cited by range; it is not copied (Step −1 decides what is admissible). 📎 *Files cited by line number here may carry a pointer to their copy in the `DerivationMechanisms` repo at the very END of the file (put there so no cited line moves): check the bottom of a cited file.*
-> ⚠ **Ambiguous name:** the city and its subnet share the name; hits exclude `Mawson subnet` phrases, but a line may still be about the subnet. Every row below that comes from a name search may be about something else with the same name (a person, a feature, the subnet); read the line.
+> ⚠ **Ambiguous name:** the city and its subnet share the name. **Lines about the subnet count as the city's own lines** (the subnet is a shared thing the city is in), less any clause grounded only in another city's lines *(corrected 2026-11-18: was "hits exclude `Mawson subnet` phrases"; `DR-136` item 3, `DR-131` item 3, rulings log L1994, L1949)*. Every row below that comes from a name search may be about something else with the same name (a person, a feature, the subnet); read the line.
 
 > 📂 **MUST-OPEN coverage — Field Guide Rule 1 (spine, Phase 3), recounted by hand 2026-10-30:** **4 of 4** addresses are named in this sheet (4 directly, 0 through a shared Tier U sheet it cites). The Climate `READER/` file got its rows, with the data, on 2026-10-31. Not applicable: `Davis_Geosciences_Research` (the spine marks it "where applicable": Davis only).
 
@@ -10,10 +10,10 @@
 |---|---|---|
 | Concept-art directory status | EMPTY — `.gitkeep` only, 1 file(s) total | Checked 2026-10-21: `City_Concept-Art/Mawson_Subnet/Mawson` |
 | Megasheet Physical Infrastructure file | EXISTS — `Mawson_Physical_Infrastructure_Attributes.md`, inside a folder of 7 entries (6 files and 1 subfolder) | ⛔ **WITHHELD corpus-wide — record the conflict, never open.** Existence checked 2026-10-21 |
-| Per-city research folder | Checked, **none exists** for this city under `Reference/Real-World/` | Checked 2026-10-21 |
-| Spec — `## Geographic Basis` (directly-stated physical and sensory content) | Present at L73–L134; **cited by range, not quoted** — which spans are admissible is Step −1's ruling, and the section can carry comparisons and later-era phrasing | `Specs/Mawson.md` L73 |
-| Spec — `## Character & Culture` | Present at L145–L154; cited by range, not quoted | `Specs/Mawson.md` L145 |
-| Spec — `## Notable Locations` | Present at L162–L170; cited by range, not quoted | `Specs/Mawson.md` L162 |
+| Per-city research folder | Checked, **no per-city folder exists** for this city under `Reference/Real-World/`; two per-city files do: `Reference/Real-World/Inspiration_Place_Research/candidates/Mawson.md` (added 2026-10-27) and `.../inputs/Mawson.md` (added 2026-10-26). The inspiration picks are evidence for every city's pass (`DR-138` item 1); the city's picks are carried in `Step_3.md` *(pointer added 2026-11-18; rulings log L2014)* | Checked 2026-10-21; files rechecked 2026-11-18 |
+| Spec — `## Geographic Basis` (directly-stated physical and sensory content) | Present at L73–L134; **cited by range, not quoted** — which spans are admissible is Step −1's ruling, and the section can carry comparisons and later-era phrasing | `Specs/Mawson subnet/Mawson.md` L73 |
+| Spec — `## Character & Culture` | Present at L145–L154; cited by range, not quoted | `Specs/Mawson subnet/Mawson.md` L145 |
+| Spec — `## Notable Locations` | Present at L162–L170; cited by range, not quoted | `Specs/Mawson subnet/Mawson.md` L162 |
 | Climate file — station, authority and period | **READER station:** Mawson · **Climate authority:** Australian Antarctic Division (AAD) · **Station notes:** Mawson Station · **Data period:** 1991–2020 WMO standard normal (30 years in normal period) · **Full data range:** 1954–2026 · **Annual mean temperature:** -11.2°C | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Reference/Real-World/Climate Data/READER/Mawson.md` L1–L9 |
 | Climate file — Monthly Mean Temperatures (°C) — 1991–2020 WMO Normal | Jan **-0.3** · Feb **-4.2** · Mar **-10.2** · Apr **-14.8** · May **-16.7** · Jun **-16.3** · Jul **-17.8** · Aug **-18.1** · Sep **-16.9** · Oct **-12.7** · Nov **-5.3** · Dec **-0.8** · Annual **-11.2** _Source: BAS READER (Reference Antarctic Data for Environmental Research), https://legacy.bas.ac.uk/met/READER/ — cite as Turner et al. (2004), Int. J. Climatol. 24, 191–211._ | `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Reference/Real-World/Climate Data/READER/Mawson.md` L10–L16 |
 

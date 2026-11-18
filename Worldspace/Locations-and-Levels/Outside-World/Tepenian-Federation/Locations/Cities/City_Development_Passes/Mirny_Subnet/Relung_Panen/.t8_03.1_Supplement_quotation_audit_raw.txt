@@ -1,0 +1,27 @@
+pass audited : Relung_Panen
+corpus mode  : default (own pass excluded)
+corpus files : 7427   chars: 127,921,680
+files audited: 03.1_Research_Supplement.md
+own-pass mode: a quotation may also be found in this pass's OTHER files (never in its own file)
+
+=== POSITIVE CONTROLS ===
+  [easy                      ] FOUND     a terminus is nobody's midpoint
+  [HARD - blockquote wrap    ] FOUND     A pass may not proceed to Step 5 with a NEVER CITED row
+  [HARD - outside Worldspace ] FOUND     Paste raw QA scan output into the QA block. Never summa
+  [HARD - case mismatch      ] FOUND     YOU GO TO ESPERANZA AND YOU DO NOT COME HOME FOR FOUR Y
+  [HARD - long wrapped       ] FOUND     Different content is not differentiation; a different q
+
+  INSTRUMENT VALID: YES
+  NEGATIVE CONTROL (must be absent): PASS - absent
+
+=== QUOTATION AUDIT ===
+fragments tested (single-line, ellipsis-split, >=7 words): 12
+NOT FOUND in corpus: 1
+  of those, in TABLE CELLS : 0
+  of those, in PROSE       : 1
+
+  [03.1_Research_Supplement.md:256]           august (l186) is a construction's, not an error: the measured coldest month is june on two winters (rs-20; dq-60); (d) spec l188's
+
+⚠ TRIAGE BY HAND. A miss is not yet a defect: the pass quoting ITSELF, and
+  connective prose captured between two adjacent quotations, both show here.
+  Confirm each at source before calling it a defect.

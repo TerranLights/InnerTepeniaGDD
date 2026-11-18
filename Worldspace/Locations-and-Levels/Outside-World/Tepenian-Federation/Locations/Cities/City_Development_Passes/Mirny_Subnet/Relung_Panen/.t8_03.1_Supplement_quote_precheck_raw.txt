@@ -1,0 +1,4 @@
+target: 03.1_Research_Supplement.md
+sources: 30 list entries; own-pass files: 36 (dot-files and superseded files excluded)
+quoted fragments (>=3 words, ellipsis-split): 23
+found in sources at admitted ranges: 23 | found only in the pass's own files: 0 | NOT FOUND: 0

@@ -164,7 +164,7 @@ runnable.** ⏸️ **The against-siblings half is TERMINAL.**
 > per-location pass either. It runs at the TERMINAL differentiation check, on the finished corpus.**
 > ⛔ **Do not "check the most recently written sibling first." Do not state a contrast inline.** *(Both
 > instructions are revoked; they were the sharpest form of the thing the law forbids.)*
-> ✅ **In-run, run all four Part III.4 substitutes and say in the pass that you did.**
+> ✅ **In-run, run Part III.4 substitutes 3 and 4 only (real-world comparables; the generator-conflict method) and say in the pass that you did; record substitute 1 (its own earlier states) as deferred to after the pass; do not run substitute 2 (the nearest analogous location at another scale), which reads another location and belongs to the terminal differentiation check** (`DR-142` item 2, as corrected 2026-11-18; `Run_Modes_Warm_and_Cold.md` L127; a pass captures a place at its height, `DR-136` item 6, `DR-137` item 10). *(Was: ~~"run all four Part III.4 substitutes and say in the pass that you did"~~; then, earlier on 2026-11-18, ~~"run Part III.4 substitutes 2 to 4"~~.)*
 
 > ### ⚠ THE ORIGINAL 2026-08-30 REASONING, kept because it diagnosed the conflict correctly
 > **Gate 6 needs the siblings' completed material and the differentiation instrument. In a cold or
@@ -515,15 +515,15 @@ sole polity, a one-off megastructure.
 **Four substitutes, in order of strength:**
 
 1. **Its own earlier states.** A location with history is its own sibling set across time: differentiate the
-   present frame against the founding frame and the crisis frame. **Usually available, and the strongest.**
+   present frame against the founding frame and the crisis frame. ~~**Usually available, and the strongest.**~~ ⛔ **Not run inside a pass: recorded as deferred to after the pass** (`DR-142` item 2; a pass captures a place at its height, `DR-136` item 6, `DR-137` item 10).
 2. **The nearest analogous location at another scale.** A unique station against the cities; a unique polity
-   against its own sub-units.
+   against its own sub-units. ⛔ **Not run inside a pass: it reads another location, so it belongs to the terminal differentiation check** (`DR-142` item 2, as corrected 2026-11-18; `Run_Modes_Warm_and_Cold.md` L127).
 3. **Real-world comparables**, with divergence stated explicitly per the source-not-specification rule.
 4. **The generator-conflict method** (`02` §5) — which needs no sibling set at all, and is a large part of why
    this methodology runs three generators instead of one.
 
 > **A location with no siblings is at elevated risk of reading like the author's defaults**, because nothing is
-> pushing back. **Say so in the pass**, and run substitute 1 without fail.
+> pushing back. **Say so in the pass**, and run substitutes 3 and 4 only; record substitute 1 as deferred to after the pass, and do not run substitute 2 in a pass, since it reads another location (`DR-142` item 2, as corrected 2026-11-18; `Run_Modes_Warm_and_Cold.md` L127; a pass captures a place at its height, `DR-136` item 6, `DR-137` item 10). *(Was: ~~"and run substitute 1 without fail"~~; then, earlier on 2026-11-18, ~~"and run substitutes 2 to 4"~~.)*
 
 ---
 

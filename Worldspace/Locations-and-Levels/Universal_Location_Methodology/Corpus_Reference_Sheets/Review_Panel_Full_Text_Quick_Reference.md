@@ -1,7 +1,7 @@
 # Review Panel — Full Text Quick Reference (Step 8 / Gate 10)
 
-> ⭐ **Tier U — corpus-wide, identical for every city.** Feeds every city's Step 8. Extracted in full from
-> `Disciplines/00f_Review_Panel.md` (834 lines; was 832 when extracted), read in full 2026-09-15. **Nothing below is city-specific — it
+> ⭐ **Tier U — corpus-wide, identical for every city.** Feeds every city's Step 8. Source:
+> `Disciplines/00f_Review_Panel.md` (834 lines), read in full 2026-09-15 and re-checked 2026-11-18. **This sheet is a condensed operating extract, not a full copy:** the panels, rules and procedure are condensed, and the passages headed *"verbatim"* are copied word for word from the source lines they name. *(Corrected 2026-11-18: the header said "Extracted in full", which a 246-line condensation of 834 lines was not; the three verbatim passages were added the same day, and Rule 3, the `declined` definition and §8 carry `00_RUNBOOK.md` Step 8's current rules, L2980–L2999.)* **Nothing below is city-specific — it
 > is the same panel roster and procedure for all 38 cities.** Only the actual casting and objections raised for
 > a given city are Tier C — that's Step 8's own future content, not this sheet.
 
@@ -143,6 +143,25 @@ layer is still generating; write a developed place as having built over its orig
   acknowledge, and what will call it to account? The test for actual maturity: knowing one's limitations, and
   getting the help needed.
 
+## §4d — Three disciplines worth taking (verbatim, `00f` L506–L521, as of 2026-11-18; corrected 2026-11-18 from ~~L504–L521~~: the source's own heading, L504, was replaced by this one)
+
+**1. Ask *how*, not *whether*.** The Conclusion's stated first step is critical self-appraisal, and it is blunt
+about the wrong question: *"there is no use asking ourselves **if** the negative or shadow sides of the
+archetypes are showing up in our lives. The realistic, honest question we need to ask is **how** they are
+manifesting."* **Applied: never ask whether a district has a shadow. Ask how this district's shadow manifests.**
+This sharpens `00d` — a pass that concludes "no shadow here" has asked the wrong question.
+
+**2. Write the objection uncensored, in the position's own voice, *before* deciding it.** The technique's own
+instruction. A panelist's objection recorded as a tidy summary has already been half-adjudicated; recorded in
+voice, it keeps its force and is likelier to survive into a finding.
+
+**3. The persecutor stop-rule — and it is `00d` arriving from another direction.** The book cautions that if the
+dialogue turns up *"a really hostile presence… so vicious that you will need support to continue,"* the correct
+move is to stop, and *"invoke a positive archetypal energy form **before you even open the dialogue**."*
+**Applied: if the shadow panelists are turning the district into pure pathology, stop, and re-run a faculty in
+its fullness first.** Shadow-proportion failure is a real and repeated risk in this project; this is a
+procedural guard against it.
+
 ## §5 — Composition: the four-corner check on the panel itself
 
 Before accepting a run, confirm the objections came from genuinely different directions. If three positions all
@@ -183,10 +202,19 @@ a concrete person notices concrete things.
   hostile, the Elder will insist on things that aren't true. Their objections are data about how the place is
   experienced, not verdicts on whether it is right.
 - **Rule 3 — a position is not guaranteed to get what it wants**, and forcing the place to provide it is the
-  single most damaging thing this panel can do. Before accepting any objection: *would satisfying this make the
-  location more like the others? If yes, it is almost certainly `unmet`* (or `declined` — see the dispositions
+  single most damaging thing this panel can do. Before accepting any objection, a city pass asks the peer-free
+  form: ***"Would satisfying this objection replace something SPECIFIC TO THIS PLACE with something that could
+  be true anywhere?"*** **If yes, it is `unmet`, and the refusal is written as characterization rather than as a
+  gap to close.** **The peer-free test decides *whether* to refuse. Whether a refusal is `unmet` or `declined` is
+  decided by `00f`'s self-knowledge test (`Disciplines/00f_Review_Panel.md` L744–753)** (see the dispositions
   below). A want the location characteristically would not and should not satisfy is a finding about the
-  location, written as characterization, not as a gap to close.
+  location, written as characterization, not as a gap to close. *(corrected 2026-11-18: this rule carried only
+  the sibling form, "would satisfying this make the location more like the others?", which needs the sibling set
+  and was restated in its peer-free form for ULM / CST / RWBEM passes on 2026-09-06; `00_RUNBOOK.md` Step 8
+  L2989–L2999. `00f` L638 itself still carries the district form, "more like the other twelve", which stays
+  right for the district methodology.)* ⭐ The new form is strictly stronger: "more like its siblings" catches
+  only collisions with cities already finished; "could be true anywhere" catches genericness itself, including
+  the generic answer no sibling has written down yet (`00_RUNBOOK.md` L3001–L3004).
 
 ## §8 — How to run it
 
@@ -199,6 +227,13 @@ a concrete person notices concrete things.
    the six dispositions below).
 7. Panel-derived material becomes a normal Finding, tagged for provenance — or strengthens an existing one,
    which is an equally good outcome.
+
+**`00_RUNBOOK.md` Step 8's rules since 2026-11-04** *(added 2026-11-18; `00_RUNBOOK.md` L2983 and L2999)*:
+- **Step 7's errata enter the Review Panel's brief as facts, each with its source line, and the panel runs on the
+  corrected statements.** *(`M-278`.)*
+- **An `unmet` must name an admitted or ruled line that shows the place knowingly holding the thing; the pass's
+  own coinage cannot be that line. A refusal grounded only in national canon is `declined`. Report the `unmet`
+  count with its grounds, never as a measure of the place.** *(`M-280`, `M-313`/OBS-10.)*
 
 **Output block**, appended after the QA block:
 ```
@@ -226,11 +261,32 @@ a concrete person notices concrete things.
 - **unmet** — the location knowingly protects this and would refuse to surrender it. Diagnostic about the
   place's self-knowledge; a low count means the location's problems are absences it does not know it has.
 - **declined** — the pass refuses the objection on anti-homogenization grounds, but the location has no
-  awareness with which to protect anything: the want is real, satisfying it would make the place more like its
-  siblings, and nobody here would defend the refusal because nobody has noticed there's something to defend.
-  Write it as characterization exactly as Rule 3 requires — *the location has no concept of X, and here is what
-  that does to a life* — but never count it as self-knowledge; collapsing `unmet` and `declined` destroys the
-  signal this split exists to provide.
+  awareness with which to protect anything: the want is real, satisfying it would replace something specific to
+  this place with something that could be true anywhere, and nobody here would defend the refusal because nobody
+  has noticed there's something to defend. Write it as characterization exactly as Rule 3 requires — *the
+  location has no concept of X, and here is what that does to a life* — but never count it as self-knowledge;
+  collapsing `unmet` and `declined` destroys the signal this split exists to provide. *(corrected 2026-11-18:
+  "would make the place more like its siblings" restated in the peer-free form for a city pass, as in Rule 3;
+  `00_RUNBOOK.md` L2989–L2999. `00f` L747–L750 keeps the sibling wording.)*
+
+## What the panel runs established — two passages (verbatim, `00f` L757–L764 and L779–L783, as of 2026-11-18)
+
+### A position that cannot be cast at all is a finding, and a strong one
+
+**District C's Neighbor position could not be voiced from District D** — there was no history, no grievance,
+no trade and no contact to speak from. **A panel position requires a standpoint**, and the absence of
+one is the strongest available confirmation that a relationship genuinely does not exist.
+
+**Record it as a result rather than substituting a different neighbor.** It confirmed one of District C's own
+Findings from the outside, and District D's own pass later confirmed it from the other side.
+
+**The shadow position — the two techniques** *(`00f` L779–L783)*:
+
+**Two techniques came out of this and both should be used deliberately.** **The redirect** — the literal charge
+fails and an adjacent one lands, which is where District A's best shadow material came from. And **the
+conditional acquittal** — *not guilty, and here is exactly what would make it guilty*, which gave District D
+a live, playable trajectory instead of a verdict. **Pick the position most obviously suited to the district's
+reputation**, because the obvious charge failing is usually where the real one is.
 
 ## §9 — Known limits
 

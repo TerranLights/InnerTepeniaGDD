@@ -1,0 +1,37 @@
+pass audited : Relung_Panen
+corpus mode  : default (own pass excluded)
+corpus files : 7427   chars: 127,961,830
+files audited: 08_Review_Panel.md
+own-pass mode: a quotation may also be found in this pass's OTHER files (never in its own file)
+
+=== POSITIVE CONTROLS ===
+  [easy                      ] FOUND     a terminus is nobody's midpoint
+  [HARD - blockquote wrap    ] FOUND     A pass may not proceed to Step 5 with a NEVER CITED row
+  [HARD - outside Worldspace ] FOUND     Paste raw QA scan output into the QA block. Never summa
+  [HARD - case mismatch      ] FOUND     YOU GO TO ESPERANZA AND YOU DO NOT COME HOME FOR FOUR Y
+  [HARD - long wrapped       ] FOUND     Different content is not differentiation; a different q
+
+  INSTRUMENT VALID: YES
+  NEGATIVE CONTROL (must be absent): PASS - absent
+
+=== QUOTATION AUDIT ===
+fragments tested (single-line, ellipsis-split, >=7 words): 43
+NOT FOUND in corpus: 11
+  of those, in TABLE CELLS : 3
+  of those, in PROSE       : 8
+
+  [08_Review_Panel.md:76]  [CELL]  a fuel store needed); phase 3 p3-22 (l161); phase 5 p5-22 (l235); phase 10 p10-41 at the air edge only. overland the position cann
+  [08_Review_Panel.md:77]  [CELL]  (phase 5 l291). recorded as a result ( 00f l757-765; rf-262) a first wrote
+  [08_Review_Panel.md:77]  [CELL]  (round 3); c first wrote the position castable and adopted
+  [08_Review_Panel.md:183]           (phase 9 l224); gate 9 failed on this line
+  [08_Review_Panel.md:239]           and closes on whether the founding party held such robots being
+  [08_Review_Panel.md:330]           (phase 10 l182, proposed) (b) ; the catalog axis
+  [08_Review_Panel.md:485]           (phase 6 l146, at expression standing, proposed) and
+  [08_Review_Panel.md:645]           the orchestrator's sweep found step 7 l722 (
+  [08_Review_Panel.md:652]           against p4-32 and p4-34. every expression line saying
+  [08_Review_Panel.md:714]           (phase 9 l267), leans toward (b) (b) ; p9-4's
+  [08_Review_Panel.md:827]           at phase 7 l379 (b, round 3). c's 00f citation for
+
+⚠ TRIAGE BY HAND. A miss is not yet a defect: the pass quoting ITSELF, and
+  connective prose captured between two adjacent quotations, both show here.
+  Confirm each at source before calling it a defect.

@@ -1,0 +1,33 @@
+pass audited : Ariun_Nuur
+corpus mode  : default (own pass excluded)
+corpus files : 7777   chars: 141,591,243
+files audited: 00_Frame.md
+own-pass mode: a quotation may also be found in this pass's OTHER files (never in its own file)
+
+=== POSITIVE CONTROLS ===
+  [easy                      ] FOUND     a terminus is nobody's midpoint
+  [HARD - blockquote wrap    ] FOUND     A pass may not proceed to Step 5 with a NEVER CITED row
+  [HARD - outside Worldspace ] FOUND     Paste raw QA scan output into the QA block. Never summa
+  [HARD - case mismatch      ] FOUND     YOU GO TO ESPERANZA AND YOU DO NOT COME HOME FOR FOUR Y
+  [HARD - long wrapped       ] FOUND     Different content is not differentiation; a different q
+
+  INSTRUMENT VALID: YES
+  NEGATIVE CONTROL (must be absent): PASS - absent
+
+=== QUOTATION AUDIT ===
+fragments tested (single-line, ellipsis-split, >=7 words): 19
+NOT FOUND in corpus: 7
+  of those, in TABLE CELLS : 1
+  of those, in PROSE       : 6
+
+  [00_Frame.md:17]           is this pass's 00.1 step minus-1 input contract.md
+  [00_Frame.md:17]           are the second interwar era's readme.md and timeline.md
+  [00_Frame.md:101]           (contract l23, l50; dr-42 ), a naming fact with its boundaries and coverage open (rf-1). no other sub-location is listed (
+  [00_Frame.md:193]           matches brief 4 item 16 (recorded 2026-11-18, round 2 unanimous, round 3 six consistent) and contract l10-11. contract l108
+  [00_Frame.md:195]           ariun nuur's own ulm pass has not started; no step 0 declaration exists
+  [00_Frame.md:196]           must-open addresses : holds only in part. the census half of the third address is named (ds l13-14, l21); the timeline is named on
+  [00_Frame.md:332]  [CELL]  count, which omits the registries half), l20 (the label broader than contract cr-16), l25 (the unverified tier
+
+⚠ TRIAGE BY HAND. A miss is not yet a defect: the pass quoting ITSELF, and
+  connective prose captured between two adjacent quotations, both show here.
+  Confirm each at source before calling it a defect.

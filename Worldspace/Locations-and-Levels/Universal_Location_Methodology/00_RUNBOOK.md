@@ -444,7 +444,7 @@ finish."*
 |---|---|
 | **Ranking a city against others** — *"worst retention of the three," "26 of 37 are colder," "the freest in its subnet"* | ⭐ **The location's OWN figures, stated flatly** — *"retention `61.81%`"; "mean annual `−9.9 °C`"* |
 | **z-scores, percentile positions, "nth of N"** | **Its own arithmetic** — *population ÷ ground, its own tier percentages* |
-| **"Unlike X, this city…" · "same as X" · "better/worse grounded than X"** | ⭐ **`01` §5.3a's PEER-FREE substitutes — the location's own earlier states, real-world comparables, the generator-conflict method** |
+| **"Unlike X, this city…" · "same as X" · "better/worse grounded than X"** | ⭐ **`01` §5.3a's PEER-FREE substitutes — real-world comparables, the generator-conflict method; the location's own earlier states are recorded as deferred to after the pass** (`DR-142` item 2; a pass captures a place at its height, `DR-136` item 6, `DR-137` item 10) *(was: ~~"the location's own earlier states, real-world comparables, the generator-conflict method"~~)* |
 | **Using another city as a control, a baseline, or an implicit normal** | ⭐⭐ **RELATION — what this place needs from elsewhere, what flows, in which direction** *(see the open question below)* |
 
 > ### ⭐⭐⭐ WHY IT PRODUCES BETTER LOCATIONS, NOT THINNER ONES
@@ -2617,7 +2617,7 @@ the one least like the others. **Look at each pick at least far enough to know w
 **3.4 The source is not a specification.** Three outcomes are all legitimate: close resemblance with a new paint
 job · one mechanism taken and divergence everywhere else *(commonest)* · somewhere the source never went
 *(often best)*. **The two tests that bind are internal:** is it characteristically consistent with *itself*, and
-is it consistent in-world? **Divergence stated is stronger than resemblance implied.**
+is it consistent in-world? **Divergence stated is stronger than resemblance implied.** ⭐ **Independent convergence among unconnected inspiration places is evidence.** When several inspiration places **with no connection to each other** do the same thing **for the same reason**, that is a decent argument that the thing happens in a city drawing on them. It sits beside `DEC-594`: places that share a root (one source, one diffused practice, one connection) count once; places that reached the same practice independently, for the same reason, each count as evidence. Connection must be checked, not assumed. *(Added 2026-11-18: developer ruling `DR-141` item 3 of 2026-11-17, a method rule for every location; learned on Relung Panen and applied there from its research supplement on.)*
 
 **3.5 Two failure modes:** **transcription** (a costumed version of somewhere real) and **importing a vivid
 detail that does not follow.** **If the only argument for a detail is that it is interesting, cut it or earn
@@ -2900,7 +2900,7 @@ citations only. **Sweep with word boundaries on every alternative and inspect ev
 > - **`04_QA_Gates_and_Differentiation.md`, Part III (the differentiation instrument)** — the governing file
 >   for this whole step. **III.0** (a differentiation instrument only works if findings actually reach it —
 >   the measured case is a symbol collision noticed once and never propagated) · **III.4** (the no-sibling
->   substitutes, run for every location as of the ruling below) · **III.2/III.3** (now terminal-only, per the
+>   substitutes, ~~run for every location as of the ruling below~~ 3 and 4 run for every location as of the ruling below; 1 is recorded as deferred to after the pass; 2 is not run in a pass, `DR-142` item 2, as corrected 2026-11-18) · **III.2/III.3** (now terminal-only, per the
 >   table below — read them to know what is *not* run in-run, not only what is).
 
 > ### ⛔⛔⛔ THE STEP DID NOT DISAPPEAR. **ITS DIRECTION REVERSED.**
@@ -2911,7 +2911,7 @@ citations only. **Sweep with word boundaries on every alternative and inspect ev
 > | *Read the relevant rows **before** writing each category* | ⛔ **Do not read any other location's row. Ever.** |
 > | *Differentiate inline in the finding itself* | ⛔ **Revoked** — there is nothing in-run to differentiate against |
 > | *Check the most recently written sibling first* | ⛔⛔ **Revoked** — this was the sharpest form of the forbidden move |
-> | *If there is no sibling set, run the substitutes* | ✅ **Run `04` III.4's substitutes ALWAYS, for every location, and say in the pass that you did** |
+> | *If there is no sibling set, run the substitutes* | ✅ **Run `04` III.4's substitutes 3 and 4 (real-world comparables; the generator-conflict method) for every location, and say in the pass that you did; record substitute 1 (its own earlier states) as deferred to after the pass; do not run substitute 2, which reads another location** (`DR-142` item 2, as corrected 2026-11-18; `Run_Modes_Warm_and_Cold.md` L127; a pass captures a place at its height, `DR-136` item 6, `DR-137` item 10) *(was: ~~"Run `04` III.4's substitutes ALWAYS, for every location"~~)* |
 > | — | ✅ ⭐ **ADD THIS LOCATION'S OWN ROW, same commit** *(Step 9.2, unchanged; the city table holds one row per city, the district table one column per district)* |
 >
 > ⏸️ **The reading half returns at the TERMINAL differentiation check**, run once on the finished corpus.

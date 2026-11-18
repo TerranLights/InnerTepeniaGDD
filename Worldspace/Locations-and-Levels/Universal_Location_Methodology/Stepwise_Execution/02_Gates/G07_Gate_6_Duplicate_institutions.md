@@ -44,7 +44,7 @@ runnable.** ⏸️ **The against-siblings half is TERMINAL.**
 > per-location pass either. It runs at the TERMINAL differentiation check, on the finished corpus.**
 > ⛔ **Do not "check the most recently written sibling first." Do not state a contrast inline.** *(Both
 > instructions are revoked; they were the sharpest form of the thing the law forbids.)*
-> ✅ **In-run, run all four Part III.4 substitutes and say in the pass that you did.**
+> ✅ **In-run, run Part III.4 substitutes 3 and 4 only (real-world comparables; the generator-conflict method) and say in the pass that you did; record substitute 1 (its own earlier states) as deferred to after the pass; do not run substitute 2 (the nearest analogous location at another scale), which reads another location and belongs to the terminal differentiation check** (`DR-142` item 2, as corrected 2026-11-18; `Run_Modes_Warm_and_Cold.md` L127; a pass captures a place at its height, `DR-136` item 6, `DR-137` item 10). *(Was: ~~"run all four Part III.4 substitutes and say in the pass that you did"~~; then, earlier on 2026-11-18, ~~"run Part III.4 substitutes 2 to 4"~~.)*
 
 > ### ⚠ THE ORIGINAL 2026-08-30 REASONING, kept because it diagnosed the conflict correctly
 > **Gate 6 needs the siblings' completed material and the differentiation instrument. In a cold or

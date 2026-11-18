@@ -1,7 +1,7 @@
 # Tier U Reference — The Second Interwar Period
 
 > **Corpus-wide constant. Identical for every city, every pass. Not a per-city judgment call.**
-> Source: `Timeline Eras/2 The Second Interwar Period/README.md` (70 lines), extracted in full 2026-09-15.
+> Source: `/home/kuroskalacs/Documents/Doll-Fi/media/Reference/TepenianUniverseTimeline/Timeline Eras/2 The Second Interwar Period/README.md` (70 lines; Timeline repo, does not resolve from the GDD), extracted in full 2026-09-15. *(corrected 2026-11-18: the path was relative and did not resolve; ls check.)*
 > Re-verify against the source if this file's own date changes; otherwise cite this file directly and stop.
 
 ## The frame
@@ -50,3 +50,8 @@ between locations. What differentiates is how hard a given place used that exit.
    is never a differentiator, every Tepenian is Tepenian.
 4. Composition names the STOCK; time and place produce the CULTURE — operator: time · separation · local
    environmental setting · local struggles and hardships · local goals · local sensibilities and habits.
+5. ⛔ **A pass captures a place at its HEIGHT.** No earlier-state or Act 1 against Act 2 comparison runs inside a
+   pass; where a place may have had several peaks, the pass writes an overall average of its height; how it got
+   there and how it declined are extrapolated from it afterward, as a matter of **order**, not prohibition. Item 1
+   still applies to *placing* the height against the Act boundary. *(added 2026-11-18: `DR-136` item 6,
+   `DEVELOPER_RULINGS_LOG.md` L1994; `DR-137` item 10, L2003.)*

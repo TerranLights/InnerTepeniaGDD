@@ -668,7 +668,7 @@ return thin for the majority case** — so the sub-questions are weighted, not u
 | Sub-question | **Isolated location — the majority** | Clustered location — rare |
 |---|---|---|
 | **5a** Peers | **Optional.** Often the honest answer is a *category* ("the coastal cities"), not a name | Mandatory |
-| **5b** Three-way set | **→ use the own-eras substitute below** | ⛔ **NO LONGER MANDATORY — see the 2026-09-06 ruling below. The own-eras form is now the ONLY form** |
+| **5b** Three-way set | ⏸️ **Deferred to after the pass; Phase 5 records 5b as a null** (L693; `DR-137` item 10, `DR-142` item 2, as corrected 2026-11-18) *(was: ~~"→ use the own-eras substitute below"~~)* | ⛔ **NO LONGER MANDATORY — see the 2026-09-06 ruling below. The own-eras form is now the ONLY form** ⏸️ *(and it, too, runs after the pass, L693)* |
 | **5c** The parent | **PRIMARY — this is where an isolated location's relational content lives** | Mandatory |
 | **5d** Edge & crossing | Mandatory | Mandatory |
 | **5e** Dependency | **PRIMARY** | Mandatory |
@@ -707,18 +707,18 @@ usually nastier and better material.** *(Optional for isolated locations — see
 > natural three-way contrast for any single behavior category, because the geometry guarantees they differ on
 > the same axis without overlapping.* ⭐ **The reasoning was sound and the input is simply not available yet.**
 
-**⭐ THE FORM TO RUN — the three-way set against the location's OWN ERAS.** *(Previously labeled a substitute;
+**⭐ THE FORM TO RUN — the three-way set against the location's OWN ERAS.** ⏸️ *(After the pass, L693; not run in a pass, `DR-142` item 2, as corrected 2026-11-18.)* *(Previously labeled a substitute;
 now the whole of 5b.)* **A reader reaching this sub-question alone has somewhere to go, and it is the right
 somewhere:**
 >
-> **Run the three-way set against the location's own eras instead of against neighbors:**
+> **Run the three-way set against the location's own eras instead of against neighbors:** ⏸️ *(after the pass, L693)*
 > ***this place at its founding · this place at its crisis · this place now.***
 >
 > **Same procedure — pick one category first, then read all three states off the timeline.** `01` §5.3a already
-> names a location's own earlier states as *"the strongest substitute, usually available"*; **this is where it
+> names a location's own earlier states as *"the strongest substitute, usually available"*; ⛔ *(2026-11-18: this set is not run inside a pass; it is recorded as deferred to after the pass (`DR-142` item 2; a pass captures a place at its height, `DR-136` item 6, `DR-137` item 10))* **after the pass, this is where it
 > actually gets used.** It pairs directly with the two-stage lens in `01` §4, and with the *"in its own past"*
 > deficit address in `02` §4.1 — **if the address came back "in its own past," this substitute is not optional;
-> it is the phase.**
+> it is the phase.** ⏸️ *(After the pass, L693: inside a pass Phase 5 records 5b as a null, `DR-137` item 10, `DR-142` item 2, as corrected 2026-11-18.)*
 > **The sets are a network, not independent triples.** A location accumulates characterizations from other
 > locations' passes. **Check what this location was already assigned in someone else's set** before writing a
 > new one; where they conflict, the earlier one usually wins because it is already load-bearing.

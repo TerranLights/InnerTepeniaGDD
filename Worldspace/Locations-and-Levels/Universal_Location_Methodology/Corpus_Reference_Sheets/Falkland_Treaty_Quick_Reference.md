@@ -1,9 +1,9 @@
 # Tier U Reference — The Falkland Treaty
 
-> **Corpus-wide constant. Identical for every city, every pass.** Source: `Reference/Falkland_Treaty/
-> Falkland_Treaty_Draft_v1.md` (140 lines) + `Scaffold.md` (93 lines) + `Real_World_Influences.md` (68 lines),
-> all read in full 2026-09-15. **Status: first full draft, not locked canon** — treat article text as
-> citable working canon, not as finalized law. Signed at Stanley, Falkland Islands, **21 June 2564**.
+> **Corpus-wide constant. Identical for every city, every pass.** Source: `/home/kuroskalacs/Documents/Doll-Fi/media/Reference/TepenianUniverseTimeline/Reference/Falkland_Treaty/
+> Falkland_Treaty_Draft_v1.md` (142 lines as of 2026-11-18; 140 when read) + `Scaffold.md` (93 lines) + `Real_World_Influences.md` (68 lines), *(corrected 2026-11-18: the path was relative and resolved, from the GDD, only to 6–7-line "moved" stubs; ls and `wc -l`)*
+> all read in full 2026-09-15. **Status: first full draft, not locked canon.** **Practice, every city: findings may rest on the draft's articles, at draft standing, each dependent finding tagged `[treaty draft]` and listed** (`DR-142` item 3, generalizing `DR-136` item 11 and `DR-138` item 3) *(was: ~~"— treat article text as
+> citable working canon, not as finalized law"~~)*. Signed at Stanley, Falkland Islands, **21 June 2564**.
 
 ## The text, by Title — verbatim article language, condensed commentary
 
@@ -39,7 +39,7 @@ history.** Confirmed 2026-07-11: Maggie Aarden did not volunteer — the Assembl
   3. Any human who, **before the Treaty's date**, took up residence among robot communities, married/partnered
      with a robot, "borne or raised children in a robot household," or otherwise established their life among
      the robot population, **may elect** to accompany them to Tepenia.
-  4. No human is compelled to depart who does not so elect.
+  4. No human is compelled to depart who does not so elect. ⭐ **5. (added to the draft 2026-11-09)** Any human who has not made the para. 3 election may, **at any time after the effective date**, freely elect to take up residence in Tepenia; she is then deemed to have permanently relinquished any claim to home, residency or quarter in Assembly Power territory, and is treated as a para. 3 elector. *Verbatim text at the end of this sheet. (corrected 2026-11-18: draft L50, L138.)*
 - **Art. II.3 (Population Allocation Mechanism):**
   1. Tepenia's territory = the whole continent of Antarctica plus necessary surrounding waters.
   2. The departing population is settled at **existing scientific/research installations**, each population
@@ -71,12 +71,12 @@ history.** Confirmed 2026-07-11: Maggie Aarden did not volunteer — the Assembl
   3. A robot who departs under Art. II.2 and does not return is unaffected by paragraph 1.
 - **Art. IV.2 (Status of Humans Electing Exile):**
   1. No provision deprives a human of personhood "by reason of that person's own nature."
-  2. A human electing exile under Art. II.2.3 is deemed, under Assembly Power law, to have "willingly and
-     permanently relinquished their legal personhood" there.
+  2. A human electing exile under Art. II.2.3, **or electing residence under Art. II.2.5**, is deemed, under Assembly Power law, to have "willingly and
+     permanently relinquished their legal personhood" there. *(corrected 2026-11-18: II.2.5 cross-reference added to the draft 2026-11-09; draft L76.)*
   3. Such a person may not return; no Assembly Power is obliged to admit them.
   4. "The forfeiture described in this Article is not a penalty… but a consequence… of the human person's own
-     free choice to depart." ⚠ **Characterized in-world as voluntary; the scaffold itself calls this
-     "New-Echota-style manufactured legitimacy" — the choice offered was not genuinely open.**
+     free choice to depart." ⚠ **Characterized in-world as voluntary; the draft's own note on IV.2 calls this "the same New-Echota-style rhetorical move used throughout this draft" (draft L140) — the choice offered was not genuinely open (`Real_World_Influences.md` L17).** *(corrected 2026-11-18: this was attributed to the scaffold as "New-Echota-style manufactured legitimacy"; that phrase is `Real_World_Influences.md` L15's, about the preamble and Maggie Aarden, as is the scaffold's "manufactured-legitimacy narration" at `Scaffold.md` L21.)*
+     ⭐ **A Tepenian-born human under the treaty:** a gray area, see the end of this sheet (`DR-140` item 6).
 - **Art. IV.3 (Peaceful Use):** No armed force between the parties except self-defense, collective enforcement,
   or action against whichever party struck first. **A deliberate loophole — the scaffold identifies whichever
   exception gets exploited centuries later as the mechanical seed of the Long Night War.**
@@ -111,7 +111,7 @@ the United Assembly (Art. VIII.2).
 - ⚠⚠ **Human exile ran on PRIOR ASSOCIATION WITH THE ROBOT POPULATION — communal or personal** (Art. II.2.3),
   **before the Treaty's date.** **FOUR grounds, and the fourth is a broad residual:** *taken up residence among
   robot communities* · *married or partnered with a robot* · *borne or raised children in a robot household* ·
-  ***or otherwise established their life among the robot population.***
+  ***or otherwise established their life among the robot population.*** ⭐ **That is the founding election only: humans could keep arriving after the signing, under Art. II.2.5, and could not return to Upper Earth** (`DR-127` item 2, new canon; see the end of this sheet). *(corrected 2026-11-18: `DEVELOPER_RULINGS_LOG.md` L1913; draft L50.)*
   > ### ⛔⛔ CORRECTED 2026-09-16 — developer ruling. **This bullet previously read *"a relational criterion
   > only."* That was WRONG and it is a corpus-wide error class, so it is corrected here rather than per city.**
   > ***It is NOT obligatory for a human to have been in a relationship with a robot.*** **Two of the four
@@ -122,10 +122,10 @@ the United Assembly (Art. VIII.2).
   > ⭐ **What the four grounds DO share, and this is the safe form to reuse:** *every one is a tie to the robot
   > population, and not one is a tie to a place, a skill, a nationality, or any individual merit.*
   >
-  > ⚠ **How the error happened, because it will recur:** **L40–41 of this sheet transcribed the clause
+  > ⚠ **How the error happened, because it will recur:** **L39–41 of this sheet *(corrected 2026-11-18 from "L40–41"; the clause runs L39–L41)* transcribed the clause
   > correctly, residual included. The SUMMARY elided it.** ***A broad residual at the tail of an enumeration
   > survives accurate transcription and dies in the summary*** — and the narrow reading is the more vivid one,
-  > so the incentive runs toward the elision. **Full statement: Davis `04_Phase_02…md` §Q.5.**
+  > so the incentive runs toward the elision. **Full statement: this sheet's own L115–L127 and this line** (`DR-142` item 4: the pointer into one city's pass file is dropped).
 - **Station assignment is explicitly NOT tied to national origin** (Art. II.3.3) — this is the Treaty's own
   in-world statement of the GPS law, not an external rule imposed on the fiction.
 - **Assignment was staged over years, not a single event** (Art. II.3.2) — "in the years following this
@@ -135,3 +135,20 @@ the United Assembly (Art. VIII.2).
 - **The founding human election was legally real but not a genuine free choice** — confirmed directly:
   *"The treaty should read as a genuine negotiation offering a genuine choice, while the actual choice was
   never real."* (`Real_World_Influences.md` L17.)
+
+## Amendments and rulings since the 2026-09-15 read (appended 2026-11-18, so no earlier line moves)
+
+**Art. II.2.5, verbatim** (draft L50, added 2026-11-09, commit `23e5226` in the Timeline repo):
+> 5. Any human person who has not made the election described in paragraph 3 of this Article may, at any time after the effective date of this Treaty, freely elect to take up residence within the Federation of Tepenia, the Federation's existence not being limited to the population described in this Article. Such a person shall, by that election, be deemed under the law of each Assembly Power to have willingly and permanently relinquished any claim to home, residency, or quarter within Assembly Power territory, and shall for all purposes of this Treaty be treated as a person who has made the election described in paragraph 3.
+
+**Art. IV.2.2 as it now reads, verbatim** (draft L76):
+> 2. A human person who elects to accompany the robot population to the Federation of Tepenia under Article II.2.3, or who elects to take up residence there under Article II.2.5, shall, by that election, be deemed under the law of each Assembly Power to have willingly and permanently relinquished their legal personhood within Assembly Power territory, and shall not thereafter be recognized, within any such territory, as a person in law.
+
+- ⭐ **Humans could keep arriving after the signing; they could not return to Upper Earth** (`DR-127` item 2, NEW
+  CANON, 2026-11-09; `DEVELOPER_RULINGS_LOG.md` L1913). This replaces the reading that the human channel closed at
+  the signing: Art. II.2.3 fixes who may accompany the robot population without being prevented, and does not itself
+  bar later human arrival. The robot half (whether robots kept arriving) was not answered: open in law, and no later
+  arrival is recorded (`DR-127` item 2); robots after the signing stay open (`DR-140` item 5).
+- ⭐ **A Tepenian-born human under the treaty** (`DR-140` item 6, `DEC-607`, a new reading; L2034): Upper Earth may
+  officially recognize her as legitimately human, with human rights, and still not recognize her as a person; a gray
+  area, its fit with the draft's articles left to the treaty work.

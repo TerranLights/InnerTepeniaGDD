@@ -1,0 +1,30 @@
+pass audited : Relung_Panen
+corpus mode  : default (own pass excluded)
+corpus files : 7427   chars: 128,017,124
+files audited: 10_Readiness_Check.md
+own-pass mode: a quotation may also be found in this pass's OTHER files (never in its own file)
+
+=== POSITIVE CONTROLS ===
+  [easy                      ] FOUND     a terminus is nobody's midpoint
+  [HARD - blockquote wrap    ] FOUND     A pass may not proceed to Step 5 with a NEVER CITED row
+  [HARD - outside Worldspace ] FOUND     Paste raw QA scan output into the QA block. Never summa
+  [HARD - case mismatch      ] FOUND     YOU GO TO ESPERANZA AND YOU DO NOT COME HOME FOR FOUR Y
+  [HARD - long wrapped       ] FOUND     Different content is not differentiation; a different q
+
+  INSTRUMENT VALID: YES
+  NEGATIVE CONTROL (must be absent): PASS - absent
+
+=== QUOTATION AUDIT ===
+fragments tested (single-line, ellipsis-split, >=7 words): 12
+NOT FOUND in corpus: 4
+  of those, in TABLE CELLS : 0
+  of those, in PROSE       : 4
+
+  [10_Readiness_Check.md:77]           grep -v ':0 ' awk -f: ' s 2 end print s
+  [10_Readiness_Check.md:257]           total-files-with-hits: (grep -il kunlun 0 .md wc -l)
+  [10_Readiness_Check.md:318]           ); every file checked by content ( 05 l627
+  [10_Readiness_Check.md:354]           (the state is as the orchestrator reports); c
+
+⚠ TRIAGE BY HAND. A miss is not yet a defect: the pass quoting ITSELF, and
+  connective prose captured between two adjacent quotations, both show here.
+  Confirm each at source before calling it a defect.

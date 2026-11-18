@@ -1,0 +1,10 @@
+section 1: header L48, columns 5, data rows 6, insert at L56
+section 2: header L61, columns 3, data rows 6, insert at L69
+section 3: header L74, columns 3, data rows 6, insert at L82
+section 4: header L88, columns 3, data rows 6, insert at L96
+section 5: header L102, columns 5, data rows 6, insert at L110
+section 6: header L113, columns 5, data rows 6, insert at L121
+section 7: header L126, columns 5, data rows 6, insert at L134
+section 8: header L137, columns 3, data rows 6, insert at L145
+section 9: header L151, columns 3, data rows 6, insert at L159
+section 10: header L169, columns 3, data rows 2, insert at L173

@@ -1,0 +1,3 @@
+  HIT   05_Reconciliation.md:23  emphasis  | Every prior file of this pass (Step −1 to Phase 10, with the research supplement), emphasis markers and backticks stripped, searched for "St
+  HIT   05_Reconciliation.md:254  emphasis  | | RS-33 (L215) the glare season starts before the melt; ice the reflector | Phase 3 surface; P8-44; Phase 8 L540; REQ-182 | New conditional 
+British-form hits (excluding kept 'judgement'): 2 ; kept 'judgement': 0

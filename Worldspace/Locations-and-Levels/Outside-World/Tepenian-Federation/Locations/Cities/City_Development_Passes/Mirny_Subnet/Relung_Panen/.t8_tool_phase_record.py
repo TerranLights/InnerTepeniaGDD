@@ -15,14 +15,16 @@ r = lambda f: open(f, encoding="utf-8").read().rstrip("\n")
 lst = r(".t8_required_%s.txt" % tag)
 verd = []
 for X in "ABC":
+    mine = []
     L = open(".t8_%s_round3_reader%s.md" % (tag, X), encoding="utf-8").read().splitlines()
     for i, l in enumerate(L):
-        if "VERDICT" in l.upper():
+        if "VERDICT" in l.upper() and not (l.lstrip().startswith("#") and "DIFFER" in l.upper()):
             for j in range(i, min(i + 4, len(L))):
                 if j > i and "VERDICT" in L[j].upper() and "CONSISTENT" not in L[j]: break
                 if "CONSISTENT" in L[j]:
                     v = ".t8_%s_round3_reader%s.md:%d: %s" % (tag, X, j + 1, L[j].strip()[:170])
-                    if v not in verd: verd.append(v)
+                    if v not in mine: mine.append(v)
+    verd.extend(mine[:2])  # each reader gives two verdicts, one per other reader; later lines are summaries
 r3lines = ", ".join("`…reader%s.md` (%d)" % (X, len(open(".t8_%s_round3_reader%s.md" % (tag, X)).read().splitlines())) for X in "ABC")
 outlines = len(open(cfg["output"], encoding="utf-8").read().splitlines())
 tr = cfg.get("triage", {})

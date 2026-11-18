@@ -15,15 +15,19 @@ the Position-Coverage ledger and the 19 datasheets (inputs, not output); the pas
 | `01_Inherited.md` | ULM Step 1 — what canon already says, and its epistemic status |
 | `02_Spine.md` | ULM Step 2 — the capability profile, ≥3 generators |
 | `03_Research.md` | ULM Step 3 — targeted at what Step 2 named ⚠ *search strings go in the city's Research Log* |
-| `04_Phase_00…10_*.md` | ULM Step 4 — **one file per phase**, eleven of them |
+| `04_Phase_02…10_*.md` | ULM Step 4 — **one file per phase**, nine of them (Phases 0 and 1 are written into `00_Frame.md` and `02_Spine.md`) *(corrected 2026-11-18: read `04_Phase_00…10`, eleven; Pre-Trip §D L253, L267, L281–389)* |
 | `05_Reconciliation.md` | ULM Step 5 — and the CLOSE pass |
 | `06_Differentiation.md` | ULM Step 6 — ⛔ *the differentiation-table row goes in the SAME commit* |
-| `07_Gate_*.md` | ULM Step 7 — **one file per gate**, C·F·I·P·G then 0–11 |
+| `07_QA_Gates.md` | ULM Step 7 — one file holding all seventeen gates (C·F·I·P·G and 0–11), as the Pre-Trip L198 writes it *(corrected 2026-11-18; was "`07_Gate_*.md`, one file per gate")* |
 | `08_Review_Panel.md` | ULM Step 8 — six dispositions |
 | `09_Record.md` · `09.5_Log.md` | ULM Step 9 — and ⚠ **the recording law: snags, dead ends, killed findings, self-corrections** |
 | `10_Readiness_Check.md` | ULM Step 10 — ⚠ **verify, do not assert** |
 | `CST_01…17e_*.md` | Cultural Synthesis — **one file per technique** |
 | `RWBEM_A…F_*.md` | Real-World Basis Extrapolation — **one file per step** |
+| `00.1_Step_MINUS-1_Input_Contract.md` | ULM Step −1 — the input contract: the spec's line dispositions, which spans are admitted *(row added 2026-11-18: `DR-142` item 6, `DEC-667`; Pre-Trip L88)* |
+| `00.1b_T8_Rounds_Step_MINUS-1.md` · `00b_T8_Rounds_Step_0.md` · `01b_T8_Rounds_Step_1.md` · `02b_T8_Rounds_Step_2.md` · `03b_T8_Rounds_Step_3.md` | Round records, Steps −1 to 3 — each step's `T8` rounds, raw Round 2 output pasted *(row added 2026-11-18: `DR-142` item 6; Pre-Trip L74, L89, L110, L122, L135, L149)* |
+| `04b_T8_Rounds_Phase_2.md` … `04b_T8_Rounds_Phase_10.md` | Round records, Phases 2 to 10 — nine (Phases 0 and 1 use the Step 0 and Step 2 records; Step 4 has none of its own) *(row added 2026-11-18: `DR-142` item 6; Pre-Trip L160, L253, L267, L281, L293, L307, L322, L335, L354, L364, L375, L389)* |
+| `05b_T8_Rounds_Step_5.md` · `06b_T8_Rounds_Step_6.md` · `07b_T8_Rounds_Step_7.md` · `08b_T8_Rounds_Step_8.md` · `09b_T8_Rounds_Step_9.md` · `10b_T8_Rounds_Step_10.md` | Round records, Steps 5 to 10 *(row added 2026-11-18: `DR-142` item 6; Pre-Trip L175, L186, L199, L211, L222, L234)* |
 
 ⭐ **Flat, not foldered by process** — *developer instruction: "organize by subnet/city/city-files, instead of
 by process, since all the answers will be related to each other anyway."* **The numeric prefix keeps run order
@@ -37,7 +41,7 @@ legible; the `CST_`/`RWBEM_` prefixes keep the instrument legible.**
 | **Spec** | `../../../Specs/Mirny subnet/Ariun_Nuur.md` |
 | **Local culture** | `../../../Local_Cultures/Mirny_Subnet/Ariun_Nuur.md` ⚠ *Amundsen Station and Concordia do NOT follow this pattern — read by name* |
 | **Vision notes** | `../../../City_Vision_Notes/Ariun_Nuur.md` |
-| **Research log** | `../../../Research_Logs/Ariun_Nuur_Research_Log.md` ⚠ *may not exist yet — Step F creates it* |
+| **Research log** | `../../../Research_Logs/Ariun_Nuur_Research_Log.md` ⚠ *may not exist yet — created at Step 3 (`00_RUNBOOK.md` §3.7, L2628–2631)* |
 | **Picks to mine** | `../../../Inspirational-Influences.md` |
 | ⛔ **Megasheets** | **WITHHELD from every run** — *due to be rewritten* |
 

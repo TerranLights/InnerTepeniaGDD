@@ -429,7 +429,7 @@ National communities are classified by tier based on long-run population share. 
 
 ---
 
-**Vostok** *(East Antarctic Plateau — inland)*
+**Ariun Nuur** *(East Antarctic Plateau — inland)* *(corrected 2026-11-18, DR-142 item 13: was "Vostok"; the city was renamed by `DR-42`)*
 
 | Tier | Nations |
 |------|---------|
@@ -437,7 +437,7 @@ National communities are classified by tier based on long-run population share. 
 | Significant | CSA, Korea, Australia, Cascadia, Appalachia, Demilitarized Zone (s. Ontario; not a nation), New England, Mongolia *(founding wave)*, Chile, Quebec, Künnarantaiga *(founding wave)*, Taiwan, Prairie Federation, Midwest Republic, New Zealand, Kazakhstan, Colorado |
 | Notable | Sonora, Araucanía-Patagonia, West Papua, Aceh, Hawaii, Alaska |
 
-*Note: Vostok's current population composition is a genuine, deliberate tension with `Specs/Vostok.md`'s own founding story, which describes Vostok's founding population as "primarily Russian exiles" — the population that actually exists today carries none of that Russian heritage at all. The gap itself is ambient, unexplained fact rather than a traceable historical event. See `Local_Cultures/Mirny_Subnet/Vostok.md` for this tension developed as a cultural feature, not an oversight.*
+*Note: Ariun Nuur's founders are Künnarantaiga and Mongolia, jointly, as `Founding_Register.md` gives them (`DR-35`; Künnarantaiga is one of the successor states of the old Russia in the developer's maps, not Russia itself), and `Specs/Mirny subnet/Ariun_Nuur.md` states the same; both stand in the Significant tier above, marked founding wave. The older founding story this note set against the composition was retired by `DR-35`, so the tension it described no longer stands.* *(corrected 2026-11-18, DR-142 item 13: was "Vostok's current population composition is a genuine, deliberate tension with `Specs/Vostok.md`'s own founding story, which describes Vostok's founding population as "primarily Russian exiles" — the population that actually exists today carries none of that Russian heritage at all. The gap itself is ambient, unexplained fact rather than a traceable historical event. See `Local_Cultures/Mirny_Subnet/Vostok.md` for this tension developed as a cultural feature, not an oversight.")*
 
 ---
 

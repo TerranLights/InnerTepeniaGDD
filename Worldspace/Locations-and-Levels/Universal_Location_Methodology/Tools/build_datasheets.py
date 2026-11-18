@@ -709,7 +709,7 @@ def f_phase_5(d):
         h = ctx.hits(p) or []
         rows.append((lab + " — lines naming the city", ("%d line(s): %s *(line numbers only)*" % (len(h), B.fmt_lines(h))) if h else "Checked by name: **zero hits**", cite(p, h or None)))
     return header(ctx, "Phase 5 (Relation & Geometry)", "> ⚠ **DRAFT — Tier C.** Sourced to the city's own entries and outward role.\n\n" + flag
-                  ) + "\n" + table(rows) + NOT_MECH("mechanism-not-rivalry framing, the own-eras three-way set, the parent-disagreement analysis, the arrival-type enumeration, the dependency analysis", ctx)
+                  ) + "\n" + table(rows) + NOT_MECH("mechanism-not-rivalry framing, the own-eras three-way set (deferred to after the pass, `DR-137` item 10, `DR-142` item 2), the parent-disagreement analysis, the arrival-type enumeration, the dependency analysis", ctx)
 
 
 def dir_hit_rows(d, root, label):

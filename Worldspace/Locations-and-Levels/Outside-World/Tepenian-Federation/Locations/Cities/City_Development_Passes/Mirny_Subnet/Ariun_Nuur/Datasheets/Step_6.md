@@ -1,6 +1,6 @@
-# Vostok — Datasheet · Step 6 (Differentiate, write-only)
+# Ariun Nuur — Datasheet · Step 6 (Differentiate, write-only)
 
-> ⚙ **This sheet calls the city "Vostok"; its official name is Ariun Nuur (`DR-42`, 2026-10-03).** The central scientific district, the real Vostok Station and Lake Vostok keep the name, and rows that cite sources still headed "Vostok" (for example `16` §23) keep it too. Quotations from the Ariun Nuur spec were re-quoted from the live text on 2026-10-30.
+> ⚙ **This sheet uses the city's official name, Ariun Nuur (`DR-42`, 2026-10-03), and keeps "Vostok" only for the real Vostok Station, Lake Vostok and the city's central scientific district** *(updated 2026-11-18)*. File and folder names, and rows that cite or quote a source still headed "Vostok" (for example `16` §23, `09`'s row label, the census heading *(corrected at the source 2026-11-18 to Ariun Nuur, `DR-142` item 13)*), keep that source's own spelling. Quotations from the Ariun Nuur spec were re-quoted from the live text on 2026-10-30.
 
 > ⚠ **DRAFT — Tier U.** Built in full 2026-09-15, corpus-wide, identical for every city. 📎 *Files cited by line number here may carry a pointer to their copy in the `DerivationMechanisms` repo at the very END of the file (put there so no cited line moves): check the bottom of a cited file.*
 
@@ -8,9 +8,9 @@
 |---|---|---|
 | Governing rule, `04` Part III's full text, destination addresses | All pasted verbatim, identical for every city — cite this sheet, do not re-extract from `04`/`00_RUNBOOK.md` per city | `Corpus_Reference_Sheets/Differentiation_Instrument_Quick_Reference.md` |
 | Dependency | Depends on Step 4's phases being written, nothing later. The table is *"FILLED DURING synthesis, not before it."* | `Corpus_Reference_Sheets/Differentiation_Instrument_Quick_Reference.md` |
-| Vostok's own row | **Not pre-extractable** — this city's own fresh output, does not exist until Vostok's own Step 6 actually runs | N/A |
+| Ariun Nuur's own row | **Not pre-extractable** — this city's own fresh output, does not exist until Ariun Nuur's own Step 6 actually runs | N/A |
 
-⛔ **WRITE-ONLY.** Never read another city's cell, mechanical or not — this applies to Vostok's own Step 6 the
+⛔ **WRITE-ONLY.** Never read another city's cell, mechanical or not — this applies to Ariun Nuur's own Step 6 the
 same as every other city's.
 
 > ### ⭐⭐ THE TABLE HAS TEN SECTIONS, NOT ONE — copy-pasted from the destination file's own headers
@@ -26,7 +26,7 @@ same as every other city's.
 > | 4 | Phase 4 — Ordinary Life | Axis |
 > | 5 | Phase 6 — Meaning | The unnamed load-bearing thing · Observance axis · Death & the dead · Phase axis |
 > | 6 | Phase 7 — Order | Governance: what is UNADMINISTRABLE · Transmission: how skill passes · Counterculture axis · Phase axis |
-> | 7 | Phase 8 — Making | Food axis · Dress axis · Language / speech marker · Phase axis |
+> | 7 | Phase 8 — Making | Food axis · Dress axis · Language / speech marker · Phase axis | *(2026-11-18, rows 5 and 7: under `DR-140` item 2, the Observance, Food and Dress cells, and the slang in the speech marker, are written as the function axis the pass wrote, with the slot sent on and the ruling named)*
 > | 8 | Phase 5 — Relation & Geometry | Named relational axis · What it refuses to develop, and who supplies it |
 > | 9 | Phase 9 — Populations | Lens · Is there a category here that matters MORE than kind? |
 > | 10 | Phase 10 — Catalog | Catalog axis · Pass |
@@ -34,5 +34,5 @@ same as every other city's.
 > ⛔ **A completed Step 6 must add a row to ALL TEN, in the same commit.** Fewer than ten is an under-fill,
 > not a smaller city's exemption.
 
-**Not mechanical / not included here:** Vostok's own actual differentiation row — this phase's actual
+**Not mechanical / not included here:** Ariun Nuur's own actual differentiation row — this phase's actual
 content, none of which exists yet.

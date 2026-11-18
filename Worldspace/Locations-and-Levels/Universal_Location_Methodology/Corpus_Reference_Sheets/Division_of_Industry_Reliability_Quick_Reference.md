@@ -14,7 +14,7 @@
 
 ---
 
-# 1 · ⛔ THE CARVE-OUT — `README.md` L3–14, verbatim
+# 1 · ⛔ THE CARVE-OUT — `README.md` L8–L19, verbatim *(corrected 2026-11-18 from "L3–14": a header block was added at README L3–L6 on 2026-10-01; the quoted text still matches word for word)*
 
 > ## ⛔ **CARVE-OUT — THE FOOD LAYER (B1) IS NOT RELIABLE. Added 2026-09-01, after independent validation.**
 > **Three independent checkers found the national food balance to be circular, double-counted, and stated in
@@ -37,14 +37,14 @@
 |---|---|---|
 | **Population · workforce · residents** | ✅ **RELIABLE** | **Census sums reconcile exactly; `robots + 0.5×humans` verifies on all 38 cities with zero mismatches.** Cite freely |
 | **Difficulty `D` · the difficulty ladder** | ✅ **RELIABLE** | **MCAA-sourced, cross-checked against Nunavut cost data.** Cite freely |
-| **Baseline load % · distinctive tier % · the character budget** | ✅ **RELIABLE** | **This is the `100 − BaselineLoad` two-tier §15 ruling.** Cite freely |
+| **Baseline load % · distinctive tier % · the character budget** | ✅ **RELIABLE** | **This is the `100 − BaselineLoad` two-tier §15 ruling.** Cite freely. ⭐ **Since 2026-11-03 the baseline includes the robot-keyed term: B3 robot maintenance (12.5 per 1,000 robots) and B4 robot sustenance (3.25 per 1,000), 15.75 per 1,000 robots in all** *(added 2026-11-18: `DR-97`, `DEVELOPER_RULINGS_LOG.md` L1638–L1645; `README.md` L70–L71 still lists B3 and B4 as "genuinely open", a lag in that source)* |
 | **The freedom margin** | ✅ **RELIABLE** | ⚠ **But see §5 — the DISTRIBUTIONAL reading of it is `DR-4`-blocked and cross-city** |
 | **The other 21 industries** | ✅ **RELIABLE** | ⚠ **C6, C7, C8 and D4 rates are ESTIMATED, not sourced** |
 | ⭐ **A city's own §15 sector shares, AND the headcount they yield** | ✅ **RELIABLE AND CITABLE** | ⭐⭐ **Under `16`'s convention — see §3. *The SECTOR SIZE is not blocked.*** e.g. *"agriculture = 35% of the distinctive tier = N workers"* is a governing figure |
 | ⭐ **`16` Half B's MAND% / FREE% split** | ✅ **CITABLE AS THE FIRST-PASS SPLIT ONLY** *(written 2026-09-02)* | **The city's own "DETERMINED" section of `16` (upper-case heading, §1 … §35) supersedes it — quote both and say which governs. A case-sensitive name search misses that heading.** |
 | ⛔⛔ **Any EXPORT or DEFICIT headcount** | ⛔ **NOT CITABLE — but not for the reason `README` gives** | ⭐ **See §2a. The denominator is settled; the OWN-NEED SUBTRACTION is not** |
 | ⛔⛔ **"Feeds N people" · "supplies X% of the country"** | ⛔ **NOT CITABLE — fails twice over** | **See §2a.3** |
-| ⛔ **The national food balance · the B1 rate as `53` · `README`'s "First results" block** | ⛔ **WITHDRAWN** | **`53` has no independent derivation — it is a SUPPLY figure inverted into a DEMAND rate and compared back against its own source** |
+| ⛔ **The 2026-09-01 national food balance · the B1 rate as `53` · `README`'s "First results" block** | ⛔ **WITHDRAWN** | **`53` has no independent derivation — it is a SUPPLY figure inverted into a DEMAND rate and compared back against its own source.** ⚠ *Only the 2026-09-01 balance is withdrawn; the balance was re-run in `17` (2026-10-28; its §2 under conventions A, B and C, its §5 settling convention B; was: ~~"re-run under convention B in `17`"~~, corrected 2026-11-18) and under convention B in `19` (2026-11-02, re-run 2026-11-03 in its §5) — see §6. **Ruled 2026-11-18 (`DR-142` item 5): `19`'s national figures (§5, 2026-11-03) are citable in a city pass as national context only; a city's own export or "feeds N" headcount stays not citable** (was: ~~"not yet ruled (question held 2026-11-18)"~~). (corrected 2026-11-18: `DR-73`, `DR-91`, `DR-97`; `19` L1–L30, L56 onward)* |
 
 ## 2a · ⭐⭐⭐ **PRECISELY WHY AN EXPORT FIGURE FAILS** — *corrected 2026-09-16; the first draft of this sheet overstated it*
 
@@ -90,12 +90,19 @@
 > determination AND the national balance… All determinations continue on `16`'s convention so they stay
 > mutually consistent."***
 
+> ## ✅ **AND THE DEVELOPER HAS SINCE RULED IT: `DR-73` (2026-10-28), convention B.** ***Every mandated-role
+> percentage (agriculture, education, medicine, logistics and the rest) is a share of the city's DISTINCTIVE TIER*** —
+> workforce minus baseline, under the three-tier method — not of the whole workforce. This is `16`'s convention, so
+> no finished determination changed; `13` §15, `04` §3 and `National_Medical_and_Care_Institutes.md` state their own
+> conventions and are superseded on this point. *(added 2026-11-18: `DEVELOPER_RULINGS_LOG.md` L1393–L1403. `16`'s
+> register item 11, L3565, is still marked open and was never annotated, a lag in that source.)*
+
 ⇒ ⭐ **This sheet is not only a warning. It tells every city which number to use.** ⛔ **A whole-workforce
 figure is not citable in a city pass, even where a canon file states it.**
 
-**The corpus's own worked example of the gap, recorded at `16` L2056–2062:** one city's agriculture sector reads
-**306,780** under the whole-workforce convention and **181,808** under `16`'s — ***"same sector, same city,
-124,972 workers apart."***
+**The corpus's own worked example of the gap, recorded at `16` L2089–L2096:** one city's agriculture sector reads
+**320,284** under the whole-workforce convention (35% of its whole workforce, 915,098) and **186,131** under `16`'s (35% of its distinctive tier, 531,803) — ***"same sector, same city,
+134,153 workers apart."*** *(corrected 2026-11-18: the figures were recomputed on 2026-11-03 for the robot term; the sheet carried 306,780, 181,808 and 124,972 apart from `16` L2056–2062. `04`'s published 306,780 is its own, older whole-workforce figure, not recomputed.)*
 
 ---
 
@@ -123,7 +130,7 @@ figure is not citable in a city pass, even where a canon file states it.**
 
 | # | Where | Why refused |
 |--:|---|---|
-| **1** | ⛔⛔ **`10_Validation_Findings…md` L263** — *"this is a nation whose currency is denominated in guaranteed grid capacity"* | ***`DR-3`: NOTHING about what the money is backed by is settled, at any stage.*** **The claim is loose in a file stamped RELIABLE.** ⛔ **Never carry it.** *See `Worldspace/National_Economy_and_Currency.md`* |
+| **1** | ⛔⛔ **`10_Validation_Findings…md` L263** — *"a nation whose currency is denominated in guaranteed grid capacity"* | ***`DR-3`: NOTHING about what the money is backed by is settled, at any stage.*** **`10` L263–L265 now carries the correction itself** (2026-09-26: *"is NOT canon"*, `DR-3`). ⛔ **Never carry the claim.** *See `Worldspace/National_Economy_and_Currency.md`* *(corrected 2026-11-18: the sheet said the claim was "loose in a file stamped RELIABLE"; `10` L263–L265)* |
 | **2** | ⛔⛔ **`16`'s per-city Notes blocks use real-world site NAMESAKES characterologically** *(e.g. reading a city's namesake as "a navigator and enabler, not a flag-planter")* | ***GPS LAW: a real site's builder, lineage and namesake are a coordinate only.*** ⛔ **Never use as characterization.** *See `No_National_Stereotypes.md`* |
 | **3** | ⚠ **`09` §3.5's freedom-gradient / "resentment engine" reading** *(`10` Finding 7)* | ⛔ **DISTRIBUTIONAL and CROSS-CITY** ⇒ **`DR-4` + ONE LOCATION.** ✅ **A city's OWN freedom margin is its own number and stays** |
 
@@ -142,6 +149,10 @@ figure is not citable in a city pass, even where a canon file states it.**
 | **`09_Per_City_Baseline_Run.md`** | **All 38 cities.** §3.5 is the freedom-margin finding |
 | **`00` · `04` · `05` · `06` · `02`** | The 22-industry register · national balance ⚠ *(food figures gated)* · non-provider cities · why Census I · the still-empty differentiation table |
 | ⛔ **`01` · `03` · `07`** | **SUPERSEDED. Do not use their figures** |
+| **`17_National_Balance_Refresh_2026-10-28.md`** | A refresh record: the national food balance re-run on the Santa Luce populations under conventions A, B and C (its §2), with only its §5 settling convention B (`DR-73`) *(corrected 2026-11-18; was: ~~"re-run under convention B (`DR-73`)"~~; `17` L26, L78–L80)*. **Superseded for the current figures by `19`** *(its own title says so)* |
+| **`18_Relung_Panen_Determination_2026-10-29.md`** | One city's Division of Industry determination (re-run 2026-11-02 and for the robot term) |
+| ⭐ **`19_National_Balance_Refresh_2026-11-02.md`** | **The current national food balance, convention B** (`DR-91`). §2 (2026-11-02): export supply 427,642, balance +69%, slack 7.7% (3.0% without one exporting city). ⭐ **§5 re-run 2026-11-03 for the robot term (`DR-97`), the current figures: export supply 420,833; balance +167,541 (+66%); slack 7.4% of national humans (1,156,729 people); without that city, balance +25% and slack 2.8%.** ✅ ***Ruled 2026-11-18 (`DR-142` item 5): citable in a city pass as national context only; a city's own export or "feeds N" headcount stays not citable (§2a)*** *(was: ~~"Citability in a city pass not yet ruled — question held 2026-11-18"~~)* |
+*(Rows `17`–`19` added 2026-11-18: `README.md`'s read order, L30–L49, does not list them, a lag in that source; `19` L1–L30, L56 onward; `DEVELOPER_RULINGS_LOG.md` L1579–L1586.)*
 
 ---
 

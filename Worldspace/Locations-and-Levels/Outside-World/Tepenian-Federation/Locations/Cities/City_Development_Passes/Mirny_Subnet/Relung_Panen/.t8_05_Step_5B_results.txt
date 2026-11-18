@@ -1,0 +1,5 @@
+Part 1 of `05_Reconciliation.md` (623 lines, ending at its line "*End of Part 1 (stage A). Stage B is appended below this line.*") was sealed by the orchestrator before this brief was written: sha256 `bb61b688adb7530c18a3c68435362815dfba01b4efd0dfecb0d2e530badeaa12`, byte copy kept beside it; the hash is re-checked before stage B's Round 2 and the head compared after the append (no admitted line; orchestrator's seal).
+The strongest finding and its named leg are in Part 1's strongest-finding section, L476–494 (S5-80; leg 1, the absence of any energy of the site's own). Test the leg exactly as written there (no admitted line beyond entry 1; orchestrator's pointer).
+Part 1's rows handed to stage B are HF5-1 to HF5-6 (its L499–504); each must be answered.
+The vision notes for this city (`City_Vision_Notes/Relung_Panen.md`) exist and are not on your list: they are not an input at any step, and not a check either (`DR-10`; the Pre-Trip's §F).
+`Neo-Races-and-Cultures/Mirny_Subnet/Relung_Panen/Relung_Panen_Catalog.md` exists and is not on your list: it belongs to the downstream neo-race synthesis project and is not an input at any step (the Pre-Trip's §F).

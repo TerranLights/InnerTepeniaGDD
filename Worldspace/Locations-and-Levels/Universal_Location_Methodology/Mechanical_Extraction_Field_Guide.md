@@ -277,7 +277,7 @@ rhythm fails to provide.
 neighbors along it) · airport/port existence and directly-stated facts · this city's own entry in
 `City_Cross_Subnet_Relationships.md`, `City_Relationship_Database.md` (exact line range, verbatim), and
 `City_National_Connections.md` (⚠ open ITS OWN header first). **Not mechanical:** mechanism-not-rivalry framing,
-the own-eras three-way set, the parent-disagreement analysis, the arrival-type enumeration + visitor-to-member
+the own-eras three-way set (deferred to after the pass, `DR-137` item 10, `DR-142` item 2), the parent-disagreement analysis, the arrival-type enumeration + visitor-to-member
 mechanism, the dependency/who-knows-it analysis.
 
 **Phase 6 — Meaning.** *(2026-10-21: the generic term "social contract" has its own sheet: `Corpus_Reference_Sheets/Social_Contract_Term_Quick_Reference.md`.)* *Tier C:* does any named religion's own file cite this city specifically · does

@@ -1,0 +1,18 @@
+normalized sweep for rows addressed to Step 5 (emphasis stripped; 'Step 5', 'Steps 5', a list naming 5, or a range spanning 5)
+00.1_Step_MINUS-1_Input_Contract.md 8 [136, 218, 263, 280, 333, 372, 422, 489]
+00_Frame.md 5 [33, 87, 239, 267, 571]
+01_Inherited.md 2 [128, 139]
+02_Spine.md 2 [22, 340]
+02.1_Spine_Amendment_G7.md 0 []
+03_Research.md 0 []
+03.1_Research_Supplement.md 2 [3, 291]
+04_Phase_02_Composition_and_Arrival.md 0 []
+04_Phase_03_Surface_and_Texture.md 4 [13, 19, 61, 387]
+04_Phase_04_Ordinary_Life.md 1 [22]
+04_Phase_05_Relation_and_Geometry.md 2 [210, 282]
+04_Phase_06_Meaning.md 1 [20]
+04_Phase_07_Order.md 1 [560]
+04_Phase_08_Making.md 0 []
+04_Phase_09_Populations.md 0 []
+04_Phase_10_Catalog.md 18 [18, 22, 32, 37, 213, 215, 220, 228, 297, 305, 360, 361, 362, 363, 364, 365, 368, 390]
+total lines 46

@@ -1,0 +1,2 @@
+  HIT   07_QA_Gates.md:673  emphasis  | Reader C's sweep, raw output, whole (emphasis markers and backticks stripped; blank lines are files with no hit):
+British-form hits (excluding kept 'judgement'): 1 ; kept 'judgement': 0

@@ -1,0 +1,58 @@
+pass audited : Relung_Panen
+corpus mode  : default (own pass excluded)
+corpus files : 7427   chars: 127,956,634
+files audited: 07_QA_Gates.md
+own-pass mode: a quotation may also be found in this pass's OTHER files (never in its own file)
+
+=== POSITIVE CONTROLS ===
+  [easy                      ] FOUND     a terminus is nobody's midpoint
+  [HARD - blockquote wrap    ] FOUND     A pass may not proceed to Step 5 with a NEVER CITED row
+  [HARD - outside Worldspace ] FOUND     Paste raw QA scan output into the QA block. Never summa
+  [HARD - case mismatch      ] FOUND     YOU GO TO ESPERANZA AND YOU DO NOT COME HOME FOR FOUR Y
+  [HARD - long wrapped       ] FOUND     Different content is not differentiation; a different q
+
+  INSTRUMENT VALID: YES
+  NEGATIVE CONTROL (must be absent): PASS - absent
+
+=== QUOTATION AUDIT ===
+fragments tested (single-line, ellipsis-split, >=7 words): 56
+NOT FOUND in corpus: 32
+  of those, in TABLE CELLS : 0
+  of those, in PROSE       : 32
+
+  [07_QA_Gates.md:45]           ever claimed; is every file proposed; are forward references honored ( 04 l102-108
+  [07_QA_Gates.md:45]           does every completion or status sentence in the pass's files match what the files hold
+  [07_QA_Gates.md:113]           line outside the standard disclaimer reads, in context, as a deferral (government and law
+  [07_QA_Gates.md:113]           contract l363; dr-137 item 11), a treaty quotation (phase 2 l159), a step 7 instruction (05 l505), a dated event in canon, or the 
+  [07_QA_Gates.md:113]           (l149, l375), an input-tier status that l150 itself labels
+  [07_QA_Gates.md:118]           the slip belongs with the errata, not under this gate
+  [07_QA_Gates.md:118]           and 03 l6 is the file's own status sentence (it sits in the line that opens
+  [07_QA_Gates.md:246]           glow glowing unseen windowless sealed room no window
+  [07_QA_Gates.md:253]           rows 160 match 69 bt 10 ps 37 co 35 oof 9 canon 0
+  [07_QA_Gates.md:256]           (phase 4 l273); spec l184 gives june's average night as -20.0 c (spec l183-187: -20.2, -20.0, -20.9, -21.6, -20.7 c), and phase 6 
+  [07_QA_Gates.md:256]           step 5 amended the same slip at p4-19 (l155) as s5-41, writing
+  [07_QA_Gates.md:259]           (phase 8 l119); phase 10's catalog rationale
+  [07_QA_Gates.md:260]           (05 l712), on the reading that the stage b brief gives only out of frame or pass stands for it (split 8, 05 l1045); the merge left
+  [07_QA_Gates.md:260]           (05 l1067). the spec's own founding rule reads
+  [07_QA_Gates.md:267]           (phase 9 l267); the gulf-ice reader of s5-2 reports a surface status, not the year's knowledge, a different object (c); if a later
+  [07_QA_Gates.md:267]           phase 10 l406 holds it as a reserved finding, so
+  [07_QA_Gates.md:275]           real contradictions stand uncorrected on its lines
+  [07_QA_Gates.md:392]           and fall outside the pattern; both are used by their own text, so supplement a is 42 used, 12 ornament, 14 dead of 68. a's own cou
+  [07_QA_Gates.md:397]           column marks 136 of 148 calls used, with many rows reading
+  [07_QA_Gates.md:438]           a threshold written from one side, found on the second run, is the case the gate exists for
+  [07_QA_Gates.md:450]           (outside the closed set), c pass. post-round-3: a holds n/a and would accept pass; b accepts n/a and does not adopt pass, which
+  [07_QA_Gates.md:561]           and the rule stated (phase 2 l13). c's hits add the generic word
+  [07_QA_Gates.md:562]           (phase 2 l13); the stations' operators and histories withheld or omitted (03 l14, l154, l196; 03.1 l55); its ground
+  [07_QA_Gates.md:562]           no builder assertion and no builder denial found
+  [07_QA_Gates.md:610]           spine s2-37 at l281) were written before dr-138 and are recorded as overtaken in the amendment (s2-62; amendment l31). later bare
+  [07_QA_Gates.md:611]           ( dec-583 ) replaces the frame's pa-19 and the spine's
+  [07_QA_Gates.md:611]           (amendment l18, l34; rulings l2015); the ten
+  [07_QA_Gates.md:611]           lines are all in the frame, the spine and the amendment's record of the change, none after it, and step 5 carries the change (05 l
+  [07_QA_Gates.md:650]           not derived ( dec-577 ), its standing cost broken by g7-c2. the strongest agreement is declared honestly
+  [07_QA_Gates.md:788]           column, phase 10's process b and the supplement, and a rule that a log's
+  [07_QA_Gates.md:808]           interior claims after the glazed houses (phase 8 l119, phase 10 l113, phase 10 l262; e7-8 to e7-10). step 5 read phase 3 p3-35 and
+  [07_QA_Gates.md:808]           (05 l167), but three lines making the same claim were not given that reading. options: (a) amendment notes narrowing each line to 
+
+⚠ TRIAGE BY HAND. A miss is not yet a defect: the pass quoting ITSELF, and
+  connective prose captured between two adjacent quotations, both show here.
+  Confirm each at source before calling it a defect.

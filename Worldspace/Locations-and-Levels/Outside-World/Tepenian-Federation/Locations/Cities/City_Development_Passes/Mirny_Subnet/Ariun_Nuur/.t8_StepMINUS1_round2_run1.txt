@@ -1,0 +1,30 @@
+required files: 5
+agents: agent1, agent2, agent3
+
+=== /home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Universal_Location_Methodology/00_RUNBOOK.md  [range 2429-2454] ===
+  agent1   ✅ all fields match ground truth
+  agent2   ✅ all fields match ground truth
+  agent3   ✅ all fields match ground truth
+
+=== /home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Universal_Location_Methodology/05_The_Input_Contract.md ===
+  agent1   ✅ all fields match ground truth
+  agent2   ✅ all fields match ground truth
+  agent3   ✅ all fields match ground truth
+
+=== /home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/Specs/Mirny subnet/Ariun_Nuur.md ===
+  agent1   ✅ all fields match ground truth
+  agent2   ✅ all fields match ground truth
+  agent3   ✅ all fields match ground truth
+
+=== /home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Universal_Location_Methodology/DEVELOPER_RULINGS_LOG.md  [range 203-219,221-252,386-413,437-441,445-446,448-461,463-475,477-480,510-515,518-522,524,538-542,548-552,623-624,626-630,632-633,634-646,649,654-663,678-689,802-804,892-900,1143,1154] ===
+  agent1   ✅ all fields match ground truth
+  agent2   ✅ all fields match ground truth
+  agent3   ✅ all fields match ground truth
+
+=== /home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Ariun_Nuur/Datasheets/Step_-1.md ===
+  agent1   ✅ all fields match ground truth
+  agent2   ✅ all fields match ground truth
+  agent3   ✅ all fields match ground truth
+
+=== VERDICT ===
+UNANIMOUS - CLEARED TO WRITE

@@ -278,7 +278,7 @@ reachable at its original address.**
 | ⛔ **OTHER CITIES STAY CLOSED UNTIL STEP 6** | *Not for quarantine — **so that Gate 6 has something independent to test.*** **Open them early and the gate tests nothing, because the pass will already have been shaped by them.** ⚠ **Easiest rule to lose in a warm run, precisely because everything feels open** |
 | ⛔ **THE MANDATED READ ORDER** | `Step 0.4` — *"the whole discipline in warm mode"* |
 | ⛔ **DECLARE THE MODE IN THE FRAME BLOCK, PER CITY** | *"A warm run is honest. **A 'semi-cold' run is a warm run wearing a cold run's credibility.**"* |
-| ⚠ **Until Gate 6 fires, run all four `04` Part III.4 substitutes and SAY SO** | *own earlier states · nearest analogous location at another scale · real-world comparables · the generator-conflict method* |
+| ⚠ **Until Gate 6 fires, run `04` Part III.4 substitutes 3 and 4 only and SAY SO; record substitute 1 as deferred to after the pass; never run substitute 2 in a pass** (`DR-142` item 2, as corrected 2026-11-18) *(was: ~~"run all four `04` Part III.4 substitutes"~~)* | *~~own earlier states~~ (deferred) · ~~nearest analogous location at another scale~~ (not in a pass) · real-world comparables · the generator-conflict method* |
 
 ---
 

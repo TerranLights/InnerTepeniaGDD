@@ -467,8 +467,8 @@ one, it must say so and name the child findings that need revision. This is Gate
 **elevated risk of reading like the author's defaults.** Four substitutes, in order of strength:
 
 1. **Its own earlier states.** A location with a history is its own sibling set across time. Differentiate the
-   present frame against the founding frame and the crisis frame. **The strongest substitute, usually
-   available, and the one to reach for first.** *(It is also Phase 5b's substitute — see `03`.)*
+   present frame against the founding frame and the crisis frame. ~~**The strongest substitute, usually
+   available, and the one to reach for first.**~~ ⛔ **Not run inside a pass: recorded as deferred to after the pass** (`DR-142` item 2; a pass captures a place at its height, `DR-136` item 6, `DR-137` item 10). *(It is also Phase 5b's substitute — see `03`.)*
    > ### ⭐ Upgraded 2026-08-30: this may not be a substitute at all
    > **Run against three eras of one location in a real test case, it produced a sharper result than three
    > neighboring locations would have — and the reason is structural rather than lucky.**
@@ -480,9 +480,9 @@ one, it must say so and name the child findings that need revision. This is Gate
    > *(A worked instance of this technique is archived in `Test_Runs/Worked_Examples_Archive/`,
    > since it is specific to one location and this file must stay general.)*
    >
-   > **So: run the own-eras set even when siblings ARE available.** Treat it as a first-class instrument, not
+   > **So: after the pass, run the own-eras set even when siblings ARE available; inside a pass it is recorded as deferred** (`DR-142` item 2, as corrected 2026-11-18; `DR-136` item 6, `DR-137` item 10) *(was: ~~"So: run the own-eras set even when siblings ARE available."~~)*. Treat it as a first-class instrument, not
    > a fallback — and note it is the only anti-convergence instrument that survives a cold pass intact, since
-   > `04` Gate 6 does not *(see that gate's note)*.
+   > `04` Gate 6 does not *(see that gate's note)*. ⛔ *(2026-11-18: no longer true inside a pass; the set runs after the pass, cold or warm, `DR-142` item 2, as corrected 2026-11-18.)*
    >
    > ### ⚠ Check the axis against the Frame Declaration BEFORE committing to it
    > **Added 2026-08-31, from a real case.** The technique wants three states — founding, crisis/middle, now.
@@ -498,7 +498,7 @@ one, it must say so and name the child findings that need revision. This is Gate
    > frame boundary to complete the third. **A two-state result, honestly declared as such, is not a failure of
    > the technique — it is the technique correctly refusing to violate Gate F.**
 2. **The nearest analogous location at a different scale.** A unique station against the cities; a unique
-   polity against its own subnets.
+   polity against its own subnets. ⛔ **Not run inside a pass: it reads another location, so it belongs to the terminal differentiation check** (`DR-142` item 2, as corrected 2026-11-18; `Run_Modes_Warm_and_Cold.md` L127).
 3. **Real-world comparables**, via the ULM's own Step 3 research (`00_RUNBOOK.md` Step 3; `DR-15`) — for what
    is known to exist in the place, **divergence stated explicitly**, per the source-not-specification rule.
 4. **The generator-conflict method** (`02` §5) — **which needs no comparison set at all, and is the reason

@@ -1,0 +1,7 @@
+runbook L2620, tail after the edit:
+ **Independent convergence among unconnected inspiration places is evidence.** When several inspiration places **with no connection to each other** do the same thing **for the same reason**, that is a decent argument that the thing happens in a city drawing on them. It sits beside `DEC-594`: places that share a root (one source, one diffused practice, one connection) count once; places that reached the same practice independently, for the same reason, each count as evidence. Connection must be checked, not assumed. *(Added 2026-11-18: developer ruling `DR-141` item 3 of 2026-11-17, a method rule for every location; learned on Relung Panen and applied there from its research supplement on.)*
+
+02_Generators L254 after the edit:
+implied. ⭐ **Independent convergence among unconnected inspiration places is evidence; places that share a root count once** (developer ruling `DR-141` item 3, 2026-11-17; stated in full in `00_RUNBOOK.md` Step 3, item 3.4, L2620).
+line counts: runbook 3204, 02 806
+observations log against its backup: added 54, removed 0

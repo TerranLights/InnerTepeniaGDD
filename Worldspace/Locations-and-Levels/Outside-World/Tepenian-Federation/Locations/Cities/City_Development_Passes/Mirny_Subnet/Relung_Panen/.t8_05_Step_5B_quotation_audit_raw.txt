@@ -1,0 +1,50 @@
+pass audited : Relung_Panen
+corpus mode  : default (own pass excluded)
+corpus files : 7427   chars: 127,934,587
+files audited: 05_Reconciliation.md
+own-pass mode: a quotation may also be found in this pass's OTHER files (never in its own file)
+
+=== POSITIVE CONTROLS ===
+  [easy                      ] FOUND     a terminus is nobody's midpoint
+  [HARD - blockquote wrap    ] FOUND     A pass may not proceed to Step 5 with a NEVER CITED row
+  [HARD - outside Worldspace ] FOUND     Paste raw QA scan output into the QA block. Never summa
+  [HARD - case mismatch      ] FOUND     YOU GO TO ESPERANZA AND YOU DO NOT COME HOME FOR FOUR Y
+  [HARD - long wrapped       ] FOUND     Different content is not differentiation; a different q
+
+  INSTRUMENT VALID: YES
+  NEGATIVE CONTROL (must be absent): PASS - absent
+
+=== QUOTATION AUDIT ===
+fragments tested (single-line, ellipsis-split, >=7 words): 84
+NOT FOUND in corpus: 24
+  of those, in TABLE CELLS : 5
+  of those, in PROSE       : 19
+
+  [05_Reconciliation.md:102]           against about 430-450 km. both-true. side 1: spec l124. side 2: s3-c4 (research l586). property: a floor and a measure; 430-450 km
+  [05_Reconciliation.md:115]           against the grid that reaches the city. both-true. side 1: spec l260-261
+  [05_Reconciliation.md:120]           both-true, with a residue put to the developer. side 1: dr-96 item 4 (rulings l1633): canon's model governs
+  [05_Reconciliation.md:120]           about 0.5 gw. side 2: dr-141 item 1 (l2044)
+  [05_Reconciliation.md:159]           ), now on the ruling; phase 9 p9-28 (l261
+  [05_Reconciliation.md:163]           stands for entry; whether the glow is seen from the gulf is not written (req-103). (a amended this line to
+  [05_Reconciliation.md:176]           and p10-101 writes no dish. no phase entry writes one. the glitch-coolant axis appears in no entry as a placement; phase 8 dq-52 i
+  [05_Reconciliation.md:286]           (l81): finds in part: a kept garden, fragile because contingent
+  [05_Reconciliation.md:474]           reads as the band-5 deferral, a ruling's vocabulary, not a generator's; research s3-31's
+  [05_Reconciliation.md:474]           is plain english in context (b). the sign names in phase 10 p10-23 to p10-34 head prompts in the technique's own section, not clai
+  [05_Reconciliation.md:545]           options: (a) the model stands as a sizing rule: every indoor kilogram counts as lit, the sun through the glass is an unsized summe
+  [05_Reconciliation.md:546]           (p9-25, l253) stand under dec-610 and dec-611 options: (a) both stand as unnamed function statements about origin forms kept at ho
+  [05_Reconciliation.md:547]           ( dec-602 (d)) mean the ruling was given before the supplement placed the nesting through the southern hills, 25-155 m (rs-16, rs-
+  [05_Reconciliation.md:547]           means outside the kept city, wild and unhoused; the nests are in the southern hills; (b)
+  [05_Reconciliation.md:628]           end of part 1 (stage a). stage b is appended below this line
+  [05_Reconciliation.md:722]  [CELL]  no western european or american presence, and a proximity-ordered tier
+  [05_Reconciliation.md:820]  [CELL]  claims none: cross-city rankings culture-only (terminal) pc-128 a, c; b pass stands on the
+  [05_Reconciliation.md:852]  [CELL]  itself matches (spec l13, l139-140; p10-45; a). rf-250 a, b, c (a moved from match on
+  [05_Reconciliation.md:881]           leg 1, the absence of any energy of the site's own, that the city takes no energy from its own ground, apart from its standby gene
+  [05_Reconciliation.md:883]           the lines that touch power all treat it as bought
+  [05_Reconciliation.md:948]  [CELL]  claims marked comparisons for the terminal pass. b's wording, that the
+  [05_Reconciliation.md:967]  [CELL]  l168 with l171-172 and l215-216 reach the pass's water findings, which the pass reached from admitted figures (spine rf-47). confl
+  [05_Reconciliation.md:1040]           to b's and c's pass stands on the causal clause. written: pass stands
+  [05_Reconciliation.md:1066]           while its l190-195 diagram sits under the heading
+
+⚠ TRIAGE BY HAND. A miss is not yet a defect: the pass quoting ITSELF, and
+  connective prose captured between two adjacent quotations, both show here.
+  Confirm each at source before calling it a defect.

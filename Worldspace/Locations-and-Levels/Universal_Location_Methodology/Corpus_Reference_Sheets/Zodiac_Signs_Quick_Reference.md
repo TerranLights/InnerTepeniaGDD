@@ -4,7 +4,7 @@
 > Attributes.md` (267 lines), read in full 2026-09-15. ⛔ **This is a creative-input TOOL, not in-world lore**
 > — Concordia's own zodiac district naming is the developer's own out-of-fiction organizational scheme, no
 > district is aware of it in-fiction. The Zodiac Lens (Phase 10 §B2) runs these 12 as non-binding
-> interrogation prompts against a location's own already-established character — never as an assignment.
+> interrogation prompts against a location's own already-established character, each asked what person, place or thing it would take here, if anything — **never as an assignment, and never referencing the substrate's own parent set's completed content.** **Zero, one, or several results per sign are all legitimate; record nulls with reasons** rather than forcing a result to fill every sign. **Person-shaped results AMEND Phase 9 at Step 5** — they are not a Phase 9 input, and **Phase 9 must never wait on this technique.** Source path, as the spine gives it: `/home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Reference/Real-World/Zodiac_Signs_Full_Attributes.md`. *(added 2026-11-18: the rest of §B2, `03_The_Phase_Spine.md` L1155–L1162; the path, L1113.)*
 
 | Sign | Element/Modality/Planet | Positive | Negative |
 |---|---|---|---|

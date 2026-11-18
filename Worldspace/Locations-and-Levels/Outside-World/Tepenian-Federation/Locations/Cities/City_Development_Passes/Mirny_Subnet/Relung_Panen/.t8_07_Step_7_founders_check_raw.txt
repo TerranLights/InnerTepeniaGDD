@@ -1,0 +1,14 @@
+====================================================================================================
+FOUNDERS vs. THE FOUNDING REGISTER — places to READ (not a verification)
+====================================================================================================
+
+====================================================================================================
+STATION-HERITAGE WORDING (DR-19) — places to READ
+====================================================================================================
+
+----------------------------------------------------------------------------------------------------
+Founder disagreements: 0 · heritage wording: 0 · files scanned: 2217
+Scoped to: Relung Panen · other cities' files skipped: 2980 (names and lines deliberately not shown) · withheld files skipped: 342
+Lines in shared files skipped because they also name another city: 0 (not shown; read them in the preparation phase, not during a pass)
+Excluded: Background-Lore (locked), graphify-out, Archive/ (DR-27), pass run records (use --include-passes),
+and the rule/tracking files themselves. Hits are where to READ; a clean result is not proof.

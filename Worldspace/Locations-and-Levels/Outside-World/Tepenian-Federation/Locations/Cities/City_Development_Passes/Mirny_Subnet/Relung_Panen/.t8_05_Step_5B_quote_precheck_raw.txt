@@ -1,0 +1,4 @@
+target: 05_Reconciliation.md
+sources: 48 list entries; own-pass files: 38 (dot-files and superseded files excluded)
+quoted fragments (>=3 words, ellipsis-split): 199
+found in sources at admitted ranges: 199 | found only in the pass's own files: 0 | NOT FOUND: 0

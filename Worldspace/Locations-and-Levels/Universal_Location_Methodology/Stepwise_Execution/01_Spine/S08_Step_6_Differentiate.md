@@ -37,7 +37,7 @@
 > - **`04_QA_Gates_and_Differentiation.md`, Part III (the differentiation instrument)** — the governing file
 >   for this whole step. **III.0** (a differentiation instrument only works if findings actually reach it —
 >   the measured case is a symbol collision noticed once and never propagated) · **III.4** (the no-sibling
->   substitutes, run for every location as of the ruling below) · **III.2/III.3** (now terminal-only, per the
+>   substitutes, ~~run for every location as of the ruling below~~ 3 and 4 run for every location as of the ruling below; 1 is recorded as deferred to after the pass; 2 is not run in a pass, `DR-142` item 2, as corrected 2026-11-18) · **III.2/III.3** (now terminal-only, per the
 >   table below — read them to know what is *not* run in-run, not only what is).
 
 > ### ⛔⛔⛔ THE STEP DID NOT DISAPPEAR. **ITS DIRECTION REVERSED.**
@@ -48,7 +48,7 @@
 > | *Read the relevant rows **before** writing each category* | ⛔ **Do not read any other location's row. Ever.** |
 > | *Differentiate inline in the finding itself* | ⛔ **Revoked** — there is nothing in-run to differentiate against |
 > | *Check the most recently written sibling first* | ⛔⛔ **Revoked** — this was the sharpest form of the forbidden move |
-> | *If there is no sibling set, run the substitutes* | ✅ **Run `04` III.4's substitutes ALWAYS, for every location, and say in the pass that you did** |
+> | *If there is no sibling set, run the substitutes* | ✅ **Run `04` III.4's substitutes 3 and 4 (real-world comparables; the generator-conflict method) for every location, and say in the pass that you did; record substitute 1 (its own earlier states) as deferred to after the pass; do not run substitute 2, which reads another location** (`DR-142` item 2, as corrected 2026-11-18; `Run_Modes_Warm_and_Cold.md` L127; a pass captures a place at its height, `DR-136` item 6, `DR-137` item 10) *(was: ~~"Run `04` III.4's substitutes ALWAYS, for every location"~~)* |
 > | — | ✅ ⭐ **ADD THIS LOCATION'S OWN ROW, same commit** *(Step 9.2, unchanged; the city table holds one row per city, the district table one column per district)* |
 >
 > ⏸️ **The reading half returns at the TERMINAL differentiation check**, run once on the finished corpus.

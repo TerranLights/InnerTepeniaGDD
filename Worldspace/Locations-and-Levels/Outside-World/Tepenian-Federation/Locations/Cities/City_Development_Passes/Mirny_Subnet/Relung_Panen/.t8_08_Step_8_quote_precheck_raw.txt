@@ -1,0 +1,13 @@
+target: 08_Review_Panel.md
+sources: 32 list entries; own-pass files: 44 (dot-files and superseded files excluded)
+quoted fragments (>=3 words, ellipsis-split): 102
+found in sources at admitted ranges: 93 | found only in the pass's own files: 0 | NOT FOUND: 9
+  L183  (phase 9 l224); gate 9 failed on this line
+  L239  and closes on whether the founding party held such robots being
+  L330  (phase 3 l161); crates move
+  L330  (phase 10 l182, proposed) (b) ; the catalog axis
+  L485  (phase 6 l146, at expression standing, proposed) and
+  L486  (phase 6 l146)
+  L652  against p4-32 and p4-34. every expression line saying
+  L811  ). b in round 3: the finding says
+  L827  at phase 7 l379 (b, round 3). c's 00f citation for

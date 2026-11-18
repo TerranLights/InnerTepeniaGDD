@@ -426,6 +426,16 @@ which are not locations)*. ***The general form of every rule was retained; only 
 > hard-wrapped blockquote line.*** **L2129 was invisible to a plain phrase search and surfaced only under
 > `^[\s>]*`-stripped normalization.** ⭐ **`M-162`. Normalize before you claim a manifest is complete.**
 
+## Ariun Nuur (formerly Vostok) — added 2026-11-18, from the pre-run memory and required-reading scan *(warm run planned 2026-11-18 to 11-21)*
+
+| Rule file and line | What the line carries, by shape | For an Ariun Nuur run |
+|---|---|---|
+| `00_RUNBOOK.md` L1958 | attribute only (a name) | read normally |
+| `00_RUNBOOK.md` L2073 | attribute only | read normally |
+| `00_RUNBOOK.md` L2074 | **borderline:** a significance gloss for this city and a folder named after the city and its topic | **read the rule; skip that line's example**, and do not open the folder it names during the run |
+
+*Found by a shape-only scan (the scan's report names lines, never their content). No other ULM method file names this city.*
+
 ## *(Add further locations here as they are absorbed into the methodology.)*
 
 > 📎 **Derivation Mechanisms (line added 2026-10-29; nothing was moved).** A **copy** of this file is in the universe-wide methods repo `DerivationMechanisms` at `/home/kuroskalacs/Documents/Doll-Fi/media/Reference/DerivationMechanisms/Environment/ULM [Universal Location Methodology]/from InnerTepeniaGDD/06_Worked_Example_Provenance.md`. **This repo's file stays the working copy;** the method belongs in that repo, while results and tracking stay in this one. **If you arrived here from a line reference: the pointer sits at the very END on purpose, because inserting it mid-file would have shifted every cited line.**
