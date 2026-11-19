@@ -4,6 +4,13 @@
 per session, shared by every subagent). The developer asked for this handoff on 2026-11-19 at the second window's close, with the weekly
 allotment meter at **35%**.
 
+## ⛔ SCOPE: PICK UP WITH ARIUN NUUR ONLY
+
+**Developer, 2026-11-19:** only Ariun Nuur is picked up now. **The rest of the Mirny subnet's cities (Casey, Mirny, Davis, Kunlun,
+Zhongshan, Sinheung, Shirayuki, Relung Panen) are tasks for a couple of weeks from now** — their LAW 0-P catch-up research and their
+re-runs. **Do not start, research, schedule or open any of them in this session.** Their state is tracked in
+`Reference/Real-World/Inspiration_Place_Research/_LAW_0-P_COVERAGE_TRACKER.md` for when the developer brings them up.
+
 ## 1 · Your first job, now: set up the two morning jobs
 
 ULM work runs only **05:00–14:59**; no new unit starts after 14:00 (a unit started before 14:00 may run on). The previous session's jobs have
@@ -49,8 +56,8 @@ complete):** the readiness check, Steps −1, 0, 1, 2, 3, and Phases 2 to 9. Fil
   `DEVELOPER_RULINGS_LOG.md` with the developer's words; in-place copies in `00_RUNBOOK.md` Step 3, `03_The_Phase_Spine.md` Phase 10 process B,
   `Cities/Research_Logs/README.md`, and `Real-World_Basis_Extrapolation_Method.md`. **The runbook copy is a standing law: no city or run named**
   (developer: *"It's just a standing Law. Period."*).
-- **The developer's decision:** *"keep going, add the candidate research unit tomorrow at 05:02."* Ariun Nuur continues; the Mirny subnet
-  re-run (developer: next week or the week after; scope theirs) is tracked in
+- **The developer's decision:** *"keep going, add the candidate research unit tomorrow at 05:02."* Ariun Nuur continues; the rest of the Mirny
+  subnet (developer: a couple of weeks from now; scope theirs) is **not** this session's work, and is tracked in
   `Reference/Real-World/Inspiration_Place_Research/_LAW_0-P_COVERAGE_TRACKER.md`.
 - **Orchestrator rulings, PROVISIONAL, to be filed as questions (next number `DEC-886`):** (1) Phase 10's B3 may name the Planet and Element
   members it determines; names elsewhere are mapped by the merge. (2) Phase 10R reader B's four facts (F111–F114) read from a PDF the fetch

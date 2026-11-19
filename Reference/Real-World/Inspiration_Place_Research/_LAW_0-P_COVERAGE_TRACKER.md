@@ -101,6 +101,9 @@ subnet-wide developer row (solo road-travel music). *Researched* = rows with ins
 | Relung Panen | 97 | 97 | 0 |
 | **Total** | **827** | **124** | **696** |
 
+> ⏭️ **Timing (developer, 2026-11-19): only Ariun Nuur is being worked now** (its ULM run continues 2026-11-20). **The other eight Mirny
+> cities are tasks for a couple of weeks from now;** do not start them before the developer brings them up.
+
 ## Scope of the catch-up (developer, 2026-11-19)
 
 > *"Just the ones in the Mirny subnet. We haven't done any ULM runs on any of the other cities, so there's no 'catching up' that needs to
