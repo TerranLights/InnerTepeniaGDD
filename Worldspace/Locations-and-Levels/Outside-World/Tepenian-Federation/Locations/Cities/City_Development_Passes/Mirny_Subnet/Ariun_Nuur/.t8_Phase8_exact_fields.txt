@@ -1,0 +1,3 @@
+readerA_Phase8.md: 36 fields compared exactly, 0 differ
+readerB_Phase8.md: 36 fields compared exactly, 0 differ
+readerC_Phase8.md: 36 fields compared exactly, 0 differ

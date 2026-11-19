@@ -1,0 +1,38 @@
+pass audited : Ariun_Nuur
+corpus mode  : default (own pass excluded)
+corpus files : 7777   chars: 141,636,145
+files audited: 03_Research.md
+own-pass mode: a quotation may also be found in this pass's OTHER files (never in its own file)
+
+=== POSITIVE CONTROLS ===
+  [easy                      ] FOUND     a terminus is nobody's midpoint
+  [HARD - blockquote wrap    ] FOUND     A pass may not proceed to Step 5 with a NEVER CITED row
+  [HARD - outside Worldspace ] FOUND     Paste raw QA scan output into the QA block. Never summa
+  [HARD - case mismatch      ] FOUND     YOU GO TO ESPERANZA AND YOU DO NOT COME HOME FOR FOUR Y
+  [HARD - long wrapped       ] FOUND     Different content is not differentiation; a different q
+
+  INSTRUMENT VALID: YES
+  NEGATIVE CONTROL (must be absent): PASS - absent
+
+=== QUOTATION AUDIT ===
+fragments tested (single-line, ellipsis-split, >=7 words): 12
+NOT FOUND in corpus: 12
+  of those, in TABLE CELLS : 10
+  of those, in PROSE       : 2
+
+  [03_Research.md:13]           are this pass's step -1, step 0, step 1 and step 2 files
+  [03_Research.md:13]           is the published climate table for the real station (an encyclopedia weatherbox citing the station's operator and a weather archiv
+  [03_Research.md:104]  [CELL]  nine months of the year vostok station operates in full autonomy, without any possibility to access it either by air or land
+  [03_Research.md:108]  [CELL]  water is an expensive commodity at a polar station
+  [03_Research.md:111]  [CELL]  because the whole system is circulated, if you get a large break that you could freeze up sections and lose more pipe than you wan
+  [03_Research.md:117]  [CELL]  we do not want to be flying in anything that we can be sending in by ship
+  [03_Research.md:130]  [CELL]  shared mealtimes, and strict sleep-wake and working schedules
+  [03_Research.md:136]  [CELL]  diamond may intervene to stop beamtime until adequate rest has been taken
+  [03_Research.md:176]  [CELL]  two or more infrastructures are interdependent if they require each other's services
+  [03_Research.md:176]  [CELL]  the electrical power system depends on the delivery of fuels
+  [03_Research.md:176]  [CELL]  the production of those fuels depends in turn on the use of electrical power
+  [03_Research.md:177]  [CELL]  are under a thick layer of snow and are gradually falling into disrepair
+
+⚠ TRIAGE BY HAND. A miss is not yet a defect: the pass quoting ITSELF, and
+  connective prose captured between two adjacent quotations, both show here.
+  Confirm each at source before calling it a defect.

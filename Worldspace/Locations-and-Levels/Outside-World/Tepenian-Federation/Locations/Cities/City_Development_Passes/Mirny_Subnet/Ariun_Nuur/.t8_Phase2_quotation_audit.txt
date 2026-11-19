@@ -1,0 +1,29 @@
+pass audited : Ariun_Nuur
+corpus mode  : default (own pass excluded)
+corpus files : 7777   chars: 141,775,197
+files audited: 04_Phase_02_Composition_and_Arrival.md
+own-pass mode: a quotation may also be found in this pass's OTHER files (never in its own file)
+
+=== POSITIVE CONTROLS ===
+  [easy                      ] FOUND     a terminus is nobody's midpoint
+  [HARD - blockquote wrap    ] FOUND     A pass may not proceed to Step 5 with a NEVER CITED row
+  [HARD - outside Worldspace ] FOUND     Paste raw QA scan output into the QA block. Never summa
+  [HARD - case mismatch      ] FOUND     YOU GO TO ESPERANZA AND YOU DO NOT COME HOME FOR FOUR Y
+  [HARD - long wrapped       ] FOUND     Different content is not differentiation; a different q
+
+  INSTRUMENT VALID: YES
+  NEGATIVE CONTROL (must be absent): PASS - absent
+
+=== QUOTATION AUDIT ===
+fragments tested (single-line, ellipsis-split, >=7 words): 18
+NOT FOUND in corpus: 3
+  of those, in TABLE CELLS : 1
+  of those, in PROSE       : 2
+
+  [04_Phase_02_Composition_and_Arrival.md:37]           at phases 2 and 4. - p. opened here at its rules and this city's row; the
+  [04_Phase_02_Composition_and_Arrival.md:69]  [CELL]  and take up residence in tepenia, on the assembly's schedule and conveyance (td l46, art. ii.2.1); no individual designation, accu
+  [04_Phase_02_Composition_and_Arrival.md:197]           them, and none is compelled (td l48-49); afterward any human may elect at any time (td l50) treaty draft ; by ruling she could not
+
+⚠ TRIAGE BY HAND. A miss is not yet a defect: the pass quoting ITSELF, and
+  connective prose captured between two adjacent quotations, both show here.
+  Confirm each at source before calling it a defect.

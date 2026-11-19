@@ -1,0 +1,30 @@
+pass audited : Ariun_Nuur
+corpus mode  : default (own pass excluded)
+corpus files : 7777   chars: 141,611,747
+files audited: 01_Inherited.md
+own-pass mode: a quotation may also be found in this pass's OTHER files (never in its own file)
+
+=== POSITIVE CONTROLS ===
+  [easy                      ] FOUND     a terminus is nobody's midpoint
+  [HARD - blockquote wrap    ] FOUND     A pass may not proceed to Step 5 with a NEVER CITED row
+  [HARD - outside Worldspace ] FOUND     Paste raw QA scan output into the QA block. Never summa
+  [HARD - case mismatch      ] FOUND     YOU GO TO ESPERANZA AND YOU DO NOT COME HOME FOR FOUR Y
+  [HARD - long wrapped       ] FOUND     Different content is not differentiation; a different q
+
+  INSTRUMENT VALID: YES
+  NEGATIVE CONTROL (must be absent): PASS - absent
+
+=== QUOTATION AUDIT ===
+fragments tested (single-line, ellipsis-split, >=7 words): 16
+NOT FOUND in corpus: 4
+  of those, in TABLE CELLS : 3
+  of those, in PROSE       : 1
+
+  [01_Inherited.md:220]  [CELL]  while contract cr-45 excludes l149 and dr-143 item 10 ( dec-691 ) holds it so (a, b, c). (b) l7
+  [01_Inherited.md:220]  [CELL]  where contract cr-43 holds it a coordinate only (a). (e) l5-6: the pointer sentence is spliced into the middle of the
+  [01_Inherited.md:220]  [CELL]  sentence, the same splice the frame found in the step 0 sheet (frame l195) (b, c). (f) l6's
+  [01_Inherited.md:251]           names a round 3 reply that checked the find at its source or accepted it as (a)
+
+⚠ TRIAGE BY HAND. A miss is not yet a defect: the pass quoting ITSELF, and
+  connective prose captured between two adjacent quotations, both show here.
+  Confirm each at source before calling it a defect.

@@ -88,6 +88,28 @@ the sources** · never assert redundancy from a title. **There is no search budg
 *Full statement: `Real-World_Basis_Extrapolation_Method.md` · the ULM `Disciplines/` copy · `00_RUNBOOK.md`
 Step 3 · `Cities/Research_Logs/README.md`.*
 
+#### ⛔⛔ LAW 0-P — **EVERY ITEM ON A LOCATION'S INSPIRATION-PICKS LIST IS RESEARCHED AND INCORPORATED. NOT ONLY THE TOP TIERS.**
+
+**Binding law, developer ruling 2026-11-19 (during the Ariun Nuur ULM run). Applies to the ULM, CST, RWBEM and every location.**
+Developer's words: ***"Codify as a law to incorporate the entire inspiration picks list items into the research. That's the whole
+reason why those items are on the list. I wouldn't have made that list if the results didn't matter."*** Earlier the same day:
+*"use the primary and secondary as well as supporting tiers for the fundamental core search and development. But still, check all of
+the materials because there tends to be some really valuable treasures in those listings that are not rated as high of priority. This
+is a lot more important in the RWBEM methodology rather than the ULM, but it is still applicable to the ULM."*
+
+- **"The list" is the whole list:** the official picks (`Cities/Inspirational-Influences.md`) **and every row of the location's candidate
+  list** (`Reference/Real-World/Inspiration_Place_Research/candidates/<Location>.md`, developer additions included), whatever its tier and
+  whether or not a tier was ever set. ⛔ **"Never adopted" or "low tier" is never a reason to leave a row out of the research.**
+- **The tiers set the ORDER and the WEIGHT, never the SCOPE.** Primary, secondary and supporting tiers are the core of the search and
+  development; every other row is still researched and its findings incorporated.
+- **Where:** every research step that reads the picks (ULM Step 3 and Phase 10 process B; the RWBEM, where it weighs most; the CST).
+  A reading list that gives a reader only part of the pick list is a defect in the brief.
+- ⚠ **Known consequence (developer, 2026-11-19):** the Mirny subnet's passes were researched on the official picks only, so they are to be
+  re-run ("next week, we have to go back and do the Mirny subnet all over again"). *Scope and schedule of that re-run are the developer's.*
+
+*To be copied, once the Ariun Nuur units now running are recorded, into: `DEVELOPER_RULINGS_LOG.md` (as `DR-144`), `00_RUNBOOK.md`
+Step 3 and the spine's Phase 10 process B, `Cities/Research_Logs/README.md`, and `Real-World_Basis_Extrapolation_Method.md`.*
+
 ### Non-negotiables the runbook will re-state, listed here so they are never a surprise
 
 - **`Cross_District_Differentiation_Table.md` — read the relevant row BEFORE writing a category, and add the

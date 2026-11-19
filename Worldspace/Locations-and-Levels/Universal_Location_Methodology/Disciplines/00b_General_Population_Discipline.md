@@ -1,6 +1,6 @@
 > # ⚠ ULM COPY — **the original is authoritative and is UNCHANGED.**
 >
-> **Source:** `../../Concordia-City/Districts/Phase_Instructions/00b_General_Population_Discipline.md` · **pinned 6a08080e1a8da883 · 157 lines · 2026-09-03**
+> **Source:** `../../Concordia-City/Districts/Phase_Instructions/00b_General_Population_Discipline.md` · **pinned f2d0237b06885373 · 157 lines · 2026-11-19** *(re-pinned 2026-11-19, `DR-143`, `DEC-707`: was 6a08080e1a8da883 · 157 lines · 2026-09-03; the original changed once since, at L97 only (commit `e351f6d5`, 2026-10-31), a worked-instance line that this copy does not carry, checked by command)*
 >
 > ***Nothing was cut from the original. This is the Universal Location Methodology's own reading of the same
 > rules*** — **identical in substance, with location-specific worked instances replaced by pointers**, so the

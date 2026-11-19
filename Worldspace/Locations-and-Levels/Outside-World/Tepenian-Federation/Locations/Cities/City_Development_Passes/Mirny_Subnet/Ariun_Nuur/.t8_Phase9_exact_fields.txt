@@ -1,0 +1,6 @@
+readerA_Phase9.md: 44 fields compared exactly, 0 differ
+readerB_Phase9.md  03_The_Phase_Spine.md  LLAST L1100
+   claimed: '---'
+   source : ''
+readerB_Phase9.md: 44 fields compared exactly, 1 differ
+readerC_Phase9.md: 44 fields compared exactly, 0 differ

@@ -3201,4 +3201,24 @@ ULM pass, only `00b` · `00d` · `00f`; the CST and RWBEM copies are not ULM inp
 | `.../00b_…` · `.../00d_…` | general population · shadow proportion — **originals**, binding, and the district methodology's own |
 | `.../00_RUNBOOK.md` | **the district procedure — the parent of this one, and still authoritative for districts** |
 
+# ⛔⛔ LAW 0-P — EVERY ITEM ON A LOCATION'S INSPIRATION-PICKS LIST IS RESEARCHED AND INCORPORATED
+
+**Binding standing law, developer ruling 2026-11-19 (`DR-144`). Applies to every location, in the ULM, the CST and the RWBEM.**
+
+The developer's words: ***"Codify as a law to incorporate the entire inspiration picks list items into the research. That's the whole
+reason why those items are on the list. I wouldn't have made that list if the results didn't matter."*** Also: *"use
+the primary and secondary as well as supporting tiers for the fundamental core search and development. But still, check all of the
+materials because there tends to be some really valuable treasures in those listings that are not rated as high of priority. This is a
+lot more important in the RWBEM methodology rather than the ULM, but it is still applicable to the ULM."*
+
+- **The list is the whole list:** the official picks (`Cities/Inspirational-Influences.md`) **and every row of the location's candidate
+  list** (`Reference/Real-World/Inspiration_Place_Research/candidates/<Location>.md`), developer additions included, whatever its tier,
+  and whether or not a tier was ever set. ⛔ **"Never adopted" or "low tier" is never a reason to leave a row out of the research.**
+- **Tiers set the ORDER and the WEIGHT, never the SCOPE.** The primary, secondary and supporting tiers are the core of the search and
+  development; every other row is still researched and its findings are incorporated.
+- **Where it binds:** every research step that reads the picks: **Step 3**, **Phase 10 process B**, the RWBEM (where it weighs most) and
+  the CST. **A reading list that gives a reader only part of the pick list is a defect in the brief.**
+- **Plan for it:** a full candidate list runs to about 80 or more items. Give it its own research unit with its own web budget (1,000
+  calls per session, shared). Do not squeeze it into a phase reader whose context the phase's own reading list already fills.
+
 > 📎 **Derivation Mechanisms (line added 2026-10-29; nothing was moved).** A **copy** of this file is in the universe-wide methods repo `DerivationMechanisms` at `/home/kuroskalacs/Documents/Doll-Fi/media/Reference/DerivationMechanisms/Environment/ULM [Universal Location Methodology]/from InnerTepeniaGDD/00_RUNBOOK.md`. **This repo's file stays the working copy;** the method belongs in that repo, while results and tracking stay in this one. **If you arrived here from a line reference: the pointer sits at the very END on purpose, because inserting it mid-file would have shifted every cited line.**

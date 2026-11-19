@@ -50,7 +50,7 @@ vector-1 skip ranges and the shape sweep (`Step −2` 1a/1b).**
 ## ✅ WARM — the production instrument
 
 **Everything about THIS city is open, in the mandated read order.** **Conclusion-tier material about EVERY
-OTHER city stays closed until Step 6.**
+OTHER city stays closed for the whole pass; differentiation is a terminal check on the finished corpus.** *(Corrected 2026-11-19, `DR-143`, `DEC-695`: read "until Step 6"; `01` §5.3b and the law of one location.)*
 
 | | |
 |---|---|
@@ -96,7 +96,7 @@ order before the pass has begun.** **Check `06` for the subject, and treat any h
 
 # 3. WHAT IS ADMISSIBLE IN A WARM RUN
 
-| ✅ OPEN from the start | ⛔ CLOSED until Step 6 |
+| ✅ OPEN from the start | ⛔ CLOSED for the whole pass *(corrected 2026-11-19, `DEC-695`: read "until Step 6")* |
 |---|---|
 | **All of this city's attributes** — spec, climate, founding (founders from `Founding_Register.md` only), network position, symbol members | ⛔ **Other cities' CULTURE files** |
 | **Census, composition, Division-of-Industry figures** *(all cities — these are attributes)* | ⛔ **Other cities' `Full_Extrapolation` / `Mega_Init` / robot-culture / Enneagram reads** |
@@ -106,7 +106,7 @@ order before the pass has begun.** **Check `06` for the subject, and treat any h
 
 > ### The line, stated once: **ATTRIBUTES about any city are open. CONCLUSIONS about any OTHER city are not.**
 > **A census figure for Zhongshan is an attribute and is open.** **Zhongshan's capability profile is a
-> conclusion and is closed until Step 6.**
+> conclusion and is closed for the whole pass.** *(Corrected 2026-11-19, `DEC-695`: read "until Step 6".)*
 
 ---
 
@@ -115,7 +115,7 @@ order before the pass has begun.** **Check `06` for the subject, and treat any h
 **`04` already resolves this and the warm mode inherits it unchanged:**
 
 > **Gate 6 *(duplicate institutions)* is *"unrunnable in a cold pass, by construction"* — it needs the
-> siblings' completed material, which the quarantine withholds.** **Resolution: it runs LATE, at Step 7.**
+> siblings' completed material, which the quarantine withholds.** **Resolution: it runs LATE, at Step 7.** *(Note 2026-11-19, `DEC-695`: for a ULM/CST/RWBEM pass, Gate 6's against-siblings half has since moved out of the pass to the terminal differentiation check, `01` §5.3b.)*
 
 **In WARM mode the same placement holds, for a different reason:** ***other cities stay closed during
 derivation precisely so Gate 6 has something independent to test.*** **Open them early and the gate tests
@@ -135,7 +135,7 @@ wearing a cold run's credibility."***
 
 ```
 **Run mode:**        WARM  /  COLD
-**Other cities:**    CLOSED until Step 6   [warm default]
+**Other cities:**    CLOSED for the whole pass; differentiation is a terminal check   [warm default; corrected 2026-11-19, `DEC-695`]
 **Own culture material read at:**  Step 0.4 item 6, as a CHECK   [state where it was actually read]
 **If COLD:** pre-contamination review status + both pins verified
 ```

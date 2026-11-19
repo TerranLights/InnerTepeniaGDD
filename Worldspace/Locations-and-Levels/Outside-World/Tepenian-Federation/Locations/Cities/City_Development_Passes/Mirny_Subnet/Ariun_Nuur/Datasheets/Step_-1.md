@@ -45,3 +45,16 @@ any phase file — see `Phase_5.md`'s FLAGGED table (L27); `Phase_7.md` and `Pha
 
 **Not mechanical / not included here:** the ratified Step −1 declaration itself, the admitted-range ruling's
 own justification — none of this exists until Ariun Nuur's own pass actually runs.
+
+## ⛔ EXCLUSIONS ADDED 2026-11-19 — from the pass's own Step −1 contract (`DR-143`, `DEC-692`)
+
+*Appended at the end so that no cited line above moves. Each row restates a disposition of the recorded contract,
+`00.1_Step_MINUS-1_Input_Contract.md`, with its row number; the contract governs, and this sheet stays a demoted draft (`DEC-687`).*
+
+| Spec line(s) | Contract row | Handling |
+|---|---|---|
+| L149, "The name was kept." | CR-45 | EXCLUDED: stale against `DR-42`; read as *the central district keeps the name*; a naming fact only (`DEC-691`) |
+| L153–161, `## Character & Culture` (all of it) | CR-47 | EXCLUDED: a prior culture conclusion about this place, read last, as a check (`05` §6.1, §6.1d) |
+| L186, its gameplay and DLC clauses | CR-57 | Struck (DLC and gameplay scoping, `DR-142` item 9); the rest of the line is FLAGGED, not an input until the geneticist's canon entry is read (`DEC-681`) |
+| L220, "is the archive intact?" | CR-69 | EXCLUDED: a post-war condition; the archive itself stands at L179 |
+| Ranking clauses: L10, L68, L70's opening, L93, L127, L179, L217 | CR-16, CR-28, CR-29, CR-33, CR-39, CR-55, CR-66 | Struck under the ONE LOCATION law; the city's own figures are stated flatly (mean −54.8 °C, record low −89.2 °C); any superlative is left to the terminal differentiation check (`DEC-686`). L127's general comparison with coastal stations, which names no location, is kept as a real-world comparable (CR-39) |

@@ -1,0 +1,33 @@
+pass audited : Ariun_Nuur
+corpus mode  : default (own pass excluded)
+corpus files : 7777   chars: 141,621,238
+files audited: 02_Spine.md
+own-pass mode: a quotation may also be found in this pass's OTHER files (never in its own file)
+
+=== POSITIVE CONTROLS ===
+  [easy                      ] FOUND     a terminus is nobody's midpoint
+  [HARD - blockquote wrap    ] FOUND     A pass may not proceed to Step 5 with a NEVER CITED row
+  [HARD - outside Worldspace ] FOUND     Paste raw QA scan output into the QA block. Never summa
+  [HARD - case mismatch      ] FOUND     YOU GO TO ESPERANZA AND YOU DO NOT COME HOME FOR FOUR Y
+  [HARD - long wrapped       ] FOUND     Different content is not differentiation; a different q
+
+  INSTRUMENT VALID: YES
+  NEGATIVE CONTROL (must be absent): PASS - absent
+
+=== QUOTATION AUDIT ===
+fragments tested (single-line, ellipsis-split, >=7 words): 17
+NOT FOUND in corpus: 7
+  of those, in TABLE CELLS : 2
+  of those, in PROSE       : 5
+
+  [02_Spine.md:12]           are this pass's step -1, step 0 and step 1 files
+  [02_Spine.md:12]           is the national power-supply file (entry 13)
+  [02_Spine.md:33]  [CELL]  (l3), and the same file says canon does not establish the grid's layout
+  [02_Spine.md:44]  [CELL]  read as a technology and the agency's funding thread with three linked sites; the program
+  [02_Spine.md:312]           l81-83, l118, l121) and behind it the station's data in the record's upstream source (record l16); for daylight, a computation
+  [02_Spine.md:338]           bedrock about 4 km down, food term at 10% mandated 71,444 (19.7%) free 148,383 (40.9%) distinctive tier 219,827 (60.6%)
+  [02_Spine.md:603]           names a round 3 reader who found the passage or accepted the find
+
+⚠ TRIAGE BY HAND. A miss is not yet a defect: the pass quoting ITSELF, and
+  connective prose captured between two adjacent quotations, both show here.
+  Confirm each at source before calling it a defect.
