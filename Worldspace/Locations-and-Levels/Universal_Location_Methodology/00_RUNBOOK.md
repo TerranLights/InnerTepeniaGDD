@@ -2612,7 +2612,7 @@ writes the finding.**
 formal capacity and evolved a workaround no design process would have invented.
 
 **3.3 Prioritize by difference, not tier — but prioritizing is not skipping.** The most valuable pick is usually
-the one least like the others. **Look at each pick at least far enough to know what it would have given.** ⛔ **LAW 0-P (`DR-144`, 2026-11-19): the pick list is the WHOLE list, the official picks and every row of the location's candidate list, whatever its tier; tiers set the order and the weight, never the scope. Full statement in its own section at the end of this file.**
+the one least like the others. **Look at each pick at least far enough to know what it would have given.** ⛔ **LAW 0-P (`DR-144`, 2026-11-19): the pick list is the WHOLE list, the official picks and every row of the location's candidate list, whatever its tier; tiers decide only how prominently a pick figures in the place, never how thoroughly it is researched (`DR-145`): every ULM run researches every pick fully. Full statement in its own section at the end of this file.**
 
 **3.4 The source is not a specification.** Three outcomes are all legitimate: close resemblance with a new paint
 job · one mechanism taken and divergence everywhere else *(commonest)* · somewhere the source never went
@@ -3186,7 +3186,7 @@ entries carried conclusion vocabulary about the same cluster.**
 | `03_The_Phase_Spine.md` | the eleven phases |
 | `04_QA_Gates_and_Differentiation.md` | gates 0–11 + C/F/I/P/G, and the differentiation instrument |
 | `05_The_Input_Contract.md` | **the boundary — PROVIDED / RESERVED / PRODUCED / REQUESTED, and the pre-flight checklist** |
-| ⭐⭐ **`Run_Modes_Warm_and_Cold.md`** | **added 2026-09-04, developer ruling — THE TWO RUN MODES, defined.** ***Read this BEFORE `Step −1` of any pass, because it decides which input set is admissible.*** **WARM = everything about this city open in the mandated read order, every OTHER city's conclusions closed until Step 6; the memory blackout, reader briefs, pre-contamination review and pins are NOT required. COLD = the full quarantine.** ⛔ **The one rule that never relaxes in either mode: THIS city's own culture material is read LAST, as a CHECK** *(`05` §6.1, Step 0.4 item 6)* — **in a cold run the quarantine enforces it; in a warm run nothing does.** ⛔ **There is no third mode** |
+| ⭐⭐ **`Run_Modes_Warm_and_Cold.md`** | **added 2026-09-04, developer ruling — THE TWO RUN MODES, defined.** ***Read this BEFORE `Step −1` of any pass, because it decides which input set is admissible.*** **WARM = everything about this city open in the mandated read order, every OTHER city's conclusions closed until Step 6; the memory blackout, reader briefs, pre-contamination review and pins are NOT required. ⛔ The graph tool (graphify) is never used in a ULM run, warm or cold (`DR-145`, 2026-11-20). COLD = the full quarantine.** ⛔ **The one rule that never relaxes in either mode: THIS city's own culture material is read LAST, as a CHECK** *(`05` §6.1, Step 0.4 item 6)* — **in a cold run the quarantine enforces it; in a warm run nothing does.** ⛔ **There is no third mode** |
 | ⭐ **`ULM_Diagnosis_and_Accuracy_Approaches.md`** | **added 2026-09-04 — why the instrument appeared to work and then did not, what actually threatens the 37 cities, and 34 approaches for ensuring accurate results.** ⚠ **Its §1–4 are reproducible measurements; §5 onward is a view, and the file says so** |
 | ⭐ **`Stepwise_Execution/`** | **added 2026-09-03 — the ULM sliced into 29 invocable units** *(12 spine steps + 17 gates)*, **each an extract stamped with its source and line range.** **For step-at-a-time invocation instead of one large one.** ⛔ **Extracts, not authority — if a unit disagrees with its source, THE SOURCE WINS** |
 | ⭐ **`ULM_Input_Required_Reference.md`** | **added 2026-09-03 — EVERY input the methodology cannot produce, with a verified project ADDRESS and a MECHANICAL presence test per row.** *(Universal requirement, project address column. The bar against which the audit measures.)* |
@@ -3214,8 +3214,10 @@ lot more important in the RWBEM methodology rather than the ULM, but it is still
 - **The list is the whole list:** the official picks (`Cities/Inspirational-Influences.md`) **and every row of the location's candidate
   list** (`Reference/Real-World/Inspiration_Place_Research/candidates/<Location>.md`), developer additions included, whatever its tier,
   and whether or not a tier was ever set. ⛔ **"Never adopted" or "low tier" is never a reason to leave a row out of the research.**
-- **Tiers set the ORDER and the WEIGHT, never the SCOPE.** The primary, secondary and supporting tiers are the core of the search and
-  development; every other row is still researched and its findings are incorporated.
+- **The tiers decide ONLY how prominently a pick figures in the place, never how thoroughly it is researched** (amended 2026-11-20,
+  `DR-145`; developer: *"The 'tiers' only determine how prevalent they appear in a place, but the data-topics themselves should still be
+  thoroughly researched"*). **Every ULM run fully and thoroughly researches every pick, all of them** (*"I don't want to have to go through
+  this again"*). A low tier means a smaller presence in the place, never a thinner search.
 - **Where it binds:** every research step that reads the picks: **Step 3**, **Phase 10 process B**, the RWBEM (where it weighs most) and
   the CST. **A reading list that gives a reader only part of the pick list is a defect in the brief.**
 - **Plan for it:** a full candidate list runs to about 80 or more items. Give it its own research unit with its own web budget (1,000

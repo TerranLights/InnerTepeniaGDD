@@ -100,8 +100,10 @@ is a lot more important in the RWBEM methodology rather than the ULM, but it is 
 - **"The list" is the whole list:** the official picks (`Cities/Inspirational-Influences.md`) **and every row of the location's candidate
   list** (`Reference/Real-World/Inspiration_Place_Research/candidates/<Location>.md`, developer additions included), whatever its tier and
   whether or not a tier was ever set. ⛔ **"Never adopted" or "low tier" is never a reason to leave a row out of the research.**
-- **The tiers set the ORDER and the WEIGHT, never the SCOPE.** Primary, secondary and supporting tiers are the core of the search and
-  development; every other row is still researched and its findings incorporated.
+- **The tiers decide ONLY how prominently a pick figures in the place, never how thoroughly it is researched** *(amended 2026-11-20,
+  `DR-145`; developer: "The 'tiers' only determine how prevalent they appear in a place, but the data-topics themselves should still be
+  thoroughly researched")*. **Every ULM run fully and thoroughly researches every pick, all of them** ("I don't want to have to go
+  through this again"); a low tier means a smaller presence in the place, never a thinner search.
 - **Where:** every research step that reads the picks (ULM Step 3 and Phase 10 process B; the RWBEM, where it weighs most; the CST).
   A reading list that gives a reader only part of the pick list is a defect in the brief.
 - ⚠ **Known consequence (developer, 2026-11-19):** the Mirny subnet's passes were researched on the official picks only, so they are to be
@@ -194,13 +196,14 @@ dated round-summaries are the historical record; the runbook is the working proc
 
 This project has a knowledge graph at graphify-out/ with god nodes, community structure, and cross-file relationships.
 
-> ### ⛔⛔ EXCEPTION — **COLD RUNS AND ISOLATED READERS DO NOT USE GRAPHIFY. AT ALL.**
+> ### ⛔⛔ EXCEPTION — **THE ULM (EVERY RUN, WARM OR COLD), COLD RUNS AND ISOLATED READERS DO NOT USE GRAPHIFY. AT ALL.**
 >
-> **Binding during:** a **ULM or district COLD RUN** *(any session that has entered
+> **Binding during:** ⛔ **EVERY ULM RUN, WARM OR COLD** *(developer, 2026-11-20, `DR-145`: "Edit the instructions so that the ULM
+> never uses the graph tool, so that we don't have to decide this every time")*; a **district COLD RUN** *(any session that has entered
 > `Universal_Location_Methodology/Test_Runs/COLD_RUN_CHECKLIST.md`)*, **and any isolated reader dispatched
 > under `00_RUNBOOK.md` §C.2** — Brief A, B or C.
 >
-> **Not binding otherwise.** *Warm passes, canon audits, methodology maintenance, ordinary navigation, and
+> **Not binding otherwise.** *Warm passes of the other methods, canon audits, methodology maintenance, ordinary navigation, and
 > `graphify update` all use it normally.* **This exception is narrow on purpose.**
 >
 > #### Why — `00_RUNBOOK.md` Step 10.1 item 5

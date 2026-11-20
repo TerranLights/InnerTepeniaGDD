@@ -1151,7 +1151,7 @@ placeholders under the same naming rule).
   using something.
 - **B.** Run the real-world research against the location's full pick list, **prioritizing the lower tiers** —
   top-tier picks get absorbed into a location's identity summary early and spent, while lower tiers sit
-  unexamined and still hold unspent specificity. ⛔ **LAW 0-P (`DR-144`): the full pick list is the official picks AND every row of the location's candidate list, whatever its tier or whether a tier was ever set; the tiers set the order and the weight of the research, never its scope; a long candidate list gets its own research unit and web budget rather than a phase reader whose list already fills its context.**
+  unexamined and still hold unspent specificity. ⛔ **LAW 0-P (`DR-144`): the full pick list is the official picks AND every row of the location's candidate list, whatever its tier or whether a tier was ever set; the tiers decide only how prominently a pick figures in the place, never how thoroughly it is researched (`DR-145`, 2026-11-20); every ULM run researches every pick fully; a long candidate list gets its own research unit and web budget rather than a phase reader whose list already fills its context.**
 - **B2.** *(Added 2026-08-31.)* **Run the Zodiac Lens**, as stated here *(`DR-14` keeps the CST file itself
   out of a ULM pass)*, a second, independent source for this phase: all twelve zodiac signs run as non-binding interrogation prompts
   against this location's own already-established character, each one asked what person/place/thing it would

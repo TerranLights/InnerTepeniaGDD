@@ -5298,7 +5298,7 @@ its Element (the Spine clause that ruling named no longer appears in the pass; n
 - **Recommended (PROVISIONAL).** yes; each to read "no departure from the city is written" and, for the human, "could not return to Upper Earth"; the same rule as Q1's Gate 9 errata (Q-295).
 - **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/07_QA_Gates.md`, Questions for the developer, Q-339 (raised by B Q-B104; A A11).
 
-### DEC-1057 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 8 (Review Panel) (Q-340)
+### DEC-1057 · ✅ ANSWERED 2026-11-20 (`DR-145`, against the recommendation: the position may be voiced) · 2026-11-20 · Ariun Nuur, Step 8 (Review Panel) (Q-340)
 - **Question.** May a position that cannot be cast be voiced from its edge case? Readers voiced the Child as a conditional human child, a robot built here, or a human born here.
 - **Recommended (PROVISIONAL).** no. Record the result (`00f` L757–764). Keep any edge-case voice as data, `noted`, and never let a disposition write a child into the place.
 - **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/08_Review_Panel.md`, Questions for the developer, Q-340 (raised by R1·A A-Q-4; R1·B 131; R1·C 242; R2·A 23; R3·A 19; R3·B Q-B105; R3·C C-Q1; Round 3 (c) in R1, R2 and R3).
@@ -5413,7 +5413,7 @@ its Element (the Spine clause that ruling named no longer appears in the pass; n
 - **Recommended (PROVISIONAL).** the run log (`09.5_Log.md` L4–5 makes it the holding place while a unit's list is frozen). Its closing status line follows item 3's one-line form; per-reader results stay out of that line and are never copied into MASTER.
 - **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/09_Record.md`, Questions for the developer, Q-362.
 
-### DEC-1080 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 9 (Record) (Q-363, A pointer line beside MASTER L391–395?)
+### DEC-1080 · ✅ ANSWERED 2026-11-20 (`DR-145`, as recommended) · 2026-11-20 · Ariun Nuur, Step 9 (Record) (Q-363, A pointer line beside MASTER L391–395?)
 - **Question.** L394 reports *Round 2 UNANIMOUS* for units that first failed Round 2; L394–395 carry substance beyond one line; L391's *validated and corrected* is contradicted in part (A 22, C 214; A·R3 and B·R3 (c) on L391).
 - **Recommended (PROVISIONAL).** yes, one dated pointer line beside them, naming AN-09, AN-10, AN-14, AN-15 and AN-18 for the first-run failures, AN-21 and ERR-87 for the sheets, and `DR-144` for the law's substance; rewrite nothing.
 - **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/09_Record.md`, Questions for the developer, Q-363.
@@ -5498,12 +5498,12 @@ its Element (the Spine clause that ruling named no longer appears in the pass; n
 - **Recommended (PROVISIONAL).** yes, each after the developer confirms it, recording what was learned on this city; none is applied by this step.
 - **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/09_Record.md`, Questions for the developer, Q-379.
 
-### DEC-1097 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 10 (readiness check) (Q-380)
+### DEC-1097 · ⏭️ DEFERRED 2026-11-20 (`DR-145`: to be addressed before the next run) · 2026-11-20 · Ariun Nuur, Step 10 (readiness check) (Q-380)
 - **Question.** The 48 unbanded memory files that name the next subject. Band them, or record that a warm run does not need it? *Recommended, PROVISIONAL:* before 2026-11-29, a shape-only check of the four with the most hits (scan L39, L37, L43, L83) and of the two whose names carry the subject (scan L39, L46); band any entry that states the place's character, temperament or a signature phrase. For the rest, record that a warm run does not need the memory blackout (runbook L3189). (orch.; A Q4, B 115, C·R3 (a))
 - **Recommended (PROVISIONAL).** (see the source)
 - **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/10_Readiness_Check.md`, Questions for the developer, Q-380.
 
-### DEC-1098 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 10 (readiness check) (Q-381, Retrieval in a warm run.)
+### DEC-1098 · ✅ ANSWERED 2026-11-20 (`DR-145`: the ULM never uses the graph tool) · 2026-11-20 · Ariun Nuur, Step 10 (readiness check) (Q-381, Retrieval in a warm run.)
 - **Question.** Should the next run carry *"Graphify not used (DR-6)"*, as this run did (entry 7 L121), although warm passes normally use it? *Recommended, PROVISIONAL:* yes, or at least no graph query about its own subject before its culture check, because the own-culture-last rule has no enforcer in a warm run (runbook L3189) and a retrieval layer cannot honor it (L3138). (C 325; (c) in all three Round 3 replies)
 - **Recommended (PROVISIONAL).** (see the source)
 - **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/10_Readiness_Check.md`, Questions for the developer, Q-381.
@@ -5523,7 +5523,7 @@ its Element (the Spine clause that ruling named no longer appears in the pass; n
 - **Recommended (PROVISIONAL).** (see the source)
 - **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/10_Readiness_Check.md`, Questions for the developer, Q-384.
 
-### DEC-1102 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 10 (readiness check) (Q-385, The drafted method changes.)
+### DEC-1102 · ✅ ANSWERED 2026-11-20 (`DR-145`: every ULM run researches every pick fully; the listed M-entries stay proposed) · 2026-11-20 · Ariun Nuur, Step 10 (readiness check) (Q-385, The drafted method changes.)
 - **Question.** Which will you confirm or refuse before 2026-11-29, given that the next pass follows the rules, not the log? *Recommended, PROVISIONAL:* decide first on those the next run's own briefs and instruments use: `M-419`, `M-425`, `M-433`, `M-445`, `M-450`, `M-417`, `M-418`, `M-421`, `M-442`, `M-443` and `M-439`; apply what you confirm in one methodology commit with the runbook, with *learned on Ariun Nuur* beside each; leave the rest for the end-of-run methodology commit, and let the next handoff say plainly that none is in force until then. (A Q2, B 124, C 333)
 - **Recommended (PROVISIONAL).** (see the source)
 - **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/10_Readiness_Check.md`, Questions for the developer, Q-385.
@@ -5538,7 +5538,7 @@ its Element (the Spine clause that ruling named no longer appears in the pass; n
 - **Recommended (PROVISIONAL).** (see the source)
 - **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/10_Readiness_Check.md`, Questions for the developer, Q-387.
 
-### DEC-1105 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 10 (readiness check) (Q-388)
+### DEC-1105 · ✅ ANSWERED 2026-11-20 (`DR-145`, as recommended) · 2026-11-20 · Ariun Nuur, Step 10 (readiness check) (Q-388)
 - **Question.** This run's band notice in the memory index (L5). Retire it when the run ends? *Recommended, PROVISIONAL:* yes, once the run is recorded and committed, asked first, since it is an edit to an existing line. (B 125; C·R3 (a))
 - **Recommended (PROVISIONAL).** (see the source)
 - **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/10_Readiness_Check.md`, Questions for the developer, Q-388.

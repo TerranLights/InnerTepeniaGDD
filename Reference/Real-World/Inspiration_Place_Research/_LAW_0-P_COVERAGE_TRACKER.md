@@ -3,8 +3,8 @@
 **Started 2026-11-19, at the developer's request.** It tracks one thing: whether each city's **whole** inspiration-picks list has been
 researched and incorporated, as LAW 0-P now requires (project `CLAUDE.md`; `00_RUNBOOK.md`, its own section above the end pointer; `DR-144`
 once filed). **The whole list** means the official picks (`Worldspace/.../Cities/Inspirational-Influences.md`) **plus every row of the city's
-candidate list** (`candidates/<City>.md` in this folder), developer additions included, whatever its tier. Tiers set the order and the
-weight, never the scope.
+candidate list** (`candidates/<City>.md` in this folder), developer additions included, whatever its tier. The tiers decide only how
+prominently a pick figures in the place, never how thoroughly it is researched (`DR-145`, 2026-11-20).
 
 **Why it exists:** the Mirny subnet's passes were researched on the official picks only, so the developer has ruled that the Mirny subnet is
 to be re-run (2026-11-19: *"next week, we have to go back and do the Mirny subnet all over again (a 3rd time)"*). This file is where that

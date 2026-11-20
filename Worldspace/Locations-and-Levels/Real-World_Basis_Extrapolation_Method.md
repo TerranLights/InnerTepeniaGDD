@@ -70,7 +70,7 @@ rescued a dead end AND supplied the pass's best structural contrast.***
 ## ⛔⛔ THERE IS NO TIME LIMIT AND NO SEARCH BUDGET
 
 ***Do not optimize for query count, log length, or apparent momentum.*** **"Enough to write something
-plausible" is precisely the threshold `LAW 0` exists to refuse.** ⛔⛔ **LAW 0-P (`DR-144`, 2026-11-19), and it weighs most in this method:** *"Codify as a law to incorporate the entire inspiration picks list items into the research. That's the whole reason why those items are on the list. I wouldn't have made that list if the results didn't matter."* **The list is the whole list: the official picks and every row of the location's candidate list, developer additions included, whatever its tier; the tiers set the order and the weight, never the scope.**
+plausible" is precisely the threshold `LAW 0` exists to refuse.** ⛔⛔ **LAW 0-P (`DR-144`, 2026-11-19), and it weighs most in this method:** *"Codify as a law to incorporate the entire inspiration picks list items into the research. That's the whole reason why those items are on the list. I wouldn't have made that list if the results didn't matter."* **The list is the whole list: the official picks and every row of the location's candidate list, developer additions included, whatever its tier; the tiers decide only how prominently a pick figures in the place, never how thoroughly it is researched (`DR-145`, 2026-11-20).**
 
 > ⭐ **A research log carrying eleven searches, two dead ends and four honest *"not used"* rows is a BETTER
 > artifact than one carrying four clean hits** — *because it tells the next session where not to go.*
