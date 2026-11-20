@@ -1,0 +1,3 @@
+.t8_Step7Q1_readerA.md: 32 fields compared exactly, 0 differ
+.t8_Step7Q1_readerB.md: 32 fields compared exactly, 0 differ
+.t8_Step7Q1_readerC.md: 32 fields compared exactly, 0 differ

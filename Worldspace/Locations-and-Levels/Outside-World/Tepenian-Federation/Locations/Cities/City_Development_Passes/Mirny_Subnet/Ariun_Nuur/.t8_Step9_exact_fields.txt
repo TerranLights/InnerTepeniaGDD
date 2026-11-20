@@ -1,0 +1,6 @@
+.t8_Step9_readerA.md cannot open /home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Ariun_Nuur/.t8_Step9_deferrals.md
+.t8_Step9_readerA.md: 20 fields compared exactly, 0 differ
+.t8_Step9_readerB.md cannot open /home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Ariun_Nuur/.t8_Step9_deferrals.md
+.t8_Step9_readerB.md: 20 fields compared exactly, 0 differ
+.t8_Step9_readerC.md cannot open /home/kuroskalacs/Documents/Doll-Fi/media/games/Inner Tepenia/InnerTepeniaGDD/Worldspace/Locations-and-Levels/Outside-World/Tepenian-Federation/Locations/Cities/City_Development_Passes/Mirny_Subnet/Ariun_Nuur/.t8_Step9_deferrals.md
+.t8_Step9_readerC.md: 20 fields compared exactly, 0 differ

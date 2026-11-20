@@ -30,7 +30,7 @@ re-run, and every later city, shows its coverage.
 | Casey | Mirny | 3 | ✅ · ✅ | 124 (#1–#124; rows #85–#124 added in the 2026-10-27 top-up; the drafting tracker's 84 predates it; the subnet-wide developer row is **not** in this file) | 3 / 124 (the official picks only) | | | | ☐ | **Mirny subnet re-run** |
 | Mirny | Mirny | 4 | ✅ · ✅ | 86 | 4 / 86 (the official picks only) | | | | ☐ | **Mirny subnet re-run** |
 | Davis | Mirny | 3 | ✅ · ✅ | 89 | 3 / 89 (the official picks only) | | | | ☐ | **Mirny subnet re-run** |
-| Ariun Nuur | Mirny | 3 | ✅ · ✅ | 86 | 3 / 86 researched (the official picks only); **85 / 85 reading-checked, no web** (2026-11-19, ULM Phase 10C: `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/.t8_Phase10C_reader{A,B,C}.md`) | **No** (Step 3 and Phase 10 briefed on the official picks only); a candidate-research unit scheduled for the ULM's 2026-11-20 window | | | ☐ | Official picks researched again in depth 2026-11-19 (ULM Phase 10R, 326 web calls). **Mirny subnet re-run** |
+| Ariun Nuur | Mirny | 3 | ✅ · ✅ | 86 | **85 / 86 researched** (rows 1–85, three readers each, 788 web calls; 2026-11-20, ULM Phase 10R2: `Research_Logs/Ariun_Nuur_Research_Log.md` Entries 4–6); row 86 waits by the developer's ruling (its own study after the CST); 85 / 85 also reading-checked, no web (2026-11-19, Phase 10C) | **Phase 10 (process B): yes** — the briefs `.t8_brief_04_Phase10R2u{1,2,3}.md` carried the whole candidate list, and `04_Phase_10_Catalog.md`'s pick-incorporation sections give every row a disposition (2026-11-20). **Step 3: no** (briefed on the official picks only, 2026-11-19) | | | ☐ | Official picks researched again in depth 2026-11-19 (ULM Phase 10R, 326 web calls; Entry 3). LAW 0-P not yet met: the CST and RWBEM are still to come. **Mirny subnet re-run** |
 | Kunlun | Mirny | 4 | ✅ · ✅ | 98 | 4 / 98 (the official picks only) | | | | ☐ | **Mirny subnet re-run** |
 | Zhongshan | Mirny | 3 | ✅ · ✅ | 79 | 3 / 79 (the official picks only) | | | | ☐ | **Mirny subnet re-run** |
 | Sinheung | Mirny | 3 | ✅ · ✅ | 82 | 3 / 82 (the official picks only) | | | | ☐ | **Mirny subnet re-run** |
@@ -93,7 +93,7 @@ subnet-wide developer row (solo road-travel music). *Researched* = rows with ins
 | Casey | 124 | 3 | 121 (its file has no road-music row) |
 | Mirny | 86 | 4 | 81 |
 | Davis | 89 | 3 | 85 |
-| Ariun Nuur | 86 | 3 | 82 (all 86 reading-checked 2026-11-19; research unit set for 11-20) |
+| Ariun Nuur | 86 | 85 (rows 1–85; rows 1–3 are the official picks) | 0 (row 86 waits; researched 2026-11-20, ULM Phase 10R2) |
 | Kunlun | 98 | 4 | 93 |
 | Zhongshan | 79 | 3 | 75 |
 | Sinheung | 82 | 3 | 78 |

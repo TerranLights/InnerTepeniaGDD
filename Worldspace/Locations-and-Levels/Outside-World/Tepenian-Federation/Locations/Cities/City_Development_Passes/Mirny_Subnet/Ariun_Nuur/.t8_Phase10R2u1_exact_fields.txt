@@ -1,0 +1,13 @@
+# Re-run 2026-11-20 06:29, AFTER research-log Entries 3–6 were appended (the log grew from 541 to 4,251 lines). The one difference per reader is that growth: each reader's LLAST for the whole log was its real last line, L541 '---', at Round 2. The Round 2 exact-field results, run before the append, were 42 fields, 0 differ (logged in RUN_PROGRESS).
+.t8_Phase10R2u1_readerA.md  Ariun_Nuur_Research_Log.md  LLAST L4251
+   claimed: '---'
+   source : 'questions:** 2 (U3-Q1, U3-Q2). Merged 2026-11-20; PROPOSED; not declared complete.'
+.t8_Phase10R2u1_readerA.md: 14 fields compared exactly, 1 differ
+.t8_Phase10R2u1_readerB.md  Ariun_Nuur_Research_Log.md  LLAST L4251
+   claimed: '---'
+   source : 'questions:** 2 (U3-Q1, U3-Q2). Merged 2026-11-20; PROPOSED; not declared complete.'
+.t8_Phase10R2u1_readerB.md: 14 fields compared exactly, 1 differ
+.t8_Phase10R2u1_readerC.md  Ariun_Nuur_Research_Log.md  LLAST L4251
+   claimed: '---'
+   source : 'questions:** 2 (U3-Q1, U3-Q2). Merged 2026-11-20; PROPOSED; not declared complete.'
+.t8_Phase10R2u1_readerC.md: 14 fields compared exactly, 1 differ

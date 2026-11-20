@@ -1,0 +1,15 @@
+.t8_Step5B_readerA.md  00_RUNBOOK.md  L1 L0
+   claimed: '# Step 5 — Reconciliation *(and the CLOSE pass)*'
+   source : '> 📎 **Derivation Mechanisms (line added 2026-10-29; nothing was moved).** A **copy** of this file is in the un'
+.t8_Step5B_readerA.md  05_The_Input_Contract.md  L1 L5
+   claimed: '## 6.1 The circularity rule'
+   source : '---'
+.t8_Step5B_readerA.md  05_Reconciliation.md  L1 L5
+   claimed: '# Ariun Nuur — ULM Step 5 — Reconciliation and the close pass — stage A'
+   source : '  **Round 2: UNANIMOUS. Round 3: six CONSISTENT.**'
+.t8_Step5B_readerA.md  .t8_Step5_findings_index.md  L1 L8
+   claimed: "# Ariun Nuur — findings index (orchestrator's script, 2026-11-20: every line beginning with a bold FIND id, wi"
+   source : '04_Phase_02_Composition_and_Arrival.md:145 | FIND-P2-6 | The Act is open.'
+.t8_Step5B_readerA.md: 20 fields compared exactly, 4 differ
+.t8_Step5B_readerB.md: 20 fields compared exactly, 0 differ
+.t8_Step5B_readerC.md: 20 fields compared exactly, 0 differ

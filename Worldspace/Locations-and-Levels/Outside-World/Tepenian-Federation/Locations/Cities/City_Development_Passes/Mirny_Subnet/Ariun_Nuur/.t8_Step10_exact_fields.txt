@@ -1,0 +1,3 @@
+.t8_Step10_readerA.md: 18 fields compared exactly, 0 differ
+.t8_Step10_readerB.md: 18 fields compared exactly, 0 differ
+.t8_Step10_readerC.md: 18 fields compared exactly, 0 differ

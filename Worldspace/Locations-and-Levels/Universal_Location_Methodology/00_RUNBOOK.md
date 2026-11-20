@@ -2612,7 +2612,7 @@ writes the finding.**
 formal capacity and evolved a workaround no design process would have invented.
 
 **3.3 Prioritize by difference, not tier — but prioritizing is not skipping.** The most valuable pick is usually
-the one least like the others. **Look at each pick at least far enough to know what it would have given.**
+the one least like the others. **Look at each pick at least far enough to know what it would have given.** ⛔ **LAW 0-P (`DR-144`, 2026-11-19): the pick list is the WHOLE list, the official picks and every row of the location's candidate list, whatever its tier; tiers set the order and the weight, never the scope. Full statement in its own section at the end of this file.**
 
 **3.4 The source is not a specification.** Three outcomes are all legitimate: close resemblance with a new paint
 job · one mechanism taken and divergence everywhere else *(commonest)* · somewhere the source never went

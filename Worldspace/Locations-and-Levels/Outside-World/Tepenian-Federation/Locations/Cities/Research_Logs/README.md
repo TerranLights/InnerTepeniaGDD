@@ -37,7 +37,7 @@ looked at it."*** ***This names the next channel out: a pick looked at ONCE and 
 
 **A log is not a receipt for work done. It is the record that lets the next session judge whether the pick is
 actually spent** — *which is the developer's own stated purpose for these files, quoted below: "future
-iterations can refer back to things and possibly do further, deeper investigative research."*
+iterations can refer back to things and possibly do further, deeper investigative research."* ⛔ **LAW 0-P (`DR-144`, 2026-11-19): the pick list a log researches is the WHOLE list, the official picks (`Inspirational-Influences.md`) and every row of the location's candidate list (`Reference/Real-World/Inspiration_Place_Research/candidates/<Location>.md`), developer additions included, any tier; tiers set the order and the weight, never the scope; every row researched is logged like any other pick.**
 
 | ✅ A complete log carries | ⛔ Not |
 |---|---|

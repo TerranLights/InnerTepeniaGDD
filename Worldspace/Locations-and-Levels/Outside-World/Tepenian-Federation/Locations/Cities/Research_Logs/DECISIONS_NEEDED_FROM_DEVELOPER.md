@@ -4441,6 +4441,1107 @@ its Element (the Spine clause that ruling named no longer appears in the pass; n
 - **Question.** Phase 10's process B researches the city's *full pick list, prioritizing the lower tiers*. The official list is three picks (`Inspirational-Influences.md` L92–95). A candidate list of 85 drafted rows plus one developer-added row (`Reference/Real-World/Inspiration_Place_Research/candidates/Ariun_Nuur.md`, drafted 2026-10-26 from knowledge, unverified; all 86 rows shown 2026-10-27, no decision recorded except *CRISPR: keep as is*) was never adopted. Should any of the candidates count as picks for this pass's Phase 10 research, or for a later pass?
 - **Recommended (PROVISIONAL).** This pass researches the three official picks only (Phase 10 and its research supplement, 2026-11-19); the 86 candidates are reviewed with the developer afterward, and any adopted pick is researched then and reconciled at Step 5 or a later pass.
 - **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/.t8_brief_04_Phase10R.md` §4 item 1; `RUN_PROGRESS_Ariun_Nuur.md`, 2026-11-19.
+- **Status, 2026-11-20 (pointer, not a rewrite):** superseded by **LAW 0-P** (developer, 2026-11-19: *"Codify as a law to incorporate the entire inspiration picks list items into the research."*); the candidate rows are researched in Phase 10R2 (`RUN_PROGRESS_Ariun_Nuur.md`, 2026-11-20). To be filed as `DR-144`.
+
+### DEC-886 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Phase 10 (orchestrator ruling, Round 3)
+- **Question.** Phase 10's brief asked for a Planet + Element determination (task item 8, B3) while its standing line 5 lists symbols among the names a reader may not write. May B3 name the Planet and Element members it determines?
+- **Recommended (PROVISIONAL).** Yes: B3, and only B3, may name the members it determines (incumbent and alternatives); everywhere else the names stay out, and the merge maps them. The brief's silence on this was the orchestrator's defect.
+- **Where:** `RUN_PROGRESS_Ariun_Nuur.md`, 2026-11-19 13:49–14:14; `.t8_Phase10_round3_reader{A,B,C}.md`.
+
+### DEC-887 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Phase 10R (a PDF read from the fetch tool's saved file)
+- **Question.** Phase 10R reader B read four facts (F111–F114) from a PDF that the fetch tool saved locally and B then opened with Read; readers A and C declined that step. Are such facts admissible?
+- **Recommended (PROVISIONAL).** Yes, as web-source content: the saved file is the fetched page, not a repository file. Each is marked with its source date (a 2017–18 guide) and tagged as a saved-PDF read.
+- **Where:** `RUN_PROGRESS_Ariun_Nuur.md`, 2026-11-19 14:04; `.t8_Phase10R_round3_reader{A,B,C}.md`.
+
+### DEC-888 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Phase 10R2 (the candidate research split into three row sub-units)
+- **Question.** LAW 0-P requires every candidate row to be researched; the handoff planned one unit of three readers. One reader's context holds about 110 web calls (measured on Phase 10R: about 390,000 tokens per reader at 103–113 calls), and 85 rows need several calls each. May the unit run as three sub-units by rows (1–29, 30–58, 59–85), each a full T8 with three readers (nine readers in all), with a cap of 90 calls each?
+- **Recommended (PROVISIONAL).** Yes: each sub-unit keeps the full T8 (three independent readers, Round 2, Round 3, one merge); every row is still read by three readers; the split serves coverage, which is the law's purpose. Row 86 waits (developer, 2026-11-19).
+- **Where:** `RUN_PROGRESS_Ariun_Nuur.md`, 2026-11-20; `.t8_brief_04_Phase10R2u{1,2,3}.md`.
+
+### DEC-889 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Phase 10 (the merge in two stages)
+- **Question.** The Phase 10 merge's inputs (four units, eighteen reader outputs and their Round 3 replies) are larger than one merge writer can hold. May the merge run in two stages: first one research merge per research unit (Phase 10R; Phase 10R2 sub-units 1–3), each written as a research-log entry; then one catalog merge over Phase 10's and Phase 10C's outputs and the four merged research entries?
+- **Recommended (PROVISIONAL).** Yes: every T8 unit still gets one fresh merge writer under the merge rule (M-246), and the catalog writer reads every unit's merged result. A method note goes to the observations log for after the run.
+- **Where:** `RUN_PROGRESS_Ariun_Nuur.md`, 2026-11-20 (the merge design entry); `.t8_merge_brief_04_Phase10R.md`.
+
+### DEC-890 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Phase 10R (research-log Entry 3) (Q2)
+- **Question.** **The modules' mapping to sectors.** A 2020 table, seen only in summaries, was read as 434-A/434-B for two sectors (A) and as 434-D/434-E for Sectors 15 and 16 (B).
+- **Recommended (PROVISIONAL).** Keep the SOURCED address (Building 434-D) only; carry B's mapping as UNVERIFIED, fitting that address; use no mapping beyond the pick's own sector until a page is read (P10R-T9)
+- **Where:** `Research_Logs/Ariun_Nuur_Research_Log.md`, research-log Entry 3, Developer questions, Q2 (raised by A (c)).
+
+### DEC-891 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Phase 10R (research-log Entry 3) (Q3)
+- **Question.** **The new complex's floor area at the real site**: more than 3,000 m² (A, the operator's own page, UNVERIFIED) against about 2,000 or 2,500 m² (C, by source, UNVERIFIED).
+- **Recommended (PROVISIONAL).** Carry no figure into the catalog until a page is read; keep both with their sources (P10R-T18)
+- **Where:** `Research_Logs/Ariun_Nuur_Research_Log.md`, research-log Entry 3, Developer questions, Q3 (raised by A (c) · C (c)).
+
+### DEC-892 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Phase 10R (research-log Entry 3) (Q4)
+- **Question.** **Aurora at the real site**: three UNVERIFIED statements in different coordinate systems (A 82; C F-256; B F172), one of which is withheld under point 4.
+- **Recommended (PROVISIONAL).** Carry the aurora only as UNVERIFIED and unreconciled; confirm the withholding of B F172 and of C F-256's jointly-stated sentence under point 4; queue a read of a frequency paper (P10R-T17)
+- **Where:** `Research_Logs/Ariun_Nuur_Research_Log.md`, research-log Entry 3, Developer questions, Q4 (raised by A (c)).
+
+### DEC-893 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Phase 10R (research-log Entry 3) (Q5)
+- **Question.** **The testing lab's end**: C's lead (halted end of 2022, over 650,000 tests) is UNVERIFIED; A and B found no date.
+- **Recommended (PROVISIONAL).** Keep it as an UNVERIFIED lead credited to C; a later session reads the page (P10R-T11)
+- **Where:** `Research_Logs/Ariun_Nuur_Research_Log.md`, research-log Entry 3, Developer questions, Q5 (raised by C (c)).
+
+### DEC-894 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Phase 10R (research-log Entry 3) (Q6)
+- **Question.** **The aluminum plating's attribution** (B F116 against C's read of the same page).
+- **Recommended (PROVISIONAL).** Keep the narrower form written (aluminum plating only, UNVERIFIED, both articles cited); drop "quarter-inch" and "in electric rooms" unless a page read restores them
+- **Where:** `Research_Logs/Ariun_Nuur_Research_Log.md`, research-log Entry 3, Developer questions, Q6 (raised by C (c) · orchestrator (point 3)).
+
+### DEC-895 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Phase 10R (research-log Entry 3) (Q7)
+- **Question.** **OPEN-29: visitor stay "2 to 6" against "1 to 6" months.** Not reached by any reader in this unit.
+- **Recommended (PROVISIONAL).** Leave it open for the next research pass; neither figure is carried until it is read (P10R-T7)
+- **Where:** `Research_Logs/Ariun_Nuur_Research_Log.md`, research-log Entry 3, Developer questions, Q7 (raised by B (c)).
+
+### DEC-896 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Phase 10R (research-log Entry 3) (Q8)
+- **Question.** **The construction-complete date**: A read completion as of 2026-06-09 inside the sector's news item of 2026-07-27; C recorded only the item's date.
+- **Recommended (PROVISIONAL).** Keep both dates as written, A's credited to A; it changes nothing in the catalog
+- **Where:** `Research_Logs/Ariun_Nuur_Research_Log.md`, research-log Entry 3, Developer questions, Q8 (raised by B (c, "only if the date matters")).
+
+### DEC-897 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Phase 10R2 sub-unit 1 (Entry 4) (U1-Q1)
+- **Question.** **The saved-PDF point.** Several facts are marked SOURCED from PDFs that the fetch tool could not parse and saved to its own tool-results folder, which the reader then viewed page by page with Read (A calls 14, 64, 88; B C11, C41; C calls 8, 29: the underground lab's visitor guides, the borehole fact sheet, the clean-air plan, the laboratory's 2015 tally). Should a PDF viewed this way count as "read on the page fetched" (SOURCED)?
+- **Recommended (PROVISIONAL).** **Yes, SOURCED,** PROVISIONAL: the file is the fetched source's own content, the fetch is in the reader's call log, and two readers viewing the same PDF independently confirmed each other's lines at Round 3 (the clean-air plan's winter-crew line; the visitor guide's shower and pressure lines). This entry is written on that basis; if the answer is no, the facts citing those URLs drop to UNVERIFIED.
+- **Where:** `Research_Logs/Ariun_Nuur_Research_Log.md`, Entry 4, Developer questions, U1-Q1 (raised by the merge).
+
+### DEC-898 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Phase 10R2 sub-unit 1 (Entry 4) (U1-Q2)
+- **Question.** **Waiting-topic tags the merge added on its own reading.** Beyond the tags Round 3 named, the merge tagged `WAITS (DCI)` on institutional administration: a laboratory's single-budget rule (U1-F60), no departments and no tenure (U1-F37), funding rules (U1-F57), a data license and fee policy (U1-F8, U1-F9), the vault's ownership (U1-F119), a planning permission (U1-F75), a regional deadline (U1-F258), a drilling team's reorganization (U1-F225), and who runs the tortoise pens (U1-F159). Keep these tags?
+- **Recommended (PROVISIONAL).** **Keep them,** PROVISIONAL: the brief sends governance and company-run administration to the DCI, the tags hide nothing (each fact is written in full), and the physical side of each fact stays usable now.
+- **Where:** `Research_Logs/Ariun_Nuur_Research_Log.md`, Entry 4, Developer questions, U1-Q2 (raised by the merge).
+
+### DEC-899 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Phase 10R2 sub-unit 2 (Entry 5) (U2-Q1)
+- **Question.** Row 32: did the new ski area open on 12 or 23 November 1957? (U2-F48)
+- **Recommended (PROVISIONAL).** Keep both: 12 November for the first tow's running, 23 November for the area's opening, labeled as such until a third source settles it.
+- **Where:** `Research_Logs/Ariun_Nuur_Research_Log.md`, Entry 5, Developer questions, U2-Q1 (raised by A; B).
+
+### DEC-900 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Phase 10R2 sub-unit 2 (Entry 5) (U2-Q2)
+- **Question.** Row 36: how many institutions are in the science city — about 150, 29, or 60 national plus 240 private (by 2000)? (U2-F101)
+- **Recommended (PROVISIONAL).** Keep all three, each with its date and scope; they count different things, so no single figure is written.
+- **Where:** `Research_Logs/Ariun_Nuur_Research_Log.md`, Entry 5, Developer questions, U2-Q2 (raised by A).
+
+### DEC-901 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Phase 10R2 sub-unit 2 (Entry 5) (U2-Q3)
+- **Question.** Row 37: did the first light-source ring open in 1993 or 1994? (U2-F105)
+- **Recommended (PROVISIONAL).** Keep both: 1993 for the center's formation and first operation, 1994 for opening to users.
+- **Where:** `Research_Logs/Ariun_Nuur_Research_Log.md`, Entry 5, Developer questions, U2-Q3 (raised by A; B).
+
+### DEC-902 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Phase 10R2 sub-unit 2 (Entry 5) (U2-Q4)
+- **Question.** Row 37: did the first ring carry 22 or 26 beamlines? (U2-F105)
+- **Recommended (PROVISIONAL).** Keep both with their sources; neither page gives a date for its count, so treat them as counts from different years until rechecked.
+- **Where:** `Research_Logs/Ariun_Nuur_Research_Log.md`, Entry 5, Developer questions, U2-Q4 (raised by A; B).
+
+### DEC-903 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Phase 10R2 sub-unit 2 (Entry 5) (U2-Q5)
+- **Question.** Row 45: is the station's summer population about 160, 180 or at least 200, and are its publications 1,500+ or 2,000+? (U2-F178)
+- **Recommended (PROVISIONAL).** Keep all, labeled as different measures (people living in the town, people in residence, researchers) and as counts of different dates.
+- **Where:** `Research_Logs/Ariun_Nuur_Research_Log.md`, Entry 5, Developer questions, U2-Q5 (raised by A; B).
+
+### DEC-904 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Phase 10R2 sub-unit 2 (Entry 5) (U2-Q6)
+- **Question.** Row 49: is Oymyakon 30 or about 40 km from Tomtor? (U2-F202)
+- **Recommended (PROVISIONAL).** Write 30 km as the working figure (the encyclopedia, read by two readers), with the 2004 article's "about 40 km" as a conflict line; the two may be road and straight-line distances.
+- **Where:** `Research_Logs/Ariun_Nuur_Research_Log.md`, Entry 5, Developer questions, U2-Q6 (raised by A).
+
+### DEC-905 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Phase 10R2 sub-unit 2 (Entry 5) (U2-Q7)
+- **Question.** Row 51: did the thermometer cost $700,000 or $750,000? (U2-F223)
+- **Recommended (PROVISIONAL).** Keep both with their sources; prefer neither.
+- **Where:** `Research_Logs/Ariun_Nuur_Research_Log.md`, Entry 5, Developer questions, U2-Q7 (raised by A; B).
+
+### DEC-906 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Phase 10R2 sub-unit 2 (Entry 5) (U2-Q8)
+- **Question.** Row 52: are the winter minimums about −9 to −10 °C or −3.9 °C? (U2-F234)
+- **Recommended (PROVISIONAL).** Keep both, labeled as mean monthly minimum and mean daily minimum, and reread the page's climate table before either figure is used (U2-T25).
+- **Where:** `Research_Logs/Ariun_Nuur_Research_Log.md`, Entry 5, Developer questions, U2-Q8 (raised by A; B).
+
+### DEC-907 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Phase 10R2 sub-unit 2 (Entry 5) (U2-Q9)
+- **Question.** Row 55: were three or five people present for the 1934 gust? (U2-F268)
+- **Recommended (PROVISIONAL).** Keep both; the observatory's own anniversary post (five men) is the closer source, but no reader read it on the page.
+- **Where:** `Research_Logs/Ariun_Nuur_Research_Log.md`, Entry 5, Developer questions, U2-Q9 (raised by A).
+
+### DEC-908 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Phase 10R2 sub-unit 2 (Entry 5) (U2-Q10)
+- **Question.** Row 56: is the Sphinx at 3,570, 3,571 or 3,580 m? (U2-F269)
+- **Recommended (PROVISIONAL).** Keep 3,571 m (read by two readers) and 3,580 m (read by one) as a recorded conflict, noting the foundation's 3,570 m from a summary.
+- **Where:** `Research_Logs/Ariun_Nuur_Research_Log.md`, Entry 5, Developer questions, U2-Q10 (raised by A; B).
+
+### DEC-909 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Phase 10R2 sub-unit 2 (Entry 5) (U2-Q11)
+- **Question.** The saved PDFs: three of reader A's fetches returned binary PDFs that the fetch tool saved locally; the readers' brief forbade commands on files, so they were logged as dead at the sources, and other PDFs (the 2026 room guide, the support association's yearbooks, a staff-survey report) were seen only in summaries. May a later research step open such saved or listed PDFs?
+- **Recommended (PROVISIONAL).** Yes: let a later research step open a PDF with the Read tool (no other command), log it as a fetch with its call number, and mark a fact SOURCED only when read there; until then these stay dead at the sources (U2-T33).
+- **Where:** `Research_Logs/Ariun_Nuur_Research_Log.md`, Entry 5, Developer questions, U2-Q11 (raised by A (note); merge).
+
+### DEC-910 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Phase 10R2 sub-unit 3 (Entry 6) (U3-Q1)
+- **Question.** **Period and people adjectives under the no-demonym rule.** Does the rule cover words such as "Roman" (as in "a Roman villa"), "Viking" (the row's own name, used by all three readers) and "American spelling"?
+- **Recommended (PROVISIONAL).** A real place's proper name keeps its words as a source name (for example, the Viking Ship Museum). Elsewhere, write the period plainly, by its date, where the source dates it ("a 4th-century villa wing"; a longship built about 1042); where the source gives no date, keep the source's phrase in the fact and flag it. "American spelling" names a spelling convention, not a people, and stays. This merge applies that answer throughout.
+- **Where:** `Research_Logs/Ariun_Nuur_Research_Log.md`, Entry 6, Developer questions, U3-Q1 (raised by Reader C, Round 3 (marked (c))).
+
+### DEC-911 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Phase 10R2 sub-unit 3 (Entry 6) (U3-Q2)
+- **Question.** **Facts read from a PDF that the fetch tool saved and the reader then viewed with Read.** Reader A (call 71, slides 1–8) and reader C (call 68, pages 1–4; call 70, slides 1–12) marked such facts SOURCED (U3-F32, F34, F35, F175). Is a saved copy of a logged fetch a "read on the page fetched," and does its URL count as in the finder's own call record?
+- **Recommended (PROVISIONAL).** Yes: keep them SOURCED. The URL is in each finder's own fetch log, the bytes came from that logged fetch, and the readers viewed the saved file as web data, not as a repo file. Mark each such fact "SOURCED (PDF viewed)," as this entry does, so the route stays visible.
+- **Where:** `Research_Logs/Ariun_Nuur_Research_Log.md`, Entry 6, Developer questions, U3-Q2 (raised by The orchestrator's Round 3 points (the saved-PDF point)).
+
+### DEC-912 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Phase 10 (Q-204)
+- **Question.** **Planet:** keep the incumbent, or choose another member?
+- **Recommended (PROVISIONAL).** Leave it open. The leading alternative is the one B3 names first (A, B), with the incumbent and the distributed member beside it: the city's lines describe a place that knows a thing it cannot see and gives that knowledge to whoever does the work, more than a place cut off
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/04_Phase_10_Catalog.md`, Q-204.
+
+### DEC-913 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Phase 10 (Q-205)
+- **Question.** **Element:** set one now?
+- **Recommended (PROVISIONAL).** Leave it open with the three candidates B3 records; if one is wanted now, the member every reader found fits at least in part (A first, B second, C in part), its one-word label left to the file's own review
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/04_Phase_10_Catalog.md`, Q-205.
+
+### DEC-914 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Phase 10 (Q-206)
+- **Question.** May a phase's B3 name symbol members?
+- **Recommended (PROVISIONAL).** Yes, in B3 only, as `DEC-886` already records
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/04_Phase_10_Catalog.md`, Q-206.
+
+### DEC-915 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Phase 10 (Q-207)
+- **Question.** **The marker's surface part:** A's standing instrument screen, B's raised post, or none (C's register alone)?
+- **Recommended (PROVISIONAL).** The shared core as FIND-P10-2 writes it (the found entry kept on paper, attributed as found), with B's raised post as its surface part if you want one: it is rooted in the city's own stake grid and raising chore, where A's screen copies the real site's instrument; or C's register alone, if no surface part is wanted
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/04_Phase_10_Catalog.md`, Q-207.
+
+### DEC-916 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Phase 10 (Q-208)
+- **Question.** **The axis's wording?**
+- **Recommended (PROVISIONAL).** *Kept by the cold, raised by hand* — and nothing that stands stays where it was set
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/04_Phase_10_Catalog.md`, Q-208.
+
+### DEC-917 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Phase 10 (Q-209)
+- **Question.** **The lake: a landmark or a feature?**
+- **Recommended (PROVISIONAL).** A feature that the earlier files call a landmark, until a line uses it for direction
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/04_Phase_10_Catalog.md`, Q-209.
+
+### DEC-918 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Phase 10 (Q-210)
+- **Question.** **The archive's physical form:** adopt A's two-room body (a cold store that costs nothing, a warm working room that costs heat, a door between)?
+- **Recommended (PROVISIONAL).** Not yet: carry the form (REQ-146) and keep A's body reserved (RF-192) as the leading proposal
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/04_Phase_10_Catalog.md`, Q-210.
+
+### DEC-919 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Phase 10 (Q-211)
+- **Question.** **Visitors:** does someone who comes for a run on the instruments and leaves contradict *those who came have stayed* (Phase 7 FIND-P7-45; Phase 5 L361)?
+- **Recommended (PROVISIONAL).** Hold the visitor who leaves reserved (RF-199) until you rule; if admitted, C's reading, that the spine names those who came to live, not those who come for a run
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/04_Phase_10_Catalog.md`, Q-211.
+
+### DEC-920 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Phase 10 (Q-212)
+- **Question.** **Positions:** who is the Passer-Through and the Elder here, and is a district the Child?
+- **Recommended (PROVISIONAL).** Leave all three blank until the ledger's definitions are read (REQ-153) and Q-211 is answered
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/04_Phase_10_Catalog.md`, Q-212.
+
+### DEC-921 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Phase 10 (Q-213)
+- **Question.** **Where do carried holes go:** Step 10, or Step 5?
+- **Recommended (PROVISIONAL).** Step 10 for the developer's holes and the demonym slot; Step 5 only for the symbol backstop, the shaft's qualifier and the person-shaped lens results
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/04_Phase_10_Catalog.md`, Q-213.
+
+### DEC-922 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Phase 10 (Q-214)
+- **Question.** **Sweep convention:** a pure record (a credit row, a split row, a `Generators used` line) discharged as answered or as not applicable?
+- **Recommended (PROVISIONAL).** Not applicable (N), with the place that answers its matter named
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/04_Phase_10_Catalog.md`, Q-214.
+
+### DEC-923 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Phase 10 (Q-215)
+- **Question.** **The sign-7 prompt** (fairness, harmony): three different results
+- **Recommended (PROVISIONAL).** Keep all three as prompts; nothing is assigned
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/04_Phase_10_Catalog.md`, Q-215.
+
+### DEC-924 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Phase 10 (Q-216)
+- **Question.** **The inherited station:** kept raised by the settlers, or found buried and drifted?
+- **Recommended (PROVISIONAL).** B's answer: found partly buried and drifted, which suits the found paper (Phase 3 L274) and the moving of the stores; written only once you confirm
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/04_Phase_10_Catalog.md`, Q-216.
+
+### DEC-925 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Phase 10 (Q-217)
+- **Question.** **Phase 10C row 84:** may a "furthest from everywhere" marker be researched as a form when the point lies near the city, not at it, and cannot be named?
+- **Recommended (PROVISIONAL).** Research it as a source for a marker form only (stage B, under LAW 0-P); no landmark for it is written in the city until you allow one
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/04_Phase_10_Catalog.md`, Q-217.
+
+### DEC-926 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Phase 10 (Q-218)
+- **Question.** **Phase 10C row 55:** can the museum built around a record serve as a marker form, its record-as-identity care note set aside?
+- **Recommended (PROVISIONAL).** Yes, the museum form only, as a lead; the record-as-identity angle stays barred (`DR-28` D2–D3)
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/04_Phase_10_Catalog.md`, Q-218.
+
+### DEC-927 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Phase 10 (Q-219)
+- **Question.** **Phase 10C row 71:** does a relation site outside the city belong in its Phase 10 catalog?
+- **Recommended (PROVISIONAL).** No: the outpost is cataloged as a relation (CAT-11), and the row's lead is NO LEAD for the city itself
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/04_Phase_10_Catalog.md`, Q-219.
+
+### DEC-928 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Phase 10 (Q-220)
+- **Question.** **Phase 10C row 32:** WAITS or NO LEAD?
+- **Recommended (PROVISIONAL).** WAITS (games and arts), as the orchestrator recorded
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/04_Phase_10_Catalog.md`, Q-220.
+
+### DEC-929 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Phase 10 (Q-221)
+- **Question.** **Does the district's honor take a physical form now?**
+- **Recommended (PROVISIONAL).** No: a name only, until you name anyone or allow a form (RF-8; Phase 6 Q-138)
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/04_Phase_10_Catalog.md`, Q-221.
+
+### DEC-930 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Phase 10 (Q-222)
+- **Question.** **May Phase 10 coin proper place names?**
+- **Recommended (PROVISIONAL).** No: plain working descriptions only; proper names wait for the cultural synthesis and for you
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/04_Phase_10_Catalog.md`, Q-222.
+
+### DEC-931 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Phase 10 (Q-223)
+- **Question.** **The geneticist:** may her own teaching practice stand as an in-person teaching thread, and will her canon entry be dated so `DEC-681` can be met?
+- **Recommended (PROVISIONAL).** Her affiliation only, no institution (RF-200); and please give her era
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/04_Phase_10_Catalog.md`, Q-223.
+
+### DEC-932 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Phase 10 (Q-224)
+- **Question.** **The elementals file's label count:** it says six labels are under review while seven entries carry the mark
+- **Recommended (PROVISIONAL).** Correct the count to seven, or name the six
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/04_Phase_10_Catalog.md`, Q-224.
+
+### DEC-933 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Phase 10 (Q-B1-1)
+- **Question.** **A copy kept elsewhere.** Three unconnected rows (6, 15, 16) keep or rebuild a living stock from copies held at another site. Does the city keep any copy of its living stock off the plateau?
+- **Recommended (PROVISIONAL).** not now. The city's lines give one supply and a city that holds what cannot be moved, so single-site keeping stays the city's condition and its shadow (SH-38); the convergence is recorded as evidence for a later relation, written, if allowed, as what flows and in which direction.
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/04_Phase_10_Catalog.md`, Q-B1-1.
+
+### DEC-934 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Phase 10 (Q-B1-2)
+- **Question.** **CAT-58's wording.** Its title, *lit only by the city's own light*, is not what the site's measured sky shows: a noon twilight every day and a moon up all day for about a week (CAT-B1-5, CAT-B1-6). Amend CAT-58?
+- **Recommended (PROVISIONAL).** yes, at Step 5, to *lit by the city's own light, with a faint noon twilight and the moon's week*, spec L96's polar night unchanged.
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/04_Phase_10_Catalog.md`, Q-B1-2.
+
+### DEC-935 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Phase 10 (Q-B1-3)
+- **Question.** **Phase 10C's candidate convergence on written instructions** (rows 12, 54, 75, 76, 79). Row 12's research shows custody passed in person with a written map, not instructions to strangers.
+- **Recommended (PROVISIONAL).** row 12 counts toward the in-person handover (convergence 4), not toward written instructions alone; stage B2 tests the other four rows on their own facts.
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/04_Phase_10_Catalog.md`, Q-B1-3.
+
+### DEC-936 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Phase 10 (Q-B1-4)
+- **Question.** **Rows 22, 23 and 24: three places or one root?** All three stand on one ice sheet.
+- **Recommended (PROVISIONAL).** count three (no shared operator in the facts), noting the shared ice; nothing in the catalog rests on the count.
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/04_Phase_10_Catalog.md`, Q-B1-4.
+
+### DEC-937 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Phase 10 (Q-B2-1)
+- **Question.** Does the city keep its own outdoor cold readings (an observer, an instrument housing, a register), beyond the inherited 1983 entry?
+- **Recommended (PROVISIONAL).** Hold it on Q-207. If you choose a standing screen or C's register, CAT-B2-2 and an observer's role follow as researched forms; if you choose neither, CAT-B2-2 stays a conditional item and no role is written.
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/04_Phase_10_Catalog.md`, Q-B2-1.
+
+### DEC-938 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Phase 10 (Q-B2-2)
+- **Question.** Many rows cap and rotate stays at the hard place (15-day shifts, eight days on and six off, tours of three to six months, stays under about four weeks). Does any role in the city rotate?
+- **Recommended (PROVISIONAL).** No: the city's lines say those who came have stayed (Phase 7 FIND-P7-45), so no rotation is cataloged; the outpost's staffing, a relation, stays open.
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/04_Phase_10_Catalog.md`, Q-B2-2.
+
+### DEC-939 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Phase 10 (Q-B2-3)
+- **Question.** Row 84: the research found no marker at the pole and several computed positions for it. Does that change Q-217?
+- **Recommended (PROVISIONAL).** No change to Q-217's answer. If a marker is ever allowed, it marks a computed point that moves with the method, so the city is written as *near* it, never *at* it.
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/04_Phase_10_Catalog.md`, Q-B2-3.
+
+### DEC-940 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Phase 10 (Q-B2-4)
+- **Question.** Should a powered or lit display be ruled out of the marker's surface part (Q-207)?
+- **Recommended (PROVISIONAL).** Yes: a lit display is one more draw on the one supply, and a dark one becomes the marker's own failure (U2-F225). Keep the found paper indoors as the record, and if a surface part is wanted, make it unpowered.
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/04_Phase_10_Catalog.md`, Q-B2-4.
+
+### DEC-941 · PROVISIONAL · 2026-11-20 · LAW 0-P filing (the RWBEM's ULM copy)
+- **Question.** LAW 0-P was written in place into the RWBEM's original (`Worldspace/Locations-and-Levels/Real-World_Basis_Extrapolation_Method.md` L73). Should the ULM's `Disciplines/` copy of the RWBEM carry it too? That copy is not a ULM input (`DR-14`) and may be pinned by other files.
+- **Recommended (PROVISIONAL).** Yes, at the next methodology-maintenance session, with its pin re-taken; not during a city run.
+- **Where:** `RUN_PROGRESS_Ariun_Nuur.md`, 2026-11-20 (held filings).
+
+### DEC-942 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 5 (Q-225)
+- **Question.** The spine sentence (those who came have stayed), research FIND-25, Phase 4 FIND-P4-32's heading and others say or imply that no one leaves the city, while audit RF-30 forecloses asserting that no one left, and Phases 4 and 5 found within-nation arrival channels (RC-39). **Scope these claims to the national scale?**
+- **Recommended (PROVISIONAL).** Yes: write could not return to Upper Earth; no departure from the city is written. Tag every finding that needs city-scale staying as resting on an absence (RF-202). The spine sentence's wording goes with the qualifier work, unamended
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/05_Reconciliation.md`, Questions for the developer, Q-225 (raised by A1·A Q-1; A1·A R3 (c)).
+
+### DEC-943 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 5 (Q-226)
+- **Question.** **Does one supply carries both bodies' lives rest on a provisional parental fact,** since the city's heat on the electric supply comes only from a power file that says nothing in it is a ruling?
+- **Recommended (PROVISIONAL).** Yes, until the developer rules the city's supply (spine Q-37; Phase 5 REQ-96). Keep a robot's charge on the electric supply as ruled (`DR-140` item 4); hold the city's heat on that supply as the national default, unratified and tagged; the finding stands, tagged, and may not be the strongest; the physical core stands either way
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/05_Reconciliation.md`, Questions for the developer, Q-226 (raised by A1·A Q-2 · A1·C Q-C204).
+
+### DEC-944 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 5 (Q-227)
+- **Question.** Phase 5 L394 calls the research arrivals the first within-nation arrival route written in this pass, after Phase 4 wrote carers sent from the national institutes. **Reword?**
+- **Recommended (PROVISIONAL).** Yes, by amendment note: the first within-nation arrival with a named origin and a written motive; the carers' route stays a request (Phase 4 REQ-90)
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/05_Reconciliation.md`, Questions for the developer, Q-227 (raised by A1·A Q-3).
+
+### DEC-945 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 5 (Q-228)
+- **Question.** **Read the spine sentence's only the work that is its purpose can ever be stopped as the research's use of its instruments, with the shaft's keeping counted with the heat as work that cannot stop?** (RC-36)
+- **Recommended (PROVISIONAL).** Yes, as a qualifier note beside the unamended sentence (FIND-P10-4), conditional on the shaft's form (REQ-145). Phase 6's purpose-yields-first then holds for the research only, and Q-142's shortage reading sets the body's promise against the shaft's upkeep (FIND-S5-2)
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/05_Reconciliation.md`, Questions for the developer, Q-228 (raised by A1·B Q-B101 · A2·A Q-1 · A2·C Q-C201).
+
+### DEC-946 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 5 (Q-229)
+- **Question.** **Does spec L167's self-sufficiency the plateau allows mean self-keeping (the survival work) rather than self-supply?** (RC-19)
+- **Recommended (PROVISIONAL).** Yes, PROVISIONAL, checked at stage B against the city's own material (REQ-163)
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/05_Reconciliation.md`, Questions for the developer, Q-229 (raised by A1·B Q-B102).
+
+### DEC-947 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 5 (Q-230)
+- **Question.** **The generator-vocabulary leaks (T-1 to T-36): correct them in the pass files, or leave the files as written?**
+- **Recommended (PROVISIONAL).** Leave the pass files as written (`DR-101`); use the plain rewrites wherever the findings are carried into later text, by an append-only docket (REQ-173); this pass is still PROPOSED, so the developer chooses
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/05_Reconciliation.md`, Questions for the developer, Q-230 (raised by A1·B Q-B103).
+
+### DEC-948 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 5 (Q-231)
+- **Question.** **Is Airports L18 (tagged there as a developer ruling; Phase 5 L288) hard canon,** so that it outranks Phase 2's city-scale null on why anyone came? (RC-41)
+- **Recommended (PROVISIONAL).** Yes, for exactly what it states: a moderate, unsized share came up from member cities of the subnet for research. Phase 2's null stands for everyone else; the census-kinship reasoning in the same paragraph stays unused (RF-16)
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/05_Reconciliation.md`, Questions for the developer, Q-231 (raised by A1·C Q-C201; A1·B R3 (c)).
+
+### DEC-949 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 5 (Q-232)
+- **Question.** **Is SC-1, in its physical form, the pass's strongest finding?** The A1 readers converge on it; A2's readers nominated SC-4 (B, C) and SC-5 (A)
+- **Recommended (PROVISIONAL).** Yes. SC-4 and SC-3 are next and rest on SC-1 or on PROPOSED readings and absences; SC-5 and SC-8 are barred by rule 4. Check SC-1's legs at stage B (REQ-163)
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/05_Reconciliation.md`, Questions for the developer, Q-232 (raised by A1·C Q-C202; A1·A R3, A1·B R3, A2·A R3 (c)).
+
+### DEC-950 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 5 (Q-233)
+- **Question.** **Within-phase contradictions (RC-48, RC-52, RC-53, RC-54): record them now as reconciled by narrowing, or hold them for Gate 3 at Step 7?**
+- **Recommended (PROVISIONAL).** Record them here as reconciled by narrowing; Gate 3 at Step 7 confirms; any note on a pass file only after the developer's word (REQ-165)
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/05_Reconciliation.md`, Questions for the developer, Q-233 (raised by A1·C Q-C203).
+
+### DEC-951 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 5 (Q-234)
+- **Question.** **Read the spine's D-4 (the subnet has no road to it) as no road to its coastal hub?** (RC-56)
+- **Recommended (PROVISIONAL).** Yes; the spine's own G5 row says so (L65). Remedies from elsewhere holds for freight; people and means come from member cities by Hwy 37 and, PROPOSED, Hwy 22
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/05_Reconciliation.md`, Questions for the developer, Q-234 (raised by A2·A Q-2).
+
+### DEC-952 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 5 (Q-235)
+- **Question.** **Is a parent location the ledger's Parent position?** (RC-61; catalog L1015)
+- **Recommended (PROVISIONAL).** No: the position is a person's. Leave the Parent blank at Phase 10 until REQ-153 reads the ledger's definitions
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/05_Reconciliation.md`, Questions for the developer, Q-235 (raised by A2·A Q-3; A2·C R3 (c)).
+
+### DEC-953 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 5 (Q-236)
+- **Question.** **Genetics (RC-72): hold the catalog's genetics wording narrowed in stage A and carry it to stage B as T2 vision?**
+- **Recommended (PROVISIONAL).** Yes. Hold the narrowed wording (REQ-169) and CAT-6 PROVISIONAL with RF-43; stage B reads the vision sentence as a check; if it corroborates, T2 applies: it is not out-reasoned, and the pass finds its mechanism (the primary pick's structural forms; the living-sample cold need). Answer REQ-36, REQ-123 and Q-157 first; the developer may rule the subject canon at any time
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/05_Reconciliation.md`, Questions for the developer, Q-236 (raised by A2·A Q-4 · A2·B Q-101 · A2·C Q-C204; A2·A R3, A2·B R3 (c)).
+
+### DEC-954 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 5 (Q-237)
+- **Question.** **The out-of-frame rows (RC-73 to RC-80): strike or hold?**
+- **Recommended (PROVISIONAL).** Hold them OUT OF FRAME, not deleted; re-examine after stage B reads L153–161 and the other lines as a check; any use needs an admitted line or a ruling
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/05_Reconciliation.md`, Questions for the developer, Q-237 (raised by A2·A Q-5).
+
+### DEC-955 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 5 (Q-238)
+- **Question.** **Re-put Q-217 and Q-B2-3 without the excluded premise?** (RC-74)
+- **Recommended (PROVISIONAL).** Yes: may a marker form for a computed pole be researched as a source only? No nearness to the city is written
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/05_Reconciliation.md`, Questions for the developer, Q-238 (raised by A2·B Q-109).
+
+### DEC-956 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 5 (Q-239)
+- **Question.** **One amendment piece for all twelve `AM-P9` rows, run as its own three-reader unit, with one pointer line at the end of Phase 9?**
+- **Recommended (PROVISIONAL).** Yes (`DR-74`); drafted now as a PROPOSED docket; the pointer applied only with the dockets (`DR-116` item 2) and read by a second reader (rule 4); `AM-P9-10` held on Q-211
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/05_Reconciliation.md`, Questions for the developer, Q-239 (raised by A2·A Q-6 · A2·B Q-102 · A2·C Q-C205).
+
+### DEC-957 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 5 (Q-240)
+- **Question.** **Adopt RC-58's wording for CAT-58 as a docket line?**
+- **Recommended (PROVISIONAL).** Yes, with spec L96 unchanged (REQ-170)
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/05_Reconciliation.md`, Questions for the developer, Q-240 (raised by A2·B Q-103).
+
+### DEC-958 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 5 (Q-241)
+- **Question.** **Are the spine's method sections (§1 to §7, including the shape report at L251 and the lines at L269 and L293) under the translation discipline?**
+- **Recommended (PROVISIONAL).** Exempt in place as Step 2's instrument report, never carried into a later claim in that vocabulary; T-4 (§8e, L368) and T-5 (L520) lie outside the method sections and are hits
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/05_Reconciliation.md`, Questions for the developer, Q-241 (raised by A2·B Q-104; A1·A R3, A1·B R3 (c); orchestrator's point 8).
+
+### DEC-959 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 5 (Q-242)
+- **Question.** **Did the robot majority grow by arrival, by building, or both?** (RC-16)
+- **Recommended (PROVISIONAL).** Not in-run. Hold RF-213 and answer it with REQ-68 (a working chamber) after the run
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/05_Reconciliation.md`, Questions for the developer, Q-242 (raised by A2·B Q-105).
+
+### DEC-960 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 5 (Q-243)
+- **Question.** **Add the labels carried to stage B and carried to Step 10 to the brief template for split steps?**
+- **Recommended (PROVISIONAL).** Yes, so that no row is forced into discharged or not applicable, and none is dropped
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/05_Reconciliation.md`, Questions for the developer, Q-243 (raised by A2·B Q-106 · A2·C Q-C203; orchestrator's point 1).
+
+### DEC-961 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 5 (Q-244)
+- **Question.** **Narrow CAT-B1-3 to single-custody works** (the shaft's watch, the map of what lies below), withdrawing the choosing as a practice and the clause about the city not letting it lapse, and holding the record-outliving-keeper half? (RC-59)
+- **Recommended (PROVISIONAL).** Yes (REQ-172; RF-212), until the phase that reads the archive's succession
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/05_Reconciliation.md`, Questions for the developer, Q-244 (raised by A2·B Q-107 · A2·C Q-C202; A2·A R3 (c)).
+
+### DEC-962 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 5 (Q-245)
+- **Question.** **Do the lens results tagged role (sign 9's research arrival for a term; sign 10's earlier arrival who teaches; sign 10's raisers) count as person-shaped for the Phase 9 amendments?**
+- **Recommended (PROVISIONAL).** Not as a class: the catalog's union names twelve. The first two are already in Phase 9 (L245, L340) and need no amendment; the raisers, absent from Phase 9's table (CAT-41; Phase 4 FIND-P4-21), may be added as one further function row if the developer wants them, with `AM-P9-7` already covering the shaft's keeping
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/05_Reconciliation.md`, Questions for the developer, Q-245 (raised by A2·B Q-108; A2·A R3, A2·B R3, A2·C R3 (c)).
+
+### DEC-963 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 5 (Q-246)
+- **Question.** **Frame RF-26's expertise check (DF-6): does stage A's sweep (no finding characterizes the city's scientific expertise as a quality) stand, or does A1·A's candidate list go to the check against the physiology file's L409?**
+- **Recommended (PROVISIONAL).** Both: the sweep is recorded, and the candidate list goes to whoever runs the check with L409 on the list (REQ-161); no `[SELF-ORIGINATED]` tag is applied until that comparison is made
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/05_Reconciliation.md`, Questions for the developer, Q-246 (raised by A1·A R3 (c)).
+
+### DEC-964 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 5 (Q-247)
+- **Question.** **Are the research's unbracketed cross-references to spine costs (T-6, T-9) and its deficit-address labels standing as claim subjects (T-10 to T-12) translation hits?**
+- **Recommended (PROVISIONAL).** Yes for the labels as subjects (T-10 to T-12); the cross-references are repaired by bracketing only
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/05_Reconciliation.md`, Questions for the developer, Q-247 (raised by A1·A R3 (c)).
+
+### DEC-965 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 5 (Q-248)
+- **Question.** **The skiway against the Airports file (RC-46): canon wins or reconciled?**
+- **Recommended (PROVISIONAL).** Canon wins for the city object (the Airports file decides that no airfield is at the city), with the skiway kept as a site fact; the substance is the same either way
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/05_Reconciliation.md`, Questions for the developer, Q-248 (raised by A1·B R3, A1·C R3 (c)).
+
+### DEC-966 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 5 (Q-249)
+- **Question.** **Is research FIND-33 against `DR-19` a contradiction at all?**
+- **Recommended (PROVISIONAL).** No: FIND-33 claims no motive and is not counted as the city's own evidence; record only that it grounds no motive (REQ-9 stays open)
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/05_Reconciliation.md`, Questions for the developer, Q-249 (raised by A1·C R3 (c)).
+
+### DEC-967 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 5 (Q-250)
+- **Question.** **May a base be applied to §23's shares?** (RC-57; already Q-155)
+- **Recommended (PROVISIONAL).** Not until REQ-120, REQ-121 and Q-155 put §23's lines at source; until then the shares are cited as shares and no headcount is derived; Phase 7's reproduction stays a check (RF-151)
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/05_Reconciliation.md`, Questions for the developer, Q-250 (raised by A2·A R3, A2·B R3, A2·C R3 (c)).
+
+### DEC-968 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 5 (Q-251)
+- **Question.** **The eight standing-refusal lines naming Step 5 as a check (DF-16): not applicable, or carried to stage B?**
+- **Recommended (PROVISIONAL).** Not applicable: they record reading order and hand no check; the checks themselves are carried to stage B
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/05_Reconciliation.md`, Questions for the developer, Q-251 (raised by A2·B R3, A2·C R3 (c)).
+
+### DEC-969 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 5 (Q-252)
+- **Question.** **REQ-129 (DF-28): not applicable in stage A, or carried to stage B and Step 10?**
+- **Recommended (PROVISIONAL).** Not applicable in stage A; the orchestrator confirms the basis before stage B uses the tier, and the basis itself rides to Step 10 with REQ-63
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/05_Reconciliation.md`, Questions for the developer, Q-252 (raised by A2·B R3 (c)).
+
+### DEC-970 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 5 (Q-253)
+- **Question.** **Q-213 (DF-34): not applicable as a deferral, or discharged?**
+- **Recommended (PROVISIONAL).** Not applicable: a scope statement whose three items are discharged at DF-30 to DF-32; a label only
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/05_Reconciliation.md`, Questions for the developer, Q-253 (raised by A2·B R3 (c)).
+
+### DEC-971 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 5 (Q-254)
+- **Question.** **Is unspeakable, the deficit-address check's word, a translation hit where it stands in a claim about the city (T-11, T-34, T-35, T-36)?**
+- **Recommended (PROVISIONAL).** Yes where it stands as a quality of the city in a claim: rewrite as a cost no one has a reason to name; keep the word inside bracketed method notes
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/05_Reconciliation.md`, Questions for the developer, Q-254 (raised by A2·B R3 (c); orchestrator's point 8).
+
+### DEC-972 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 5 (Q-255)
+- **Question.** **The robots' hours (RL-42, RL-43).** The 2026-07-06 vision writes the city's robots as keeping no fixed hours: work to the task's end, then socialize, rest and return. The pass writes the national shared night into the city (Phase 4 FIND-P4-6; Phase 9 FIND-P9-15, FIND-P9-39). **Does the vision govern for the city's robots, the national shared night read as a pattern they do not keep?**
+- **Recommended (PROVISIONAL).** **Yes, once `DR-10` is read and shows a reading-order strike** (REQ-187). The vision is upstream and is not out-reasoned, and the pass already holds its mechanism (FIND-P7-20, FIND-P4-5, FIND-P4-8, FIND-P4-10, FIND-P4-28, FIND-P9-19). The national shared night stays the national pattern; here the clock-hour night is the humans' sleep, which the life support's keepers work through, and the robots charge warm, by task, at any hour. Amend by REQ-189; SC-1 is unaffected
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/05_Reconciliation.md`, Questions for the developer, Q-255 (raised by A-Q-1 · Q-B102 · Q-C201).
+
+### DEC-973 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 5 (Q-256)
+- **Question.** **Genetics (RL-30; RC-72; updates Q-236).** With the vision in the city's own file and the primary pick read as a gene-editing technology (spine S3-17), **may the pass write the research program's subject as genetics,** its mechanism the pick, the living-cell cold store and the shaft?
+- **Recommended (PROVISIONAL).** **Yes, once `DR-10` shows its strike was a reading-order matter and spine Q-38 is answered as the gene-editing reading** (REQ-187); keep the tag (read out of order), drop the hedge (runbook L2854–2856). The geneticist stays out until her canon entry is read (REQ-188). Until then RF-209 stands
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/05_Reconciliation.md`, Questions for the developer, Q-256 (raised by A-Q-2 · Q-B101 · Q-C202).
+
+### DEC-974 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 5 (Q-257)
+- **Question.** **The research population's extent (RL-43).** Does the vision place most of the robot population in the research?
+- **Recommended (PROVISIONAL).** **Not in-run.** Keep the research population one unsized layer; decide after REQ-181, since the 65% figure may be the culture file's own
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/05_Reconciliation.md`, Questions for the developer, Q-257 (raised by C (Q-C204); A R3 (c)).
+
+### DEC-975 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 5 (Q-258)
+- **Question.** **Does the city grow a modest share of human food on the supply** (C L105; RL-32)?
+- **Recommended (PROVISIONAL).** **Hold; the developer decides.** If yes: FIND-S5-3 reads supplied in most of its inputs, a modest part grown on the supply; FIND-P8-10 narrows to nothing grown here removes the import; SC-1's physical core is unaffected (FIND-P8-8). RF-204 stands until answered
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/05_Reconciliation.md`, Questions for the developer, Q-258 (raised by A-Q-3 · Q-B105 · Q-C203).
+
+### DEC-976 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 5 (Q-259)
+- **Question.** **Is siligel formulated here, or only received** (C L107; R L168–170; RL-34)?
+- **Recommended (PROVISIONAL).** **PV-6 stands (by shipment)** until the developer rules; if formulated here from shipped stock, write it as design, not supply
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/05_Reconciliation.md`, Questions for the developer, Q-259 (raised by A-Q-4 · Q-B105).
+
+### DEC-977 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 5 (Q-260)
+- **Question.** **Do the inherited station records' terms survive as a register of the city's science** (C L88–91; RL-27)?
+- **Recommended (PROVISIONAL).** **Not in-run;** spine RF-46 stays. Never inferred from the station's operators and never tied to the founders (`DR-19`, `DR-28` D2, `DR-35`). If the developer wants it, it enters as a fact about inherited records (`DR-25`; `DR-143` item 2); speech practice goes to the CST
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/05_Reconciliation.md`, Questions for the developer, Q-260 (raised by A-Q-5 · Q-B104 · Q-C206).
+
+### DEC-978 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 5 (Q-261)
+- **Question.** **The relay, the game-design line and the geneticist (RL-46, RL-54).** At what tier does the dated game-design statement at C L205 sit, and how does `DEC-681` apply when a read-last line names the held-back figure?
+- **Recommended (PROVISIONAL).** **Neither is out of frame;** both are the developer's. Until answered: the pass stays silent on the relay; the figure's role agrees with CAT-76 and nothing more is used. If the developer confirms the relay line and the network line (Q-263), Phase 5 Q-121 answers: no link of its own, and knowledge leaves by the road or through the partner's relay, as a relation, PROVISIONAL
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/05_Reconciliation.md`, Questions for the developer, Q-261 (raised by A-Q-6; A R3, B R3, C R3 (c)).
+
+### DEC-979 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 5 (Q-262)
+- **Question.** **If §23's Canon §15 is the city's own culture file (REQ-181), are §23's shares still citable in the pass?**
+- **Recommended (PROVISIONAL).** **Yes, as corroboration only,** tagged `[SELF-ORIGINATED]`; no finding's independence rests on them; SC-1 is unaffected (its model label is basis only)
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/05_Reconciliation.md`, Questions for the developer, Q-262 (raised by A-Q-7).
+
+### DEC-980 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 5 (Q-263)
+- **Question.** **Is no functional network reach at extreme altitude, whatever the cable** (C L213; R L200–202), **a ruling?**
+- **Recommended (PROVISIONAL).** Until a ruling is found, unratified (`05` §6.3 rule 6). If it is one, RC-35 closes as canon wins, and RC-55's and FIND-P5-48's condition is met
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/05_Reconciliation.md`, Questions for the developer, Q-263 (raised by Q-B103).
+
+### DEC-981 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 5 (Q-264)
+- **Question.** **Hospitality, the working-window etiquette and privacy, and courtship by aligning windows** (RL-21, RL-24, RL-25, RL-64): **which process takes them?**
+- **Recommended (PROVISIONAL).** **The CST,** as everyday life (`DR-140` item 2's order), after Q-255 settles the robots' clock, on which three of them rest; never in-run
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/05_Reconciliation.md`, Questions for the developer, Q-264 (raised by Q-B107 · Q-C205; B R3 (c) on the etiquette).
+
+### DEC-982 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 5 (Q-265)
+- **Question.** **The culture file's status, survived (C L8), and its 500-plus-years clauses (C L255, L264): from what vantage do they speak, and do they bear on the pass?**
+- **Recommended (PROVISIONAL).** A post-war vantage; no bearing on the height (`DEC-698`); status is the spec's attribute; the clauses stay OUT OF FRAME, and the developer places them
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/05_Reconciliation.md`, Questions for the developer, Q-265 (raised by Q-B109 · Q-C207).
+
+### DEC-983 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 5 (Q-266)
+- **Question.** **Does the robot file's no chamber-making now (R L80, L141) answer REQ-68?**
+- **Recommended (PROVISIONAL).** **No.** It rests on the outpost's excluded end and is T3; keep PV-5 provisional; REQ-68 and Q-242 decide
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/05_Reconciliation.md`, Questions for the developer, Q-266 (raised by Q-B106; A R3 (c)).
+
+### DEC-984 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 5 (Q-267)
+- **Question.** **The cold record and the lake research as foundational narrative (C L125–127; RL-38): a waiting topic for the CST, or a sheet conflict under `DR-28` D2–D3?**
+- **Recommended (PROVISIONAL).** **Hand it to the CST,** with the bound noted: the marker may honor the measurement as an inherited record (`DR-143` item 2), and `DR-28` D2–D3 bind as the orchestrator reads them. The developer says whether arts and narrative wait for the CST (they are not on `DR-140` item 2's list as the brief gives it)
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/05_Reconciliation.md`, Questions for the developer, Q-267 (raised by A R3 (c); B R3 (a) to C's first reading).
+
+### DEC-985 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 5 (Q-268)
+- **Question.** **May a docket row be written against a sheet's feeling claim the pass itself bars** (P L17, rather than visible strain; RL-78; RF-143)?
+- **Recommended (PROVISIONAL).** **Not now.** The pass characterizes no feeling; when the sheet is revised after the CST, set FIND-P9-19's cost beside the ethos as a note
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/05_Reconciliation.md`, Questions for the developer, Q-268 (raised by C R3 (c)).
+
+### DEC-986 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 5 (Q-269)
+- **Question.** **Does a relay at a member city on Hwy 37 count as a channel the subnet supplies** (SC-7's leg)?
+- **Recommended (PROVISIONAL).** **Not until Q-261 ratifies the relay;** then the leg is touched (information through one member city), not contradicted, and SC-7 stays below SC-1
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/05_Reconciliation.md`, Questions for the developer, Q-269 (raised by C R3 (c)).
+
+### DEC-987 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 5 (Q-270)
+- **Question.** **The three files' founding-legend sections (DK-4, DK-6, DK-7): revisit now or after the run?**
+- **Recommended (PROVISIONAL).** **After the run,** as the files' own end notes (C L278; R L279) already mark; nothing in the pass waits on them
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/05_Reconciliation.md`, Questions for the developer, Q-270 (raised by Q-C208).
+
+### DEC-988 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 5 (Q-271)
+- **Question.** **The personality file's three type labels (RL-75): a pass item, or revisit after the run?**
+- **Recommended (PROVISIONAL).** **Not a pass item:** a type is a conclusion (`05` §6.1) and the pass assigns none (FIND-P9-12); revisit after the ULM, in light of the pass
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/05_Reconciliation.md`, Questions for the developer, Q-271 (raised by Q-B108 · Q-C210).
+
+### DEC-989 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 5 (Q-272)
+- **Question.** **Accept the named leg's result: leg (i) contradicted in part by tier-3 lines only, so SC-1 stands as the strongest finding?**
+- **Recommended (PROVISIONAL).** **Yes** (Q-232 as recommended)
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/05_Reconciliation.md`, Questions for the developer, Q-272 (raised by Q-B110).
+
+### DEC-990 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 5 (Q-273)
+- **Question.** **The Phase 9 pointer (DK-22): append now, or with the dockets?**
+- **Recommended (PROVISIONAL).** **With the dockets** (`DR-116` item 2), in DK-22's wording, read again by a second reader (rule 4), naming the amendment piece once it exists and any stage-B row the developer adopts against FIND-P9-15, FIND-P9-31 or FIND-P9-39
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/05_Reconciliation.md`, Questions for the developer, Q-273 (raised by A-Q-8 · Q-C209).
+
+### DEC-991 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 5 (Q-274)
+- **Question.** **RC-72, RC-79 and DF-26: discharged as a check, or still open?**
+- **Recommended (PROVISIONAL).** **A label only:** RC-72 and RC-79 still open pending `DR-10`, DF-26 in part (its language basis rides to Step 10); the substance is the same in all three outputs
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/05_Reconciliation.md`, Questions for the developer, Q-274 (raised by A R3 (c); C R3 (c)).
+
+### DEC-992 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 6 (Q-275)
+- **Question.** **Section 1, Shape:** write the standing cost's rise (with the institutions admitted) in the cell, and keep the method's own word *Balanced* in the table?
+- **Recommended (PROVISIONAL).** **Keep *Balanced*** (the column asks for the shape name; the table is a method instrument, entry 15 Q-241). **Leave the rise out until Q-46 answers** whether direction is part of the shape; if it is, add it in plain words
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/06_Differentiation.md`, Questions for the developer, Q-275 (raised by B R3 (c) · C R3 (c) · A item 6 · Q-105 (B) · Q-C202).
+
+### DEC-993 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 6 (Q-276)
+- **Question.** **Section 2:** write the arrival modes Phase 2 tested and found null at city scale (*chose it*, *fled to it*, born here) into the mode-mix cell?
+- **Recommended (PROVISIONAL).** **No.** The cell holds the modes the axis names; the nulls stay as Phase 2 wrote them (FIND-P2-18, FIND-P2-20, FIND-P2-22), where the terminal check can read them
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/06_Differentiation.md`, Questions for the developer, Q-276 (raised by B R3 (c) · A item 1 (A withdrew in R3)).
+
+### DEC-994 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 6 (Q-277)
+- **Question.** **Section 4:** carry the Q-255 caveat inside the cell, and write the finding's gloss beside its head?
+- **Recommended (PROVISIONAL).** **Neither, in the cell:** the caveat rides in the source line (orchestrator point 3); the cell changes by the amendment that answers Q-255 (REQ-200). The head claims least; the gloss restates it
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/06_Differentiation.md`, Questions for the developer, Q-277 (raised by C R3 (c) · Q-104 (B) · Q-C203; the gloss split).
+
+### DEC-995 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 6 (Q-278)
+- **Question.** **Section 5, the unnamed load-bearing thing:** its wording; and is it the debt (Phase 6) whether Phase 6 classes it as a debt or a social contract with a debt inside it (Q-137), rather than the spine's heat no one names?
+- **Recommended (PROVISIONAL).** **As written:** the debt by its direction and currency stands under either classification, and the section is Phase 6's; the heat stays section 1's ground. Revise only if the developer rules a contract with no debt
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/06_Differentiation.md`, Questions for the developer, Q-278 (raised by A R3 (c) · A item 7 · Q-C205).
+
+### DEC-996 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 6 (Q-279)
+- **Question.** **Section 5, Death & the dead:** name who handles a robot death (Phase 9 L430, Q-139, sent past the CST) or burial impossible on the ice in the cell?
+- **Recommended (PROVISIONAL).** **No:** the first is a routing note and the second is national; both ride in the source line. Death's forms are not on `DR-140` item 2's list as the brief gives it; the developer may place them
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/06_Differentiation.md`, Questions for the developer, Q-279 (raised by C R3 (c) · Q-C207).
+
+### DEC-997 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 6 (Q-280)
+- **Question.** **Section 6, Governance:** add a fourth slot, first call on the supply, the road or arrivals written for no one (Phase 7 L1130, Q-160)? And is *where order cannot reach* an admissible governance cell while government waits for the DCI?
+- **Recommended (PROVISIONAL).** **No fourth slot:** the axis counts three (L885–893), and whether the fourth is unadministrable or only unwritten is the developer's; **yes, admissible**, with who decides sent on to the DCI
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/06_Differentiation.md`, Questions for the developer, Q-280 (raised by A R3 (c) · B R3 (c) · Q-101 (B)).
+
+### DEC-998 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 6 (Q-281)
+- **Question.** **Section 6, Counterculture:** write the candidates' shapes, or an axis such as *forbids nothing in writing and charges for everything*, beside *none sited*? Is an empty slot acceptable in a table row?
+- **Recommended (PROVISIONAL).** **No candidates; yes, the empty slot:** RF-165 bars any counterculture form before Step 7, the phrase is a tolerances finding (FIND-P7-22), and *none sited* is a result under the no-forced-fit law
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/06_Differentiation.md`, Questions for the developer, Q-281 (raised by A R3 (c) · B R3 (c) · Q-106 (B)).
+
+### DEC-999 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 6 (Q-282)
+- **Question.** **Section 7, speech marker:** add *never a sound* (Phase 8 L233: speech markers, none sited)?
+- **Recommended (PROVISIONAL).** **No:** the cell already names the marker as knowledge; whether any sounded marker exists waits with the slang for the CST
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/06_Differentiation.md`, Questions for the developer, Q-282 (raised by A R3 (c) · B R3 (c)).
+
+### DEC-1000 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 6 (Q-283)
+- **Question.** **Section 8:** list the spine's three parent-addressed lacks or Step 5's input list (FIND-S5-3)? And insert under a header that asks what the city *refuses*?
+- **Recommended (PROVISIONAL).** **Step 5's input list,** which is reconciled; **insert with *no refusal written*,** so the header's word is not read as the city's choice
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/06_Differentiation.md`, Questions for the developer, Q-283 (raised by A R3 (c) · A item 3 · Q-102 (B) · Q-C208).
+
+### DEC-1001 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 6 (Q-284)
+- **Question.** **Section 9, Lens:** the phase's differentiation axis (FIND-P9-46) or its lens findings (FIND-P9-1 to FIND-P9-4, which Phase 9 L428 names as a separate object)?
+- **Recommended (PROVISIONAL).** **The differentiation axis,** as written; the developer may read the column as the lens findings, and the cell would then be replaced
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/06_Differentiation.md`, Questions for the developer, Q-284 (raised by A R3 (c) · B R3 (c) · C R3 (c) · Q-C206).
+
+### DEC-1002 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 6 (Q-285)
+- **Question.** **Section 9, more than kind:** add a second category, being needed by the archive (FIND-P9-36)?
+- **Recommended (PROVISIONAL).** **No, for now:** the archive's cross-kind line is already in the cell; add it only if the developer reads the column as every such category
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/06_Differentiation.md`, Questions for the developer, Q-285 (raised by B R3 (c) · C R3 (c)).
+
+### DEC-1003 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 6 (Q-286)
+- **Question.** **Section 10:** write Step 5's narrowing (*from decay, not from loss*) into the catalog axis?
+- **Recommended (PROVISIONAL).** **No:** the wording is the developer's (Q-208); the narrowing rides in the source line and enters the cell only with the developer's wording
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/06_Differentiation.md`, Questions for the developer, Q-286 (raised by A R3 (c) · C R3 (c) · Q-C204).
+
+### DEC-1004 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 6 (Q-287)
+- **Question.** **Section 3:** August alone as the seasonal worst point, without the human body's thinnest air (June to August) or a human's first polar night?
+- **Recommended (PROVISIONAL).** **Yes, August alone:** one coldest mean is what the source counts; the others are a body's worst points, not the season's
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/06_Differentiation.md`, Questions for the developer, Q-287 (raised by A item 2 · Q-103 (B) · Q-C201; B R3 (a) toward the altitude clause).
+
+### DEC-1005 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 7 (QA gates) (Q-288, Gate 0)
+- **Question.** The contract's and frame's question tables (contract L249 Q-3, L251 Q-5; frame L208 "all unanswered") state positions from before `DR-143`.
+- **Recommended (PROVISIONAL).** add a dated note at the end of each file, moving no cited line, pointing to the audit's §5 (L154–173); not an erratum, since the lines were true when written.
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/07_QA_Gates.md`, Questions for the developer, Q-288 (raised by B 126).
+
+### DEC-1006 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 7 (QA gates) (Q-289, Gate 1)
+- **Question.** Was every row of the candidate list researched (LAW 0-P), not only the official picks at Step 3?
+- **Recommended (PROVISIONAL).** record that Phase 10's stage B researched rows 1–85 of the whole pick list, row 86 waiting by your ruling (Gate 7), so LAW 0-P is met at Phase 10 for this pass, while Step 3's own list held the official picks only on the day the law was ruled; confirm it on the LAW 0-P coverage tracker.
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/07_QA_Gates.md`, Questions for the developer, Q-289 (raised by C 219).
+
+### DEC-1007 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 7 (QA gates) (Q-290, Gate 2)
+- **Question.** Step 3 has no research target on the robot majority's own needs.
+- **Recommended (PROVISIONAL).** at the next research round, add machinery-and-materials targets that bear on the robot body without setting a robot threshold (`DEC-697`; research Q-66), and record that the skew is partly structural.
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/07_QA_Gates.md`, Questions for the developer, Q-290 (raised by B 142).
+
+### DEC-1008 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 7 (QA gates) (Q-291, Gate 4)
+- **Question.** Which Q1 finding is weakest under the swap: *Snow without weather* (A), the Phase 2 axis (B) or the spine clause "only the work that is its purpose can ever be stopped" (C)?
+- **Recommended (PROVISIONAL).** record all three as the weak set; keep the spine clause as a consequence, not the identity sentence's carrying clause, pending Q-55 and Q-96.
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/07_QA_Gates.md`, Questions for the developer, Q-291.
+
+### DEC-1009 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 7 (QA gates) (Q-292, Gate 6)
+- **Question.** Are *the stores* the archive's physical holdings, food stores, or both?
+- **Recommended (PROVISIONAL).** split them in the pass: sample and core stores (possibly the archive's physical part, its form unwritten, REQ-79) and food stores (research FIND-37, RF-74); which is which stays open until Phase 10 and your word.
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/07_QA_Gates.md`, Questions for the developer, Q-292 (raised by C 227).
+
+### DEC-1010 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 7 (QA gates) (Q-293, Gate 9)
+- **Question.** The losing side of "a condition, not a filter" (P3 FIND-P3-45): a shadow candidate?
+- **Recommended (PROVISIONAL).** no new candidate for *being kept*: Phase 7 FIND-P7-36 (L722–736) writes it (she is kept in body and never becomes the teacher); Phase 3 carries one line pointing there. The losing side of *belonging* goes with Q-310.
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/07_QA_Gates.md`, Questions for the developer, Q-293 (raised by A 40; B 144; C 226).
+
+### DEC-1011 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 7 (QA gates) (Q-294, Gate 9)
+- **Question.** May frame RF-24 (staffed against settled) close, now that P3 FIND-P3-54 writes it as two registers inside one Settlement?
+- **Recommended (PROVISIONAL).** yes: "written as registers; the type stays Settlement; no dual typing", with P3 L254 as the record; reopen only if a later phase finds an institution that controls who is present.
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/07_QA_Gates.md`, Questions for the developer, Q-294 (raised by A 39).
+
+### DEC-1012 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 7 (QA gates) (Q-295, Gate 9)
+- **Question.** Restate the shared "no term" once, at a single source: "no term to Upper Earth; departures within the nation unwritten (RF-30)"?
+- **Recommended (PROVISIONAL).** yes; correct the source findings (ERR-8 to ERR-16, ERR-48) and let later phases cite the corrected form.
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/07_QA_Gates.md`, Questions for the developer, Q-295 (raised by A 41).
+
+### DEC-1013 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 7 (QA gates) (Q-296, Gate C)
+- **Question.** Is "the city's own genetics research folder", tagged for Phase 7 (P3 L27), the folder `06` quarantines for the whole run (frame L23–24; runbook L2074)?
+- **Recommended (PROVISIONAL).** the orchestrator confirms by name; if it is, the tag is withdrawn and Phase 7 is checked for any use of the folder (Q2 found the geneticist not an input, `DR-143` item 7, but did not check the folder).
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/07_QA_Gates.md`, Questions for the developer, Q-296 (raised by A 34).
+
+### DEC-1014 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 7 (QA gates) (Q-297, Gates C and F)
+- **Question.** Where does the real station's practice fall on research Q-63's line?
+- **Recommended (PROVISIONAL).** answer Q-63 as recommended; keep CONV-1's member as access and infrastructure and the borehole's history as inherited record (CR-29); strike FIND-12's greens sentence and FIND-25's winterers clause, which are crew life. No finding's conclusion changes.
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/07_QA_Gates.md`, Questions for the developer, Q-297 (raised by B 140; A's watch item).
+
+### DEC-1015 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 7 (QA gates) (Q-298, Gate C)
+- **Question.** When Q-56 (the lake's length) and Q-61 (the falls/lands split) are answered, apply each at once to every line that carries it?
+- **Recommended (PROVISIONAL).** yes: spine L62, L107, L110, L133 and contract CR-2, CR-32, CR-33; reword "what falls stays" on the measured figures, which make the argument stronger.
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/07_QA_Gates.md`, Questions for the developer, Q-298 (raised by C 228).
+
+### DEC-1016 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 7 (QA gates) (Q-299, Gate G)
+- **Question.** Settle the picks' provenance before Step 8?
+- **Recommended (PROVISIONAL).** answer research REQ-53 / Q-65 (spine REQ-36): when and on what basis the three picks were set, and whether they came from the struck genetics line; until then keep G7 counted as independent with the doubt stated, and every genetics direction G7-only and PROVISIONAL (RF-43).
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/07_QA_Gates.md`, Questions for the developer, Q-299 (raised by C 229).
+
+### DEC-1017 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 7 (QA gates) (Q-300, The station-builder scan, all sub-units)
+- **Question.** How far does runbook L2944's denial rule reach: a treaty article paraphrased inside a finding (P2 L195); a guard on inference or an operator named only to be set aside (spine L109, L187; P3 L274; P5 L279; P8 L229; P6 L380); a real station's practice carried as the city's (the world clock, P7 L485, P4 L184)?
+- **Recommended (PROVISIONAL).** the rule binds inside findings, catalog items, cells and recommended answers: strike the operator clause or write the positive rule ("a coordinate only (`DR-19`)"; "is in no listed line (RF-46)"). Input dispositions, foreclosure columns and canon-opened bookkeeping may keep their prohibitions, and even there need not name the operator. The world clock is site history, and its Gate 3 erratum (ERR-49) stands either way.
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/07_QA_Gates.md`, Questions for the developer, Q-300 (raised by Q1 A 38, B 145, C 225; Q2 A Q-A1, B Q-B101, C 202).
+
+### DEC-1018 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 7 (QA gates) (Q-301, The station-builder scan)
+- **Question.** FIND-P2-46: rewrite it flat (A, B) or withdraw it to the post-ULM census review (C)?
+- **Recommended (PROVISIONAL).** rewrite it flat (ERR-22): the missing row is the city's own table's fact, and withdrawing it would leave the census review without it; the station appears nowhere in it.
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/07_QA_Gates.md`, Questions for the developer, Q-301.
+
+### DEC-1019 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 7 (QA gates) (Q-302, Gate 0)
+- **Question.** P4 L23 counts 5 + 2 + 1 = 8 against DS4's "7 of 7".
+- **Recommended (PROVISIONAL).** count addresses: the robot-biology folder is one address read through two files (RP and the cold file); correct L23 with a dated note, moving no cited line.
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/07_QA_Gates.md`, Questions for the developer, Q-302 (raised by C 201).
+
+### DEC-1020 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 7 (QA gates) (Q-303, Gates 1 and 5)
+- **Question.** Refuse, waste and the city's discards are unwritten in Phases 4–10, and no line says why.
+- **Recommended (PROVISIONAL).** write nothing in-run; record at Step 10 that they are not written and, if a standing content boundary governs them, cite it as the reason; the physics of what sinks under the snow joins REQ-212.
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/07_QA_Gates.md`, Questions for the developer, Q-303 (raised by Q2 A Q-A3; Q3 C's question 203).
+
+### DEC-1021 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 7 (QA gates) (Q-304, Gate 2)
+- **Question.** P5 L377, "Every body arrives by Hwy 37": about arrivals only (B), or an overclaim (C)?
+- **Recommended (PROVISIONAL).** apply ERR-42; one clause removes the doubt.
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/07_QA_Gates.md`, Questions for the developer, Q-304.
+
+### DEC-1022 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 7 (QA gates) (Q-305, Gate 3)
+- **Question.** P6 L338–339, "every death here is a resident's":
+- **Recommended (PROVISIONAL).** apply ERR-47 (minor).
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/07_QA_Gates.md`, Questions for the developer, Q-305.
+
+### DEC-1023 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 7 (QA gates) (Q-306, Gate 6)
+- **Question.** Which tier holds heat and warm charge: the baseline (P4 L170; P7 L301–302), the survival sector (P7 L370–373), or both by scale?
+- **Recommended (PROVISIONAL).** both by scale (every city's floor in the baseline, the extra this cold demands in the survival sector); say so in one clause in FIND-P7-8; derive no split figure in-run.
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/07_QA_Gates.md`, Questions for the developer, Q-306 (raised by A Q-A4).
+
+### DEC-1024 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 7 (QA gates) (Q-307, Gates 6 and I)
+- **Question.** Name the one mechanism written as membership, the forward debt, the standard of worth, learning and belonging, and the mark of being from here (P5 FIND-P5-35; P6 FIND-P6-4, FIND-P6-7; P7 FIND-P7-29; P8 FIND-P8-32) once, and class it inflected?
+- **Recommended (PROVISIONAL).** yes: one structure seen from five phases, named once at Phase 10 or Step 10, RF-137 the parent with RF-131, RF-160, RF-161 and RF-174 as its aspects; classed inflected from the national mentor and mentee bond (RP L418), with the forward debt and Phase 9 FIND-P9-35 (Q-336).
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/07_QA_Gates.md`, Questions for the developer, Q-307 (raised by A Q-A5; B Q-B104; C 213).
+
+### DEC-1025 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 7 (QA gates) (Q-308, Gate 6)
+- **Question.** The shaft's watch: the keepers' function or the research's?
+- **Recommended (PROVISIONAL).** follow Phase 4's Q-112: set row (i)'s *who is present* to "the night's keepers, a function (row (l))"; the structure stays the research's, its watch the keepers'.
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/07_QA_Gates.md`, Questions for the developer, Q-308 (raised by C 205).
+
+### DEC-1026 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 7 (QA gates) (Q-309, Gate 9, shadow candidate)
+- **Question.** Membership can lapse when someone stops being needed (P5 L413–414).
+- **Recommended (PROVISIONAL).** write that whether being needed, once reached, can lapse is not written; carry it to Phase 9 and the DCI; write no status rule; hold it as a shadow candidate until answered.
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/07_QA_Gates.md`, Questions for the developer, Q-309 (raised by A Q-A6).
+
+### DEC-1027 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 7 (QA gates) (Q-310, Gate 9)
+- **Question.** Narrow "a condition, never a filter" (P4 L200; P7 L642–646) to being kept?
+- **Recommended (PROVISIONAL).** yes, by one clause in FIND-P4-13 and FIND-P7-27: "never a filter for being kept; the same knowledge marks belonging (Phase 5 FIND-P5-35)"; the permanent newcomer (P7 L726) is that filter's written losing side.
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/07_QA_Gates.md`, Questions for the developer, Q-310 (raised by A Q-A7).
+
+### DEC-1028 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 7 (QA gates) (Q-311, Gate 9, shadow candidate)
+- **Question.** If the purpose yields first, does the shaft yield?
+- **Recommended (PROVISIONAL).** no: the shaft is excepted (ERR-50); the yielding is a pause with a route back for the instruments only, and SH-22 is checked with that exception.
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/07_QA_Gates.md`, Questions for the developer, Q-311 (raised by B Q-B103).
+
+### DEC-1029 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 7 (QA gates) (Q-312, Gate 9, shadow candidate)
+- **Question.** What is the point of entry to membership for a robot built here or a human born here?
+- **Recommended (PROVISIONAL).** for a robot built here, Phase 9 writes it conditionally (FIND-P9-13, if a chamber stands, PV-5: she comes online as the newest arrival); for a human born here it stays a null; hold it with Q-327 and write no rite or status.
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/07_QA_Gates.md`, Questions for the developer, Q-312 (raised by B Q-B102).
+
+### DEC-1030 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 7 (QA gates) (Q-313, Gate 9)
+- **Question.** Once arrivals stop, whoever came last has no one newer, ever (P7 L655).
+- **Recommended (PROVISIONAL).** already reserved: Phase 9's SH-35 (L475) writes that if arrivals slow, the last to come stays newest; cite it from Phase 7; no new candidate.
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/07_QA_Gates.md`, Questions for the developer, Q-313 (raised by C 210).
+
+### DEC-1031 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 7 (QA gates) (Q-314, Gate 9)
+- **Question.** P7 L894 and P8 L289 dispose of an objection as "refused, `unmet`" before the Review Panel runs.
+- **Recommended (PROVISIONAL).** reword to "refused under the peer-free test; its disposition is the Review Panel's (Step 8)"; Step 8 disposes freely.
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/07_QA_Gates.md`, Questions for the developer, Q-314 (raised by C 203).
+
+### DEC-1032 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 7 (QA gates) (Q-315, Gate F)
+- **Question.** Does the outpost's power from the national tower's regulated grid (P5 L290) belong to the city's height, the grid being fully online at about 2688 and the height dated before it?
+- **Recommended (PROVISIONAL).** hold FIND-P5-14 and its uses (P7 L398–399, L443, L465) as written, with a note that the grid's reach at the height is undated, until you place the height; draw no date (RF-18).
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/07_QA_Gates.md`, Questions for the developer, Q-315 (raised by A Q-A2).
+
+### DEC-1033 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 7 (QA gates) (Q-316, Gate 0)
+- **Question.** Rows 31 and 84: taken or not?
+- **Recommended (PROVISIONAL).** taken, as extends notes on nulls (their cells and the extends section already say so): 38 taken, 18 not; both rows classed alike (ERR-75). For Gate 7 both are ornament either way.
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/07_QA_Gates.md`, Questions for the developer, Q-316 (raised by A, B; C would move them).
+
+### DEC-1034 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 7 (QA gates) (Q-317, Gate 0)
+- **Question.** Phase 10 L1025 marks the Parent position covered on a reading Step 5 holds open.
+- **Recommended (PROVISIONAL).** follow Q-235's recommendation: leave the Parent unmarked until answered; the count reads 2.
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/07_QA_Gates.md`, Questions for the developer, Q-317 (raised by B 104).
+
+### DEC-1035 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 7 (QA gates) (Q-318, Gate 2)
+- **Question.** The catalog's people lean to the research layer (10 of 21 roles).
+- **Recommended (PROVISIONAL).** accept it for this pass as the pick list's effect; note it at Step 10; let the CST, which writes what people do in a day, carry the general population's roles; write no role for them in-run.
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/07_QA_Gates.md`, Questions for the developer, Q-318 (raised by C's question 201).
+
+### DEC-1036 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 7 (QA gates) (Q-319, Gate 2)
+- **Question.** Narrow CAT-1's "so the honor is paid daily, not once" (Phase 10 L689–690)?
+- **Recommended (PROVISIONAL).** yes, to "the district is where the city's own scientists work"; the honor stays a name only.
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/07_QA_Gates.md`, Questions for the developer, Q-319 (raised by A Q9).
+
+### DEC-1037 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 7 (QA gates) (Q-320, Gate 3)
+- **Question.** "No sky edge" against the measured noon twilight, and Phase 4 FIND-P4-40 (L266)?
+- **Recommended (PROVISIONAL).** one docket line beside REQ-170: "for about 243 days no sunrise or sunset bounds the day; in the polar night a faint noon twilight marks midday, not when to stop", touching P4 FIND-P4-5, FIND-P4-64 item 1 and Phase 9 FIND-P9-15, FIND-P9-19 by note only; FIND-P4-40 joins RC-58's reading as it stands (A's alternative: amend L266 to "the only light enough to work by is the city's own; the sky holds a faint noon twilight and the moon's week").
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/07_QA_Gates.md`, Questions for the developer, Q-320 (raised by B Q-B103; A E3).
+
+### DEC-1038 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 7 (QA gates) (Q-321, Gates 3, 4 and 11)
+- **Question.** FIND-P10-9, the threshold as "the city's most dangerous ordinary place":
+- **Recommended (PROVISIONAL).** narrow it to "the threshold is where a kept thing, and the hands carrying it, are most at risk", since its one research leg is about cryogen transfers.
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/07_QA_Gates.md`, Questions for the developer, Q-321 (raised by B).
+
+### DEC-1039 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 7 (QA gates) (Q-322, Gate 3)
+- **Question.** CAT-26's source rests on one reader's off-list read of Phase 7 L578.
+- **Recommended (PROVISIONAL).** the orchestrator confirms Phase 7 L578 at source (one line), then ERR-81 is applied; Phase 4 L397 does not carry the claim on any reading.
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/07_QA_Gates.md`, Questions for the developer, Q-322 (raised by A; C (c)).
+
+### DEC-1040 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 7 (QA gates) (Q-323, Gate 4)
+- **Question.** The Phase 10 axis's peer-free "Yes": FAIL (A), FLAG (B, C) or PASS; and which finding is weakest (the catalog axis, FIND-P10-9 or FIND-P10-6)?
+- **Recommended (PROVISIONAL).** amend both "Yes" answers to "In part" (ERR-85), the practice being shared and the rates the site's; record the three as the weak set; the gate stays FAIL until the amendment is applied.
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/07_QA_Gates.md`, Questions for the developer, Q-323.
+
+### DEC-1041 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 7 (QA gates) (Q-324, Gate 6)
+- **Question.** Does the gate reach things and roles named twice, or institutions only; are the lake program and "the genetics program" one; fold CAT-35 into CAT-2, or cross-reference?
+- **Recommended (PROVISIONAL).** the gate is about institutions, so the item doubles are bookkeeping: cross-reference a setting and its recurring event (CAT-56/CAT-72; CAT-59/CAT-71), merge the role doubles (CAT-78's second half into CAT-36; CAT-50 into CAT-77) and fold CAT-35 into CAT-2 (ERR-86); treat the lake and genetics programs as one research program by applying REQ-169.
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/07_QA_Gates.md`, Questions for the developer, Q-324 (raised by B Q-B105, Q-B106; A; C).
+
+### DEC-1042 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 7 (QA gates) (Q-325, Gate 7)
+- **Question.** The share's definition and base.
+- **Recommended (PROVISIONAL).** report the whole-list share (27 of 85 = 31.8%), the PRIMARY-tier share and the official picks (3 of 3) every time, and adjust none; an *extends* note is ornament unless it changes a finding's wording, standing or scope; rows 43 and 45 follow CAT-B2-8's fate (ERR-90); add a changed · ornamented · withheld · omitted column to the pick-incorporation tables so the gate need not class them afterward.
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/07_QA_Gates.md`, Questions for the developer, Q-325 (raised by A Q2; B Q-B101; C's question 206).
+
+### DEC-1043 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 7 (QA gates) (Q-326, Gate 8)
+- **Question.** The place-specific standout beside SC-1: SC-4 (A) or SC-3 (B, C)?
+- **Recommended (PROVISIONAL).** SC-4, the archive's two signals: it stands on a ratified line (spec L179) and on Phase 9 and 10 findings, while SC-3 rests on PROPOSED readings and absences; record SC-3 beside it, and SC-4's no-signal leg as a contested absence wherever it is cited.
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/07_QA_Gates.md`, Questions for the developer, Q-326 (raised by A Q1; B Q-B107; C's question 207).
+
+### DEC-1044 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 7 (QA gates) (Q-327, Gate 9, shadow candidate)
+- **Question.** Membership held by the road or a chamber (A15).
+- **Recommended (PROVISIONAL).** yes, reserved beside SH-35 and SH-37, weaker than textbook (no adverse outcome written); no practice.
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/07_QA_Gates.md`, Questions for the developer, Q-327 (raised by A Q4).
+
+### DEC-1045 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 7 (QA gates) (Q-328, Gate 9, shadow candidate)
+- **Question.** No written way into the research population for a resident outside it (FIND-P9-36; RF-183).
+- **Recommended (PROVISIONAL).** write that how such a resident is first asked is not written; keep RF-183; hold it as a candidate, no rule.
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/07_QA_Gates.md`, Questions for the developer, Q-328 (raised by A 16).
+
+### DEC-1046 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 7 (QA gates) (Q-329, Gate 9, shadow candidate)
+- **Question.** A long pause carries the research population across the city's one between-group line (kept, not needed).
+- **Recommended (PROVISIONAL).** yes, reserved, conditional on REQ-145 and on FIND-P9-36's line; no rule.
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/07_QA_Gates.md`, Questions for the developer, Q-329 (raised by A Q5).
+
+### DEC-1047 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 7 (QA gates) (Q-330, Gate 9, shadow candidate)
+- **Question.** Link Phase 6 SH-25 (the keepers of heat stand in no record) to FIND-P10-1 (the one honor names the scientists) as one candidate?
+- **Recommended (PROVISIONAL).** yes, reserved; no honor, roll or practice written.
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/07_QA_Gates.md`, Questions for the developer, Q-330 (raised by A Q6).
+
+### DEC-1048 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 7 (QA gates) (Q-331, Gate 9, shadow candidate)
+- **Question.** The clean side's way out is unwritten (CAT-B1-1).
+- **Recommended (PROVISIONAL).** reserve it with RF-194 for the DCI, and write its losing side, the one who cannot complete instruction (Phase 7 FIND-P7-36), with it.
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/07_QA_Gates.md`, Questions for the developer, Q-331 (raised by A 19; B).
+
+### DEC-1049 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 7 (QA gates) (Q-332, Gate 9, shadow candidate)
+- **Question.** FIND-P10-15's request path: the unanswered sender.
+- **Recommended (PROVISIONAL).** yes, weaker than textbook; who decides which requests are answered waits for the DCI, and the unanswered sender is written beside the one who comes in person.
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/07_QA_Gates.md`, Questions for the developer, Q-332 (raised by B Q-B108).
+
+### DEC-1050 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 7 (QA gates) (Q-333, Gate 9, shadow candidate)
+- **Question.** The unchosen successor in single custody (FIND-S5-7).
+- **Recommended (PROVISIONAL).** yes, weaker than textbook, reserved with RF-212.
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/07_QA_Gates.md`, Questions for the developer, Q-333 (raised by C's question 204).
+
+### DEC-1051 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 7 (QA gates) (Q-334, Gate 11)
+- **Question.** C's FAIL on yearly lifting against A's and B's FLAG; and carry the tonnage and the induction-scale question to Step 10?
+- **Recommended (PROVISIONAL).** the FAIL stands until ERR-82 is applied; carry the city-scale pricing of raising (about 990,000 to 1,417,500 tonnes of snow a year on the 44–63 km² extent) and the scale question on perpetual induction to Step 10 as pricing and scale notes, not findings; the shared-night plausibility point goes with Q-255.
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/07_QA_Gates.md`, Questions for the developer, Q-334 (raised by A Q7).
+
+### DEC-1052 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 7 (QA gates) (Q-335, Gate C)
+- **Question.** Is a dated correction to a shared sheet within Gate C's applied-list rule, or a Gate 0 matter (B)?
+- **Recommended (PROVISIONAL).** within it: a statement corrected at one source is corrected wherever it is carried; record the datasheet's L21 under Gate 0 as well; ERR-87 stands either way.
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/07_QA_Gates.md`, Questions for the developer, Q-335.
+
+### DEC-1053 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 7 (QA gates) (Q-336, Gate I)
+- **Question.** Reclass Phase 9 FIND-P9-35 (the order of arrival) from genuinely emergent to inflected?
+- **Recommended (PROVISIONAL).** yes: it inflects the national mentor bond, cited in the finding itself, and Phase 2's perpetual induction; the substance is unchanged (with Q-307).
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/07_QA_Gates.md`, Questions for the developer, Q-336 (raised by A Q3).
+
+### DEC-1054 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 7 (QA gates) (Q-337, The station-builder scan)
+- **Question.** Phase 9 L202, a method bar that names the operator before denying it.
+- **Recommended (PROVISIONAL).** rewrite it to the positive rule, "Founders come only from the Founding Register (`DR-19`)."; nothing is lost.
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/07_QA_Gates.md`, Questions for the developer, Q-337 (raised by B Q-B109; A and C hold it as method).
+
+### DEC-1055 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 7 (QA gates) (Q-338, The station-builder scan)
+- **Question.** Step 5 DK-3 proposes keeping the culture sheet's sentence that the station operators' nation has no representation in any tier.
+- **Recommended (PROVISIONAL).** strike it from the sheet's prose: a census row count needs no mention of whose station it was (`DR-19`; runbook L2944).
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/07_QA_Gates.md`, Questions for the developer, Q-338 (raised by A Q8; C's question 205; B clears it).
+
+### DEC-1056 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 7 (QA gates) (Q-339, Gate 3)
+- **Question.** Add to Q-225's scope the other lines that carry city-scale staying (Phase 9 FIND-P9-33's heading L330, Phase 9 L254, Phase 9 L413, Phase 10 Q-B2-2's reason L1916 and Q-211's premise L1208)?
+- **Recommended (PROVISIONAL).** yes; each to read "no departure from the city is written" and, for the human, "could not return to Upper Earth"; the same rule as Q1's Gate 9 errata (Q-295).
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/07_QA_Gates.md`, Questions for the developer, Q-339 (raised by B Q-B104; A A11).
+
+### DEC-1057 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 8 (Review Panel) (Q-340)
+- **Question.** May a position that cannot be cast be voiced from its edge case? Readers voiced the Child as a conditional human child, a robot built here, or a human born here.
+- **Recommended (PROVISIONAL).** no. Record the result (`00f` L757–764). Keep any edge-case voice as data, `noted`, and never let a disposition write a child into the place.
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/08_Review_Panel.md`, Questions for the developer, Q-340 (raised by R1·A A-Q-4; R1·B 131; R1·C 242; R2·A 23; R3·A 19; R3·B Q-B105; R3·C C-Q1; Round 3 (c) in R1, R2 and R3).
+
+### DEC-1058 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 8 (Review Panel) (Q-341)
+- **Question.** Is a human born here at the height to be written?
+- **Recommended (PROVISIONAL).** not in-run. Phase 9's reading and Phase 2 Q-73 and Q-74 govern, and REQ-242 lists what would have to be re-read.
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/08_Review_Panel.md`, Questions for the developer, Q-341 (raised by R2·A 23).
+
+### DEC-1059 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 8 (Review Panel) (Q-342)
+- **Question.** The Elder's casting.
+- **Recommended (PROVISIONAL).** the city's casting is *a holder at the end of her holding*. Where she is a robot of the founding wave, the long life is labeled as national canon and the casting as conditional on `DEC-698`. The oldest keeper of the shaft (CAT-78) is kept as R3·C's costume. The human elder stays uncastable, and the ledger's Elder cells stay blank (REQ-241).
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/08_Review_Panel.md`, Questions for the developer, Q-342 (raised by R1·C 241; R2·B 125; Round 3 (c) at R2·B, R2·C, R3·B, R3·C).
+
+### DEC-1060 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 8 (Review Panel) (Q-343)
+- **Question.** Can the subnet's coastal hub be cast as a Neighbor? The city names it as its parent (spine D-4; frame PV-8), but no trade or contact is written.
+- **Recommended (PROVISIONAL).** cast it only as a relation on paper, able to ask what flows. Its one objection (O-42) is `noted` to Phase 5. That no flow is written confirms spine D-4 and RF-52 from outside either way. Record that one reader found it uncastable. The hub is never named.
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/08_Review_Panel.md`, Questions for the developer, Q-343 (raised by R1·A A-Q-3; R1·B 115; R1·C 213; R2·C 220; Round 3 (c) at R1·A).
+
+### DEC-1061 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 8 (Review Panel) (Q-344)
+- **Question.** Does `DR-143` L2063 item 1 ground an `unmet` for the honor objection (O-28)?
+- **Recommended (PROVISIONAL).** no; `declined`. The ruling shows the honor knowingly placed with the city's scientists. It does not show the keepers knowingly left unnamed, and honoring them would not remove the scientists' honor. *If the developer reads it otherwise:* `unmet` +1, on that line.
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/08_Review_Panel.md`, Questions for the developer, Q-344 (raised by R1·C 216, 240, withdrawn; R2·A 24; R2·B 126; R2·C 232; Round 3 (c) at R2·B).
+
+### DEC-1062 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 8 (Review Panel) (Q-345)
+- **Question.** Does a passer-through meet the district's name at all (O-40)?
+- **Recommended (PROVISIONAL).** no line makes the name visible to someone crossing in a day, so the objection is `declined`. R3·B withdrew its version of it. *If the developer rules that she does:* `DR-143` item 1 grounds an `unmet`, and the count rises by one.
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/08_Review_Panel.md`, Questions for the developer, Q-345 (raised by R1·B 113; R3·B 112, Q-B104; Round 3 (c) at R1·A, R1·B, R3·A, R3·C).
+
+### DEC-1063 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 8 (Review Panel) (Q-346)
+- **Question.** Does the district's honor stay with the scientists (Phase 6 Q-138 (b)), so that the keepers' absence from it is written as characterization and not as a gap?
+- **Recommended (PROVISIONAL).** yes. If the developer widens the honor, re-decide O-28.
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/08_Review_Panel.md`, Questions for the developer, Q-346 (raised by R2·B 126; R2·C 232).
+
+### DEC-1064 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 8 (Review Panel) (Q-347)
+- **Question.** Does spec L179 show the place knowingly holding an understanding spread across people, so that the Mentor's refusal (O-30) would be `unmet`?
+- **Recommended (PROVISIONAL).** no; `declined`. The line is the spec's descriptive voice, not the place's own.
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/08_Review_Panel.md`, Questions for the developer, Q-347 (raised by R1·A A-Q-1).
+
+### DEC-1065 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 8 (Review Panel) (Q-348)
+- **Question.** Should the spine sentence's first clause (*holds what others come to it for*, L229; Q-45) be narrowed (O-14)?
+- **Recommended (PROVISIONAL).** keep the sentence's shape. Read the clause as the purpose's claim. It is written in the world for the research arrivals (Phase 5 L396) and as others coming or sending (FIND-S5-9). Its *send to it* half has one written form only, the Mandated share, which has no in-world form (Phase 5 L450; RF-38). Keep §8e's *Be necessary* conditional on Phase 5's flows (REQ-10; RF-48).
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/08_Review_Panel.md`, Questions for the developer, Q-348 (raised by R1·A A-Q-2; Round 3 (c) at R1·A, R1·C).
+
+### DEC-1066 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 8 (Review Panel) (Q-349)
+- **Question.** May a later stage write that robots of the founding wave may be living at the height, so that the founding is possibly in living memory?
+- **Recommended (PROVISIONAL).** only as conditional, under `DEC-698`. Phase 9 FIND-P9-21 already holds it. It is a role, never a named person, and never a founding-wave standing or privilege (RF-8, RF-27, RF-78).
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/08_Review_Panel.md`, Questions for the developer, Q-349 (raised by R1·B 132; Round 3 (c) at R1·C).
+
+### DEC-1067 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 8 (Review Panel) (Q-350)
+- **Question.** Should the night's keepers go to the DCI as one carried question: who keeps the heat, water, charge and shaft through the shared night, how many keep it, and when they rest?
+- **Recommended (PROVISIONAL).** yes. Fold it into RF-108's handoff, as a function only (`DR-137` item 12), citing FIND-S8-9.
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/08_Review_Panel.md`, Questions for the developer, Q-350 (raised by R1·B 133).
+
+### DEC-1068 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 8 (Review Panel) (Q-351, Worth in two tenses (FIND-S8-4).)
+- **Question.** Should it enter as a refereed finding, with *the part kept back to stay needed* as a shadow candidate?
+- **Recommended (PROVISIONAL).** yes, as structure only, scoped to the research population. Enter it as a shadow candidate weaker than textbook, with no practice or person. When Gate 9 is next run, it asks of the holder who has taught on everything she held.
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/08_Review_Panel.md`, Questions for the developer, Q-351 (raised by R2·B 124; R2·C 231).
+
+### DEC-1069 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 8 (Review Panel) (Q-352)
+- **Question.** Should Step 7's shadow count weigh FIND-S8-14 as one shadow with six sites?
+- **Recommended (PROVISIONAL).** yes, for weight, keeping every site and its number and retiring none. R1·B's further sites stay candidates until Step 7 reads them.
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/08_Review_Panel.md`, Questions for the developer, Q-352 (raised by R2·C 229; Round 3 (c) at R2·B, R2·C).
+
+### DEC-1070 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 8 (Review Panel) (Q-353)
+- **Question.** May the Lover position be cast on the treaty draft's election ground?
+- **Recommended (PROVISIONAL).** yes, for the casting only, tagged `[treaty draft]`. No finding rests on it.
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/08_Review_Panel.md`, Questions for the developer, Q-353 (raised by R1·C 243).
+
+### DEC-1071 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 8 (Review Panel) (Q-354)
+- **Question.** May the Passer-Through be cast from Hwy 37's through-line (CAT-10 when no through-traffic is written (Phase 2's null; Q-211, Q-212)?
+- **Recommended (PROVISIONAL).** yes, as a standpoint for the discoverability check only, never as a population. The ledger cell stays blank until REQ-153.
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/08_Review_Panel.md`, Questions for the developer, Q-354 (raised by R3·A 18; R3·B Q-B102; R3·C C-Q4).
+
+### DEC-1072 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 8 (Review Panel) (Q-355, May a position be cast by function)
+- **Question.** (the Parent as someone answerable for a dependent who cannot keep herself alive) when its life stage is unwritten?
+- **Recommended (PROVISIONAL).** yes, for the panel's run only, recorded as such. The ledger's Parent cell is not marked by it (Q-189, Q-235, REQ-153).
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/08_Review_Panel.md`, Questions for the developer, Q-355 (raised by R3·A 19; R3·B Q-B103; Round 3 (c) at R3·A).
+
+### DEC-1073 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 8 (Review Panel) (Q-356)
+- **Question.** The door's decision for the untaught (O-12). Should it enter as a strengthening note on Phase 7 FIND-P7-15?
+- **Recommended (PROVISIONAL).** yes, as structure only, labeled as resting on the pass's own paraphrase (Phase 6 L193). No line makes it so, and no rule or practice is written. It stays `noted` until ruled.
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/08_Review_Panel.md`, Questions for the developer, Q-356 (raised by R2·C 203; Round 3 (c) at R2·A).
+
+### DEC-1074 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 8 (Review Panel) (Q-357)
+- **Question.** The Elder's "no way down": `noted` or `declined`?
+- **Recommended (PROVISIONAL).** split it. The way down as a departure is `noted` to Phase 5 and the DCI (O-24; a departure is unwritten, not barred). A place or role for whoever can no longer work, or is no longer needed, is `declined` (O-25; FIND-S8-13).
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/08_Review_Panel.md`, Questions for the developer, Q-357 (raised by R1·A 28; R1·B 111; Round 3 (c) at R1·A).
+
+### DEC-1075 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 8 (Review Panel) (Q-358)
+- **Question.** The late Lover-faculty verdict's wording.
+- **Recommended (PROVISIONAL).** *alive, yes; lovable, not yet shown*, with the glimpses written beside it as candidates. It moves one step only when a line writes someone loving the place, or a pleasure taken in a stopped hour.
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/08_Review_Panel.md`, Questions for the developer, Q-358 (raised by Round 3 (c) at R1·B and R1·C; R2·B).
+
+### DEC-1076 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 8 (Review Panel) (Q-359)
+- **Question.** Should FIND-S8-3 (the store colder than the city's own cold, in the class that cannot stop) be accepted?
+- **Recommended (PROVISIONAL).** yes, conditional on the research keeping living stock (RF-209), as a reading beside FIND-S5-2. No pass file is edited.
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/08_Review_Panel.md`, Questions for the developer, Q-359 (raised by R3·C C-Q2).
+
+### DEC-1077 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 8 (Review Panel) (Q-360)
+- **Question.** Should the pass's in-phase `unmet` labels be re-labeled `declined` (REQ-239)?
+- **Recommended (PROVISIONAL).** yes. They rest on the city's composition, cold, road and archive. Those are facts about the place, not lines showing that it knowingly holds anything. Re-labeling changes no finding's substance.
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/08_Review_Panel.md`, Questions for the developer, Q-360 (raised by R2·A 22; R3·A 17; R3·C C-Q3; Round 3 (c) at R3·C).
+
+### DEC-1078 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 9 (Record) (Q-361)
+- **Question.** Step 9's state in the new tracker lines: "in progress" or "PROPOSED"? (A·R3 (c).)
+- **Recommended (PROVISIONAL).** PROPOSED, as written by this merge, because the record exists when the line is applied (orch.).
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/09_Record.md`, Questions for the developer, Q-361.
+
+### DEC-1079 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 9 (Record) (Q-362)
+- **Question.** Is `RUN_PROGRESS_Ariun_Nuur.md` a tracker under Step 9 item 3, or the run's resumable log? (A 22, B 145, C 292; A·R3 (c).)
+- **Recommended (PROVISIONAL).** the run log (`09.5_Log.md` L4–5 makes it the holding place while a unit's list is frozen). Its closing status line follows item 3's one-line form; per-reader results stay out of that line and are never copied into MASTER.
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/09_Record.md`, Questions for the developer, Q-362.
+
+### DEC-1080 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 9 (Record) (Q-363, A pointer line beside MASTER L391–395?)
+- **Question.** L394 reports *Round 2 UNANIMOUS* for units that first failed Round 2; L394–395 carry substance beyond one line; L391's *validated and corrected* is contradicted in part (A 22, C 214; A·R3 and B·R3 (c) on L391).
+- **Recommended (PROVISIONAL).** yes, one dated pointer line beside them, naming AN-09, AN-10, AN-14, AN-15 and AN-18 for the first-run failures, AN-21 and ERR-87 for the sheets, and `DR-144` for the law's substance; rewrite nothing.
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/09_Record.md`, Questions for the developer, Q-363.
+
+### DEC-1081 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 9 (Record) (Q-364)
+- **Question.** Fold this city's five dated MASTER lines behind one pointer? (A 66.)
+- **Recommended (PROVISIONAL).** yes, but only on the developer's word, since it changes existing lines; add the new line first and change nothing else until then.
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/09_Record.md`, Questions for the developer, Q-364.
+
+### DEC-1082 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 9 (Record) (Q-365)
+- **Question.** The ledger's Parent *rel.* cell at Phase 10. (A 67, B 146, C 294; B·R3 (c); orch.)
+- **Recommended (PROVISIONAL).** leave the Parent unmarked at Phase 10, with a dated note, until Q-235 and Q-317 are answered: a subnet called a parent is not the Parent position.
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/09_Record.md`, Questions for the developer, Q-365.
+
+### DEC-1083 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 9 (Record) (Q-366)
+- **Question.** Does the ledger record the late Lover faculty's verdict? (B 147.)
+- **Recommended (PROVISIONAL).** no cell; at most a status-note pointer to `08` L877.
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/09_Record.md`, Questions for the developer, Q-366.
+
+### DEC-1084 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 9 (Record) (Q-367)
+- **Question.** One ID-only queue for in-run notices about other locations? (B 144, C 293; orch.)
+- **Recommended (PROVISIONAL).** yes: one ID-only queue (for example a section of the decisions file), read only at the terminal check; the record lists the IDs and the queue's address, so propagation is recorded now and routed later (REQ-202).
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/09_Record.md`, Questions for the developer, Q-367.
+
+### DEC-1085 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 9 (Record) (Q-368)
+- **Question.** Do the panel's redirected charges on shared things (`08` L646–647, L731–732) count as relation items to propagate? (C 207; B·R3 (c).)
+- **Recommended (PROVISIONAL).** list them by line in the queue as candidates, not as findings about another location; the terminal check decides.
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/09_Record.md`, Questions for the developer, Q-368.
+
+### DEC-1086 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 9 (Record) (Q-369)
+- **Question.** Is Q-175's methodology half (a note in a methodology commit after the run) Step 9 item 4's to discharge? (C 210; C·R3 (c).)
+- **Recommended (PROVISIONAL).** no. Step 9 drafts the entry (`M-449`) and hands the change on to the end-of-run methodology commit and the developer; a draft records the point but does not make the change (B·R3; orch.).
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/09_Record.md`, Questions for the developer, Q-369.
+
+### DEC-1087 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 9 (Record) (Q-370)
+- **Question.** Does a positional PROOF line that carries a character's working name need the EXEMPT line? (A·R3 (c).)
+- **Recommended (PROVISIONAL).** yes, whenever a positional line carries any name the reader would not otherwise reproduce; it costs one line.
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/09_Record.md`, Questions for the developer, Q-370.
+
+### DEC-1088 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 9 (Record) (Q-371)
+- **Question.** Is the city's former name, which is also a real station's name, a forbidden name in readers' text? (C·R3 (c), on B 115.)
+- **Recommended (PROVISIONAL).** yes outside positional PROOF fields: mask it, as two readers did; the station is a coordinate only.
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/09_Record.md`, Questions for the developer, Q-371.
+
+### DEC-1089 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 9 (Record) (Q-372)
+- **Question.** Are a determination's category words forbidden, or only a specific symbol? (C·R3 (c), on B's draft M-432, merged here as `M-433`.)
+- **Recommended (PROVISIONAL).** only a specific member is forbidden; a category word names none.
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/09_Record.md`, Questions for the developer, Q-372.
+
+### DEC-1090 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 9 (Record) (Q-373)
+- **Question.** Does Step 9 discharge Step 10 deferrals, or only hand them on? (A 64.)
+- **Recommended (PROVISIONAL).** only hand them on. Step 9 discharges what is addressed to Step 9 or to the close, and confirms that every Step 10 deferral sits on a Step 10 list.
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/09_Record.md`, Questions for the developer, Q-373.
+
+### DEC-1091 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 9 (Record) (Q-374)
+- **Question.** Should a split Review Panel cast its positions once, city-wide, before dispatch (`M-421`)? (A 68, C 219.)
+- **Recommended (PROVISIONAL).** yes, for the next city: one casting sheet frozen into every sub-unit's brief, open to readers' objection in Round 1.
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/09_Record.md`, Questions for the developer, Q-374.
+
+### DEC-1092 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 9 (Record) (Q-375)
+- **Question.** Reformat the rulings log so each item sits on its own line (`M-424`)? (B 148, C 223.)
+- **Recommended (PROVISIONAL).** yes for new rulings; leave old rows as they are, with a note. The log's format is the developer's.
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/09_Record.md`, Questions for the developer, Q-375.
+
+### DEC-1093 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 9 (Record) (Q-376)
+- **Question.** Is the national-connections file ever admissible in-run (`M-432`)? (B 149.)
+- **Recommended (PROVISIONAL).** no, while its method reads other locations; build in-run inputs from the shared things' own records.
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/09_Record.md`, Questions for the developer, Q-376.
+
+### DEC-1094 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 9 (Record) (Q-377)
+- **Question.** Should the ledger's header require the casting's line beside each mark (`M-452`)? (C 242.)
+- **Recommended (PROVISIONAL).** yes, from the next city.
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/09_Record.md`, Questions for the developer, Q-377.
+
+### DEC-1095 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 9 (Record) (Q-378)
+- **Question.** The Step 9 datasheet's L9 clause (*in the phase file itself, never only in a log*): where is its source? (B 150; C·R3 confirmed.)
+- **Recommended (PROVISIONAL).** cite the runbook line, or drop the clause from the corpus-wide sheet (Tier U; the developer's).
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/09_Record.md`, Questions for the developer, Q-378.
+
+### DEC-1096 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 9 (Record) (Q-379)
+- **Question.** Apply the proposed rule changes (§5) in the methodology commit at the end of the pass? (C 296.)
+- **Recommended (PROVISIONAL).** yes, each after the developer confirms it, recording what was learned on this city; none is applied by this step.
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/09_Record.md`, Questions for the developer, Q-379.
+
+### DEC-1097 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 10 (readiness check) (Q-380)
+- **Question.** The 48 unbanded memory files that name the next subject. Band them, or record that a warm run does not need it? *Recommended, PROVISIONAL:* before 2026-11-29, a shape-only check of the four with the most hits (scan L39, L37, L43, L83) and of the two whose names carry the subject (scan L39, L46); band any entry that states the place's character, temperament or a signature phrase. For the rest, record that a warm run does not need the memory blackout (runbook L3189). (orch.; A Q4, B 115, C·R3 (a))
+- **Recommended (PROVISIONAL).** (see the source)
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/10_Readiness_Check.md`, Questions for the developer, Q-380.
+
+### DEC-1098 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 10 (readiness check) (Q-381, Retrieval in a warm run.)
+- **Question.** Should the next run carry *"Graphify not used (DR-6)"*, as this run did (entry 7 L121), although warm passes normally use it? *Recommended, PROVISIONAL:* yes, or at least no graph query about its own subject before its culture check, because the own-culture-last rule has no enforcer in a warm run (runbook L3189) and a retrieval layer cannot honor it (L3138). (C 325; (c) in all three Round 3 replies)
+- **Recommended (PROVISIONAL).** (see the source)
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/10_Readiness_Check.md`, Questions for the developer, Q-381.
+
+### DEC-1099 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 10 (readiness check) (Q-382, `Test_Runs/` under item 8.)
+- **Question.** Does a folder barred to readers count as *quarantined* under M-0? *Recommended, PROVISIONAL:* no. The bar is on reading; the orchestrator appends to the observations file without reading its neighbors, which keeps M-0's purpose. No move. (A Q3; (c) in all three Round 3 replies)
+- **Recommended (PROVISIONAL).** (see the source)
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/10_Readiness_Check.md`, Questions for the developer, Q-382.
+
+### DEC-1100 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 10 (readiness check) (Q-383, The form of the handoff fix.)
+- **Question.** A dated pointer line appended to the handoff's §3 (B), a new closing handoff created as its own file (A), or the next handoff carrying this file's cannot-prove section (C)? *Recommended, PROVISIONAL:* the dated pointer line, append only, pointing to RUN_PROGRESS, `09_Record.md` and this file, since it edits no existing text and the window-close summary already points here (orch.). (A·R3 and B·R3 (c))
+- **Recommended (PROVISIONAL).** (see the source)
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/10_Readiness_Check.md`, Questions for the developer, Q-383.
+
+### DEC-1101 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 10 (readiness check) (Q-384, The helpers' durable home.)
+- **Question.** Is `Tools/Orchestrator_Helpers_Ariun_Nuur_2026-11/` their only home, with the handoff pointing nowhere else? *Recommended, PROVISIONAL:* yes; the committed helpers are there (orch.), and this session's new helpers join them at the window close. (C 335; A·R3 (c))
+- **Recommended (PROVISIONAL).** (see the source)
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/10_Readiness_Check.md`, Questions for the developer, Q-384.
+
+### DEC-1102 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 10 (readiness check) (Q-385, The drafted method changes.)
+- **Question.** Which will you confirm or refuse before 2026-11-29, given that the next pass follows the rules, not the log? *Recommended, PROVISIONAL:* decide first on those the next run's own briefs and instruments use: `M-419`, `M-425`, `M-433`, `M-445`, `M-450`, `M-417`, `M-418`, `M-421`, `M-442`, `M-443` and `M-439`; apply what you confirm in one methodology commit with the runbook, with *learned on Ariun Nuur* beside each; leave the rest for the end-of-run methodology commit, and let the next handoff say plainly that none is in force until then. (A Q2, B 124, C 333)
+- **Recommended (PROVISIONAL).** (see the source)
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/10_Readiness_Check.md`, Questions for the developer, Q-385.
+
+### DEC-1103 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 10 (readiness check) (Q-386, Deferral row 2 (the energy source).)
+- **Question.** Does `DEC-705` need anything further, or does the gap stand by ruling? *Recommended, PROVISIONAL:* it stands by ruling; no new question. (C·R3 (c))
+- **Recommended (PROVISIONAL).** (see the source)
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/10_Readiness_Check.md`, Questions for the developer, Q-386.
+
+### DEC-1104 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 10 (readiness check) (Q-387, When is a listing deferral done?)
+- **Question.** *Recommended, PROVISIONAL:* only when the state it conditions on (*still open*, *if still open*, *as carried*) has been re-read at source and the listing written; until then it is handed on with its line, as here. (A·R3 (c))
+- **Recommended (PROVISIONAL).** (see the source)
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/10_Readiness_Check.md`, Questions for the developer, Q-387.
+
+### DEC-1105 · PROVISIONAL · 2026-11-20 · Ariun Nuur, Step 10 (readiness check) (Q-388)
+- **Question.** This run's band notice in the memory index (L5). Retire it when the run ends? *Recommended, PROVISIONAL:* yes, once the run is recorded and committed, asked first, since it is an edit to an existing line. (B 125; C·R3 (a))
+- **Recommended (PROVISIONAL).** (see the source)
+- **Where:** `City_Development_Passes/Mirny_Subnet/Ariun_Nuur/10_Readiness_Check.md`, Questions for the developer, Q-388.
 
 ## Answered
 *(Moved here with the date and the ruling number.)*
