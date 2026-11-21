@@ -1,0 +1,15 @@
+# Casey_C08 · Round 1 · slang and colloquial expressions found incidentally
+
+Found while researching other kinds; not hunted. Not an input to any place file or city pass.
+
+| Place (pick) | Term or expression, in the source's own spelling and script | Language | Meaning and usage, as the source states it | Who uses it, where | Source (URL or citation) | Date of source | SOURCED / UNVERIFIED |
+|---|---|---|---|---|---|---|---|
+| Dawson Creek, BC (#12) | End of Steel | English | the railway terminus; the N.A.R. station is described as "known as 'End of Steel'" | local history, Dawson Creek | https://onthisspot.ca/cities/dawsoncreek/mile0 (stop 2) | read 2026-11-20 | SOURCED |
+| Dawson Creek / Fort St. John, BC (#12) | Alaska Amazons | English | press nickname for about 100 young women hired as clerks by contracting companies based in Fort St. John during highway construction | wartime press | https://onthisspot.ca/cities/dawsoncreek/ww2 | read 2026-11-20 | SOURCED |
+| Overland trails (#11 Parting of the Ways) | Bone Express | English | "a system ... for posting messages along the trail by writing on cloth, wood, and especially bones" | 19th-century emigrants; term as given by the BLM interpretive center | https://www.blm.gov/learn/interpretive-centers/national-historic-oregon-trail-interpretive-center/explore/quotes (search snippet) | n.d. | UNVERIFIED |
+| Overland trails (#11 Parting of the Ways) | bone mail | English | pioneers' messages written on animal skulls and shoulder blades past the Missouri River | Mormon pioneers, 1847 | https://heritage.uen.org/resources/Wc8247ea7c214f.shtml (search snippet) | n.d. | UNVERIFIED |
+| Independence Rock, Wyoming (#11 context) | Register of the Desert | English | name for Independence Rock, for the >5,000 names on it; credited to Pierre-Jean De Smet (1841) | travelers, later state parks | https://wyoparks.wyo.gov/index.php/about-independence-rock (search snippet) | n.d. | UNVERIFIED |
+| Overland trails (#11 Parting of the Ways) | the nation's longest graveyard | English | epithet for the trail, because nearly one in ten emigrants did not survive | NPS article | https://www.nps.gov/articles/000/death-on-trails.htm | read 2026-11-20 | SOURCED |
+| Vladivostok (#94) | перегонщики | Russian | "people who drive cars from ... to Vladivostok" in the article's framing: drivers who ferried used cars between Vladivostok and Siberia/other Far East regions | car trade, Vladivostok | https://rg.ru/2021/04/08/reg-dfo/kak-segodnia-zhivet-znamenityj-avtorynok-vo-vladivostoke.html | 2021-04-08 | SOURCED |
+| Vladivostok (#94) | япономарки | Russian | used Japanese-brand right-hand-drive cars that flooded Vladivostok around 1990 | car buyers, Vladivostok | https://vz.ru/opinions/2018/9/17/942139.html (search snippet) | 2018-09-17 | UNVERIFIED |
+| Vladivostok (#94) | Seoul of the Russian Far East | English (translation) | nickname of the Sinhanch'on Korean enclave | as reported by Wikipedia | https://en.wikipedia.org/wiki/Shinhanchon | read 2026-11-20 | SOURCED |

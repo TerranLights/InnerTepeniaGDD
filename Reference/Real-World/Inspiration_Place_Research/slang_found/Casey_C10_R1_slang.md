@@ -1,0 +1,20 @@
+# Slang and colloquial expressions found incidentally — Casey_C10, Round 1
+
+Found while researching the place-research kinds (not hunted). Not used in the place file. Format per `README.md`.
+
+| Place (pick) | Term or expression, in the source's own spelling and script | Language | Meaning and usage, as the source states it | Who uses it, where | Source (URL or citation) | Date of source | SOURCED / UNVERIFIED |
+|---|---|---|---|---|---|---|---|
+| Duluth, Minnesota (#50) | saltie | English | the season's first oceangoing vessel; contest entrants "guess when the season's first saltie, an oceangoing vessel, sails into the Duluth seaport" | Visit Duluth, Duluth Seaway Port Authority, local press | https://visitduluth.com/first-ship/ | 2026 | SOURCED |
+| Duluth, Minnesota (#50) | laker | English | a Great Lakes freighter (as distinct from an ocean ship) | Minnesota Public Radio NewsCut blog, Duluth waterfront | https://newscut.mprnews.org/2017/03/at-the-midnight-hour-people-welcome-a-ship-to-duluth | 2017-03-31 | SOURCED |
+| Yellowknife (#48) | The Strange Range | English | nickname for the Gold Range Hotel and bar | Yellowknife (as reported by Wikipedia) | https://en.wikipedia.org/wiki/The_Gold_Range (search snippet) | n.d. | UNVERIFIED |
+| Yellowknife (#48) | water squatters | English | term (often affectionate) for residents of the Yellowknife Bay houseboats | Yellowknife | search snippet (uphere.ca / houseboatmagazine.com / NNSL results) | n.d. | UNVERIFIED |
+| Yellowknife (#48) | Privy Road | English | earlier informal name of Ragged Ass Road, "due to the number of outhouses" | Yellowknife Old Town | https://en.wikipedia.org/wiki/Ragged_Ass_Road_(Yellowknife) (search snippet) | n.d. | UNVERIFIED |
+| Yellowknife (#48) | Rainbow Valley | English | name by which the Dene village at the end of Latham Island became known, from its multicolor paint scheme, before it was officially renamed Ndilǫ in 1991 | Yellowknife | https://www.nwttimeline.ca/stories/ndil%C7%AB-the-end-of-the-island/ | n.d. | SOURCED |
+| Yellowknife (#48) | Snowking | English | title used by Anthony Foliot, designer and builder of the snow castle on Yellowknife Bay | Snowking Winter Festival, Yellowknife | https://en.wikipedia.org/wiki/Snowking_Winter_Festival | n.d. | SOURCED |
+| Nome, Alaska (#51) | Cancun of the North; sub-Arctic Spring Break | English | descriptions of Nome during Iditarod finish week | KTOO / Alaska Public Media reporter | https://www.ktoo.org/2017/03/29/weird-wonderful-world-nome-iditarod/ | 2017-03-29 | SOURCED |
+| Nome, Alaska (#51) | Mardi Gras of the North | English | name for Iditarod finish week in Nome | travel/news listing | search snippet (alaska.org / iditarod.com results) | n.d. | UNVERIFIED |
+| Nome, Alaska (#51) | Iditaroders | English | back-of-the-pack Iditarod finishers arriving under the Burled Arch | KTOO / Alaska Public Media | https://www.ktoo.org/2017/03/29/weird-wonderful-world-nome-iditarod/ | 2017-03-29 | SOURCED |
+| Churchill, Manitoba (#104) | polar bear jail | English | what residents call the Polar Bear Holding Facility | Churchill residents (as reported) | search snippet (news/travel results); also the title of https://en.wikipedia.org/wiki/Polar_bear_jail | n.d. | UNVERIFIED |
+| Churchill, Manitoba (#104) | Polar Bear Capital of the World | English | epithet for Churchill | Wikipedia lead | https://en.wikipedia.org/wiki/Churchill,_Manitoba | n.d. | SOURCED |
+| Hay River, NWT (#105) | The Hub of the North | English | name for Hay River as a road/rail/barge/air transfer point (after the 1948 highway) | Town of Hay River | https://hayriver.com/economic-development/industry-profile/ ; https://hayriver.com/tourism-about-hay-river/history/ | n.d. | SOURCED |
+| Great Slave Lake / Gros Cap (#105) | The Mayor of Gros Cap | English | name for Shorty Bakstrom, year-round caretaker and ex-trapper at the McInnes fish camp at Gros Cap | Up Here, excerpt of Fran Hurcomb's *Chasing Fish* | https://uphere.ca/node/2630 | 2022 | SOURCED |
