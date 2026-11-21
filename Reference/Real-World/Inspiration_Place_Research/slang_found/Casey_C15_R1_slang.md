@@ -1,0 +1,10 @@
+# Slang and colloquial expressions found — Casey_C15, Round 1
+
+Found incidentally while researching unit `Casey_C15` (2026-11-21). Not hunted for. Format per `README.md`.
+
+| Place (pick) | Term or expression, in the source's own spelling and script | Language | Meaning and usage, as the source states it | Who uses it, where | Source (URL or citation) | Date of source | SOURCED / UNVERIFIED |
+|---|---|---|---|---|---|---|---|
+| Independence, Missouri (#10) | Queen City of the Trails | English | Nickname for Independence, "because it was a point of departure for the California, Oregon, and Santa Fe Trails" | Town promotion and popular histories | https://www.legendsofamerica.com/mo-independence/ (title); Kansas City Magazine on SantaCaliGon Days ("Queen City") https://kansascitymag.com/independences-53rd-annual-santacaligon-days-festival-celebrates-local-art-food-and-history/ | n.d.; 2025 | UNVERIFIED (Legends of America seen in snippet) / SOURCED ("Queen City", KC Magazine) |
+| St. Joseph, Missouri (#10) | St. Joseph's first motel | English | Nickname given to Robidoux Row, which housed travelers waiting for ferries or sheltering through winters | Local history writing | https://www.gateway-octa.org/trail-history | n.d. | SOURCED |
+| Korean roads / Bojewon, Seoul (#68 Jumak) | 한참 | Korean | The page says the everyday word "한참" (a long while) is said to derive from *cham* (참), the relay stations spaced one day's walk apart that replaced the *won* after the Imjin War | General Korean usage | https://www.ddm.go.kr/tour/contents.do?key=2095 | n.d. | SOURCED |
+| Barstow, California / Belen, New Mexico (#31) | Vamos todos a Belen | Spanish | Said by Barstow residents of New Mexico origin about going back for Belen's Our Lady of Belen Fiestas ("Let's all go to Belen") | Hispanic families in Barstow with roots in Belen/Valencia County | Richard Melzer, "Barstow or Bust, Part I," Valencia County News-Bulletin, https://www.news-bulletin.com/features/barstow-or-bust/3160704 | 2026-11-12 | SOURCED |

@@ -1,0 +1,14 @@
+# Casey_C16, Round 1: slang and colloquial expressions found incidentally
+
+Found while researching unit `Casey_C16` (Round 1), 2026-11-21. Not hunted for. Each entry is labeled with its place. Not read by city passes or place research.
+
+| Place (pick) | Term or expression, in the source's own spelling and script | Language | Meaning and usage, as the source states it | Who uses it, where | Source (URL or citation) | Date of source | SOURCED / UNVERIFIED |
+|---|---|---|---|---|---|---|---|
+| Iowa 80, Walcott, Iowa (#26) | Trucker's Disneyland | English | Comparison used for the Iowa 80 truck stop ("others have likened it to a Trucker's Disneyland") | Visitors and travel writers | search snippet of https://www.uscargocontrol.com/blogs/blog/iowa-80-worlds-largest-truckstop/ | not shown | UNVERIFIED |
+| Iowa 80, Walcott, Iowa (#26) | "Disney World for truckers" / "the 'Disney World' of truck stops" | English | Headline comparison for Iowa 80 | Travel press | search-result titles: https://supercarblondie.com/iowa-truck-stop-interstate-80-disney-world-for-truckers/ ; https://www.aol.com/news/visited-disney-world-truck-stops-191712973.html | not shown | UNVERIFIED |
+| Iowa 80, Walcott, Iowa (#26) | "almost home" marker | English | University of Iowa students and alumni, especially from the Chicago area, treat the truck stop as the sign they are nearly home | UI students and alumni (per Delia Moon Meier) | https://now.uiowa.edu/node/25406 | 2013-02-18 | SOURCED |
+| Tucumcari, New Mexico (#30) | Five Mile Park | English | Local name for Metropolitan Park (burned 2010, razed) | Residents ("locally called") | https://en.wikipedia.org/wiki/Tucumcari,_New_Mexico | read 2026-11-21 | SOURCED |
+| Tucumcari, New Mexico (#30) | "heads in beds" | English | Whether an event or grant brings overnight motel occupancy; used when judging lodgers'-tax requests | Tucumcari Lodgers' Tax Advisory Board discussion | search snippet of Quay County Sun, https://qcsunonline.com/story/2019/04/24/news/tax-board-hands-out-less-money/19977.html | 2019 | UNVERIFIED |
+| U.S. motels generally (found via Tucumcari #30) | "Patel Motel Cartel" | English | Joking name for the large share of U.S. motels owned by Gujarati Patel families | General U.S. usage, per the source | search snippet of https://www.nationalgeographic.com/culture/article/south-asia-america-motels-immigration | 2018 | UNVERIFIED |
+| Korean expressway rest areas (#69) | 휴슐랭 (in "휴슐랭맵") | Korean | Coinage for a map of rest-area restaurants (rest area + Michelin) | Blog author's map service | search-result title, https://brunch.co.kr/@easystep/39 | not shown | UNVERIFIED |
+| Korean expressway rest areas (#69) | 인생휴게소 | Korean | "Must-stop" rest area (headline: "꼭 들러야 할 '인생휴게소'") | News headline | search-result title, https://v.daum.net/v/20220909051101735 | 2022-09-09 | UNVERIFIED |
