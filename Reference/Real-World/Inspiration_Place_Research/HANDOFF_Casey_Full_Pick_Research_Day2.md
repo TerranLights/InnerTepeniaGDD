@@ -1,7 +1,8 @@
 # Handoff, day 2: continue researching Casey's whole inspiration-picks list (LAW 0-P)
 
 **Written 2026-11-20, about 19:45, by the session that ran day 1. ⭐ Updated 2026-11-21, about 06:50, at the close of day 2: §2, §3,
-§4 and the new §7 are current; read them as the state to resume from.** The developer hands this file to a new session with a fresh
+§4 and the new §7 are current; read them as the state to resume from.** ⭐⭐ **Updated again 2026-11-21, about 09:50, at the close of
+day 3: §2, §3, §4 and §7 are current; §8 is new.** The developer hands this file to a new session with a fresh
 web-search budget. The job is unchanged: research every remaining row of Casey's candidate list, two rounds each, and record coverage.
 **Research only:** no Casey ULM, CST or RWBEM work.
 
@@ -10,26 +11,27 @@ web-search budget. The job is unchanged: research every remaining row of Casey's
 1. **This file.**
 2. `HANDOFF_Casey_Full_Pick_Research_2026-11-20.md` (the day-1 handoff): §1 (the law), §3 (the reading list), §4.3–4.4, §5–8 still
    hold. **Its §2 and §9 are out of date; this file corrects them (§3 below).**
-3. `Casey_Pick_Research_LOG.md`: **read in full, especially both "Session close" sections, the developer's rulings in them and
-   "Documents wanted".** It is the resume record. Keep adding to it (a new `## Session 3` section, placed before "Documents wanted").
+3. `Casey_Pick_Research_LOG.md`: **read in full, especially the three "Session close" sections, the developer's rulings in them and
+   "Documents wanted".** It is the resume record. Keep adding to it (a new `## Session 4` section, placed before "Documents wanted").
 4. `_PROTOCOL_AND_BRIEFS.md`, `WHAT_TO_LOOK_FOR.md`, `_DISPATCH_TEMPLATES.md` (as the day-1 handoff lists).
 5. `_TRACKER.md`, the Casey C-unit section at its foot: **the queue and the truth about what is done.**
 
 The inputs are already built (`inputs/Casey_C01.md` to `C20.md`). **Do not rebuild them.** You do not need to read `candidates/Casey.md`
 unless something in an input file looks wrong.
 
-## 2 · State at the end of day 2 (2026-11-21, 06:41; verified in the files)
+## 2 · State at the end of day 3 (2026-11-21, ~09:45; verified in the files)
 
 | | |
 |---|---|
 | Rows in scope | **120** (#4–#124 except **#25**, the road-music row, which waits for its own study after all the culture work: developer, 2026-11-20) |
-| Done, both rounds, tracker ✅ | **C01–C12 = 72 rows** (day 1: C01, C02, C03, C05, C07, C12; day 2: C11, C06, C04, C08, C09, C10). Coverage tracker: Casey **75 / 124** with the official picks |
+| Done, both rounds, tracker ✅ | **C01–C15 = 90 rows** (day 1: C01, C02, C03, C05, C07, C12; day 2: C11, C06, C04, C08, C09, C10; day 3: C14, C13, C15). Coverage tracker: Casey **93 / 124** with the official picks |
+| Round 1 only | **C16** (R1 ✅ and verified in the file at 09:39; **R2 ☐, not started**: its timer was stopped at close) |
 | In progress | **none** (no ◐; nothing running at close) |
-| Not started | **C13, C14, C15, C16, C17, C18, C19, C20** (8 units, 48 rows). No C13 file exists yet |
-| Queued last | **A gap-fill pass on C01, C12, C05 and C04** after C20 Round 2. C01, C12, C05: their Round 1 ran before the depth note (developer, 2026-11-20). C04: its Round 1 averaged ~18 searches a pick (developer, 2026-11-20 ~21:40). **At close of day 2 the developer ruled to keep this list as is** (C06 and C10, which had some thin picks, are not added) |
-| Repo | committed and pushed at `c04c4b81` (this handoff update follows in its own commit) |
+| Not started | **C16 Round 2; C17, C18, C19, C20** (both rounds; 4 units, 24 rows). No C17–C20 file exists yet |
+| Queued last | **A gap-fill pass on C01, C12, C05 and C04** after C20 Round 2. C01, C12, C05: their Round 1 ran before the depth note (developer, 2026-11-20). C04: its Round 1 averaged ~18 searches a pick (developer, 2026-11-20 ~21:40). **At close of day 2 the developer ruled to keep this list as is** (C06 and C10 not added). Day 3's thin picks (C15 R2: 11–14 on three picks; C13 R2: 17–21 on five) were accepted under the depth ruling and **not** proposed for it |
+| Repo | committed and pushed at `fa5485cb` (this handoff update follows in its own commit) |
 
-*Day-1 state, for the record: C01, C02, C03, C05, C07, C12 done; C11 Round 1 ◐ (it resumed and finished on day 2).*
+*Day-1 state, for the record: C01, C02, C03, C05, C07, C12 done; C11 Round 1 ◐ (it resumed and finished on day 2). Day-2 state: C01–C12 done.*
 
 ## 3 · Corrections to the day-1 handoff
 
@@ -48,27 +50,43 @@ unless something in an input file looks wrong.
 - **Depth (developer, 2026-11-20 ~22:00):** when picks come back under ~30 searches with the empty angles listed, *"If those are the
   results that come in, then there's not really a whole lot that can be done about that."* Keep the prompt as is and accept them;
   a whole unit that comes back thin (as C04 did) is raised with the developer for the gap-fill pass.
+- **Day-3 measurements (2026-11-21 06:47 → 09:45):** 7 unit-rounds, **1,026 searches with no refusal**; **4,095,751 agent tokens**
+  (≈ 585k a unit-round). R1s used 147–166 searches, R2s 115–150. The opening 1,000 carried five unit-rounds (three R1s at once, then
+  R2s as returns freed budget); after ~09:00 the refill set the pace again.
 - **Counter flags:** every "quota/rate-limit" flag on day 2 was again a false positive (fishing and game quotas in page text, the
-  protocol's own wording, hashes containing "429", websites' own HTTP 429). Inspect with a grep of the transcript before believing one.
+  protocol's own wording, hashes containing "429", websites' own HTTP 429). Day 3 added: the word "quotation", Italian weather pages
+  titled "quota" (altitude), and the project `CLAUDE.md`'s own line "There is no search budget", which is loaded into every agent. Inspect with a grep of the transcript before believing one.
 - **Sites that refuse every automated fetch:** CBC (all pages) and gov.nu.ca. Facts sourced only there stay UNVERIFIED.
 
 ## 4 · Order of work
 
-*(Day 3 on; day 1–2 items are done.)*
+*(Day 4 on; day 1–3 items are done.)*
 
-1. Round 1 of **C13, C14, C15, C16, C17, C18, C19, C20**, in that order (scheduling only, never depth). Each unit's **Round 2 as soon
-   as its Round 1 is verified** in the file. With a fresh 1,000, about four unit-rounds can go out at once (4 × 270 worst case would
-   exceed the reserve, so start three or four and add more as returns free budget); after the opening budget, pace on the refill.
+1. **C16 Round 2 first** (its R1 file is verified), then Round 1 of **C17, C18, C19, C20**, in that order (scheduling only, never
+   depth). Each unit's **Round 2 as soon as its Round 1 is verified** in the file. With a fresh 1,000, start three at once (for
+   example C16 R2, C17 R1, C18 R1: 3 × 270 = 810, reserve ~190) and add more as returns free budget; after the opening budget, pace on
+   the refill (day 2's rule: ~370 free before a dispatch, no credit for refill during the run).
 2. After C20 Round 2: the **gap-fill pass** on **C01, C12, C05 and C04** (about 100 searches each). **Agree its brief's format with the
    developer first**: the proposal is in §7.
 3. At session close: a "Session close" subsection in the log; the Casey rows of `_LAW_0-P_COVERAGE_TRACKER.md` (never ✅); the
    American-English sweep, then commit and push only if the developer asks.
 
-**C13's picks and what to put in its local-sources line** (from `inputs/Casey_C13.md`): Kashgar, Dunhuang, Jiayuguan, Lanzhou, the
-caravanserais and Anatolian hans (e.g. Sultanhanı), the Nizhny Novgorod Fair. Local-language sources: Chinese (municipal and
-provincial pages, Dunhuang Academy, Gansu museums), Uyghur where useful, Turkish (Kültür ve Turizm Bakanlığı, Vakıflar), Russian
-(Nizhny Novgorod archives and museums). Sensitive histories, reported neutrally and plainly: Kashgar's recent history (the old
-city's rebuilding, Uyghur detentions and the surrounding policies), the fair's Soviet-era closure.
+**C16 Round 2's local-sources paragraph:** reuse day 3's C16 Round 1 paragraph (it is in the log's 09:07 dispatch row in short form):
+Walcott, Scott County, the Quad-City Times, FMCSA; the City of Wall, the Rapid City Journal, the South Dakota State Historical Society;
+Tucumcari, Quay County, the Quay County Sun (its site failed on certificates in R1), Mesalands Community College, the New Mexico SHPO;
+Japanese (MLIT, the michi-no-eki liaison council, prefectural pages); Korean (Korea Expressway Corporation, Korean press); Japanese
+for ekiben (vendors' associations, makers' own histories). Sensitive: Lakota land history near Wall, the Interstate bypass of
+Tucumcari, drivers' and rest-area workers' labor conditions (R1 found none for any of the six stops: point R2 at it).
+
+**C17's picks and what to put in its local-sources line** (from `inputs/Casey_C17.md`): the North Platte Canteen (1941–1946), Gander,
+Shannon and Foynes, Lisbon 1940–1942, seafarers' missions ("Flying Angel" clubs), dhabas on the Grand Trunk Road. Local-language
+sources: Nebraska State Historical Society, Lincoln County museums and the North Platte Telegraph; Gander's town and heritage bodies
+and Newfoundland archives and press (CBC refuses fetches); Irish sources (Shannon Group, Foynes Flying Boat Museum, Clare and Limerick
+archives and press); Portuguese for Lisbon (Hemeroteca, Torre do Tombo, municipal archives, Portuguese academic work on the refugees);
+the Mission to Seafarers and other seafarers' welfare bodies and port pages; Hindi, Punjabi and Urdu for the dhabas (Indian and
+Pakistani press, highway authorities, academic work on truckers). **Verify every date yourself** (the duty-free and coffee-drink
+origins are care notes). Sensitive histories, reported neutrally and plainly: the refugees in Lisbon and how they got papers and
+passage; the events that left passengers stranded at Gander (verify what and when); truckers' working conditions on the Grand Trunk Road.
 
 **At most four agents at once.** Budget on the **worst case** (270 searches per unit-round) and keep a reserve of about 100; the refill
 lets a fifth or sixth unit-round go out later in the day. **On a refusal:** the agent stops with a STOP note; stop dispatching, mark ◐,
@@ -129,7 +147,8 @@ fresh session** — no other city's work in this session.
 ## 7 · Open decision for the developer (added at the close of day 2)
 
 **The gap-fill pass's brief format** (needed only after C20 Round 2; the handoff asks for the developer's agreement). Proposal put
-to the developer on 2026-11-21, not yet ruled on:
+to the developer on 2026-11-21; **asked again at the start of day 3 (06:50): "Decide later" — ask again when C20 Round 2 is done.**
+Not yet ruled on:
 
 - One agent per unit (C01, C12, C05, C04), model opus, the same rules as Rounds 1 and 2 (WebSearch and WebFetch only, never
   re-request a refused page, WANTED in FINAL, no slang in the place file, no comparisons, American English).
@@ -139,3 +158,16 @@ to the developer on 2026-11-21, not yet ruled on:
 - About 100 searches per unit (roughly 15–20 a pick), each pick ending with its search count, totals in FINAL.
 
 Ask before writing the brief; change it as the developer rules.
+
+## 8 · Another session's files in the same folders (added at the close of day 3)
+
+**Developer ruling, 2026-11-21 ~08:25:** Amundsen-Scott Station work runs in a **separate session**, not in a Casey session (the
+one-location rule; and Casey's C14 researched Timbuktu while Amundsen has its own Timbuktu research unit). That session is writing
+**its own files into this folder and into `Research_Logs/`**: at day 3's close, untracked `Amundsen_Setting_Types_Pick_Research_LOG.md`,
+`candidates/Amundsen_Station_Setting_*`, `inputs/Amundsen_ST01.md`–`ST18.md` and `Research_Logs/Amundsen_Town_Design_*_2026-11-21.md`.
+
+- **Do not open, edit, commit or move any Amundsen file** from a Casey session. They are that session's to commit.
+- **Stage Casey files by name** (as day 3 did), never `git add -A` or a whole folder.
+- `_TRACKER.md`, `_LAW_0-P_COVERAGE_TRACKER.md` and `slang_found/` may be shared with that session: check `git diff` on them before
+  committing and commit only the Casey rows and files.
+- Each session has its own web-search budget, so the Amundsen work does not draw on Casey's.
