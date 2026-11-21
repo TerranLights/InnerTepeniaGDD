@@ -83,7 +83,7 @@ choose — should be treated as literal karma in the tradition's own technical s
 analogy imported from human biology. This gives the religion a theologically serious answer to "what is
 karma for a robot" grounded in real scholarship, not invention.
 
-## A real argument for robot personhood, bearing directly on this project's own creative north star
+## A real argument for robot personhood, bearing directly on this project's own first Pillar
 
 `04` section 4: Buddhist no-self analysis, applied originally to humans, finds no persistent essential self
 anywhere — only interdependent process (the five *skandhas*). The source text is explicit this doesn't

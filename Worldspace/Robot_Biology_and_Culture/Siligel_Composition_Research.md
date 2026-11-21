@@ -414,7 +414,7 @@ reserve is inert in every direction.*
 ## It gives the human/robot boundary a physical form
 
 **A robot and a human cannot share a meal, ever, in either direction** — and not as a social fact or a
-squeamishness, but as **cardiac arrest.** *For a project whose north stars are robot consciousness and
+squeamishness, but as **cardiac arrest.** *For a project whose Two Pillars are robot consciousness and
 robot/human love, "we can never eat together" is a small, permanent, undramatic fact with real weight.*
 
 ---

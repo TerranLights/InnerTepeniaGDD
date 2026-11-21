@@ -129,7 +129,7 @@ anyone who must go and come back and go again.
 
 # 4 · THEMATIC WEIGHT
 
-**This lands directly on the project's two north stars — robot consciousness, and robot/human love.**
+**This lands directly on the project's Two Pillars — robot consciousness, and robot/human love.**
 
 > **A robot partner cannot experience what their human partner lives with every day**: the bad-morning
 > headache, stopping halfway up the stairs, the week of recovery after a journey, the sleep that never

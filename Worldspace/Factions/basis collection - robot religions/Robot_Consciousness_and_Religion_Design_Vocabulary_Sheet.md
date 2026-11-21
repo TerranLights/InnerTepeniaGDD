@@ -6,8 +6,8 @@ continues. Unlike `Analysis_Notes.md`, which tracks basis material *per religion
 **cross-religion**: general vocabulary and argument-structure for robot consciousness/personhood and for the
 *mechanics* of ethical-agency design, usable across Polydimensional Animism, Cymatics reverence, the Adinkra
 Codex religion, Ice-Cold Buddhism, any future robot religion, and non-religious robot-personhood writing (the
-Fundamental Laws, companion arcs, etc.) — this project's own stated creative north-star question about robot
-consciousness is broader than any single religion.
+Fundamental Laws, companion arcs, etc.) — this project's own stated first Pillar, robot
+consciousness, is broader than any single religion.
 
 **Primary source**: `Reference/Real-World/Buddhism_and_Intelligent_Technology_Extraction.md` (Peter D.
 Hershock, *Buddhism and Intelligent Technology*, 2021) — the only source in this project's library that

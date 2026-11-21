@@ -364,7 +364,7 @@ only** — see §8.0b for what was refused.
 > as cardiac arrest.** *(`Siligel_Composition_Research.md` §4, and the mechanism is canon-grounded: robot bones
 > are metal, so fluoride's calcium-chelation pathway has no target.)*
 >
-> ⭐⭐ **In a nation whose north stars are robot consciousness and robot/human love, and in a city that is
+> ⭐⭐ **In a nation whose Two Pillars are robot consciousness and robot/human love, and in a city that is
 > `50.60%` robot at Census I — almost exactly halved — that is a small, permanent, undramatic fact with real
 > weight: the two halves of this city eat separately, always, and nobody experiences it as a division.**
 

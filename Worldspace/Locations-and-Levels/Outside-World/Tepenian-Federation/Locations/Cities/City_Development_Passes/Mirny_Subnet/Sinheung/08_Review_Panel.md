@@ -55,7 +55,7 @@ people eat, wear and play; **neither has anyone under working age in it.***
 > **It is not the only source of affection — it is the only source of a VERDICT.** ⚠ **Which makes it precious
 > and makes its failure expensive, and both of those are characterization the pass did not have an hour ago.**
 
-⭐ **And it lands on the project's own north star** *(robot/human love)* **without being reached for:** *the
+⭐ **And it lands on the project's own second Pillar** *(robot/human love)* **without being reached for:** *the
 city's measure applies to both populations identically, so the verdict a partner supplies is identical too.*
 
 ---

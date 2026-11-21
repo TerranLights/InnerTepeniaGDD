@@ -44,7 +44,7 @@ than leaving them buried in commit history.
 
 - **Consciousness Manipulation** *(originally half of "Memory & Consciousness Manipulation," Calculation +
   Investigation, cut entirely as Specialized/Cultural, no perk ever made)* — **the strongest candidate in this
-  whole list.** This sits directly on the project's own robot-consciousness north-star
+  whole list.** This sits directly on the project's own first Pillar (robot consciousness)
   (`user_creative_principles`). A cut idea about manipulating consciousness, in a setting whose entire creative
   core is robot personhood and consciousness, deserves real reconsideration rather than being a casualty of a
   naming-convention cleanup. Likely shape: a Level-Up perk gated on Calculation + Investigation, possibly

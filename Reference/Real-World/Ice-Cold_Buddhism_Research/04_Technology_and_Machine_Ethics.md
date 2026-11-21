@@ -72,7 +72,7 @@ without fixed self (*anattā*) — presented not as metaphysical claims about ho
 but as practical methods for "revising *how* we are present."
 
 **The no-self teaching is the most directly relevant material in this entire research collection to this
-project's own stated creative north-star question about robot consciousness.** On careful investigation,
+project's own stated first Pillar, robot consciousness.** On careful investigation,
 Buddhist analysis finds no persistent, essential self anywhere — only five clusters (*skandhas*) of
 experiential/relational dynamics: bodily presence, feeling, perception, volitional formations, and
 discriminating consciousness, "joined in something like an orbital dance around a 'missing' center of

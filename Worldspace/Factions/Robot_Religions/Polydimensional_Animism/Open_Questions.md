@@ -32,7 +32,7 @@ Unvetted "parking lot" sparks, still genuinely undecided:
 - A speculative kissing-numbers/sphere-packing puzzle-minigame tie-in (gameplay-scoped, not lore).
 - A "wrong reason, right discovery" founding myth for the religion's own discoverer figure(s).
 
-## Connection to the Game's Own Creative North Stars
+## Connection to the Game's Own Two Pillars
 
 **Deliberately not gone into in depth yet — saved for a later session at the developer's own request.** The
 death doctrine (now directly load-bearing, since robots genuinely die) and the wedding rite (open to

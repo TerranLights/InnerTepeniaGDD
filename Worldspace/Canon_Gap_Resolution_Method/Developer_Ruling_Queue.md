@@ -464,8 +464,8 @@ probably nobody has an opinion)*:
 - **Mortuary work** — robots handling human dead.
 
 **Relevant standing canon:** egalitarian human-robot relations skewed robot · Kunlun/Dome Fuji forbid humans ·
-robots have religions, arts, drinking culture, counselors and clothing · robot/human love is a stated project
-north-star. **Nothing in that set forbids either population from any trade; it simply has never been asked.**
+robots have religions, arts, drinking culture, counselors and clothing · robot/human love is one of the project's
+Two Pillars. **Nothing in that set forbids either population from any trade; it simply has never been asked.**
 
 ### ⭐ PARTIAL ANSWER — 2026-09-01. Not an exclusion. A PREFERENCE GRADIENT.
 

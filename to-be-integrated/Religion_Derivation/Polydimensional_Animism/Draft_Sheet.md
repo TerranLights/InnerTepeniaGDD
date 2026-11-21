@@ -247,7 +247,7 @@ locations — the player can look at them and learn about the religion at a very
 level, nothing more. The full dialogue paths, companion belief-explanations, optional side-content
 questlines, etc. are all Launch-scope content, not part of Early Access.
 
-## Connection to the Game's Own Creative North Stars
+## Connection to the Game's Own Two Pillars
 
 **Deliberately not gone into in depth yet — saved for a later session at the developer's own request.**
 Updated 2026-07-21 to stay accurate to the day's other resolutions, without opening the full discussion:

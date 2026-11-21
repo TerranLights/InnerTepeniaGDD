@@ -74,5 +74,5 @@ final choice's weight.
 This is the only candidate in the current set that treats Finding 7's tension as something that could
 recur independently across a population with a genuinely different relationship to time, memory, and
 lifespan, rather than assuming the human framework simply transfers. It also directly engages robot
-consciousness and civic belonging — one of this project's own two creative north-star questions — at a
+consciousness and civic belonging — one of this project's own Two Pillars — at a
 population level, complementing Candidate #09's single-figure treatment of the same broader theme.

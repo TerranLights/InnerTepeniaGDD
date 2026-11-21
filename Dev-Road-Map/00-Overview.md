@@ -66,7 +66,7 @@ What is incomplete, in priority order:
 ### Order follows dependency
 Nothing in a later phase should be designed before the things it depends on. Faction questlines cannot be written until factions are designed. Companion perks cannot be written until companion questlines are complete. The order is not arbitrary.
 
-### The robot experience is the north star
+### The Two Pillars: the robot experience
 The two creative principles governing all the creator's work: **what is the nature of consciousness among robots** and **what is the nature of love between robots and humans**. Every design decision should be evaluated against these — not as a checklist, but as the philosophical water the work swims in. When a design choice has multiple equally valid options, choose the one that gives the robot experience more texture and specificity.
 
 ### Bittersweet-only

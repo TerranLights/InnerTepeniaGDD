@@ -36,7 +36,7 @@ district, not tied to one location's specific culture.
    trying to resurface. Especially strong because it ties a murderhobo playstyle directly to *how much the
    player has re-specced*, giving it its own build-legible cause rather than floating free of any system.
 4. **Unresolved personhood uncertainty.** The player's own nature (human? robot? bridge-thing?) is unsettled
-   at game start — a direct tie-in to the game's own north-star creative question about robot consciousness
+   at game start — a direct tie-in to the game's own first Pillar, robot consciousness
    (`user_creative_principles`). Violence-first as the behavior of someone who hasn't yet decided whether
    *anyone's* life, including their own, carries the weight a "real" person's would.
 

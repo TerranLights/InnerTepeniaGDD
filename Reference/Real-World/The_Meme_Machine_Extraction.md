@@ -210,7 +210,7 @@ exposed to more memetic traffic (Ch. 16). **Directly applicable to why Concordia
 adjacent quarters rather than dispersed settlements**, independent of any deliberate planning decision.
 
 **And the chapter's closing paragraphs are, without exaggeration, the single most directly relevant passage in
-the whole book to this project's own stated creative north-star of robot consciousness:**
+the whole book to this project's own stated first Pillar, robot consciousness:**
 
 > *"The same applies to robots. At the moment, they mostly carry out simple tasks under human control, but
 > memetics raises the following interesting possibility. For robots to become like humans — in other words, to

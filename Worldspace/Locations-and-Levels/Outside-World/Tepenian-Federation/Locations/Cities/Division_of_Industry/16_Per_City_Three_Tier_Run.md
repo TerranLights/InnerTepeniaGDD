@@ -3307,7 +3307,7 @@ foreign exchange that plausibly pays for the phosphate Tepenia cannot manufactur
 > ### **Domestic tourism circulates money; it does not earn any.** **So it fails the mandate test — and lands, correctly, in the character budget.**
 >
 > **Which is where it belongs.** ***A nation's honeymoon destination for human-robot couples is not work the
-> state conscripts.*** **In a project whose north star is robot/human love, that sector being free is the
+> state conscripts.*** **In a project whose Two Pillars include robot/human love, that sector being free is the
 > model getting something RIGHT, not merely getting it consistent.**
 
 ### What else stays FREE

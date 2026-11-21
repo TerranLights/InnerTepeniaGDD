@@ -431,7 +431,7 @@ candidate cluster for near-total transfer to robot culture.
   way human culture is accumulated and transmitted rather than genetically hard-coded. This means a robot
   population that develops its own unprogrammed moral/social conventions is not a hypothetical — it's how
   robot culture in this setting actually works, confirmed as independently strong material for this
-  project's own north-star question about robot consciousness (see [[user_creative_principles]]).
+  project's own first Pillar, robot consciousness (see [[user_creative_principles]]).
 
 **Language and communication — corrected 2026-08-06.**
 Ch. 4 and Ch. 6 both treat language structure (phonemes, grammar, figurative speech) as substantially

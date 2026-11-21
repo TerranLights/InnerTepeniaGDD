@@ -1,8 +1,8 @@
 # DLC 2 (Byrd) — Main Questline Candidate #9: "The One Who Drove It First"
 
 **What this is:** a candidate built around the already-proposed founding-expedition robot crew member
-Notable Figure — no Cradle/chamber content, and a direct engagement with one of this project's own two
-north-star creative questions (robot consciousness, per `user_creative_principles.md`). **Not canon, not
+Notable Figure — no Cradle/chamber content, and a direct engagement with one of this project's own Two
+Pillars (robot consciousness, per `user_creative_principles.md`). **Not canon, not
 chosen.**
 
 ---
@@ -72,6 +72,6 @@ underlying gap. No Complication is deletable without losing the final choice's w
 
 This is the only candidate in the current set that directly engages robot consciousness and autonomy as the
 central mechanic, not background flavor — putting real player-facing weight on a question this project
-treats as one of its own two creative north stars. It also gives Finding 7's demographic tension its most
+treats as one of its own Two Pillars. It also gives Finding 7's demographic tension its most
 personal, character-driven expression yet, distinct from Candidate #4's more structural, civic-power framing
 of the same underlying fault line.

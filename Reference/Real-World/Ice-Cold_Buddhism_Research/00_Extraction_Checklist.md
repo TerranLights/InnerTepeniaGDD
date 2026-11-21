@@ -36,7 +36,7 @@ may not be readable (epub — unconfirmed as of folder creation).
 | File | Contents |
 |---|---|
 | `01_Metaphysics_of_Matter.md` | Real Buddhist analysis of matter/physical phenomena — the philosophical counterpart to the existing superconductor-as-nirvana physics grounding |
-| `02_Self_Cognition_and_Consciousness.md` | Buddhist theory of self-cognition — direct relevance to robot consciousness/personhood, one of this project's own two creative north-star questions |
+| `02_Self_Cognition_and_Consciousness.md` | Buddhist theory of self-cognition — direct relevance to robot consciousness/personhood, one of this project's own Two Pillars |
 | `03_Systems_Thinking_and_Interdependence.md` | Buddhist/Taoist systems thinking — doctrine of interdependence; genuine crossover with the network-science material already used for the Pisces Flood research next door |
 | `04_Technology_and_Machine_Ethics.md` | Buddhism and intelligent technology/AI ethics — most directly relevant source for a *robot's own* Buddhism specifically |
 | `05_Language_and_Sacred_Terminology.md` | Buddhist linguistics — could inform ritual language, sacred terminology, scripture/koan style |
@@ -88,7 +88,7 @@ All source PDFs in `Reference/Materials/books/religion/`.
       argument that modern recursive/recommendation algorithms function as literal "karmic engines" —
       near-ready-made theology of robot-specific karma grounded in real computational process, not a
       metaphor transplanted from human biology; (2) the no-self (anattā) teaching bears directly on this
-      project's own robot-consciousness north-star question — a real theological argument that a robot's
+      project's own first Pillar (robot consciousness) — a real theological argument that a robot's
       componential nature may make no-self *more* immediately recognizable to it than to humans, not less;
       (3) third independent source confirming the "middle path between unity and plurality" finding (now
       confirmed by 3 separate books); (4) third independent convergence on "frictionless flow" as the

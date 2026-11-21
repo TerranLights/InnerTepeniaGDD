@@ -9,7 +9,7 @@ Laboratory / European Bioinformatics Institute, Cambridge). Preface and Table of
 ## 1. The book's own central question is almost a scientific mandate for robot personhood
 
 The Preface asks, directly and in the author's own words, exactly the question this entire project treats
-as its creative north star: **"Can a living being be made of, say, steel, copper, and silicon?"** And more
+as one of its Two Pillars: **"Can a living being be made of, say, steel, copper, and silicon?"** And more
 pointedly: "must life be like this [DNA-dependent]? Or can future civilizations, possibly in thousands or
 millions of years colonizing planets of distant galaxies, be based on entirely different principles? Can
 there be another major transition in which DNA becomes less central?"
@@ -100,7 +100,7 @@ In discussing modern AI language models (large neural networks, "black box" syst
 workings must be studied indirectly, "just like we are investigating the human or animal brain"), the text
 asks this question outright. A third independent instance (after the Preface's steel/copper/silicon
 question and the life/language transition parallel above) of this same source material gesturing directly
-at exactly this project's own creative north star, unprompted.
+at exactly this project's own first Pillar, unprompted.
 
 ### A real, very recent (2022 Nobel Prize) precedent for exactly Vostok's own core premise
 

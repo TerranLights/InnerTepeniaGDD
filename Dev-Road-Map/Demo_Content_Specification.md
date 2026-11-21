@@ -73,7 +73,7 @@ Per `Demo_vs_Early_Access.md`:
 
 ## 5. What the Demo needs to prove, as a checklist
 
-- The tone and writing quality (the game's central creative pitch — the two north-star questions in
+- The tone and writing quality (the game's central creative pitch — the Two Pillars in
   `user_creative_principles`) come through even without a companion romance arc present.
   This checklist maps directly onto the Steam wishlist-conversion goal in `Steam_Launch_Strategy_and_AI_Disclosure.md` Section 2 — a Demo that fails any of these items is unlikely to convert into a wishlist.
 - Combat feels good in a single real encounter.
