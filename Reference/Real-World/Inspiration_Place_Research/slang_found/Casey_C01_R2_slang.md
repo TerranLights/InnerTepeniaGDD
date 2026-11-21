@@ -1,0 +1,41 @@
+# Slang and colloquial expressions found by chance · unit `Casey_C01` · Round 2
+
+Found incidentally while researching the place kinds (not hunted for). Format per `README.md`. Each row stays labeled with its place. Not read by city passes or place research.
+
+| Place (pick) | Term or expression, in the source's own spelling and script | Language | Meaning and usage, as the source states it | Who uses it, where | Source (URL or citation) | Date of source | SOURCED / UNVERIFIED |
+|---|---|---|---|---|---|---|---|
+| Ogden, Utah (#4) | Junction City | English | name the article gives Ogden, the city the railroad drew people to | Ogden (archive blog) | archives.utah.gov/2021/02/19/a-glimpse-into-ogdens-black-community/ | 2021-02-19 | SOURCED |
+| Ogden, Utah (#4) | Two-Bit Street | English | 25th Street as it was once called | Ogden | search snippet (visitutah.com / tourism page on a 25th Street saxophonist) | n.d. | UNVERIFIED |
+| Ogden, Utah (#4) | Notorious 25th Street | English | nickname earned by the street because of gambling, opium dens, bootlegging and brothels | Ogden | search snippet (mylocalutah.com; page returned 403) | n.d. | UNVERIFIED |
+| Ogden, Utah (#4) | O-Town | English | meaning not stated by the source; appears in a tourism blog title about Ogden nightlife | Ogden tourism board | search snippet (visitogden.com, "Ogden After Dark") | n.d. | UNVERIFIED |
+| Utah, statewide (#4 context) | Zion curtain | English | the barrier separating bartenders/drink preparation from restaurant customers (required, removed 2009, restored 2010, replaced 2017) | Utah | en.wikipedia.org/wiki/Alcohol_laws_of_Utah | read 2026-11-20 | SOURCED |
+| Utah, statewide (#4 context) | Zion moat | English | what locals call the 2017 rule keeping minors 10 feet from the drink-preparation area | Utah | search snippet (travel and news pages) | n.d. | UNVERIFIED |
+| Utah, statewide (#4 context) | Traqueros | Spanish | name given to Mexican track workers who worked primarily north of the Rio Grande | railroad workers (Utah context) | search snippet (ilovehistory.utah.gov/latino-communities) | n.d. | UNVERIFIED |
+| Ogden, Utah (#4) | Mija / Mijo | Spanish | meaning not stated by the source; how a Mexican American railroad worker addressed his daughter and son in quoted family memories | a Southern Pacific track worker's family, Ogden | digital.weber.edu/details?id=162193 (Union Station Oral History Project) | 2023-09-23 | SOURCED |
+| Moose Jaw (#84) | The Crushed Can | English | nickname of the Moose Jaw Civic Center (1959-2011), because of its unusual shape from the cable-structure roof; a sports bar across from the new arena took the name | Moose Jaw | en.wikipedia.org/wiki/Moose_Jaw_Civic_Centre | read 2026-11-20 | SOURCED |
+| Moose Jaw (#84) | Band City; The Band Capital of North America | English | nicknames the band festival earned the city | Moose Jaw | mjindependent.com/home/2023/5/12/... | 2023-05-12 | SOURCED |
+| Moose Jaw (#84) | friendly city | English | Moose Jaw's reputation, cited by the festival's founder as a reason to host a literary festival | Moose Jaw | saskculture.ca (Festival of Words story) | n.d. | SOURCED |
+| Saskatchewan (#84 context) | Ladies and Escorts | English | the door through which women entered beer parlours/beverage rooms from 1960 | Saskatchewan hotels | hotelhistories.blogspot.com/2011/03/women-only-beer-parlours.html | 2011-03-20 | SOURCED |
+| Kansas City (#34) | wide open | English | Kansas City under the political machine in the 1930s, when bootlegging, prostitution and gambling were allowed | Kansas City | NPS NRHP Multiple Property Documentation Form, 18th and Vine Area (npgallery 64500294) | 1989-12-21 | SOURCED |
+| Kansas City (#34) | The Hub of Our Business Wheel | English | the Black newspaper's name for the Lincoln Building (1921) soon after it opened | Kansas City Call | NPS MPDF 18th and Vine (as above) | 1989-12-21 | SOURCED |
+| Kansas City (#34) | a patron saint to all musicians | English | what the manager of the basement club at 18th and Vine was called | Kansas City musicians | NPS MPDF 18th and Vine (as above) | 1989-12-21 | SOURCED |
+| Kansas City (#34) | Watermelon Hill | English | widely used name for Shelter No. 5 in Swope Park, the only shelter Black families could rent under segregation | Kansas City | thepitchkc.com/?p=7546 | 2013-07-11 | SOURCED |
+| Kansas City (#34) | burnt ends | English | charred brisket pieces once given away as scraps, later sold as open-faced sandwiches; popularized by a barbecue restaurant | Kansas City barbecue | en.wikipedia.org/wiki/Arthur_Bryant%27s | read 2026-11-20 | SOURCED |
+| Kansas City (#34) | Street's | English | how the Street Hotel was known | Kansas City | search snippet (theclio.com/tour/2437/5) | n.d. | UNVERIFIED |
+| Kansas City (#34) | cutting contests | English | after-hours competitive jam sessions | Kansas City jazz musicians | search snippets (several) | n.d. | UNVERIFIED |
+| Kansas City (#34) | carrying charges | English | the co-op residents' monthly payment, set from the co-op's expenses | Parade Park Homes residents | kcur.org/history/2022-08-10/... | 2022-08-10 | SOURCED |
+| Fort Worth (#7) | Richest Little City in Texas | English | Niles City, the stockyards' company town (1911-1923) | Fort Worth | fwweekly.com/2010/01/13/swift-changes/ | 2010-01-13 | SOURCED |
+| Fort Worth (#7) | the office | English | the stockyards and packing plants, for as many as five thousand workers | Fort Worth packing workers | search snippet (hometownbyhandlebar.com; site refused Round 1) | n.d. | UNVERIFIED |
+| Fort Worth (#7) | bug and wrinkle | English | the stitching that protects the leather at the toes of a custom boot | bootmakers | texascooppower.com/birth-of-a-boot/ | n.d. | SOURCED |
+| Fort Worth (#7) | slack | English | a session held after the rodeo performance for more cowboys and cowgirls to compete | rodeo | search snippet (Stockyards rodeo article) | n.d. | UNVERIFIED |
+| Fort Worth (#7) | Hell's Half Acre | English | meaning not stated beyond a downtown district where one source places the 1887 duel | Fort Worth | search snippets | n.d. | UNVERIFIED |
+| Pasadena, Texas (#8) | We Doze but We Never Close | English | the club's motto (open daily 10 a.m.-2 a.m.) | Gilley's | southbelthouston.blogspot.com/2015/06/... (quoting the state handbook) | 2015-06 | SOURCED |
+| Pasadena, Texas (#8) | Gilleyrats | English | what the club's regulars called themselves | Gilley's regulars | search snippet | n.d. | UNVERIFIED |
+| Pasadena, Texas (#8) | Old Betsy | English | nickname of the fire department's 1929 pumper, still in parades | Pasadena Volunteer Fire Department | pasadenatx.gov/308/History-of-the-PVFD | read 2026-11-20 | SOURCED |
+| Pasadena, Texas (#8) | Freeway Dragstrip | English | the drag strip on the Gulf Freeway, as known to regulars | Houston-area youth | Pasadena ISD South Houston High alumni page "Our Favorite Places to Meet" | n.d. | SOURCED |
+| Pasadena, Texas (#8) | SoHo | English | meaning not stated by the source; used in "Most popular of the SoHo drive-ins" | South Houston High alumni | Pasadena ISD alumni page (as above) | n.d. | SOURCED |
+| Austin (#38) | Long live longnecks | English | slogan the hall's resident artist created for the brewery's posters | Austin, brewery advertising | Fox, Journal of Texas Music History (docs.gato.txst.edu/56051) | n.d. | SOURCED |
+| Austin (#38) | folkies | English | the younger folk-music fans who mingled with older country fans at the gas-station bar | Austin, 1960s | Ruch, Journal of Texas Music History (docs.gato.txst.edu/56061) | n.d. | SOURCED |
+| Austin (#38) | hippie cowboy | English | a writer's term for a countercultural demographic that kept elements of the psychedelic scene and added blues, Western swing, folk, honky-tonk and other styles | Austin, 1970s | Ruch (as above), citing Jan Reid | n.d. | SOURCED |
+| Austin (#38) | Live Music Capital of the World | English | Austin's slogan, which the hall is said to have helped establish | Austin | theclio.com/entry/25497 | n.d. | SOURCED |
+| Austin (#38) | Dillo Art Squad | English | the hall's poster artists, as the museum's site calls them | Austin | search snippet (southpop.org) | n.d. | UNVERIFIED |

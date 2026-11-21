@@ -1,0 +1,11 @@
+# Research unit `Casey_C07`: Casey, candidate list (Gateway and junction cities and towns)
+
+This file holds ONLY the picks of this unit. Do not read any other unit's picks, any city's spec, or any other city's files.
+The picks below were drafted from general knowledge on 2026-10-26/27 and have NOT been verified. Each line gives the row number and the place, then a **claim to test** (an unverified drafting guess about why it might be a useful parallel; it is NOT a fact, and the research should confirm, narrow or correct it), then any care note (things to verify, and how to report sensitive history). Tiers are the developer's; do not judge them. Every pick gets the same full depth.
+
+- **#5** Winnipeg and The Forks // claim to test: A "gateway" city at a river confluence through which nearly all traffic to the western interior was funneled, with a famously wind-scoured downtown corner (K5). // care: Its defining hazard is cold as much as wind; use it for the funnel role.
+- **#53** Port Augusta, South Australia // claim to test: A junction city at the head of a gulf where highways and rail split for the arid interior and the west, the last city before the long drives (K5). // care: Nation note: listed strictly for the junction structure. Verify whether 'Crossroads of Australia' is an official or informal title.
+- **#124** Three Ways Roadhouse, Northern Territory // claim to test: A roadhouse at the junction of two long outback highways, where north-south and east-west traffic meet and decide their route (K5). // care: Nation note: listed strictly for the junction structure. Very small; use for the decision point, not scale.
+- **#58** Crewe, England // claim to test: A town built around a railway junction and its works, where the junction made the town (K7, K14). // care: none
+- **#27** Breezewood, Pennsylvania // claim to test: A junction where two highways fail to connect directly, so all through traffic passes a strip of services that became the town (K8). // care: Nation note: structure only.
+- **#28** Effingham, Illinois ("Crossroads of America") // claim to test: A small city that took the meeting of two interstates as its identity and economy (K8). // care: Nation note: structure only.

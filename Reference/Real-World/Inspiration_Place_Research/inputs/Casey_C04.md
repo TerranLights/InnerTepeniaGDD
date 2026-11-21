@@ -1,0 +1,11 @@
+# Research unit `Casey_C04`: Casey, candidate list (Port jazz, ballrooms, big halls and pub-room music)
+
+This file holds ONLY the picks of this unit. Do not read any other unit's picks, any city's spec, or any other city's files.
+The picks below were drafted from general knowledge on 2026-10-26/27 and have NOT been verified. Each line gives the row number and the place, then a **claim to test** (an unverified drafting guess about why it might be a useful parallel; it is NOT a fact, and the research should confirm, narrow or correct it), then any care note (things to verify, and how to report sensitive history). Tiers are the developer's; do not judge them. Every pick gets the same full depth.
+
+- **#111** Yokohama and its port jazz bars // claim to test: A treaty port where records and ship musicians brought jazz ashore, leaving a district of small jazz bars and a city jazz festival (K13, K3). // care: Nation note: structure only. Festival founding year to check.
+- **#112** Shanghai's ballroom and jazz era (1920s–1930s) // claim to test: A many-origin port whose large ballrooms and hotel bands made it the jazz center of its region, with fame carried by sailors and travelers (K13, K4). // care: Nation note: structure only. Foreign concessions and inequality are the context; report plainly.
+- **#41** Hofbräuhaus, Munich // claim to test: A single enormous beer hall famous far beyond its city, with long shared tables and a stage (K10, K12). // care: none
+- **#42** Australian pub rock and the suburban "beer barns" (1970s–1980s) // claim to test: Very large pubs built to hold big crowds for loud live rock, which shaped a whole national sound (K13, K8). // care: Nation note: listed strictly for the large-venue structure. Find which of these venues are best documented, and their capacities.
+- **#43** The British folk club movement (pub back rooms) // claim to test: Acoustic folk nights held in rooms of ordinary pubs, run by volunteers and open to any performer (K13, K10). // care: none
+- **#115** Barrowland Ballroom, Glasgow // claim to test: A large dance hall above a market that became a venue touring bands seek out, with a reputation spread by performers and crowds (K13, K10). // care: Build and rebuild dates to check.

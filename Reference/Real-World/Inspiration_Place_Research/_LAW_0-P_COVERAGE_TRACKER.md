@@ -27,7 +27,7 @@ re-run, and every later city, shows its coverage.
 
 | City | Subnet | Official picks | R1 · R2 | Candidate rows | Candidate rows researched | Used in ULM | Used in CST | Used in RWBEM | LAW 0-P met | Notes |
 |---|---|--:|---|--:|---|---|---|---|---|---|
-| Casey | Mirny | 3 | ✅ · ✅ | 124 (#1–#124; rows #85–#124 added in the 2026-10-27 top-up; the drafting tracker's 84 predates it; the subnet-wide developer row is **not** in this file) | 3 / 124 (the official picks only) | | | | ☐ | **Mirny subnet re-run** |
+| Casey | Mirny | 3 | ✅ · ✅ | 124 (#1–#124; rows #85–#124 added in the 2026-10-27 top-up; the drafting tracker's 84 predates it). **Corrected 2026-11-20:** the subnet-wide road-music row **is** in this file, as **#25**; it waits for its own study after all the culture work (developer, 2026-11-20) | **33 / 124, two rounds each** (2026-11-20): the 3 official picks (unit `Casey`) + 30 candidate rows in units `Casey_C01`, `C02`, `C03`, `C05`, `C12` (`Research_Logs/Casey_C<nn>_Inspiration_Place_Research_R1/R2.md`, all progress boxes checked). 90 rows to go (`C04`, `C06`–`C11`, `C13`–`C20`); #25 waits. Run log: `Casey_Pick_Research_LOG.md` | | | | ☐ | **Mirny subnet re-run** |
 | Mirny | Mirny | 4 | ✅ · ✅ | 86 | 4 / 86 (the official picks only) | | | | ☐ | **Mirny subnet re-run** |
 | Davis | Mirny | 3 | ✅ · ✅ | 89 | 3 / 89 (the official picks only) | | | | ☐ | **Mirny subnet re-run** |
 | Ariun Nuur | Mirny | 3 | ✅ · ✅ | 86 | **85 / 86 researched** (rows 1–85, three readers each, 788 web calls; 2026-11-20, ULM Phase 10R2: `Research_Logs/Ariun_Nuur_Research_Log.md` Entries 4–6); row 86 waits by the developer's ruling (its own study after the CST); 85 / 85 also reading-checked, no web (2026-11-19, Phase 10C) | **Phase 10 (process B): yes** — the briefs `.t8_brief_04_Phase10R2u{1,2,3}.md` carried the whole candidate list, and `04_Phase_10_Catalog.md`'s pick-incorporation sections give every row a disposition (2026-11-20). **Step 3: no** (briefed on the official picks only, 2026-11-19) | | | ☐ | Official picks researched again in depth 2026-11-19 (ULM Phase 10R, 326 web calls; Entry 3). LAW 0-P not yet met: the CST and RWBEM are still to come. **Mirny subnet re-run** |
@@ -90,7 +90,7 @@ subnet-wide developer row (solo road-travel music). *Researched* = rows with ins
 
 | City | On file | Researched | Still to research now (the road-music row excluded) |
 |---|--:|--:|--:|
-| Casey | 124 | 3 | 121 (its file has no road-music row) |
+| Casey | 124 | 33 (2026-11-20; see the coverage row) | 90 (#25, the road-music row, excluded; the earlier "121 / no road-music row" was wrong) |
 | Mirny | 86 | 4 | 81 |
 | Davis | 89 | 3 | 85 |
 | Ariun Nuur | 86 | 85 (rows 1–85; rows 1–3 are the official picks) | 0 (row 86 waits; researched 2026-11-20, ULM Phase 10R2) |
@@ -99,7 +99,7 @@ subnet-wide developer row (solo road-travel music). *Researched* = rows with ins
 | Sinheung | 82 | 3 | 78 |
 | Shirayuki | 86 | 4 (Round 2 partial) | 81 |
 | Relung Panen | 97 | 97 | 0 |
-| **Total** | **827** | **124** | **696** |
+| **Total** | **827** | **154** | **665** (2026-11-20: Casey 30 rows researched, #25 excluded) |
 
 > ⏭️ **Timing (developer, 2026-11-19): only Ariun Nuur is being worked now** (its ULM run continues 2026-11-20). **The other eight Mirny
 > cities are tasks for a couple of weeks from now;** do not start them before the developer brings them up.

@@ -1,0 +1,16 @@
+# Slang found in passing · unit `Casey_C05`, Round 1
+
+Not hunted; recorded only because encountered while researching other kinds. Format per `README.md`.
+
+| Place (pick) | Term or expression, in the source's own spelling and script | Language | Meaning and usage, as the source states it | Who uses it, where | Source (URL or citation) | Date of source | SOURCED / UNVERIFIED |
+|---|---|---|---|---|---|---|---|
+| Trieste (#100) | Fòdre | Triestine (Venetian dialect), as quoted in an Italian article | Sheltered spots from the bora in the Cavana quarter; the article explains it as a tailoring metaphor (linings) for protection | Trieste, Cavana quarter (between via San Sebastiano and via Pescheria) | https://www.ilnordest.it/vivere-il-nord-est/cultura/bora-trieste-dove-quando-mappa-museo-ykqxckw9 | undated, read 2026-11-20 | SOURCED |
+| Trieste (#100) | foresti | Triestine, as quoted in an Italian article | Outsiders (as contrasted with Triestini) | Trieste | same ilnordest article | undated, read 2026-11-20 | SOURCED |
+| Trieste (#100) | sburto | Triestine, as quoted in an Italian article | Used in describing sash windows "opened with a sburto"; the article gives no further gloss | Trieste households | https://www.ilpiccolo.it/cultura-e-spettacoli/bora-trieste-nuovo-libro-ies-d4jsdtk4 | 2025-12-08 | SOURCED (meaning not glossed by source) |
+| Trieste (#100) | tientibene | Italian / Triestine | Handrails ("hold tight") on uphill streets, to keep people on their feet on bora and ice days | Trieste, Città Vecchia and uphill streets | ilpiccolo article above; search snippet (issuu discovertrieste) | 2025-12-08 | SOURCED (ilpiccolo) |
+| Trieste (#100) | Capo Triestino | Italian / Triestine | A local coffee specialty served in a glass cup (part of a local coffee-ordering vocabulary) | Trieste cafés | https://en.wikipedia.org/wiki/Trieste | read 2026-11-20 | SOURCED |
+| Lerwick, Shetland (#116) | Tammy's Peerie Angels | Shetland dialect / English | Nickname for a group of Tom Anderson's fiddle pupils, about 1980, before they became known as Shetland's Young Heritage | Shetland | https://en.wikipedia.org/wiki/Tom_Anderson_(fiddler) | read 2026-11-20 | SOURCED |
+| Lerwick, Shetland (#116) | North Sea Arabs | English | An image or label for Shetlanders during the oil boom, criticized by Jonathan Wills in 1985 | Shetland, oil era | https://www.gla.ac.uk/schools/socialpolitical/research/research-projects/energyinhistory/exhibition/shetlandsoiltransformation/ | read 2026-11-20 | SOURCED |
+| Columbia River Gorge / Hood River (#23) | Windsurfing Capital of the World | English | A label the city is called by | Hood River, Oregon | https://en.wikipedia.org/wiki/Hood_River,_Oregon | read 2026-11-20 | SOURCED |
+| Columbia River Gorge / Hood River (#23) | boardhead | English | Word in a newspaper headline: "Twenty years ago, few Hood River locals had ever heard of a 'boardhead'"; the meaning is not glossed in what was seen | Hood River | Columbia Gorge News archive headline (search result title; page refused HTTP 429) | undated | UNVERIFIED |
+| Columbia River Gorge / Hood River (#23) | Silver Thaw | English | Name given to the freezing rain that is more frequent near the Gorge during easterly gap flow | Portland area / western Gorge | https://atmos.uw.edu/~cliff/gorge.html | undated, read 2026-11-20 | SOURCED |

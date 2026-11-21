@@ -1,0 +1,11 @@
+# Research unit `Casey_C01`: Casey, candidate list (Rail-junction music streets and very large single venues)
+
+This file holds ONLY the picks of this unit. Do not read any other unit's picks, any city's spec, or any other city's files.
+The picks below were drafted from general knowledge on 2026-10-26/27 and have NOT been verified. Each line gives the row number and the place, then a **claim to test** (an unverified drafting guess about why it might be a useful parallel; it is NOT a fact, and the research should confirm, narrow or correct it), then any care note (things to verify, and how to report sensitive history). Tiers are the developer's; do not judge them. Every pick gets the same full depth.
+
+- **#4** Ogden, Utah, and its 25th Street // claim to test: A rail junction town whose station-front street of bars and jazz clubs served train crews and travelers changing lines (K13, K10). // care: Nation note: structure only. The street's rougher history should be recorded neutrally. Verify how central the jazz clubs on 25th Street were, and in which decades.
+- **#84** Moose Jaw, Saskatchewan // claim to test: A rail divisional point whose station-side district of hotels and bars served crews and travelers (K10, K7). // care: Its tunnels and gangster legends are partly folklore. Separate documented tunnel history from legend.
+- **#34** Kansas City, 18th and Vine // claim to test: A rail-hub city where a dense jazz district grew from the music traveling musicians brought through it (K13). // care: Nation note: structure only.
+- **#7** Fort Worth Stockyards and Billy Bob's Texas // claim to test: A cattle-drive stopover whose stockyards barn became a huge honky-tonk, a single venue big enough to be a city's calling card (K13, K8). // care: Nation note: structure only.
+- **#8** Gilley's, Pasadena, Texas // claim to test: A giant roadhouse bar, long billed as the largest of its kind, whose fame spread far beyond its town. // care: Nation note: structure only. Closed decades ago; a historical case. Verify the closing date and how far the 'largest' claim held.
+- **#38** Armadillo World Headquarters, Austin (1970–1980) // claim to test: A large converted hall that hosted rock, blues and folk together and made its city's music reputation (K13). // care: Nation note: structure only.

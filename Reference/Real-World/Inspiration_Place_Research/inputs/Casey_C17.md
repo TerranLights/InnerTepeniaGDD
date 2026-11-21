@@ -1,0 +1,11 @@
+# Research unit `Casey_C17`: Casey, candidate list (Transit hospitality as civic duty, and transit under pressure)
+
+This file holds ONLY the picks of this unit. Do not read any other unit's picks, any city's spec, or any other city's files.
+The picks below were drafted from general knowledge on 2026-10-26/27 and have NOT been verified. Each line gives the row number and the place, then a **claim to test** (an unverified drafting guess about why it might be a useful parallel; it is NOT a fact, and the research should confirm, narrow or correct it), then any care note (things to verify, and how to report sensitive history). Tiers are the developer's; do not judge them. Every pick gets the same full depth.
+
+- **#32** North Platte Canteen, Nebraska (1941–1946) // claim to test: A town of volunteers met every passing troop train with food and company for years, transit hospitality as civic duty (K1, K12). // care: Nation note: structure only. Troops, not refugees; use the civic-hospitality structure.
+- **#45** Gander, Newfoundland // claim to test: A town that existed to refuel transatlantic flights and is known for taking in thousands of stranded passengers overnight (K1, K4). // care: none
+- **#46** Shannon and Foynes, Ireland // claim to test: Transatlantic refueling stops that invented things to sell to passengers in transit (duty-free shopping; a famous coffee drink) (K8, K12). // care: Verify the dates of the duty-free and coffee-drink origins.
+- **#117** Lisbon, 1940–1942 // claim to test: The last open port for people leaving a continent, where those in transit waited for papers and passage and traded news in the cafés (K5, K10). // care: Wartime refugee history; used only as a trait of transit under pressure, not as war damage. Report plainly.
+- **#75** Seafarers' missions ("Flying Angel" clubs) // claim to test: Clubs in ports that give transient seamen a place to rest, write home and meet (K10, K4). // care: none
+- **#123** Dhabas on the highways (Grand Trunk Road) // claim to test: Plain roadside eateries open around the clock for truck drivers, with cots to rest on, a working road's whole food culture (K12, K10, K7). // care: Food lead only. Flag `[R]` for rest at stops. South Asian places are allowed as inspirations.

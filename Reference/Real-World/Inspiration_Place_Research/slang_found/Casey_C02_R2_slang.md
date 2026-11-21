@@ -1,0 +1,46 @@
+# Slang and colloquial expressions found · Casey_C02 · Round 2
+
+Found incidentally during Round 2 place research (not hunted). Format per `README.md`. Not an input to any city pass.
+
+| Place (pick) | Term or expression, in the source's own spelling and script | Language | Meaning and usage, as the source states it | Who uses it, where | Source (URL or citation) | Date of source | SOURCED / UNVERIFIED |
+|---|---|---|---|---|---|---|---|
+| Clarksdale, Mississippi (#6) | transplants | English | newcomers who moved to Clarksdale (from 2002) drawn by its blues history | locals, of the incomers | HottyToddy.com, Jack Lawton, "…Clarksdale…" (hottytoddy.com/?p=52544) | 12 Feb 2014 | SOURCED |
+| Clarksdale, Mississippi (#6) | setup | English | the mixers staff provide for liquor that customers bring (the bar sells beer, not hard liquor) | Messenger's pool hall, New World neighborhood | Addie Citchens, "Where the Locals Go," Mississippi Folklife | 3 May 2020 | SOURCED |
+| Clarksdale, Mississippi (#6) | Rawleigh Man | English | a door-to-door seller of the W. T. Rawleigh Company's household products (a Lebanese immigrant did this for 19 years in rural Coahoma County) | rural Coahoma County | eGrove, University of Mississippi, "Chafik Chamoun" profile | interview 6 Apr 2007 | SOURCED |
+| Clarksdale, Mississippi (#6) | Mighty Quapaws | English | a name the children chant for themselves on Quapaw Canoe Company river trips | Clarksdale youth on canoe trips | WWNO, "How a Mississippi canoe company is raising a new generation of river caretakers" | 30 May 2024 | SOURCED |
+| Clarksdale, Mississippi (#6) | Little Lebanon | English | what Clarksdale was once called (per a Lebanese immigrant recalling his arrival) | Lebanese community memory | search snippet of eGrove "The Lebanese in Mississippi" | n.d. | UNVERIFIED |
+| Clarksdale, Mississippi (#6) | Good Luck Fish Balls | English | the name under which a Jewish-run café (Sanitary Cafe) served gefilte fish | Clarksdale, early-mid 20th century | ISJL, Encyclopedia of Southern Jewish Communities, "Clarksdale" | read 2026-11-20 | SOURCED |
+| Clarksdale, Mississippi (#6) | Rat | English | personal nickname of Frank Ratliff, proprietor of the Riverside Hotel | Clarksdale | Mississippi Blues Trail marker, Riverside Hotel (msbluestrail.org/?p=448) | rededicated Oct 2025 | SOURCED |
+| Chitlin' Circuit (#35) | Mother Superior | English | what musicians called Evelyn Johnson, who ran Duke/Peacock operations and Buffalo Booking in Houston | Houston musicians on Robey's labels | michaelcorcoran.net, "Evelyn Johnson 1920-2005" | 6 Oct 2022 | SOURCED |
+| Chitlin' Circuit (#35) | Gospel Highway | English | the touring circuit of religious (gospel) groups, which Johnson's routing extended into the Southwest | music writers; gospel touring | michaelcorcoran.net, same | 6 Oct 2022 | SOURCED |
+| Chitlin' Circuit (#35) | Starmaker Station; Goodwill Station | English | nicknames of WDIA, Memphis (for exposing regional artists; for its charity revues) | Memphis listeners | Tennessee Encyclopedia, "WDIA" (Anne-Leslie Owens) | 2017 | SOURCED |
+| Chitlin' Circuit (#35) | weren't about nothing | English (vernacular) | said of musicians who could not get a gig at the Dew Drop Inn | New Orleans musicians | 64 Parishes, "Dew Drop Inn" | n.d. | SOURCED |
+| Chitlin' Circuit (#35) | hepcat haven | English | phrase in the Daily Texan (24 Feb 1942) for the East Austin Cotton Club | Austin student press | Local Memory, "East Austin Centers of Swing" | 12 Jun 2019 | SOURCED |
+| Chitlin' Circuit (#35) | Sunbeam; Jap; Big Daddy; Li'l Willie; Hoppy | English | personal nicknames of a Memphis club/hotel owner, a Cleveland club owner, an Idlewild impresario, a Baltimore investor and an Annapolis DJ | as named | Wikipedia "Sunbeam Mitchell"; Cleveland Historical #634; Lansing City Pulse 16 Feb 2022; Visit Annapolis 1 Feb 2024 | as listed | SOURCED |
+| Chitlin' Circuit (#35) | Mr. Google Eyes | English | stage name of New Orleans blues singer Joseph August | New Orleans | 64 Parishes, "Dew Drop Inn" | n.d. | SOURCED |
+| Pullman porters (#36) | running wild | English | a maid's description of early Pullman service in which she went wherever a maid was needed (no fixed assignment) | Pullman maids | NMAAHC Searchable Museum, "Pullman Porters and Maids" (quoting Frances Albrier) | n.d. | SOURCED |
+| Pullman porters (#36) | privileged trespassers | English | railroads' classification of redcaps before they won employee status | railroads, of redcaps | Maine AFL-CIO, "How Portland's Red Caps Organized for Better Lives" | 17 Feb 2023 | SOURCED |
+| Pullman porters (#36) | first ambassadors | English | a curator's description of St. Paul's redcaps | Rondo/St. Paul | MPR News | 9 Mar 2023 | SOURCED |
+| Pullman porters (#36) | hotels on wheels | English | nickname for Pullman sleeping cars | general | Jim Crow Museum, Ferris State | Aug 2021 | SOURCED |
+| Pullman porters (#36) | quarters | English | the small railway-run boarding houses for visiting porters in Montreal's St. Antoine district | Montreal porters | Canadian Encyclopedia (snippet only) | n.d. | UNVERIFIED |
+| New Orleans (#37) | sliver by the river | English | the strip of riverfront blocks (Tchoupitoulas to New Levee and Decatur) where dockworkers lived | New Orleans | Justin A. Nystrom, Southern Spaces | 5 Mar 2014 | SOURCED |
+| New Orleans (#37) | cut loose (the body is "cut loose") | English | the moment the body is laid to rest in a funeral with music, after which the band switches to up-tempo music | New Orleans brass bands and mourners | Matt Sakakeeny, 64 Parishes, "Jazz Funerals and Second Line Parades" | 2017 | SOURCED |
+| New Orleans (#37) | buck jump; high step | English | second-line dance steps | second liners | same | 2017 | SOURCED |
+| New Orleans (#37) | funeral with music | English | the term New Orleans musicians preferred to "jazz funeral" | New Orleans musicians | search snippet (Wikipedia/other) | n.d. | UNVERIFIED |
+| New Orleans (#37) | Catrachos | Spanish | what Hondurans call themselves | Honduran community | HNOC First Draft, "Coming to New Orleans, Part IV" | 12 Sep 2023 | SOURCED |
+| New Orleans (#37) | El Barrio Lempira | Spanish | name for the Honduran community area in the Lower Garden District | Honduran community | same | 12 Sep 2023 | SOURCED |
+| New Orleans (#37) | Take A Chance Airlines | English | nickname for TACA airline | Honduran migrants | same | 12 Sep 2023 | SOURCED |
+| New Orleans (#37) | Vietnamese poboys | English | local name for banh mi | New Orleans | Wikipedia, "Vietnamese in New Orleans" | read 2026-11-20 | SOURCED |
+| New Orleans (#37) | War of the Pews | English | name for the 1842 contest in which free people of color outbought white parishioners for pews at St. Augustine | Tremé parish history | Wikipedia, "St. Augustine Church (New Orleans)" | read 2026-11-20 | SOURCED |
+| New Orleans (#37) | go cup | English | plastic cup for carrying a drink out of a bar | New Orleans | Culture Trip headline (snippet) | n.d. | UNVERIFIED |
+| New Orleans (#37) | under lock and key | English (idiom) | said of Armstrong Park, closed most of the time after 1999 | writer's phrase | Lawrence N. Powell, Southern Spaces | 17 Jan 2012 | SOURCED |
+| Filipino house bands (#113) | talents | English | what recruiting agencies call the women they recruit as overseas performing artists for Japan | Philippine promotion agencies | Fuwa and Anderson, "Filipina Encounters with Japan" | interviews 1994-2004 | SOURCED |
+| Filipino house bands (#113) | backs | English (Japan club usage) | a 10% share of food and drinks ordered by the customers an entertainer serves | Japanese clubs employing Filipina performers | same | same | SOURCED |
+| Filipino house bands (#113) | o'mise | Japanese (romanized as in source) | the workplace club or bar | Filipina performers in Japan | same | same | SOURCED |
+| Filipino house bands (#113) | Japayukis | English/Japanese | term in a Philippine headline for displaced Filipina entertainers in Japan | Philippine press | Philstar headline (snippet) | 14 Mar 2005 | UNVERIFIED |
+| Filipino house bands (#113) | Sisyanos / Sisyana | Filipino/English | people of Barangay Sisya (Pangasinan) | Sisya | Fuwa and Anderson | same | SOURCED |
+| Daejeon (#110) | 보살팬 | Korean | Hanwha Eagles fans who cheer loyally regardless of results (from "bodhisattva") | Hanwha Eagles fans, Daejeon | OSEN (Lee Sang-hak) | 22 Jul 2024 | SOURCED |
+| Daejeon (#110) | 빵지순례 | Korean | "bread pilgrimage": touring famous bakeries, associated with young people and Sungsimdang | young visitors to Daejeon | KBS Daejeon via Daum | 13 May 2024 | SOURCED |
+| Daejeon (#110) | 노잼도시 | Korean | "no-fun city," a label for Daejeon as boring | general Korean usage | Hankyung Magazine headline (snippet) | 2 Jun 2025 | UNVERIFIED |
+| Daejeon (#110) | 빵 보관소 | Korean | "bread storage," tag for station coin lockers full of Sungsimdang bags | social media users | Seoul Shinmun | 22 Apr 2024 | SOURCED |
+| Daejeon (#110) | 3무 축제 | Korean | "three-nothings festival" (no accidents, litter, overcharging), the city's 2024 slogan for the 0 o'clock festival | Daejeon city | The Fact (Jeong Ye-jun) | 28 Sep 2026 | SOURCED |
