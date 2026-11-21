@@ -1,0 +1,11 @@
+# Research unit `Amundsen_ST04`: Amundsen Station, setting types (Thriving places that became cities of the dead (1))
+
+This file holds ONLY the picks of this unit. Do not read any other unit's picks, any city's spec, or any other city's files.
+The picks below were drafted from general knowledge on 2026-11-21 and have NOT been verified. Each line gives the pick number and the place, then a **claim to test** (an unverified drafting guess about why it might be a useful parallel; it is NOT a fact, and the research should confirm, narrow or correct it), then any care note. Tiers are the developer's; do not judge them. Every pick gets the same full depth.
+
+**Context for every pick (neutral; do not write about any fictional setting):** the picks are studied as real-world settings: how people live, work and keep machinery running in dense, enclosed, buried or extreme places; how heat, light, space and daily life are managed; and how such places look and feel when they are thriving and after they are abandoned. Religious belief systems are out of scope at this stage; describe sacred or burial sites as places only.
+
+- **S3-07** Pompeii and Herculaneum // claim to test: Towns stopped in a single event, with daily life preserved in place: how they are found, read and presented in first person. // care: Human remains: neutral and respectful. Verify the date debate (August or October 79).
+- **S3-08** Prypiat and the Chernobyl Exclusion Zone // claim to test: A young town built for a technical installation, emptied in days and left with its belongings; who still works or lives in the zone. // care: Disaster history: neutral. Verify population, dates and current access rules.
+- **S3-09** Hashima Island (Gunkanjima) // claim to test: An extremely dense residential and industrial island for one enterprise's workers, emptied in 1974 and left to decay. // care: Wartime forced labor: report neutrally and fully. Verify population peak and density figures.
+- **S3-10** Pyramiden, Svalbard // claim to test: A company town at the edge of habitability, closed in 1998 with much left in place, now kept by a few caretakers. // care: Verify the closing, what was left, and the caretakers' present role.

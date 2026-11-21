@@ -1,0 +1,11 @@
+# Research unit `Amundsen_ST19`: Amundsen Station, setting types (Advanced machinery inside mundane surroundings)
+
+This file holds ONLY the picks of this unit. Do not read any other unit's picks, any city's spec, or any other city's files.
+The picks below were drafted from general knowledge on 2026-11-21 and have NOT been verified. Each line gives the pick number and the place, then a **claim to test** (an unverified drafting guess about why it might be a useful parallel; it is NOT a fact, and the research should confirm, narrow or correct it), then any care note. Tiers are the developer's; do not judge them. Every pick gets the same full depth.
+
+**Context for every pick (neutral; do not write about any fictional setting):** the picks are studied as real-world settings: how people live, work and keep machinery running in dense, enclosed, buried or extreme places; how heat, light, space and daily life are managed; and how such places look and feel when they are thriving and after they are abandoned. Religious belief systems are out of scope at this stage; describe sacred or burial sites as places only.
+
+- **S1-17** Dam inspection galleries and powerhouses (e.g., Hoover; Itaipu) // claim to test: Galleries running through the inside of a dam, inspected and maintained daily, beneath a public landmark. // care: Hoover and Itaipu appear in the 11-01 research as towns; here as workplaces.
+- **S1-18** New York City's Water Tunnel No. 3, its valve chambers, and the tunnel workers (sandhogs) // claim to test: A city's water carried through deep rock tunnels controlled from huge underground valve chambers; a multigenerational trade dug them. // care: Use the trade's documented name only in quotation as an occupation title; collect no other slang.
+- **S1-19** Kingsway telephone exchange, London // claim to test: A wartime deep-level shelter turned into a secret trunk telephone exchange, with its own canteen and bar for staff. // care: Verify dates and staffing.
+- **S1-20** Bunkered broadcasting and emergency stations (e.g., BBC Wood Norton) // claim to test: Broadcast and communications facilities placed underground or hardened to keep running in a crisis. // care: Verify what is documented publicly.

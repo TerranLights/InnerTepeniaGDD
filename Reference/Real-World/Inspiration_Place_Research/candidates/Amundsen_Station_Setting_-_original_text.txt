@@ -1,0 +1,20 @@
+Now, due to the rather special particular situation of Amundsen-Scott Station within the in-universe setting, there are a multitude of different types of settings that I'd like to classify and research for inspirational picks. Among them include (but are not limited to):
+
+	// Below Surface
+1.) Settings of technical maintenance and management
+- These are not locations of scientific research. Rather, these are locations with highly technical settings and require regular management and maintenance.
+- These could be sites which house very highly-advanced technical machinery and technology, surrounded by what are otherwise-mundane settings.
+
+2.) Settings that are almost labyrinthine in terms of complexity
+- This would actually serve multiple functions:
+:: (a) First, the town is a residence to over a thousand people (each of whom will live at the location for anywhere from a few months to a couple years), and I would like for it to feel that way.
+:: (b) Second, there's the issue of heating. As you've noted in the physical-research digest, the sub-surface section needs to stay cold, since building heat melts the walls. Thus, a small amount of dissipated local heat in any particular given location, distributed everywhere, is less likely to melt its surroundings than a large amount of aggregate heat all in one place.
+:: (c) Third, there's the issue of the actual DLC, which is set post-war. An empty labyrinthine setting can feel more mysterious than an empty aggregate, centralized setting.
+
+3.) Settings that offer flexibility of First-Person "presence".
+- The fundamental reason for this is that it needs to effectively work, both at its height, as well as in a post-war destruction setting-context.
+:: (a) At its height, it is a highly advanced, incredibly beautiful, and technologically impressive (although perhaps somewhat tightly spaced) temporary residence of over a thousand people, including (but not necessarily limited to) scientists, technicians, engineers, doctors, plumbers, maintenance workers, cooks, other food service staff, leisure staff, etc etc etc and so on and so forth, as (according to Mike Ehrmentraut of the TV show "Better Call Saul") "We can't just keep them alive. We need to keep them from climbing the walls". 
+:: (b) Post-war, it would essentially be a massive, enormous, (albeit very much unintentional, very much against anyone's wishes) "Grand Mausoleum". Thus, this would warrant research and study into real-world settings which had previously been centers of thriving human activity and then later became what are essentially "cities of the dead" due to any number of circumstances (either natural or otherwise).
+
+	// Above Surface
+This would ultimately depend upon research into the nature of what a space fountain would entail, and therefore be fitting within the context of Amundsen Tower.

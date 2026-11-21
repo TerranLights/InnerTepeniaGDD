@@ -1,0 +1,11 @@
+# Research unit `Amundsen_ST12`: Amundsen Station, setting types (Advanced machinery inside mundane surroundings (2))
+
+This file holds ONLY the picks of this unit. Do not read any other unit's picks, any city's spec, or any other city's files.
+The picks below were drafted from general knowledge on 2026-11-21 and have NOT been verified. Each line gives the pick number and the place, then a **claim to test** (an unverified drafting guess about why it might be a useful parallel; it is NOT a fact, and the research should confirm, narrow or correct it), then any care note. Tiers are the developer's; do not judge them. Every pick gets the same full depth.
+
+**Context for every pick (neutral; do not write about any fictional setting):** the picks are studied as real-world settings: how people live, work and keep machinery running in dense, enclosed, buried or extreme places; how heat, light, space and daily life are managed; and how such places look and feel when they are thriving and after they are abandoned. Religious belief systems are out of scope at this stage; describe sacred or burial sites as places only.
+
+- **S1-05** Victorian sewage pumping stations (Crossness; Abbey Mills), London // claim to test: Ornate engine houses: industrial machinery treated as architecture, maintained by engine crews for decades. // care: Verify dates, engines and current use.
+- **S1-06** Underground hydroelectric powerhouses (Kemano; Churchill Falls; Norwegian mountain plants) // claim to test: Turbine halls cut into rock, reached by long tunnels, run by small crews far from towns. // care: Kemano's town history is researched elsewhere; focus on the powerhouses as workplaces.
+- **S1-07** Helsinki's underground district heating and cooling plants (e.g., Katri Vala heat-pump plant) and utility tunnels // claim to test: Heat plants under parks; heat and cooling moved through utility tunnels to a whole city. // care: Verify plant names, capacities and tunnel lengths.
+- **S1-08** The utility tunnels (utilidors) beneath Magic Kingdom, Florida // claim to test: A service level of corridors, deliveries, laundry, waste and control rooms beneath a public world, so the machinery is never seen from above. // care: Verify layout and functions from official or well-documented sources.
