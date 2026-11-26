@@ -8601,7 +8601,7 @@ tie-breaker.
 
 **Status:** ✅ recorded 2026-10-12; proposed in `09_Record.md` (Item 4: MP-1…MP-19) and `09.5_Log.md`, none applied; M-283 and M-287–M-289 are the best evidenced.
 
-> 📎 **Derivation Mechanisms (line added 2026-10-29; nothing was moved).** A **copy** of this file is in the universe-wide methods repo `DerivationMechanisms` at `/home/kuroskalacs/Documents/Doll-Fi/media/Reference/DerivationMechanisms/Environment/ULM [Universal Location Methodology]/from InnerTepeniaGDD/Test_Runs/OBSERVATIONS_and_Methodology_Findings.md`. **This repo's file stays the working copy;** the method belongs in that repo, while results and tracking stay in this one. **If you arrived here from a line reference: the pointer sits at the very END on purpose, because inserting it mid-file would have shifted every cited line.**
+> 📎 **Derivation Mechanisms (line added 2026-10-29, path corrected 2026-11-26; nothing was moved).** A **copy** of this file is in the universe-wide methods repo `DerivationMechanisms` at `/home/kuroskalacs/Documents/Doll-Fi/media/Reference/DerivationMechanisms/Environment/ULM [Universal Location Methodology]/Test_Runs/OBSERVATIONS_and_Methodology_Findings.md` (copied 2026-10-29 and not kept in step since, so it can lag behind this file; see that repo's `SYNC_RECORD.md`). **This repo's file stays the working copy;** the method belongs in that repo, while results and tracking stay in this one. **If you arrived here from a line reference: the pointer sits at the very END on purpose, because inserting it mid-file would have shifted every cited line.**
 
 
 ---
