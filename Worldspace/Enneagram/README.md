@@ -1,4 +1,4 @@
-# Enneagram Reference — Entry Point
+# Enneagram Reference — Entry Point (older copy: the master is in Derivation Mechanisms; see the note at the end)
 
 **This is the file to link to.** Any character-creation methodology in this repo that needs Enneagram material
 — the Stage 1–5 pipeline in `Worldspace/Characters/Dolls/Methodology/`, a companion's own project file, a
@@ -69,4 +69,4 @@ requested — see the Weekly To-Do).
 developer-originated concept, not sourced from the mined books; first confirmed use is a still-unlocked
 Undercurrent for TCY-45 "Momo."
 
-> 📎 **Derivation Mechanisms (line added 2026-10-29; nothing was moved).** A **copy** of this file is in the universe-wide methods repo `DerivationMechanisms` at `/home/kuroskalacs/Documents/Doll-Fi/media/Reference/DerivationMechanisms/Characters/Enneagram/from InnerTepeniaGDD/`. **This repo's file stays the working copy;** the method belongs in that repo, while results and tracking stay in this one. **If you arrived here from a line reference: the pointer sits at the very END on purpose, because inserting it mid-file would have shifted every cited line.**
+> 📎 **Older copy (author's ruling, 2026-11-26).** The master of this whole folder is in the universe-wide methods repo, `/home/kuroskalacs/Documents/Doll-Fi/media/Reference/DerivationMechanisms/Characters/Enneagram/` (enter through its `README.md`). That copy combines this one with the Timeline's and carries later rulings, among them that there is **no fixed type/Undercurrent ratio** (author, 2026-10-30; this folder still says 80/20). Work from the master; this folder stays only so existing links keep working. **If you arrived here from a line reference: the pointer sits at the very END on purpose, because inserting it mid-file would have shifted every cited line.**

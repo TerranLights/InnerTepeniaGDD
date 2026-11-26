@@ -51,3 +51,5 @@ On a doll's own character file, alongside her main Type line:
 
 Same shorthand the roster already uses for a main Type (e.g. `5w6 Social`), appended and clearly labeled —
 never presented as if it were the main Type.
+
+> 📎 **Older copy (author's ruling, 2026-11-26).** The master is `/home/kuroskalacs/Documents/Doll-Fi/media/Reference/DerivationMechanisms/Characters/Enneagram/Undercurrents.md`. Its ratio rule supersedes this file's 80/20 baseline: there is no fixed type/Undercurrent ratio; each character's own sheet sets hers (author, 2026-10-30). **The pointer sits at the very END on purpose, so no cited line shifts.**
