@@ -274,6 +274,16 @@ resolution, and `subagent_tokens` may weigh cached input differently from the me
 - **American-English sweep:** 148 whole-word fixes across 9 agent files (incl. one "draughts" → "checkers", the game, by hand) (5 place files, 4 slang files; the C16 R1 slang file was committed on day 3), plus 2 in this log and the handoff (centre, theatre(s), labour(ers), programme, harbour(s), neighbourhood, traveller(s), refuelling, licence, cancelled, tonnes → metric tons, metres, storey, specialised, favourite, behaviour). Masked, as on days 1–3: URLs and bare domains, backticked text, the query cells of search-log tables (they record what was typed), and French-language names. Names and citations outside URLs were converted (the memory rule has no proper-noun exception). URL and replacement checks clean.
 - **Next session (week after next), in order:** C18 R2 and C19 R2 (their R1 files are verified), C20 R1 then R2; then ask the developer for the gap-fill brief format (handoff §7) and the C17 question. About 4 unit-rounds ≈ 600 searches ≈ one fresh-session morning.
 
+### Note, 2026-11-25 17:45 (no session; the run stays paused)
+- **Exactly where Casey stands (unchanged since day 4's close, checked in `_TRACKER.md` today):** C01–C17 done, both rounds (102 of 120
+  rows; 105 of 124 with the official picks); **C18 and C19 Round 1 only** (R1 ✅ verified, R2 ☐); **C20 not started**; ◐ none; nothing
+  running. Next: C18 R2, C19 R2, C20 R1 (three at once), then C20 R2; then the gap-fill pass (C01, C12, C05, C04; C17 still the
+  developer's question) and its brief format. Repo: day 4 committed and pushed at `fa0591ae`; the handoff's later pick-up edits are not
+  yet committed.
+- **Order of work (developer, 2026-11-25):** (1) from Sunday 2026-11-29 morning, the **Kunlun ULM run**, in its own fresh session, on a clean, empty weekly allotment, to measure what one ULM run costs (nothing else runs alongside it); (2) **then Casey resumes here**, from exactly where day 4 stopped; (3) **then the full, complete inspiration-pick research for the other remaining cities of the Mirny subnet.**
+- **Measurement note:** the Casey run's token figures stay in this log; they are not part of the Kunlun ULM measurement, and no Casey
+  agent runs while Kunlun runs.
+
 ## Documents wanted (for the developer to obtain, if they choose)
 
 *Started 2026-11-20 at the developer's ruling. Seeded from the agents' final reports only; the finished files' refused-page lists were not

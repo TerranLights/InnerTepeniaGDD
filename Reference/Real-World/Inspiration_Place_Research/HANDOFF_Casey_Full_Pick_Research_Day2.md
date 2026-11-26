@@ -3,9 +3,12 @@
 **Written 2026-11-20, about 19:45, by the session that ran day 1. ⭐ Updated 2026-11-21, about 06:50, at the close of day 2: §2, §3,
 §4 and the new §7 are current; read them as the state to resume from.** ⭐⭐ **Updated again 2026-11-21, about 09:50, at the close of
 day 3: §2, §3, §4 and §7 are current; §8 is new.** ⭐⭐⭐ **Updated again 2026-11-21, about 12:50, at the close of day 4: §2, §3, §4
-and §7 are current. The run is PAUSED until "the following week after next" (developer): the weekly allotment read 92% and next week
-is the DCI. Do not resume before the developer says so.** The developer hands this file to a new session with a fresh
-web-search budget. The job is unchanged: research every remaining row of Casey's candidate list, two rounds each, and record coverage.
+and §7 are current; §8 updated. The run was PAUSED at day 4's close until "the following week after next" (developer): the weekly
+allotment read 92% and the week of 2026-11-22 is the DCI.** **Schedule (developer, 2026-11-21, confirmed and extended
+2026-11-25):** **Order of work (developer, 2026-11-25):** (1) from Sunday 2026-11-29 morning, the **Kunlun ULM run**, in its own fresh session, on a clean, empty weekly allotment, to measure what one ULM run costs (nothing else runs alongside it); (2) **then Casey resumes here**, from exactly where day 4 stopped; (3) **then the full, complete inspiration-pick research for the other remaining cities of the Mirny subnet.** *"Probably sometime around December 2nd"* (2026-11-21) is an estimate; **resume only when the Kunlun run is
+finished and the developer hands this file over.** Never run Casey in the Kunlun session (one city per fresh session). **▶ START HERE (day 5): a session the developer hands this file to IS the
+resume. Read §1, check §2 against `_TRACKER.md`, then begin at §4 item 1 (C18 R2, C19 R2, C20 R1 at once).** The developer hands this
+file to a new session with a fresh web-search budget. The job is unchanged: research every remaining row of Casey's candidate list, two rounds each, and record coverage.
 **Research only:** no Casey ULM, CST or RWBEM work.
 
 ## 1 · Read first, in this order
@@ -31,7 +34,7 @@ unless something in an input file looks wrong.
 | In progress | **none** (no ◐; nothing running at close) |
 | Not started | **C18 Round 2, C19 Round 2, C20 (both rounds)**: 4 unit-rounds, 18 rows. No C20 file exists yet |
 | Queued last | **A gap-fill pass on C01, C12, C05 and C04** after C20 Round 2 (rulings of 2026-11-20 and 2026-11-21 06:40). **Open: whether C17 joins it** (§7) |
-| Repo | see the log's day-4 session close; commit and push only if the developer asks |
+| Repo | **committed and pushed at `fa0591ae`** (2026-11-21, day 4's work and this handoff's state); working tree clean of Casey files |
 
 *Day-1 state: C01, C02, C03, C05, C07, C12 done. Day 2: C01–C12 done. Day 3: C01–C15 done, C16 R1.*
 
@@ -41,10 +44,12 @@ unless something in an input file looks wrong.
 - **Units are built and partly done** (above), so the day-1 handoff's §4.1 and §9 no longer apply.
 - **Search budget, measured:** the first refusal came at **1,528** searches, 5 h 26 min after the session started: ~1,000 at start plus
   **~97 an hour**. Per unit at full depth: Round 1 ≈ 145–165 searches, Round 2 ≈ 130–165. **So a long session finishes about five
-  units (both rounds).** 14 units remain, so about three sessions, then the gap-fill pass.
+  units (both rounds).** *(Day 4: 4 unit-rounds remain, C18 R2, C19 R2, C20 R1 and R2, ≈ 600 searches: one morning, then the
+  gap-fill pass.)*
 - **Cost:** about 1.1 million tokens per unit (both rounds). Developer's rule of thumb: about 1M tokens ≈ 1% of the weekly allotment.
   **Ask the developer for a meter reading at the start**, and between units when convenient; log each with its time.
-  ⚠ *Day 2: the developer declined the meter reading* ("it's web research for a different city that's outside of what we've already
+  ⚠ *Days 2, 3 and 4: the developer declined the meter reading* (day 4: work running in another session would corrupt it; they
+  reported **92%** at 11:44 on 2026-11-21, when they paused the run). *Day 2's words:* ("it's web research for a different city that's outside of what we've already
   measured, it would corrupt the calculation readings"). Ask again at the start; if declined, go ahead without it.
 - **Day-2 measurements (2026-11-20 20:30 → 11-21 06:41):** 12 unit-rounds, **1,665 searches with no refusal** (the 1,000 + ~97 an hour
   model held throughout); **7.23M agent tokens** (≈ 602k a unit-round). R1s used 106–165 searches, R2s 94–153. The first ~5 unit-rounds
@@ -52,6 +57,9 @@ unless something in an input file looks wrong.
 - **Depth (developer, 2026-11-20 ~22:00):** when picks come back under ~30 searches with the empty angles listed, *"If those are the
   results that come in, then there's not really a whole lot that can be done about that."* Keep the prompt as is and accept them;
   a whole unit that comes back thin (as C04 did) is raised with the developer for the gap-fill pass.
+- **`DR-146` (developer, 2026-11-25, every city):** *"I don't want these results "quickly". What I want is for you to get it \*right\*."*
+  All of the picks, not only the labeled ones; any run may take as many sessions as the web-search allotment requires. Never thin a unit,
+  a round or a list to fit a session.
 - **Day-3 measurements (2026-11-21 06:47 → 09:45):** 7 unit-rounds, **1,026 searches with no refusal**; **4,095,751 agent tokens**
   (≈ 585k a unit-round). R1s used 147–166 searches, R2s 115–150. The opening 1,000 carried five unit-rounds (three R1s at once, then
   R2s as returns freed budget); after ~09:00 the refill set the pace again.
@@ -116,8 +124,9 @@ recent emigration of its IT workers; land expropriation, pollution disputes and 
 railway workers' history at Uyuni. **Check the input's care notes** (Ani's distance; Hsinchu's founding and spin-off dates).
 
 **At most four agents at once.** Budget on the **worst case** (270 searches per unit-round) and keep a reserve of about 100; the refill
-lets a fifth or sixth unit-round go out later in the day. **On a refusal:** the agent stops with a STOP note; stop dispatching, mark ◐,
-log it, tell the developer. Never work around it.
+lets a fifth or sixth unit-round go out later in the day. **On a refusal** (the search budget **or** the account's 5-hour usage limit,
+§3): the agent stops with a STOP note; stop dispatching, mark ◐, log it, tell the developer. Never work around it. After a usage-limit
+reset, re-dispatch the same prompt with a resume line naming the STOP note (day 4's C18 resume, in the log's 11:42 row, is the model).
 
 **After each return:** open the output file, check the PROGRESS block (every pick and FINAL ticked) and the per-pick search lines, grep
 it for the city's name (only unit labels should match), then `python3 Worldspace/Locations-and-Levels/Universal_Location_Methodology/Tools/inspiration_tracker_set.py Casey_C<nn> <1|2> ✅`
@@ -151,7 +160,7 @@ took it up.)*
 >
 > Follow the Round 1 brief in the protocol file for each pick: verify the claim the input makes, then collect the facts the brief asks for (setting, the people and how they got there, work and daily life, institutions and customs, festivals, hardships). Tag findings with the K kinds, and the optional [P3]-[P10], [SM:...] and [R] tags where they plainly apply. Cover everyday behavior rules (kind K6: are there any such rules? if so what, how they work, who enforces them; "none found" is valid). Where a pick is a tradition, network or occupation rather than a single place, research the thing itself and two or three well-documented places where it was or is practiced, as the brief says.
 >
-> Research FULLY and by the book: a recalled fact is a guess; open and read pages (WebFetch) rather than reporting from snippets; mark each claim SOURCED or UNVERIFIED; log exact search strings and dead ends (and whether each died at the query or at the sources). Use WebSearch in standard mode first and in extended mode for hard-to-find facts. Query each pick from several angles (official and municipal sites, local newspapers and their archives, local-language sources, regional archives, historical societies, university and academic work, oral histories, museum pages); do not stop at the first useful hit. If a search tool tells you the session's search budget is used up, STOP: write a STOP note in your file giving exactly where you stopped, do not work around the limit by any other means, and report it. If a page is refused or blocked, note it and move on; never request that same page again by any route. Other pages on the same site may each be tried. Use only WebSearch and WebFetch to reach the web: no curl, wget or other shell downloads, proxies, reader services or archive copies. If WebFetch saves a binary file (such as a PDF) and tells you where, you may read that saved file locally; if a page is too large for WebFetch, log it as NOT READ. In your FINAL section, under WANTED, list any document that would materially help but could not be read (citation or URL, and why); do not fetch it by any other route. Report sensitive histories neutrally and plainly. Do not compare places to each other and do not write about any fictional setting. American English.
+> Research FULLY and by the book: a recalled fact is a guess; open and read pages (WebFetch) rather than reporting from snippets; mark each claim SOURCED or UNVERIFIED; log exact search strings and dead ends (and whether each died at the query or at the sources). Use WebSearch in standard mode first and in extended mode for hard-to-find facts. Query each pick from several angles (official and municipal sites, local newspapers and their archives, local-language sources, regional archives, historical societies, university and academic work, oral histories, museum pages); do not stop at the first useful hit. If a search tool tells you the session's search budget or a usage limit is used up, STOP: write a STOP note in your file giving exactly where you stopped, do not work around the limit by any other means, and report it. If a page is refused or blocked, note it and move on; never request that same page again by any route. Other pages on the same site may each be tried. Use only WebSearch and WebFetch to reach the web: no curl, wget or other shell downloads, proxies, reader services or archive copies. If WebFetch saves a binary file (such as a PDF) and tells you where, you may read that saved file locally; if a page is too large for WebFetch, log it as NOT READ. In your FINAL section, under WANTED, list any document that would materially help but could not be read (citation or URL, and why); do not fetch it by any other route. Report sensitive histories neutrally and plainly. Do not compare places to each other and do not write about any fictional setting. American English.
 >
 > SEARCH BUDGET: at most 45 WebSearch calls per pick (at most 270 for the whole unit). 45 is a ceiling, not a target, but the precedent for full depth in this project is about 40 searches per pick. If you close a pick with far fewer than about 30 searches, say in that pick's section which further angles you tried and that they came back with nothing new. Keep a running count: at the end of each pick's section write `WebSearch calls for this pick: <n>`, and in the FINAL section write the unit totals of WebSearch and WebFetch calls.
 >
@@ -191,6 +200,9 @@ rounds (R1 avg 15 a pick, R2 avg 22; 224 over both rounds, against C04's 200 tha
 together with the brief format.
 
 ## 8 · Another session's files in the same folders (added at the close of day 3)
+
+*Day 4 close: the Amundsen files listed below were no longer untracked (that session committed them); the rules below still hold
+for anything it writes next.*
 
 **Developer ruling, 2026-11-21 ~08:25:** Amundsen-Scott Station work runs in a **separate session**, not in a Casey session (the
 one-location rule; and Casey's C14 researched Timbuktu while Amundsen has its own Timbuktu research unit). That session is writing
