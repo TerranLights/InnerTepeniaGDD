@@ -32,7 +32,9 @@ their summaries. The method lessons you need from that run are in §3 below, sta
   weekly model allotment, start to finish.
 - **A clean, empty allotment (developer, 2026-11-25).** The developer will start the run on an empty weekly allotment. **Before any agent
   runs, ask for the reading and record it** as the first line of `RUN_PROGRESS_Kunlun.md` and in `TOKEN_LOG_Kunlun.md`'s meter table, with
-  the time. If the reading is not zero, record it as given, with the developer's note of what used it.
+  the time. **The developer has said it will read `0%`** (2026-11-25: *"at the beginning of Sunday morning, the meter reading will be
+  `0%`, because I need to gather accurate readings on how much weekly model allotment resources one `[1]` individual ULM run actually
+  requires"*). Still ask and record the figure the developer gives; if it is not zero, record it as given, with their note of what used it.
 - **Nothing else runs during the run:** no DCI session, no Casey work, no other research. If anything else is running, tell the developer
   at once. Casey's pick research is paused and resumes only after this run (§5).
 - **Meter readings:** at the start, at every morning's close if the developer is present, and at the end (as `ULM_Token_Measurements.md`'s
